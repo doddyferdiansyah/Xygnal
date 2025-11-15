@@ -1,1 +1,121 @@
+/* Import font yang modern dan 'lembut' dari Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap');
 
+/* ---- Variabel Warna (Sesuai Permintaan Anda) ---- */
+:root {
+    /* Putih sebagai dasar, tapi sedikit 'off-white' agar lebih lembut di mata */
+    --color-bg: #f8f9fa;
+    --color-card-bg: #ffffff; /* Kartu berita tetap putih bersih */
+    
+    /* Biru profesional sebagai warna utama */
+    --color-blue: #0D47A1; /* Biru tua untuk judul/header */
+    
+    /* Emas sebagai aksen, tidak norak */
+    --color-gold: #d4af37; /* Emas yang sedikit redup/elegan */
+    
+    /* Warna teks: tidak hitam pekat, tapi abu-abu tua agar lembut */
+    --color-text: #333333;
+    --color-text-secondary: #757575; /* Abu-abu untuk info meta (sumber, waktu) */
+    
+    --border-color: #eeeeee;
+}
+
+/* ---- Gaya Global (Berlaku di semua halaman) ---- */
+body {
+    font-family: 'Inter', sans-serif; /* Menggunakan font Inter yang kita import */
+    background-color: var(--color-bg);
+    color: var(--color-text);
+    margin: 0;
+    padding: 0;
+    line-height: 1.6; /* Jarak antar baris agar mudah dibaca */
+}
+
+/* ---- Header (Judul Xygnal) ---- */
+header {
+    background-color: var(--color-card-bg);
+    padding: 20px 40px;
+    border-bottom: 1px solid var(--border-color);
+    text-align: center; /* Sesuai selera pembaca Indonesia, jelas di tengah */
+}
+
+header h1 {
+    margin: 0;
+    color: var(--color-blue);
+    font-size: 2.5rem; /* 2.5 kali ukuran font normal */
+}
+
+header p {
+    margin: 0;
+    color: var(--color-text-secondary);
+    font-style: italic;
+}
+
+/* ---- Konten Utama (Wadah Berita) ---- */
+main {
+    max-width: 800px; /* Lebar maksimal agar teks tidak terlalu panjang, nyaman dibaca */
+    margin: 40px auto; /* Menengahkan konten utama */
+    padding: 0 20px; /* Beri jarak di sisi kiri/kanan pada layar kecil */
+}
+
+/* ---- Desain Kartu Berita (Paling Penting) ---- */
+.card {
+    background-color: var(--color-card-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 12px; /* Sudut tumpul yang lembut */
+    margin-bottom: 25px; /* Jarak antar kartu berita */
+    padding: 25px;
+    
+    /* Ini adalah aksen emas yang Bapak minta. 
+       Hanya garis tipis di atas, sangat elegan. */
+    border-top: 4px solid var(--color-gold);
+    
+    /* Animasi sederhana: bayangan yang halus */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    
+    /* Ini adalah inti dari "animasi sederhana" */
+    transition: all 0.3s ease-in-out;
+}
+
+/* Saat mouse di atas kartu, kartu akan sedikit terangkat */
+.card:hover {
+    transform: translateY(-5px); /* Bergerak ke atas 5px */
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1); /* Bayangan lebih jelas */
+}
+
+/* Judul berita di dalam kartu */
+.card h3 {
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: 1.5rem;
+}
+
+/* Link judul berita */
+.card h3 a {
+    text-decoration: none; /* Hilangkan garis bawah */
+    color: var(--color-text);
+    transition: color 0.2s;
+}
+
+/* Saat mouse di atas judul, warna berubah jadi Biru */
+.card h3 a:hover {
+    color: var(--color-blue);
+}
+
+/* Ringkasan berita */
+.card .summary {
+    color: var(--color-text-secondary);
+    margin-bottom: 20px;
+}
+
+/* Info Meta (Sumber & Waktu) */
+.card .meta {
+    display: flex;
+    justify-content: space-between; /* Posisi 'Sumber' di kiri, 'Waktu' di kanan */
+    font-size: 0.9rem;
+    color: var(--color-text-secondary);
+}
+
+.card .meta .source {
+    font-weight: 700; /* Tebal */
+    color: var(--color-blue); /* Kita pakai biru di sini agar konsisten */
+}
