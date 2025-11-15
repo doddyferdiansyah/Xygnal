@@ -119,3 +119,40 @@ main {
     font-weight: 700; /* Tebal */
     color: var(--color-blue); /* Kita pakai biru di sini agar konsisten */
 }
+
+/* ---- Gaya untuk Tombol Filter ---- */
+#filter-container {
+    display: flex; /* Membuat tombol berjejer ke samping */
+    flex-wrap: wrap; /* Jika tidak muat, akan pindah ke baris baru (responsif) */
+    justify-content: center; /* Menengahkan tombol-tombol */
+    gap: 10px; /* Jarak antar tombol */
+    margin-bottom: 30px; /* Jarak dari tombol ke daftar berita */
+}
+
+.filter-btn {
+    font-family: 'Inter', sans-serif; /* Pastikan font-nya sama */
+    font-size: 0.9rem;
+    font-weight: 500;
+    padding: 8px 16px; /* Ukuran tombol */
+    border: 1px solid var(--border-color); /* Garis batas lembut */
+    background-color: var(--color-card-bg); /* Warna dasar putih */
+    color: var(--color-blue); /* Warna teks biru */
+    border-radius: 20px; /* Membuatnya berbentuk "pil" */
+    cursor: pointer;
+    
+    /* Animasi transisi yang halus */
+    transition: all 0.2s ease-in-out;
+}
+
+/* Saat mouse di atas tombol */
+.filter-btn:hover {
+    background-color: var(--color-bg); /* Warna abu-abu lembut */
+    border-color: #dddddd;
+}
+
+/* Tombol yang sedang AKTIF (diklik) */
+.filter-btn.active {
+    background-color: var(--color-blue); /* Warna biru utama */
+    color: var(--color-card-bg); /* Teks jadi putih */
+    border-color: var(--color-blue); /* Garis batas biru */
+}
