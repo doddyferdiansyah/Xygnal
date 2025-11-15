@@ -8,6 +8,12 @@ on:
   # 2. Juga bisa dijalankan manual (ada tombol "Run workflow" di tab Actions)
   workflow_dispatch:
 
+# --- INI BAGIAN BARU YANG KITA TAMBAHKAN ---
+# Memberi izin 'tulis' pada 'Asisten' agar bisa 'git push'
+permissions:
+  contents: write
+# ---------------------------------------------
+
 jobs:
   build:
     runs-on: ubuntu-latest
