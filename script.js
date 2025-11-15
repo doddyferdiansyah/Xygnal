@@ -4,9 +4,13 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- 1. DEKLARASI VARIABEL ---
     const container = document.getElementById('berita-container');
     const filterButtons = document.querySelectorAll('.filter-btn');
+    const searchBar = document.getElementById('search-bar'); // Variabel baru
     
-    // Variabel ini akan menyimpan SEMUA berita dari JSON
-    let allNews = [];
+    let allNews = []; // Akan menyimpan SEMUA berita
+    
+    // Variabel untuk menyimpan filter aktif
+    let currentFilter = 'all'; 
+    let currentSearchTerm = '';
 
     // --- 2. FUNGSI UTAMA PENGAMBIL DATA ---
     async function ambilBerita() {
@@ -17,12 +21,10 @@ document.addEventListener('DOMContentLoaded', () => {
             }
             
             const berita = await response.json();
-            
-            // Simpan berita ke variabel global kita
             allNews = berita; 
             
             // Tampilkan SEMUA berita saat pertama kali dimuat
-            tampilkanBerita('all'); 
+            tampilkanBerita(); 
 
         } catch (error) {
             console.error('Error mengambil berita:', error);
@@ -30,28 +32,45 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
-    // --- 3. FUNGSI UNTUK MENAMPILKAN BERITA (DENGAN FILTER) ---
-    function tampilkanBerita(sumberFilter) {
+    // --- 3. FUNGSI UNTUK MENAMPILKAN BERITA (SUDAH DIPERBARUI) ---
+    // Fungsi ini sekarang akan memeriksa filter DAN search bar
+    function tampilkanBerita() {
         // Kosongkan dulu wadah berita
         container.innerHTML = '';
 
-        // Tentukan berita mana yang mau ditampilkan
-        let beritaYangDitampilkan = [];
-        if (sumberFilter === 'all') {
-            beritaYangDitampilkan = allNews;
+        // --- Logika Filter ---
+        let beritaYangDisaring = [];
+        if (currentFilter === 'all') {
+            beritaYangDisaring = allNews;
         } else {
-            // Filter array 'allNews' berdasarkan sumber yang dipilih
-            beritaYangDitampilkan = allNews.filter(artikel => artikel.source === sumberFilter);
+            beritaYangDisaring = allNews.filter(artikel => artikel.source === currentFilter);
         }
 
-        // Jika hasil filter kosong
-        if (beritaYangDitampilkan.length === 0) {
-            container.innerHTML = '<p style="text-align: center;">Tidak ada berita untuk sumber ini.</p>';
+        // --- Logika Pencarian ---
+        // 'finalNews' adalah hasil setelah difilter DAN dicari
+        let finalNews = [];
+        if (currentSearchTerm === '') {
+            finalNews = beritaYangDisaring;
+        } else {
+            // Ubah kata kunci pencarian ke huruf kecil
+            const searchTermLower = currentSearchTerm.toLowerCase();
+            
+            finalNews = beritaYangDisaring.filter(artikel => {
+                // Cek apakah kata kunci ada di 'title' ATAU 'summary'
+                const titleMatch = artikel.title.toLowerCase().includes(searchTermLower);
+                const summaryMatch = artikel.summary.toLowerCase().includes(searchTermLower);
+                return titleMatch || summaryMatch;
+            });
+        }
+        
+        // --- Menampilkan hasil akhir ---
+        if (finalNews.length === 0) {
+            container.innerHTML = '<p style="text-align: center;">Tidak ada berita yang cocok dengan pencarian Anda.</p>';
             return;
         }
 
-        // Loop setiap artikel di dalam data JSON yang sudah difilter
-        beritaYangDitampilkan.forEach(artikel => {
+        // Loop setiap artikel di dalam data JSON yang sudah difilter & dicari
+        finalNews.forEach(artikel => {
             const kartu = document.createElement('article');
             kartu.className = 'card';
 
@@ -80,24 +99,30 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    // --- 4. TAMBAHKAN LISTENER UNTUK TOMBOL FILTER ---
+    // --- 4. LISTENER UNTUK TOMBOL FILTER ---
     filterButtons.forEach(button => {
         button.addEventListener('click', () => {
+            currentFilter = button.getAttribute('data-source'); // Update filter aktif
             
-            // 1. Dapatkan nama sumber dari tombol yang diklik
-            const sumber = button.getAttribute('data-source');
-
-            // 2. Atur tampilan tombol "active"
-            // Hapus 'active' dari SEMUA tombol
+            // Atur tampilan tombol "active"
             filterButtons.forEach(btn => btn.classList.remove('active'));
-            // Tambahkan 'active' HANYA ke tombol yang diklik
             button.classList.add('active');
 
-            // 3. Panggil ulang fungsi tampilkanBerita dengan filter baru
-            tampilkanBerita(sumber);
+            // Panggil ulang fungsi tampilkanBerita
+            tampilkanBerita();
         });
     });
 
-    // --- 5. JALANKAN FUNGSI UTAMA ---
+    // --- 5. LISTENER BARU UNTUK SEARCH BAR ---
+    // 'input' berarti event ini jalan SETIAP KALI pengguna mengetik
+    searchBar.addEventListener('input', (e) => {
+        // Update kata kunci pencarian
+        currentSearchTerm = e.target.value;
+        
+        // Panggil ulang fungsi tampilkanBerita
+        tampilkanBerita();
+    });
+
+    // --- 6. JALANKAN FUNGSI UTAMA ---
     ambilBerita();
 });
