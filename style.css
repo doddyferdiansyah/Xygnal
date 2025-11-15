@@ -156,3 +156,32 @@ main {
     color: var(--color-card-bg); /* Teks jadi putih */
     border-color: var(--color-blue); /* Garis batas biru */
 }
+
+/* ---- Gaya untuk Search Bar ---- */
+#search-container {
+    width: 100%; /* Lebar penuh */
+    margin-bottom: 20px; /* Jarak ke tombol filter */
+}
+
+#search-bar {
+    width: 100%; /* Lebar penuh wadahnya */
+    padding: 12px 20px; /* Padding di dalam kotak */
+    font-size: 1rem;
+    font-family: 'Inter', sans-serif;
+    color: var(--color-text);
+    background-color: var(--color-card-bg); /* Warna putih seperti kartu */
+    border: 1px solid var(--border-color); /* Garis batas lembut */
+    border-radius: 25px; /* Bentuk "pil" yang sama dengan tombol */
+    
+    /* Penting agar padding tidak merusak lebar */
+    box-sizing: border-box; 
+    
+    transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+/* Saat di-klik (focus) */
+#search-bar:focus {
+    outline: none; /* Hilangkan outline default */
+    border-color: var(--color-blue); /* Garis batas jadi biru */
+    box-shadow: 0 0 0 3px rgba(13, 71, 161, 0.1); /* Efek 'glow' biru lembut */
+}
