@@ -10,7 +10,7 @@ RSS_FEEDS = {
     "BleepingComputer": "https://www.bleepingcomputer.com/feed/",
     "Dark Reading": "https://www.darkreading.com/rss.xml",
     "SecurityWeek": "https://feeds.feedburner.com/securityweek",
-    "CISA": "https://www.cisa.gov/news.xml"
+    "CISA": "https://www.cisa.gov/news.xml",
     "KrebsOnSecurity": "https://krebsonsecurity.com/feed/",
     "InfosecurityMag": "https://www.infosecurity-magazine.com/rss/news/",
     "CSO Online": "https://www.csoonline.com/feed/",
