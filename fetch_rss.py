@@ -6,11 +6,11 @@ from datetime import datetime, timezone
 # DAFTAR RSS FEED KITA (Bahan Baku)
 # Kita bisa tambah atau kurangi daftar ini kapan saja
 RSS_FEEDS = {
-    "The Hacker News": "https://feeds.feedburner.com/TheHackerNews",
+    "The Hacker News": "https://feeds.feedburner.com/TheHackersNews", 
     "BleepingComputer": "https://www.bleepingcomputer.com/feed/",
-    "Dark Reading": "https://www.darkreading.com/rss_simple.asp",
-    "SecurityWeek": "https://www.securityweek.com/feed/",
-    "CISA": "https://www.cisa.gov/feeds/all.xml"
+    "Dark Reading": "https://www.darkreading.com/rss.xml",
+    "SecurityWeek": "https://feeds.feedburner.com/securityweek",
+    "CISA": "https://www.cisa.gov/news.xml"
 }
 
 def parse_date(entry):
