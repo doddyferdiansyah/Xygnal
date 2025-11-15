@@ -7,11 +7,25 @@
         "published_utc": "2025-12-03T16:00:00+00:00"
     },
     {
+        "source": "BleepingComputer",
+        "title": "Microsoft: Windows 10 KB5068781 ESU update may fail with 0x800f0922 errors",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5068781-esu-update-may-fail-with-0x800f0922-errors/",
+        "summary": "Microsoft has confirmed it is investigating a bug causing the Windows 10 KB5068781 extended security update to fail to install with 0x800f0922 errors ...",
+        "published_utc": "2025-11-15T20:42:45+00:00"
+    },
+    {
+        "source": "ZDNet Security",
+        "title": "Best Buy just cut the prices for dozens of Black Friday deals - I've hand-picked early discounts live now up to $800 off",
+        "link": "https://www.zdnet.com/article/best-early-black-friday-best-buy-deals-2025/",
+        "summary": "From TVs to earbuds, Best Buy's holiday savings kicked off early in 2025. These are my favorite deals available now, including the Dyson V11 vacuum fo...",
+        "published_utc": "2025-11-15T20:35:36+00:00"
+    },
+    {
         "source": "ZDNet Security",
         "title": "Walmart's Black Friday sale is officially here: I'm tracking my favorite discounts up to 60% off live",
         "link": "https://www.zdnet.com/article/best-early-black-friday-walmart-deals-live-now/",
-        "summary": "It's day two of Walmart's early Black Friday sale, with big discounts on AirPods, TVs, laptops, and more. Don't miss your chance to save over $1,300 o...",
-        "published_utc": "2025-11-15T18:47:51+00:00"
+        "summary": "It's day two of Walmart's early Black Friday sale, with big discounts on AirPods, TVs, laptops, and more (don't miss your chance to save over $1,300 o...",
+        "published_utc": "2025-11-15T20:30:46+00:00"
     },
     {
         "source": "BleepingComputer",
@@ -19,13 +33,6 @@
         "link": "https://www.bleepingcomputer.com/news/security/decades-old-finger-protocol-abused-in-clickfix-malware-attacks/",
         "summary": "The decades-old \"finger\" command is making a comeback,, with threat actors using the protocol to retrieve remote commands to execute on Windows device...",
         "published_utc": "2025-11-15T18:46:19+00:00"
-    },
-    {
-        "source": "ZDNet Security",
-        "title": "Best Buy just cut the prices for dozens of Black Friday deals - I've hand-picked early discounts live now up to $800 off",
-        "link": "https://www.zdnet.com/article/best-early-black-friday-best-buy-deals-2025/",
-        "summary": "From TVs to earbuds, Best Buy's holiday savings kicked off early in 2025. These are my favorite deals available now, including the Dyson V11 vacuum fo...",
-        "published_utc": "2025-11-15T18:00:40+00:00"
     },
     {
         "source": "The Hacker News",
@@ -565,13 +572,6 @@
         "link": "https://www.darkreading.com/cyber-risk/how-cisos-can-best-work-with-ceos-and-the-board-lessons-from-the-field",
         "summary": "To build an effective relationship with the CEO and board, CISOs must translate technical risks into business terms and position cybersecurity as a st...",
         "published_utc": "2025-11-13T23:40:55+00:00"
-    },
-    {
-        "source": "BleepingComputer",
-        "title": "Kraken ransomware benchmarks systems for optimal encryption choice",
-        "link": "https://www.bleepingcomputer.com/news/security/kraken-ransomware-benchmarks-systems-for-optimal-encryption-choice/",
-        "summary": "The Kraken ransomware, which targets Windows, Linux/VMware ESXi systems, is testing machines to check how fast it can encrypt data without overloading...",
-        "published_utc": "2025-11-13T22:53:45+00:00"
     },
     {
         "source": "The Hacker News",
@@ -1310,16 +1310,16 @@
     },
     {
         "source": "Dark Reading",
-        "title": "Risk 'Comparable' to SolarWinds Incident Lurks in Popular Software Update Tool",
-        "link": "https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update",
-        "summary": "Some of the world's biggest technology companies use a program liable to introduce malware into their software. The potential consequences are stagger...",
+        "title": "Closing the AI Execution Gap in Cybersecurity — A CISO Framework",
+        "link": "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework",
+        "summary": "CISOs must navigate five critical dimensions of AI in cybersecurity: augmenting security with AI, automating security with AI, protecting AI systems, ...",
         "published_utc": "2025-11-05T14:00:00+00:00"
     },
     {
         "source": "Dark Reading",
-        "title": "Closing the AI Execution Gap in Cybersecurity — A CISO Framework",
-        "link": "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework",
-        "summary": "CISOs must navigate five critical dimensions of AI in cybersecurity: augmenting security with AI, automating security with AI, protecting AI systems, ...",
+        "title": "Risk 'Comparable' to SolarWinds Incident Lurks in Popular Software Update Tool",
+        "link": "https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update",
+        "summary": "Some of the world's biggest technology companies use a program liable to introduce malware into their software. The potential consequences are stagger...",
         "published_utc": "2025-11-05T14:00:00+00:00"
     },
     {
