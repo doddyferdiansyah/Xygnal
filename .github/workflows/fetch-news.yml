@@ -1,0 +1,49 @@
+name: Fetch Xygnal News Feed
+
+on:
+  # 1. Menjalankan setiap 1 jam sekali (cron job)
+  schedule:
+    - cron: '0 * * * *'
+  
+  # 2. Juga bisa dijalankan manual (ada tombol "Run workflow" di tab Actions)
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Langkah 1: 'Checkout' kode Anda
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Langkah 2: Siapkan lingkungan Python
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      # Langkah 3: Install library 'feedparser' yang dibutuhkan skrip kita
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install feedparser
+
+      # Langkah 4: Jalankan skrip Python untuk mengambil berita
+      - name: Run feed fetch script
+        run: python fetch_rss.py
+
+      # Langkah 5: Simpan (commit) file 'berita.json' yang baru dibuat
+      - name: Commit and push if files changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add berita.json
+          
+          # Cek apakah ada perubahan, jika ya, baru commit
+          if ! git diff --staged --quiet; then
+            git commit -m "Update berita.json feed"
+            git push
+          else
+            echo "Tidak ada perubahan berita, tidak perlu commit."
+          fi
