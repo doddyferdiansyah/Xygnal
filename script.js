@@ -1,23 +1,28 @@
 // Menunggu sampai seluruh halaman HTML selesai dimuat
 document.addEventListener('DOMContentLoaded', () => {
     
-    // 1. Tentukan di mana kita akan menampilkan berita
+    // --- 1. DEKLARASI VARIABEL ---
     const container = document.getElementById('berita-container');
+    const filterButtons = document.querySelectorAll('.filter-btn');
+    
+    // Variabel ini akan menyimpan SEMUA berita dari JSON
+    let allNews = [];
 
-    // 2. Fungsi untuk mengambil data dari berita.json
+    // --- 2. FUNGSI UTAMA PENGAMBIL DATA ---
     async function ambilBerita() {
         try {
-            // Kita tambahkan 'cache-buster' agar browser selalu ambil versi terbaru
             const response = await fetch(`berita.json?v=${new Date().getTime()}`);
-            
             if (!response.ok) {
                 throw new Error(`Gagal memuat berita: ${response.statusText}`);
             }
             
             const berita = await response.json();
             
-            // 3. Panggil fungsi untuk menampilkan berita
-            tampilkanBerita(berita);
+            // Simpan berita ke variabel global kita
+            allNews = berita; 
+            
+            // Tampilkan SEMUA berita saat pertama kali dimuat
+            tampilkanBerita('all'); 
 
         } catch (error) {
             console.error('Error mengambil berita:', error);
@@ -25,24 +30,31 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
-    // 4. Fungsi untuk mengubah data JSON menjadi kartu HTML
-    function tampilkanBerita(berita) {
-        // Kosongkan dulu pesan "Memuat berita..."
+    // --- 3. FUNGSI UNTUK MENAMPILKAN BERITA (DENGAN FILTER) ---
+    function tampilkanBerita(sumberFilter) {
+        // Kosongkan dulu wadah berita
         container.innerHTML = '';
 
-        // Jika tidak ada berita (file JSON kosong)
-        if (berita.length === 0) {
-            container.innerHTML = '<p style="text-align: center;">Tidak ada berita terbaru saat ini.</p>';
+        // Tentukan berita mana yang mau ditampilkan
+        let beritaYangDitampilkan = [];
+        if (sumberFilter === 'all') {
+            beritaYangDitampilkan = allNews;
+        } else {
+            // Filter array 'allNews' berdasarkan sumber yang dipilih
+            beritaYangDitampilkan = allNews.filter(artikel => artikel.source === sumberFilter);
+        }
+
+        // Jika hasil filter kosong
+        if (beritaYangDitampilkan.length === 0) {
+            container.innerHTML = '<p style="text-align: center;">Tidak ada berita untuk sumber ini.</p>';
             return;
         }
 
-        // Loop setiap artikel di dalam data JSON
-        berita.forEach(artikel => {
-            // Buat elemen 'article' baru dengan class 'card'
+        // Loop setiap artikel di dalam data JSON yang sudah difilter
+        beritaYangDitampilkan.forEach(artikel => {
             const kartu = document.createElement('article');
             kartu.className = 'card';
 
-            // Mengubah format waktu (dari UTC ke lokal)
             const waktuPublikasi = new Date(artikel.published_utc);
             const waktuLokal = waktuPublikasi.toLocaleString('id-ID', {
                 day: 'numeric',
@@ -52,7 +64,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 minute: '2-digit'
             });
 
-            // Isi HTML untuk kartu tersebut
             kartu.innerHTML = `
                 <h3>
                     <a href="${artikel.link}" target="_blank" rel="noopener noreferrer">
@@ -65,12 +76,28 @@ document.addEventListener('DOMContentLoaded', () => {
                     <span class="time">${waktuLokal}</span>
                 </div>
             `;
-
-            // Tambahkan kartu baru ini ke dalam wadah
             container.appendChild(kartu);
         });
     }
 
-    // 5. Jalankan fungsi utamanya!
+    // --- 4. TAMBAHKAN LISTENER UNTUK TOMBOL FILTER ---
+    filterButtons.forEach(button => {
+        button.addEventListener('click', () => {
+            
+            // 1. Dapatkan nama sumber dari tombol yang diklik
+            const sumber = button.getAttribute('data-source');
+
+            // 2. Atur tampilan tombol "active"
+            // Hapus 'active' dari SEMUA tombol
+            filterButtons.forEach(btn => btn.classList.remove('active'));
+            // Tambahkan 'active' HANYA ke tombol yang diklik
+            button.classList.add('active');
+
+            // 3. Panggil ulang fungsi tampilkanBerita dengan filter baru
+            tampilkanBerita(sumber);
+        });
+    });
+
+    // --- 5. JALANKAN FUNGSI UTAMA ---
     ambilBerita();
 });
