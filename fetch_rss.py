@@ -73,7 +73,7 @@ def fetch_all_feeds():
     all_entries.sort(key=lambda x: x['published_utc'], reverse=True)
 
     # Ambil 50 berita terbaru saja
-    top_entries = all_entries[:175]
+    top_entries = all_entries[:500]
 
     # Simpan ke file JSON
     try:
