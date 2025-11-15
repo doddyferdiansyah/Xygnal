@@ -11,6 +11,16 @@ RSS_FEEDS = {
     "Dark Reading": "https://www.darkreading.com/rss.xml",
     "SecurityWeek": "https://feeds.feedburner.com/securityweek",
     "CISA": "https://www.cisa.gov/news.xml"
+    "KrebsOnSecurity": "https://krebsonsecurity.com/feed/",
+    "InfosecurityMag": "https://www.infosecurity-magazine.com/rss/news/",
+    "CSO Online": "https://www.csoonline.com/feed/",
+    "Threatpost": "https://threatpost.com/feed/",
+    "WIRED Security": "https://www.wired.com/feed/category/security/rss",
+    "NVD (NIST)": "https://nvd.nist.gov/feeds/xml/cve/misc/nvd-rss.xml",
+    "WeLiveSecurity": "https://www.welivesecurity.com/feed/",
+    "Schneier": "https://www.schneier.com/feed/",
+    "PortSwigger": "https://portswigger.net/daily-swig/rss",
+    "ZDNet Security": "https://www.zdnet.com/topic/security/rss.xml"
 }
 
 def parse_date(entry):
@@ -63,7 +73,7 @@ def fetch_all_feeds():
     all_entries.sort(key=lambda x: x['published_utc'], reverse=True)
 
     # Ambil 50 berita terbaru saja
-    top_entries = all_entries[:50]
+    top_entries = all_entries[:75]
 
     # Simpan ke file JSON
     try:
