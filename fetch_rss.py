@@ -15,11 +15,11 @@ RSS_FEEDS = {
     "InfosecurityMag": "https://www.infosecurity-magazine.com/rss/news/",
     "CSO Online": "https://www.csoonline.com/feed/",
     "Threatpost": "https://threatpost.com/feed/",
-    "WIRED Security": "https://www.wired.com/feed/category/security/rss",
-    "NVD (NIST)": "https://nvd.nist.gov/feeds/xml/cve/misc/nvd-rss.xml",
-    "WeLiveSecurity": "https://www.welivesecurity.com/feed/",
+    "WIRED Security": "https://www.wired.com/feed/category/security/latest/rss",
+    "NVD (NIST)": "https://www.nist.gov/news-events/cybersecurity/rss.xml",
+    "WeLiveSecurity": "https://www.welivesecurity.com/en/rss/feed/",
     "Schneier": "https://www.schneier.com/feed/",
-    "PortSwigger": "https://portswigger.net/daily-swig/rss",
+    "PortSwigger": "https://portswigger.net/research/rss",
     "ZDNet Security": "https://www.zdnet.com/topic/security/rss.xml"
 }
 
