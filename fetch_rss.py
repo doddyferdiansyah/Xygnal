@@ -1,25 +1,25 @@
-import feedparser # Library untuk membaca RSS
+import feedparser
 import json
 import time
 from datetime import datetime, timezone
+from difflib import SequenceMatcher # <-- IMPORT BARU KITA
 
-# DAFTAR RSS FEED KITA (Bahan Baku)
-# Kita bisa tambah atau kurangi daftar ini kapan saja
+# DAFTAR RSS FEED KITA (15 sumber)
 RSS_FEEDS = {
-    "The Hacker News": "https://feeds.feedburner.com/TheHackersNews", 
+    "CISA": "https://www.cisa.gov/feeds/all.xml",
+    "The Hacker News": "https://feeds.feedburner.com/TheHackerNews",
     "BleepingComputer": "https://www.bleepingcomputer.com/feed/",
-    "Dark Reading": "https://www.darkreading.com/rss.xml",
-    "SecurityWeek": "https://feeds.feedburner.com/securityweek",
-    "CISA": "https://www.cisa.gov/news.xml",
+    "Dark Reading": "https://www.darkreading.com/rss_simple.asp",
+    "SecurityWeek": "https://www.securityweek.com/feed/",
     "KrebsOnSecurity": "https://krebsonsecurity.com/feed/",
     "InfosecurityMag": "https://www.infosecurity-magazine.com/rss/news/",
     "CSO Online": "https://www.csoonline.com/feed/",
     "Threatpost": "https://threatpost.com/feed/",
-    "WIRED Security": "https://www.wired.com/feed/category/security/latest/rss",
-    "NVD (NIST)": "https://www.nist.gov/news-events/cybersecurity/rss.xml",
-    "WeLiveSecurity": "https://www.welivesecurity.com/en/rss/feed/",
+    "WIRED Security": "https://www.wired.com/feed/category/security/rss",
+    "NVD (NIST)": "https://nvd.nist.gov/feeds/xml/cve/misc/nvd-rss.xml",
+    "WeLiveSecurity": "https://www.welivesecurity.com/feed/",
     "Schneier": "https://www.schneier.com/feed/",
-    "PortSwigger": "https://portswigger.net/research/rss",
+    "PortSwigger": "https://portswigger.net/daily-swig/rss",
     "ZDNet Security": "https://www.zdnet.com/topic/security/rss.xml"
 }
 
@@ -30,13 +30,16 @@ def parse_date(entry):
     elif 'updated_parsed' in entry and entry.updated_parsed:
         return datetime.fromtimestamp(time.mktime(entry.updated_parsed)).astimezone(timezone.utc)
     else:
-        # Jika tidak ada tanggal, gunakan waktu sekarang sebagai fallback
         return datetime.now(timezone.utc)
 
 def fetch_all_feeds():
-    """Mengambil semua berita dari semua feed dan menggabungkannya"""
+    """Mengambil semua berita, men-de-duplikasi, dan menggabungkannya"""
     all_entries = []
+    seen_titles = [] # <-- INI PENTING: Penyimpan judul unik
     
+    # Ambang batas kemiripan (0.8 = 80% mirip). Bisa diubah jika perlu.
+    SIMILARITY_THRESHOLD = 0.8 
+
     print(f"Memulai proses fetch untuk {len(RSS_FEEDS)} feeds...")
 
     for source_name, feed_url in RSS_FEEDS.items():
@@ -45,34 +48,48 @@ def fetch_all_feeds():
             feed = feedparser.parse(feed_url)
             
             for entry in feed.entries:
-                # Kadang 'summary' ada di 'description'
-                summary = entry.get('summary', entry.get('description', ''))
-                
-                # Membersihkan HTML sederhana dari summary (jika ada)
-                if '<' in summary:
-                    # Ini cara simpel, bukan parser HTML lengkap
-                    summary = summary.split('<')[0].strip() 
-                
-                # Batasi panjang summary
-                summary = (summary[:150] + '...') if len(summary) > 153 else summary
+                new_title = entry.title
+                is_duplicate = False
 
-                parsed_entry = {
-                    "source": source_name,
-                    "title": entry.title,
-                    "link": entry.link,
-                    "summary": summary,
-                    "published_utc": parse_date(entry).isoformat() # Format standar ISO 8601
-                }
-                all_entries.append(parsed_entry)
+                # ---- LOGIKA DE-DUPLIKASI DIMULAI ----
+                for seen_title in seen_titles:
+                    # Bandingkan judul baru vs judul yang sudah disimpan (case-insensitive)
+                    s = SequenceMatcher(None, new_title.lower(), seen_title.lower())
+                    
+                    if s.ratio() > SIMILARITY_THRESHOLD:
+                        is_duplicate = True
+                        print(f"  -> DUPLIKAT terdeteksi. MELEWATI: '{new_title}' (Mirip dengan: '{seen_title}')")
+                        break # Hentikan pencarian, sudah pasti duplikat
+                # ---- LOGIKA DE-DUPLIKASI SELESAI ----
+
+                # Jika BUKAN duplikat, baru kita proses
+                if not is_duplicate:
+                    summary = entry.get('summary', entry.get('description', ''))
+                    if '<' in summary:
+                        summary = summary.split('<')[0].strip() 
+                    summary = (summary[:150] + '...') if len(summary) > 153 else summary
+
+                    parsed_entry = {
+                        "source": source_name,
+                        "title": entry.title,
+                        "link": entry.link,
+                        "summary": summary,
+                        "published_utc": parse_date(entry).isoformat()
+                    }
+                    
+                    all_entries.append(parsed_entry)
+                    seen_titles.append(new_title) # Daftarkan judul ini sebagai unik
+
         except Exception as e:
             print(f"Gagal mengambil dari {source_name}: {e}")
 
-    print(f"Total {len(all_entries)} berita berhasil diambil.")
+    # Log kita ubah jadi menghitung judul unik
+    print(f"Total {len(seen_titles)} berita UNIK berhasil diambil.")
 
     # Urutkan semua berita dari yang paling baru
     all_entries.sort(key=lambda x: x['published_utc'], reverse=True)
 
-    # Ambil 50 berita terbaru saja
+    # Ambil 500 berita terbaru saja (dari yang sudah unik)
     top_entries = all_entries[:500]
 
     # Dapatkan waktu "sekarang" dalam format UTC
