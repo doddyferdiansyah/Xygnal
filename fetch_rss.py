@@ -75,11 +75,20 @@ def fetch_all_feeds():
     # Ambil 50 berita terbaru saja
     top_entries = all_entries[:500]
 
+    # Dapatkan waktu "sekarang" dalam format UTC
+    now_utc = datetime.now(timezone.utc).isoformat()
+
+    # Buat format output BARU (Objek, bukan List)
+    final_output = {
+        "lastUpdatedUTC": now_utc,
+        "articles": top_entries
+    }
+
     # Simpan ke file JSON
     try:
         with open('berita.json', 'w', encoding='utf-8') as f:
-            json.dump(top_entries, f, ensure_ascii=False, indent=4)
-        print("File berita.json berhasil dibuat/diperbarui.")
+            json.dump(final_output, f, ensure_ascii=False, indent=4)
+        print(f"File berita.json berhasil dibuat/diperbarui pada {now_utc}")
     except Exception as e:
         print(f"Gagal menulis ke berita.json: {e}")
 
