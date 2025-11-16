@@ -185,3 +185,54 @@ main {
     border-color: var(--color-blue); /* Garis batas jadi biru */
     box-shadow: 0 0 0 3px rgba(13, 71, 161, 0.1); /* Efek 'glow' biru lembut */
 }
+
+/* ---- Gaya untuk Kartu Promosi ---- */
+.promo-card {
+    /* Kita gunakan warna biru utama sebagai latar */
+    background-color: var(--color-blue); 
+    color: #ffffff; /* Teks jadi putih agar kontras */
+    
+    /* Aksen emas tetap ada */
+    border-top: 4px solid var(--color-gold); 
+    
+    /* Kita matikan efek hover 'mengangkat' agar tidak aneh */
+    transition: none; 
+}
+
+/* Kita buat hover-nya hanya di bayangan, tidak terangkat */
+.promo-card:hover {
+    transform: none; /* Jangan terangkat */
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15); /* Bayangan tetap ada */
+}
+
+/* Judul di kartu promo */
+.promo-card h3 {
+    color: #ffffff; /* Pastikan judulnya putih */
+    font-size: 1.6rem; /* Sedikit lebih besar */
+}
+
+/* Summary di kartu promo */
+.promo-card .summary {
+    color: #eeeeee; /* Putih pudar, agar lebih lembut */
+    font-size: 1.05rem;
+}
+
+/* Link di kartu promo, kita ubah jadi 'Tombol' */
+.promo-card .promo-link {
+    display: inline-block;
+    background-color: var(--color-gold); /* Tombol warna emas */
+    color: #000000; /* Teks hitam agar jelas di atas emas */
+    padding: 10px 20px;
+    border-radius: 20px; /* Bentuk pil */
+    text-decoration: none;
+    font-weight: 700;
+    margin-top: 10px;
+    
+    /* Animasi tombol */
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.promo-card .promo-link:hover {
+    transform: scale(1.05); /* Efek membesar sedikit */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
