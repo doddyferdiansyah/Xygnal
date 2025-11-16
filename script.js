@@ -20,15 +20,34 @@ document.addEventListener('DOMContentLoaded', () => {
                 throw new Error(`Gagal memuat berita: ${response.statusText}`);
             }
             
-            const berita = await response.json();
-            allNews = berita; 
+            // --- INI PERUBAHANNYA ---
+            const data = await response.json(); // 'data' adalah OBJEK
             
+            // 1. Ambil list artikel dari 'data.articles'
+            allNews = data.articles; 
+            
+            // 2. Ambil timestamp dari 'data.lastUpdatedUTC'
+            const timestampEl = document.getElementById('last-updated');
+            const lastUpdatedDate = new Date(data.lastUpdatedUTC);
+            const waktuLokal = lastUpdatedDate.toLocaleString('id-ID', {
+                day: 'numeric',
+                month: 'long',
+                year: 'numeric',
+                hour: '2-digit',
+                minute: '2-digit'
+            });
+            timestampEl.innerText = `Terakhir diperbarui: ${waktuLokal} WIB`;
+            // --- AKHIR PERUBAHAN ---
+
             // Tampilkan SEMUA berita saat pertama kali dimuat
             tampilkanBerita(); 
 
         } catch (error) {
             console.error('Error mengambil berita:', error);
             container.innerHTML = '<p style="text-align: center; color: red;">Maaf, gagal memuat berita terbaru.</p>';
+            // Update timestamp juga jika error
+            const timestampEl = document.getElementById('last-updated');
+            timestampEl.innerText = 'Gagal memuat data.';
         }
     }
 
