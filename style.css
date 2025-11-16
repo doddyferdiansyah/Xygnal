@@ -236,3 +236,11 @@ main {
     transform: scale(1.05); /* Efek membesar sedikit */
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 }
+
+/* ---- Gaya untuk "Last Updated" ---- */
+#last-updated {
+    font-size: 0.9rem; /* Sedikit lebih kecil */
+    color: var(--color-text-secondary); /* Warna abu-abu */
+    margin-top: 5px; /* Jarak sedikit dari <p> di atasnya */
+    font-style: italic;
+}
