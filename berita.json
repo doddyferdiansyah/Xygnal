@@ -1,5 +1,5 @@
 {
-    "lastUpdatedUTC": "2025-11-17T23:19:30.224180+00:00",
+    "lastUpdatedUTC": "2025-11-18T01:41:21.594415+00:00",
     "articles": [
         {
             "source": "ZDNet Security",
@@ -7,6 +7,20 @@
             "link": "https://www.zdnet.com/article/roaming-authenticators-offer-what-other-passkey-solutions-cant-but-there-are-trade-offs/",
             "summary": "The most secure passkey authenticator could be a physical device - here's why.",
             "published_utc": "2025-11-18T02:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft: Windows 10 KB5072653 OOB update fixes ESU install errors",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5072653-oob-update-fixes-esu-install-errors/",
+            "summary": "Microsoft has released an emergency Windows 10 KB5072653 out-of-band update to resolve ongoing issues with installing the November extended security u...",
+            "published_utc": "2025-11-18T00:22:11+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Malicious NPM packages abuse Adspect redirects to evade security",
+            "link": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-abuse-adspect-redirects-to-evade-security/",
+            "summary": "Seven packages published on the Node Package Manager (npm) registry use the Adspect cloud-based service to separate researchers from potential victims...",
+            "published_utc": "2025-11-17T23:47:46+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -364,20 +378,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/google-to-flag-android-apps-with-excessive-battery-use-on-the-play-store/",
             "summary": "Google will start taking action on Android apps in the official Google Play store that have high background activity and cause excessive battery drain...",
             "published_utc": "2025-11-16T15:15:25+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft: Windows 10 KB5068781 ESU update may fail with 0x800f0922 errors",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5068781-esu-update-may-fail-with-0x800f0922-errors/",
-            "summary": "Microsoft has confirmed it is investigating a bug causing the Windows 10 KB5068781 extended security update to fail to install with 0x800f0922 errors ...",
-            "published_utc": "2025-11-15T20:42:45+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Decades-old ‘Finger’ protocol abused in ClickFix malware attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/decades-old-finger-protocol-abused-in-clickfix-malware-attacks/",
-            "summary": "The decades-old \"finger\" command is making a comeback,, with threat actors using the protocol to retrieve remote commands to execute on Windows device...",
-            "published_utc": "2025-11-15T18:46:19+00:00"
         },
         {
             "source": "WIRED Security",
