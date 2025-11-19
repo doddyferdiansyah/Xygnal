@@ -1,6 +1,55 @@
 {
-    "lastUpdatedUTC": "2025-11-19T09:24:35.694927+00:00",
+    "lastUpdatedUTC": "2025-11-19T10:24:23.319797+00:00",
     "articles": [
+        {
+            "source": "InfosecurityMag",
+            "title": "China-Linked Operation “WrtHug” Hijacks Thousands of ASUS Routers",
+            "link": "https://www.infosecurity-magazine.com/news/chinal-operation-wrthug-thousands/",
+            "summary": "SecurityScorecard has revealed a new Chinese campaign targeting thousands of ASUS routers globally",
+            "published_utc": "2025-11-19T10:20:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "‘PlushDaemon’ hackers hijack software updates in supply-chain attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/plushdaemon-hackers-hijack-software-updates-in-supply-chain-attacks/",
+            "summary": "The China-aligned advanced persistent threat (APT) tracked as 'PlushDaemon' is hijacking software update traffic to deliver malicious payloads to its ...",
+            "published_utc": "2025-11-19T10:00:00+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "Vaping Is ‘Everywhere’ in Schools—Sparking a Bathroom Surveillance Boom",
+            "link": "https://www.wired.com/story/vaping-surveillance-school-bathrooms/",
+            "summary": "Schools in the US are installing vape-detection tech in bathrooms to thwart student nicotine and cannabis use. A new investigation reveals the impact ...",
+            "published_utc": "2025-11-19T10:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Fortinet Discloses Second Exploited FortiWeb Zero-Day in a Week",
+            "link": "https://www.securityweek.com/fortinet-discloses-second-exploited-fortiweb-zero-day-in-a-week/",
+            "summary": "",
+            "published_utc": "2025-11-19T09:46:51+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I've tested every new Apple Watch in 2025 - here's why the best model for you isn't the Ultra",
+            "link": "https://www.zdnet.com/article/ive-tested-every-new-apple-watch-in-2025-heres-why-the-best-model-for-you-isnt-the-ultra/",
+            "summary": "The flagship Apple Watch comes with several upgrades, including six more hours of battery life for all-day use. It sees its first discount of the seas...",
+            "published_utc": "2025-11-19T09:45:47+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I changed 6 settings on my iPad to significantly extend the battery life (by hours)",
+            "link": "https://www.zdnet.com/article/i-changed-6-settings-on-my-ipad-to-significantly-extend-the-battery-life-by-hours/",
+            "summary": "A few tweaks here and there, and you'll quickly find yourself with a tablet that lasts longer than usual.",
+            "published_utc": "2025-11-19T09:45:37+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Half of Ransomware Access Due to Hijacked VPN Credentials",
+            "link": "https://www.infosecurity-magazine.com/news/half-ransomware-access-hijacked/",
+            "summary": "Beazley Security data finds the top cause of initial access for ransomware in Q3 was compromised VPN credentials",
+            "published_utc": "2025-11-19T09:40:00+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Microsoft Unveils Security Enhancements for Identity, Defense, Compliance",
@@ -42,6 +91,13 @@
             "link": "https://www.zdnet.com/article/major-cloudflare-outage-took-down-chatgpt-x-and-spotify-tuesday-heres-what-happened/",
             "summary": "A major outage rippled across the web, knocking many of the internet's biggest sites offline.",
             "published_utc": "2025-11-19T01:33:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I charged my iPhone the 'Apple way' for 2 years - here's how the battery fares now",
+            "link": "https://www.zdnet.com/article/i-charged-my-iphone-the-apple-way-for-2-years-heres-how-the-battery-fares-now/",
+            "summary": "Is supposedly the best way to keep your iPhone battery lasting longer legit?",
+            "published_utc": "2025-11-19T01:30:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -161,20 +217,6 @@
             "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-gets-new-cloud-rebuild-point-in-time-restore-tools/",
             "summary": "Microsoft announced two new Windows 11 recovery features today at the Ignite developer conference, called Cloud Rebuild and Point-in-Time Restore (PIT...",
             "published_utc": "2025-11-18T19:29:52+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Best early Black Friday phone deals 2025: I found 13 offers at Amazon, Sam's Club, more",
-            "link": "https://www.zdnet.com/article/best-early-black-friday-phone-deals-2025/",
-            "summary": "We're a week away from the big holiday sale, but there's already a slew of deals on iPhones, Google, Samsung, and more to take advantage of.",
-            "published_utc": "2025-11-18T19:27:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Microsoft's new AI agents won't just help us code, now they'll decide what to code",
-            "link": "https://www.zdnet.com/article/microsofts-new-ai-agents-wont-just-help-us-code-now-theyll-decide-what-to-code/",
-            "summary": "From Agent 365 to Foundry's MCP tool catalog and new IQ services, Microsoft is moving beyond copilots and toward a future where software development b...",
-            "published_utc": "2025-11-18T19:19:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -325,17 +367,10 @@
         },
         {
             "source": "BleepingComputer",
-            "title": "Cloudflare hit by outage affecting global network services",
+            "title": "Cloudflare hit by outage affecting Global Network services",
             "link": "https://www.bleepingcomputer.com/news/technology/cloudflare-hit-by-outage-affecting-global-network-services/",
             "summary": "Cloudflare is investigating an outage affecting its global network services, with users encountering \"internal server error\" messages when attempting ...",
             "published_utc": "2025-11-18T12:24:59+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Data Stolen in Eurofiber France Hack",
-            "link": "https://www.securityweek.com/data-stolen-in-eurofiber-france-hack/",
-            "summary": "",
-            "published_utc": "2025-11-18T12:23:33+00:00"
         },
         {
             "source": "CSO Online",
@@ -415,13 +450,6 @@
             "published_utc": "2025-11-17T23:47:46+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "xAI's Grok 4.1 rolls out with improved quality and speed for free",
-            "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/xais-grok-41-rolls-out-with-improved-quality-and-speed-for-free/",
-            "summary": "Elon Musk-owned xAI has started rolling out Grok 4.1, which is an upgrade to the existing Grok 4 model, and it delivers some incremental improvements....",
-            "published_utc": "2025-11-17T22:56:28+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Kraken Uses Benchmarking to Enhance Ransomware Attacks",
             "link": "https://www.infosecurity-magazine.com/news/kraken-benchmarking-enhance/",
@@ -495,15 +523,8 @@
             "source": "WeLiveSecurity",
             "title": "What if your romantic AI chatbot can’t keep a secret?",
             "link": "https://www.welivesecurity.com/en/privacy/romantic-ai-chatbot-keep-secret/",
-            "summary": "Does your chatbot know too much? Think twice before you tell your AI companion everything.",
+            "summary": "Does your chatbot know too much? Here's why you should think twice before you tell your AI companion everything.",
             "published_utc": "2025-11-17T10:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Cyber-Attack Costs Carmaker JLR $258m in Q2",
-            "link": "https://www.infosecurity-magazine.com/news/jlr-posts-639m-q2-losses/",
-            "summary": "Carmaker JLR has posted $639m Q2 losses and a one-off $258m hit after a major ransomware attack",
-            "published_utc": "2025-11-17T09:30:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -532,6 +553,13 @@
             "link": "https://www.csoonline.com/article/4025731/empathie-trifft-it-sicherheit-der-weg-zu-gelebter-compliance.html",
             "summary": "",
             "published_utc": "2025-11-17T04:00:00+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Microsoft Patch Tuesday, November 2025 Edition",
+            "link": "https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/",
+            "summary": "Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at ...",
+            "published_utc": "2025-11-16T21:47:14+00:00"
         },
         {
             "source": "WIRED Security",
@@ -569,18 +597,18 @@
             "published_utc": "2025-11-14T17:08:57+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "Chinese Hackers Automate Cyber-Attacks With AI-Powered Claude Code",
-            "link": "https://www.infosecurity-magazine.com/news/chinese-hackers-cyberattacks-ai/",
-            "summary": "Anthropic’s Claude Code AI assistant performed 80% to 90% of the tasks involved in a recent cyber-attack campaign, said Anthropic researchers",
-            "published_utc": "2025-11-14T12:15:00+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "The Role of Humans in an AI-Powered World",
             "link": "https://www.schneier.com/blog/archives/2025/11/the-role-of-humans-in-an-ai-powered-world.html",
             "summary": "",
             "published_utc": "2025-11-14T12:00:33+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Google Sues to Disrupt Chinese SMS Phishing Triad",
+            "link": "https://krebsonsecurity.com/2025/11/google-sues-to-disrupt-chinese-sms-phishing-triad/",
+            "summary": "Google is suing more than two dozen unnamed individuals allegedly involved in peddling a popular China-based mobile phishing service that helps scamme...",
+            "published_utc": "2025-11-13T14:47:22+00:00"
         },
         {
             "source": "Schneier",
@@ -639,6 +667,13 @@
             "published_utc": "2025-11-10T12:04:55+00:00"
         },
         {
+            "source": "KrebsOnSecurity",
+            "title": "Drilling Down on Uncle Sam’s Proposed TP-Link Ban",
+            "link": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
+            "summary": "The U.S. government is reportedly preparing to ban the sale of wireless routers and other networking gear from TP-Link Systems, a tech company that cu...",
+            "published_utc": "2025-11-09T18:14:40+00:00"
+        },
+        {
             "source": "WIRED Security",
             "title": "The Government Shutdown Is a Ticking Cybersecurity Time Bomb",
             "link": "https://www.wired.com/story/the-government-shutdown-is-a-ticking-cybersecurity-time-bomb/",
@@ -688,6 +723,13 @@
             "published_utc": "2025-11-06T09:45:00+00:00"
         },
         {
+            "source": "KrebsOnSecurity",
+            "title": "Cloudflare Scrubs Aisuru Botnet from Top Domains List",
+            "link": "https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/",
+            "summary": "For the past week, domains associated with the massive Aisuru botnet have repeatedly usurped Amazon, Apple, Google and Microsoft in Cloudflare's publi...",
+            "published_utc": "2025-11-06T02:04:36+00:00"
+        },
+        {
             "source": "WIRED Security",
             "title": "Zohran Mamdani Just Inherited the NYPD Surveillance State",
             "link": "https://www.wired.com/story/welcome-to-mamdanis-surveillance-state/",
@@ -735,6 +777,13 @@
             "link": "https://www.welivesecurity.com/en/business-security/ground-zero-5-things-discovering-cyberattack/",
             "summary": "When every minute counts, preparation and precision can mean the difference between disruption and disaster",
             "published_utc": "2025-11-03T10:00:00+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Alleged Jabber Zeus Coder ‘MrICQ’ in U.S. Custody",
+            "link": "https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/",
+            "summary": "A Ukrainian man indicted in 2012 for conspiring with a prolific hacking group to steal tens of millions of dollars from U.S. businesses was arrested i...",
+            "published_utc": "2025-11-02T20:37:24+00:00"
         },
         {
             "source": "WeLiveSecurity",
@@ -798,6 +847,13 @@
             "link": "https://www.welivesecurity.com/en/videos/cybersecurity-awareness-month-2025-when-seeing-isnt-believing/",
             "summary": "Deepfakes are blurring the line between real and fake and fraudsters are cashing in, using synthetic media for all manner of scams",
             "published_utc": "2025-10-29T10:00:00+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Aisuru Botnet Shifts from DDoS to Residential Proxies",
+            "link": "https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/",
+            "summary": "Aisuru, the botnet responsible for a series of record-smashing distributed denial-of-service (DDoS) attacks this year, recently was overhauled to supp...",
+            "published_utc": "2025-10-29T00:51:05+00:00"
         },
         {
             "source": "WIRED Security",
@@ -891,6 +947,13 @@
             "published_utc": "2025-10-22T20:31:57+00:00"
         },
         {
+            "source": "KrebsOnSecurity",
+            "title": "Canada Fines Cybercrime Friendly Cryptomus $176M",
+            "link": "https://krebsonsecurity.com/2025/10/canada-fines-cybercrime-friendly-cryptomus-176m/",
+            "summary": "Financial regulators in Canada this week levied $176 million in fines against Cryptomus, a digital payments platform that supports dozens of Russian c...",
+            "published_utc": "2025-10-22T17:21:36+00:00"
+        },
+        {
             "source": "WIRED Security",
             "title": "The Long Tail of the AWS Outage",
             "link": "https://www.wired.com/story/aws-cloud-outage-long-tail/",
@@ -947,6 +1010,13 @@
             "published_utc": "2025-10-18T10:30:00+00:00"
         },
         {
+            "source": "KrebsOnSecurity",
+            "title": "Email Bombs Exploit Lax Authentication in Zendesk",
+            "link": "https://krebsonsecurity.com/2025/10/email-bombs-exploit-lax-authentication-in-zendesk/",
+            "summary": "Cybercriminals are abusing a widespread lack of authentication in the customer service platform Zendesk to flood targeted email inboxes with menacing ...",
+            "published_utc": "2025-10-17T11:26:27+00:00"
+        },
+        {
             "source": "WIRED Security",
             "title": "Why the F5 Hack Created an ‘Imminent Threat’ for Thousands of Networks",
             "link": "https://www.wired.com/story/f5-hack-networking-software-big-ip/",
@@ -968,18 +1038,18 @@
             "published_utc": "2025-10-16T09:00:00+00:00"
         },
         {
-            "source": "WIRED Security",
-            "title": "When Face Recognition Doesn’t Know Your Face Is a Face",
-            "link": "https://www.wired.com/story/when-face-recognition-doesnt-know-your-face-is-a-face/",
-            "summary": "An estimated 100 million people live with facial differences. As face recognition tech becomes widespread, some say they’re getting blocked from acces...",
-            "published_utc": "2025-10-15T09:30:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "IT service desks: The security blind spot that may put your business at risk",
             "link": "https://www.welivesecurity.com/en/business-security/it-service-desks-security-blind-spot-business/",
             "summary": "Could a simple call to the helpdesk enable threat actors to bypass your security controls? Here’s how your team can close a growing security gap.",
             "published_utc": "2025-10-15T09:00:00+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Patch Tuesday, October 2025 ‘End of 10’ Edition",
+            "link": "https://krebsonsecurity.com/2025/10/patch-tuesday-october-2025-end-of-10-edition/",
+            "summary": "Microsoft today released software updates to plug a whopping 172 security holes in its Windows operating systems, including at least three vulnerabili...",
+            "published_utc": "2025-10-14T22:57:38+00:00"
         },
         {
             "source": "WeLiveSecurity",
@@ -994,6 +1064,13 @@
             "link": "https://www.welivesecurity.com/en/social-media/ai-aided-malvertising-chatbot-scams/",
             "summary": "Cybercriminals have tricked X’s AI chatbot into promoting phishing scams in a technique that has been nicknamed “Grokking”. Here’s what to know about it.",
             "published_utc": "2025-10-13T09:00:00+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "DDoS Botnet Aisuru Blankets US ISPs in Record DDoS",
+            "link": "https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/",
+            "summary": "The world's largest and most disruptive botnet is now drawing a majority of its firepower from compromised Internet-of-Things (IoT) devices hosted on ...",
+            "published_utc": "2025-10-10T16:10:43+00:00"
         },
         {
             "source": "WeLiveSecurity",
