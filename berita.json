@@ -1,12 +1,61 @@
 {
-    "lastUpdatedUTC": "2025-11-19T13:32:49.052026+00:00",
+    "lastUpdatedUTC": "2025-11-19T14:21:47.197422+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "Linus Torvalds is surprisingly optimistic about vibe coding - except for this one 'horrible' use",
+            "link": "https://www.zdnet.com/article/linus-torvalds-is-surprisingly-optimistic-about-vibe-coding-except-for-this-one-horrible-use/",
+            "summary": "Linux's leader, Linus Torvalds, and his best bud, Dirk Hohndel, discuss AI, Rust, and Linux's human side.",
+            "published_utc": "2025-11-19T14:09:00+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "The Cloudflare Outage May Be a Security Roadmap",
+            "link": "https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/",
+            "summary": "An intermittent outage at Cloudflare on Tuesday briefly knocked many of the Internet's top destinations offline. Some affected Cloudflare customers we...",
+            "published_utc": "2025-11-19T14:07:03+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "The nexus of risk and intelligence: How vulnerability-informed hunting uncovers what everything else misses",
+            "link": "https://www.csoonline.com/article/4092087/the-nexus-of-risk-and-intelligence-how-vulnerability-informed-hunting-uncovers-what-everything-else-misses.html",
+            "summary": "",
+            "published_utc": "2025-11-19T14:06:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Hidden API in Comet AI browser raises security red flags for enterprises",
+            "link": "https://www.csoonline.com/article/4092995/hidden-api-in-comet-ai-browser-raises-security-red-flags-for-enterprises.html",
+            "summary": "",
+            "published_utc": "2025-11-19T14:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Mate Emerges From Stealth Mode With $15.5 Million in Seed Funding",
+            "link": "https://www.securityweek.com/mate-emerges-from-stealth-mode-with-15-5-million-in-seed-funding/",
+            "summary": "",
+            "published_utc": "2025-11-19T13:57:34+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "CISA gives govt agencies 7 days to patch new Fortinet flaw",
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-gives-govt-agencies-7-days-to-patch-new-fortinet-flaw/",
+            "summary": "CISA has ordered U.S. government agencies to secure their systems within a week against another vulnerability in Fortinet's FortiWeb web application f...",
+            "published_utc": "2025-11-19T13:44:56+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Two-Year-Old Ray AI Framework Flaw Exploited in Ongoing Campaign",
             "link": "https://www.securityweek.com/two-year-old-ray-ai-framework-flaw-exploited-in-ongoing-campaign/",
             "summary": "",
             "published_utc": "2025-11-19T13:23:41+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Meet ShinySp1d3r: New Ransomware-as-a-Service created by ShinyHunters",
+            "link": "https://www.bleepingcomputer.com/news/security/meet-shinysp1d3r-new-ransomware-as-a-service-created-by-shinyhunters/",
+            "summary": "An in-development build of the upcoming ShinySp1d3r ransomware-as-a-service platform has surfaced, offering a preview of the upcoming extortion operat...",
+            "published_utc": "2025-11-19T13:01:09+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -261,13 +310,6 @@
             "published_utc": "2025-11-18T22:09:32+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I found the best early Black Friday streaming service and device deals",
-            "link": "https://www.zdnet.com/article/best-early-black-friday-streaming-deals-2025/",
-            "summary": "Ahead of Black Friday, we've found great streaming deals from YouTube TV, Disney+, Hulu, ESPN, and more.",
-            "published_utc": "2025-11-18T21:44:28+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "New ShadowRay attacks convert Ray clusters into crypto miners",
             "link": "https://www.bleepingcomputer.com/news/security/new-shadowray-attacks-convert-ray-clusters-into-crypto-miners/",
@@ -366,13 +408,6 @@
             "published_utc": "2025-11-18T15:01:11+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Apono Raises $34 Million for Cloud Identity Management Platform",
-            "link": "https://www.securityweek.com/apono-raises-34-million-for-cloud-identity-management-platform/",
-            "summary": "",
-            "published_utc": "2025-11-18T14:48:17+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "AI-Enhanced Tuoni Framework Targets Major US Real Estate Firm",
             "link": "https://www.infosecurity-magazine.com/news/ai-tuoni-framework-targets-us-real/",
@@ -406,13 +441,6 @@
             "link": "https://www.csoonline.com/article/4091972/stadtwerke-detmold-von-hackerangriff-betroffen.html",
             "summary": "",
             "published_utc": "2025-11-18T13:03:08+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Cloudflare hit by outage affecting Global Network services",
-            "link": "https://www.bleepingcomputer.com/news/technology/cloudflare-hit-by-outage-affecting-global-network-services/",
-            "summary": "Cloudflare is investigating an outage affecting its global network services, with users encountering \"internal server error\" messages when attempting ...",
-            "published_utc": "2025-11-18T12:24:59+00:00"
         },
         {
             "source": "CSO Online",
@@ -546,20 +574,6 @@
             "link": "https://www.csoonline.com/article/4090833/gipfel-in-berlin-europa-strebt-digitale-souveranitat-an.html",
             "summary": "",
             "published_utc": "2025-11-17T08:04:37+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "The rise of the chief trust officer: Where does the CISO fit?",
-            "link": "https://www.csoonline.com/article/4085479/the-rise-of-the-chief-trust-officer-where-does-the-ciso-fit.html",
-            "summary": "",
-            "published_utc": "2025-11-17T07:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "ISO and ISMS: 9 reasons security certifications go wrong",
-            "link": "https://www.csoonline.com/article/4090522/iso-and-isms-why-security-certifications-go-wrong.html",
-            "summary": "",
-            "published_utc": "2025-11-17T06:30:00+00:00"
         },
         {
             "source": "KrebsOnSecurity",
@@ -1057,13 +1071,6 @@
             "link": "https://www.welivesecurity.com/en/social-media/ai-aided-malvertising-chatbot-scams/",
             "summary": "Cybercriminals have tricked X’s AI chatbot into promoting phishing scams in a technique that has been nicknamed “Grokking”. Here’s what to know about it.",
             "published_utc": "2025-10-13T09:00:00+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "DDoS Botnet Aisuru Blankets US ISPs in Record DDoS",
-            "link": "https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/",
-            "summary": "The world's largest and most disruptive botnet is now drawing a majority of its firepower from compromised Internet-of-Things (IoT) devices hosted on ...",
-            "published_utc": "2025-10-10T16:10:43+00:00"
         },
         {
             "source": "WeLiveSecurity",
