@@ -1,6 +1,20 @@
 {
-    "lastUpdatedUTC": "2025-11-19T18:32:01.695213+00:00",
+    "lastUpdatedUTC": "2025-11-19T19:17:38.835806+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "Amazono is selling a $430 refurbished MacBook Pro that was once $2,000 - here's what you get",
+            "link": "https://www.zdnet.com/article/amazono-is-selling-a-430-refurbished-macbook-pro-that-was-once-2000-heres-what-you-get/",
+            "summary": "The 13-inch MacBook Pro (2020) originally cost thousands, but you can now purchase a refurbished one for significantly less.",
+            "published_utc": "2025-11-19T18:52:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Microsoft's new recovery tools rebuild Windows when it glitches – here's how",
+            "link": "https://www.zdnet.com/article/microsofts-new-recovery-tools-rebuild-windows-when-it-glitches-heres-how/",
+            "summary": "The point-in-time restore feature will bring a Windows PC back to a previous state, while cloud rebuild will reinstall Windows from the cloud.",
+            "published_utc": "2025-11-19T18:45:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "ChatGPT for Teachers rolls out, and it's free - here's what makes it different",
@@ -175,20 +189,6 @@
             "link": "https://www.zdnet.com/article/i-changed-6-settings-on-my-roku-tv-to-make-the-system-run-like-new-again/",
             "summary": "There are several ways to make your TV operating system run faster. Here are my go-to changes within the settings.",
             "published_utc": "2025-11-19T15:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How to connect two pairs of AirPods to your iPhone at once (and why it's so useful)",
-            "link": "https://www.zdnet.com/article/how-to-connect-two-pairs-of-airpods-to-your-iphone-at-once-and-why-its-so-useful/",
-            "summary": "Stop sharing your AirPods when you can share your audio instead. One device, two headphones - here's how.",
-            "published_utc": "2025-11-19T14:55:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Google Calendar finally added a feature we've wanted for years - and it's not AI",
-            "link": "https://www.zdnet.com/article/google-calendar-finally-added-a-feature-weve-wanted-for-years-and-its-not-ai/",
-            "summary": "It started rolling out on Nov. 6, but it might take until the beginning of December to reach all users.",
-            "published_utc": "2025-11-19T14:54:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -1589,6 +1589,209 @@
             "link": "https://www.welivesecurity.com/en/cybersecurity/watch-out-traps-lurking-search-results/",
             "summary": "Here’s how to avoid being hit by fraudulent websites that scammers can catapult directly to the top of your search results",
             "published_utc": "2025-04-10T09:00:00+00:00"
+        },
+        {
+            "source": "NVD (NIST)",
+            "title": "CVE-2022-48193",
+            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-48193",
+            "summary": "Weak ciphers in Softing smartLink SW-HT before 1.30 are enabled during secure communication (SSL).",
+            "published_utc": "2023-11-06T20:15:07+00:00"
+        },
+        {
+            "source": "NVD (NIST)",
+            "title": "CVE-2023-45001",
+            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-45001",
+            "summary": "Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Castos Seriously Simple Stats allows SQL Injecti...",
+            "published_utc": "2023-11-06T09:15:08+00:00"
+        },
+        {
+            "source": "NVD (NIST)",
+            "title": "CVE-2023-28748",
+            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-28748",
+            "summary": "Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in biztechc Copy or Move Comments allows SQL Inject...",
+            "published_utc": "2023-11-06T09:15:07+00:00"
+        },
+        {
+            "source": "NVD (NIST)",
+            "title": "CVE-2021-4430",
+            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-4430",
+            "summary": "A vulnerability classified as problematic has been found in Ortus Solutions ColdBox Elixir 3.1.6. This affects an unknown part of the file src/default...",
+            "published_utc": "2023-11-06T08:15:21+00:00"
+        },
+        {
+            "source": "NVD (NIST)",
+            "title": "CVE-2023-32835",
+            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-32835",
+            "summary": "In keyinstall, there is a possible memory corruption due to type confusion. This could lead to local escalation of privilege with System execution pri...",
+            "published_utc": "2023-11-06T04:15:07+00:00"
+        },
+        {
+            "source": "NVD (NIST)",
+            "title": "CVE-2018-25093",
+            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-25093",
+            "summary": "A vulnerability was found in Vaerys-Dawn DiscordSailv2 up to 2.10.2. It has been rated as critical. Affected by this issue is some unknown functionali...",
+            "published_utc": "2023-11-06T01:15:08+00:00"
+        },
+        {
+            "source": "NVD (NIST)",
+            "title": "CVE-2017-20187",
+            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2017-20187",
+            "summary": "** UNSUPPPORTED WHEN ASSIGNED ** ** UNSUPPORTED WHEN ASSIGNED ** A vulnerability was found in Magnesium-PHP up to 0.3.0. It has been classified as pro...",
+            "published_utc": "2023-11-05T21:15:09+00:00"
+        },
+        {
+            "source": "NVD (NIST)",
+            "title": "CVE-2023-36677",
+            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-36677",
+            "summary": "Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Smartypants SP Project &amp; Document Manager al...",
+            "published_utc": "2023-11-03T23:15:08+00:00"
+        },
+        {
+            "source": "NVD (NIST)",
+            "title": "CVE-2022-3172",
+            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3172",
+            "summary": "A security issue was discovered in kube-apiserver that allows an \naggregated API server to redirect client traffic to any URL.  This could\n lead to th...",
+            "published_utc": "2023-11-03T20:15:08+00:00"
+        },
+        {
+            "source": "NVD (NIST)",
+            "title": "CVE-2022-43554",
+            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43554",
+            "summary": "Ivanti Avalanche Smart Device Service Missing Authentication Local Privilege Escalation Vulnerability",
+            "published_utc": "2023-11-03T20:15:08+00:00"
+        },
+        {
+            "source": "NVD (NIST)",
+            "title": "CVE-2022-44569",
+            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-44569",
+            "summary": "A locally authenticated attacker with low privileges can bypass authentication due to insecure inter-process communication.",
+            "published_utc": "2023-11-03T20:15:08+00:00"
+        },
+        {
+            "source": "NVD (NIST)",
+            "title": "CVE-2023-23368",
+            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-23368",
+            "summary": "An OS command injection vulnerability has been reported to affect several QNAP operating system versions. If exploited, the vulnerability could allow ...",
+            "published_utc": "2023-11-03T17:15:08+00:00"
+        },
+        {
+            "source": "NVD (NIST)",
+            "title": "CVE-2023-32121",
+            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-32121",
+            "summary": "Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Highfivery LLC Zero Spam for WordPress allows SQ...",
+            "published_utc": "2023-11-03T17:15:08+00:00"
+        },
+        {
+            "source": "NVD (NIST)",
+            "title": "CVE-2022-46808",
+            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-46808",
+            "summary": "Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Repute Infosystems ARMember armember-membership ...",
+            "published_utc": "2023-11-03T13:15:08+00:00"
+        },
+        {
+            "source": "NVD (NIST)",
+            "title": "CVE-2023-25960",
+            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-25960",
+            "summary": "Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Zendrop Zendrop &acirc;&euro;&ldquo; Global Drop...",
+            "published_utc": "2023-11-03T13:15:08+00:00"
+        },
+        {
+            "source": "NVD (NIST)",
+            "title": "CVE-2023-1476",
+            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-1476",
+            "summary": "A use-after-free flaw was found in the Linux kernel&acirc;&euro;&trade;s mm/mremap memory address space accounting source code. This issue occurs due ...",
+            "published_utc": "2023-11-03T09:15:13+00:00"
+        },
+        {
+            "source": "NVD (NIST)",
+            "title": "CVE-2023-41344",
+            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-41344",
+            "summary": "NCSIST ManageEngine Mobile Device Manager(MDM) APP's special function has a path traversal vulnerability. An unauthenticated remote attacker can explo...",
+            "published_utc": "2023-11-03T07:15:14+00:00"
+        },
+        {
+            "source": "NVD (NIST)",
+            "title": "CVE-2020-28407",
+            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28407",
+            "summary": "In swtpm before 0.4.2 and 0.5.x before 0.5.1, a local attacker may be able to overwrite arbitrary files via a symlink attack against a temporary file ...",
+            "published_utc": "2023-11-03T04:15:15+00:00"
+        },
+        {
+            "source": "NVD (NIST)",
+            "title": "CVE-2017-7252",
+            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2017-7252",
+            "summary": "bcrypt password hashing in Botan before 2.1.0 does not correctly handle passwords with a length between 57 and 72 characters, which makes it easier fo...",
+            "published_utc": "2023-11-03T01:15:07+00:00"
+        },
+        {
+            "source": "NVD (NIST)",
+            "title": "CVE-2023-36029",
+            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-36029",
+            "summary": "Microsoft Edge (Chromium-based) Spoofing Vulnerability",
+            "published_utc": "2023-11-03T01:15:07+00:00"
+        },
+        {
+            "source": "NVD (NIST)",
+            "title": "CVE-2023-42299",
+            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-42299",
+            "summary": "Buffer Overflow vulnerability in OpenImageIO oiio v.2.4.12.0 allows a remote attacker to execute arbitrary code and cause a denial of service via the ...",
+            "published_utc": "2023-11-02T22:15:09+00:00"
+        },
+        {
+            "source": "NVD (NIST)",
+            "title": "CVE-2023-39048",
+            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-39048",
+            "summary": "An information leak in Tokudaya.honten v13.6.1 allows attackers to obtain the channel access token and send crafted messages.",
+            "published_utc": "2023-11-02T22:15:08+00:00"
+        },
+        {
+            "source": "NVD (NIST)",
+            "title": "CVE-2023-45333",
+            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-45333",
+            "summary": "Online Food Ordering System v1.0 is vulnerable to multiple Unauthenticated SQL Injection vulnerabilities. The 'verified' parameter of the routers/add-...",
+            "published_utc": "2023-11-02T14:15:12+00:00"
+        },
+        {
+            "source": "NVD (NIST)",
+            "title": "CVE-2023-26452",
+            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-26452",
+            "summary": "Requests to cache an image and return its metadata could be abused to include SQL queries that would be executed unchecked. Exploiting this vulnerabil...",
+            "published_utc": "2023-11-02T14:15:10+00:00"
+        },
+        {
+            "source": "NVD (NIST)",
+            "title": "CVE-2023-46428 (hadsky)",
+            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-46428",
+            "summary": "An arbitrary file upload vulnerability in HadSky v7.12.10 allows attackers to execute arbitrary code via a crafted file.",
+            "published_utc": "2023-11-01T21:15:08+00:00"
+        },
+        {
+            "source": "NVD (NIST)",
+            "title": "CVE-2023-1192",
+            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-1192",
+            "summary": "A use-after-free flaw was found in smb2_is_status_io_timeout() in CIFS in the Linux Kernel. After CIFS transfers response data to a system call, there...",
+            "published_utc": "2023-11-01T20:15:08+00:00"
+        },
+        {
+            "source": "NVD (NIST)",
+            "title": "CVE-2023-5855",
+            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-5855",
+            "summary": "Use after free in Reading Mode in Google Chrome prior to 119.0.6045.105 allowed a remote attacker who convinced a user to engage in specific UI gestur...",
+            "published_utc": "2023-11-01T18:15:10+00:00"
+        },
+        {
+            "source": "NVD (NIST)",
+            "title": "CVE-2023-20213",
+            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-20213",
+            "summary": "A vulnerability in the CDP processing feature of Cisco ISE could allow an unauthenticated, adjacent attacker to cause a denial of service (DoS) condit...",
+            "published_utc": "2023-11-01T17:15:11+00:00"
+        },
+        {
+            "source": "NVD (NIST)",
+            "title": "CVE-2023-20005",
+            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-20005",
+            "summary": "Multiple vulnerabilities in the web-based management interface of Cisco Firepower Management Center (FMC) Software could allow an unauthenticated, rem...",
+            "published_utc": "2023-11-01T17:15:10+00:00"
         },
         {
             "source": "PortSwigger",
