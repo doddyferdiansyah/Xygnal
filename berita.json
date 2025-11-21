@@ -1,6 +1,13 @@
 {
-    "lastUpdatedUTC": "2025-11-21T03:12:01.999364+00:00",
+    "lastUpdatedUTC": "2025-11-21T04:25:36.515186+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "So rechtfertigen Sie Ihre Security-Investitionen",
+            "link": "https://www.csoonline.com/article/4051211/so-rechtfertigen-sie-ihre-security-investitionen.html",
+            "summary": "",
+            "published_utc": "2025-11-21T04:00:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Don't get ghost tapped: 5 ways to block thieves from scanning your wallet",
@@ -175,13 +182,6 @@
             "link": "https://www.csoonline.com/article/4093949/fortinet-criticized-for-silent-patching-after-disclosing-second-zero-day-vulnerability-in-same-equipment.html",
             "summary": "",
             "published_utc": "2025-11-20T19:29:24+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Mozilla Says It’s Finally Done With Two-Faced Onerep",
-            "link": "https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/",
-            "summary": "In March 2024, Mozilla said it was winding down its collaboration with Onerep -- an identity protection service offered with the Firefox web browser t...",
-            "published_utc": "2025-11-20T19:06:51+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -464,13 +464,6 @@
             "published_utc": "2025-11-19T15:00:00+00:00"
         },
         {
-            "source": "KrebsOnSecurity",
-            "title": "The Cloudflare Outage May Be a Security Roadmap",
-            "link": "https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/",
-            "summary": "An intermittent outage at Cloudflare on Tuesday briefly knocked many of the Internet's top destinations offline. Some affected Cloudflare customers we...",
-            "published_utc": "2025-11-19T14:07:03+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "The nexus of risk and intelligence: How vulnerability-informed hunting uncovers what everything else misses",
             "link": "https://www.csoonline.com/article/4092087/the-nexus-of-risk-and-intelligence-how-vulnerability-informed-hunting-uncovers-what-everything-else-misses.html",
@@ -597,13 +590,6 @@
             "published_utc": "2025-11-18T13:03:08+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Fortinet’s silent patch sparks alarm as a critical FortiWeb flaw is exploited in the wild",
-            "link": "https://www.csoonline.com/article/4091939/fortinets-silent-patch-sparks-alarm-as-a-critical-fortiweb-flaw-is-exploited-in-the-wild.html",
-            "summary": "",
-            "published_utc": "2025-11-18T12:05:35+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "AI and Voter Engagement",
             "link": "https://www.schneier.com/blog/archives/2025/11/ai-and-voter-engagement.html",
@@ -623,13 +609,6 @@
             "link": "https://www.welivesecurity.com/en/privacy/romantic-ai-chatbot-keep-secret/",
             "summary": "Does your chatbot know too much? Here's why you should think twice before you tell your AI companion everything.",
             "published_utc": "2025-11-17T10:00:00+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Microsoft Patch Tuesday, November 2025 Edition",
-            "link": "https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/",
-            "summary": "Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at ...",
-            "published_utc": "2025-11-16T21:47:14+00:00"
         },
         {
             "source": "WIRED Security",
@@ -665,13 +644,6 @@
             "link": "https://www.schneier.com/blog/archives/2025/11/the-role-of-humans-in-an-ai-powered-world.html",
             "summary": "",
             "published_utc": "2025-11-14T12:00:33+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Google Sues to Disrupt Chinese SMS Phishing Triad",
-            "link": "https://krebsonsecurity.com/2025/11/google-sues-to-disrupt-chinese-sms-phishing-triad/",
-            "summary": "Google is suing more than two dozen unnamed individuals allegedly involved in peddling a popular China-based mobile phishing service that helps scamme...",
-            "published_utc": "2025-11-13T14:47:22+00:00"
         },
         {
             "source": "Schneier",
@@ -723,13 +695,6 @@
             "published_utc": "2025-11-11T10:00:00+00:00"
         },
         {
-            "source": "KrebsOnSecurity",
-            "title": "Drilling Down on Uncle Sam’s Proposed TP-Link Ban",
-            "link": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
-            "summary": "The U.S. government is reportedly preparing to ban the sale of wireless routers and other networking gear from TP-Link Systems, a tech company that cu...",
-            "published_utc": "2025-11-09T18:14:40+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "The Government Shutdown Is a Ticking Cybersecurity Time Bomb",
             "link": "https://www.wired.com/story/the-government-shutdown-is-a-ticking-cybersecurity-time-bomb/",
@@ -770,13 +735,6 @@
             "link": "https://www.welivesecurity.com/en/eset-research/eset-apt-activity-report-q2-2025-q3-2025/",
             "summary": "An overview of the activities of selected APT groups investigated and analyzed by ESET Research in Q2 2025 and Q3 2025",
             "published_utc": "2025-11-06T09:45:00+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Cloudflare Scrubs Aisuru Botnet from Top Domains List",
-            "link": "https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/",
-            "summary": "For the past week, domains associated with the massive Aisuru botnet have repeatedly usurped Amazon, Apple, Google and Microsoft in Cloudflare's publi...",
-            "published_utc": "2025-11-06T02:04:36+00:00"
         },
         {
             "source": "WIRED Security",
@@ -826,13 +784,6 @@
             "link": "https://www.welivesecurity.com/en/business-security/ground-zero-5-things-discovering-cyberattack/",
             "summary": "When every minute counts, preparation and precision can mean the difference between disruption and disaster",
             "published_utc": "2025-11-03T10:00:00+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Alleged Jabber Zeus Coder ‘MrICQ’ in U.S. Custody",
-            "link": "https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/",
-            "summary": "A Ukrainian man indicted in 2012 for conspiring with a prolific hacking group to steal tens of millions of dollars from U.S. businesses was arrested i...",
-            "published_utc": "2025-11-02T20:37:24+00:00"
         },
         {
             "source": "WeLiveSecurity",
@@ -896,13 +847,6 @@
             "link": "https://www.welivesecurity.com/en/videos/cybersecurity-awareness-month-2025-when-seeing-isnt-believing/",
             "summary": "Deepfakes are blurring the line between real and fake and fraudsters are cashing in, using synthetic media for all manner of scams",
             "published_utc": "2025-10-29T10:00:00+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Aisuru Botnet Shifts from DDoS to Residential Proxies",
-            "link": "https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/",
-            "summary": "Aisuru, the botnet responsible for a series of record-smashing distributed denial-of-service (DDoS) attacks this year, recently was overhauled to supp...",
-            "published_utc": "2025-10-29T00:51:05+00:00"
         },
         {
             "source": "WIRED Security",
@@ -996,13 +940,6 @@
             "published_utc": "2025-10-22T20:31:57+00:00"
         },
         {
-            "source": "KrebsOnSecurity",
-            "title": "Canada Fines Cybercrime Friendly Cryptomus $176M",
-            "link": "https://krebsonsecurity.com/2025/10/canada-fines-cybercrime-friendly-cryptomus-176m/",
-            "summary": "Financial regulators in Canada this week levied $176 million in fines against Cryptomus, a digital payments platform that supports dozens of Russian c...",
-            "published_utc": "2025-10-22T17:21:36+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "The Long Tail of the AWS Outage",
             "link": "https://www.wired.com/story/aws-cloud-outage-long-tail/",
@@ -1050,13 +987,6 @@
             "link": "https://www.wired.com/story/anthropic-has-a-plan-to-keep-its-ai-from-building-a-nuclear-weapon-will-it-work/",
             "summary": "Anthropic partnered with the US government to create a filter meant to block Claude from helping someone build a nuke. Experts are divided on whether ...",
             "published_utc": "2025-10-20T09:00:00+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Email Bombs Exploit Lax Authentication in Zendesk",
-            "link": "https://krebsonsecurity.com/2025/10/email-bombs-exploit-lax-authentication-in-zendesk/",
-            "summary": "Cybercriminals are abusing a widespread lack of authentication in the customer service platform Zendesk to flood targeted email inboxes with menacing ...",
-            "published_utc": "2025-10-17T11:26:27+00:00"
         },
         {
             "source": "WeLiveSecurity",
