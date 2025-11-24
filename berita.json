@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2025-11-24T13:34:16.032705+00:00",
+    "lastUpdatedUTC": "2025-11-24T14:22:20.378591+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Harvard University discloses data breach affecting alumni, donors",
+            "link": "https://www.bleepingcomputer.com/news/security/harvard-university-discloses-data-breach-affecting-alumni-donors/",
+            "summary": "Harvard University disclosed over the weekend that its Alumni Affairs and Development systems were compromised in a voice phishing attack, exposing th...",
+            "published_utc": "2025-11-24T14:06:36+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Russian-linked Malware Campaign Hides in Blender 3D Files",
+            "link": "https://www.infosecurity-magazine.com/news/russian-malware-blender-3d-files/",
+            "summary": "Morphisec has observed a new operation embedding StealC V2 malware in Blender project files, targeting users via 3D assets and launching a multi-stage...",
+            "published_utc": "2025-11-24T14:00:00+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "Amazon Is Using Specialized AI Agents for Deep Bug Hunting",
+            "link": "https://www.wired.com/story/amazon-autonomous-threat-analysis/",
+            "summary": "Born out of an internal hackathon, Amazon’s Autonomous Threat Analysis system uses a variety of specialized AI agents to detect weaknesses and propose...",
+            "published_utc": "2025-11-24T14:00:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "AWS S3-Buckets im Visier von Ransomware-Banden",
+            "link": "https://www.csoonline.com/article/4095199/aws-s3-buckets-im-visier-von-ransomware-banden.html",
+            "summary": "",
+            "published_utc": "2025-11-24T13:54:22+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Invisible battles: How cybersecurity work erodes mental health in silence and what we can do about it",
+            "link": "https://www.csoonline.com/article/4094657/invisible-battles-how-cybersecurity-work-erodes-mental-health-in-silence-and-what-we-can-do-about-it.html",
+            "summary": "",
+            "published_utc": "2025-11-24T13:35:00+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Microsoft Highlights Security Risks Introduced by New Agentic AI Feature",
@@ -352,13 +387,6 @@
             "published_utc": "2025-11-21T19:07:34+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Microsoft: Out-of-band update fixes Windows 11 hotpatch install loop",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-out-of-band-update-fixes-windows-11-hotpatch-install-loop/",
-            "summary": "Microsoft has released an out-of-band cumulative update to fix a known issue causing the November 2025 KB5068966 hotpatch update to reinstall on Windo...",
-            "published_utc": "2025-11-21T18:02:05+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "From code to boardroom: A GenAI GRC approach to supply chain risk",
             "link": "https://www.csoonline.com/article/4094519/from-code-to-boardroom-a-genai-grc-approach-to-supply-chain-risk.html",
@@ -541,20 +569,6 @@
             "published_utc": "2025-11-20T13:39:29+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "3 ways CISOs can win over their boards this budget season",
-            "link": "https://www.csoonline.com/article/4093058/3-ways-cisos-can-win-over-their-boards-this-budget-season.html",
-            "summary": "",
-            "published_utc": "2025-11-20T12:31:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "China‑linked PlushDaemon hijacks DNS via ‘EdgeStepper’ to weaponize software updates",
-            "link": "https://www.csoonline.com/article/4093727/china%e2%80%91linked-plushdaemon-hijacks-dns-via-edgestepper-to-weaponize-software-updates.html",
-            "summary": "",
-            "published_utc": "2025-11-20T12:08:56+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Scam USPS and E-Z Pass Texts and Websites",
             "link": "https://www.schneier.com/blog/archives/2025/11/scam-usps-and-e-z-pass-texts-and-websites.html",
@@ -602,13 +616,6 @@
             "link": "https://www.infosecurity-magazine.com/news/europol-disrupts-cryptocurrency/",
             "summary": "Europe-wide Cyber-Patrol Week targeted IP violations, flagging 69 sites and disrupting $55m in crypto services",
             "published_utc": "2025-11-19T16:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Eternidade Stealer Trojan Fuels Aggressive Brazil Cybercrime",
-            "link": "https://www.infosecurity-magazine.com/news/eternidade-stealer-trojan-brazil/",
-            "summary": "Trustwave SpiderLabs has observed new banking Trojan Eternidade Stealer targeting Brazil using WhatsApp for propagation and data theft",
-            "published_utc": "2025-11-19T15:00:00+00:00"
         },
         {
             "source": "KrebsOnSecurity",
@@ -1036,13 +1043,6 @@
             "link": "https://www.wired.com/story/louvre-jewelry-theft-what-to-know/",
             "summary": "In just seven minutes, the thieves took off with crown jewels containing with thousands of diamonds along with other precious gems.",
             "published_utc": "2025-10-20T18:18:18+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "What the Huge AWS Outage Reveals About the Internet",
-            "link": "https://www.wired.com/story/what-that-huge-aws-outage-reveals-about-the-internet/",
-            "summary": "Amazon Web Services experienced DNS resolution issues on Monday morning, taking down wide swaths of the web—and highlighting a long-standing weakness ...",
-            "published_utc": "2025-10-20T14:22:46+00:00"
         },
         {
             "source": "WeLiveSecurity",
