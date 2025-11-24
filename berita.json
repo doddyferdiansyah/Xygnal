@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2025-11-24T11:19:02.411197+00:00",
+    "lastUpdatedUTC": "2025-11-24T12:45:18.936617+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Mazda Says No Data Leakage or Operational Impact From Oracle Hack",
+            "link": "https://www.securityweek.com/mazda-says-no-data-leakage-or-operational-impact-from-oracle-hack/",
+            "summary": "",
+            "published_utc": "2025-11-24T12:42:27+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Spanish Airline Iberia Notifies Customers of Data Breach",
+            "link": "https://www.securityweek.com/spanish-airline-iberia-notifies-customers-of-data-breach/",
+            "summary": "",
+            "published_utc": "2025-11-24T12:14:46+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "IACR Nullifies Election Because of Lost Decryption Key",
+            "link": "https://www.schneier.com/blog/archives/2025/11/iacr-nullifies-election-because-of-lost-decryption-key.html",
+            "summary": "",
+            "published_utc": "2025-11-24T12:03:46+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft to remove WINS support after Windows Server 2025",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-remove-wins-support-after-windows-server-2025/",
+            "summary": "Microsoft has warned IT administrators to prepare for the removal of Windows Internet Name Service (WINS) from Windows Server releases starting in Nov...",
+            "published_utc": "2025-11-24T11:47:01+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "146,000 Impacted by Delta Dental of Virginia Data Breach",
+            "link": "https://www.securityweek.com/146000-impacted-by-delta-dental-of-virginia-data-breach/",
+            "summary": "",
+            "published_utc": "2025-11-24T11:40:35+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Oracle OIM zero‑day: Pre‑auth RCE forces rapid patching across enterprises",
+            "link": "https://www.csoonline.com/article/4095150/oracle-oim-zero%e2%80%91day-pre%e2%80%91auth-rce-forces-rapid-patching-across-enterprises.html",
+            "summary": "",
+            "published_utc": "2025-11-24T11:28:01+00:00"
+        },
         {
             "source": "InfosecurityMag",
             "title": "CISA Urges Patch of Actively Exploited Flaw in Oracle Identity Manager",
@@ -303,25 +345,11 @@
             "published_utc": "2025-11-21T17:58:32+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "CrowdStrike catches insider feeding information to hackers",
-            "link": "https://www.bleepingcomputer.com/news/security/crowdstrike-catches-insider-feeding-information-to-hackers/",
-            "summary": "American cybersecurity firm CrowdStrike has confirmed that an insider shared screenshots taken on internal systems with hackers after they were leaked...",
-            "published_utc": "2025-11-21T16:48:41+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "From code to boardroom: A GenAI GRC approach to supply chain risk",
             "link": "https://www.csoonline.com/article/4094519/from-code-to-boardroom-a-genai-grc-approach-to-supply-chain-risk.html",
             "summary": "",
             "published_utc": "2025-11-21T16:33:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "FCC rolls back cybersecurity rules for telcos, despite state-hacking risks",
-            "link": "https://www.bleepingcomputer.com/news/security/fcc-rolls-back-cybersecurity-rules-for-telcos-despite-state-hacking-risks/",
-            "summary": "The Federal Communications Commission (FCC) has rolled back a previous ruling that required U.S. telecom carriers to implement stricter cybersecurity ...",
-            "published_utc": "2025-11-21T16:01:41+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -415,25 +443,11 @@
             "published_utc": "2025-11-21T11:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Runlayer Emerges From Stealth Mode With $11 Million in Funding",
-            "link": "https://www.securityweek.com/runlayer-emerges-from-stealth-mode-with-11-million-in-funding/",
-            "summary": "",
-            "published_utc": "2025-11-21T10:36:26+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "New Gainsight Supply Chain Hack Could Affect Salesforce Customers",
             "link": "https://www.infosecurity-magazine.com/news/new-gainsight-supply-chain-hack/",
             "summary": "Salesforce believes there has been unauthorized access to its customers’ data through the Gainsight app’s connection to its platform",
             "published_utc": "2025-11-21T10:15:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Salesforce Instances Hacked via Gainsight Integrations",
-            "link": "https://www.securityweek.com/salesforce-instances-hacked-via-gainsight-integrations/",
-            "summary": "",
-            "published_utc": "2025-11-21T09:38:19+00:00"
         },
         {
             "source": "CSO Online",
@@ -476,13 +490,6 @@
             "link": "https://www.wired.com/story/smuggling-supercomputers-china-nvidia-indictment/",
             "summary": "A federal prosecutor alleged that one defendant boasted that his father “had engaged in similar business for the Chinese Communist Party.”",
             "published_utc": "2025-11-20T22:26:17+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Russian Hacking Suspect Wanted by the FBI Arrested on Thai Resort Island",
-            "link": "https://www.securityweek.com/russian-hacking-suspect-wanted-by-the-fbi-arrested-on-thai-resort-island/",
-            "summary": "",
-            "published_utc": "2025-11-20T22:14:56+00:00"
         },
         {
             "source": "CSO Online",
@@ -581,13 +588,6 @@
             "link": "https://www.csoonline.com/article/4089738/selling-to-the-ciso-an-open-letter-to-the-cybersecurity-industry.html",
             "summary": "",
             "published_utc": "2025-11-20T07:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Attack Surface Management – ein Kaufratgeber",
-            "link": "https://www.csoonline.com/article/3492897/attack-surface-management-losungen-9-tools-um-ihre-angriffsflache-zu-managen.html",
-            "summary": "",
-            "published_utc": "2025-11-20T04:00:00+00:00"
         },
         {
             "source": "WIRED Security",
@@ -700,13 +700,6 @@
             "link": "https://www.schneier.com/blog/archives/2025/11/upcoming-speaking-engagements-50.html",
             "summary": "",
             "published_utc": "2025-11-14T17:08:57+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "The Role of Humans in an AI-Powered World",
-            "link": "https://www.schneier.com/blog/archives/2025/11/the-role-of-humans-in-an-ai-powered-world.html",
-            "summary": "",
-            "published_utc": "2025-11-14T12:00:33+00:00"
         },
         {
             "source": "KrebsOnSecurity",
