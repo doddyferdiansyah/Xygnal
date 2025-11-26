@@ -1,6 +1,13 @@
 {
-    "lastUpdatedUTC": "2025-11-26T07:20:28.613133+00:00",
+    "lastUpdatedUTC": "2025-11-26T08:29:52.829866+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Dartmouth College Confirms Data Theft in Oracle Hack",
+            "link": "https://www.securityweek.com/dartmouth-college-confirms-data-theft-in-oracle-hack/",
+            "summary": "",
+            "published_utc": "2025-11-26T08:09:20+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "Alliances between ransomware groups tied to recent surge in cybercrime",
@@ -352,13 +359,6 @@
             "published_utc": "2025-11-25T10:00:00+00:00"
         },
         {
-            "source": "WeLiveSecurity",
-            "title": "Influencers in the crosshairs: How cybercriminals are targeting content creators",
-            "link": "https://www.welivesecurity.com/en/social-media/influencers-crosshairs-cybercriminals-targeting-content-creators/",
-            "summary": "Social media influencers can provide reach and trust for scams and malware distribution. Robust account protection is key to stopping the fraudsters.",
-            "published_utc": "2025-11-25T10:00:00+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "Canon Says Subsidiary Impacted by Oracle EBS Hack",
             "link": "https://www.securityweek.com/canon-says-subsidiary-impacted-by-oracle-ebs-hack/",
@@ -420,13 +420,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/real-estate-finance-services-giant-situsamc-breach-exposes-client-data/",
             "summary": "SitusAMC, a company that provides back-end services for top banks and lenders, disclosed on Saturday a data breach it had discovered earlier this mont...",
             "published_utc": "2025-11-24T17:36:28+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "CISA Confirms Exploitation of Recent Oracle Identity Manager Vulnerability",
-            "link": "https://www.securityweek.com/cisa-confirms-exploitation-of-recent-oracle-identity-manager-vulnerability/",
-            "summary": "",
-            "published_utc": "2025-11-24T15:37:51+00:00"
         },
         {
             "source": "CSO Online",
@@ -633,7 +626,7 @@
         },
         {
             "source": "WeLiveSecurity",
-            "title": "The OSINT advantage: Find your weak spots before attackers do",
+            "title": "The OSINT playbook: Find your weak spots before attackers do",
             "link": "https://www.welivesecurity.com/en/privacy/osint-playbook-find-weak-spots-attackers-do/",
             "summary": "Here’s how open-source intelligence helps trace your digital footprint and uncover your weak points, plus a few essential tools to connect the dots",
             "published_utc": "2025-11-20T10:00:00+00:00"
@@ -1582,6 +1575,13 @@
             "link": "https://www.welivesecurity.com/en/cybersecurity/super-smart-ai-attacking/",
             "summary": "What practical AI attacks exist today? “More than zero” is the answer – and they’re getting better.",
             "published_utc": "2025-04-22T09:00:00+00:00"
+        },
+        {
+            "source": "WeLiveSecurity",
+            "title": "CapCut copycats are on the prowl",
+            "link": "https://www.welivesecurity.com/en/scams/capcut-copycats-prowl/",
+            "summary": "Cybercriminals lure content creators with promises of cutting-edge AI wizardry, only to attempt to steal their data or hijack their devices instead",
+            "published_utc": "2025-04-17T09:00:00+00:00"
         },
         {
             "source": "NVD (NIST)",
