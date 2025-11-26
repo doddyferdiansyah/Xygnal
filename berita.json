@@ -1,12 +1,47 @@
 {
-    "lastUpdatedUTC": "2025-11-26T12:46:51.489554+00:00",
+    "lastUpdatedUTC": "2025-11-26T13:35:32.486575+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft to secure Entra ID sign-ins from script injection attacks",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-secure-entra-id-sign-ins-from-external-script-injection-attacks/",
+            "summary": "Starting in mid-to-late October 2026, Microsoft will enhance the security of the Entra ID authentication system against external script injection atta...",
+            "published_utc": "2025-11-26T13:26:06+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Account Takeover Fraud Caused $262 Million in Losses in 2025: FBI",
+            "link": "https://www.securityweek.com/account-takeover-fraud-caused-262-million-in-losses-in-2025-fbi/",
+            "summary": "",
+            "published_utc": "2025-11-26T13:23:38+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Vibe coding feels magical, but it can sink your business fast - here's how",
+            "link": "https://www.zdnet.com/article/vibe-coding-feels-magical-but-it-can-sink-your-business-fast-heres-how/",
+            "summary": "What may start as 'move fast and break things' too often becomes move fast and break everything, then spend a fortune rebuilding it.'",
+            "published_utc": "2025-11-26T13:23:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "I found the best Black Friday deals: 85+ sales from Apple, HBO, LG, Roku, and more tracked live",
             "link": "https://www.zdnet.com/article/black-friday-deals-2025-amazon-best-buy-hulu/",
             "summary": "Black Friday is just days away, and nearly every major retailer is offering discounts, like Disney+ and Hulu for $4.99 a month.",
-            "published_utc": "2025-11-26T12:43:00+00:00"
+            "published_utc": "2025-11-26T13:23:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "We found the 50 best Black Friday TV deals, and we're tracking them live",
+            "link": "https://www.zdnet.com/article/black-friday-tv-deals-live-amazon-best-buy-lg/",
+            "summary": "Black Friday is only a few days away, and we're following great live deals on TVs, streaming bundles, and home theater equipment from Samsung, Sony, a...",
+            "published_utc": "2025-11-26T13:22:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Thousands of Secrets Leaked on Code Formatting Platforms",
+            "link": "https://www.securityweek.com/thousands-of-secrets-leaked-on-code-formatting-platforms/",
+            "summary": "",
+            "published_utc": "2025-11-26T12:58:18+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -14,13 +49,6 @@
             "link": "https://www.zdnet.com/article/your-windows-11-upgrade-not-working-try-my-5-favorite-troubleshooting-tricks/",
             "summary": "If a Windows upgrade has ever gone sideways on you, you know how vague and unhelpful the error messages can be. Here are my go-to troubleshooting tric...",
             "published_utc": "2025-11-26T12:36:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "We found the 50 best Black Friday TV deals, and we're tracking them live",
-            "link": "https://www.zdnet.com/article/black-friday-tv-deals-live-amazon-best-buy-lg/",
-            "summary": "Black Friday is days away, and we're following great live deals on TVs, streaming bundles, and home theater equipment from Samsung, Sony, and more.",
-            "published_utc": "2025-11-26T12:12:00+00:00"
         },
         {
             "source": "Schneier",
@@ -35,13 +63,6 @@
             "link": "https://www.infosecurity-magazine.com/news/gainsight-cyberattack-more/",
             "summary": "The CEO of the customer support platform said “a handful of customers” saw their data exposed after the breach",
             "published_utc": "2025-11-26T12:05:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How vibe coding can make your software headaches worse, experts warn",
-            "link": "https://www.zdnet.com/article/how-vibe-coding-can-make-your-software-headaches-worse-experts-warn/",
-            "summary": "What may start as 'move fast and break things' too often becomes move fast and break everything, then spend a fortune rebuilding it.'",
-            "published_utc": "2025-11-26T12:00:40+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -331,25 +352,11 @@
             "published_utc": "2025-11-25T14:03:20+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Fluent Bit Vulnerabilities Expose Cloud Services to Takeover",
-            "link": "https://www.securityweek.com/fluent-bit-vulnerabilities-expose-cloud-services-to-takeover/",
-            "summary": "",
-            "published_utc": "2025-11-25T13:45:15+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "New FlexibleFerret Malware Chain Targets macOS With Go Backdoor",
             "link": "https://www.infosecurity-magazine.com/news/flexibleferret-malware-macos-go/",
             "summary": "A new macOS malware chain using staged scripts and a Go-based backdoor has been attributed to FlexibleFerret, designed to steal credentials and mainta...",
             "published_utc": "2025-11-25T13:45:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "WormGPT 4 and KawaiiGPT: New Dark LLMs Boost Cybercrime Automation",
-            "link": "https://www.securityweek.com/wormgpt-4-and-kawaiigpt-new-dark-llms-boost-cybercrime-automation/",
-            "summary": "",
-            "published_utc": "2025-11-25T13:35:19+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -443,13 +450,6 @@
             "published_utc": "2025-11-24T22:00:45+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "ClickFix attack uses fake Windows Update screen to push malware",
-            "link": "https://www.bleepingcomputer.com/news/security/clickfix-attack-uses-fake-windows-update-screen-to-push-malware/",
-            "summary": "New ClickFix attack variants have been observed where threat actors trick users with a realistic-looking Windows Update animation in a full-screen bro...",
-            "published_utc": "2025-11-24T20:42:35+00:00"
-        },
-        {
             "source": "KrebsOnSecurity",
             "title": "Is Your Android TV Streaming Box Part of a Botnet?",
             "link": "https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/",
@@ -462,13 +462,6 @@
             "link": "https://www.csoonline.com/article/568125/cso-hall-of-fame-honorees.html",
             "summary": "",
             "published_utc": "2025-11-24T17:47:27+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Real-estate finance services giant SitusAMC breach exposes client data",
-            "link": "https://www.bleepingcomputer.com/news/security/real-estate-finance-services-giant-situsamc-breach-exposes-client-data/",
-            "summary": "SitusAMC, a company that provides back-end services for top banks and lenders, disclosed on Saturday a data breach it had discovered earlier this mont...",
-            "published_utc": "2025-11-24T17:36:28+00:00"
         },
         {
             "source": "CSO Online",
