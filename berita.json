@@ -1,19 +1,26 @@
 {
-    "lastUpdatedUTC": "2025-11-28T12:43:10.265044+00:00",
+    "lastUpdatedUTC": "2025-11-28T13:31:16.739743+00:00",
     "articles": [
         {
             "source": "ZDNet Security",
             "title": "I'm saving up to 75% off on the best Black Friday deals from Amazon, Walmart, Target & more",
             "link": "https://www.zdnet.com/article/black-friday-deals-2025-amazon-best-buy-hulu-11-27/",
             "summary": "Black Friday deals have arrived, and nearly every major retailer is offering big discounts, like Disney+ and Hulu for only $4.99 a month.",
-            "published_utc": "2025-11-28T12:31:00+00:00"
+            "published_utc": "2025-11-28T13:18:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Google-Antigravity-Lücke: KI-Coding-Tool anfällig für Angriffe",
+            "link": "https://www.csoonline.com/article/4097974/google-antigravity-lucke-ki-coding-tool-anfallig-fur-angriffe.html",
+            "summary": "",
+            "published_utc": "2025-11-28T13:15:28+00:00"
         },
         {
             "source": "ZDNet Security",
             "title": "We found the 70+ best Black Friday TV deals, and we're tracking them live",
             "link": "https://www.zdnet.com/article/black-friday-tv-deals-live-amazon-best-buy-lg-11-27/",
             "summary": "We're following great Black Friday deals live on TVs, streaming bundles, and home theater equipment from Samsung, Sony, and more.",
-            "published_utc": "2025-11-28T12:28:00+00:00"
+            "published_utc": "2025-11-28T13:15:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -219,6 +226,13 @@
             "published_utc": "2025-11-28T01:56:57+00:00"
         },
         {
+            "source": "BleepingComputer",
+            "title": "Malicious LLMs empower inexperienced hackers with advanced tools",
+            "link": "https://www.bleepingcomputer.com/news/security/malicious-llms-empower-inexperienced-hackers-with-advanced-tools/",
+            "summary": "Unrestricted large language models (LLMs) like WormGPT 4 and KawaiiGPT are improving their capabilities to generate malicious code, delivering functio...",
+            "published_utc": "2025-11-27T17:15:27+00:00"
+        },
+        {
             "source": "InfosecurityMag",
             "title": "FCC Warns of Hackers Hijacking Radio Equipment For False Alerts",
             "link": "https://www.infosecurity-magazine.com/news/fcc-hackers-hijacking-radio/",
@@ -238,6 +252,13 @@
             "link": "https://www.securityweek.com/asahi-data-breach-impacts-2-million-individuals/",
             "summary": "",
             "published_utc": "2025-11-27T15:52:10+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "GreyNoise launches free scanner to check if you're part of a botnet",
+            "link": "https://www.bleepingcomputer.com/news/security/greynoise-launches-free-scanner-to-check-if-youre-part-of-a-botnet/",
+            "summary": "GreyNoise Labs has launched a free tool called GreyNoise IP Check that lets users check if their IP address has been observed in malicious scanning op...",
+            "published_utc": "2025-11-27T15:11:21+00:00"
         },
         {
             "source": "CSO Online",
@@ -506,25 +527,11 @@
             "published_utc": "2025-11-26T11:55:40+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "ASUS warns of new critical auth bypass flaw in AiCloud routers",
-            "link": "https://www.bleepingcomputer.com/news/security/asus-warns-of-new-critical-auth-bypass-flaw-in-aicloud-routers/",
-            "summary": "ASUS has released new firmware to patch nine security vulnerabilities, including a critical authentication bypass flaw in routers with AiCloud enabled...",
-            "published_utc": "2025-11-26T11:41:00+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "Ransomware Attack Disrupts Local Emergency Alert System Across US",
             "link": "https://www.securityweek.com/ransomware-attack-disrupts-local-emergency-alert-system-across-us/",
             "summary": "",
             "published_utc": "2025-11-26T11:38:07+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Passwork 7: Self-hosted password and secrets manager for enterprise teams",
-            "link": "https://www.bleepingcomputer.com/news/security/passwork-7-self-hosted-password-and-secrets-manager-for-enterprise-teams/",
-            "summary": "Passwork 7 unifies enterprise password and secrets management in a self-hosted platform. Organizations can automate credential workflows and test the ...",
-            "published_utc": "2025-11-26T10:12:17+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -541,32 +548,11 @@
             "published_utc": "2025-11-26T08:09:20+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Alliances between ransomware groups tied to recent surge in cybercrime",
-            "link": "https://www.csoonline.com/article/4096263/alliances-between-ransomware-groups-tied-to-recent-surge-in-cybercrime.html",
-            "summary": "",
-            "published_utc": "2025-11-26T07:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "OnSolve CodeRED cyberattack disrupts emergency alert systems nationwide",
-            "link": "https://www.bleepingcomputer.com/news/security/onsolve-codered-cyberattack-disrupts-emergency-alert-systems-nationwide/",
-            "summary": "Risk management company Crisis24 has confirmed its OnSolve CodeRED platform suffered a cyberattack that disrupted emergency notification systems used ...",
-            "published_utc": "2025-11-25T21:48:40+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "ICE Offers Up to $280 Million to Immigrant-Tracking ‘Bounty Hunter’ Firms",
             "link": "https://www.wired.com/story/ice-bounty-hunter-spy-program/",
             "summary": "Immigration and Customs Enforcement lifted a $180 million cap on a proposed immigrant-tracking program while guaranteeing multimillion-dollar payouts ...",
             "published_utc": "2025-11-25T19:54:15+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "The Black Friday 2025 Cybersecurity, IT, VPN, & Antivirus Deals",
-            "link": "https://www.bleepingcomputer.com/news/security/the-black-friday-2025-cybersecurity-it-vpn-and-antivirus-deals/",
-            "summary": "Black Friday 2025 is almost here, and early deals are already live across security software, online courses, system administration tools, antivirus pr...",
-            "published_utc": "2025-11-25T19:14:06+00:00"
         },
         {
             "source": "Schneier",
