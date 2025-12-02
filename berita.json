@@ -1,6 +1,34 @@
 {
-    "lastUpdatedUTC": "2025-12-02T11:21:00.395047+00:00",
+    "lastUpdatedUTC": "2025-12-02T12:47:17.912898+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Saporo Raises $8 Million for Identity Security Platform",
+            "link": "https://www.securityweek.com/saporo-raises-8-million-for-identity-security-platform/",
+            "summary": "",
+            "published_utc": "2025-12-02T12:17:09+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Like Social Media, AI Requires Difficult Choices",
+            "link": "https://www.schneier.com/blog/archives/2025/12/like-social-media-ai-requires-difficult-choices.html",
+            "summary": "",
+            "published_utc": "2025-12-02T12:03:01+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Vulnerability in OpenAI Coding Agent Could Facilitate Attacks on Developers",
+            "link": "https://www.securityweek.com/vulnerability-in-openai-coding-agent-could-facilitate-attacks-on-developers/",
+            "summary": "",
+            "published_utc": "2025-12-02T12:02:32+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "AI Adoption Surges While Governance Lags — Report Warns of Growing Shadow Identity Risk",
+            "link": "https://www.csoonline.com/article/4099211/ai-adoption-surges-while-governance-lags-report-warns-of-growing-shadow-identity-risk.html",
+            "summary": "",
+            "published_utc": "2025-12-02T11:58:00+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Windows 11 KB5070311 update fixes File Explorer freezes, search issues",
@@ -387,13 +415,6 @@
             "published_utc": "2025-12-01T10:02:00+00:00"
         },
         {
-            "source": "WeLiveSecurity",
-            "title": "Oversharing is not caring: What’s at stake if your employees post too much online",
-            "link": "https://www.welivesecurity.com/en/business-security/oversharing-is-not-caring-stake-employees-post-too-much-online/",
-            "summary": "From LinkedIn to X, GitHub to Instagram, there are plenty of opportunities to share work-related information. But posting could also get your company ...",
-            "published_utc": "2025-12-01T10:00:00+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "Australian Man Sentenced to Prison for Wi-Fi Attacks at Airports and on Flights",
             "link": "https://www.securityweek.com/australian-man-sentenced-to-prison-for-wi-fi-attacks-at-airports-and-on-flights/",
@@ -513,13 +534,6 @@
             "published_utc": "2025-11-28T12:17:51+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "In Other News: HashJack AI Browser Attack, Charming Kitten Leak, Hacker Unmasked",
-            "link": "https://www.securityweek.com/in-other-news-hashjack-ai-browser-attack-charming-kitten-leak-hacker-unmasked/",
-            "summary": "",
-            "published_utc": "2025-11-28T10:24:24+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Scattered Lapsus$ Hunters target Zendesk users with fake domains",
             "link": "https://www.csoonline.com/article/4097846/scattered-lapsus-hunters-target-zendesk-users-with-fake-domains.html",
@@ -553,20 +567,6 @@
             "link": "https://www.csoonline.com/article/4024816/7-security-praktiken-zum-abgewohnen.html",
             "summary": "",
             "published_utc": "2025-11-28T07:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Empathetic policy engineering: The secret to better security behavior and awareness",
-            "link": "https://www.csoonline.com/article/4092639/empathy-meets-it-security-the-path-to-active-compliance.html",
-            "summary": "",
-            "published_utc": "2025-11-28T07:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Asahi Data Breach Impacts 2 Million Individuals",
-            "link": "https://www.securityweek.com/asahi-data-breach-impacts-2-million-individuals/",
-            "summary": "",
-            "published_utc": "2025-11-27T15:52:10+00:00"
         },
         {
             "source": "WIRED Security",
@@ -700,13 +700,6 @@
             "link": "https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/",
             "summary": "In March 2024, Mozilla said it was winding down its collaboration with Onerep -- an identity protection service offered with the Firefox web browser t...",
             "published_utc": "2025-11-20T19:06:51+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Scam USPS and E-Z Pass Texts and Websites",
-            "link": "https://www.schneier.com/blog/archives/2025/11/scam-usps-and-e-z-pass-texts-and-websites.html",
-            "summary": "",
-            "published_utc": "2025-11-20T12:07:38+00:00"
         },
         {
             "source": "WIRED Security",
@@ -1568,6 +1561,13 @@
             "link": "https://www.welivesecurity.com/en/mobile-security/how-safe-secure-iphone/",
             "summary": "Your iPhone isn't necessarily as invulnerable to security threats as you may think. Here are the key dangers to watch out for and how to harden your d...",
             "published_utc": "2025-04-28T09:47:37+00:00"
+        },
+        {
+            "source": "WeLiveSecurity",
+            "title": "Deepfake 'doctors' take to TikTok to peddle bogus cures",
+            "link": "https://www.welivesecurity.com/en/social-media/deepfake-doctors-tiktok-bogus-cures/",
+            "summary": "Look out for AI-generated 'TikDocs' who exploit the public's trust in the medical profession to drive sales of sketchy supplements",
+            "published_utc": "2025-04-25T09:00:00+00:00"
         },
         {
             "source": "NVD (NIST)",
