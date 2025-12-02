@@ -1,6 +1,55 @@
 {
-    "lastUpdatedUTC": "2025-12-02T18:35:09.415192+00:00",
+    "lastUpdatedUTC": "2025-12-02T19:20:04.323834+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "Google Pixel Watch 4 is my favorite smartwatch - and it's still selling at its lowest price yet",
+            "link": "https://www.zdnet.com/article/google-pixel-watch-4-is-my-favorite-smartwatch-and-its-still-selling-at-its-lowest-price-yet/",
+            "summary": "The Pixel Watch 4 is one of the best Android wearables of this season, thanks to its stylish design and rich features. Over at Amazon, it's 22% off.",
+            "published_utc": "2025-12-02T19:10:27+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "Your Data Might Determine How Much You Pay for Eggs",
+            "link": "https://www.wired.com/story/algorithmic-pricing-eggs-ny-law/",
+            "summary": "A newly enacted New York law requires retailers to say whether your data influences the price of basic goods like a dozen eggs or toilet paper, but no...",
+            "published_utc": "2025-12-02T19:10:21+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Amazon says new DevOps agents need no babysitting - you can try them here",
+            "link": "https://www.zdnet.com/article/amazons-new-devops-agents-need-no-babysitting-you-can-try-them-here/",
+            "summary": "AWS claims its frontier agents can 'figure out' how to achieve goals and can run for days without human supervision.",
+            "published_utc": "2025-12-02T19:06:56+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Shai-Hulud 2.0 NPM malware attack exposed up to 400,000 dev secrets",
+            "link": "https://www.bleepingcomputer.com/news/security/shai-hulud-20-npm-malware-attack-exposed-up-to-400-000-dev-secrets/",
+            "summary": "The second Shai-Hulud attack last week exposed around 400,000 raw secrets after infecting hundreds of packages in the NPM (Node Package Manager) regis...",
+            "published_utc": "2025-12-02T19:06:20+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How to use Bluesky: A beginner's guide to the most popular X alternative",
+            "link": "https://www.zdnet.com/article/how-to-use-bluesky-a-beginners-guide-to-the-most-popular-x-alternative/",
+            "summary": "Bluesky is one of several social networks offering an alternative to the platform formerly known as Twitter. Here's how to join and use it.",
+            "published_utc": "2025-12-02T19:01:22+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Your Android phone is getting 3 huge upgrades - and Google just ditched yearly updates",
+            "link": "https://www.zdnet.com/article/your-android-phone-is-getting-3-huge-upgrades-and-google-just-ditched-yearly-updates/",
+            "summary": "Android users are getting urgent call indicators, increased scam protection, pinned tabs in Chrome, and more.",
+            "published_utc": "2025-12-02T19:00:40+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The lightweight Linux distro every media junkie should try - and why",
+            "link": "https://www.zdnet.com/article/the-lightweight-linux-distro-every-media-junkie-should-try-and-why/",
+            "summary": "The latest release of 4MLinux might be just the ticket you need, if you create and consume media like it's your job.",
+            "published_utc": "2025-12-02T18:36:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "I bought a top-selling art TV deal for Cyber Monday (and it's not the Frame)",
@@ -114,13 +163,6 @@
             "published_utc": "2025-12-02T16:43:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I found a powerful Microsoft Office alternative that doesn't push AI - and it's free",
-            "link": "https://www.zdnet.com/article/i-found-a-powerful-microsoft-office-alternative-that-doesnt-push-ai-and-its-free/",
-            "summary": "If you're looking for a new office suite that is locally installed and fully featured, Collabora runs on Linux, MacOS, and Windows.",
-            "published_utc": "2025-12-02T16:23:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Microsoft Defender portal outage disrupts threat hunting alerts",
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-portal-outage-blocks-access-to-security-alerts/",
@@ -133,34 +175,6 @@
             "link": "https://www.infosecurity-magazine.com/news/picklescan-flaws-expose-ai-supply/",
             "summary": "3 critical zero-day flaws in PickleScan, affecting Python and PyTorch, allowed undetected attacks",
             "published_utc": "2025-12-02T16:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I found the 10+ best Cyber Monday phone deals still live (including Verizon and T-Mobile offers)",
-            "link": "https://www.zdnet.com/article/cyber-monday-phone-deals-live-amazon-verizon-t-mobile-still-live/",
-            "summary": "There are still post-Cyber Monday phone deals from T-Mobile, Verizon, and AT&amp;T. Read on for the best discounts we've found that are still available.",
-            "published_utc": "2025-12-02T15:55:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I found the best Verizon deals for Cyber Monday 2025 on iPhones, Android, more still live",
-            "link": "https://www.zdnet.com/article/best-cyber-monday-verizon-deals-iphone-galaxy-pixel-last-chance/",
-            "summary": "Black Friday and Cyber Monday have ended, but these incredible deals on new phones, tablets, and gaming consoles are still available.",
-            "published_utc": "2025-12-02T15:46:34+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "My favorite Cyber Monday VPN deals still live: Discounts for ExpressVPN, NordVPN, and more live now",
-            "link": "https://www.zdnet.com/article/cyber-monday-vpn-deals-surfshark-nordvpn-proton-still-live/",
-            "summary": "Looking to sign up for a VPN but want to avoid costly subscriptions? I'm a VPN reviewer, and these are my picks for the best Cyber Monday VPN deals st...",
-            "published_utc": "2025-12-02T15:46:06+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Best Cyber Monday monitor deals 2025: I found 45+ sales still live today",
-            "link": "https://www.zdnet.com/article/best-cyber-monday-monitor-deals-2025-i-found-45-sales-still-live-today/",
-            "summary": "Cyber Monday deals for top monitors from Samsung, LG, Acer, and more are still live - and these are my top picks.",
-            "published_utc": "2025-12-02T15:43:10+00:00"
         },
         {
             "source": "CSO Online",
@@ -427,13 +441,6 @@
             "link": "https://www.securityweek.com/29-million-worth-of-bitcoin-seized-in-cryptomixer-takedown/",
             "summary": "",
             "published_utc": "2025-12-01T15:37:35+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "When Hackers Wear Suits: Protecting Your Team from Insider Cyber Threats",
-            "link": "https://www.bleepingcomputer.com/news/security/when-hackers-wear-suits-protecting-your-team-from-insider-cyber-threats/",
-            "summary": "Hackers impersonate IT pros with deepfakes, fake resumes, and stolen identities, turning hiring pipelines into insider threats. Huntres sLabs explains...",
-            "published_utc": "2025-12-01T15:15:25+00:00"
         },
         {
             "source": "CSO Online",
@@ -1050,13 +1057,6 @@
             "link": "https://www.wired.com/story/chatbots-are-pushing-sanctioned-russian-propaganda/",
             "summary": "ChatGPT, Gemini, DeepSeek, and Grok are serving users propaganda from Russian-backed media when asked about the invasion of Ukraine, new research finds.",
             "published_utc": "2025-10-27T09:00:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "Amazon Explains How Its AWS Outage Took Down the Web",
-            "link": "https://www.wired.com/story/amazon-explains-how-its-aws-outage-took-down-the-web/",
-            "summary": "Plus: The Jaguar Land Rover hack sets an expensive new record, OpenAI’s new Atlas browser raises security fears, Starlink cuts off scam compounds, and...",
-            "published_utc": "2025-10-25T10:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
