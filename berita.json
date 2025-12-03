@@ -1,11 +1,46 @@
 {
-    "lastUpdatedUTC": "2025-12-03T11:20:19.798247+00:00",
+    "lastUpdatedUTC": "2025-12-03T12:48:09.816980+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "I think I know what's coming in Windows 12, and you're not going to like it",
+            "link": "https://www.zdnet.com/article/i-think-i-know-whats-coming-in-windows-12-and-youre-not-going-to-like-it/",
+            "summary": "Commentary: Windows 10 is dead. Windows 12 will be here before you know it. So, what can we expect? Spoiler: It will be very annoying.",
+            "published_utc": "2025-12-03T12:28:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Arizona Attorney General Sues Chinese Online Retailer Temu Over Data Theft Claims",
+            "link": "https://www.securityweek.com/arizona-attorney-general-sues-chinese-online-retailer-temu-over-data-theft-claims/",
+            "summary": "",
+            "published_utc": "2025-12-03T12:24:28+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "ServiceNow to Acquire Identity Security Firm Veza in Reported $1 Billion Deal",
+            "link": "https://www.securityweek.com/servicenow-to-acquire-identity-security-firm-veza-in-reported-1-billion-deal/",
+            "summary": "",
+            "published_utc": "2025-12-03T12:01:59+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Penn and Phoenix Universities Disclose Data Breach After Oracle Hack",
+            "link": "https://www.securityweek.com/penn-and-phoenix-universities-disclose-data-breach-after-oracle-hack/",
+            "summary": "",
+            "published_utc": "2025-12-03T11:30:00+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "re:Invent 2025: AWS and Security Vendors Unveil New Products and Capabilities",
             "link": "https://www.securityweek.com/reinvent-2025-aws-and-security-vendors-unveil-new-products-and-capabilities/",
             "summary": "",
+            "published_utc": "2025-12-03T11:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Disinformation and Cyber-Threats Among Top Global Exec Concerns",
+            "link": "https://www.infosecurity-magazine.com/news/disinformation-cyberthreats-global/",
+            "summary": "A new WEF report reveals that AI-powered threats like disinformation are among executives’ biggest concerns",
             "published_utc": "2025-12-03T11:00:00+00:00"
         },
         {
@@ -96,8 +131,8 @@
             "source": "ZDNet Security",
             "title": "Is DeepSeek's new model the latest blow to proprietary AI?",
             "link": "https://www.zdnet.com/article/is-deepseeks-new-model-the-latest-blow-to-proprietary-ai/",
-            "summary": "With impressive benchmark results, the Chinese AI lab's latest open-source release reignites questions about whether expensive models are worth it.",
-            "published_utc": "2025-12-03T03:00:36+00:00"
+            "summary": "With impressive benchmark results, the Chinese AI lab's V3.2 reignites questions about whether expensive models are worth it.",
+            "published_utc": "2025-12-03T03:00:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -189,13 +224,6 @@
             "link": "https://www.zdnet.com/article/cyber-monday-gaming-pc-deals-acer-amazon-best-buy-still-available/",
             "summary": "Cyber Monday is over, but you still have a chance to snag great deals on gaming laptops, monitors, and more.",
             "published_utc": "2025-12-03T01:12:13+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Google Pixel 10 Pro Fold vs. Samsung Galaxy Z Fold 7: We tried both, and here's who wins",
-            "link": "https://www.zdnet.com/article/google-pixel-10-pro-fold-vs-samsung-galaxy-z-fold-7-we-tried-both-and-heres-who-wins/",
-            "summary": "Samsung's and Google's flagship foldables target different users - here's how to choose the one that best suits you.",
-            "published_utc": "2025-12-03T01:11:00+00:00"
         },
         {
             "source": "WIRED Security",
@@ -359,13 +387,6 @@
             "published_utc": "2025-12-02T12:03:01+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Vulnerability in OpenAI Coding Agent Could Facilitate Attacks on Developers",
-            "link": "https://www.securityweek.com/vulnerability-in-openai-coding-agent-could-facilitate-attacks-on-developers/",
-            "summary": "",
-            "published_utc": "2025-12-02T12:02:32+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "AI Adoption Surges While Governance Lags — Report Warns of Growing Shadow Identity Risk",
             "link": "https://www.csoonline.com/article/4099211/ai-adoption-surges-while-governance-lags-report-warns-of-growing-shadow-identity-risk.html",
@@ -387,13 +408,6 @@
             "published_utc": "2025-12-02T11:15:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Personal Information of 33.7 Million Stolen From Coupang",
-            "link": "https://www.securityweek.com/personal-information-of-33-7-million-stolen-from-coupang/",
-            "summary": "",
-            "published_utc": "2025-12-02T10:38:59+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "ICO Set to Check If Mobile Games Comply with Children’s Code",
             "link": "https://www.infosecurity-magazine.com/news/ico-check-mobile-games-comply/",
@@ -413,13 +427,6 @@
             "link": "https://www.infosecurity-magazine.com/news/companies-fear-state-attacks-more/",
             "summary": "New IO study claims 88% of US and UK firms are concerned about state-sponsored cyber-attacks",
             "published_utc": "2025-12-02T09:40:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Android Zero-Days Patched in December 2025 Security Update",
-            "link": "https://www.securityweek.com/androids-december-2025-updates-patch-two-zero-days/",
-            "summary": "",
-            "published_utc": "2025-12-02T09:36:46+00:00"
         },
         {
             "source": "CSO Online",
@@ -539,13 +546,6 @@
             "link": "https://www.infosecurity-magazine.com/news/europol-takes-down-illegal/",
             "summary": "Europol, alongside Swiss and German authorities, dismantled the illegal cryptocurrency mixing service ‘Cryptomixer’",
             "published_utc": "2025-12-01T11:10:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Australian Man Gets Seven Years for Running “Evil Twin” Wi-Fi",
-            "link": "https://www.infosecurity-magazine.com/news/australian-man-seven-years-evil/",
-            "summary": "A Western Australia man will spend seven years behind bars after stealing intimate data via Wi-Fi",
-            "published_utc": "2025-12-01T10:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
