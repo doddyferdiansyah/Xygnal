@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2025-12-04T22:19:33.883926+00:00",
+    "lastUpdatedUTC": "2025-12-04T23:20:50.169015+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers are exploiting ArrayOS AG VPN flaw to plant webshells",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-arrayos-ag-vpn-flaw-to-plant-webshells/",
+            "summary": "Threat actors have been exploiting a command injection vulnerability in Array AG Series VPN devices to plant webshells and create rogue users. [...]",
+            "published_utc": "2025-12-04T23:05:05+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+            "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+            "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, ju...",
+            "published_utc": "2025-12-04T23:02:34+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "NCSC's ‘Proactive Notifications’ warns orgs of flaws in exposed devices",
+            "link": "https://www.bleepingcomputer.com/news/security/ncscs-proactive-notifications-warns-orgs-of-flaws-in-exposed-devices/",
+            "summary": "The UK's National Cyber Security Center (NCSC) announced the testing phase of a new service called Proactive Notifications, designed to inform organiz...",
+            "published_utc": "2025-12-04T22:21:12+00:00"
+        },
         {
             "source": "WIRED Security",
             "title": "Cloudflare Has Blocked 416 Billion AI Bot Requests Since July 1",
@@ -406,13 +427,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/freedom-mobile-discloses-data-breach-exposing-customer-data/",
             "summary": "Freedom Mobile, the fourth-largest wireless carrier in Canada, has disclosed a data breach after attackers hacked into its customer account management...",
             "published_utc": "2025-12-03T20:28:01+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Russia blocks Roblox over distribution of LGBT \"propaganda\"",
-            "link": "https://www.bleepingcomputer.com/news/security/russia-blocks-roblox-over-distribution-of-lgbt-propaganda/",
-            "summary": "Roskomnadzor, Russia's telecommunications watchdog, has blocked access to the Roblox online gaming platform for failing to stop the distribution of wh...",
-            "published_utc": "2025-12-03T17:33:57+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1036,13 +1050,6 @@
             "link": "https://www.welivesecurity.com/en/videos/cybersecurity-awareness-month-2025-when-seeing-isnt-believing/",
             "summary": "Deepfakes are blurring the line between real and fake and fraudsters are cashing in, using synthetic media for all manner of scams",
             "published_utc": "2025-10-29T10:00:00+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Aisuru Botnet Shifts from DDoS to Residential Proxies",
-            "link": "https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/",
-            "summary": "Aisuru, the botnet responsible for a series of record-smashing distributed denial-of-service (DDoS) attacks this year, recently was overhauled to supp...",
-            "published_utc": "2025-10-29T00:51:05+00:00"
         },
         {
             "source": "WeLiveSecurity",
