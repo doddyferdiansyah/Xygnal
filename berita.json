@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2025-12-04T15:26:12.829577+00:00",
+    "lastUpdatedUTC": "2025-12-04T16:31:52.831643+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Contractors with hacking records accused of wiping 96 govt databases",
+            "link": "https://www.bleepingcomputer.com/news/security/contractors-with-hacking-records-accused-of-wiping-96-govt-databases/",
+            "summary": "U.S. prosecutors have charged two Virginia brothers arrested on Wednesday with allegedly conspiring to steal sensitive information and destroy governm...",
+            "published_utc": "2025-12-04T16:30:59+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "CISA and International Partners Issue Guidance for Secure AI in Infrastructure",
+            "link": "https://www.infosecurity-magazine.com/news/us-guidance-secure-ai-ot/",
+            "summary": "Cybersecurity agencies have issued guidance for securely integrating AI into OT systems",
+            "published_utc": "2025-12-04T16:30:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "You have weeks left to claim your AT&T data breach settlement of up to $7,500 - here's how",
+            "link": "https://www.zdnet.com/article/you-can-still-claim-your-at-t-data-breach-settlement-of-up-to-7500-how-to-apply-for-free/",
+            "summary": "AT&amp;T's $177 million settlement deadline was extended. Here's how to claim your payout.",
+            "published_utc": "2025-12-04T16:28:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I'm never using cheap wireless chargers again after testing this one from Amazon",
+            "link": "https://www.zdnet.com/article/im-never-using-cheap-wireless-chargers-again-after-testing-this-one-from-amazon/",
+            "summary": "After using cheap, plastic charging stations for my Pixel phones, watches, and earbuds, I'm happy to report that this foldable metal option is far sup...",
+            "published_utc": "2025-12-04T16:27:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "From feeds to flows: Using a unified linkage model to operationalize threat intelligence",
+            "link": "https://www.csoonline.com/article/4100422/from-feeds-to-flows-using-a-unified-linkage-model-to-operationalize-threat-intelligence.html",
+            "summary": "",
+            "published_utc": "2025-12-04T16:13:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Your favorite AI tool barely scraped by this safety review - why that's a problem",
+            "link": "https://www.zdnet.com/article/your-favorite-ai-tool-barely-scraped-by-this-safety-review-why-thats-a-problem/",
+            "summary": "The Future of Life Institute assigned letter grades to eight leading AI labs to score their safety efforts. The results look like the report card of a...",
+            "published_utc": "2025-12-04T16:02:37+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "One of the best-looking amplifiers I've tested also delivers dynamic audio for virtually every genre",
@@ -42,6 +84,13 @@
             "link": "https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-in-react-nextjs-lets-hackers-run-javascript-code/",
             "summary": "A maximum severity vulnerability, dubbed 'React2Shell', in the React Server Components (RSC) 'Flight' protocol allows remote code execution without au...",
             "published_utc": "2025-12-04T15:11:54+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "How strong password policies secure OT systems against cyber threats",
+            "link": "https://www.bleepingcomputer.com/news/security/how-strong-password-policies-secure-ot-systems-against-cyber-threats/",
+            "summary": "OT environments rely on aging systems, shared accounts, and remote access, making weak or reused passwords a major attack vector. Specops Software exp...",
+            "published_utc": "2025-12-04T15:11:22+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -191,32 +240,11 @@
             "published_utc": "2025-12-04T12:00:38+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Why the LG C5 OLED is my definitive TV recommendation right now - especially at nearly 50% off",
-            "link": "https://www.zdnet.com/article/why-i-recommend-the-lg-c5-oled-over-pricier-tv-models-especially-at-nearly-50-off-now/",
-            "summary": "The LG C5 OLED offers stunning picture quality and a sleek, minimalist design for a truly immersive experience - and it's heavily discounted post Blac...",
-            "published_utc": "2025-12-04T11:59:00+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "Personal Information Compromised in Freedom Mobile Data Breach",
             "link": "https://www.securityweek.com/personal-information-compromised-in-freedom-mobile-data-breach/",
             "summary": "",
             "published_utc": "2025-12-04T11:58:49+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How to turn on Private DNS mode on Android phones (and get an instant security boost)",
-            "link": "https://www.zdnet.com/article/how-to-turn-on-private-dns-mode-on-android-phones-and-why-you-should-asap/",
-            "summary": "Unencrypted DNS requests can expose your browsing activity, but Android's Private DNS mode helps keep it secure. Here's how to enable it.",
-            "published_utc": "2025-12-04T11:57:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Slow Wi-Fi? 5 products I use to effectively fix my home internet once and for all",
-            "link": "https://www.zdnet.com/article/sluggish-wi-fi-5-products-that-effectively-fixed-my-home-internet-once-and-for-all/",
-            "summary": "Reliable Wi-Fi is a must in 2025. If your connection's failing you, these five products won't.",
-            "published_utc": "2025-12-04T11:55:00+00:00"
         },
         {
             "source": "WIRED Security",
@@ -415,13 +443,6 @@
             "published_utc": "2025-12-03T13:25:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "University of Phoenix discloses data breach after Oracle hack",
-            "link": "https://www.bleepingcomputer.com/news/security/university-of-phoenix-discloses-data-breach-after-oracle-hack/",
-            "summary": "The University of Phoenix (UoPX) has joined a growing list of U.S. universities breached in a Clop data theft campaign targeting vulnerable Oracle E-B...",
-            "published_utc": "2025-12-03T13:23:10+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "Arizona Attorney General Sues Chinese Online Retailer Temu Over Data Theft Claims",
             "link": "https://www.securityweek.com/arizona-attorney-general-sues-chinese-online-retailer-temu-over-data-theft-claims/",
@@ -499,13 +520,6 @@
             "published_utc": "2025-12-02T15:29:15+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "ShadyPanda's Seven-Year Campaign Infects 4.3M Chrome and Edge Users",
-            "link": "https://www.infosecurity-magazine.com/news/shadypanda-infects-43m-chrome-edge/",
-            "summary": "Infected 4.3 million Chrome and Edge users via extensions; ShadyPanda exploited browser marketplaces",
-            "published_utc": "2025-12-02T15:10:00+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "CSO 30 Awards 2025: Celebrating Excellence, Innovation and Leadership in Cybersecurity",
             "link": "https://www.csoonline.com/article/1251209/uk-cso-30-awards.html",
@@ -546,13 +560,6 @@
             "link": "https://www.csoonline.com/article/4098347/vaillant-ciso-starten-statt-warten.html",
             "summary": "",
             "published_utc": "2025-12-02T08:29:02+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Key questions CISOs must ask before adopting AI-enabled cyber solutions",
-            "link": "https://www.csoonline.com/article/4094763/key-questions-cisos-must-ask-before-adopting-ai-enabled-cyber-solutions.html",
-            "summary": "",
-            "published_utc": "2025-12-02T07:00:00+00:00"
         },
         {
             "source": "WIRED Security",
