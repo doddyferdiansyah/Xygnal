@@ -1,6 +1,62 @@
 {
-    "lastUpdatedUTC": "2025-12-05T15:24:18.529188+00:00",
+    "lastUpdatedUTC": "2025-12-05T16:28:43.457335+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "I bought Samsung's $1,800 XR headset to get work done - and it's already paying off",
+            "link": "https://www.zdnet.com/article/i-bought-samsungs-1800-xr-headset-to-get-work-done-and-its-already-paying-off/",
+            "summary": "With the right setup, the Samsung Galaxy XR headset excels as a productivity machine.",
+            "published_utc": "2025-12-05T16:25:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Hardening browser security with zero-trust controls",
+            "link": "https://www.csoonline.com/article/4101173/hardening-browser-security-with-zero-trust-controls.html",
+            "summary": "",
+            "published_utc": "2025-12-05T16:15:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "React.js Hit by Maximum-Severity 'React2Shell' Vulnerability",
+            "link": "https://www.infosecurity-magazine.com/news/reactjs-hit-by-react2shell/",
+            "summary": "A critical RCE flaw in React.js, dubbed React2Shell (CVE-2025-55182), has been disclosed with a maximum CVSS score of 10.0, posing severe risks for se...",
+            "published_utc": "2025-12-05T16:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "In Other News: X Fined €120 Million, Array Flaw Exploited, New Iranian Backdoor",
+            "link": "https://www.securityweek.com/in-other-news-x-fined-e120-million-array-flaw-exploited-new-iranian-backdoor/",
+            "summary": "",
+            "published_utc": "2025-12-05T15:45:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "11 secret Fire TV remote shortcuts to unlock new features and menu settings",
+            "link": "https://www.zdnet.com/article/amazon-fire-tv-hidden-shortcuts/",
+            "summary": "A simple button combination on your Fire TV remote allows you to switch picture modes, zoom in, and access hidden features.",
+            "published_utc": "2025-12-05T15:43:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "This tiny Acer PC made me reconsider why I still use a full-size tower in 2025",
+            "link": "https://www.zdnet.com/article/this-tiny-acer-pc-made-me-reconsider-why-i-still-use-a-full-size-tower-in-2025/",
+            "summary": "Acer's Veriton NUC AI is a compact Windows PC with a wide selection of ports.",
+            "published_utc": "2025-12-05T15:40:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "You can preorder the OnePlus 15 now - but don't forget to claim the $180 freebie",
+            "link": "https://www.zdnet.com/article/you-can-preorder-the-oneplus-15-now-but-dont-forget-to-claim-the-180-freebie/",
+            "summary": "You can score free earbuds when you preorder.",
+            "published_utc": "2025-12-05T15:36:16+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The best holiday Walmart deals to shop this season",
+            "link": "https://www.zdnet.com/article/holiday-walmart-deals-tvs-tablets-smartwatches/",
+            "summary": "Check off everyone on your list with these Walmart deals we've found on Dyson vacuums, the PS5, Apple products, and more.",
+            "published_utc": "2025-12-05T15:35:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "The best holiday streaming deals: Save on Peacock, Hulu bundles, & more",
@@ -331,46 +387,11 @@
             "published_utc": "2025-12-04T22:02:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Finally, a 16-inch Windows laptop that's a worthy alternative to my MacBook Pro",
-            "link": "https://www.zdnet.com/article/finally-a-16-inch-windows-laptop-thats-a-worthy-alternative-to-my-macbook-pro/",
-            "summary": "HP's EliteBook 8 G1i (16-inch) is a power-efficient multitasker with a generous selection of I/O.",
-            "published_utc": "2025-12-04T21:55:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Thousands of readers bought these 10 most popular robot vacuums and mowers in 2025",
-            "link": "https://www.zdnet.com/article/the-10-most-popular-robot-vacuums-and-mowers-of-2025/",
-            "summary": "I review dozens of robot vacuums and several robot mowers each year. Here are the ones our readers loved most in 2025.",
-            "published_utc": "2025-12-04T21:41:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Ring vs. Blink: Which security camera should you buy (and how are they different)?",
-            "link": "https://www.zdnet.com/article/ring-vs-blink/",
-            "summary": "Both Ring and Blink sell some of the most popular security cameras on the market, yet they're wildly different. Here's who should pick which one.",
-            "published_utc": "2025-12-04T21:33:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Waze vs. Google Maps: I compared the two best navigation apps, and there's a clear winner",
-            "link": "https://www.zdnet.com/article/waze-vs-google-maps/",
-            "summary": "The debate between Waze and Google Maps has raged for years. Here's my verdict after testing both.",
-            "published_utc": "2025-12-04T21:13:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Predator spyware uses new infection vector for zero-click attacks",
             "link": "https://www.bleepingcomputer.com/news/security/predator-spyware-uses-new-infection-vector-for-zero-click-attacks/",
             "summary": "The Predator spyware from surveillance company Intellexa has been using a zero-click infection mechanism dubbed \"Aladdin\" that compromised specific ta...",
             "published_utc": "2025-12-04T20:47:42+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "This Linux distro is a new spin on my old favorite - and it's delightful",
-            "link": "https://www.zdnet.com/article/this-linux-distro-is-a-new-spin-on-my-old-favorite-and-its-delightful/",
-            "summary": "There's a new MX Linux spin in town - one that offers a unique desktop environment that's flexible and fun to use.",
-            "published_utc": "2025-12-04T20:22:40+00:00"
         },
         {
             "source": "CSO Online",
@@ -443,13 +464,6 @@
             "published_utc": "2025-12-04T16:13:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Agentic Security Firm 7AI Raises $130 Million",
-            "link": "https://www.securityweek.com/agentic-security-firm-7ai-raises-130-million/",
-            "summary": "",
-            "published_utc": "2025-12-04T15:18:04+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Critical React, Next.js flaw lets hackers execute code on servers",
             "link": "https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-in-react-nextjs-lets-hackers-run-javascript-code/",
@@ -506,6 +520,13 @@
             "published_utc": "2025-12-04T11:00:00+00:00"
         },
         {
+            "source": "WeLiveSecurity",
+            "title": "Phishing, privileges and passwords: Why identity is critical to improving cybersecurity posture",
+            "link": "https://www.welivesecurity.com/en/business-security/phishing-privileges-passwords-identity-cybersecurity-posture/",
+            "summary": "Identity is effectively the new network boundary. It must be protected at all costs.",
+            "published_utc": "2025-12-04T10:00:00+00:00"
+        },
+        {
             "source": "InfosecurityMag",
             "title": "Post Office Escapes £1m Fine After Postmaster Data Breach",
             "link": "https://www.infosecurity-magazine.com/news/post-office-1m-fine-postmaster/",
@@ -541,13 +562,6 @@
             "published_utc": "2025-12-04T00:28:11+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "RCE flaw in OpenAI’s Codex CLI highlights new risks to dev environments",
-            "link": "https://www.csoonline.com/article/4100632/rce-flaw-in-openais-codex-cli-highlights-new-risks-to-dev-environments.html",
-            "summary": "",
-            "published_utc": "2025-12-03T23:03:05+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "French NGO Reporters Without Borders Targeted by Star Blizzard",
             "link": "https://www.infosecurity-magazine.com/news/star-blizzard-targets-reporters/",
@@ -567,13 +581,6 @@
             "link": "https://www.infosecurity-magazine.com/news/yearn-finance-yeth-pool-exploit/",
             "summary": "A critical vulnerability in Yearn Finance's yETH pool allowed an attacker to steal around $9m",
             "published_utc": "2025-12-03T15:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "UK Ransomware Payment Ban to Come with Exemptions, Security Minster Say",
-            "link": "https://www.infosecurity-magazine.com/news/uk-ransomware-payment-ban/",
-            "summary": "The UK government’s proposed ransomware payment ban for public sector and critical infrastructure will come with national security exemptions",
-            "published_utc": "2025-12-03T13:25:00+00:00"
         },
         {
             "source": "WIRED Security",
