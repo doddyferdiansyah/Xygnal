@@ -1,6 +1,62 @@
 {
-    "lastUpdatedUTC": "2025-12-05T14:22:54.463025+00:00",
+    "lastUpdatedUTC": "2025-12-05T15:24:18.529188+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "The best holiday streaming deals: Save on Peacock, Hulu bundles, & more",
+            "link": "https://www.zdnet.com/article/holiday-streaming-deals-hulu-youtube-tv-peacock/",
+            "summary": "I'm tracking deals on the most popular streaming services this holiday season, at the lowest prices of the year - but hurry, most of these offers will...",
+            "published_utc": "2025-12-05T15:19:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Cloudflare Outage Caused by React2Shell Mitigations",
+            "link": "https://www.securityweek.com/cloudflare-outage-caused-by-react2shell-mitigations/",
+            "summary": "",
+            "published_utc": "2025-12-05T15:12:59+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "This $15 USB-C cable is the best security investment I've made for my gadgets",
+            "link": "https://www.zdnet.com/article/plugable-usb-c-data-blocker-cable-review/",
+            "summary": "If you frequently plug into public chargers, you're an easy target for hackers. Either avoid them or use this accessory to avoid trouble.",
+            "published_utc": "2025-12-05T14:57:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "EU fines X $140 million over deceptive blue checkmarks",
+            "link": "https://www.bleepingcomputer.com/news/security/eu-fines-x-140-million-over-deceptive-blue-checkmarks-transparency-violations/",
+            "summary": "The European Commission has fined X €120 million ($140 million) for violating transparency obligations under the Digital Services Act (DSA). [...]",
+            "published_utc": "2025-12-05T14:41:01+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "China-Linked Warp Panda Targets North American Firms in Espionage Campaign",
+            "link": "https://www.infosecurity-magazine.com/news/chinalinked-warp-panda/",
+            "summary": "CrowdStrike warned that Warp Panda, a China-linked cyber-espionage group, is targeting US organizations to steal sensitive data and support Beijing’s ...",
+            "published_utc": "2025-12-05T14:30:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Imper.ai Emerges From Stealth Mode With $28 Million in Funding",
+            "link": "https://www.securityweek.com/imper-ai-emerges-from-stealth-mode-with-28-million-in-funding/",
+            "summary": "",
+            "published_utc": "2025-12-05T14:29:52+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Avoiding the next technical debt: Building AI governance before it breaks",
+            "link": "https://www.csoonline.com/article/4101145/avoiding-the-next-technical-debt-building-ai-governance-before-it-breaks.html",
+            "summary": "",
+            "published_utc": "2025-12-05T14:22:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Stop accidentally sharing AI videos - 6 ways to tell real from fake before it's too late",
+            "link": "https://www.zdnet.com/article/stop-accidentally-sharing-ai-videos-6-ways-to-tell-real-from-fake-before-its-too-late/",
+            "summary": "Don't be fooled. Here's how you can easily spot AI videos.",
+            "published_utc": "2025-12-05T14:22:00+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "US Organizations Warned of Chinese Malware Used for Long-Term Persistence",
@@ -80,7 +136,7 @@
         },
         {
             "source": "BleepingComputer",
-            "title": "React2Shell critical flaw actively exploited in China-linked attacks",
+            "title": "Critical React2Shell flaw actively exploited in China-linked attacks",
             "link": "https://www.bleepingcomputer.com/news/security/react2shell-critical-flaw-actively-exploited-in-china-linked-attacks/",
             "summary": "Multiple China-linked threat actors began exploiting the React2Shell vulnerability (CVE-2025-55182) affecting React and Next.js just hours after the m...",
             "published_utc": "2025-12-05T11:26:07+00:00"
@@ -133,13 +189,6 @@
             "link": "https://www.zdnet.com/article/building-a-culture-that-drives-business-results-what-every-chro-needs-to-know/",
             "summary": "Culture is no longer optional. It's an essential foundation that enables organizations to execute strategy, drive productivity, manage costs effective...",
             "published_utc": "2025-12-05T10:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Helmet Security Emerges From Stealth Mode With $9 Million in Funding",
-            "link": "https://www.securityweek.com/helmet-security-emerges-from-stealth-mode-with-9-million-in-funding/",
-            "summary": "",
-            "published_utc": "2025-12-05T09:45:37+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -352,13 +401,6 @@
             "published_utc": "2025-12-04T19:10:17+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "What does a blue USB port mean? I learned the truth behind all the colors, and it's wild",
-            "link": "https://www.zdnet.com/article/what-does-your-usb-port-color-mean/",
-            "summary": "Look closely, the colors on your USB ports reveal what they are capable of.",
-            "published_utc": "2025-12-04T18:52:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "CISA warns of Chinese \"BrickStorm\" malware attacks on VMware servers",
             "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-chinese-brickstorm-malware-attacks-on-vmware-servers/",
@@ -371,20 +413,6 @@
             "link": "https://www.securityweek.com/cybersecurity-ma-roundup-30-deals-announced-in-november-2025/",
             "summary": "",
             "published_utc": "2025-12-04T17:48:42+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "My iPhone battery life was horrible on iOS 26, but changing these settings fixed it",
-            "link": "https://www.zdnet.com/article/iphone-battery-saving-settings-to-change/",
-            "summary": "Your iPhone battery life shouldn't be this bad. Change these iOS 26 settings to fix it ASAP.",
-            "published_utc": "2025-12-04T17:41:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I found the best Verizon holiday deals on iPhones, Android, and more",
-            "link": "https://www.zdnet.com/article/best-holiday-verizon-deals-iphone-galaxy-pixel/",
-            "summary": "New and existing Verizon customers can score incredible deals on new phones, tablets, gaming consoles, and more this holiday season.",
-            "published_utc": "2025-12-04T17:40:53+00:00"
         },
         {
             "source": "WIRED Security",
@@ -436,13 +464,6 @@
             "published_utc": "2025-12-04T15:11:22+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Inotiv Says Personal Information Stolen in Ransomware Attack",
-            "link": "https://www.securityweek.com/inotiv-says-personal-information-stolen-in-ransomware-attack/",
-            "summary": "",
-            "published_utc": "2025-12-04T15:02:30+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Cyber Agencies Push for Digital Trust Amid AI Era with New Provenance Report",
             "link": "https://www.infosecurity-magazine.com/news/cyber-agencies-new-provenance/",
@@ -469,20 +490,6 @@
             "link": "https://www.csoonline.com/article/4101056/momberger-betrug-e-mails-an-kunden-im-umlauf.html",
             "summary": "",
             "published_utc": "2025-12-04T14:18:15+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Reporters Without Borders Targeted by Russian Hackers",
-            "link": "https://www.securityweek.com/reporters-without-borders-targeted-by-russian-hackers/",
-            "summary": "",
-            "published_utc": "2025-12-04T14:15:14+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft 365 license check bug blocks desktop app downloads",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-bug-in-microsoft-365-license-checks-blocks-desktop-app-downloads/",
-            "summary": "​Microsoft is investigating and working to resolve a known issue that prevents customers from downloading Microsoft 365 desktop apps from the Microsof...",
-            "published_utc": "2025-12-04T13:18:08+00:00"
         },
         {
             "source": "WIRED Security",
@@ -548,13 +555,6 @@
             "published_utc": "2025-12-03T16:45:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Hybrid 2FA phishing kits are making attacks harder to detect",
-            "link": "https://www.csoonline.com/article/4100393/hybrid-2fa-phishing-kits-are-making-attacks-harder-to-detect.html",
-            "summary": "",
-            "published_utc": "2025-12-03T16:23:29+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "UK's Cyber Service for Telcos Blocks One Billion Malicious Site Attempts",
             "link": "https://www.infosecurity-magazine.com/news/uk-cyber-service-blocks-billion/",
@@ -574,13 +574,6 @@
             "link": "https://www.infosecurity-magazine.com/news/uk-ransomware-payment-ban/",
             "summary": "The UK government’s proposed ransomware payment ban for public sector and critical infrastructure will come with national security exemptions",
             "published_utc": "2025-12-03T13:25:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Disinformation and Cyber-Threats Among Top Global Exec Concerns",
-            "link": "https://www.infosecurity-magazine.com/news/disinformation-cyberthreats-global/",
-            "summary": "A new WEF report reveals that AI-powered threats like disinformation are among executives’ biggest concerns",
-            "published_utc": "2025-12-03T11:00:00+00:00"
         },
         {
             "source": "WIRED Security",
