@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2025-12-05T16:28:43.457335+00:00",
+    "lastUpdatedUTC": "2025-12-05T17:20:15.317361+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "My 4-step routine to make any Android phone run like new again (and it never fails me)",
+            "link": "https://www.zdnet.com/article/4-step-android-fresh-routine/",
+            "summary": "Some quick taps and swipes are all it takes to make your old handset operate like new.",
+            "published_utc": "2025-12-05T16:42:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I'm a diehard Mac Mini user - here are 5 accessories I can't live without (and under $100)",
+            "link": "https://www.zdnet.com/article/im-a-diehard-mac-mini-user-here-are-5-accessories-i-cant-live-without-and-under-100/",
+            "summary": "These Mac Mini accessories have proven to be reliable over time, and I recommend them to anyone with a Mac Mini.",
+            "published_utc": "2025-12-05T16:40:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "FBI warns of virtual kidnapping scams using altered social media photos",
+            "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-virtual-kidnapping-ransom-scams-using-altered-social-media-photos/",
+            "summary": "The FBI warns that criminals are altering images shared on social media and using them as fake proof of life photos in virtual kidnapping ransom scams...",
+            "published_utc": "2025-12-05T16:37:28+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "I bought Samsung's $1,800 XR headset to get work done - and it's already paying off",
@@ -72,6 +93,13 @@
             "published_utc": "2025-12-05T15:12:59+00:00"
         },
         {
+            "source": "BleepingComputer",
+            "title": "A Practical Guide to Continuous Attack Surface Visibility",
+            "link": "https://www.bleepingcomputer.com/news/security/a-practical-guide-to-continuous-attack-surface-visibility/",
+            "summary": "Passive scan data goes stale fast as cloud assets shift daily, leaving teams blind to real exposures. Sprocket Security shows how continuous, automate...",
+            "published_utc": "2025-12-05T15:00:10+00:00"
+        },
+        {
             "source": "ZDNet Security",
             "title": "This $15 USB-C cable is the best security investment I've made for my gadgets",
             "link": "https://www.zdnet.com/article/plugable-usb-c-data-blocker-cable-review/",
@@ -129,7 +157,7 @@
         },
         {
             "source": "BleepingComputer",
-            "title": "Cloudflare blames today's outage on emergency React2Shell patch",
+            "title": "Cloudflare blames today's outage on React2Shell mitigations",
             "link": "https://www.bleepingcomputer.com/news/security/cloudflare-blames-todays-outage-on-emergency-react2shell-patch/",
             "summary": "Cloudflare has blamed today's outage on the emergency patching of a critical React remote code execution vulnerability, which is now actively exploite...",
             "published_utc": "2025-12-05T13:53:26+00:00"
@@ -173,7 +201,7 @@
             "source": "ZDNet Security",
             "title": "I used Anthropic's Interviewer tool to share my AI complaints, and enjoyed it - how you can too",
             "link": "https://www.zdnet.com/article/i-used-anthropics-interviewer-tool-to-share-my-ai-complaints/",
-            "summary": "The company's new Interviewer tool uses AI to ask you what you want out of AI, and it was six minutes well spent for me. Here's why.",
+            "summary": "The Claude-based tool uses AI to ask you what you want out of AI, and it was six minutes well spent for me. Here's why.",
             "published_utc": "2025-12-05T12:21:00+00:00"
         },
         {
@@ -338,13 +366,6 @@
             "published_utc": "2025-12-05T01:02:15+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Debian vs. Ubuntu: Which Linux distro is right for you?",
-            "link": "https://www.zdnet.com/article/debian-vs-ubuntu-which-linux-distro-is-right-for-you/",
-            "summary": "They're similar but not the same. Is your priority stability or ease of use? I recommend only one of these distributions to new Linux users.",
-            "published_utc": "2025-12-05T00:59:30+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "‘Signalgate’ Inspector General Report Wants Just One Change to Avoid a Repeat Debacle",
             "link": "https://www.wired.com/story/signalgate-inspector-general-report-hegseth-change/",
@@ -378,13 +399,6 @@
             "link": "https://www.wired.com/story/big-interview-event-matthew-prince-cloudflare/",
             "summary": "Cloudflare CEO Matthew Prince claims the internet infrastructure company’s efforts to block AI crawlers are already seeing big results.",
             "published_utc": "2025-12-04T22:04:31+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "14+ powerful Alexa commands every user should know at home (no subscriptions required)",
-            "link": "https://www.zdnet.com/article/powerful-alexa-commands/",
-            "summary": "Alexa is already great, but some smart tweaks and hidden features can make the assistant even better. Here's how.",
-            "published_utc": "2025-12-04T22:02:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -462,20 +476,6 @@
             "link": "https://www.csoonline.com/article/4100422/from-feeds-to-flows-using-a-unified-linkage-model-to-operationalize-threat-intelligence.html",
             "summary": "",
             "published_utc": "2025-12-04T16:13:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Critical React, Next.js flaw lets hackers execute code on servers",
-            "link": "https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-in-react-nextjs-lets-hackers-run-javascript-code/",
-            "summary": "A maximum severity vulnerability, dubbed 'React2Shell', in the React Server Components (RSC) 'Flight' protocol allows remote code execution without au...",
-            "published_utc": "2025-12-04T15:11:54+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "How strong password policies secure OT systems against cyber threats",
-            "link": "https://www.bleepingcomputer.com/news/security/how-strong-password-policies-secure-ot-systems-against-cyber-threats/",
-            "summary": "OT environments rely on aging systems, shared accounts, and remote access, making weak or reused passwords a major attack vector. Specops Software exp...",
-            "published_utc": "2025-12-04T15:11:22+00:00"
         },
         {
             "source": "InfosecurityMag",
