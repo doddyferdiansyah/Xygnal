@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2025-12-08T17:21:42.185620+00:00",
+    "lastUpdatedUTC": "2025-12-08T18:34:07.213001+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "OpenAI says ChatGPT saves the average worker up to an hour each day - here's how",
+            "link": "https://www.zdnet.com/article/chatgpt-saving-time-work/",
+            "summary": "The company is stepping up its efforts to attract enterprise customers amid growing competition from Google and Anthropic.",
+            "published_utc": "2025-12-08T18:10:43+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "When it comes to security resilience, cheaper isn’t always better",
+            "link": "https://www.csoonline.com/article/4101863/when-it-comes-to-security-resilience-cheaper-isnt-always-better.html",
+            "summary": "",
+            "published_utc": "2025-12-08T18:10:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Google Chrome adds new security layer for Gemini AI agentic browsing",
+            "link": "https://www.bleepingcomputer.com/news/security/google-chrome-adds-new-security-layer-for-gemini-ai-agentic-browsing/",
+            "summary": "Google Chrome is introducing a new security architecture designed to protect upcoming agentic AI browsing features powered by Gemini. [...]",
+            "published_utc": "2025-12-08T18:08:52+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Keep AI browsers out of your enterprise, warns Gartner",
+            "link": "https://www.csoonline.com/article/4102571/keep-ai-browsers-out-of-your-enterprise-warns-gartner-2.html",
+            "summary": "",
+            "published_utc": "2025-12-08T18:04:37+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Google Fortifies Chrome Agentic AI Against Indirect Prompt Injection Attacks",
+            "link": "https://www.securityweek.com/google-fortifies-chrome-agentic-ai-against-indirect-prompt-injection-attacks/",
+            "summary": "",
+            "published_utc": "2025-12-08T18:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I saw the future of Android XR smart glasses, and Google left me stunned at the progress",
+            "link": "https://www.zdnet.com/article/android-xr-smart-glasses-hands-on/",
+            "summary": "From multimodal AI glasses to immersive headsets, Google's plan for its Android XR platform feels more ambitious than ever.",
+            "published_utc": "2025-12-08T18:00:00+00:00"
+        },
         {
             "source": "InfosecurityMag",
             "title": "ClayRat Android Spyware Expands Capabilities",
@@ -240,20 +282,6 @@
             "published_utc": "2025-12-08T03:00:41+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I made my AirTag last a decade on one battery - here's the uncomfortable truth",
-            "link": "https://www.zdnet.com/article/i-made-my-airtag-last-a-decade-on-one-battery-heres-the-uncomfortable-truth/",
-            "summary": "I have over a dozen AirTags in use, and my biggest problem is having to change the batteries every year or so. Here's the quick fix.",
-            "published_utc": "2025-12-08T02:01:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Finally, a reliable multitool for under $30 and doesn't feel like junk",
-            "link": "https://www.zdnet.com/article/nextool-pocket-tool-e1-review/",
-            "summary": "I typically go for higher-end multitools, but the NexTool E1 stood out for its durable design and surprisingly accessible price.",
-            "published_utc": "2025-12-08T01:55:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "OpenAI denies rolling out ads on ChatGPT paid plans",
             "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-denies-rolling-out-ads-on-chatgpt-paid-plans/",
@@ -401,13 +429,6 @@
             "published_utc": "2025-12-05T14:22:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "US Organizations Warned of Chinese Malware Used for Long-Term Persistence",
-            "link": "https://www.securityweek.com/us-organizations-warned-of-chinese-malware-used-for-long-term-persistence/",
-            "summary": "",
-            "published_utc": "2025-12-05T14:15:19+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "AI in CI/CD pipelines can be tricked into behaving badly",
             "link": "https://www.csoonline.com/article/4101751/ai-in-ci-cd-pipelines-can-be-tricked-into-behaving-badly-2.html",
@@ -541,13 +562,6 @@
             "published_utc": "2025-12-04T22:04:31+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "AI creates new security risks for OT networks, warns NSA",
-            "link": "https://www.csoonline.com/article/4101239/ai-creates-new-security-risks-for-ot-networks-warns-nsa.html",
-            "summary": "",
-            "published_utc": "2025-12-04T20:19:55+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "FBI Says DC Pipe Bomb Suspect Brian Cole Kept Buying Bomb Parts After January 6",
             "link": "https://www.wired.com/story/fbi-says-dc-pipe-bomb-suspect-brian-cole-kept-buying-bomb-parts-after-jan-6/",
@@ -567,13 +581,6 @@
             "link": "https://www.infosecurity-magazine.com/news/us-guidance-secure-ai-ot/",
             "summary": "Cybersecurity agencies have issued guidance for securely integrating AI into OT systems",
             "published_utc": "2025-12-04T16:30:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "From feeds to flows: Using a unified linkage model to operationalize threat intelligence",
-            "link": "https://www.csoonline.com/article/4100422/from-feeds-to-flows-using-a-unified-linkage-model-to-operationalize-threat-intelligence.html",
-            "summary": "",
-            "published_utc": "2025-12-04T16:13:00+00:00"
         },
         {
             "source": "InfosecurityMag",
