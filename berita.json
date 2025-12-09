@@ -1,6 +1,62 @@
 {
-    "lastUpdatedUTC": "2025-12-09T16:29:35.781831+00:00",
+    "lastUpdatedUTC": "2025-12-09T17:22:32.247400+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Prime Security Raises $20 Million to Build Agentic Security Architect",
+            "link": "https://www.securityweek.com/prime-security-raises-20-million-to-build-agentic-security-architect/",
+            "summary": "",
+            "published_utc": "2025-12-09T17:15:18+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "React2Shell Exploit Campaigns Tied to North Korean Cyber Intrusion Tactics",
+            "link": "https://www.infosecurity-magazine.com/news/react2shell-exploit-campaigns/",
+            "summary": "Sysdig has found sophisticated malicious campaigns exploiting React2Shell that delivered EtherRAT and suggested North Korean hackers’ involvement",
+            "published_utc": "2025-12-09T17:15:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Ivanti warns of critical Endpoint Manager code execution flaw",
+            "link": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-critical-endpoint-manager-code-execution-flaw/",
+            "summary": "American IT software company Ivanti warned customers today to patch a newly disclosed vulnerability in its Endpoint Manager (EPM) solution that could ...",
+            "published_utc": "2025-12-09T17:10:25+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Maintaining enterprise IT hygiene using Wazuh SIEM/XDR",
+            "link": "https://www.bleepingcomputer.com/news/security/maintaining-enterprise-it-hygiene-using-wazuh-siem-xdr/",
+            "summary": "Poor IT hygiene, such as unused accounts, outdated software, and risky extensions, creates hidden exposure in your infrastructure. Wazuh, the open-sou...",
+            "published_utc": "2025-12-09T17:09:33+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Gemini for Chrome gets a second AI agent to watch over it",
+            "link": "https://www.csoonline.com/article/4103346/gemini-for-chrome-gets-a-second-ai-agent-to-watch-over-it-2.html",
+            "summary": "",
+            "published_utc": "2025-12-09T16:59:12+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Spain arrests teen who stole 64 million personal data records",
+            "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-teen-who-stole-64-million-personal-data-records/",
+            "summary": "The National Police in Spain have arrested a suspected 19-year-old hacker in Barcelona, for allegedly stealing and attempting to sell 64 million recor...",
+            "published_utc": "2025-12-09T16:57:06+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Racks, sprawl and the myth of redundancy: Why your failover isn’t as safe as you think",
+            "link": "https://www.csoonline.com/article/4102530/racks-sprawl-and-the-myth-of-redundancy-why-your-failover-isnt-as-safe-as-you-think.html",
+            "summary": "",
+            "published_utc": "2025-12-09T16:50:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Malicious VS Code Extensions Deploy Advanced Infostealer",
+            "link": "https://www.infosecurity-magazine.com/news/malicious-vs-code-extensions/",
+            "summary": "Two malicious Visual Studio Code extensions, Bitcoin Black and Codo AI, have been observed harvesting sensitive user data",
+            "published_utc": "2025-12-09T16:45:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "How to clear your Windows 11 PC cache (and wipe out lag for good)",
@@ -366,13 +422,6 @@
             "published_utc": "2025-12-08T15:02:12+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "CISO Conversations: Keith McCammon, CSO and Co-founder at Red Canary",
-            "link": "https://www.securityweek.com/ciso-conversations-keith-mccammon-cso-and-co-founder-at-red-canary/",
-            "summary": "",
-            "published_utc": "2025-12-08T15:00:00+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "KI schafft neue Sicherheitsrisiken für OT-Netzwerke",
             "link": "https://www.csoonline.com/article/4102407/ki-schafft-neue-sicherheitsrisiken-fur-ot-netzwerke.html",
@@ -385,6 +434,13 @@
             "link": "https://www.schneier.com/blog/archives/2025/12/substitution-cipher-based-on-the-voynich-manuscript.html",
             "summary": "",
             "published_utc": "2025-12-08T12:04:11+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Portugal Revises Cybercrime Law to Protect Security Researchers",
+            "link": "https://www.infosecurity-magazine.com/news/portugal-cybercrime-law-security/",
+            "summary": "Security researchers will now be protected from prosecution in Portugal as long as they meet certain conditions",
+            "published_utc": "2025-12-08T11:43:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -427,20 +483,6 @@
             "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-denies-rolling-out-ads-on-chatgpt-paid-plans/",
             "summary": "ChatGPT is allegedly showing ads to those who pay $20 for the Plus subscription, but OpenAI says this is an app recommendation feature, not an ad. [...]",
             "published_utc": "2025-12-07T20:51:08+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Portugal updates cybercrime law to exempt security researchers",
-            "link": "https://www.bleepingcomputer.com/news/security/portugal-updates-cybercrime-law-to-exempt-security-researchers/",
-            "summary": "Portugal has modified its cybercrime law to establish a legal safe harbor for good-faith security research and to make hacking non-punishable under ce...",
-            "published_utc": "2025-12-07T15:09:44+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "React2Shell flaw exploited to breach 30 orgs, 77k IP addresses vulnerable",
-            "link": "https://www.bleepingcomputer.com/news/security/react2shell-flaw-exploited-to-breach-30-orgs-77k-ip-addresses-vulnerable/",
-            "summary": "Over 77,000 Internet-exposed IP addresses are vulnerable to the critical React2Shell remote code execution flaw (CVE-2025-55182), with researchers now...",
-            "published_utc": "2025-12-06T19:07:33+00:00"
         },
         {
             "source": "KrebsOnSecurity",
@@ -499,13 +541,6 @@
             "published_utc": "2025-12-05T16:00:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "China-Linked Warp Panda Targets North American Firms in Espionage Campaign",
-            "link": "https://www.infosecurity-magazine.com/news/chinalinked-warp-panda/",
-            "summary": "CrowdStrike warned that Warp Panda, a China-linked cyber-espionage group, is targeting US organizations to steal sensitive data and support Beijing’s ...",
-            "published_utc": "2025-12-05T14:30:00+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Avoiding the next technical debt: Building AI governance before it breaks",
             "link": "https://www.csoonline.com/article/4101145/avoiding-the-next-technical-debt-building-ai-governance-before-it-breaks.html",
@@ -527,32 +562,11 @@
             "published_utc": "2025-12-05T13:34:21+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "Louvre to Bolster Its Security, Issues €57m Public Tender",
-            "link": "https://www.infosecurity-magazine.com/news/louvre-bolster-security-57m-public/",
-            "summary": "The French museum is planning to revamp its safety and security systems following a high-profile burglary in October",
-            "published_utc": "2025-12-05T12:30:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Cloudflare firewall reacts badly to React exploit mitigation",
-            "link": "https://www.csoonline.com/article/4101649/cloudflare-firewall-reacts-badly-to-react-exploit-mitigation-2.html",
-            "summary": "",
-            "published_utc": "2025-12-05T11:21:17+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "Huge Trove of Nude Images Leaked by AI Image Generator Startup’s Exposed Database",
             "link": "https://www.wired.com/story/huge-trove-of-nude-images-leaked-by-ai-image-generator-startups-exposed-database/",
             "summary": "An AI image generator startup’s database was left accessible to the open internet, revealing more than 1 million images and videos, including photos o...",
             "published_utc": "2025-12-05T11:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Anlagebetrüger ködern mit falscher Promi-Werbung",
-            "link": "https://www.csoonline.com/article/4101524/anlagebetruger-kodern-mit-falscher-promi-werbung.html",
-            "summary": "",
-            "published_utc": "2025-12-05T08:14:44+00:00"
         },
         {
             "source": "Schneier",
