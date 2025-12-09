@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2025-12-09T20:22:39.279480+00:00",
+    "lastUpdatedUTC": "2025-12-09T21:19:25.314710+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "I wore Google's upcoming Android XR smart glasses, and it's a future I'd actually want to live in",
+            "link": "https://www.zdnet.com/article/android-xr-smart-glasses-hands-on-xreal-samsung/",
+            "summary": "From multimodal AI glasses to immersive headsets, Google's Android XR vision is more ambitious - yet clearer - than ever.",
+            "published_utc": "2025-12-09T20:53:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Windows PowerShell now warns when running Invoke-WebRequest scripts",
+            "link": "https://www.bleepingcomputer.com/news/security/microsoft-windows-powershell-now-warns-when-running-invoke-webrequest-scripts/",
+            "summary": "Microsoft says Windows PowerShell now warns when running scripts that use the Invoke-WebRequest cmdlet to download web content, aiming to prevent pote...",
+            "published_utc": "2025-12-09T20:45:20+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Adobe Patches Nearly 140 Vulnerabilities",
+            "link": "https://www.securityweek.com/adobe-patches-nearly-140-vulnerabilities/",
+            "summary": "",
+            "published_utc": "2025-12-09T20:35:49+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Should you switch to a mini PC? Testing this Acer model made the choice obvious to me",
+            "link": "https://www.zdnet.com/article/acer-veriton-nuc-ai-pc-review/",
+            "summary": "Acer's Veriton NUC AI is a compact Windows PC with a wide selection of ports, and a portable form factor.",
+            "published_utc": "2025-12-09T20:35:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Microsoft Patches 57 Vulnerabilities, Three Zero-Days",
+            "link": "https://www.securityweek.com/microsoft-patches-57-vulnerabilities-three-zero-days/",
+            "summary": "",
+            "published_utc": "2025-12-09T20:29:08+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Microsoft Names New Operating CISOs in Strategic Move to Strengthen Cyberdefense",
@@ -303,13 +338,6 @@
             "published_utc": "2025-12-09T11:00:32+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Equixly Raises $11 Million for AI-Powered API Penetration Testing",
-            "link": "https://www.securityweek.com/equixly-raises-11-million-for-ai-powered-api-penetration-testing/",
-            "summary": "",
-            "published_utc": "2025-12-09T11:00:00+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "Best tablets for note-taking 2025: Expert tested and reviewed",
             "link": "https://www.zdnet.com/article/best-note-taking-tablet/",
@@ -317,32 +345,11 @@
             "published_utc": "2025-12-09T10:00:39+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Over 300,000 Individuals Impacted by Vitas Hospice Data Breach",
-            "link": "https://www.securityweek.com/over-300000-individuals-impacted-by-vitas-hospice-data-breach/",
-            "summary": "",
-            "published_utc": "2025-12-09T09:41:06+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Gartner Calls For Pause on AI Browser Use",
             "link": "https://www.infosecurity-magazine.com/news/gartner-calls-for-pause-ai-browsers/",
             "summary": "Gartner has called for organizations to block today’s AI browsers on security concerns",
             "published_utc": "2025-12-09T09:30:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Best blood pressure watches: I tested the top models that actually work",
-            "link": "https://www.zdnet.com/article/best-blood-pressure-watch/",
-            "summary": "I tested some of the top blood pressure watches available, and considered medical research and current FDA guidance, to help you choose the best one f...",
-            "published_utc": "2025-12-09T09:00:38+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I converted this tiny laptop into a Linux work machine, and it shouldn't work this well",
-            "link": "https://www.zdnet.com/article/x-plus-storm-10-laptop-review/",
-            "summary": "The X Plus Storm 10 laptop flies through demanding tasks and runs Linux seamlessly.",
-            "published_utc": "2025-12-09T08:30:34+00:00"
         },
         {
             "source": "CSO Online",
@@ -385,13 +392,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/malicious-vscode-extensions-on-microsofts-registry-drop-infostealers/",
             "summary": "Two malicious extensions on Microsoft's Visual Studio Code Marketplace infect developers' machines with information-stealing malware that can take scr...",
             "published_utc": "2025-12-08T22:30:19+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "FinCEN says ransomware gangs extorted over $2.1B from 2022 to 2024",
-            "link": "https://www.bleepingcomputer.com/news/security/fincen-says-ransomware-gangs-extorted-over-21b-from-2022-to-2024/",
-            "summary": "A new report by the Financial Crimes Enforcement Network (FinCEN) shows that ransomware activity peaked in 2023 before falling in 2024, following a se...",
-            "published_utc": "2025-12-08T21:07:30+00:00"
         },
         {
             "source": "CSO Online",
