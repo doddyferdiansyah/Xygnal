@@ -1,6 +1,55 @@
 {
-    "lastUpdatedUTC": "2025-12-09T14:24:56.217781+00:00",
+    "lastUpdatedUTC": "2025-12-09T15:27:07.224606+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Ransomware IAB abuses EDR for stealthy malware execution",
+            "link": "https://www.bleepingcomputer.com/news/security/ransomware-iab-abuses-edr-for-stealthy-malware-execution/",
+            "summary": "An initial access broker tracked as Storm-0249 is abusing endpoint detection and response solutions and trusted Microsoft Windows utilities to load ma...",
+            "published_utc": "2025-12-09T15:24:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "React2Shell Attacks Linked to North Korean Hackers",
+            "link": "https://www.securityweek.com/react2shell-attacks-linked-to-north-korean-hackers/",
+            "summary": "",
+            "published_utc": "2025-12-09T15:18:11+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I never trust my iPhone's water resistance - here's how I protect it when traveling",
+            "link": "https://www.zdnet.com/article/sea-to-summit-view-dry-bag-review/",
+            "summary": "The Sea to Summit View Dry Bag is the perfect way to keep your gadgets dry, whether hiking or on the beach.",
+            "published_utc": "2025-12-09T15:11:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Scammers are poisoning AI search results to steer you straight into their traps - here's how",
+            "link": "https://www.zdnet.com/article/scammers-poison-ai-search-results-customer-support-scams/",
+            "summary": "AI tools like Google AI Overview and Perplexity Comet are being tricked into suggesting scam support numbers.",
+            "published_utc": "2025-12-09T15:02:56+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "NIS2 umsetzen – ohne im Papierkrieg zu enden",
+            "link": "https://www.csoonline.com/article/4103179/nis2-umsetzen-ohne-im-papierkrieg-zu-enden.html",
+            "summary": "",
+            "published_utc": "2025-12-09T14:52:26+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "OpenAI's next big model could drop any minute - what we know",
+            "link": "https://www.zdnet.com/article/openai-is-secretly-fast-tracking-garlic-to-fix-chatgpts-biggest-flaws-what-we-know/",
+            "summary": "Is GPT-5.2 - or the mysterious 'Garlic' model - moments from dropping? Here's what's driving the company's rush.",
+            "published_utc": "2025-12-09T14:52:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Identity Security Firm Saviynt Raises $700 Million at $3 Billion Valuation",
+            "link": "https://www.securityweek.com/identity-security-firm-saviynt-raises-700-million-at-3-billion-valuation/",
+            "summary": "",
+            "published_utc": "2025-12-09T14:49:26+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Linus Torvalds is 'a huge believer' in using AI to maintain code - just don't call it a revolution",
@@ -282,32 +331,11 @@
             "published_utc": "2025-12-08T16:45:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Gemini vs. Copilot: I tested the AI tools on 7 everyday tasks, and it wasn't even close",
-            "link": "https://www.zdnet.com/article/gemini-vs-copilot/",
-            "summary": "Microsoft is building Copilot into every product it owns, while Google is integrating its Gemini LLM tool into all of its properties. To determine whi...",
-            "published_utc": "2025-12-08T16:36:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Snap vs. Flatpak: How to decide which Linux package manager is right for you",
-            "link": "https://www.zdnet.com/article/snap-vs-flatpak-how-to-decide-which-linux-package-manager-is-right-for-you/",
-            "summary": "It's a debate Linux users love to argue over, and there's no easy answer - but here's my take.",
-            "published_utc": "2025-12-08T16:07:50+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Marquis Software Breach Affects Over 780,000 Nationwide",
             "link": "https://www.infosecurity-magazine.com/news/marquis-software-breach/",
             "summary": "A data breach at Marquis Software Solutions due to a firewall flaw has affected over 780,000 people across the US",
             "published_utc": "2025-12-08T16:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "50+ Windows keyboard shortcuts every user should know (and improves productivity)",
-            "link": "https://www.zdnet.com/article/50-windows-keyboard-shortcuts-every-user-should-know/",
-            "summary": "Keyboard shortcuts can supercharge your workflow - if you know what they are. Here are the ones I recommend to every Windows user.",
-            "published_utc": "2025-12-08T15:24:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -336,20 +364,6 @@
             "link": "https://www.csoonline.com/article/4102407/ki-schafft-neue-sicherheitsrisiken-fur-ot-netzwerke.html",
             "summary": "",
             "published_utc": "2025-12-08T13:21:31+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Tri-Century Eye Care Data Breach Impacts 200,000 Individuals",
-            "link": "https://www.securityweek.com/tri-century-eye-care-data-breach-impacts-200000-individuals/",
-            "summary": "",
-            "published_utc": "2025-12-08T12:45:59+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Ransomware Payments Surpassed $4.5 Billion: US Treasury",
-            "link": "https://www.securityweek.com/ransomware-payments-surpassed-4-5-billion-us-treasury/",
-            "summary": "",
-            "published_utc": "2025-12-08T12:20:23+00:00"
         },
         {
             "source": "Schneier",
@@ -546,13 +560,6 @@
             "link": "https://www.schneier.com/blog/archives/2025/12/new-anonymous-phone-service.html",
             "summary": "",
             "published_utc": "2025-12-05T08:08:21+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "15 years in, zero trust remains elusive — with AI rising to complicate the challenge",
-            "link": "https://www.csoonline.com/article/4101457/15-years-in-zero-trust-remains-elusive-with-ai-rising-to-complicate-the-challenge.html",
-            "summary": "",
-            "published_utc": "2025-12-05T07:00:00+00:00"
         },
         {
             "source": "WIRED Security",
