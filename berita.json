@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2025-12-10T11:20:12.234852+00:00",
+    "lastUpdatedUTC": "2025-12-10T12:49:01.381442+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Fortinet Patches Critical Authentication Bypass Vulnerabilities",
+            "link": "https://www.securityweek.com/fortinet-patches-critical-authentication-bypass-vulnerabilities/",
+            "summary": "",
+            "published_utc": "2025-12-10T12:39:07+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Ukrainian hacker charged with helping Russian hacktivist groups",
+            "link": "https://www.bleepingcomputer.com/news/security/ukrainian-hacker-charged-with-helping-russian-hacktivist-groups/",
+            "summary": "U.S. prosecutors have charged a Ukrainian national for her role in cyberattacks targeting critical infrastructure worldwide, including U.S. water syst...",
+            "published_utc": "2025-12-10T12:26:32+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "KI-Browser gefährden Unternehmen",
+            "link": "https://www.csoonline.com/article/4103972/ki-browser-gefahrden-unternehmen.html",
+            "summary": "",
+            "published_utc": "2025-12-10T12:18:53+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "FBI Warns of Fake Video Scams",
+            "link": "https://www.schneier.com/blog/archives/2025/12/fbi-warns-of-fake-video-scams.html",
+            "summary": "",
+            "published_utc": "2025-12-10T12:05:37+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Google Fixes Zero Click Gemini Enterprise Flaw That Exposed Corporate Data",
+            "link": "https://www.infosecurity-magazine.com/news/google-fixes-gemini-enterprise-flaw/",
+            "summary": "The flaw, dubbed ‘GeminiJack,’ exploits the trust boundary between user-controlled content in data sources and the AI model’s instruction processing",
+            "published_utc": "2025-12-10T12:05:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Ivanti EPM Update Patches Critical Remote Code Execution Flaw",
+            "link": "https://www.securityweek.com/ivanti-epm-update-patches-critical-remote-code-execution-flaw/",
+            "summary": "",
+            "published_utc": "2025-12-10T11:53:55+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "SAP Patches Critical Vulnerabilities With December 2025 Security Updates",
@@ -143,10 +185,10 @@
         },
         {
             "source": "ZDNet Security",
-            "title": "The fastest-growing AI chatbot now isn't from OpenAI, Anthropic, or Google",
+            "title": "The two fastest growing AI chatbots now (neither is ChatGPT)",
             "link": "https://www.zdnet.com/article/fastest-growing-ai-chatbots-2025-gemini-grok/",
             "summary": "'Different assistants map to different moments,' according to ComScore's latest report on the AI market.",
-            "published_utc": "2025-12-10T01:00:14+00:00"
+            "published_utc": "2025-12-10T01:00:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -352,13 +394,6 @@
             "published_utc": "2025-12-09T16:22:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Webinar Today: Inside the First 72 hours of a Cyber Event",
-            "link": "https://www.securityweek.com/webinar-today-inside-the-first-72-hours-of-a-cyber-event/",
-            "summary": "",
-            "published_utc": "2025-12-09T16:16:17+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "DeadLock Ransomware Uses BYOVD to Evade Security Measures",
             "link": "https://www.infosecurity-magazine.com/news/deadlock-ransomware-uses-byovd/",
@@ -380,13 +415,6 @@
             "published_utc": "2025-12-09T15:24:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "React2Shell Attacks Linked to North Korean Hackers",
-            "link": "https://www.securityweek.com/react2shell-attacks-linked-to-north-korean-hackers/",
-            "summary": "",
-            "published_utc": "2025-12-09T15:18:11+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "NIS2 umsetzen – ohne im Papierkrieg zu enden",
             "link": "https://www.csoonline.com/article/4103179/nis2-umsetzen-ohne-im-papierkrieg-zu-enden.html",
@@ -399,13 +427,6 @@
             "link": "https://www.schneier.com/blog/archives/2025/12/ai-vs-human-drivers.html",
             "summary": "",
             "published_utc": "2025-12-09T12:07:53+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft investigates Copilot outage affecting users in Europe",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-copilot-outage-affecting-users-in-europe/",
-            "summary": "Microsoft is working to mitigate an ongoing incident that has been blocking users in Europe from accessing the company's AI-powered Copilot digital as...",
-            "published_utc": "2025-12-09T11:48:39+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -455,13 +476,6 @@
             "link": "https://www.csoonline.com/article/3493126/genai-security-als-checkliste.html",
             "summary": "",
             "published_utc": "2025-12-09T03:39:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Ransomware gangs turn to Shanya EXE packer to hide EDR killers",
-            "link": "https://www.bleepingcomputer.com/news/security/ransomware-gangs-turn-to-shanya-exe-packer-to-hide-edr-killers/",
-            "summary": "Several ransomware groups have been spotted using a packer-as-a-service (PaaS) platform named Shanya to assist in EDR (endpoint detection and response...",
-            "published_utc": "2025-12-09T00:00:05+00:00"
         },
         {
             "source": "CSO Online",
@@ -527,25 +541,11 @@
             "published_utc": "2025-12-08T11:40:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "UK ICO Demands “Urgent Clarity” on Facial Recognition Bias Claims",
-            "link": "https://www.infosecurity-magazine.com/news/ico-demands-clarity-facial/",
-            "summary": "A Home Office report has revealed racial bias in facial recognition technology used by police",
-            "published_utc": "2025-12-08T10:30:00+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Offensive security takes center stage in the AI era",
             "link": "https://www.csoonline.com/article/4101929/offensive-security-takes-center-stage-in-the-ai-era.html",
             "summary": "",
             "published_utc": "2025-12-08T07:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Vaillant CISO: NIS2 complexity and lack of clarity endanger its mission",
-            "link": "https://www.csoonline.com/article/4101952/vaillant-ciso-start-instead-of-waiting.html",
-            "summary": "",
-            "published_utc": "2025-12-08T06:30:00+00:00"
         },
         {
             "source": "KrebsOnSecurity",
@@ -756,13 +756,6 @@
             "link": "https://www.wired.com/story/ice-bounty-hunter-spy-program/",
             "summary": "Immigration and Customs Enforcement lifted a $180 million cap on a proposed immigrant-tracking program while guaranteeing multimillion-dollar payouts ...",
             "published_utc": "2025-11-25T19:54:15+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Four Ways AI Is Being Used to Strengthen Democracies Worldwide",
-            "link": "https://www.schneier.com/blog/archives/2025/11/four-ways-ai-is-being-used-to-strengthen-democracies-worldwide.html",
-            "summary": "",
-            "published_utc": "2025-11-25T12:00:50+00:00"
         },
         {
             "source": "WeLiveSecurity",
