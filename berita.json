@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2025-12-09T23:21:16.754112+00:00",
+    "lastUpdatedUTC": "2025-12-10T01:47:31.267711+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "December Patch Tuesday: Windows Cloud Files Mini Filter Driver hole already being exploited",
+            "link": "https://www.csoonline.com/article/4103681/december-patch-tuesday-windows-cloud-files-mini-filter-driver-hole-already-being-exploited.html",
+            "summary": "",
+            "published_utc": "2025-12-10T01:19:11+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Want to save your old computer? Try one of these 9 Linux distros - for free",
+            "link": "https://www.zdnet.com/article/want-to-save-your-old-computer-try-one-of-these-9-linux-distros-for-free/",
+            "summary": "Here's how to save money, reduce e-waste, and extend the life of your old hardware at the same time.",
+            "published_utc": "2025-12-10T01:06:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The fastest-growing AI chatbot now isn't from OpenAI, Anthropic, or Google",
+            "link": "https://www.zdnet.com/article/fastest-growing-ai-chatbots-2025-gemini-grok/",
+            "summary": "'Different assistants map to different moments,' according to ComScore's latest report on the AI market.",
+            "published_utc": "2025-12-10T01:00:14+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The 7 Linux distros I recommend most for gaming in 2025 - including my favorite",
+            "link": "https://www.zdnet.com/article/best-linux-distro-for-gaming/",
+            "summary": "Still think Linux isn't practical for gaming? Think again. Here are the best distros every gamer should try.",
+            "published_utc": "2025-12-10T00:53:00+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Microsoft Patch Tuesday, December 2025 Edition",
+            "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+            "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of ...",
+            "published_utc": "2025-12-09T23:18:29+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "SAP fixes three critical vulnerabilities across multiple products",
@@ -331,27 +366,6 @@
             "published_utc": "2025-12-09T11:30:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "You can save hundreds on a new phone with T-Mobile's holiday deals - here are the 5 best",
-            "link": "https://www.zdnet.com/article/best-t-mobile-holiday-phone-deals/",
-            "summary": "Multiple smartphones from various brands are currently free at T-Mobile. Get them while supplies last.",
-            "published_utc": "2025-12-09T11:10:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Best Android smartwatches of 2025: I tested every popular watch so you can find the perfect fit",
-            "link": "https://www.zdnet.com/article/best-android-smartwatch/",
-            "summary": "From the rugged Galaxy Watch Ultra to the elegant Pixel Watch 4 smartwatch, we tested the best Wear OS smartwatches for Android smartphone users to he...",
-            "published_utc": "2025-12-09T11:00:32+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Best tablets for note-taking 2025: Expert tested and reviewed",
-            "link": "https://www.zdnet.com/article/best-note-taking-tablet/",
-            "summary": "We've tested and reviewed the best tablets on the market for note-taking in study sessions, meetings, or when you're feeling creative.",
-            "published_utc": "2025-12-09T10:00:39+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Spotlight: Making the most of multicloud",
             "link": "https://us.resources.csoonline.com/resources/form?placement_id=7f710e0d-983c-4952-b7e2-d5221eb5d1a6&brand_id=32&locale_id=1",
@@ -553,13 +567,6 @@
             "link": "https://www.csoonline.com/article/4101145/avoiding-the-next-technical-debt-building-ai-governance-before-it-breaks.html",
             "summary": "",
             "published_utc": "2025-12-05T14:22:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "AI in CI/CD pipelines can be tricked into behaving badly",
-            "link": "https://www.csoonline.com/article/4101751/ai-in-ci-cd-pipelines-can-be-tricked-into-behaving-badly-2.html",
-            "summary": "",
-            "published_utc": "2025-12-05T14:11:47+00:00"
         },
         {
             "source": "WIRED Security",
@@ -870,13 +877,6 @@
             "published_utc": "2025-11-17T10:00:00+00:00"
         },
         {
-            "source": "KrebsOnSecurity",
-            "title": "Microsoft Patch Tuesday, November 2025 Edition",
-            "link": "https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/",
-            "summary": "Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at ...",
-            "published_utc": "2025-11-16T21:47:14+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "A Major Leak Spills a Chinese Hacking Contractor’s Tools and Targets",
             "link": "https://www.wired.com/story/major-leak-spills-chinese-hacking-contractor-tools-targets/",
@@ -973,13 +973,6 @@
             "link": "https://www.welivesecurity.com/en/eset-research/eset-apt-activity-report-q2-2025-q3-2025/",
             "summary": "An overview of the activities of selected APT groups investigated and analyzed by ESET Research in Q2 2025 and Q3 2025",
             "published_utc": "2025-11-06T09:45:00+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Cloudflare Scrubs Aisuru Botnet from Top Domains List",
-            "link": "https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/",
-            "summary": "For the past week, domains associated with the massive Aisuru botnet have repeatedly usurped Amazon, Apple, Google and Microsoft in Cloudflare's publi...",
-            "published_utc": "2025-11-06T02:04:36+00:00"
         },
         {
             "source": "WIRED Security",
