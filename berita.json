@@ -1,6 +1,55 @@
 {
-    "lastUpdatedUTC": "2025-12-10T14:25:02.839549+00:00",
+    "lastUpdatedUTC": "2025-12-10T15:27:36.302769+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "The fix for messy AI agent ecosystems might finally be here",
+            "link": "https://www.zdnet.com/article/agentic-ai-foundation-fix-messy-agent-ecosystems/",
+            "summary": "Backed by OpenAI, Anthropic, and others, AAIF aims to standardize AI agents and build an open, interoperable foundation.",
+            "published_utc": "2025-12-10T15:20:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Behind the breaches: Case studies that reveal adversary motives and modus operandi",
+            "link": "https://www.csoonline.com/article/4103300/behind-the-breaches-case-studies-that-reveal-adversary-motives-and-modus-operandi.html",
+            "summary": "",
+            "published_utc": "2025-12-10T15:18:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Virtual Event Today: Cyber AI & Automation Summit",
+            "link": "https://www.securityweek.com/virtual-event-today-cyber-ai-automation-summit-3/",
+            "summary": "",
+            "published_utc": "2025-12-10T15:14:25+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Why a secure software development life cycle is critical for manufacturers",
+            "link": "https://www.bleepingcomputer.com/news/security/why-a-secure-software-development-life-cycle-is-critical-for-manufacturers/",
+            "summary": "Recent supply-chain breaches show how attackers exploit development tools, compromised credentials, and malicious NPM packages to infiltrate manufactu...",
+            "published_utc": "2025-12-10T15:00:10+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "New Spiderman phishing service targets dozens of European banks",
+            "link": "https://www.bleepingcomputer.com/news/security/new-spiderman-phishing-service-targets-dozens-of-european-banks/",
+            "summary": "A new phishing kit called Spiderman is being used to target customers of dozens of European banks and cryptocurrency holders with pixel-perfect cloned...",
+            "published_utc": "2025-12-10T14:53:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "This new $75 smart ring helps you remember things you'd likely forget - here's how",
+            "link": "https://www.zdnet.com/article/pebble-index-ring-01-smart-ring-note-taker/",
+            "summary": "Pebble, known for its watches, has opened preorders for its new Pebble Index 01 smart ring.",
+            "published_utc": "2025-12-10T14:31:32+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I tested an 8K 360-degree drone, and it's spoiled video cameras for me",
+            "link": "https://www.zdnet.com/article/antigravity-a1-drone-review/",
+            "summary": "Antigravity's A1 drone is capable of recording high-resolution 360 videos and has a beginner-friendly control scheme.",
+            "published_utc": "2025-12-10T14:26:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Shelly's new smart plug is at home with all major automation systems",
@@ -35,13 +84,6 @@
             "link": "https://www.csoonline.com/article/4103288/quantum-meets-ai-the-next-cybersecurity-battleground.html",
             "summary": "",
             "published_utc": "2025-12-10T13:18:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I'm a first-time flier, and this 8K drone made my first flight effortless",
-            "link": "https://www.zdnet.com/article/antigravity-a1-drone-review/",
-            "summary": "Antigravity's A1 drone is capable of recording high-resolution 360 videos and has a beginner-friendly control scheme.",
-            "published_utc": "2025-12-10T13:15:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -303,32 +345,11 @@
             "published_utc": "2025-12-09T20:35:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Microsoft Patches 57 Vulnerabilities, Three Zero-Days",
-            "link": "https://www.securityweek.com/microsoft-patches-57-vulnerabilities-three-zero-days/",
-            "summary": "",
-            "published_utc": "2025-12-09T20:29:08+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Microsoft releases Windows 10 KB5071546 extended security update",
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5071546-extended-security-update/",
             "summary": "Microsoft has released the KB5071546 extended security update to resolve 57 security vulnerabilities, including three zero-day flaws. [...]",
             "published_utc": "2025-12-09T19:54:26+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How Google's new Pixel Watch update takes aim at Apple Watch",
-            "link": "https://www.zdnet.com/article/google-pixel-watch-double-pinch-hand-gestures-new-features/",
-            "summary": "Pixel Watch 4 is getting gestures like double pinch and wrist turn - two features already included on Apple Watches - to dismiss calls, snooze alarms,...",
-            "published_utc": "2025-12-09T19:51:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "While Google and OpenAI battle for model dominance, Anthropic is quietly winning the enterprise AI race",
-            "link": "https://www.zdnet.com/article/anthropic-openai-enterprise-market-share-2025/",
-            "summary": "A survey by venture capital firm Menlo Ventures also finds that agentic AI is still a niche.",
-            "published_utc": "2025-12-09T19:45:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -413,13 +434,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/north-korean-hackers-exploit-react2shell-flaw-in-etherrat-malware-attacks/",
             "summary": "A new malware implant called EtherRAT, deployed in a recent React2Shell attack, runs five separate Linux persistence mechanisms and leverages Ethereum...",
             "published_utc": "2025-12-09T15:43:05+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Ransomware IAB abuses EDR for stealthy malware execution",
-            "link": "https://www.bleepingcomputer.com/news/security/ransomware-iab-abuses-edr-for-stealthy-malware-execution/",
-            "summary": "An initial access broker tracked as Storm-0249 is abusing endpoint detection and response solutions and trusted Microsoft Windows utilities to load ma...",
-            "published_utc": "2025-12-09T15:24:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -527,13 +541,6 @@
             "published_utc": "2025-12-08T16:00:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "KI schafft neue Sicherheitsrisiken für OT-Netzwerke",
-            "link": "https://www.csoonline.com/article/4102407/ki-schafft-neue-sicherheitsrisiken-fur-ot-netzwerke.html",
-            "summary": "",
-            "published_utc": "2025-12-08T13:21:31+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Substitution Cipher Based on The Voynich Manuscript",
             "link": "https://www.schneier.com/blog/archives/2025/12/substitution-cipher-based-on-the-voynich-manuscript.html",
@@ -563,9 +570,9 @@
         },
         {
             "source": "WIRED Security",
-            "title": "Oh Crap, Kohler’s Toilet Cameras Aren’t Really End-to-End Encrypted",
-            "link": "https://www.wired.com/story/security-news-this-week-oh-crap-kohlers-toilet-cameras-arent-really-end-to-end-encrypted/",
-            "summary": "Plus: The Trump administration declines to issue sanctions over Salt Typhoon’s hacking spree, officials warn of a disturbingly stealthy Chinese malwar...",
+            "title": "The US Won't Sanction China for Salt Typhoon Hacking",
+            "link": "https://www.wired.com/story/security-news-this-week-the-us-wont-sanction-china-for-salt-typhoon-hacking/",
+            "summary": "Plus: Officials warn of a disturbingly stealthy Chinese malware specimen, a CISA nomination stalls, and more.",
             "published_utc": "2025-12-06T11:30:00+00:00"
         },
         {
