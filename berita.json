@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2025-12-10T10:26:41.991115+00:00",
+    "lastUpdatedUTC": "2025-12-10T11:20:12.234852+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "SAP Patches Critical Vulnerabilities With December 2025 Security Updates",
+            "link": "https://www.securityweek.com/sap-patches-critical-vulnerabilities-with-december-2025-security-updates/",
+            "summary": "",
+            "published_utc": "2025-12-10T11:08:55+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The best GPS trackers for kids in 2025 (recommended by parents)",
+            "link": "https://www.zdnet.com/article/best-gps-trackers-and-devices-for-kids/",
+            "summary": "These GPS trackers can help you manage your child's whereabouts with real-time location updates and innovative safety features",
+            "published_utc": "2025-12-10T11:00:57+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Log4Shell Downloaded 40 Million Times in 2025",
+            "link": "https://www.infosecurity-magazine.com/news/log4shell-downloaded-40-million/",
+            "summary": "Sonatype has claimed that 13% of Log4j versions downloaded this year were vulnerable to the legacy critical Log4Shell bug",
+            "published_utc": "2025-12-10T11:00:00+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Rockwell, Schneider",
@@ -345,13 +366,6 @@
             "published_utc": "2025-12-09T16:00:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Wearing this smart ring reminded me of my Oura - then it started mimicking my voice",
-            "link": "https://www.zdnet.com/article/stream-ring-hands-on/",
-            "summary": "Stream Ring is an AI-powered note-taker and thought organizer that users can speak into - with some clever tricks.",
-            "published_utc": "2025-12-09T15:48:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "North Korean hackers exploit React2Shell flaw in EtherRAT malware attacks",
             "link": "https://www.bleepingcomputer.com/news/security/north-korean-hackers-exploit-react2shell-flaw-in-etherrat-malware-attacks/",
@@ -380,13 +394,6 @@
             "published_utc": "2025-12-09T14:52:26+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Identity Security Firm Saviynt Raises $700 Million at $3 Billion Valuation",
-            "link": "https://www.securityweek.com/identity-security-firm-saviynt-raises-700-million-at-3-billion-valuation/",
-            "summary": "",
-            "published_utc": "2025-12-09T14:49:26+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "AI vs. Human Drivers",
             "link": "https://www.schneier.com/blog/archives/2025/12/ai-vs-human-drivers.html",
@@ -412,13 +419,6 @@
             "title": "Spotlight: Making the most of multicloud",
             "link": "https://us.resources.csoonline.com/resources/form?placement_id=7f710e0d-983c-4952-b7e2-d5221eb5d1a6&brand_id=32&locale_id=1",
             "summary": "",
-            "published_utc": "2025-12-09T10:00:00+00:00"
-        },
-        {
-            "source": "WeLiveSecurity",
-            "title": "The big catch: How whaling attacks target top executives",
-            "link": "https://www.welivesecurity.com/en/business-security/big-catch-how-whaling-attacks-target-top-executives/",
-            "summary": "Is your organization’s senior leadership vulnerable to a cyber-harpooning? Learn how to keep them safe.",
             "published_utc": "2025-12-09T10:00:00+00:00"
         },
         {
@@ -532,13 +532,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ico-demands-clarity-facial/",
             "summary": "A Home Office report has revealed racial bias in facial recognition technology used by police",
             "published_utc": "2025-12-08T10:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Barts Health Seeks High Court Ban After Oracle EBS Breach",
-            "link": "https://www.infosecurity-magazine.com/news/barts-health-high-court-ban-oracle/",
-            "summary": "Barts Health NHS Trust has revealed itself to be the latest victim of Cl0p’s Oracle EBS campaign",
-            "published_utc": "2025-12-08T09:30:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -1582,6 +1575,13 @@
             "link": "https://www.welivesecurity.com/en/videos/rsac-2025-wrap-up-week-security-tony-anscombe/",
             "summary": "From the power of collaborative defense to identity security and AI, catch up on the event's key themes and discussions",
             "published_utc": "2025-05-02T14:16:05+00:00"
+        },
+        {
+            "source": "WeLiveSecurity",
+            "title": "TheWizards APT group uses SLAAC spoofing to perform adversary-in-the-middle attacks",
+            "link": "https://www.welivesecurity.com/en/eset-research/thewizards-apt-group-slaac-spoofing-adversary-in-the-middle-attacks/",
+            "summary": "ESET researchers analyzed Spellbinder, a lateral movement tool used to perform adversary-in-the-middle attacks",
+            "published_utc": "2025-04-30T09:00:00+00:00"
         },
         {
             "source": "NVD (NIST)",
