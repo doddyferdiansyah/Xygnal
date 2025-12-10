@@ -1,6 +1,34 @@
 {
-    "lastUpdatedUTC": "2025-12-10T01:47:31.267711+00:00",
+    "lastUpdatedUTC": "2025-12-10T03:23:57.950558+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "UK Sanctions Russian and Chinese Firms Suspected of Being ‘Malign Actors’ in Information Warfare",
+            "link": "https://www.securityweek.com/uk-sanctions-russian-and-chinese-firms-suspected-of-being-malign-actors-in-information-warfare/",
+            "summary": "",
+            "published_utc": "2025-12-10T02:31:12+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "GitHub Action Secrets aren’t secret anymore: exposed PATs now a direct path into cloud environments",
+            "link": "https://www.csoonline.com/article/4103717/github-action-secrets-arent-secret-anymore-exposed-pats-now-a-direct-path-into-cloud-environments-2.html",
+            "summary": "",
+            "published_utc": "2025-12-10T02:11:28+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How to clear your Google search cache on Android (and why it makes such a big difference)",
+            "link": "https://www.zdnet.com/article/how-to-clear-google-search-cache-on-android-phone/",
+            "summary": "If you care about privacy, regularly clearing your Google search cache on Android is a must. Here's how to do it manually - and how to set up auto-del...",
+            "published_utc": "2025-12-10T02:01:02+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "My favorite Linux search tools make it easier to find your files - no command line needed",
+            "link": "https://www.zdnet.com/article/favorite-linux-gui-search-tools-find-files-easier/",
+            "summary": "Why bother with complicated regular expressions when you can point and click your way to finding the files and folders you need?",
+            "published_utc": "2025-12-10T02:00:45+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "December Patch Tuesday: Windows Cloud Files Mini Filter Driver hole already being exploited",
@@ -310,20 +338,6 @@
             "published_utc": "2025-12-09T14:49:26+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Linus Torvalds is 'a huge believer' in using AI to maintain code - just don't call it a revolution",
-            "link": "https://www.zdnet.com/article/linus-torvalds-ai-tool-maintaining-linux-code/",
-            "summary": "Torvalds is sick of all the AI hype, but says AI is finally maturing to the point where it will be useful for Linux developers and maintainers.",
-            "published_utc": "2025-12-09T14:21:06+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How to prove you're not a deepfake on Zoom: LinkedIn's 'verified' badge is now free for all platforms",
-            "link": "https://www.zdnet.com/article/verified-on-linkedin-badge-free-all-websites-apps-deepfakes/",
-            "summary": "The 'Verified on LinkedIn' program is now available to all websites and apps. Can you trust the internet again?",
-            "published_utc": "2025-12-09T14:00:00+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "US Posts $10 Million Bounty for Iranian Hackers",
             "link": "https://www.securityweek.com/us-posts-10-million-bounty-for-iranian-hackers/",
@@ -350,13 +364,6 @@
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-copilot-outage-affecting-users-in-europe/",
             "summary": "Microsoft is working to mitigate an ongoing incident that has been blocking users in Europe from accessing the company's AI-powered Copilot digital as...",
             "published_utc": "2025-12-09T11:48:39+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "New ‘Broadside’ Botnet Poses Risk to Shipping Companies",
-            "link": "https://www.securityweek.com/new-broadside-botnet-poses-risk-to-shipping-companies/",
-            "summary": "",
-            "published_utc": "2025-12-09T11:48:07+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -560,13 +567,6 @@
             "link": "https://www.infosecurity-magazine.com/news/reactjs-hit-by-react2shell/",
             "summary": "A critical RCE flaw in React.js, dubbed React2Shell (CVE-2025-55182), has been disclosed with a maximum CVSS score of 10.0, posing severe risks for se...",
             "published_utc": "2025-12-05T16:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Avoiding the next technical debt: Building AI governance before it breaks",
-            "link": "https://www.csoonline.com/article/4101145/avoiding-the-next-technical-debt-building-ai-governance-before-it-breaks.html",
-            "summary": "",
-            "published_utc": "2025-12-05T14:22:00+00:00"
         },
         {
             "source": "WIRED Security",
