@@ -1,6 +1,13 @@
 {
-    "lastUpdatedUTC": "2025-12-10T08:31:09.422856+00:00",
+    "lastUpdatedUTC": "2025-12-10T09:26:43.257296+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "I tried using Instacart in ChatGPT, and ordered cookie ingredients for delivery - in minutes",
+            "link": "https://www.zdnet.com/article/instacart-chatgpt-integration-hands-on/",
+            "summary": "It's fast and easy, and it all happens inside ChatGPT, with no Instacart+ required.",
+            "published_utc": "2025-12-10T09:20:53+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Intel, AMD Processors Affected by PCIe Vulnerabilities",
@@ -338,13 +345,6 @@
             "published_utc": "2025-12-09T15:32:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Gemini's command line tool is a productivity game changer, and it's free - how I use it",
-            "link": "https://www.zdnet.com/article/geminis-command-line-tool-is-a-productivity-game-changer-and-its-free-how-i-use-it/",
-            "summary": "If you want to add Gemini AI to your Linux terminal workflow, you'll be surprised at how easy it is to install and use.",
-            "published_utc": "2025-12-09T15:30:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Ransomware IAB abuses EDR for stealthy malware execution",
             "link": "https://www.bleepingcomputer.com/news/security/ransomware-iab-abuses-edr-for-stealthy-malware-execution/",
@@ -405,6 +405,13 @@
             "title": "Spotlight: Making the most of multicloud",
             "link": "https://us.resources.csoonline.com/resources/form?placement_id=7f710e0d-983c-4952-b7e2-d5221eb5d1a6&brand_id=32&locale_id=1",
             "summary": "",
+            "published_utc": "2025-12-09T10:00:00+00:00"
+        },
+        {
+            "source": "WeLiveSecurity",
+            "title": "The big catch: How whaling attacks target top executives",
+            "link": "https://www.welivesecurity.com/en/business-security/big-catch-how-whaling-attacks-target-top-executives/",
+            "summary": "Is your organization’s senior leadership vulnerable to a cyber-harpooning? Learn how to keep them safe.",
             "published_utc": "2025-12-09T10:00:00+00:00"
         },
         {
@@ -1575,13 +1582,6 @@
             "link": "https://www.welivesecurity.com/en/videos/rsac-2025-wrap-up-week-security-tony-anscombe/",
             "summary": "From the power of collaborative defense to identity security and AI, catch up on the event's key themes and discussions",
             "published_utc": "2025-05-02T14:16:05+00:00"
-        },
-        {
-            "source": "WeLiveSecurity",
-            "title": "TheWizards APT group uses SLAAC spoofing to perform adversary-in-the-middle attacks",
-            "link": "https://www.welivesecurity.com/en/eset-research/thewizards-apt-group-slaac-spoofing-adversary-in-the-middle-attacks/",
-            "summary": "ESET researchers analyzed Spellbinder, a lateral movement tool used to perform adversary-in-the-middle attacks",
-            "published_utc": "2025-04-30T09:00:00+00:00"
         },
         {
             "source": "NVD (NIST)",
