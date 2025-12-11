@@ -1,6 +1,34 @@
 {
-    "lastUpdatedUTC": "2025-12-11T20:25:39.030139+00:00",
+    "lastUpdatedUTC": "2025-12-11T21:23:59.599511+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "Are GPT-5.2's new powers enough to surpass Gemini 3? Try it and see",
+            "link": "https://www.zdnet.com/article/new-openai-gpt-5-2-how-to-try-it/",
+            "summary": "The new model performs 'at or above a human expert level,' according to OpenAI.",
+            "published_utc": "2025-12-11T21:15:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Notepad++ fixes flaw that let attackers push malicious update files",
+            "link": "https://www.bleepingcomputer.com/news/security/notepad-plus-plus-fixes-flaw-that-let-attackers-push-malicious-update-files/",
+            "summary": "Notepad++ version 8.8.9 was released to fix a security weakness in its WinGUp update tool after researchers and users reported incidents in which the ...",
+            "published_utc": "2025-12-11T21:04:15+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Coworker or friend? How your chatbot's role is shaped by device and time",
+            "link": "https://www.zdnet.com/article/ai-chatbot-copilot-microsoft-study-coworker-and-friend/",
+            "summary": "From work-related conversations on our desktops by day to personal advice on our phones after hours, AI now integrates 'into the full texture of human...",
+            "published_utc": "2025-12-11T20:58:05+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Malicious VSCode Marketplace extensions hid trojan in fake PNG file",
+            "link": "https://www.bleepingcomputer.com/news/security/malicious-vscode-marketplace-extensions-hid-trojan-in-fake-png-file/",
+            "summary": "A stealthy campaign with 19 extensions on the VSCode Marketplace has been active since February, targeting developers with malware hidden inside depen...",
+            "published_utc": "2025-12-11T20:54:21+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "SAML authentication broken almost beyond repair",
@@ -289,25 +317,11 @@
             "published_utc": "2025-12-11T10:09:52+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "The best 85-inch TVs you can buy in 2025: Expert recommended for big-screen entertainment",
-            "link": "https://www.zdnet.com/article/best-85-inch-tv/",
-            "summary": "Not all big-screen TVs are created equal, so I and other ZDNET experts have found the best 85-inch TVs from brands like Samsung, Sony, and more to hel...",
-            "published_utc": "2025-12-11T10:00:37+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "“Cyber Tax” Warning as Two-Fifths of SMBs Raise Prices After Breach",
             "link": "https://www.infosecurity-magazine.com/news/twofifths-smbs-raise-prices-after/",
             "summary": "New ITRC research finds 81% of US small businesses suffered a data or security breach in the past year",
             "published_utc": "2025-12-11T09:45:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Thousands of readers bought this smartwatch in 2025 (it's not a Galaxy, Pixel, or Apple Watch)",
-            "link": "https://www.zdnet.com/article/most-popular-smartwatches-from-our-readers/",
-            "summary": "We gathered the top 10 smartwatches and fitness trackers that our readers purchased the most this year, and there were several surprises on the list.",
-            "published_utc": "2025-12-11T09:30:44+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -380,13 +394,6 @@
             "published_utc": "2025-12-10T19:32:08+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Over 10,000 Docker Hub images found leaking credentials, auth keys",
-            "link": "https://www.bleepingcomputer.com/news/security/over-10-000-docker-hub-images-found-leaking-credentials-auth-keys/",
-            "summary": "More than 10,000 Docker Hub container images expose data that should be protected, including live credentials to production systems, CI/CD databases, ...",
-            "published_utc": "2025-12-10T18:22:25+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "2 Men Linked to China’s Salt Typhoon Hacker Group Likely Trained in a Cisco ‘Academy’",
             "link": "https://www.wired.com/story/2-men-linked-to-chinas-salt-typhoon-hacker-group-likely-trained-in-a-cisco-academy/",
@@ -448,20 +455,6 @@
             "link": "https://www.welivesecurity.com/en/business-security/seeking-symmetry-attck-season-harness-todays-diverse-analyst-tester-landscape-paint-security-masterpiece/",
             "summary": "Interpreting the vast cybersecurity vendor landscape through the lens of industry analysts and testing authorities can immensely enhance your cyber-re...",
             "published_utc": "2025-12-10T15:03:51+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Why a secure software development life cycle is critical for manufacturers",
-            "link": "https://www.bleepingcomputer.com/news/security/why-a-secure-software-development-life-cycle-is-critical-for-manufacturers/",
-            "summary": "Recent supply-chain breaches show how attackers exploit development tools, compromised credentials, and malicious NPM packages to infiltrate manufactu...",
-            "published_utc": "2025-12-10T15:00:10+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "New Spiderman phishing service targets dozens of European banks",
-            "link": "https://www.bleepingcomputer.com/news/security/new-spiderman-phishing-service-targets-dozens-of-european-banks/",
-            "summary": "A new phishing kit called Spiderman is being used to target customers of dozens of European banks and cryptocurrency holders with pixel-perfect cloned...",
-            "published_utc": "2025-12-10T14:53:00+00:00"
         },
         {
             "source": "CSO Online",
