@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2025-12-11T07:25:48.116761+00:00",
+    "lastUpdatedUTC": "2025-12-11T08:32:07.693282+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Google fixes eighth Chrome zero-day exploited in attacks in 2025",
+            "link": "https://www.bleepingcomputer.com/news/security/google-fixes-eighth-chrome-zero-day-exploited-in-attacks-in-2025/",
+            "summary": "Google has released emergency updates to fix another Chrome zero-day vulnerability exploited in the wild, marking the eighth such security flaw patche...",
+            "published_utc": "2025-12-11T08:01:21+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How to use the new Linux terminal on your Android device - it's easy",
+            "link": "https://www.zdnet.com/article/how-to-use-the-new-linux-terminal-on-android/",
+            "summary": "There's a powerful new feature for Android users: The Linux terminal. It unlocks a whole new level of control.",
+            "published_utc": "2025-12-11T08:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Google Patches Mysterious Chrome Zero-Day Exploited in the Wild",
+            "link": "https://www.securityweek.com/google-patches-mysterious-chrome-zero-day-exploited-in-the-wild/",
+            "summary": "",
+            "published_utc": "2025-12-11T07:43:22+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "How to justify your security investments",
@@ -219,13 +240,6 @@
             "published_utc": "2025-12-10T16:27:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Sick of AI in your search results? Try these 8 Google alternatives",
-            "link": "https://www.zdnet.com/article/sick-of-ai-in-your-search-results-try-these-7-google-alternatives-with-old-school-ai-free-charm/",
-            "summary": "These search engines that do not put AI front and center - or, better yet, don't use it at all.",
-            "published_utc": "2025-12-10T16:20:15+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Pro-Russia Hackers Target US Critical Infrastructure in New Wave",
             "link": "https://www.infosecurity-magazine.com/news/russia-hackers-target-us-critical/",
@@ -266,13 +280,6 @@
             "link": "https://www.securityweek.com/virtual-event-today-cyber-ai-automation-summit-3/",
             "summary": "",
             "published_utc": "2025-12-10T15:14:25+00:00"
-        },
-        {
-            "source": "WeLiveSecurity",
-            "title": "Seeking symmetry during ATT&CK® season: How to harness today’s diverse analyst and tester landscape to paint a security masterpiece",
-            "link": "https://www.welivesecurity.com/en/business-security/seeking-symmetry-attck-season-harness-todays-diverse-analyst-tester-landscape-paint-security-masterpiece/",
-            "summary": "Interpreting the vast cybersecurity vendor landscape through the lens of industry analysts and testing authorities can immensely enhance your cyber-re...",
-            "published_utc": "2025-12-10T15:03:51+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -415,13 +422,6 @@
             "published_utc": "2025-12-10T04:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "UK Sanctions Russian and Chinese Firms Suspected of Being ‘Malign Actors’ in Information Warfare",
-            "link": "https://www.securityweek.com/uk-sanctions-russian-and-chinese-firms-suspected-of-being-malign-actors-in-information-warfare/",
-            "summary": "",
-            "published_utc": "2025-12-10T02:31:12+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "GitHub Action Secrets aren’t secret anymore: exposed PATs now a direct path into cloud environments",
             "link": "https://www.csoonline.com/article/4103717/github-action-secrets-arent-secret-anymore-exposed-pats-now-a-direct-path-into-cloud-environments-2.html",
@@ -469,13 +469,6 @@
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-december-2025-patch-tuesday-fixes-3-zero-days-57-flaws/",
             "summary": "Microsoft's December 2025 Patch Tuesday fixes 57 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]",
             "published_utc": "2025-12-09T18:38:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Fortinet warns of critical FortiCloud SSO login auth bypass flaws",
-            "link": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-forticloud-sso-login-auth-bypass-flaws/",
-            "summary": "Fortinet has released security updates to address two critical vulnerabilities in FortiOS, FortiWeb, FortiProxy, and FortiSwitchManager that could all...",
-            "published_utc": "2025-12-09T18:36:48+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1575,6 +1568,13 @@
             "link": "https://www.welivesecurity.com/en/scams/put-brakes-toll-road-scams/",
             "summary": "Have you received a text message about an unpaid road toll? Make sure you’re not the next victim of a smishing scam.",
             "published_utc": "2025-05-06T09:00:00+00:00"
+        },
+        {
+            "source": "WeLiveSecurity",
+            "title": "RSAC 2025 wrap-up – Week in security with Tony Anscombe",
+            "link": "https://www.welivesecurity.com/en/videos/rsac-2025-wrap-up-week-security-tony-anscombe/",
+            "summary": "From the power of collaborative defense to identity security and AI, catch up on the event's key themes and discussions",
+            "published_utc": "2025-05-02T14:16:05+00:00"
         },
         {
             "source": "NVD (NIST)",
