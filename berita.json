@@ -1,6 +1,62 @@
 {
-    "lastUpdatedUTC": "2025-12-10T23:19:36.227535+00:00",
+    "lastUpdatedUTC": "2025-12-11T01:48:26.848360+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "Fortinet admins urged to update software to close FortiCloud SSO holes",
+            "link": "https://www.csoonline.com/article/4104499/fortinet-admins-urged-to-update-software-to-close-forticloud-sso-holes.html",
+            "summary": "",
+            "published_utc": "2025-12-11T01:24:42+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Security researchers given new boost",
+            "link": "https://www.csoonline.com/article/4104382/security-researchers-given-new-boost.html",
+            "summary": "",
+            "published_utc": "2025-12-11T00:54:07+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Hidden .NET HTTP proxy behavior can open RCE flaws in apps — a security issue Microsoft won’t fix",
+            "link": "https://www.csoonline.com/article/4104460/hidden-net-http-proxy-behavior-can-open-rce-flaws-in-apps-a-security-issue-microsoft-wont-fix.html",
+            "summary": "",
+            "published_utc": "2025-12-11T00:37:26+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The Kindle I didn't expect to use for work is now my top productivity device - here's why",
+            "link": "https://www.zdnet.com/article/amazon-kindle-scribe-colorsoft-2025-review/",
+            "summary": "Amazon's latest Kindle Scribe Colorsoft features some design improvements while retaining its core capabilities.",
+            "published_utc": "2025-12-11T00:23:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "My Wi-Fi went out, but a forgotten TV feature kept me entertained for hours",
+            "link": "https://www.zdnet.com/article/tv-usb-port-hidden-features/",
+            "summary": "No internet on your TV? A USB drive lets you watch movies, play music, view photos, and more.",
+            "published_utc": "2025-12-11T00:15:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Finally, a Bluetooth speaker that delivers big sound and cool energy (at a good price)",
+            "link": "https://www.zdnet.com/article/treblab-hd-360-pro-review/",
+            "summary": "Seeking a well-priced Bluetooth speaker that fills a room with rich, dynamic sound? This Treblab model I tested gets the job done.",
+            "published_utc": "2025-12-11T00:12:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "This HP travel display convinced me to give portable monitors another shot",
+            "link": "https://www.zdnet.com/article/hp-series-5-pro-monitor-review/",
+            "summary": "HP's Series 5 Pro 14-inch WQXGA portable monitor lets you enjoy a dual-monitor setup on the road with some extra usability perks.",
+            "published_utc": "2025-12-11T00:11:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Google ads for shared ChatGPT, Grok guides push macOS infostealer malware",
+            "link": "https://www.bleepingcomputer.com/news/security/google-ads-for-shared-chatgpt-grok-guides-push-macos-infostealer-malware/",
+            "summary": "A new AMOS infostealer campaign is abusing Google search ads to lure users into Grok and ChatGPT conversations that appear to offer \"helpful\" instruct...",
+            "published_utc": "2025-12-10T23:50:56+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "How AMD End-to-End Hardware Turns AI Innovation Into Impact",
@@ -28,13 +84,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-warn-of-suspicious-traffic-with-external-domains/",
             "summary": "Microsoft is working on a new Teams security feature that will analyze suspicious traffic with external domains to help IT administrators tackle poten...",
             "published_utc": "2025-12-10T19:32:08+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "This HP portable monitor made me reconsider a gadget I've ignored for years",
-            "link": "https://www.zdnet.com/article/hp-series-5-pro-portable-monitor-review/",
-            "summary": "HP's Series 5 Pro 14-inch WQXGA portable monitor lets you enjoy a dual-monitor setup on the road with some extra usability perks.",
-            "published_utc": "2025-12-10T18:56:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -149,13 +198,6 @@
             "published_utc": "2025-12-10T16:16:27+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Finally, a Bluetooth speaker that brings the funk and chill (without breaking the bank)",
-            "link": "https://www.zdnet.com/article/treblab-hd-360-pro-review/",
-            "summary": "Looking for a well-priced Bluetooth speaker that fills a room with dynamic sound? This Treblab model I tested is it.",
-            "published_utc": "2025-12-10T16:13:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Pro-Russia Hackers Target US Critical Infrastructure in New Wave",
             "link": "https://www.infosecurity-magazine.com/news/russia-hackers-target-us-critical/",
@@ -198,13 +240,6 @@
             "published_utc": "2025-12-10T15:26:18+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "The fix for messy AI agent ecosystems might finally be here - and it's open source",
-            "link": "https://www.zdnet.com/article/agentic-ai-foundation-fix-messy-agent-ecosystems/",
-            "summary": "Backed by OpenAI, Anthropic, and others, AAIF aims to standardize AI agents and build an open, interoperable foundation.",
-            "published_utc": "2025-12-10T15:20:00+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Behind the breaches: Case studies that reveal adversary motives and modus operandi",
             "link": "https://www.csoonline.com/article/4103300/behind-the-breaches-case-studies-that-reveal-adversary-motives-and-modus-operandi.html",
@@ -231,13 +266,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/new-spiderman-phishing-service-targets-dozens-of-european-banks/",
             "summary": "A new phishing kit called Spiderman is being used to target customers of dozens of European banks and cryptocurrency holders with pixel-perfect cloned...",
             "published_utc": "2025-12-10T14:53:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "This new $75 smart ring helps you remember things you'd likely forget - here's how",
-            "link": "https://www.zdnet.com/article/pebble-index-ring-01-smart-ring-note-taker/",
-            "summary": "Pebble, known for its watches, has opened preorders for its new Pebble Index 01 smart ring.",
-            "published_utc": "2025-12-10T14:31:32+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -429,13 +457,6 @@
             "published_utc": "2025-12-09T18:36:48+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Windows 11 KB5072033 & KB5071417 cumulative updates released",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5072033-and-kb5071417-cumulative-updates-released/",
-            "summary": "Microsoft has released Windows 11 KB5072033 and KB5071417 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, an...",
-            "published_utc": "2025-12-09T18:31:38+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "React2Shell Exploit Campaigns Tied to North Korean Cyber Intrusion Tactics",
             "link": "https://www.infosecurity-magazine.com/news/react2shell-exploit-campaigns/",
@@ -525,27 +546,6 @@
             "link": "https://www.csoonline.com/article/4101936/ignoring-ai-in-the-threat-chain-could-be-a-costly-mistake-experts-warn.html",
             "summary": "",
             "published_utc": "2025-12-09T07:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Manufacturing fares better against ransomware — with room for improvement",
-            "link": "https://www.csoonline.com/article/4101958/ransomware-high-proportion-of-ransom-payments-despite-better-defenses.html",
-            "summary": "",
-            "published_utc": "2025-12-09T06:30:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "GenAI-Security als Checkliste",
-            "link": "https://www.csoonline.com/article/3493126/genai-security-als-checkliste.html",
-            "summary": "",
-            "published_utc": "2025-12-09T03:39:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Apache Tika hit by critical vulnerability thought to be patched months ago",
-            "link": "https://www.csoonline.com/article/4102655/apache-tika-hit-by-critical-vulnerability-thought-to-be-patched-months-ago.html",
-            "summary": "",
-            "published_utc": "2025-12-08T19:56:16+00:00"
         },
         {
             "source": "InfosecurityMag",
