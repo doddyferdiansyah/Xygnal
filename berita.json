@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2025-12-11T16:33:42.306875+00:00",
+    "lastUpdatedUTC": "2025-12-11T17:27:07.201177+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "UK fines LastPass over 2022 data breach impacting 1.6 million users",
+            "link": "https://www.bleepingcomputer.com/news/security/uk-fines-lastpass-over-2022-data-breach-impacting-16-million-users/",
+            "summary": "The UK Information Commissioner's Office (ICO) fined the LastPass password management firm £1.2 million for failing to implement security measures tha...",
+            "published_utc": "2025-12-11T17:09:00+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "AIs Exploiting Smart Contracts",
+            "link": "https://www.schneier.com/blog/archives/2025/12/ais-exploiting-smart-contracts.html",
+            "summary": "",
+            "published_utc": "2025-12-11T17:06:05+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How I used a Bluetooth label printer to declutter my office workstation (and why you need one, too)",
+            "link": "https://www.zdnet.com/article/neiko-pm220-label-printer-review/",
+            "summary": "The Nelko thermal label maker is a compact workhorse that connects to your phone or laptop for wireless printing.",
+            "published_utc": "2025-12-11T16:58:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How well does ChatGPT know you? This simple prompt can reveal a lot",
+            "link": "https://www.zdnet.com/article/i-asked-chatgpt-to-write-me-a-year-end-review-heres-what-it-told-me/",
+            "summary": "Most of it was flattery, but there was one bit of advice that I immediately decided to turn into a New Year's resolution.",
+            "published_utc": "2025-12-11T16:48:23+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "OpenAI Enhances Defensive Models to Mitigate Cyber-Threats",
+            "link": "https://www.infosecurity-magazine.com/news/openai-enhances-defensive-models/",
+            "summary": "OpenAI has reported a surge in performance as GPT-5.1-Codex-Max reaching 76% in capability assessments, and warned of upcoming cyber-risks",
+            "published_utc": "2025-12-11T16:45:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "I bought a $30 battery analyzer on Amazon, and it revealed the truth about my gadget drawer",
@@ -70,13 +105,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/ai-is-accelerating-cyberattacks-is-your-network-prepared/",
             "summary": "AI-driven attacks now automate reconnaissance, generate malware variants, and evade detection at a speed that overwhelms traditional defenses. Corelig...",
             "published_utc": "2025-12-11T15:05:15+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How well does ChatGPT know me? This simple prompt revealed a lot - try it for yourself",
-            "link": "https://www.zdnet.com/article/i-asked-chatgpt-to-write-me-a-year-end-review-heres-what-it-told-me/",
-            "summary": "Most of it was flattery, but there was one bit of advice that I immediately decided to turn into a New Year's resolution.",
-            "published_utc": "2025-12-11T15:02:31+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -289,13 +317,6 @@
             "published_utc": "2025-12-11T02:01:07+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "OpenSUSE vs. Manjaro: Which powerhouse Linux distro is best for you?",
-            "link": "https://www.zdnet.com/article/opensuse-versus-manjaro-linux-distros-compared-new-experienced-users/",
-            "summary": "Looking for a Linux distribution that delivers more power and control? If you're new to Linux, only one of these may be right for you.",
-            "published_utc": "2025-12-11T02:00:49+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Fortinet admins urged to update software to close FortiCloud SSO holes",
             "link": "https://www.csoonline.com/article/4104499/fortinet-admins-urged-to-update-software-to-close-forticloud-sso-holes.html",
@@ -429,13 +450,6 @@
             "published_utc": "2025-12-10T13:18:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Ukrainian hacker charged with helping Russian hacktivist groups",
-            "link": "https://www.bleepingcomputer.com/news/security/ukrainian-hacker-charged-with-helping-russian-hacktivist-groups/",
-            "summary": "U.S. prosecutors have charged a Ukrainian national for her role in cyberattacks targeting critical infrastructure worldwide, including U.S. water syst...",
-            "published_utc": "2025-12-10T12:26:32+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "KI-Browser gefährden Unternehmen",
             "link": "https://www.csoonline.com/article/4103972/ki-browser-gefahrden-unternehmen.html",
@@ -546,13 +560,6 @@
             "link": "https://www.infosecurity-magazine.com/news/malicious-vs-code-extensions/",
             "summary": "Two malicious Visual Studio Code extensions, Bitcoin Black and Codo AI, have been observed harvesting sensitive user data",
             "published_utc": "2025-12-09T16:45:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "DeadLock Ransomware Uses BYOVD to Evade Security Measures",
-            "link": "https://www.infosecurity-magazine.com/news/deadlock-ransomware-uses-byovd/",
-            "summary": "Cisco Talos has detected new tactics from a financially motivated actor using DeadLock ransomware",
-            "published_utc": "2025-12-09T16:00:00+00:00"
         },
         {
             "source": "Schneier",
@@ -770,13 +777,6 @@
             "link": "https://www.wired.com/story/myanmar-kk-park-scam-compound-destruction/",
             "summary": "Myanmar’s military has been blowing up parts of the KK Park scam compound. Experts say the actions are likely for show.",
             "published_utc": "2025-11-26T16:33:45+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Huawei and Chinese Surveillance",
-            "link": "https://www.schneier.com/blog/archives/2025/11/huawei-and-chinese-surveillance.html",
-            "summary": "",
-            "published_utc": "2025-11-26T12:05:14+00:00"
         },
         {
             "source": "WIRED Security",
