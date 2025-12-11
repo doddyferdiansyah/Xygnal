@@ -1,6 +1,34 @@
 {
-    "lastUpdatedUTC": "2025-12-11T12:50:12.561514+00:00",
+    "lastUpdatedUTC": "2025-12-11T13:40:25.264186+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers exploit unpatched Gogs zero-day to breach 700 servers",
+            "link": "https://www.bleepingcomputer.com/news/security/unpatched-gogs-zero-day-rce-flaw-actively-exploited-in-attacks/",
+            "summary": "An unpatched zero-day vulnerability in Gogs, a popular self-hosted Git service, has enabled attackers to gain remote code execution on Internet-facing...",
+            "published_utc": "2025-12-11T13:19:50+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Comcast just killed hidden fees with new contract-free TV plans - starting at $55",
+            "link": "https://www.zdnet.com/article/comcast-new-xfinity-tv-plans-no-contract-hidden-fees/",
+            "summary": "The new Xfinity TV plans keep it simple with one up-front pricing. There's not even equipment rental charges.",
+            "published_utc": "2025-12-11T13:16:08+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Ivantis EPM-Systeme anfällig für Angriffe",
+            "link": "https://www.csoonline.com/article/4104812/ivantis-epm-systeme-anfallig-fur-angriffe.html",
+            "summary": "",
+            "published_utc": "2025-12-11T13:01:45+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Pierce County Library Data Breach Impacts 340,000",
+            "link": "https://www.securityweek.com/pierce-county-library-data-breach-impacts-340000/",
+            "summary": "",
+            "published_utc": "2025-12-11T13:00:07+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Wide Range of Malware Delivered in React2Shell Attacks",
@@ -261,13 +289,6 @@
             "published_utc": "2025-12-10T18:07:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I just ordered Instacart delivery through ChatGPT using a few simple prompts - here's how",
-            "link": "https://www.zdnet.com/article/instacart-chatgpt-integration-hands-on/",
-            "summary": "It's fast and easy, and it all happens inside ChatGPT, with no Instacart+ required.",
-            "published_utc": "2025-12-10T17:21:00+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "2 Men Linked to China’s Salt Typhoon Hacker Group Likely Trained in a Cisco ‘Academy’",
             "link": "https://www.wired.com/story/2-men-linked-to-chinas-salt-typhoon-hacker-group-likely-trained-in-a-cisco-academy/",
@@ -408,13 +429,6 @@
             "published_utc": "2025-12-10T12:05:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Ivanti EPM Update Patches Critical Remote Code Execution Flaw",
-            "link": "https://www.securityweek.com/ivanti-epm-update-patches-critical-remote-code-execution-flaw/",
-            "summary": "",
-            "published_utc": "2025-12-10T11:53:55+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Log4Shell Downloaded 40 Million Times in 2025",
             "link": "https://www.infosecurity-magazine.com/news/log4shell-downloaded-40-million/",
@@ -492,13 +506,6 @@
             "published_utc": "2025-12-09T20:45:20+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Microsoft releases Windows 10 KB5071546 extended security update",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5071546-extended-security-update/",
-            "summary": "Microsoft has released the KB5071546 extended security update to resolve 57 security vulnerabilities, including three zero-day flaws. [...]",
-            "published_utc": "2025-12-09T19:54:26+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "React2Shell Exploit Campaigns Tied to North Korean Cyber Intrusion Tactics",
             "link": "https://www.infosecurity-magazine.com/news/react2shell-exploit-campaigns/",
@@ -553,13 +560,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ncsc-raises-alarms-prompt/",
             "summary": "The UK’s National Cyber Security Centre has warned of the dangers of comparing prompt injection to SQL injection",
             "published_utc": "2025-12-09T11:30:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Spotlight: Making the most of multicloud",
-            "link": "https://us.resources.csoonline.com/resources/form?placement_id=7f710e0d-983c-4952-b7e2-d5221eb5d1a6&brand_id=32&locale_id=1",
-            "summary": "",
-            "published_utc": "2025-12-09T10:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
