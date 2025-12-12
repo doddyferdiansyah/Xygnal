@@ -1,6 +1,34 @@
 {
-    "lastUpdatedUTC": "2025-12-12T14:20:48.112437+00:00",
+    "lastUpdatedUTC": "2025-12-12T15:24:33.374385+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "AI is already part of Linux's plumbing - whether developers like it or not",
+            "link": "https://www.zdnet.com/article/ai-is-part-of-linux-plumbing-developers/",
+            "summary": "AI is quietly doing some of Linux's dirtiest work, but not everyone is comfortable with it.",
+            "published_utc": "2025-12-12T14:58:46+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How to clear your Roku TV cache (and make the system run like new again)",
+            "link": "https://www.zdnet.com/article/how-to-clear-roku-tv-cache/",
+            "summary": "Too much cached data can make your Roku system lag and stutter. Here's how to quickly put an end to it.",
+            "published_utc": "2025-12-12T14:58:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "My favorite electric screwdriver just got replaced - and the upgrade is somehow cheaper",
+            "link": "https://www.zdnet.com/article/hoto-pixeldrive-electric-screwdriver-review/",
+            "summary": "The Hoto PixelDrive cordless electric screwdriver boasts impressive torque, clever design features, and a delightful price.",
+            "published_utc": "2025-12-12T14:44:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Zero-Trust-Umsetzung: Die richtige Kommunikation zählt",
+            "link": "https://www.csoonline.com/article/4105647/zero-trust-umsetzung-die-richtige-kommunikation-zahlt.html",
+            "summary": "",
+            "published_utc": "2025-12-12T14:27:46+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Gladinet CentreStack Flaw Exploited to Hack Organizations",
@@ -304,24 +332,10 @@
         },
         {
             "source": "ZDNet Security",
-            "title": "My most trusted electric screwdriver just got replaced - and the upgrade is already on sale",
-            "link": "https://www.zdnet.com/article/hoto-pixel-drive-electric-screwdriver-review/",
-            "summary": "The Hoto PixelDrive cordless electric screwdriver boasts impressive torque, clever design features, and a fantastic price.",
-            "published_utc": "2025-12-11T19:07:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
             "title": "OpenAI user data was breached, but changing your password won't help - here's why",
             "link": "https://www.zdnet.com/article/openai-user-data-breach-changing-passwords/",
             "summary": "Revealed on Thanksgiving Eve, the incident serves as a reminder that we're all responsible for exploring additional security options.",
             "published_utc": "2025-12-11T19:04:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Should you stop logging in through Google and Facebook? Consider these SSO risks vs. benefits",
-            "link": "https://www.zdnet.com/article/passkeys-versus-consumer-ssos-replace-passwords-security/",
-            "summary": "Relying on consumer SSO creates significant challenges, and passkeys may offer a solution.",
-            "published_utc": "2025-12-11T19:03:51+00:00"
         },
         {
             "source": "WIRED Security",
@@ -329,13 +343,6 @@
             "link": "https://www.wired.com/story/doxers-posing-as-cops-are-tricking-big-tech-firms-into-sharing-peoples-private-data/",
             "summary": "A spoofed email address and an easily faked document is all it takes for major tech companies to hand over your most personal information.",
             "published_utc": "2025-12-11T18:54:50+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "5 essential Windows apps I always install on new PCs (and how they're uniquely powerful)",
-            "link": "https://www.zdnet.com/article/5-essential-windows-pc-apps/",
-            "summary": "For productivity, entertainment, and an overall improved experience, check out these services that I use regularly.",
-            "published_utc": "2025-12-11T18:20:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -364,6 +371,13 @@
             "link": "https://www.csoonline.com/article/4104251/cybersecurity-isnt-underfunded-its-undermanaged.html",
             "summary": "",
             "published_utc": "2025-12-11T16:10:00+00:00"
+        },
+        {
+            "source": "WeLiveSecurity",
+            "title": "Black Hat Europe 2025: Reputation matters – even in the ransomware economy",
+            "link": "https://www.welivesecurity.com/en/business-security/black-hat-europe-2025-reputation-ransomware/",
+            "summary": "Being seen as reliable is good for ‘business’ and ransomware groups care about 'brand reputation' just as much as their victims",
+            "published_utc": "2025-12-11T16:04:19+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -434,6 +448,13 @@
             "link": "https://www.infosecurity-magazine.com/news/google-chrome-security-update/",
             "summary": "Google has released a Chrome security update to fix three zero-day vulnerabilities, including a high-severity flaw with an active exploit",
             "published_utc": "2025-12-11T10:15:00+00:00"
+        },
+        {
+            "source": "WeLiveSecurity",
+            "title": "Locks, SOCs and a cat in a box: What Schrödinger can teach us about cybersecurity",
+            "link": "https://www.welivesecurity.com/en/business-security/locks-socs-cat-box-what-schrodinger-can-teach-us-about-cybersecurity/",
+            "summary": "If you don’t look inside your environment, you can’t know its true state – and attackers count on that",
+            "published_utc": "2025-12-11T10:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -569,20 +590,6 @@
             "published_utc": "2025-12-10T11:00:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Polymorphic AI malware exists — but it’s not what you think",
-            "link": "https://www.csoonline.com/article/4101491/polymorphic-ai-malware-exists-but-its-not-what-you-think.html",
-            "summary": "",
-            "published_utc": "2025-12-10T07:00:00+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Microsoft Patch Tuesday, December 2025 Edition",
-            "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
-            "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of ...",
-            "published_utc": "2025-12-09T23:18:29+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "AI vs. Human Drivers",
             "link": "https://www.schneier.com/blog/archives/2025/12/ai-vs-human-drivers.html",
@@ -602,13 +609,6 @@
             "link": "https://www.schneier.com/blog/archives/2025/12/substitution-cipher-based-on-the-voynich-manuscript.html",
             "summary": "",
             "published_utc": "2025-12-08T12:04:11+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
-            "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
-            "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin...",
-            "published_utc": "2025-12-06T14:45:03+00:00"
         },
         {
             "source": "WIRED Security",
@@ -644,13 +644,6 @@
             "link": "https://www.wired.com/story/signalgate-inspector-general-report-hegseth-change/",
             "summary": "The United States Inspector General report reviewing Secretary of Defense Pete Hegseth’s text messaging mess recommends a single change to keep classi...",
             "published_utc": "2025-12-05T00:02:32+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-            "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-            "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, ju...",
-            "published_utc": "2025-12-04T23:02:34+00:00"
         },
         {
             "source": "WIRED Security",
@@ -779,13 +772,6 @@
             "published_utc": "2025-11-27T10:00:00+00:00"
         },
         {
-            "source": "KrebsOnSecurity",
-            "title": "Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’",
-            "link": "https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/",
-            "summary": "A prolific cybercriminal group that calls itself \"Scattered LAPSUS$ Hunters\" made headlines regularly this year by stealing data from and publicly mas...",
-            "published_utc": "2025-11-26T17:22:36+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "The Destruction of a Notorious Myanmar Scam Compound Appears to Have Been ‘Performative’",
             "link": "https://www.wired.com/story/myanmar-kk-park-scam-compound-destruction/",
@@ -805,13 +791,6 @@
             "link": "https://www.welivesecurity.com/en/social-media/influencers-crosshairs-cybercriminals-targeting-content-creators/",
             "summary": "Social media influencers can provide reach and trust for scams and malware distribution. Robust account protection is key to stopping the fraudsters.",
             "published_utc": "2025-11-25T10:00:00+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Is Your Android TV Streaming Box Part of a Botnet?",
-            "link": "https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/",
-            "summary": "On the surface, the Superbox media streaming devices for sale at retailers like BestBuy and Walmart may seem like a steal: They offer unlimited access...",
-            "published_utc": "2025-11-24T18:44:52+00:00"
         },
         {
             "source": "WIRED Security",
@@ -849,13 +828,6 @@
             "published_utc": "2025-11-20T22:26:17+00:00"
         },
         {
-            "source": "KrebsOnSecurity",
-            "title": "Mozilla Says It’s Finally Done With Two-Faced Onerep",
-            "link": "https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/",
-            "summary": "In March 2024, Mozilla said it was winding down its collaboration with Onerep -- an identity protection service offered with the Firefox web browser t...",
-            "published_utc": "2025-11-20T19:06:51+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "With the Rise of AI, Cisco Sounds an Urgent Alarm About the Risks of Aging Tech",
             "link": "https://www.wired.com/story/cisco-aging-technical-infrastructure/",
@@ -875,13 +847,6 @@
             "link": "https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-dhs-privacy-breach-ai-romantic-affairs-google-sues-text-scammers/",
             "summary": "In this episode of Uncanny Valley, we discuss our scoop about how the Department of Homeland Security illegally collected Chicago residents’ data for ...",
             "published_utc": "2025-11-19T22:09:44+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "The Cloudflare Outage May Be a Security Roadmap",
-            "link": "https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/",
-            "summary": "An intermittent outage at Cloudflare on Tuesday briefly knocked many of the Internet's top destinations offline. Some affected Cloudflare customers we...",
-            "published_utc": "2025-11-19T14:07:03+00:00"
         },
         {
             "source": "WIRED Security",
@@ -926,13 +891,6 @@
             "published_utc": "2025-11-14T20:30:17+00:00"
         },
         {
-            "source": "KrebsOnSecurity",
-            "title": "Google Sues to Disrupt Chinese SMS Phishing Triad",
-            "link": "https://krebsonsecurity.com/2025/11/google-sues-to-disrupt-chinese-sms-phishing-triad/",
-            "summary": "Google is suing more than two dozen unnamed individuals allegedly involved in peddling a popular China-based mobile phishing service that helps scamme...",
-            "published_utc": "2025-11-13T14:47:22+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "How password managers can be hacked – and how to stay safe",
             "link": "https://www.welivesecurity.com/en/cybersecurity/password-managers-under-attack-what-you-should-know/",
@@ -959,13 +917,6 @@
             "link": "https://www.welivesecurity.com/en/business-security/shadow-ai-security-blind-spot/",
             "summary": "From unintentional data leakage to buggy code, here’s why you should care about unsanctioned AI use in your company",
             "published_utc": "2025-11-11T10:00:00+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Drilling Down on Uncle Sam’s Proposed TP-Link Ban",
-            "link": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
-            "summary": "The U.S. government is reportedly preparing to ban the sale of wireless routers and other networking gear from TP-Link Systems, a tech company that cu...",
-            "published_utc": "2025-11-09T18:14:40+00:00"
         },
         {
             "source": "WIRED Security",
@@ -1561,20 +1512,6 @@
             "link": "https://www.welivesecurity.com/en/scams/spotting-phish-many-faces/",
             "summary": "Here’s a brief dive into the murky waters of shape-shifting attacks that leverage dedicated phishing kits to auto-generate customized login pages on t...",
             "published_utc": "2025-05-09T09:00:00+00:00"
-        },
-        {
-            "source": "WeLiveSecurity",
-            "title": "Beware of phone scams demanding money for ‘missed jury duty’",
-            "link": "https://www.welivesecurity.com/en/scams/phone-scams-demanding-money-missed-jury-duty/",
-            "summary": "When we get the call, it’s our legal responsibility to attend jury service. But sometimes that call won’t come from the courts – it will be a scammer.",
-            "published_utc": "2025-05-07T09:00:00+00:00"
-        },
-        {
-            "source": "WeLiveSecurity",
-            "title": "Don't fall victim to toll text scams",
-            "link": "https://www.welivesecurity.com/en/scams/put-brakes-toll-road-scams/",
-            "summary": "Have you received a text message about an unpaid road toll? Make sure you’re not the next victim of a smishing scam.",
-            "published_utc": "2025-05-06T09:00:00+00:00"
         },
         {
             "source": "NVD (NIST)",
