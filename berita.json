@@ -1,6 +1,20 @@
 {
-    "lastUpdatedUTC": "2025-12-12T08:32:28.437016+00:00",
+    "lastUpdatedUTC": "2025-12-12T09:26:34.521040+00:00",
     "articles": [
+        {
+            "source": "InfosecurityMag",
+            "title": "ICO Fines LastPass £1.2m After 2022 Breach",
+            "link": "https://www.infosecurity-magazine.com/news/ico-fines-lastpass-12m-2022-breach/",
+            "summary": "The UK’s data protection regulator has fined password manager provider LastPass £1.2m after 2022 data breach",
+            "published_utc": "2025-12-12T09:10:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "MITRE shares 2025's top 25 most dangerous software weaknesses",
+            "link": "https://www.bleepingcomputer.com/news/security/mitre-shares-2025s-top-25-most-dangerous-software-weaknesses/",
+            "summary": "MITRE has shared this year's top 25 list of the most dangerous software weaknesses behind over 39,000 security vulnerabilities disclosed between June ...",
+            "published_utc": "2025-12-12T08:43:16+00:00"
+        },
         {
             "source": "InfosecurityMag",
             "title": "South Korean Police Raid Coupang Over Data Breach as CEO Resigns",
@@ -450,13 +464,6 @@
             "published_utc": "2025-12-11T00:37:26+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Google ads for shared ChatGPT, Grok guides push macOS infostealer malware",
-            "link": "https://www.bleepingcomputer.com/news/security/google-ads-for-shared-chatgpt-grok-guides-push-macos-infostealer-malware/",
-            "summary": "A new AMOS infostealer campaign is abusing Google search ads to lure users into Grok and ChatGPT conversations that appear to offer \"helpful\" instruct...",
-            "published_utc": "2025-12-10T23:50:56+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "2 Men Linked to China’s Salt Typhoon Hacker Group Likely Trained in a Cisco ‘Academy’",
             "link": "https://www.wired.com/story/2-men-linked-to-chinas-salt-typhoon-hacker-group-likely-trained-in-a-cisco-academy/",
@@ -574,13 +581,6 @@
             "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
             "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of ...",
             "published_utc": "2025-12-09T23:18:29+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "React2Shell Exploit Campaigns Tied to North Korean Cyber Intrusion Tactics",
-            "link": "https://www.infosecurity-magazine.com/news/react2shell-exploit-campaigns/",
-            "summary": "Sysdig has found sophisticated malicious campaigns exploiting React2Shell that delivered EtherRAT and suggested North Korean hackers’ involvement",
-            "published_utc": "2025-12-09T17:15:00+00:00"
         },
         {
             "source": "Schneier",
