@@ -1,6 +1,13 @@
 {
-    "lastUpdatedUTC": "2025-12-14T15:20:09.323472+00:00",
+    "lastUpdatedUTC": "2025-12-14T16:25:52.850389+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Beware: PayPal subscriptions abused to send fake purchase emails",
+            "link": "https://www.bleepingcomputer.com/news/security/beware-paypal-subscriptions-abused-to-send-fake-purchase-emails/",
+            "summary": "An email scam is abusing abusing PayPal's \"Subscriptions\" billing feature to send legitimate PayPal emails that contain fake purchase notifications em...",
+            "published_utc": "2025-12-14T16:06:10+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "The 5 most innovative tech products that surprised us this year (including a first for robot vacs)",
@@ -14,6 +21,13 @@
             "link": "https://www.zdnet.com/article/why-you-shouldnt-use-your-router-usb-port/",
             "summary": "Don't rely on your router's USB port; it's unreliable and potentially vulnerable to malware.",
             "published_utc": "2025-12-14T10:30:46+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "CyberVolk’s ransomware debut stumbles on cryptography weakness",
+            "link": "https://www.bleepingcomputer.com/news/security/cybervolks-ransomware-debut-stumbles-on-cryptography-weakness/",
+            "summary": "The pro-Russia hacktivist group CyberVolk launched a ransomware-as-a-service (RaaS) called VolkLocker that suffered from serious implementation flaws,...",
+            "published_utc": "2025-12-13T15:11:21+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -392,27 +406,6 @@
             "link": "https://www.csoonline.com/article/4104620/wie-im-netz-gezielt-manipuliert-wird.html",
             "summary": "",
             "published_utc": "2025-12-11T22:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Hackers exploit Gladinet CentreStack cryptographic flaw in RCE attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-gladinet-centrestack-cryptographic-flaw-in-rce-attacks/",
-            "summary": "Hackers are exploiting a new, undocumented vulnerability in the implementation of the cryptographic algorithm present in Gladinet's CentreStack and Tr...",
-            "published_utc": "2025-12-11T21:49:10+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Notepad++ fixes flaw that let attackers push malicious update files",
-            "link": "https://www.bleepingcomputer.com/news/security/notepad-plus-plus-fixes-flaw-that-let-attackers-push-malicious-update-files/",
-            "summary": "Notepad++ version 8.8.9 was released to fix a security weakness in its WinGUp update tool after researchers and users reported incidents in which the ...",
-            "published_utc": "2025-12-11T21:04:15+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Malicious VSCode Marketplace extensions hid trojan in fake PNG file",
-            "link": "https://www.bleepingcomputer.com/news/security/malicious-vscode-marketplace-extensions-hid-trojan-in-fake-png-file/",
-            "summary": "A stealthy campaign with 19 extensions on the VSCode Marketplace has been active since February, targeting developers with malware hidden inside depen...",
-            "published_utc": "2025-12-11T20:54:21+00:00"
         },
         {
             "source": "CSO Online",
