@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2025-12-15T08:34:52.927179+00:00",
+    "lastUpdatedUTC": "2025-12-15T09:34:06.645997+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "700Credit Data Breach Impacts 5.8 Million Individuals",
+            "link": "https://www.securityweek.com/700credit-data-breach-impacts-5-8-million-individuals/",
+            "summary": "",
+            "published_utc": "2025-12-15T09:21:39+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft: December security updates cause Message Queuing failures",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-december-security-updates-cause-message-queuing-failures/",
+            "summary": "Microsoft has confirmed that the December 2025 security updates are breaking Message Queuing (MSMQ) functionality, affecting enterprise applications a...",
+            "published_utc": "2025-12-15T09:04:59+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Apple Patches Two Zero-Days Tied to Mysterious Exploited Chrome Flaw",
+            "link": "https://www.securityweek.com/apple-patches-two-zero-days-tied-to-mysterious-exploited-chrome-flaw/",
+            "summary": "",
+            "published_utc": "2025-12-15T08:47:26+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "Cybersecurity leaders’ top seven takeaways from 2025",
@@ -387,13 +408,6 @@
             "published_utc": "2025-12-12T07:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Trump Signs Executive Order to Block State AI Regulations",
-            "link": "https://www.securityweek.com/trump-signs-executive-order-to-block-state-ai-regulations/",
-            "summary": "",
-            "published_utc": "2025-12-12T02:44:28+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "OpenAI expands ‘defense in depth’ security to stop hackers using its AI models to launch cyberattacks",
             "link": "https://www.csoonline.com/article/4105279/openai-expands-defense-in-depth-security-to-stop-hackers-using-its-ai-models-to-launch-cyberattacks.html",
@@ -406,13 +420,6 @@
             "link": "https://www.csoonline.com/article/4105230/meet-consentfix-a-new-twist-on-the-clickfix-phishing-attack.html",
             "summary": "",
             "published_utc": "2025-12-12T00:20:44+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Brave browser starts testing agentic AI mode for automated tasks",
-            "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/brave-browser-starts-testing-agentic-ai-mode-for-automated-tasks/",
-            "summary": "Brave has introduced a new AI browsing feature that leverages Leo, its privacy-respecting AI assistant, to perform automated tasks for the user. [...]",
-            "published_utc": "2025-12-11T23:03:37+00:00"
         },
         {
             "source": "WIRED Security",
@@ -483,13 +490,6 @@
             "link": "https://www.infosecurity-magazine.com/news/malware-discovered-in-19-vs-code/",
             "summary": "A new campaign involving 19 malicious Visual Studio Code extensions used a legitimate npm package to embed malware in dependency folders",
             "published_utc": "2025-12-11T16:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Virtual Event Today: Cyber AI & Automation Summit Day 2",
-            "link": "https://www.securityweek.com/virtual-event-today-cyber-ai-automation-summit-day-2/",
-            "summary": "",
-            "published_utc": "2025-12-11T15:55:00+00:00"
         },
         {
             "source": "CSO Online",
