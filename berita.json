@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2025-12-16T11:21:25.409001+00:00",
+    "lastUpdatedUTC": "2025-12-16T12:49:15.538370+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "Internet-Ausfall im Bundestag wohl kein Cyberangriff",
+            "link": "https://www.csoonline.com/article/4106959/internet-ausfall-im-bundestag-offenbar-kein-cyberangriff-2.html",
+            "summary": "",
+            "published_utc": "2025-12-16T12:17:47+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Amazon Warns Russian GRU Hackers Target Western Firms via Edge Devices",
+            "link": "https://www.infosecurity-magazine.com/news/amazon-russian-gru-hackers-target/",
+            "summary": "Amazon researchers believe this campaign is part of a bigger operation spearheaded by Russia’s military intelligence service, the GRU",
+            "published_utc": "2025-12-16T12:15:00+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Chinese Surveillance and AI",
+            "link": "https://www.schneier.com/blog/archives/2025/12/chinese-surveillance-and-ai.html",
+            "summary": "",
+            "published_utc": "2025-12-16T12:02:32+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "‘Featured’ Urban VPN caught stealing private AI chats",
+            "link": "https://www.csoonline.com/article/4106949/featured-urban-vpn-caught-stealing-private-ai-chats.html",
+            "summary": "",
+            "published_utc": "2025-12-16T11:48:59+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "European authorities dismantle call center fraud ring in Ukraine",
+            "link": "https://www.bleepingcomputer.com/news/security/european-authorities-dismantle-call-center-fraud-ring-in-ukraine/",
+            "summary": "European law enforcement authorities dismantled a fraud network operating call centers in Ukraine that scammed victims across Europe out of more than ...",
+            "published_utc": "2025-12-16T11:44:06+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "JumpCloud Remote Assist Vulnerability Can Expose Systems to Takeover",
+            "link": "https://www.securityweek.com/jumpcloud-remote-assist-vulnerability-can-expose-systems-to-takeover/",
+            "summary": "",
+            "published_utc": "2025-12-16T11:39:54+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "User Data Compromised in SoundCloud Hack",
@@ -450,13 +492,6 @@
             "published_utc": "2025-12-12T15:49:42+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "In Other News: PromptPwnd Attack, macOS Bounty Complaints, Chinese Hackers Trained in Cisco Academy",
-            "link": "https://www.securityweek.com/in-other-news-promptpwnd-attack-small-macos-bounties-chinese-hackers-trained-in-cisco-academy/",
-            "summary": "",
-            "published_utc": "2025-12-12T15:39:35+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "Black Hat Europe 2025: Was that device designed to be on the internet at all?",
             "link": "https://www.welivesecurity.com/en/internet-of-things/black-hat-europe-2025-device-designed-internet/",
@@ -548,13 +583,6 @@
             "published_utc": "2025-12-11T19:29:22+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Battering RAM hardware hack breaks secure CPU enclaves",
-            "link": "https://www.csoonline.com/article/4105022/battering-ram-hardware-hack-breaks-secure-cpu-enclaves.html",
-            "summary": "",
-            "published_utc": "2025-12-11T19:11:19+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "Doxers Posing as Cops Are Tricking Big Tech Firms Into Sharing People’s Private Data",
             "link": "https://www.wired.com/story/doxers-posing-as-cops-are-tricking-big-tech-firms-into-sharing-peoples-private-data/",
@@ -576,25 +604,11 @@
             "published_utc": "2025-12-11T16:45:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Cybersecurity isn’t underfunded — It’s undermanaged",
-            "link": "https://www.csoonline.com/article/4104251/cybersecurity-isnt-underfunded-its-undermanaged.html",
-            "summary": "",
-            "published_utc": "2025-12-11T16:10:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "Black Hat Europe 2025: Reputation matters – even in the ransomware economy",
             "link": "https://www.welivesecurity.com/en/business-security/black-hat-europe-2025-reputation-ransomware/",
             "summary": "Being seen as reliable is good for ‘business’ and ransomware groups care about 'brand reputation' just as much as their victims",
             "published_utc": "2025-12-11T16:04:19+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Malware Discovered in 19 Visual Studio Code Extensions",
-            "link": "https://www.infosecurity-magazine.com/news/malware-discovered-in-19-vs-code/",
-            "summary": "A new campaign involving 19 malicious Visual Studio Code extensions used a legitimate npm package to embed malware in dependency folders",
-            "published_utc": "2025-12-11T16:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
@@ -686,13 +700,6 @@
             "link": "https://www.wired.com/story/huge-trove-of-nude-images-leaked-by-ai-image-generator-startups-exposed-database/",
             "summary": "An AI image generator startup’s database was left accessible to the open internet, revealing more than 1 million images and videos, including photos o...",
             "published_utc": "2025-12-05T11:00:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "New Anonymous Phone Service",
-            "link": "https://www.schneier.com/blog/archives/2025/12/new-anonymous-phone-service.html",
-            "summary": "",
-            "published_utc": "2025-12-05T08:08:21+00:00"
         },
         {
             "source": "WIRED Security",
