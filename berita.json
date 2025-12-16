@@ -1,6 +1,20 @@
 {
-    "lastUpdatedUTC": "2025-12-16T12:49:15.538370+00:00",
+    "lastUpdatedUTC": "2025-12-16T13:39:26.809392+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Amazon: Russian Hackers Now Favor Misconfigurations in Critical Infrastructure Attacks",
+            "link": "https://www.securityweek.com/amazon-russian-hackers-now-favor-misconfigurations-in-critical-infrastructure-attacks/",
+            "summary": "",
+            "published_utc": "2025-12-16T13:22:11+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft to block Exchange Online access for outdated mobile devices",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-block-exchange-online-access-for-outdated-mobile-devices/",
+            "summary": "Microsoft announced on Monday that it will soon block mobile devices running outdated email software from accessing Exchange Online services until the...",
+            "published_utc": "2025-12-16T12:53:25+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "Internet-Ausfall im Bundestag wohl kein Cyberangriff",
@@ -415,20 +429,6 @@
             "published_utc": "2025-12-15T09:21:39+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Microsoft: December security updates cause Message Queuing failures",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-december-security-updates-cause-message-queuing-failures/",
-            "summary": "Microsoft has confirmed that the December 2025 security updates are breaking Message Queuing (MSMQ) functionality, affecting enterprise applications a...",
-            "published_utc": "2025-12-15T09:04:59+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Apple Patches Two Zero-Days Tied to Mysterious Exploited Chrome Flaw",
-            "link": "https://www.securityweek.com/apple-patches-two-zero-days-tied-to-mysterious-exploited-chrome-flaw/",
-            "summary": "",
-            "published_utc": "2025-12-15T08:47:26+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Cybersecurity leaders’ top seven takeaways from 2025",
             "link": "https://www.csoonline.com/article/4102893/cybersecurity-leaders-top-seven-takeaways-from-2025.html",
@@ -448,13 +448,6 @@
             "link": "https://www.schneier.com/blog/archives/2025/12/upcoming-speaking-engagements-51.html",
             "summary": "",
             "published_utc": "2025-12-14T17:10:39+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Beware: PayPal subscriptions abused to send fake purchase emails",
-            "link": "https://www.bleepingcomputer.com/news/security/beware-paypal-subscriptions-abused-to-send-fake-purchase-emails/",
-            "summary": "An email scam is abusing abusing PayPal's \"Subscriptions\" billing feature to send legitimate PayPal emails that contain fake purchase notifications em...",
-            "published_utc": "2025-12-14T16:06:10+00:00"
         },
         {
             "source": "WIRED Security",
