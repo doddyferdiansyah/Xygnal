@@ -1,6 +1,76 @@
 {
-    "lastUpdatedUTC": "2025-12-16T14:26:17.363206+00:00",
+    "lastUpdatedUTC": "2025-12-16T15:27:01.585216+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Cyberattack disrupts Venezuelan oil giant PDVSA's operations",
+            "link": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-venezuelan-oil-giant-pdvsas-operations/",
+            "summary": "Petróleos de Venezuela (PDVSA), Venezuela's state-owned oil company, was hit by a cyberattack over the weekend that disrupted its export operations. [...",
+            "published_utc": "2025-12-16T15:19:17+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Flash sale: Get a refurbished PS5, Nintendo Switch, and Apple Watch at Back Market",
+            "link": "https://www.zdnet.com/article/back-market-flash-sale-refurbished-ps5-nintendo-switch-apple-watch/",
+            "summary": "Back Market is running a 72-hour sale with limited codes, so you can save on popular tech like the Nintendo Switch OLED -- but you'll have to hurry.",
+            "published_utc": "2025-12-16T15:16:20+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "This is the iPhone case I trust the most for traveling in extreme conditions",
+            "link": "https://www.zdnet.com/article/otterbox-defender-pro-iphone-case-review/",
+            "summary": "The Otterbox Defender Pro provides that extra bit of insurance against damage, while protecting resale value.",
+            "published_utc": "2025-12-16T15:16:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The best tablets of 2025: Lab-tested recommendations",
+            "link": "https://www.zdnet.com/article/best-tablet/",
+            "summary": "We tested the best tablets from brands like Apple, Samsung, and OnePlus. These are our top picks.",
+            "published_utc": "2025-12-16T15:14:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "The Hidden Risk in Virtualization: Why Hypervisors are a Ransomware Magnet",
+            "link": "https://www.bleepingcomputer.com/news/security/the-hidden-risk-in-virtualization-why-hypervisors-are-a-ransomware-magnet/",
+            "summary": "Ransomware groups are targeting hypervisors to maximize impact, allowing a single breach to encrypt dozens of virtual machines at once. Drawing on rea...",
+            "published_utc": "2025-12-16T15:01:11+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "CISO Communities – Cybersecurity’s Secret Weapon",
+            "link": "https://www.securityweek.com/ciso-communities-cybersecuritys-secret-weapon/",
+            "summary": "",
+            "published_utc": "2025-12-16T15:00:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Urban VPN beim Diebstahl privater KI-Chats erwischt",
+            "link": "https://www.csoonline.com/article/4107076/urban-vpn-beim-diebstahl-privater-ki-chats-erwischt.html",
+            "summary": "",
+            "published_utc": "2025-12-16T14:53:38+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Beware of 'gift card draining' and two other top holiday scams, US Treasury warns",
+            "link": "https://www.zdnet.com/article/top-holiday-scams-how-to-protect-yourself/",
+            "summary": "Here's how to spot the most common scams this holiday season, before it's too late. Plus, tips to protect yourself.",
+            "published_utc": "2025-12-16T14:44:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "12+ laptop accessories that I swear by (and how they've improved my productivity)",
+            "link": "https://www.zdnet.com/article/favorite-laptop-accessories/",
+            "summary": "These devices and gadgets can elevate your standard laptop setup - and you won't have to spend a fortune.",
+            "published_utc": "2025-12-16T14:29:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "700,000 Records Compromised in Askul Ransomware Attack",
+            "link": "https://www.securityweek.com/700000-records-compromised-in-askul-ransomware-attack/",
+            "summary": "",
+            "published_utc": "2025-12-16T14:26:25+00:00"
+        },
         {
             "source": "KrebsOnSecurity",
             "title": "Most Parked Domains Now Serving Malicious Content",
@@ -275,32 +345,11 @@
             "published_utc": "2025-12-15T17:28:17+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Gemini just got a stunning Google Maps upgrade that changes how you'll search locally - here's how",
-            "link": "https://www.zdnet.com/article/gemini-google-maps-visual-update-local-search/",
-            "summary": "Goodbye walls of text. Hello rich visual guides that help you decide faster.",
-            "published_utc": "2025-12-15T17:10:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Your programming career isn't over - AI just upgraded your toolbox",
-            "link": "https://www.zdnet.com/article/ai-gives-programmers-power-tools/",
-            "summary": "Now that AI can write software, where does that leave you as a programmer? The answer lies in the past.",
-            "published_utc": "2025-12-15T16:51:38+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "700Credit data breach impacts 5.8 million vehicle dealership customers",
             "link": "https://www.bleepingcomputer.com/news/security/700credit-data-breach-impacts-58-million-vehicle-dealership-customers/",
             "summary": "700Credit, a U.S.-based financial services and fintech company, will start notifying more than 5.8 million people that their personal information has ...",
             "published_utc": "2025-12-15T16:49:03+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Firefox just fixed my biggest annoyance with web browsers - and others should copy ASAP",
-            "link": "https://www.zdnet.com/article/firefox-search-engine-feature/",
-            "summary": "Firefox has proved it's still in the game, with a new search feature that's highly customizable.",
-            "published_utc": "2025-12-15T16:46:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -310,25 +359,11 @@
             "published_utc": "2025-12-15T16:45:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I set up a NAS system at home to keep my data safe - here's my buying advice now",
-            "link": "https://www.zdnet.com/article/terramaster-f4-425-nas-review/",
-            "summary": "If you're looking to break away from third-party file and directory storage, this NAS from Terramaster might be just what you need.",
-            "published_utc": "2025-12-15T16:20:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Russian Phishing Campaign Delivers Phantom Stealer Via ISO Files",
             "link": "https://www.infosecurity-magazine.com/news/russian-phishing-phantom-stealer/",
             "summary": "A new phishing campaign has been identified, delivering the Phantom information-stealing malware via an ISO attachment",
             "published_utc": "2025-12-15T16:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Own an Apple TV? I changed 12 settings to instantly make the system run like new again",
-            "link": "https://www.zdnet.com/article/apple-tv-change-settings-faster/",
-            "summary": "These Apple TV tweaks can enhance your viewing experience, and here's what I recommend adjusting.",
-            "published_utc": "2025-12-15T15:57:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -394,13 +429,6 @@
             "published_utc": "2025-12-15T11:53:15+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Soverli Raises $2.6 Million for Secure Smartphone OS",
-            "link": "https://www.securityweek.com/soverli-raises-2-6-million-for-secure-smartphone-os/",
-            "summary": "",
-            "published_utc": "2025-12-15T11:50:02+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Microsoft stellt neue Sicherheitsstrategie vor",
             "link": "https://www.csoonline.com/article/4106293/microsoft-stellt-neue-sicherheitsstrategie-vor.html",
@@ -413,20 +441,6 @@
             "link": "https://www.infosecurity-magazine.com/news/asahi-launch-cybersecurity/",
             "summary": "Asahi Group’s CEO said he is considering creating a dedicated cyber unit following the ransomware attack that crippled the company",
             "published_utc": "2025-12-15T11:15:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "French Interior Ministry confirms cyberattack on email servers",
-            "link": "https://www.bleepingcomputer.com/news/security/france-interior-ministry-confirms-cyberattack-on-email-servers/",
-            "summary": "The French Interior Minister confirmed on Friday that the country's Ministry of the Interior was breached in a cyberattack that compromised e-mail ser...",
-            "published_utc": "2025-12-15T11:06:10+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Atlassian Patches Critical Apache Tika Flaw",
-            "link": "https://www.securityweek.com/atlassian-patches-critical-apache-tika-flaw/",
-            "summary": "",
-            "published_utc": "2025-12-15T11:00:46+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -574,13 +588,6 @@
             "link": "https://www.wired.com/story/warnings-mount-in-congress-over-expanded-us-wiretap-powers/",
             "summary": "Experts tell US lawmakers that a crucial spy program’s safeguards are failing, allowing intel agencies deeper, unconstrained access to Americans’ data.",
             "published_utc": "2025-12-11T22:15:56+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Wie im Netz gezielt manipuliert wird",
-            "link": "https://www.csoonline.com/article/4104620/wie-im-netz-gezielt-manipuliert-wird.html",
-            "summary": "",
-            "published_utc": "2025-12-11T22:00:00+00:00"
         },
         {
             "source": "WIRED Security",
