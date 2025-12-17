@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2025-12-17T15:25:55.138651+00:00",
+    "lastUpdatedUTC": "2025-12-17T16:31:13.822522+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "You can try Google's new Gemini 3 Flash AI model today for free - it's even in Search's AI Mode",
+            "link": "https://www.zdnet.com/article/google-gemini-3-flash-free-try-it/",
+            "summary": "Designed to balance speed with power, the new model will bring a boost to many of the AI perks that Gemini users have already come to expect, like vib...",
+            "published_utc": "2025-12-17T16:25:30+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Critical React2Shell flaw exploited in ransomware attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-exploited-in-ransomware-attacks/",
+            "summary": "A ransomware gang exploited the critical React2Shell vulnerability (CVE-2025-55182) to gain initial access to corporate networks and deployed the file...",
+            "published_utc": "2025-12-17T16:09:51+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "New “Lies-in-the-Loop” Attack Undermines AI Safety Dialogs",
+            "link": "https://www.infosecurity-magazine.com/news/lies-loop-attack-ai-safety-dialogs/",
+            "summary": "A novel attack technique dubbed ”Lies-in-the-Loop” (LITL) has been observed manipulating human approval prompts in agentic AI systems",
+            "published_utc": "2025-12-17T16:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Google Maps just got its biggest upgrade in years, and it changes how you navigate (for the better)",
+            "link": "https://www.zdnet.com/article/google-maps-gemini-visual-update-local-search/",
+            "summary": "Goodbye walls of text. Hello, rich visual guides that help you decide faster.",
+            "published_utc": "2025-12-17T15:50:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I thought Bose had perfected noise canceling - then I listened to these headphones",
+            "link": "https://www.zdnet.com/article/bose-quietcomfort-ultra-gen-2-review/",
+            "summary": "With the latest QuietComfort Ultra 2, Bose is refining all the aspects it has already excelled at.",
+            "published_utc": "2025-12-17T15:47:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Do sleep earbuds actually work? This pair that I tested for weeks made the answer clear",
+            "link": "https://www.zdnet.com/article/soundcore-sleep-a30-earbuds-review/",
+            "summary": "Soundcore's latest A30 sleep earbuds promise active noise cancellation in a small and lightweight form factor.",
+            "published_utc": "2025-12-17T15:37:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "This $700 OnePlus phone just embarrassed my Samsung Galaxy S25 Ultra's battery",
@@ -170,25 +212,11 @@
             "published_utc": "2025-12-17T11:46:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Changing these 5 TV settings helped cut my electricity bill - and I didn't miss a thing",
-            "link": "https://www.zdnet.com/article/change-tv-settings-cut-electricity-bill/",
-            "summary": "With some quick tweaks, you can ensure your modern TV uses only the power it needs - even as today's models grow more efficient.",
-            "published_utc": "2025-12-17T11:45:00+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "JumpCloud agent turns uninstall into a system shortcut",
             "link": "https://www.csoonline.com/article/4107744/jumpcloud-agent-turns-uninstall-into-a-system-shortcut.html",
             "summary": "",
             "published_utc": "2025-12-17T11:37:01+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Should you ever turn off Windows Security? It's tricky, but here's my rule of thumb",
-            "link": "https://www.zdnet.com/article/how-to-turn-off-windows-security-safely/",
-            "summary": "There are some situations where you might want to temporarily disable Windows' built-in security tool. I'll show you how to do it safely.",
-            "published_utc": "2025-12-17T11:30:39+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -224,20 +252,6 @@
             "link": "https://www.infosecurity-magazine.com/news/european-investigators-12m-call/",
             "summary": "Eurojust reveals new policing operation which helped to smash a Ukraine-based call center fraud gang",
             "published_utc": "2025-12-17T10:15:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I test AI for a living, and these 3 free tools are the ones I used most in 2025",
-            "link": "https://www.zdnet.com/article/my-3-favorite-ai-tools/",
-            "summary": "For three years, I have been covering every new AI model and tool that emerges, but only these three made my 2025 daily rotation.",
-            "published_utc": "2025-12-17T10:09:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The best Lenovo laptops of 2025: Expert tested and reviewed",
-            "link": "https://www.zdnet.com/article/best-lenovo-laptop/",
-            "summary": "Lenovo makes great laptops, but with an extensive catalog of products, it's hard to find the right device. Here are the best Lenovo laptops I've tested.",
-            "published_utc": "2025-12-17T10:01:07+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -478,13 +492,6 @@
             "published_utc": "2025-12-16T07:00:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "SoundCloud confirms breach after member data stolen, VPN access disrupted",
-            "link": "https://www.bleepingcomputer.com/news/security/soundcloud-confirms-breach-after-member-data-stolen-vpn-access-disrupted/",
-            "summary": "Audio streaming platform SoundCloud has confirmed that outages and VPN connection issues over the past few days were caused by a security breach in wh...",
-            "published_utc": "2025-12-16T00:38:47+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Third Defendant Pleads Guilty in Fantasy Sports Betting Hack Case",
             "link": "https://www.infosecurity-magazine.com/news/defendant-pleads-guilty-fantasy/",
@@ -539,13 +546,6 @@
             "link": "https://www.csoonline.com/article/4106293/microsoft-stellt-neue-sicherheitsstrategie-vor.html",
             "summary": "",
             "published_utc": "2025-12-15T11:21:35+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Asahi to Launch Cybersecurity Overhaul After Crippling Cyber-Attack",
-            "link": "https://www.infosecurity-magazine.com/news/asahi-launch-cybersecurity/",
-            "summary": "Asahi Group’s CEO said he is considering creating a dedicated cyber unit following the ransomware attack that crippled the company",
-            "published_utc": "2025-12-15T11:15:00+00:00"
         },
         {
             "source": "CSO Online",
