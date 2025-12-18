@@ -1,6 +1,13 @@
 {
-    "lastUpdatedUTC": "2025-12-18T19:18:26.212721+00:00",
+    "lastUpdatedUTC": "2025-12-18T20:22:20.379627+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Clop ransomware targets Gladinet CentreStack in data theft attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-gladinet-centrestack-servers-for-extortion/",
+            "summary": "The Clop ransomware gang is targeting Internet-exposed Gladinet CentreStack file servers in a new data theft extortion campaign. [...]",
+            "published_utc": "2025-12-18T20:16:55+00:00"
+        },
         {
             "source": "WIRED Security",
             "title": "ICE Seeks Cyber Upgrade to Better Surveil and Investigate Its Employees",
@@ -394,25 +401,11 @@
             "published_utc": "2025-12-17T18:12:24+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Sonicwall warns of new SMA1000 zero-day exploited in attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-sma1000-zero-day-exploited-in-attacks/",
-            "summary": "SonicWall warned customers today to patch a vulnerability in the SonicWall SMA1000 Appliance Management Console (AMC) that was chained in zero-day att...",
-            "published_utc": "2025-12-17T17:44:18+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Motors WordPress Vulnerability Exposes Sites to Takeover",
             "link": "https://www.infosecurity-magazine.com/news/motors-wordpress-flaw-takeover/",
             "summary": "A critical flaw in the Motors WordPress theme affecting more than 20,000 installations allows low-privileged users to gain full control of websites",
             "published_utc": "2025-12-17T16:45:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Critical React2Shell flaw exploited in ransomware attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-exploited-in-ransomware-attacks/",
-            "summary": "A ransomware gang exploited the critical React2Shell vulnerability (CVE-2025-55182) to gain initial access to corporate networks and deployed the file...",
-            "published_utc": "2025-12-17T16:09:51+00:00"
         },
         {
             "source": "InfosecurityMag",
