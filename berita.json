@@ -1,6 +1,55 @@
 {
-    "lastUpdatedUTC": "2025-12-19T14:23:14.139220+00:00",
+    "lastUpdatedUTC": "2025-12-19T15:24:14.068338+00:00",
     "articles": [
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
+            "link": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
+            "summary": "The Trump administration has pursued a staggering range of policy pivots this past year that threaten to weaken the nation’s ability and willingness t...",
+            "published_utc": "2025-12-19T15:14:55+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Over 25,000 FortiCloud SSO devices exposed to remote attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/over-25-000-forticloud-sso-devices-exposed-to-remote-attacks/",
+            "summary": "Internet security watchdog Shadowserver has found over 25,000 Fortinet devices exposed online with FortiCloud SSO enabled, amid ongoing attacks target...",
+            "published_utc": "2025-12-19T15:00:45+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Denmark Blames Russia for Cyberattacks Ahead of Elections and on Water Utility",
+            "link": "https://www.securityweek.com/denmark-blames-russia-for-cyberattacks-ahead-of-elections-and-on-water-utility/",
+            "summary": "",
+            "published_utc": "2025-12-19T14:53:35+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Should you use cellular or Wi-Fi at the airport? This study made the choice easy for me",
+            "link": "https://www.zdnet.com/article/internet-airport-cellular-versus-wi-fi-speeds-vary-ookla/",
+            "summary": "Your mobile carrier may offer better access than the airport's Wi-Fi, according to tests by Ookla. Results vary by airport.",
+            "published_utc": "2025-12-19T14:37:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Chinese APT ‘LongNosedGoblin’ Targeting Asian Governments",
+            "link": "https://www.securityweek.com/chinese-apt-longnosedgoblin-targeting-asian-governments/",
+            "summary": "",
+            "published_utc": "2025-12-19T14:35:59+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Is your Roku or Fire TV streaming device tracking you? It's possible - how I put an end to it",
+            "link": "https://www.zdnet.com/article/how-to-stop-roku-fire-chromecast-tv-tracking/",
+            "summary": "Streaming devices, such as Fire TV Sticks and Chromecasts, collect personal data for various purposes. If that makes you uneasy, here's how to regain ...",
+            "published_utc": "2025-12-19T14:32:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Criminal IP and Palo Alto Networks Cortex XSOAR integrate to bring AI-driven exposure intelligence to automated incident response",
+            "link": "https://www.bleepingcomputer.com/news/security/criminal-ip-and-palo-alto-networks-cortex-xsoar-integrate-to-bring-ai-driven-exposure-intelligence-to-automated-incident-response/",
+            "summary": "Criminal IP (criminalip.io), the AI-powered threat intelligence and attack surface monitoring platform developed by AI SPERA, is now officially integr...",
+            "published_utc": "2025-12-19T14:30:00+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Docker Makes 1,000 Hardened Images Free and Open Source",
@@ -254,20 +303,6 @@
             "published_utc": "2025-12-18T21:27:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I ran a battery test between the best Samsung, Google, and OnePlus phones - here's the surprise winner",
-            "link": "https://www.zdnet.com/article/battery-comparison-samsung-google-oneplus/",
-            "summary": "Among the year's best Android phones, here's the one that lasted the longest in our endurance tests.",
-            "published_utc": "2025-12-18T21:26:21+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I changed 10 settings on my OnePlus that made the phone run blazing fast",
-            "link": "https://www.zdnet.com/article/best-oneplus-settings-better-performance/",
-            "summary": "Are you making the most out of your OnePlus phone? Adjust these settings to unlock better performance and faster speeds.",
-            "published_utc": "2025-12-18T21:20:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "University of Sydney suffers data breach exposing student and staff info",
             "link": "https://www.bleepingcomputer.com/news/security/university-of-sydney-suffers-data-breach-exposing-student-and-staff-info/",
@@ -401,39 +436,11 @@
             "published_utc": "2025-12-18T11:59:50+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "HPE warns of maximum severity RCE flaw in OneView software",
-            "link": "https://www.bleepingcomputer.com/news/security/hpe-warns-of-maximum-severity-rce-flaw-in-oneview-software/",
-            "summary": "Hewlett Packard Enterprise (HPE) has patched a maximum-severity vulnerability in its HPE OneView software that enables attackers to execute arbitrary ...",
-            "published_utc": "2025-12-18T11:35:53+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "113,000 Impacted by Data Breach at Virginia Mental Health Authority",
-            "link": "https://www.securityweek.com/113000-impacted-by-data-breach-at-virginia-mental-health-authority/",
-            "summary": "",
-            "published_utc": "2025-12-18T11:05:02+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Cisco confirms zero-day exploitation of Secure Email products",
             "link": "https://www.csoonline.com/article/4108496/cisco-confirms-zero-day-exploitation-of-secure-email-products.html",
             "summary": "",
             "published_utc": "2025-12-18T10:58:30+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "IoT Security Firm Exein Raises €100 Million",
-            "link": "https://www.securityweek.com/iot-security-firm-exein-raises-e100-million/",
-            "summary": "",
-            "published_utc": "2025-12-18T10:34:51+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft: Recent Windows updates break RemoteApp connections",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-updates-break-azure-virtual-desktop-remoteapp-sessions/",
-            "summary": "Microsoft has confirmed that recent Windows updates trigger RemoteApp connection failures on Windows 11 24H2/25H2 and Windows Server 2025 devices in A...",
-            "published_utc": "2025-12-18T10:04:25+00:00"
         },
         {
             "source": "WeLiveSecurity",
@@ -994,13 +1001,6 @@
             "link": "https://www.wired.com/story/doj-issued-seizure-warrants-to-starlink-over-satellite-internet-systems-used-at-scam-compounds/",
             "summary": "A new US law enforcement initiative is aimed at crypto fraudsters targeting Americans—and now seeks to seize infrastructure it claims is crucial to no...",
             "published_utc": "2025-11-14T20:30:17+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Google Sues to Disrupt Chinese SMS Phishing Triad",
-            "link": "https://krebsonsecurity.com/2025/11/google-sues-to-disrupt-chinese-sms-phishing-triad/",
-            "summary": "Google is suing more than two dozen unnamed individuals allegedly involved in peddling a popular China-based mobile phishing service that helps scamme...",
-            "published_utc": "2025-11-13T14:47:22+00:00"
         },
         {
             "source": "WeLiveSecurity",
