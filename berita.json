@@ -1,6 +1,20 @@
 {
-    "lastUpdatedUTC": "2025-12-22T14:22:58.269805+00:00",
+    "lastUpdatedUTC": "2025-12-22T15:24:35.454405+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "This Linux distro makes your old laptop feel like a Mac - and it's free",
+            "link": "https://www.zdnet.com/article/pearos-linux-distro-looks-like-macos/",
+            "summary": "pearOS makes switching from Mac easy. Here's why.",
+            "published_utc": "2025-12-22T14:59:15+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Monitoring Tool Nezha Abused For Stealthy Post-Exploitation Access",
+            "link": "https://www.infosecurity-magazine.com/news/nezha-abused-post-exploitation/",
+            "summary": "Open-source server monitoring tool, Nezha, is being exploited by attackers for remote system control",
+            "published_utc": "2025-12-22T14:30:00+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "University of Phoenix data breach impacts nearly 3.5 million individuals",
@@ -24,7 +38,7 @@
         },
         {
             "source": "SecurityWeek",
-            "title": "54 Charged in US Over ATM Attacks Involving ‘Ploutus’ Malware",
+            "title": "ATM Hackers Using ‘Ploutus’ Malware Charged in US",
             "link": "https://www.securityweek.com/54-charged-in-us-over-atm-attacks-involving-ploutus-malware/",
             "summary": "",
             "published_utc": "2025-12-22T13:53:02+00:00"
@@ -266,13 +280,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/docker-hardened-images-now-open-source-and-available-for-free/",
             "summary": "More than a 1,000 Docker Hardened Images (DHI) are now freely available and open source for software builders, under the Apache 2.0 license. [...]",
             "published_utc": "2025-12-21T15:12:14+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I saw a drone deliver pies in Atlanta, and it was an uncannily brilliant experience",
-            "link": "https://www.zdnet.com/article/wing-walmart-drone-deliveries-atlanta/",
-            "summary": "Wing and Walmart's partnership has expanded to the metro Atlanta area, with other cities in its direct line of sight.",
-            "published_utc": "2025-12-21T13:00:47+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -574,13 +581,6 @@
             "link": "https://www.infosecurity-magazine.com/news/motors-wordpress-flaw-takeover/",
             "summary": "A critical flaw in the Motors WordPress theme affecting more than 20,000 installations allows low-privileged users to gain full control of websites",
             "published_utc": "2025-12-17T16:45:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "New “Lies-in-the-Loop” Attack Undermines AI Safety Dialogs",
-            "link": "https://www.infosecurity-magazine.com/news/lies-loop-attack-ai-safety-dialogs/",
-            "summary": "A novel attack technique dubbed ”Lies-in-the-Loop” (LITL) has been observed manipulating human approval prompts in agentic AI systems",
-            "published_utc": "2025-12-17T16:00:00+00:00"
         },
         {
             "source": "Schneier",
