@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2025-12-22T21:19:46.367925+00:00",
+    "lastUpdatedUTC": "2025-12-22T22:21:56.859948+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "ChatGPT launches its version of Spotify Wrapped - how to get your year-end review",
+            "link": "https://www.zdnet.com/article/chatgpt-spotify-wrapped/",
+            "summary": "How well does ChatGPT know you?",
+            "published_utc": "2025-12-22T22:15:55+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Sony's excellent WH-1000XM5 are over 50% off - and come with a free pair of earbuds",
+            "link": "https://www.zdnet.com/article/sony-wh-1000xm5-free-earbuds-holiday-deal/",
+            "summary": "Looking for a last-minute gift (maybe for yourself)? Consider a pair of our favorite Sony headphones, which come with a free pair of noise-cancelling ...",
+            "published_utc": "2025-12-22T21:36:05+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Nissan says thousands of customers exposed in Red Hat breach",
+            "link": "https://www.bleepingcomputer.com/news/security/nissan-says-thousands-of-customers-exposed-in-red-hat-breach/",
+            "summary": "Nissan Motor Co. Ltd. (Nissan) has confirmed that information of thousands of its customers has been compromised after the data breach at Red Hat in S...",
+            "published_utc": "2025-12-22T21:32:11+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "New MacSync malware dropper evades macOS Gatekeeper checks",
@@ -114,13 +135,6 @@
             "published_utc": "2025-12-22T16:00:17+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "86% Surge in Fake Delivery Websites Hits Shoppers During Holiday Rush",
-            "link": "https://www.infosecurity-magazine.com/news/surge-fake-delivery-holidays/",
-            "summary": "NordVPN has warned that malicious postal service websites have surged by 86% over the past month, targeting holiday delivery tracking",
-            "published_utc": "2025-12-22T16:00:00+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "LG's new Dolby Atmos system promises immersive sound no matter where your speakers are",
             "link": "https://www.zdnet.com/article/lg-sound-suite-speakers-dolby-atmos-flex-ces-26/",
@@ -224,20 +238,6 @@
             "link": "https://www.zdnet.com/article/what-are-passkeys/",
             "summary": "Yes, the technology underlying passkeys is confusing. Here's a plain-English guide that can help you ditch passwords today.",
             "published_utc": "2025-12-22T13:36:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Should you buy $15 cordless screwdrivers from Amazon? I tested one, and here's my advice",
-            "link": "https://www.zdnet.com/article/xlx-cordless-screwdriver-review/",
-            "summary": "This cordless screwdriver stands out with its unique design - but don't let the looks fool you.",
-            "published_utc": "2025-12-22T13:01:01+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Why complex reasoning models could make misbehaving AI easier to catch",
-            "link": "https://www.zdnet.com/article/openai-complex-model-safety-paper/",
-            "summary": "In a new paper from OpenAI, the company proposes a framework for analyzing AI systems' chain-of-thought reasoning to understand how, when, and why the...",
-            "published_utc": "2025-12-22T13:00:45+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -385,13 +385,6 @@
             "link": "https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-petting-a-squid.html",
             "summary": "",
             "published_utc": "2025-12-19T22:06:59+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft confirms Teams is down and messages are delayed",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-teams-is-down-and-messages-are-delayed/",
-            "summary": "Microsoft Teams is experiencing issues, with thousands reporting problems sending messages, including delays. [...]",
-            "published_utc": "2025-12-19T20:04:28+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -595,6 +588,13 @@
             "link": "https://www.wired.com/story/border-patrol-bets-on-small-drones-to-expand-us-surveillance-reach/",
             "summary": "Federal records show CBP is moving from testing small drones to making them standard surveillance tools, expanding a network that can follow activity ...",
             "published_utc": "2025-12-17T18:12:24+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Motors WordPress Vulnerability Exposes Sites to Takeover",
+            "link": "https://www.infosecurity-magazine.com/news/motors-wordpress-flaw-takeover/",
+            "summary": "A critical flaw in the Motors WordPress theme affecting more than 20,000 installations allows low-privileged users to gain full control of websites",
+            "published_utc": "2025-12-17T16:45:00+00:00"
         },
         {
             "source": "Schneier",
