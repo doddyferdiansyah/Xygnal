@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2025-12-22T08:32:58.527296+00:00",
+    "lastUpdatedUTC": "2025-12-22T09:30:26.811924+00:00",
     "articles": [
+        {
+            "source": "InfosecurityMag",
+            "title": "Scripted Sparrow Sends Millions of BEC Emails Each Month",
+            "link": "https://www.infosecurity-magazine.com/news/scripted-sparrow-millions-bec-each/",
+            "summary": "Fortra has uncovered a prolific BEC group dubbed “Scripted Sparrow” spanning three continents and at least five countries",
+            "published_utc": "2025-12-22T09:30:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "UK Government Acknowledges It Is Investigating Cyber Incident After Media Reports",
+            "link": "https://www.securityweek.com/uk-government-acknowledges-it-is-investigating-cyber-incident-after-media-reports/",
+            "summary": "",
+            "published_utc": "2025-12-22T09:01:16+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Critical RCE flaw impacts over 115,000 WatchGuard firewalls",
+            "link": "https://www.bleepingcomputer.com/news/security/over-115-000-watchguard-firewalls-vulnerable-to-ongoing-rce-attacks/",
+            "summary": "Over 115,000 WatchGuard Firebox devices exposed online remain unpatched against a critical remote code execution (RCE) vulnerability actively exploite...",
+            "published_utc": "2025-12-22T09:00:55+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "What CISOs should know about the SolarWinds lawsuit dismissal",
@@ -338,13 +359,6 @@
             "published_utc": "2025-12-19T11:59:57+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "‘Kimwolf’ Android Botnet Ensnares 1.8 Million Devices",
-            "link": "https://www.securityweek.com/kimwolf-android-botnet-ensnares-1-8-million-devices/",
-            "summary": "",
-            "published_utc": "2025-12-19T11:48:49+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Attackers bring their own passwords to Cisco and Palo Alto VPNs",
             "link": "https://www.csoonline.com/article/4109488/attackers-bring-their-own-passwords-to-cisco-and-palo-alto-vpns.html",
@@ -413,13 +427,6 @@
             "link": "https://www.csoonline.com/article/4109162/hpe-oneview-vulnerable-to-remote-code-execution-attack.html",
             "summary": "",
             "published_utc": "2025-12-19T01:49:15+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Windows 10 OOB update released to fix Message Queuing (MSMQ) issues",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-oob-update-released-to-fix-message-queuing-msmq-issues/",
-            "summary": "This month's extended security update for Windows 11 broke Message Queuing (MSMQ), which is typically used by enterprises to manage background tasks. ...",
-            "published_utc": "2025-12-19T01:15:19+00:00"
         },
         {
             "source": "WIRED Security",
@@ -588,13 +595,6 @@
             "link": "https://www.wired.com/story/microsoft-will-finally-kill-an-encryption-cipher-that-enabled-a-decade-of-windows-hacks/",
             "summary": "The weak RC4 for administrative authentication has been a hacker holy grail for decades.",
             "published_utc": "2025-12-17T10:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "European Investigators Disrupt $12m Call Center Fraud Ring",
-            "link": "https://www.infosecurity-magazine.com/news/european-investigators-12m-call/",
-            "summary": "Eurojust reveals new policing operation which helped to smash a Ukraine-based call center fraud gang",
-            "published_utc": "2025-12-17T10:15:00+00:00"
         },
         {
             "source": "KrebsOnSecurity",
