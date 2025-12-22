@@ -1,12 +1,26 @@
 {
-    "lastUpdatedUTC": "2025-12-22T10:24:27.621634+00:00",
+    "lastUpdatedUTC": "2025-12-22T11:20:01.808946+00:00",
     "articles": [
         {
             "source": "InfosecurityMag",
-            "title": "Nefilim Ransomware Affiliate Pleads Guilty",
-            "link": "https://www.infosecurity-magazine.com/news/nefilim-ransomware-affiliate/",
-            "summary": "A Ukrainian man has pleaded guilty to charges connecting him to Nefilim ransomware attacks",
-            "published_utc": "2025-12-22T10:15:00+00:00"
+            "title": "UK: NHS Supplier Confirms Cyber-Attack, Operations Unaffected",
+            "link": "https://www.infosecurity-magazine.com/news/uk-nhs-supplier-confirms/",
+            "summary": "DXS International, an official partner of NHS England, said the breach has not affected its operations",
+            "published_utc": "2025-12-22T11:15:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Not all CISA-linked alerts are urgent: ASUS Live Update CVE-2025-59374",
+            "link": "https://www.bleepingcomputer.com/news/security/not-all-cisa-linked-alerts-are-urgent-asus-live-update-cve-2025-59374/",
+            "summary": "An ASUS Live Update vulnerability tracked as CVE-2025-59374 has been making the rounds in infosec feeds, with some headlines implying recent or ongoin...",
+            "published_utc": "2025-12-22T11:09:17+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Ukrainian Nefilim Ransomware Affiliate Pleads Guilty in US",
+            "link": "https://www.securityweek.com/ukrainian-nefilim-ransomware-affiliate-pleads-guilty-in-us/",
+            "summary": "",
+            "published_utc": "2025-12-22T10:56:32+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -352,13 +366,6 @@
             "published_utc": "2025-12-19T13:33:57+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "US Shuts Down Crypto Exchange E-Note, Charges Russian Administrator",
-            "link": "https://www.securityweek.com/us-shuts-down-crypto-exchange-e-note-charges-russian-administrator/",
-            "summary": "",
-            "published_utc": "2025-12-19T13:03:39+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Denmark blames Russia for destructive cyberattack on water utility",
             "link": "https://www.bleepingcomputer.com/news/security/denmark-blames-russia-for-destructive-cyberattack-on-water-utility/",
@@ -392,13 +399,6 @@
             "link": "https://www.csoonline.com/article/4109421/cisco-bestatigt-zero-day-exploit-fur-secure-email.html",
             "summary": "",
             "published_utc": "2025-12-19T10:29:22+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "New critical WatchGuard Firebox firewall flaw exploited in attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/watchguard-warns-of-new-rce-flaw-in-firebox-firewalls-exploited-in-attacks/",
-            "summary": "WatchGuard has warned customers to patch a critical, actively exploited remote code execution (RCE) vulnerability in its Firebox firewalls. [...]",
-            "published_utc": "2025-12-19T10:25:06+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -574,13 +574,6 @@
             "link": "https://www.infosecurity-magazine.com/news/lies-loop-attack-ai-safety-dialogs/",
             "summary": "A novel attack technique dubbed ”Lies-in-the-Loop” (LITL) has been observed manipulating human approval prompts in agentic AI systems",
             "published_utc": "2025-12-17T16:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "ISACA Named Global Credentialing Authority for DoD’s CMMC Program",
-            "link": "https://www.infosecurity-magazine.com/news/isaca-credentialing-authority-dods/",
-            "summary": "ISACA has been appointed by the US DoD as the global credentialing authority for its CMMC program",
-            "published_utc": "2025-12-17T14:05:00+00:00"
         },
         {
             "source": "Schneier",
