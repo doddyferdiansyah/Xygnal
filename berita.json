@@ -1,6 +1,13 @@
 {
-    "lastUpdatedUTC": "2025-12-22T18:33:40.178352+00:00",
+    "lastUpdatedUTC": "2025-12-22T19:18:44.106629+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Interpol-led action decrypts 6 ransomware strains, arrests hundreds",
+            "link": "https://www.bleepingcomputer.com/news/security/interpol-led-action-decrypts-6-ransomware-strains-arrests-hundreds/",
+            "summary": "An Interpol-coordinated initiative called Operation Sentinel led to the arrest of 574 individuals and the recovery of $3 million linked to business em...",
+            "published_utc": "2025-12-22T18:38:08+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Everyone's favorite Linux newbie-friendly distribution received a big update",
@@ -248,8 +255,8 @@
         },
         {
             "source": "BleepingComputer",
-            "title": "Not all CISA-linked alerts are urgent: ASUS Live Update CVE-2025-59374",
-            "link": "https://www.bleepingcomputer.com/news/security/not-all-cisa-linked-alerts-are-urgent-asus-live-update-cve-2025-59374/",
+            "title": "CISA flags ASUS Live Update CVE, but the attack is years old",
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-asus-live-update-cve-but-the-attack-is-years-old/",
             "summary": "An ASUS Live Update vulnerability tracked as CVE-2025-59374 has been making the rounds in infosec feeds, with some headlines implying recent or ongoin...",
             "published_utc": "2025-12-22T11:09:17+00:00"
         },
@@ -385,13 +392,6 @@
             "link": "https://www.csoonline.com/article/4109884/watchguard-fixes-critical-zero-day-allowing-firewall-takeover.html",
             "summary": "",
             "published_utc": "2025-12-19T17:40:54+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft 365 accounts targeted in wave of OAuth phishing attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/microsoft-365-accounts-targeted-in-wave-of-oauth-phishing-attacks/",
-            "summary": "Multiple threat actors are compromising Microsoft 365 accounts in phishing attacks that leverage the OAuth device code authorization mechanism. [...]",
-            "published_utc": "2025-12-19T17:19:04+00:00"
         },
         {
             "source": "SecurityWeek",
