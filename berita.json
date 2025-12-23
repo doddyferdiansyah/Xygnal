@@ -1,6 +1,34 @@
 {
-    "lastUpdatedUTC": "2025-12-23T10:26:28.959377+00:00",
+    "lastUpdatedUTC": "2025-12-23T11:20:15.074640+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Italy fines Apple $116 million over App Store privacy policy issues",
+            "link": "https://www.bleepingcomputer.com/news/security/italy-fines-apple-116-million-over-app-store-tracking-privacy-practices/",
+            "summary": "Italy's competition authority (AGCM) has fined Apple €98.6 million ($116 million) for using the App Tracking Transparency (ATT) privacy framework to a...",
+            "published_utc": "2025-12-23T11:06:22+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The best Linux VPNs of 2025: Expert tested and reviewed",
+            "link": "https://www.zdnet.com/article/best-linux-vpns/",
+            "summary": "We tested the top Linux VPNs with easy-to-use apps that feature a graphical user interface to keep your browsing safe.",
+            "published_utc": "2025-12-23T11:00:40+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "Chinese Crypto Scammers on Telegram Are Fueling the Biggest Darknet Markets Ever",
+            "link": "https://www.wired.com/story/expired-tired-wired-chinese-scammer-crypto-markets/",
+            "summary": "Online black markets once lurked in the shadows of the dark web. Today, they’ve moved onto public platforms like Telegram—and are racking up historic ...",
+            "published_utc": "2025-12-23T11:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "NPM Package With 56,000 Downloads Steals WhatsApp Credentials, Data",
+            "link": "https://www.securityweek.com/npm-package-with-56000-downloads-steals-whatsapp-credentials-data/",
+            "summary": "",
+            "published_utc": "2025-12-23T10:52:05+00:00"
+        },
         {
             "source": "InfosecurityMag",
             "title": "Nissan: Thousands Impacted By Red Hat Breach",
@@ -111,7 +139,7 @@
             "title": "I tried Amazon's new AI assistant, and I'm never shopping without it again",
             "link": "https://www.zdnet.com/article/how-amazon-rufus-ai-helped-my-holiday-shopping/",
             "summary": "Did you know Amazon's Rufus AI tool can alert you to price drops and even snag deals for you? That's just one of several game-changing features.",
-            "published_utc": "2025-12-23T03:00:43+00:00"
+            "published_utc": "2025-12-23T03:00:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -238,13 +266,6 @@
             "link": "https://www.zdnet.com/article/chatgpt-stubhub-integration/",
             "summary": "The app lets you shop conversationally and shows tickets you might otherwise miss.",
             "published_utc": "2025-12-22T17:40:01+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Stop putting your phone screen-side up on the table - why you'll be glad you did",
-            "link": "https://www.zdnet.com/article/you-should-stop-putting-your-phone-face-up/",
-            "summary": "It sounds counterintuitive, but placing your phone face down has real benefits.",
-            "published_utc": "2025-12-22T17:26:00+00:00"
         },
         {
             "source": "Schneier",
@@ -387,13 +408,6 @@
             "published_utc": "2025-12-22T09:46:45+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "WatchGuard Patches Firebox Zero-Day Exploited in the Wild",
-            "link": "https://www.securityweek.com/watchguard-patches-firebox-zero-day-exploited-in-the-wild/",
-            "summary": "",
-            "published_utc": "2025-12-22T09:44:19+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Scripted Sparrow Sends Millions of BEC Emails Each Month",
             "link": "https://www.infosecurity-magazine.com/news/scripted-sparrow-millions-bec-each/",
@@ -434,13 +448,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/docker-hardened-images-now-open-source-and-available-for-free/",
             "summary": "More than a 1,000 Docker Hardened Images (DHI) are now freely available and open source for software builders, under the Apache 2.0 license. [...]",
             "published_utc": "2025-12-21T15:12:14+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "RansomHouse upgrades encryption with multi-layered data processing",
-            "link": "https://www.bleepingcomputer.com/news/security/ransomhouse-upgrades-encryption-with-multi-layered-data-processing/",
-            "summary": "The RansomHouse ransomware-as-a-service (RaaS) has recently upgraded its encryptor, switching from a relatively simple single-phase linear technique t...",
-            "published_utc": "2025-12-20T15:23:34+00:00"
         },
         {
             "source": "WIRED Security",
@@ -1015,13 +1022,6 @@
             "link": "https://www.welivesecurity.com/en/eset-research/plushdaemon-compromises-network-devices-for-adversary-in-the-middle-attacks/",
             "summary": "ESET researchers have discovered a network implant used by the China-aligned PlushDaemon APT group to perform adversary-in-the-middle attacks",
             "published_utc": "2025-11-19T09:55:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "A Simple WhatsApp Security Flaw Exposed 3.5 Billion Phone Numbers",
-            "link": "https://www.wired.com/story/a-simple-whatsapp-security-flaw-exposed-billions-phone-numbers/",
-            "summary": "By plugging tens of billions of phone numbers into WhatsApp’s contact discovery tool, researchers found “the most extensive exposure of phone numbers”...",
-            "published_utc": "2025-11-18T14:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
