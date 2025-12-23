@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2025-12-23T09:27:25.135578+00:00",
+    "lastUpdatedUTC": "2025-12-23T10:26:28.959377+00:00",
     "articles": [
+        {
+            "source": "InfosecurityMag",
+            "title": "Nissan: Thousands Impacted By Red Hat Breach",
+            "link": "https://www.infosecurity-magazine.com/news/nissan-thousands-impacted-by-red/",
+            "summary": "Nissan has revealed that over 20,000 customers have had personal information compromised in a third-party data breach",
+            "published_utc": "2025-12-23T10:15:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Italy Antitrust Agency Fines Apple $116 Million Over Privacy Feature; Apple Announces Appeal",
+            "link": "https://www.securityweek.com/italy-antitrust-agency-fines-apple-116-million-over-privacy-feature-apple-announces-appeal/",
+            "summary": "",
+            "published_utc": "2025-12-23T10:11:25+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I tested the best laptop docking stations - here's what I recommend for your office setup",
+            "link": "https://www.zdnet.com/article/best-laptop-docking-station/",
+            "summary": "Organize your workspace with our top picks for the best laptop docking stations available now.",
+            "published_utc": "2025-12-23T10:00:51+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Baker University says 2024 data breach impacts 53,000 people",
+            "link": "https://www.bleepingcomputer.com/news/security/baker-university-data-breach-impacts-over-53-000-individuals/",
+            "summary": "Baker University has disclosed a data breach after attackers gained access to its network one year ago and stole the personal, health, and financial i...",
+            "published_utc": "2025-12-23T09:50:08+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "574 Arrested, $3 Million Seized in Crackdown on African Cybercrime Rings",
+            "link": "https://www.securityweek.com/574-arrested-3-million-seized-in-crackdown-on-african-cybercrime-rings/",
+            "summary": "",
+            "published_utc": "2025-12-23T09:31:17+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Hundreds of Arrests as Operation Sentinel Recovers $3m",
+            "link": "https://www.infosecurity-magazine.com/news/hundreds-arrests-operation/",
+            "summary": "Operational Sentinel helps to crack down on cybercrime across 19 African countries in a month-long campaign",
+            "published_utc": "2025-12-23T09:30:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Lubuntu vs. Xubuntu: Which Ubuntu flavor is right for you - my expert advice",
@@ -205,13 +247,6 @@
             "published_utc": "2025-12-22T17:26:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Google Gemini is coming to these Samsung fridges - what it means for your grocery list",
-            "link": "https://www.zdnet.com/article/google-gemini-samsung-refrigerators/",
-            "summary": "Google AI is coming to your kitchen, and it can see what's inside your fridge.",
-            "published_utc": "2025-12-22T17:07:26+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Microsoft Is Finally Killing RC4",
             "link": "https://www.schneier.com/blog/archives/2025/12/microsoft-is-finally-killing-rc4.html",
@@ -366,13 +401,6 @@
             "published_utc": "2025-12-22T09:30:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "UK Government Acknowledges It Is Investigating Cyber Incident After Media Reports",
-            "link": "https://www.securityweek.com/uk-government-acknowledges-it-is-investigating-cyber-incident-after-media-reports/",
-            "summary": "",
-            "published_utc": "2025-12-22T09:01:16+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Critical RCE flaw impacts over 115,000 WatchGuard firewalls",
             "link": "https://www.bleepingcomputer.com/news/security/over-115-000-watchguard-firewalls-vulnerable-to-ongoing-rce-attacks/",
@@ -441,13 +469,6 @@
             "link": "https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-petting-a-squid.html",
             "summary": "",
             "published_utc": "2025-12-19T22:06:59+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Thailand Conference Launches International Initiative to Fight Online Scams",
-            "link": "https://www.securityweek.com/thailand-conference-launches-international-initiative-to-fight-online-scams/",
-            "summary": "",
-            "published_utc": "2025-12-19T19:14:24+00:00"
         },
         {
             "source": "CSO Online",
@@ -583,25 +604,11 @@
             "published_utc": "2025-12-18T13:00:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "New BeaverTail Malware Variant Linked to Lazarus Group",
-            "link": "https://www.infosecurity-magazine.com/news/beavertail-variant-linked-lazarus/",
-            "summary": "A new variant of the BeaverTail malware linked to North Korean hackers has been identified targeting cryptocurrency traders and developers",
-            "published_utc": "2025-12-18T12:00:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "LongNosedGoblin tries to sniff out governmental affairs in Southeast Asia and Japan",
             "link": "https://www.welivesecurity.com/en/eset-research/longnosedgoblin-tries-sniff-out-governmental-affairs-southeast-asia-japan/",
             "summary": "ESET researchers discovered a China-aligned APT group, LongNosedGoblin, which uses Group Policy to deploy cyberespionage tools across networks of gove...",
             "published_utc": "2025-12-18T10:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "HMRC Warns of Over 135,000 Scam Reports",
-            "link": "https://www.infosecurity-magazine.com/news/hmrc-warns-of-over-135000-scam/",
-            "summary": "The UK’s tax office has received 135,500 reports of suspected scams in the past 10 months including 4800 related to self assessment filings",
-            "published_utc": "2025-12-18T09:30:00+00:00"
         },
         {
             "source": "WIRED Security",
