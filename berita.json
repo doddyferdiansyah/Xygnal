@@ -1,6 +1,20 @@
 {
-    "lastUpdatedUTC": "2025-12-23T08:31:57.119519+00:00",
+    "lastUpdatedUTC": "2025-12-23T09:27:25.135578+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "Lubuntu vs. Xubuntu: Which Ubuntu flavor is right for you - my expert advice",
+            "link": "https://www.zdnet.com/article/lubuntu-versus-xubuntu/",
+            "summary": "Two Ubuntu-based distributions that have the same goal, but which is the one best-suited for your needs?",
+            "published_utc": "2025-12-23T09:00:46+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "These vintage-style bookshelf speakers are the last ones I'll ever buy, here's why",
+            "link": "https://www.zdnet.com/article/klh-model-3-speakers-review/",
+            "summary": "The KLK Model 3 loudspeaker is a throwback to the past, giving audiophile-grade clarity to everything you listen to.",
+            "published_utc": "2025-12-23T08:35:45+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "3 ways anyone can start using AI at work today - safely",
@@ -205,25 +219,11 @@
             "published_utc": "2025-12-22T17:05:09+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Verizon will give you a free Nintendo Switch right now - but it's your last chance to get one",
-            "link": "https://www.zdnet.com/article/verizon-free-nintendo-switch-deal/",
-            "summary": "Verizon's holiday internet deals let you pick a free Nintendo Switch, Samsung TV, or tablet, but only for another day. Here's what to know.",
-            "published_utc": "2025-12-22T16:51:46+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Scammers use AI to make fake art seem real",
             "link": "https://www.csoonline.com/article/4110618/scammers-use-ai-to-make-fake-art-seem-real.html",
             "summary": "",
             "published_utc": "2025-12-22T16:40:34+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Best home automation systems 2025: As a smart home reviewer I rounded up the top ones",
-            "link": "https://www.zdnet.com/article/best-home-automation-system/",
-            "summary": "The top home automation systems consolidate all your smart home devices into a single hub, providing an intuitive interface that combines smart home c...",
-            "published_utc": "2025-12-22T16:32:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -336,6 +336,13 @@
             "link": "https://www.securityweek.com/ukrainian-nefilim-ransomware-affiliate-pleads-guilty-in-us/",
             "summary": "",
             "published_utc": "2025-12-22T10:56:32+00:00"
+        },
+        {
+            "source": "WeLiveSecurity",
+            "title": "Revisiting CVE-2025-50165: A critical flaw in Windows Imaging Component",
+            "link": "https://www.welivesecurity.com/en/eset-research/revisiting-cve-2025-50165-critical-flaw-windows-imaging-component/",
+            "summary": "A comprehensive analysis and assessment of a critical severity vulnerability with low likelihood of mass exploitation",
+            "published_utc": "2025-12-22T09:55:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -1554,13 +1561,6 @@
             "link": "https://www.welivesecurity.com/en/eset-research/eset-apt-activity-report-q4-2024-q1-2025/",
             "summary": "An overview of the activities of selected APT groups investigated and analyzed by ESET Research in Q4 2024 and Q1 2025",
             "published_utc": "2025-05-19T08:55:00+00:00"
-        },
-        {
-            "source": "WeLiveSecurity",
-            "title": "Sednit abuses XSS flaws to hit gov't entities, defense companies",
-            "link": "https://www.welivesecurity.com/en/videos/sednit-xss-govt-entities-defense-companies/",
-            "summary": "Operation RoundPress targets webmail software to steal secrets from email accounts belonging mainly to governmental organizations in Ukraine and defen...",
-            "published_utc": "2025-05-15T13:15:04+00:00"
         },
         {
             "source": "NVD (NIST)",
