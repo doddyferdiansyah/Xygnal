@@ -1,6 +1,13 @@
 {
-    "lastUpdatedUTC": "2025-12-24T22:21:32.495814+00:00",
+    "lastUpdatedUTC": "2025-12-24T23:20:55.445074+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "OpenAI is reportedly testing Claude-like Skills for ChatGPT",
+            "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-reportedly-testing-claude-like-skills-for-chatgpt/",
+            "summary": "OpenAI is testing a new ChatGPT feature called \"Skills,\" which will be similar to Claude's feature, also called Skills. [...]",
+            "published_utc": "2025-12-24T22:31:28+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Why I prefer this $200 Motorola phone over Samsung and Google's budget models",
@@ -28,6 +35,20 @@
             "link": "https://www.zdnet.com/article/lenovo-thinkbook-plus-gen-6-rollable-review/",
             "summary": "First shown off at CES, Lenovo's ThinkBook Plus Gen 6 features an extendable 120Hz OLED display. Here's my verdict after using it for weeks.",
             "published_utc": "2025-12-24T18:01:35+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Fake MAS Windows activation domain used to spread PowerShell malware",
+            "link": "https://www.bleepingcomputer.com/news/security/fake-mas-windows-activation-domain-used-to-spread-powershell-malware/",
+            "summary": "A typosquatted domain impersonating the Microsoft Activation Scripts (MAS) tool was used to distribute malicious PowerShell scripts that infect Window...",
+            "published_utc": "2025-12-24T17:44:46+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft Teams to let admins block external users via Defender portal",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-let-admins-block-external-users-via-defender-portal/",
+            "summary": "Microsoft announced that security administrators will soon be able to block external users from sending messages, calls, or meeting invitations to mem...",
+            "published_utc": "2025-12-24T16:22:44+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -422,13 +443,6 @@
             "published_utc": "2025-12-23T10:00:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Baker University says 2024 data breach impacts 53,000 people",
-            "link": "https://www.bleepingcomputer.com/news/security/baker-university-data-breach-impacts-over-53-000-individuals/",
-            "summary": "Baker University has disclosed a data breach after attackers gained access to its network one year ago and stole the personal, health, and financial i...",
-            "published_utc": "2025-12-23T09:50:08+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "574 Arrested, $3 Million Seized in Crackdown on African Cybercrime Rings",
             "link": "https://www.securityweek.com/574-arrested-3-million-seized-in-crackdown-on-african-cybercrime-rings/",
@@ -485,32 +499,11 @@
             "published_utc": "2025-12-22T23:34:45+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Nissan says thousands of customers exposed in Red Hat breach",
-            "link": "https://www.bleepingcomputer.com/news/security/nissan-says-thousands-of-customers-exposed-in-red-hat-breach/",
-            "summary": "Nissan Motor Co. Ltd. (Nissan) has confirmed that information of thousands of its customers has been compromised after the data breach at Red Hat in S...",
-            "published_utc": "2025-12-22T21:32:11+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "New MacSync malware dropper evades macOS Gatekeeper checks",
-            "link": "https://www.bleepingcomputer.com/news/security/new-macsync-malware-dropper-evades-macos-gatekeeper-checks/",
-            "summary": "The latest variant of the MacSync information stealer targeting macOS systems is delivered through a digitally signed, notarized Swift application. [...]",
-            "published_utc": "2025-12-22T20:43:38+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "The Justice Department Released More Epstein Files—but Not the Ones Survivors Want",
             "link": "https://www.wired.com/story/the-justice-department-just-released-more-epstein-files/",
             "summary": "The DOJ says it still has “hundreds of thousands” of pages to review, as the latest Epstein files release spurred more pushback from Democratic lawmak...",
             "published_utc": "2025-12-22T19:43:34+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Interpol-led action decrypts 6 ransomware strains, arrests hundreds",
-            "link": "https://www.bleepingcomputer.com/news/security/interpol-led-action-decrypts-6-ransomware-strains-arrests-hundreds/",
-            "summary": "An Interpol-coordinated initiative called Operation Sentinel led to the arrest of 574 individuals and the recovery of $3 million linked to business em...",
-            "published_utc": "2025-12-22T18:38:08+00:00"
         },
         {
             "source": "Schneier",
