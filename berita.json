@@ -1,5 +1,5 @@
 {
-    "lastUpdatedUTC": "2025-12-26T22:21:58.815468+00:00",
+    "lastUpdatedUTC": "2025-12-26T23:20:48.236080+00:00",
     "articles": [
         {
             "source": "Schneier",
@@ -1764,76 +1764,6 @@
             "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-20005",
             "summary": "Multiple vulnerabilities in the web-based management interface of Cisco Firepower Management Center (FMC) Software could allow an unauthenticated, rem...",
             "published_utc": "2023-11-01T17:15:10+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Student Loan Breach Exposes 2.5M Records",
-            "link": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
-            "summary": "2.5 million people were affected, in a breach that could spell more trouble down the line.",
-            "published_utc": "2022-08-31T12:57:48+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Watering Hole Attacks Push ScanBox Keylogger",
-            "link": "https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/",
-            "summary": "Researchers uncover a watering hole attack likely carried out by APT TA423, which attempts to plant the ScanBox JavaScript-based reconnaissance tool.",
-            "published_utc": "2022-08-30T16:00:43+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms",
-            "link": "https://threatpost.com/0ktapus-victimize-130-firms/180487/",
-            "summary": "Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.",
-            "published_utc": "2022-08-29T14:56:19+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Ransomware Attacks are on the Rise",
-            "link": "https://threatpost.com/ransomware-attacks-are-on-the-rise/180481/",
-            "summary": "Lockbit is by far this summer’s most prolific ransomware group, trailed by two offshoots of the Conti group.",
-            "published_utc": "2022-08-26T16:44:27+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Cybercriminals Are Selling Access to Chinese Surveillance Cameras",
-            "link": "https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/",
-            "summary": "Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed.",
-            "published_utc": "2022-08-25T18:47:15+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Twitter Whistleblower Complaint: The TL;DR Version",
-            "link": "https://threatpost.com/twitter-whistleblower-tldr-version/180472/",
-            "summary": "Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a n...",
-            "published_utc": "2022-08-24T14:17:04+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Firewall Bug Under Active Attack Triggers CISA Warning",
-            "link": "https://threatpost.com/firewall-bug-under-active-attack-cisa-warning/180467/",
-            "summary": "CISA is warning that Palo Alto Networks’ PAN-OS is under active attack and needs to be patched ASAP.",
-            "published_utc": "2022-08-23T13:19:58+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Fake Reservation Links Prey on Weary Travelers",
-            "link": "https://threatpost.com/reservation-links-prey-on-travelers/180462/",
-            "summary": "Fake travel reservations are exacting more pain from the travel weary, already dealing with the misery of canceled flights and overbooked hotels.",
-            "published_utc": "2022-08-22T13:59:06+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "iPhone Users Urged to Update to Patch 2 Zero-Days",
-            "link": "https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/",
-            "summary": "Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack.",
-            "published_utc": "2022-08-19T15:25:56+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Google Patches Chrome’s Fifth Zero-Day of the Year",
-            "link": "https://threatpost.com/google-patches-chromes-fifth-zero-day-of-the-year/180432/",
-            "summary": "An insufficient validation input flaw, one of 11 patched in an update this week, could allow for arbitrary code execution and is under active attack.",
-            "published_utc": "2022-08-18T14:31:38+00:00"
         }
     ]
 }
