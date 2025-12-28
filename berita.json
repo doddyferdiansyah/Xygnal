@@ -1,6 +1,13 @@
 {
-    "lastUpdatedUTC": "2025-12-28T20:24:41.853359+00:00",
+    "lastUpdatedUTC": "2025-12-28T21:20:01.245420+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Exploited MongoBleed flaw leaks MongoDB secrets, 87K servers exposed",
+            "link": "https://www.bleepingcomputer.com/news/security/exploited-mongobleed-flaw-leaks-mongodb-secrets-87k-servers-exposed/",
+            "summary": "A severe vulnerability affecting multiple MongoDB versions, dubbed MongoBleed (CVE-2025-14847), is being actively exploited in the wild, with over 80,...",
+            "published_utc": "2025-12-28T20:38:15+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Hacker claims to leak WIRED database with 2.3 million records",
@@ -245,13 +252,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/fake-mas-windows-activation-domain-used-to-spread-powershell-malware/",
             "summary": "A typosquatted domain impersonating the Microsoft Activation Scripts (MAS) tool was used to distribute malicious PowerShell scripts that infect Window...",
             "published_utc": "2025-12-24T17:44:46+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft Teams to let admins block external users via Defender portal",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-let-admins-block-external-users-via-defender-portal/",
-            "summary": "Microsoft announced that security administrators will soon be able to block external users from sending messages, calls, or meeting invitations to mem...",
-            "published_utc": "2025-12-24T16:22:44+00:00"
         },
         {
             "source": "InfosecurityMag",
