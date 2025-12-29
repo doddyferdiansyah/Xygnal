@@ -1,6 +1,34 @@
 {
-    "lastUpdatedUTC": "2025-12-29T10:25:53.752112+00:00",
+    "lastUpdatedUTC": "2025-12-29T11:20:35.785117+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Fortinet warns of 5-year-old FortiOS 2FA bypass still exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-5-year-old-fortios-2fa-bypass-still-exploited-in-attacks/",
+            "summary": "Fortinet has warned customers that threat actors are still actively exploiting a critical FortiOS vulnerability that allows them to bypass two-factor ...",
+            "published_utc": "2025-12-29T11:16:03+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "The New Surveillance State Is You",
+            "link": "https://www.wired.com/story/expired-tired-wired-surveillance-state/",
+            "summary": "Privacy may be dead, but civilians are turning conventional wisdom on its head by surveilling the cops as much as the cops surveil them.",
+            "published_utc": "2025-12-29T11:00:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "React2Shell: Anatomy of a max-severity flaw that sent shockwaves through the web",
+            "link": "https://www.csoonline.com/article/4111888/react2shell-anatomy-of-a-max-severity-flaw-that-sent-shockwaves-through-the-web.html",
+            "summary": "",
+            "published_utc": "2025-12-29T10:58:53+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "The Most Dangerous People on the Internet in 2025",
+            "link": "https://www.wired.com/story/most-dangerous-people-on-the-internet-2025/",
+            "summary": "From Donald Trump to DOGE to Chinese hackers, this year the internet's chaos caused outsized real-world harm.",
+            "published_utc": "2025-12-29T10:30:00+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Fresh MongoDB Vulnerability Exploited in Attacks",
@@ -282,13 +310,6 @@
             "published_utc": "2025-12-24T22:31:28+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Fake MAS Windows activation domain used to spread PowerShell malware",
-            "link": "https://www.bleepingcomputer.com/news/security/fake-mas-windows-activation-domain-used-to-spread-powershell-malware/",
-            "summary": "A typosquatted domain impersonating the Microsoft Activation Scripts (MAS) tool was used to distribute malicious PowerShell scripts that infect Window...",
-            "published_utc": "2025-12-24T17:44:46+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "SEC Charges Crypto Firms in $14m Investment Scam",
             "link": "https://www.infosecurity-magazine.com/news/sec-charges-crypto-firms/",
@@ -546,13 +567,6 @@
             "link": "https://www.csoonline.com/article/3492180/cyber-risk-assessments-risikobewertung-hilft-cisos.html",
             "summary": "",
             "published_utc": "2025-12-23T04:01:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Der Aufstieg des Chief Trust Officers: Wo passt der CISO hinein?",
-            "link": "https://www.csoonline.com/article/4107832/der-aufstieg-des-chief-trust-officers-wo-passt-der-ciso-hinein.html",
-            "summary": "",
-            "published_utc": "2025-12-23T04:00:00+00:00"
         },
         {
             "source": "WIRED Security",
@@ -973,20 +987,6 @@
             "link": "https://www.wired.com/story/security-news-this-week-us-border-patrol-is-spying-on-millions-of-american-drivers/",
             "summary": "Plus: The SEC lets SolarWinds off the hook, Microsoft stops a historic DDoS attack, and FBI documents reveal the agency spied on an immigration activi...",
             "published_utc": "2025-11-22T11:30:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "This Hacker Conference Installed a Literal Antivirus Monitoring System",
-            "link": "https://www.wired.com/story/this-hacker-conference-installed-a-literal-anti-virus-monitoring-system/",
-            "summary": "At New Zealand's Kawaiicon cybersecurity convention, organizers hacked together a way for attendees to track CO2 levels throughout the venue—even befo...",
-            "published_utc": "2025-11-21T11:00:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "4 People Indicted in Alleged Conspiracy to Smuggle Supercomputers and Nvidia Chips to China",
-            "link": "https://www.wired.com/story/smuggling-supercomputers-china-nvidia-indictment/",
-            "summary": "A federal prosecutor alleged that one defendant boasted that his father “had engaged in similar business for the Chinese Communist Party.”",
-            "published_utc": "2025-11-20T22:26:17+00:00"
         },
         {
             "source": "KrebsOnSecurity",
