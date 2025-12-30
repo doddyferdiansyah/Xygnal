@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2025-12-30T14:23:12.887702+00:00",
+    "lastUpdatedUTC": "2025-12-30T15:24:05.729983+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "Ready for a Linux laptop? I found one that competes with my MacBook Pro",
+            "link": "https://www.zdnet.com/article/tuxedo-computers-infinitybook-14-pro-review/",
+            "summary": "Tuxedo Computers' InfinityBook 14 Pro runs Tuxedo Linux, based on Ubuntu.",
+            "published_utc": "2025-12-30T15:17:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Your Samsung phone has a secret Wi-Fi menu that's highly useful - here's how to enable it",
+            "link": "https://www.zdnet.com/article/samsung-phone-connectivity-labs-settings/",
+            "summary": "If you love Samsung's feature-packed software, this OneUI tool is your next rabbit hole to explore.",
+            "published_utc": "2025-12-30T15:15:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Samsung's new Wi-Fi speakers may be the sleeper hit for audio at CES 2026 - here's why",
+            "link": "https://www.zdnet.com/article/samsungs-wi-fi-speakers-soundbars-ces-2026/",
+            "summary": "Alongside a new flagship and all-in-one soundbar, Samsung has debuted a duet of Wi-Fi-enabled smart speakers.",
+            "published_utc": "2025-12-30T15:14:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Want the Samsung Frame TV? A major competitor just announced its own version",
+            "link": "https://www.zdnet.com/article/lg-gallery-tv-samsung-frame-competitor/",
+            "summary": "It has magnetic frames and a special 'Gallery Mode' that was developed with museum curators.",
+            "published_utc": "2025-12-30T14:45:30+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "CISA orders feds to patch MongoBleed flaw exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-patch-mongobleed-flaw-actively-exploited-in-attacks/",
+            "summary": "CISA ordered U.S. federal agencies to patch an actively exploited MongoDB vulnerability (MongoBleed) that can be exploited to steal credentials, API k...",
+            "published_utc": "2025-12-30T14:40:13+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "TCL's latest E Ink tablet gives you a full-color screen - without this one big compromise",
@@ -107,13 +142,6 @@
             "published_utc": "2025-12-29T22:27:01+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Samsung just unveiled its first Wi-Fi speakers ahead of CES 2026, and they look splurge-worthy",
-            "link": "https://www.zdnet.com/article/samsungs-new-wi-fi-speakers-soundbars-ces-2026/",
-            "summary": "Alongside a new flagship and all-in-one soundbar, Samsung has debuted its new Wi-Fi-enabled smart speakers.",
-            "published_utc": "2025-12-29T21:06:00+00:00"
-        },
-        {
             "source": "KrebsOnSecurity",
             "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
             "link": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
@@ -205,32 +233,11 @@
             "published_utc": "2025-12-29T16:35:36+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I thought smart calendars were a gimmick, until I put this 15-inch tablet on my wall",
-            "link": "https://www.zdnet.com/article/skylight-calendar-smart-display-review/",
-            "summary": "The Skylight Calendar smart display has had a significant impact on keeping track of events, meetings, and even household tasks.",
-            "published_utc": "2025-12-29T16:20:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The MacBook Pro alternative I settled on was a Windows laptop I overlooked",
-            "link": "https://www.zdnet.com/article/razer-blade-14-review/",
-            "summary": "One of the thinnest gaming laptops I've tested, the Razer Blade 14 favors portability over power.",
-            "published_utc": "2025-12-29T16:15:00+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "Top US Accounting Firm Sax Discloses 2024 Data Breach Impacting 220,000",
             "link": "https://www.securityweek.com/top-us-accounting-firm-sax-discloses-2024-data-breach-impacting-220000/",
             "summary": "",
             "published_utc": "2025-12-29T15:40:36+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How I ditched Google Photos for my own private self-hosted alternative - for free",
-            "link": "https://www.zdnet.com/article/free-google-photos-alternative-self-hosted/",
-            "summary": "If you're ready to cut the cord with Google, this option lets you host and sync your photos on your own terms. Here's how.",
-            "published_utc": "2025-12-29T15:30:01+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -385,13 +392,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/exploited-mongobleed-flaw-leaks-mongodb-secrets-87k-servers-exposed/",
             "summary": "A severe vulnerability affecting multiple MongoDB versions, dubbed MongoBleed (CVE-2025-14847), is being actively exploited in the wild, with over 80,...",
             "published_utc": "2025-12-28T20:38:15+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Hacker claims to leak WIRED database with 2.3 million records",
-            "link": "https://www.bleepingcomputer.com/news/security/hacker-claims-to-leak-wired-database-with-23-million-records/",
-            "summary": "A hacker claims to have breached Condé Nast and leaked an alleged WIRED database containing more than 2.3 million subscriber records, while also warni...",
-            "published_utc": "2025-12-28T17:57:34+00:00"
         },
         {
             "source": "WIRED Security",
