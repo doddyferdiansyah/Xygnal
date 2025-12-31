@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2025-12-31T14:21:44.739765+00:00",
+    "lastUpdatedUTC": "2025-12-31T15:22:54.068645+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "Puppy Linux vs. Linux Lite: Which distro is right for your old Windows 10 PC?",
+            "link": "https://www.zdnet.com/article/puppy-linux-vs-linux-lite/",
+            "summary": "You can revive your aging PC with a lightweight Linux distro such as Puppy Linux and Linux Lite. But which one should you choose?",
+            "published_utc": "2025-12-31T15:17:55+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "RondoDox botnet exploits React2Shell flaw to breach Next.js servers",
+            "link": "https://www.bleepingcomputer.com/news/security/rondodox-botnet-exploits-react2shell-flaw-to-breach-nextjs-servers/",
+            "summary": "The RondoDox botnet has been observed exploiting the critical React2Shell flaw (CVE-2025-55182) to infect vulnerable Next.js servers with malware and ...",
+            "published_utc": "2025-12-31T14:58:51+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The AI balancing act your company can't afford to fumble in 2026",
+            "link": "https://www.zdnet.com/article/ai-balancing-act/",
+            "summary": "There are eight key tenets your company can follow to build AI faster while keeping it safe and trustworthy.",
+            "published_utc": "2025-12-31T14:54:41+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "How I use Samsung's secret Wi-Fi menu to seriously improve my connectivity",
@@ -219,20 +240,6 @@
             "published_utc": "2025-12-30T18:27:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "This simple Linux tool lets you try multiple distros safely on one desktop - for free",
-            "link": "https://www.zdnet.com/article/distrobox-test-multiple-linux-distros-in-containers/",
-            "summary": "With Distrobox, you can run and experiment with distributions inside containers. No virtual machine required.",
-            "published_utc": "2025-12-30T17:54:44+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "This charger will allow me to finally say goodbye to alkaline batteries in 2026",
-            "link": "https://www.zdnet.com/article/xtar-l8-box-battery-charger-compatible-with-aa-aaa-usb-c/",
-            "summary": "The Xtar L8 Box is my dream AA/AAA battery charger - it charges eight batteries simultaneously, is compatible with both AA and AAA batteries, and runs...",
-            "published_utc": "2025-12-30T17:32:03+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "European Space Agency confirms breach of \"external servers\"",
             "link": "https://www.bleepingcomputer.com/news/security/european-space-agency-confirms-breach-of-external-servers/",
@@ -350,20 +357,6 @@
             "link": "https://www.securityweek.com/top-us-accounting-firm-sax-discloses-2024-data-breach-impacting-220000/",
             "summary": "",
             "published_utc": "2025-12-29T15:40:36+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "The Real-World Attacks Behind OWASP Agentic AI Top 10",
-            "link": "https://www.bleepingcomputer.com/news/security/the-real-world-attacks-behind-owasp-agentic-ai-top-10/",
-            "summary": "OWASP's new Agentic AI Top 10 highlights real-world attacks already targeting autonomous AI systems, from goal hijacking to malicious MCP servers. Koi...",
-            "published_utc": "2025-12-29T15:00:10+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "ChatGPT finally rolls out Thinking time toggle on mobile",
-            "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-finally-rolls-out-thinking-time-toggle-on-mobile/",
-            "summary": "OpenAI is rolling out an update to ChatGPT on mobile that finally allows you to select the Thinking time toggle, also called \"juice\" of the model. [...]",
-            "published_utc": "2025-12-29T15:00:00+00:00"
         },
         {
             "source": "SecurityWeek",
