@@ -1,6 +1,20 @@
 {
-    "lastUpdatedUTC": "2025-12-31T23:21:26.336240+00:00",
+    "lastUpdatedUTC": "2026-01-01T02:00:04.460254+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "Critical vulnerability in IBM API Connect could allow authentication bypass",
+            "link": "https://www.csoonline.com/article/4112265/critical-vulnerability-in-ibm-api-connect-could-allow-authentication-bypass-2.html",
+            "summary": "",
+            "published_utc": "2026-01-01T01:55:48+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How to disable ACR on your TV (and why doing so makes such a big difference)",
+            "link": "https://www.zdnet.com/article/how-to-disable-acr-on-tv-why/",
+            "summary": "Your Samsung, LG, and even Sony TV comes with notable privacy risks. Here's how to avoid one of the biggest with just a few steps.",
+            "published_utc": "2026-01-01T01:00:45+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "NYC mayoral inauguration bans Flipper Zero, Raspberry Pi devices",
@@ -213,13 +227,6 @@
         },
         {
             "source": "ZDNet Security",
-            "title": "How to clear the cache on your TV (and why it makes such a big difference)",
-            "link": "https://www.zdnet.com/article/how-to-clear-tv-cache/",
-            "summary": "Clearing your TV's cache can greatly decrease stuttering and improve performance. Here's how to do it on brands like Samsung, LG, and more.",
-            "published_utc": "2025-12-30T20:54:06+00:00"
-        },
-        {
-            "source": "ZDNet Security",
             "title": "I replaced my deadbolt with this Apple HomeKey smart lock - and it's an iPhone user's dream",
             "link": "https://www.zdnet.com/article/level-lock-pro-review/",
             "summary": "The Matter-enabled Level Lock Pro maintains a sleek deadbolt look while packing advanced smart features.",
@@ -245,13 +252,6 @@
             "link": "https://www.zdnet.com/article/tcl-note-a1-nxtpaper-ces-2026/",
             "summary": "TCL's Note A1 Nxtpaper tablet will feature a full-color display at 120Hz while retaining the digital paper experience.",
             "published_utc": "2025-12-30T18:54:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I gave my AirTag a 5-year battery life with this accessory - and it took just minutes to set up",
-            "link": "https://www.zdnet.com/article/elevation-lab-time-capsule-review/",
-            "summary": "An AirTag battery failure at the wrong time can leave your gear vulnerable. Elevation Lab's Time Capsule is a handy solution.",
-            "published_utc": "2025-12-30T18:53:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -336,13 +336,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/chinese-state-hackers-use-rootkit-to-hide-toneshell-malware-activity/",
             "summary": "A new sample of the ToneShell backdoor, typically seen in Chinese cyberespionage campaigns, has been delivered through a kernel-mode loader in attacks...",
             "published_utc": "2025-12-30T00:08:42+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
-            "link": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
-            "summary": "KrebsOnSecurity.com celebrates its 16th anniversary today! A huge \"thank you\" to all of our readers -- newcomers, long-timers and drive-by critics ali...",
-            "published_utc": "2025-12-29T20:23:26+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -576,13 +569,6 @@
             "published_utc": "2025-12-23T16:45:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "MacSync Stealer malware bypasses macOS Gatekeeper security warnings",
-            "link": "https://www.csoonline.com/article/4111179/macsync-stealer-malware-bypasses-macos-gatekeeper-security-warnings.html",
-            "summary": "",
-            "published_utc": "2025-12-23T16:42:32+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Clop Ransomware Group Linked to 3.5m University of Phoenix Breach",
             "link": "https://www.infosecurity-magazine.com/news/university-phoenix-breach-clop/",
@@ -695,13 +681,6 @@
             "published_utc": "2025-12-19T22:06:59+00:00"
         },
         {
-            "source": "KrebsOnSecurity",
-            "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
-            "link": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
-            "summary": "The Trump administration has pursued a staggering range of policy pivots this past year that threaten to weaken the nation’s ability and willingness t...",
-            "published_utc": "2025-12-19T15:14:55+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "AI Advertising Company Hacked",
             "link": "https://www.schneier.com/blog/archives/2025/12/ai-advertising-company-hacked.html",
@@ -742,13 +721,6 @@
             "link": "https://www.wired.com/story/microsoft-will-finally-kill-an-encryption-cipher-that-enabled-a-decade-of-windows-hacks/",
             "summary": "The weak RC4 for administrative authentication has been a hacker holy grail for decades.",
             "published_utc": "2025-12-17T10:30:00+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Most Parked Domains Now Serving Malicious Content",
-            "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
-            "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the ...",
-            "published_utc": "2025-12-16T14:14:48+00:00"
         },
         {
             "source": "WeLiveSecurity",
@@ -821,25 +793,11 @@
             "published_utc": "2025-12-10T15:03:51+00:00"
         },
         {
-            "source": "KrebsOnSecurity",
-            "title": "Microsoft Patch Tuesday, December 2025 Edition",
-            "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
-            "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of ...",
-            "published_utc": "2025-12-09T23:18:29+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "The big catch: How whaling attacks target top executives",
             "link": "https://www.welivesecurity.com/en/business-security/big-catch-how-whaling-attacks-target-top-executives/",
             "summary": "Is your organization’s senior leadership vulnerable to a cyber-harpooning? Learn how to keep them safe.",
             "published_utc": "2025-12-09T10:00:00+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
-            "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
-            "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin...",
-            "published_utc": "2025-12-06T14:45:03+00:00"
         },
         {
             "source": "WIRED Security",
@@ -861,13 +819,6 @@
             "link": "https://www.wired.com/story/signalgate-inspector-general-report-hegseth-change/",
             "summary": "The United States Inspector General report reviewing Secretary of Defense Pete Hegseth’s text messaging mess recommends a single change to keep classi...",
             "published_utc": "2025-12-05T00:02:32+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-            "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-            "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, ju...",
-            "published_utc": "2025-12-04T23:02:34+00:00"
         },
         {
             "source": "WIRED Security",
@@ -968,13 +919,6 @@
             "published_utc": "2025-11-27T10:00:00+00:00"
         },
         {
-            "source": "KrebsOnSecurity",
-            "title": "Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’",
-            "link": "https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/",
-            "summary": "A prolific cybercriminal group that calls itself \"Scattered LAPSUS$ Hunters\" made headlines regularly this year by stealing data from and publicly mas...",
-            "published_utc": "2025-11-26T17:22:36+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "The Destruction of a Notorious Myanmar Scam Compound Appears to Have Been ‘Performative’",
             "link": "https://www.wired.com/story/myanmar-kk-park-scam-compound-destruction/",
@@ -989,13 +933,6 @@
             "published_utc": "2025-11-25T10:00:00+00:00"
         },
         {
-            "source": "KrebsOnSecurity",
-            "title": "Is Your Android TV Streaming Box Part of a Botnet?",
-            "link": "https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/",
-            "summary": "On the surface, the Superbox media streaming devices for sale at retailers like BestBuy and Walmart may seem like a steal: They offer unlimited access...",
-            "published_utc": "2025-11-24T18:44:52+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "MDR is the answer – now, what’s the question?",
             "link": "https://www.welivesecurity.com/en/business-security/mdr-answer-now-whats-question/",
@@ -1003,25 +940,11 @@
             "published_utc": "2025-11-24T10:00:00+00:00"
         },
         {
-            "source": "KrebsOnSecurity",
-            "title": "Mozilla Says It’s Finally Done With Two-Faced Onerep",
-            "link": "https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/",
-            "summary": "In March 2024, Mozilla said it was winding down its collaboration with Onerep -- an identity protection service offered with the Firefox web browser t...",
-            "published_utc": "2025-11-20T19:06:51+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "The OSINT advantage: Find your weak spots before attackers do",
             "link": "https://www.welivesecurity.com/en/privacy/osint-playbook-find-weak-spots-attackers-do/",
             "summary": "Here’s how open-source intelligence helps trace your digital footprint and uncover your weak points, plus a few essential tools to connect the dots",
             "published_utc": "2025-11-20T10:00:00+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "The Cloudflare Outage May Be a Security Roadmap",
-            "link": "https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/",
-            "summary": "An intermittent outage at Cloudflare on Tuesday briefly knocked many of the Internet's top destinations offline. Some affected Cloudflare customers we...",
-            "published_utc": "2025-11-19T14:07:03+00:00"
         },
         {
             "source": "WeLiveSecurity",
