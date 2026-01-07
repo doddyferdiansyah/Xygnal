@@ -1,6 +1,55 @@
 {
-    "lastUpdatedUTC": "2026-01-07T12:50:12.313706+00:00",
+    "lastUpdatedUTC": "2026-01-07T13:40:41.406263+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "I tested this $150 AirPods Max stand against a cheap $29 one - and here's the winner",
+            "link": "https://www.zdnet.com/article/mophie-airpods-max-charging-stand-vs-cheaper-alternative/",
+            "summary": "I tried Mophie's AirPods Max stand. Is it really worth up to five times more than budget alternatives?",
+            "published_utc": "2026-01-07T13:36:51+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Several Code Execution Flaws Patched in Veeam Backup & Replication",
+            "link": "https://www.securityweek.com/several-code-execution-flaws-patched-in-veeam-backup-replication/",
+            "summary": "",
+            "published_utc": "2026-01-07T13:27:11+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "9 things I always do after setting up Windows 11 - and why you should too",
+            "link": "https://www.zdnet.com/article/setting-up-windows-11-essential-next-steps/",
+            "summary": "Microsoft's default settings for Windows 11 are filled with tiny annoyances, including unnecessary taskbar icons and unwanted apps. Here's how to decl...",
+            "published_utc": "2026-01-07T13:18:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Personal LLM Accounts Drive Shadow AI Data Leak Risks",
+            "link": "https://www.infosecurity-magazine.com/news/personal-llm-accounts-drive-shadow/",
+            "summary": "Lack of visibility and governance around employees using generative AI is resulting in rise in data security risks",
+            "published_utc": "2026-01-07T13:10:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "New Veeam vulnerabilities expose backup servers to RCE attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/new-veeam-vulnerabilities-expose-backup-servers-to-rce-attacks/",
+            "summary": "Veeam released security updates to patch multiple security flaws in its Backup & Replication software, including a critical remote code execution (RCE...",
+            "published_utc": "2026-01-07T13:06:11+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Cybersecurity Firms Secured $14 Billion in Funding in 2025: Analysis",
+            "link": "https://www.securityweek.com/cybersecurity-firms-secured-14-billion-in-funding-in-2025/",
+            "summary": "",
+            "published_utc": "2026-01-07T13:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Google Search AI hallucinations push Google to hire \"AI Answers Quality\" engineers",
+            "link": "https://www.bleepingcomputer.com/news/google/google-search-ai-hallucinations-push-google-to-hire-ai-answers-quality-engineers/",
+            "summary": "AI, including AI Overviews on Google Search, can hallucinate and often make up stuff or offer contradicting answers when asked in two different ways. ...",
+            "published_utc": "2026-01-07T12:50:38+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Hackers Exploit Zero-Day in Discontinued D-Link Devices",
@@ -261,25 +310,11 @@
             "published_utc": "2026-01-06T19:15:11+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "This portable power station kept my essentials running during a snowstorm outage",
-            "link": "https://www.zdnet.com/article/ecoflow-delta-3-max-plus-review/",
-            "summary": "I tested the EcoFlow Delta 3 Max Plus during a recent power outage, and it didn't flinch, even in cold weather.",
-            "published_utc": "2026-01-06T18:28:34+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Jaguar Land Rover wholesale volumes down 43% after cyberattack",
             "link": "https://www.bleepingcomputer.com/news/security/jaguar-land-rover-wholesale-volumes-down-43-percent-after-cyberattack/",
             "summary": "Jaguar Land Rover (JLR) revealed this week that a September 2025 cyberattack led to a 43% decline in third-quarter wholesale volumes. [...]",
             "published_utc": "2026-01-06T18:27:08+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The most interesting health and wellness tech I've seen at CES 2026 so far",
-            "link": "https://www.zdnet.com/article/the-most-interesting-health-tech-ive-seen-at-ces-2026-so-far/",
-            "summary": "I'm already seeing some wacky tech and health wearables on display on day one of CES 2026.",
-            "published_utc": "2026-01-06T17:47:20+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -366,25 +401,11 @@
             "published_utc": "2026-01-06T12:29:24+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "NordVPN Denies Breach After Hacker Leaks Data",
-            "link": "https://www.securityweek.com/nordvpn-denies-breach-after-hacker-leaks-data/",
-            "summary": "",
-            "published_utc": "2026-01-06T11:24:11+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Open WebUI bug turns the ‘free model’ into an enterprise backdoor",
             "link": "https://www.csoonline.com/article/4113139/open-webui-bug-turns-free-model-into-an-enterprise-backdoor.html",
             "summary": "",
             "published_utc": "2026-01-06T11:21:54+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Are Copilot prompt injection flaws vulnerabilities or AI limits?",
-            "link": "https://www.bleepingcomputer.com/news/security/are-copilot-prompt-injection-flaws-vulnerabilities-or-ai-limits/",
-            "summary": "Microsoft has pushed back against claims that multiple prompt injection and sandbox-related issues raised by a security engineer in its Copilot AI ass...",
-            "published_utc": "2026-01-06T11:16:54+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -394,25 +415,11 @@
             "published_utc": "2026-01-06T11:15:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Cybersecurity M&A Roundup: 30 Deals Announced in December 2025",
-            "link": "https://www.securityweek.com/cybersecurity-ma-roundup-30-deals-announced-in-december-2025/",
-            "summary": "",
-            "published_utc": "2026-01-06T09:02:06+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "6 strategies for building a high-performance cybersecurity team",
             "link": "https://www.csoonline.com/article/4110690/6-strategies-for-building-a-high-performance-cybersecurity-team.html",
             "summary": "",
             "published_utc": "2026-01-06T07:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Cloud file-sharing sites targeted for corporate data theft attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/cloud-file-sharing-sites-targeted-for-corporate-data-theft-attacks/",
-            "summary": "A threat actor known as Zestix has been offering to corporate data stolen from dozens of companies likely after breaching their ShareFile, Nextcloud, ...",
-            "published_utc": "2026-01-05T22:52:16+00:00"
         },
         {
             "source": "CSO Online",
@@ -581,13 +588,6 @@
             "link": "https://www.wired.com/story/expired-tired-wired-protest-surveillance/",
             "summary": "The tactics behind protest policing are changing—from one of cooperation to intentional antagonism for political marketing purposes.",
             "published_utc": "2026-01-02T11:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Infosecurity's Top 10 Cybersecurity Stories of 2025",
-            "link": "https://www.infosecurity-magazine.com/news/infosecurity-top-10-stories-2025/",
-            "summary": "Explore Infosecurity Magazine’s most-read cybersecurity stories of 2025, from major vendor shake-ups and zero-day exploits to AI-driven threats and su...",
-            "published_utc": "2026-01-01T08:30:00+00:00"
         },
         {
             "source": "Schneier",
