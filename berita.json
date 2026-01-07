@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2026-01-07T15:28:50.427923+00:00",
+    "lastUpdatedUTC": "2026-01-07T16:32:57.870776+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft: Classic Outlook bug prevents opening encrypted emails",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-classic-outlook-bug-prevents-opening-encrypted-emails/",
+            "summary": "Microsoft has confirmed a known issue that prevents recipients from opening encrypted emails in classic Outlook. [...]",
+            "published_utc": "2026-01-07T16:30:24+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Apple's biggest Siri update in years could arrive this March - but will it be enough?",
+            "link": "https://www.zdnet.com/article/new-siri-release-date/",
+            "summary": "Likely arriving with iOS 26.4, the so-called LLM Siri promises to act more like ChatGPT and Gemini. But will Apple finally succeed this time around?",
+            "published_utc": "2026-01-07T16:13:43+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I bricked my $3,700 Mac Studio by upgrading to MacOS 26 - here's how I got it back",
+            "link": "https://www.zdnet.com/article/macos-tahoe-bug-bricked-mac-studio-how-to-fix/",
+            "summary": "Warning: If you own a Mac with an M3 Ultra chip, don't be like me. Hold off on upgrading to Tahoe. Here's why.",
+            "published_utc": "2026-01-07T16:03:58+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Ghost Tap Malware Fuels Surge in Remote NFC Payment Fraud",
+            "link": "https://www.infosecurity-magazine.com/news/ghost-tap-malware-remote-nfc-fraud/",
+            "summary": "New Android malware enables unauthorized tap-to-pay transactions without physical access to bank cards",
+            "published_utc": "2026-01-07T16:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "The Loudest Voices in Security Often Have the Least to Lose",
+            "link": "https://www.securityweek.com/the-loudest-voices-in-security-often-have-the-least-to-lose/",
+            "summary": "",
+            "published_utc": "2026-01-07T15:45:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Free high-speed Wi-Fi rolling out on most American Airlines flights - how to get it",
+            "link": "https://www.zdnet.com/article/american-airlines-high-speed-wifi-free-sign-up/",
+            "summary": "AT&amp;T partnered with the airline to provide free high-speed Wi-Fi on more than 2 million flights a year.",
+            "published_utc": "2026-01-07T15:35:00+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "Bug in Open WebUI macht Kostenlos-Tool zur Backdoor",
@@ -21,6 +63,13 @@
             "link": "https://www.securityweek.com/chrome-extensions-with-900000-downloads-caught-stealing-ai-chats/",
             "summary": "",
             "published_utc": "2026-01-07T15:03:24+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "In 2026, Hackers Want AI: Threat Intel on Vibe Hacking & HackGPT",
+            "link": "https://www.bleepingcomputer.com/news/security/in-2026-hackers-want-ai-threat-intel-on-vibe-hacking-and-hackgpt/",
+            "summary": "Cybercriminals are increasingly using AI to lower the barrier to entry for fraud and hacking, shifting from skill-based to AI-assisted attacks known a...",
+            "published_utc": "2026-01-07T15:00:10+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -289,27 +338,6 @@
             "published_utc": "2026-01-07T03:00:56+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "5 ways rules and regulations can help guide your AI innovation",
-            "link": "https://www.zdnet.com/article/5-ways-to-use-governance-challenge-regulation-ai-innovation/",
-            "summary": "Governance, when handled correctly, can become a route to the successful implementation of emerging technologies. Five business leaders share their ex...",
-            "published_utc": "2026-01-07T03:00:42+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The 7 weirdest tech gadgets I've seen at CES 2026 - so far",
-            "link": "https://www.zdnet.com/article/weirdest-tech-ces-2026/",
-            "summary": "The show floor at CES is packed with strange, odd, and unusual gadgets. These ones stand out most.",
-            "published_utc": "2026-01-07T02:26:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "This bone conduction lollipop played music in my mouth at CES, and I'm speechless",
-            "link": "https://www.zdnet.com/article/lollipop-star-ces-2026/",
-            "summary": "Lollipop Star uses bone conduction technology to play music through your mouth.",
-            "published_utc": "2026-01-07T02:24:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "OpenAI is reportedly getting ready to test ads in ChatGPT",
             "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-reportedly-getting-ready-to-test-ads-in-chatgpt/",
@@ -387,25 +415,11 @@
             "published_utc": "2026-01-06T15:30:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Sedgwick confirms breach at government contractor subsidiary",
-            "link": "https://www.bleepingcomputer.com/news/security/sedgwick-confirms-breach-at-government-contractor-subsidiary/",
-            "summary": "Claims administration and risk management company Sedgwick has confirmed that its federal contractor subsidiary, Sedgwick Government Solutions, was th...",
-            "published_utc": "2026-01-06T15:27:22+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "Hacker Conversations: Katie Paxton-Fear Talks Autism, Morality and Hacking",
             "link": "https://www.securityweek.com/hacker-conversations-katie-paxton-fear-talks-autism-morality-and-hacking/",
             "summary": "",
             "published_utc": "2026-01-06T15:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "How generative AI accelerates identity attacks against Active Directory",
-            "link": "https://www.bleepingcomputer.com/news/security/how-generative-ai-accelerates-identity-attacks-against-active-directory/",
-            "summary": "Generative AI is accelerating password attacks against Active Directory, making credential abuse faster and more effective. Specops Software explains ...",
-            "published_utc": "2026-01-06T14:46:15+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -420,13 +434,6 @@
             "link": "https://www.securityweek.com/researchers-trap-scattered-lapsus-hunters-in-honeypot/",
             "summary": "",
             "published_utc": "2026-01-06T14:03:12+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Critical Dolby Vulnerability Patched in Android",
-            "link": "https://www.securityweek.com/critical-dolby-vulnerability-patched-in-android/",
-            "summary": "",
-            "published_utc": "2026-01-06T13:50:36+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -546,13 +553,6 @@
             "link": "https://www.csoonline.com/article/4112729/cybersecurity-firm-turns-tables-on-threat-actors-with-decoy-data-trap.html",
             "summary": "",
             "published_utc": "2026-01-05T11:58:54+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "European Space Agency Confirms Server Breach",
-            "link": "https://www.infosecurity-magazine.com/news/european-space-agency-confirms/",
-            "summary": "The European Space Agency has said that external servers were recently involved in a security “issue”",
-            "published_utc": "2026-01-05T10:15:00+00:00"
         },
         {
             "source": "WIRED Security",
