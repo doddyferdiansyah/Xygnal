@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2026-01-08T11:22:36.249256+00:00",
+    "lastUpdatedUTC": "2026-01-08T12:50:11.987642+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft Exchange Online outage blocks access to mailboxes via IMAP4",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-mailboxes-via-imap4/",
+            "summary": "Microsoft is working to fix an Exchange Online service outage that intermittently prevents users from accessing their mailboxes via the Internet Mailb...",
+            "published_utc": "2026-01-08T12:45:35+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Researchers Expose WHILL Wheelchair Safety Risks via Remote Hacking",
+            "link": "https://www.securityweek.com/researchers-expose-whill-wheelchair-safety-risks-via-remote-hacking/",
+            "summary": "",
+            "published_utc": "2026-01-08T12:41:07+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Fifth of Breaches Take Two Weeks to Recover From",
+            "link": "https://www.infosecurity-magazine.com/news/fifth-breaches-two-weeks-recover/",
+            "summary": "Absolute Security claims that full recovery from endpoint-related downtime can take up to a fortnight for most organizations",
+            "published_utc": "2026-01-08T12:30:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft to enforce MFA for Microsoft 365 admin center sign-ins",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enforce-mfa-for-microsoft-365-admin-center-sign-ins/",
+            "summary": "Microsoft will start enforcing multi-factor authentication (MFA) for all users accessing the Microsoft 365 admin center starting next month. [...]",
+            "published_utc": "2026-01-08T12:10:34+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "AI & Humans: Making the Relationship Work",
+            "link": "https://www.schneier.com/blog/archives/2026/01/ai-humans-making-the-relationship-work.html",
+            "summary": "",
+            "published_utc": "2026-01-08T12:05:37+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "NIS2-Umsetzung: Neues BSI-Portal geht an den Start",
+            "link": "https://www.csoonline.com/article/4114344/nis2-umsetzung-neues-bsi-portal-geht-an-den-start.html",
+            "summary": "",
+            "published_utc": "2026-01-08T11:30:27+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "Critical jsPDF vulnerability enables arbitrary file read in Node.js deployments",
@@ -157,14 +199,14 @@
         },
         {
             "source": "ZDNet Security",
-            "title": "I saw a two-legged robot vacuum climb up stairs at CES, and blew my mind away",
+            "title": "I saw a two-legged robot vacuum climb up stairs at CES, and it blew my mind",
             "link": "https://www.zdnet.com/article/roborock-rover-robot-vacuum-ces/",
             "summary": "The Roborock Rover has garnered the attention that few devices can achieve at CES 2026, and I had the chance to see it in person.",
             "published_utc": "2026-01-07T22:44:00+00:00"
         },
         {
             "source": "ZDNet Security",
-            "title": "Not enough people are talking about the this MacBook Air alternative at CES 2026",
+            "title": "Not enough people are talking about this MacBook Air alternative at CES 2026",
             "link": "https://www.zdnet.com/article/asus-zenbook-a14-hands-on-ces/",
             "summary": "My favorite thin and light laptop from 2025 is getting a refresh at CES 2026, and it now comes in a new 16-inch option.",
             "published_utc": "2026-01-07T22:41:00+00:00"
@@ -352,13 +394,6 @@
             "published_utc": "2026-01-07T13:10:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "New Veeam vulnerabilities expose backup servers to RCE attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/new-veeam-vulnerabilities-expose-backup-servers-to-rce-attacks/",
-            "summary": "Veeam released security updates to patch multiple security flaws in its Backup & Replication software, including a critical remote code execution (RCE...",
-            "published_utc": "2026-01-07T13:06:11+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "Cybersecurity Firms Secured $14 Billion in Funding in 2025: Analysis",
             "link": "https://www.securityweek.com/cybersecurity-firms-secured-14-billion-in-funding-in-2025/",
@@ -366,25 +401,11 @@
             "published_utc": "2026-01-07T13:00:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Google Search AI hallucinations push Google to hire \"AI Answers Quality\" engineers",
-            "link": "https://www.bleepingcomputer.com/news/google/google-search-ai-hallucinations-push-google-to-hire-ai-answers-quality-engineers/",
-            "summary": "AI, including AI Overviews on Google Search, can hallucinate and often make up stuff or offer contradicting answers when asked in two different ways. ...",
-            "published_utc": "2026-01-07T12:50:38+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "Hackers Exploit Zero-Day in Discontinued D-Link Devices",
             "link": "https://www.securityweek.com/hackers-exploit-zero-day-in-discontinued-d-link-devices/",
             "summary": "",
             "published_utc": "2026-01-07T12:33:11+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "UK announces plan to strengthen public sector cyber defenses",
-            "link": "https://www.bleepingcomputer.com/news/security/uk-announces-plan-to-strengthen-public-sector-cyber-defenses/",
-            "summary": "The United Kingdom has announced a new cybersecurity strategy, backed by more than £210 million ($283 million), to boost cyber defenses across governm...",
-            "published_utc": "2026-01-07T12:15:01+00:00"
         },
         {
             "source": "Schneier",
@@ -492,13 +513,6 @@
             "published_utc": "2026-01-06T15:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Cyber Risk Trends for 2026: Building Resilience, Not Just Defenses",
-            "link": "https://www.securityweek.com/cyber-risk-trends-for-2026-building-resilience-not-just-defenses/",
-            "summary": "",
-            "published_utc": "2026-01-06T14:45:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "UK Launches New Cyber Unit to Bolster Defences Against Cyber Threats",
             "link": "https://www.infosecurity-magazine.com/news/uk-launches-new-cyber-unit/",
@@ -511,13 +525,6 @@
             "link": "https://www.csoonline.com/article/4113139/open-webui-bug-turns-free-model-into-an-enterprise-backdoor.html",
             "summary": "",
             "published_utc": "2026-01-06T11:21:54+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Jaguar Land Rover's Q3 Sales Crash Amid Cyber-Attack Fallout",
-            "link": "https://www.infosecurity-magazine.com/news/jlr-q3-sales-crash-cyberattack/",
-            "summary": "JLR’s wholesale sales plunged 43% and retail drops 25% in the third quarter of 2025 following the 2025 cyber-attack",
-            "published_utc": "2026-01-06T11:15:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -546,13 +553,6 @@
             "link": "https://www.csoonline.com/article/4110714/5-myths-about-ddos-attacks-and-protection.html",
             "summary": "",
             "published_utc": "2026-01-05T21:15:52+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Ten thousand firewalls are vulnerable to old vulnerability",
-            "link": "https://www.csoonline.com/article/4112857/ten-thousand-firewalls-are-vulnerable-to-old-vulnerability.html",
-            "summary": "",
-            "published_utc": "2026-01-05T17:44:55+00:00"
         },
         {
             "source": "Schneier",
@@ -686,13 +686,6 @@
             "link": "https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-squid-camouflage.html",
             "summary": "",
             "published_utc": "2025-12-26T22:08:17+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "IoT Hack",
-            "link": "https://www.schneier.com/blog/archives/2025/12/iot-hack.html",
-            "summary": "",
-            "published_utc": "2025-12-26T12:02:54+00:00"
         },
         {
             "source": "WIRED Security",
