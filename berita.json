@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-01-08T20:27:17.714300+00:00",
+    "lastUpdatedUTC": "2026-01-08T21:23:24.533924+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "The 10 most interesting health and wellness tech I've seen at CES 2026 so far",
+            "link": "https://www.zdnet.com/article/the-most-interesting-health-tech-ive-seen-at-ces-2026-so-far/",
+            "summary": "I'm already seeing some wacky tech and health wearables on display at CES 2026, from allergy detection systems to ultra-thin smart rings.",
+            "published_utc": "2026-01-08T21:07:58+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Cisco switches hit by reboot loops due to DNS client bug",
+            "link": "https://www.bleepingcomputer.com/news/security/cisco-switches-hit-by-reboot-loops-due-to-dns-client-bug/",
+            "summary": "Multiple Cisco switch models are suddenly experiencing reboot loops after logging fatal DNS client errors, according to reports seen by BleepingComput...",
+            "published_utc": "2026-01-08T20:40:26+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I have no problem ditching my AirPods for these earbuds - especially at this affordable price",
+            "link": "https://www.zdnet.com/article/i-have-no-problem-ditching-my-airpods-for-these-earbuds-especially-at-this-affordable-price/",
+            "summary": "The CMF Buds 2 Plus offers a secure and comfortable fit, clear audio, effective noise cancellation, and a long battery life.",
+            "published_utc": "2026-01-08T20:33:44+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "MSI's new 16-inch laptop has a hybrid form factor that's right up my alley",
@@ -115,9 +136,9 @@
         },
         {
             "source": "BleepingComputer",
-            "title": "Texas court blocks Samsung from collecting smart TV viewing data",
-            "link": "https://www.bleepingcomputer.com/news/security/texas-court-blocks-samsung-from-collecting-smart-tv-viewing-data/",
-            "summary": "The State of Texas has obtained a temporary restraining order (TRO) against Samsung that prohibits the South Korean company from collecting audio and ...",
+            "title": "Texas court blocks Samsung from tracking TV viewing, then vacates order",
+            "link": "https://www.bleepingcomputer.com/news/security/texas-court-blocks-samsung-from-tracking-tv-viewing-then-vacates-order/",
+            "summary": "The State of Texas obtained a short-lived, temporary restraining order (TRO) against Samsung that prohibited the South Korean company from collecting ...",
             "published_utc": "2026-01-08T16:47:24+00:00"
         },
         {
@@ -247,20 +268,6 @@
             "published_utc": "2026-01-08T13:11:37+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "The best and most useful smart home tech I've seen at CES 2026",
-            "link": "https://www.zdnet.com/article/smart-home-tech-ces-2026/",
-            "summary": "I spent the week on the CES show floor, searching for compelling smart home devices. Here's what I found.",
-            "published_utc": "2026-01-08T13:11:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Your Gmail is getting an AI makeover - here's what to expect and when",
-            "link": "https://www.zdnet.com/article/gmail-ai-overhaul-overviews-proofread-inbox-what-to-expect/",
-            "summary": "Google is aggressively pushing Gemini across its apps and services in order to maintain an edge in the AI race. Your email won't ever be the same.",
-            "published_utc": "2026-01-08T13:00:47+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Microsoft Exchange Online outage blocks access to mailboxes via IMAP4",
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-mailboxes-via-imap4/",
@@ -322,6 +329,13 @@
             "link": "https://www.securityweek.com/critical-hpe-oneview-vulnerability-exploited-in-attacks/",
             "summary": "",
             "published_utc": "2026-01-08T11:09:03+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Maximum Severity “Ni8mare” Bug Lets Hackers Hijack n8n Servers",
+            "link": "https://www.infosecurity-magazine.com/news/maximum-severity-ni8mare-bug/",
+            "summary": "A newly discovered vulnerability in authentication platform n8n could allow threat actors to take control of n8n servers",
+            "published_utc": "2026-01-08T10:00:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -408,25 +422,11 @@
             "published_utc": "2026-01-07T18:05:42+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Max severity Ni8mare flaw lets hackers hijack n8n servers",
-            "link": "https://www.bleepingcomputer.com/news/security/max-severity-ni8mare-flaw-lets-hackers-hijack-n8n-servers/",
-            "summary": "A maximum severity vulnerability dubbed \"Ni8mare\" allows remote, unauthenticated attackers to take control over locally deployed instances of the N8N ...",
-            "published_utc": "2026-01-07T17:41:10+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Versatile Malware Loader pkr_mtsi Delivers Diverse Payloads",
             "link": "https://www.infosecurity-magazine.com/news/malware-loader-pkrmtsi-payloads/",
             "summary": "Malicious Windows packer named pkr_mtsi used as a flexible malware loader in malvertising campaigns",
             "published_utc": "2026-01-07T16:45:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft: Classic Outlook bug prevents opening encrypted emails",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-classic-outlook-bug-prevents-opening-encrypted-emails/",
-            "summary": "Microsoft has confirmed a known issue that prevents recipients from opening encrypted emails in classic Outlook. [...]",
-            "published_utc": "2026-01-07T16:30:24+00:00"
         },
         {
             "source": "InfosecurityMag",
