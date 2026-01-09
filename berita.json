@@ -1,11 +1,32 @@
 {
-    "lastUpdatedUTC": "2026-01-09T15:26:39.815970+00:00",
+    "lastUpdatedUTC": "2026-01-09T16:30:35.988065+00:00",
     "articles": [
         {
+            "source": "SecurityWeek",
+            "title": "In Other News: 8,000 Ransomware Attacks, China Hacked US Gov Emails, IDHS Breach Impacts 700k",
+            "link": "https://www.securityweek.com/in-other-news-8000-ransomware-attacks-china-hacked-us-gov-emails-idhs-breach-impacts-700k/",
+            "summary": "",
+            "published_utc": "2026-01-09T15:58:37+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The best 98-inch TVs of 2026: Cinema-sized and expert tested",
+            "link": "https://www.zdnet.com/article/best-98-inch-tv/",
+            "summary": "Help create a movie-goer's experience at home with a 98-inch TV. We've tested the latest and best from brands like Hisense, TCL, and Sony.",
+            "published_utc": "2026-01-09T15:41:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Illinois Department of Human Services data breach affects 700K people",
+            "link": "https://www.bleepingcomputer.com/news/security/illinois-department-of-human-services-data-breach-affects-700k-people/",
+            "summary": "The Illinois Department of Human Services (IDHS), one of Illinois' largest state agencies, accidentally exposed the personal and health data of nearly...",
+            "published_utc": "2026-01-09T15:37:41+00:00"
+        },
+        {
             "source": "WIRED Security",
-            "title": "X Didn't Fix Grok's ‘Undressing’ Problem. It Just Makes People Pay for It",
+            "title": "X Didn’t Fix Grok's ‘Undressing’ Problem. It Just Makes People Pay for It",
             "link": "https://www.wired.com/story/x-didnt-fix-groks-undressing-problem-it-just-makes-people-pay-for-it/",
-            "summary": "X is only allowing “verified” users to create images with Grok. Experts say it represents the “monetization of abuse”—and anyone can still generate im...",
+            "summary": "X is allowing only “verified” users to create images with Grok. Experts say it represents the “monetization of abuse”—and anyone can still generate im...",
             "published_utc": "2026-01-09T15:19:18+00:00"
         },
         {
@@ -14,6 +35,13 @@
             "link": "https://www.securityweek.com/tim-kosiba-named-nsa-deputy-director/",
             "summary": "",
             "published_utc": "2026-01-09T15:18:50+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Email security needs more seatbelts: Why click rate is the wrong metric",
+            "link": "https://www.bleepingcomputer.com/news/security/email-security-needs-more-seatbelts-why-click-rate-is-the-wrong-metric/",
+            "summary": "Click rate misses the real email security risk: what attackers can do after they access a mailbox. Material Security explains why containment and post...",
+            "published_utc": "2026-01-09T15:01:11+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -303,13 +331,6 @@
             "published_utc": "2026-01-09T03:33:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "We saw dozens of TVs at CES 2026: Keep these 5 models on your radar this year",
-            "link": "https://www.zdnet.com/article/best-tvs-ces-2026/",
-            "summary": "At the Las Vegas trade show, we're seeing several unique and premium offerings from the world's leading TV manufacturers.",
-            "published_utc": "2026-01-09T03:28:00+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "ICE Agent Who Reportedly Shot Renee Good Was a Firearms Trainer, per Testimony",
             "link": "https://www.wired.com/story/ice-agent-jonathan-ross-renee-good-shooting-firearms-trainer-testimony/",
@@ -429,13 +450,6 @@
             "published_utc": "2026-01-08T15:32:44+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Blackbird.AI Raises $28 Million for Narrative Intelligence Platform",
-            "link": "https://www.securityweek.com/blackbird-ai-raises-28-million-for-narrative-intelligence-platform/",
-            "summary": "",
-            "published_utc": "2026-01-08T15:16:35+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Six for 2026: The cyber threats you can’t ignore",
             "link": "https://www.bleepingcomputer.com/news/security/six-for-2026-the-cyber-threats-you-cant-ignore/",
@@ -462,13 +476,6 @@
             "link": "https://www.infosecurity-magazine.com/news/phishing-exploits-misconfigured/",
             "summary": "Misconfigurations abused to make phishing emails look like they come from within the organization",
             "published_utc": "2026-01-08T14:01:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft Exchange Online outage blocks access to mailboxes via IMAP4",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-mailboxes-via-imap4/",
-            "summary": "Microsoft is working to fix an Exchange Online service outage that intermittently prevents users from accessing their mailboxes via the Internet Mailb...",
-            "published_utc": "2026-01-08T12:45:35+00:00"
         },
         {
             "source": "InfosecurityMag",
