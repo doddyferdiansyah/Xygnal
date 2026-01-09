@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-01-09T13:39:10.279379+00:00",
+    "lastUpdatedUTC": "2026-01-09T14:26:33.824879+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Trend Micro Patches Critical Code Execution Flaw in Apex Central",
+            "link": "https://www.securityweek.com/trend-micro-patches-critical-code-execution-flaw-in-apex-central/",
+            "summary": "",
+            "published_utc": "2026-01-09T14:01:19+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Illinois man charged with hacking Snapchat accounts to steal nude photos",
+            "link": "https://www.bleepingcomputer.com/news/security/illinois-man-charged-with-hacking-snapchat-accounts-to-steal-nude-photos/",
+            "summary": "U.S. prosecutors have charged an Illinois man with orchestrating a phishing operation that allowed him to hack the Snapchat accounts of nearly 600 wom...",
+            "published_utc": "2026-01-09T13:46:29+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "CISA Closes 10 Emergency Directives as Vulnerability Catalog Takes Over",
+            "link": "https://www.securityweek.com/cisa-closes-10-emergency-directives-as-vulnerability-catalog-takes-over/",
+            "summary": "",
+            "published_utc": "2026-01-09T13:41:50+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "RingConn Gen 3 debuts at CES 2026 - with two big features Oura doesn't have",
@@ -436,20 +457,6 @@
             "published_utc": "2026-01-08T14:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Critical Vulnerability Patched in jsPDF",
-            "link": "https://www.securityweek.com/critical-vulnerability-patched-in-jspdf/",
-            "summary": "",
-            "published_utc": "2026-01-08T13:17:35+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Critical Vulnerability Exposes n8n Instances to Takeover Attacks",
-            "link": "https://www.securityweek.com/critical-vulnerability-exposes-n8n-instances-to-takeover-attacks/",
-            "summary": "",
-            "published_utc": "2026-01-08T13:11:37+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Microsoft Exchange Online outage blocks access to mailboxes via IMAP4",
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-mailboxes-via-imap4/",
@@ -462,13 +469,6 @@
             "link": "https://www.infosecurity-magazine.com/news/fifth-breaches-two-weeks-recover/",
             "summary": "Absolute Security claims that full recovery from endpoint-related downtime can take up to a fortnight for most organizations",
             "published_utc": "2026-01-08T12:30:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft to enforce MFA for Microsoft 365 admin center sign-ins",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enforce-mfa-for-microsoft-365-admin-center-sign-ins/",
-            "summary": "Microsoft will start enforcing multi-factor authentication (MFA) for all users accessing the Microsoft 365 admin center starting next month. [...]",
-            "published_utc": "2026-01-08T12:10:34+00:00"
         },
         {
             "source": "Schneier",
@@ -506,11 +506,11 @@
             "published_utc": "2026-01-08T10:00:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Cisco warns of Identity Service Engine flaw with exploit code",
-            "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-flaw-with-exploit-code/",
-            "summary": "Cisco has patched an ISE vulnerability with public proof-of-concept exploit code that can be abused by attackers with admin privileges. [...]",
-            "published_utc": "2026-01-08T09:13:17+00:00"
+            "source": "WeLiveSecurity",
+            "title": "Credential stuffing: What it is and how to protect yourself",
+            "link": "https://www.welivesecurity.com/en/cybersecurity/credential-stuffing-what-it-is-how-protect-yourself/",
+            "summary": "Reusing passwords may feel like a harmless shortcut – until a single breach opens the door to multiple accounts",
+            "published_utc": "2026-01-08T10:00:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -1575,13 +1575,6 @@
             "link": "https://www.welivesecurity.com/en/videos/lumma-stealer-disruption/",
             "summary": "The bustling cybercrime enterprise has been dealt a significant blow in a global operation that relied on the expertise of ESET and other technology c...",
             "published_utc": "2025-05-22T14:53:19+00:00"
-        },
-        {
-            "source": "WeLiveSecurity",
-            "title": "ESET takes part in global operation to disrupt Lumma Stealer",
-            "link": "https://www.welivesecurity.com/en/eset-research/eset-takes-part-global-operation-disrupt-lumma-stealer/",
-            "summary": "Our intense monitoring of tens of thousands of malicious samples helped this global disruption operation",
-            "published_utc": "2025-05-21T16:15:00+00:00"
         },
         {
             "source": "NVD (NIST)",
