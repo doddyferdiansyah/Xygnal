@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-01-12T14:27:54.793781+00:00",
+    "lastUpdatedUTC": "2026-01-12T15:27:42.984325+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Cyber Insights 2026: What CISOs Can Expect in 2026 and Beyond",
+            "link": "https://www.securityweek.com/cyber-insights-2026-what-cisos-can-expect-in-2026-and-beyond/",
+            "summary": "",
+            "published_utc": "2026-01-12T15:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Prevent cloud data leaks with Microsoft 365 access reviews",
+            "link": "https://www.bleepingcomputer.com/news/security/prevent-cloud-data-leaks-with-microsoft-365-access-reviews/",
+            "summary": "Microsoft 365 has made file sharing effortless, but that convenience often leaves organizations with little visibility into who can access sensitive d...",
+            "published_utc": "2026-01-12T14:45:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "What's a passkey? The easy explanation - for anyone done with passwords",
+            "link": "https://www.zdnet.com/article/what-are-passkeys/",
+            "summary": "Yes, the technology underlying passkeys is confusing. Here's a simple guide that can help you ditch passwords today.",
+            "published_utc": "2026-01-12T14:34:00+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "Shai-Hulud & Co.: Die Supply Chain als Achillesferse",
@@ -310,13 +331,6 @@
             "published_utc": "2026-01-10T11:01:09+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "The best security keys of 2026: Expert tested and reviewed",
-            "link": "https://www.zdnet.com/article/best-security-key/",
-            "summary": "Unless an attacker physically holds your security key in their hand, your online account is likely safe from intrusion. We tested and ranked the best ...",
-            "published_utc": "2026-01-10T11:00:51+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Ireland recalls almost 13,000 passports over missing 'IRL' code",
             "link": "https://www.bleepingcomputer.com/news/security/ireland-recalls-almost-13-000-passports-over-missing-irl-code/",
@@ -366,13 +380,6 @@
             "published_utc": "2026-01-09T20:34:22+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Hackers target misconfigured proxies to access paid LLM services",
-            "link": "https://www.bleepingcomputer.com/news/security/hackers-target-misconfigured-proxies-to-access-paid-llm-services/",
-            "summary": "Threat actors are systematically hunting for misconfigured proxy servers that could provide access to commercial large language model (LLM) services. ...",
-            "published_utc": "2026-01-09T19:56:49+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "In Other News: 8,000 Ransomware Attacks, China Hacked US Gov Emails, IDHS Breach Impacts 700k",
             "link": "https://www.securityweek.com/in-other-news-8000-ransomware-attacks-china-hacked-us-gov-emails-idhs-breach-impacts-700k/",
@@ -399,13 +406,6 @@
             "link": "https://www.securityweek.com/fbi-north-korean-spear-phishing-attacks-use-malicious-qr-codes/",
             "summary": "",
             "published_utc": "2026-01-09T14:56:09+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Trend Micro Patches Critical Code Execution Flaw in Apex Central",
-            "link": "https://www.securityweek.com/trend-micro-patches-critical-code-execution-flaw-in-apex-central/",
-            "summary": "",
-            "published_utc": "2026-01-09T14:01:19+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -504,6 +504,13 @@
             "link": "https://www.csoonline.com/article/4114715/cisco-identifies-vulnerability-in-ise-network-access-control-devices-2.html",
             "summary": "",
             "published_utc": "2026-01-09T02:11:55+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Who Benefited from the Aisuru and Kimwolf Botnets?",
+            "link": "https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/",
+            "summary": "Our first story of 2026 revealed how a destructive new botnet called Kimwolf rapidly grew to infect more than two million devices by mass-compromising...",
+            "published_utc": "2026-01-08T23:23:43+00:00"
         },
         {
             "source": "CSO Online",
@@ -639,6 +646,13 @@
             "published_utc": "2026-01-02T22:04:04+00:00"
         },
         {
+            "source": "KrebsOnSecurity",
+            "title": "The Kimwolf Botnet is Stalking Your Local Network",
+            "link": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
+            "summary": "The story you are reading is a series of scoops nestled inside a far more urgent Internet-wide security advisory. The vulnerability at issue has been ...",
+            "published_utc": "2026-01-02T14:20:10+00:00"
+        },
+        {
             "source": "Schneier",
             "title": "Flock Exposes Its AI-Enabled Surveillance Cameras",
             "link": "https://www.schneier.com/blog/archives/2026/01/flock-exposes-its-ai-enabled-surveillance-cameras.html",
@@ -672,6 +686,13 @@
             "link": "https://www.wired.com/story/discovering-the-dimensions-of-a-new-cold-war/",
             "summary": "The United States’ plan for dealing with Putin’s Russia and Xi’s China remains ill-defined among a shifting global order. That must change.",
             "published_utc": "2025-12-31T10:00:00+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
+            "link": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
+            "summary": "KrebsOnSecurity.com celebrates its 16th anniversary today! A huge \"thank you\" to all of our readers -- newcomers, long-timers and drive-by critics ali...",
+            "published_utc": "2025-12-29T20:23:26+00:00"
         },
         {
             "source": "WIRED Security",
@@ -772,6 +793,13 @@
             "published_utc": "2025-12-20T00:34:28+00:00"
         },
         {
+            "source": "KrebsOnSecurity",
+            "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
+            "link": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
+            "summary": "The Trump administration has pursued a staggering range of policy pivots this past year that threaten to weaken the nation’s ability and willingness t...",
+            "published_utc": "2025-12-19T15:14:55+00:00"
+        },
+        {
             "source": "WIRED Security",
             "title": "ICE Seeks Cyber Upgrade to Better Surveil and Investigate Its Employees",
             "link": "https://www.wired.com/story/ice-seeks-cyber-upgrade-to-better-surveil-and-investigate-its-employees/",
@@ -805,6 +833,13 @@
             "link": "https://www.wired.com/story/microsoft-will-finally-kill-an-encryption-cipher-that-enabled-a-decade-of-windows-hacks/",
             "summary": "The weak RC4 for administrative authentication has been a hacker holy grail for decades.",
             "published_utc": "2025-12-17T10:30:00+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Most Parked Domains Now Serving Malicious Content",
+            "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
+            "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the ...",
+            "published_utc": "2025-12-16T14:14:48+00:00"
         },
         {
             "source": "WeLiveSecurity",
@@ -877,11 +912,25 @@
             "published_utc": "2025-12-10T15:03:51+00:00"
         },
         {
+            "source": "KrebsOnSecurity",
+            "title": "Microsoft Patch Tuesday, December 2025 Edition",
+            "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+            "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of ...",
+            "published_utc": "2025-12-09T23:18:29+00:00"
+        },
+        {
             "source": "WeLiveSecurity",
             "title": "The big catch: How whaling attacks target top executives",
             "link": "https://www.welivesecurity.com/en/business-security/big-catch-how-whaling-attacks-target-top-executives/",
             "summary": "Is your organization’s senior leadership vulnerable to a cyber-harpooning? Learn how to keep them safe.",
             "published_utc": "2025-12-09T10:00:00+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
+            "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+            "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin...",
+            "published_utc": "2025-12-06T14:45:03+00:00"
         },
         {
             "source": "WIRED Security",
@@ -903,6 +952,13 @@
             "link": "https://www.wired.com/story/signalgate-inspector-general-report-hegseth-change/",
             "summary": "The United States Inspector General report reviewing Secretary of Defense Pete Hegseth’s text messaging mess recommends a single change to keep classi...",
             "published_utc": "2025-12-05T00:02:32+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+            "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+            "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, ju...",
+            "published_utc": "2025-12-04T23:02:34+00:00"
         },
         {
             "source": "WIRED Security",
@@ -961,11 +1017,25 @@
             "published_utc": "2025-11-27T10:00:00+00:00"
         },
         {
+            "source": "KrebsOnSecurity",
+            "title": "Meet Rey, the Admin of ‘Scattered Lapsus$ Hunters’",
+            "link": "https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/",
+            "summary": "A prolific cybercriminal group that calls itself \"Scattered LAPSUS$ Hunters\" made headlines regularly this year by stealing data from and publicly mas...",
+            "published_utc": "2025-11-26T17:22:36+00:00"
+        },
+        {
             "source": "WeLiveSecurity",
             "title": "Influencers in the crosshairs: How cybercriminals are targeting content creators",
             "link": "https://www.welivesecurity.com/en/social-media/influencers-crosshairs-cybercriminals-targeting-content-creators/",
             "summary": "Social media influencers can provide reach and trust for scams and malware distribution. Robust account protection is key to stopping the fraudsters.",
             "published_utc": "2025-11-25T10:00:00+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Is Your Android TV Streaming Box Part of a Botnet?",
+            "link": "https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/",
+            "summary": "On the surface, the Superbox media streaming devices for sale at retailers like BestBuy and Walmart may seem like a steal: They offer unlimited access...",
+            "published_utc": "2025-11-24T18:44:52+00:00"
         },
         {
             "source": "WeLiveSecurity",
