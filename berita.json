@@ -1,6 +1,55 @@
 {
-    "lastUpdatedUTC": "2026-01-13T19:21:23.611935+00:00",
+    "lastUpdatedUTC": "2026-01-13T20:27:42.501464+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Belgian hospital AZ Monica shuts down servers after cyberattack",
+            "link": "https://www.bleepingcomputer.com/news/security/belgian-hospital-az-monica-shuts-down-servers-after-cyberattack/",
+            "summary": "Belgian hospital AZ Monica was forced to shut down all servers, cancel scheduled procedures, and transfer critical patients earlier today due to a cyb...",
+            "published_utc": "2026-01-13T20:27:22+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "This high-tech sippy cup at CES 2026 could prevent your kid from needing ear tubes",
+            "link": "https://www.zdnet.com/article/earflow-ces-2026/",
+            "summary": "Earflo is a medical device cleverly designed as a sippy cup - and early studies show it led to a nearly 90% reduction in the need for ear tube surgery...",
+            "published_utc": "2026-01-13T20:16:08+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "New Windows updates replace expiring Secure Boot certificates",
+            "link": "https://www.bleepingcomputer.com/news/security/microsoft-rolls-out-new-secure-boot-certificates-for-windows-devices/",
+            "summary": "Microsoft has started rolling out new Secure Boot certificates that will automatically install on eligible Windows 11 24H2 and 25H2 systems. [...]",
+            "published_utc": "2026-01-13T19:57:33+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Adobe Patches Critical Apache Tika Bug in ColdFusion",
+            "link": "https://www.securityweek.com/adobe-patches-critical-apache-tika-bug-in-coldfusion/",
+            "summary": "",
+            "published_utc": "2026-01-13T19:54:09+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Microsoft Patches Exploited Windows Zero-Day, 111 Other Vulnerabilities",
+            "link": "https://www.securityweek.com/microsoft-patches-exploited-windows-zero-day-111-other-vulnerabilities/",
+            "summary": "",
+            "published_utc": "2026-01-13T19:48:07+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I found the most useful parenting gadgets at CES 2026 - these are the ones I'd buy ASAP",
+            "link": "https://www.zdnet.com/article/most-exciting-parents-kids-tech-ces-2026/",
+            "summary": "From a real-time breastfeeding monitor to a robot that picks up toys, we've found some of the most interesting tech aimed at parents and children at CES.",
+            "published_utc": "2026-01-13T19:41:43+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "A 60-second demo of this MagSafe accessory had me entranced - now it's going viral",
+            "link": "https://www.zdnet.com/article/ohsnap-mcon-ces-2026/",
+            "summary": "The Mcon series by Ohsnap is a Bluetooth gaming controller that does more than just house your phone.",
+            "published_utc": "2026-01-13T19:30:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "The world's first breast milk monitor was a big hit for parents at CES 2026 - here's how it works",
@@ -198,27 +247,6 @@
             "published_utc": "2026-01-13T15:54:25+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Your Bose SoundTouch speaker will lose support in 2026 - but it has a lifeline now",
-            "link": "https://www.zdnet.com/article/bose-soundtouch-speaker-eol-open-source/",
-            "summary": "All companies should do this.",
-            "published_utc": "2026-01-13T15:54:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How to clear your iPad cache (and why it makes such a big difference)",
-            "link": "https://www.zdnet.com/article/how-to-clear-ipad-cache/",
-            "summary": "If your iPad feels slow, this 30-second routine can help speed it up and free up storage space.",
-            "published_utc": "2026-01-13T15:53:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Should you buy Google Pixel Buds Pro 2 in 2026? I invested in a pair, and don't regret it",
-            "link": "https://www.zdnet.com/article/google-pixel-buds-pro-2-review/",
-            "summary": "After giving up on my original Pixel Buds Pro, I rolled the dice on a pair of Pro 2 earbuds. I'm shocked at how much they've improved.",
-            "published_utc": "2026-01-13T15:51:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Convincing LinkedIn comment-reply tactic used in new phishing",
             "link": "https://www.bleepingcomputer.com/news/security/convincing-linkedin-comment-reply-tactic-used-in-new-phishing/",
@@ -255,8 +283,8 @@
         },
         {
             "source": "BleepingComputer",
-            "title": "Target employees confirm leaked code after 'accelerated' Git lockdown",
-            "link": "https://www.bleepingcomputer.com/news/security/target-employees-confirm-leaked-code-after-accelerated-git-lockdown/",
+            "title": "Target employees confirm leaked source code is authentic",
+            "link": "https://www.bleepingcomputer.com/news/security/target-employees-confirm-leaked-source-code-is-authentic/",
             "summary": "Multiple current and former Target employees confirmed that leaked source code samples posted by a threat actor match real internal systems. The compa...",
             "published_utc": "2026-01-13T13:08:25+00:00"
         },
@@ -401,20 +429,6 @@
             "published_utc": "2026-01-12T18:48:22+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "University of Hawaii Cancer Center hit by ransomware attack",
-            "link": "https://www.bleepingcomputer.com/news/security/university-of-hawaii-cancer-center-hit-by-ransomware-attack/",
-            "summary": "​University of Hawaii says a ransomware gang breached its Cancer Center in August 2025, stealing data of study participants, including documents from ...",
-            "published_utc": "2026-01-12T18:48:20+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Target's dev server offline after hackers claim to steal source code",
-            "link": "https://www.bleepingcomputer.com/news/security/targets-dev-server-offline-after-hackers-claim-to-steal-source-code/",
-            "summary": "Hackers are claiming to be selling internal source code belonging to Target Corporation, after publishing what appears to be a sample of stolen code r...",
-            "published_utc": "2026-01-12T17:52:10+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Palo Alto Networks Introduces New Vibe Coding Security Governance Framework",
             "link": "https://www.infosecurity-magazine.com/news/palo-alto-networks-vibe-coding/",
@@ -429,13 +443,6 @@
             "published_utc": "2026-01-12T16:45:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Apple confirms Google Gemini will power Siri, says privacy remains a priority",
-            "link": "https://www.bleepingcomputer.com/news/apple/apple-confirms-google-gemini-will-power-siri-says-privacy-remains-a-priority/",
-            "summary": "Apple and Google have confirmed that the next version of Siri will use Gemini and Google Cloud in a multi-year collaboration between the two tech gian...",
-            "published_utc": "2026-01-12T16:43:47+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "California Shuts Down Health Data Resales By Unregistered Brokers",
             "link": "https://www.infosecurity-magazine.com/news/california-shuts-health-data/",
@@ -443,25 +450,11 @@
             "published_utc": "2026-01-12T16:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Cyber Insights 2026: What CISOs Can Expect in 2026 and Beyond",
-            "link": "https://www.securityweek.com/cyber-insights-2026-what-cisos-can-expect-in-2026-and-beyond/",
-            "summary": "",
-            "published_utc": "2026-01-12T15:00:00+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Shai-Hulud & Co.: Die Supply Chain als Achillesferse",
             "link": "https://www.csoonline.com/article/4115440/shai-hulud-co-die-supply-chain-als-achillesferse.html",
             "summary": "",
             "published_utc": "2026-01-12T14:27:39+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Instagram Fixes Password Reset Vulnerability Amid User Data Leak",
-            "link": "https://www.securityweek.com/instagram-fixes-password-reset-vulnerability-amid-user-data-leak/",
-            "summary": "",
-            "published_utc": "2026-01-12T14:13:24+00:00"
         },
         {
             "source": "InfosecurityMag",
