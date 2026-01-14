@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-01-14T16:33:07.102867+00:00",
+    "lastUpdatedUTC": "2026-01-14T17:28:36.580517+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Investor Lawsuit Over CrowdStrike Outage Dismissed",
+            "link": "https://www.securityweek.com/investor-lawsuit-over-crowdstrike-outage-dismissed/",
+            "summary": "",
+            "published_utc": "2026-01-14T17:13:03+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Upcoming Speaking Engagements",
+            "link": "https://www.schneier.com/blog/archives/2026/01/upcoming-speaking-engagements-52.html",
+            "summary": "",
+            "published_utc": "2026-01-14T17:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft updates Windows DLL that triggered security alerts",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-updates-windows-dll-that-triggered-security-alerts/",
+            "summary": "Microsoft has resolved a known issue that was causing security applications to incorrectly flag a core Windows component, the company said in a servic...",
+            "published_utc": "2026-01-14T16:44:09+00:00"
+        },
         {
             "source": "InfosecurityMag",
             "title": "Criminal Subscription Service Behind AI-Powered Cyber-Attacks Taken Out By Microsoft",
@@ -129,7 +150,7 @@
         },
         {
             "source": "BleepingComputer",
-            "title": "Reprompt attack let hackers hijack Microsoft Copilot sessions",
+            "title": "Reprompt attack hijacked Microsoft Copilot sessions for data theft",
             "link": "https://www.bleepingcomputer.com/news/security/reprompt-attack-let-hackers-hijack-microsoft-copilot-sessions/",
             "summary": "Researchers identified an attack method dubbed \"Reprompt\" that could allow attackers to infiltrate a user's Microsoft Copilot session and issue comman...",
             "published_utc": "2026-01-14T14:00:00+00:00"
@@ -408,25 +429,11 @@
             "published_utc": "2026-01-13T19:57:33+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Adobe Patches Critical Apache Tika Bug in ColdFusion",
-            "link": "https://www.securityweek.com/adobe-patches-critical-apache-tika-bug-in-coldfusion/",
-            "summary": "",
-            "published_utc": "2026-01-13T19:54:09+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Microsoft releases Windows 10 KB5073724 extended security update",
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5073724-extended-security-update/",
             "summary": "Microsoft has released the KB5073724 extended security update to fix the Patch Tuesday security updates, including 3 zero-days and a fix for expiring ...",
             "published_utc": "2026-01-13T18:56:21+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Windows 11 KB5074109 & KB5073455 cumulative updates released",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5074109-and-kb5073455-cumulative-updates-released/",
-            "summary": "Microsoft has released Windows 11 KB5074109 and KB5073455  cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, a...",
-            "published_utc": "2026-01-13T18:53:24+00:00"
         },
         {
             "source": "WIRED Security",
@@ -721,13 +728,6 @@
             "link": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
             "summary": "The story you are reading is a series of scoops nestled inside a far more urgent Internet-wide security advisory. The vulnerability at issue has been ...",
             "published_utc": "2026-01-02T14:20:10+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Flock Exposes Its AI-Enabled Surveillance Cameras",
-            "link": "https://www.schneier.com/blog/archives/2026/01/flock-exposes-its-ai-enabled-surveillance-cameras.html",
-            "summary": "",
-            "published_utc": "2026-01-02T12:05:24+00:00"
         },
         {
             "source": "WIRED Security",
