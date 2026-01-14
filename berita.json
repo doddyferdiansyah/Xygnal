@@ -1,6 +1,34 @@
 {
-    "lastUpdatedUTC": "2026-01-14T01:55:35.774087+00:00",
+    "lastUpdatedUTC": "2026-01-14T03:50:52.749868+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "Is ChatGPT Plus worth your $20? How it compares to Free and Pro plans",
+            "link": "https://www.zdnet.com/article/is-chatgpt-plus-worth-it-free-and-pro-plans-compared/",
+            "summary": "Let's break down ChatGPT's plans to see if a subscription is worth it - especially since the free tier has so much.",
+            "published_utc": "2026-01-14T03:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I watched a live NBA game on Apple Vision Pro for 3 hours - it let me down in the best way",
+            "link": "https://www.zdnet.com/article/apple-vision-pro-nba-lakers-immersive-hands-on/",
+            "summary": "All the basketball action, none of the sweat, spilled beers, and gruesome ad breaks.",
+            "published_utc": "2026-01-14T02:51:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I finally found a pair of smart glasses that last all day, but there's a trade-off",
+            "link": "https://www.zdnet.com/article/solos-airgo-a5-ai-smart-glasses-review/",
+            "summary": "The Solos AirGo A5 AI smart glasses drop camera support for more battery life than the competitors.",
+            "published_utc": "2026-01-14T02:15:43+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Deploying AI agents is not your typical software launch - 7 lessons from the trenches",
+            "link": "https://www.zdnet.com/article/deploying-ai-agents-7-lessons-from-trenches-experts/",
+            "summary": "Top-level actions include giving agents the right amount of freedom and rethinking traditional ROI. Industry leaders share their own experiences.",
+            "published_utc": "2026-01-14T02:00:40+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "January 2026 Microsoft Patch Tuesday: Actively exploited zero day needs attention",
@@ -80,7 +108,7 @@
         },
         {
             "source": "ZDNet Security",
-            "title": "What's the deal with Physical AI? Why the next frontier of tech is already all around you",
+            "title": "What's the deal with physical AI? Why the next frontier of tech is already all around you",
             "link": "https://www.zdnet.com/article/what-is-physical-ai-ces/",
             "summary": "I spoke with Qualcomm at CES to learn more about what the buzzword means, how it applies to you, and what a physical AI future might look like.",
             "published_utc": "2026-01-13T21:41:00+00:00"
@@ -184,20 +212,6 @@
             "published_utc": "2026-01-13T19:13:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Always dropping your phone? This device makes it nearly impossible to fumble",
-            "link": "https://www.zdnet.com/article/keybak-ratch-it-review/",
-            "summary": "Rugged phone cases may protect your phone from falls, but this device keeps it tethered to prevent drops in the first place.",
-            "published_utc": "2026-01-13T19:01:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I tried Asus' new dual-screen ZenBook, and it might just be my new laptop for work travel",
-            "link": "https://www.zdnet.com/article/asus-zenbook-duo-dual-screen-laptop-ces/",
-            "summary": "The Asus ZenBook Duo (2026) is everything I wanted from the previous-gen model, earning it a Best of CES award for 2026.",
-            "published_utc": "2026-01-13T18:57:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Microsoft releases Windows 10 KB5073724 extended security update",
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5073724-extended-security-update/",
@@ -210,20 +224,6 @@
             "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5074109-and-kb5073455-cumulative-updates-released/",
             "summary": "Microsoft has released Windows 11 KB5074109 and KB5073455  cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, a...",
             "published_utc": "2026-01-13T18:53:24+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "This USB-C cable has a magnetic charging feature that makes it irreplaceable for me",
-            "link": "https://www.zdnet.com/article/statik-360-pro-usb-cable-review/",
-            "summary": "Statik's magnetic charging cable has breakaway type C, micro USB, Apple, and type A connectors in one.",
-            "published_utc": "2026-01-13T18:50:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I tested this pair of $40 headphones and refuse to believe they sound this good",
-            "link": "https://www.zdnet.com/article/haylou-s40-headphones-review/",
-            "summary": "Budget-friendly headphones are a dime a dozen, so what makes the Haylou S40s worthy of buying?",
-            "published_utc": "2026-01-13T18:47:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -275,20 +275,6 @@
             "published_utc": "2026-01-13T16:45:19+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "CISA Flags Actively Exploited Gogs Vulnerability With No Patch",
-            "link": "https://www.infosecurity-magazine.com/news/cisa-flags-exploited-gogs-flaw-no/",
-            "summary": "A high-severity security flaw in the Gogs Git service is being actively exploited, leading to remote code execution",
-            "published_utc": "2026-01-13T16:45:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "SHADOW#REACTOR Campaign Uses Text-Only Staging to Deploy Remcos RAT",
-            "link": "https://www.infosecurity-magazine.com/news/shadowreactor-text-staging-remcos/",
-            "summary": "SHADOW#REACTOR is a multi-stage Windows malware campaign that stealthily deploys the Remcos RAT using complex infection techniques",
-            "published_utc": "2026-01-13T16:00:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Convincing LinkedIn comment-reply tactic used in new phishing",
             "link": "https://www.bleepingcomputer.com/news/security/convincing-linkedin-comment-reply-tactic-used-in-new-phishing/",
@@ -301,20 +287,6 @@
             "link": "https://www.csoonline.com/article/4116135/ransomware-banden-erpressen-opfer-mit-compliance-verstosen.html",
             "summary": "",
             "published_utc": "2026-01-13T14:51:30+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Phishing Scams Exploit Browser-in-the-Browser Attacks to Steal Facebook Passwords",
-            "link": "https://www.infosecurity-magazine.com/news/phishing-scams-exploit-browser/",
-            "summary": "Cybersecurity researchers issue warning over a surge in attacks designed to trick Facebook users into handing over login credentials",
-            "published_utc": "2026-01-13T14:40:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "New Chinese-Made Malware Framework Targets Linux-Based Cloud Environments",
-            "link": "https://www.infosecurity-magazine.com/news/chinese-malware-framework-linux/",
-            "summary": "Detected by Check Point researchers, VoidLink is a sophisticated malware framework that can be used to implant malware in the most common cloud enviro...",
-            "published_utc": "2026-01-13T14:31:00+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -359,25 +331,11 @@
             "published_utc": "2026-01-13T11:50:23+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "Parliament Asks Security Pros to Shape Cyber Security and Resilience Bill",
-            "link": "https://www.infosecurity-magazine.com/news/parliament-security-pros-cyber/",
-            "summary": "Lawmakers want the security industry to help them scrutinize the Cyber Security and Resilience Bill",
-            "published_utc": "2026-01-13T11:30:00+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "For application security: SCA, SAST, DAST and MAST. What next?",
             "link": "https://www.csoonline.com/article/4115679/for-application-security-sca-sast-dast-and-mast-what-next.html",
             "summary": "",
             "published_utc": "2026-01-13T11:15:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Global Magecart Campaign Targets Six Card Networks",
-            "link": "https://www.infosecurity-magazine.com/news/global-magecart-campaign-six-card/",
-            "summary": "Silent Push has discovered a new Magecart campaign targeting six major payment network providers that has been running since 2022",
-            "published_utc": "2026-01-13T11:00:00+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -392,6 +350,13 @@
             "link": "https://www.wired.com/story/what-to-do-if-ice-invades-your-neighborhood/",
             "summary": "With federal agents storming the streets of American communities, there’s no single right way to approach this dangerous moment. But there are steps y...",
             "published_utc": "2026-01-13T10:30:00+00:00"
+        },
+        {
+            "source": "WeLiveSecurity",
+            "title": "Your personal information is on the dark web. What happens next?",
+            "link": "https://www.welivesecurity.com/en/privacy/information-dark-web-what-happens-next/",
+            "summary": "If your data is on the dark web, it’s probably only a matter of time before it’s abused for fraud or account hijacking. Here’s what to do.",
+            "published_utc": "2026-01-13T10:00:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -443,39 +408,11 @@
             "published_utc": "2026-01-12T18:48:22+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "Palo Alto Networks Introduces New Vibe Coding Security Governance Framework",
-            "link": "https://www.infosecurity-magazine.com/news/palo-alto-networks-vibe-coding/",
-            "summary": "Researchers at Palo Alto’s Unit 42 have outlined a list of recommended security controls for vibe coding tools",
-            "published_utc": "2026-01-12T17:15:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "CISA Closes Ten Emergency Directives After Federal Cyber Reviews",
-            "link": "https://www.infosecurity-magazine.com/news/cisa-closes-ten-emergency/",
-            "summary": "US agency CISA has retired ten Emergency Directives issued between 2019 and 2024, marking a new step in managing federal cyber-risk",
-            "published_utc": "2026-01-12T16:45:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "California Shuts Down Health Data Resales By Unregistered Brokers",
-            "link": "https://www.infosecurity-magazine.com/news/california-shuts-health-data/",
-            "summary": "California privacy regulator, the CPPA, is cracking down on data brokers trading personal data without authorization",
-            "published_utc": "2026-01-12T16:00:00+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Shai-Hulud & Co.: Die Supply Chain als Achillesferse",
             "link": "https://www.csoonline.com/article/4115440/shai-hulud-co-die-supply-chain-als-achillesferse.html",
             "summary": "",
             "published_utc": "2026-01-12T14:27:39+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "World Economic Forum: Cyber-fraud overtakes ransomware as business leaders' top cyber-security concern",
-            "link": "https://www.infosecurity-magazine.com/news/fraud-overtakes-ransomware-as-top/",
-            "summary": "“Pervasive” threat of phishing, invoice scams and other cyber-enabled fraud is at “record highs”, warns WEF Cybersecurity Outlook 2026",
-            "published_utc": "2026-01-12T14:10:00+00:00"
         },
         {
             "source": "Schneier",
@@ -492,25 +429,11 @@
             "published_utc": "2026-01-12T11:48:36+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "Illicit Crypto Activity Hits Record $158bn in 2025",
-            "link": "https://www.infosecurity-magazine.com/news/illicit-crypto-activity-record/",
-            "summary": "TRM Labs says illegal crypto flows into digital wallets increased to $158bn in 2025",
-            "published_utc": "2026-01-12T10:15:00+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Iran-linked MuddyWater APT deploys Rust-based implant in latest campaign",
             "link": "https://www.csoonline.com/article/4115379/iran-linked-muddywater-apt-deploys-rust-based-implant-in-latest-campaign.html",
             "summary": "",
             "published_utc": "2026-01-12T09:52:09+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "BreachForums Database Leak Turns the Tables on Threat Actors",
-            "link": "https://www.infosecurity-magazine.com/news/breachforums-database-leak/",
-            "summary": "A database featuring 300,000+ users of notorious hacking forum BreachForums has been leaked online",
-            "published_utc": "2026-01-12T09:30:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -1505,13 +1428,6 @@
             "link": "https://www.welivesecurity.com/en/eset-research/danabot-analyzing-fallen-empire/",
             "summary": "ESET Research shares its findings on the workings of Danabot, an infostealer recently disrupted in a multinational law enforcement operation",
             "published_utc": "2025-05-22T20:03:14+00:00"
-        },
-        {
-            "source": "WeLiveSecurity",
-            "title": "Lumma Stealer: Down for the count",
-            "link": "https://www.welivesecurity.com/en/videos/lumma-stealer-disruption/",
-            "summary": "The bustling cybercrime enterprise has been dealt a significant blow in a global operation that relied on the expertise of ESET and other technology c...",
-            "published_utc": "2025-05-22T14:53:19+00:00"
         },
         {
             "source": "NVD (NIST)",
