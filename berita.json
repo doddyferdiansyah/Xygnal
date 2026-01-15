@@ -1,6 +1,69 @@
 {
-    "lastUpdatedUTC": "2026-01-15T14:26:48.764213+00:00",
+    "lastUpdatedUTC": "2026-01-15T15:27:56.846183+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "How we test phones at ZDNET in 2026",
+            "link": "https://www.zdnet.com/article/how-we-test-phones/",
+            "summary": "From battery tests to capturing photos in various lighting conditions, here's how ZDNET's mobile team evaluates the latest handsets before they're rec...",
+            "published_utc": "2026-01-15T15:20:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Spotify is raising prices again - but these alternatives will cost you less",
+            "link": "https://www.zdnet.com/article/spotify-price-increase/",
+            "summary": "Premium, Student, Duo, and Family users are about to pay more.",
+            "published_utc": "2026-01-15T15:13:26+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "How to automate just-in-time access to applications with Tines",
+            "link": "https://www.bleepingcomputer.com/news/security/how-to-automate-just-in-time-access-to-applications-with-tines/",
+            "summary": "Managing just-in-time access at scale is a growing IAM challenge as speed and auditability collide daily. Tines shows how automated workflows can gran...",
+            "published_utc": "2026-01-15T15:01:10+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "CodeBuild Flaw Put AWS Console Supply Chain At Risk",
+            "link": "https://www.infosecurity-magazine.com/news/codebuild-flaw-aws-console-risk/",
+            "summary": "A critical AWS CodeBuild misconfiguration has exposed core repositories to potential attack",
+            "published_utc": "2026-01-15T15:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Cyber Threat Actors Ramp Up Attacks on Industrial Environments",
+            "link": "https://www.infosecurity-magazine.com/news/cyber-threat-actors-ramp-up-ics/",
+            "summary": "Hacktivists and cybercriminals have intensified their efforts to exploit vulnerabilities in industrial systems, according to a Cyble report",
+            "published_utc": "2026-01-15T15:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Your Windows PC needs this patch to ward off nasty bootkit malware - update now",
+            "link": "https://www.zdnet.com/article/windows-patch-turesday-update-bootkit/",
+            "summary": "The January Patch Tuesday updates for Windows refresh the expiring certificates for Secure Boot, which protects your computer against bootkit malware.",
+            "published_utc": "2026-01-15T14:47:53+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Is AI's war on busywork a creativity killer? What the experts say",
+            "link": "https://www.zdnet.com/article/ai-could-eliminate-boredom-value-busy-work/",
+            "summary": "Tech companies are promising to automate mundane, time-consuming tasks. But these are often the gateway to moments of spontaneous inspiration.",
+            "published_utc": "2026-01-15T14:42:11+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "What does a blue USB port mean? I learned the truth behind all the colors, and it's wild",
+            "link": "https://www.zdnet.com/article/every-usb-port-color-explained/",
+            "summary": "Look closely - the colors on your USB ports reveal a lot about what they can do.",
+            "published_utc": "2026-01-15T14:37:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I tried the 'infinitely modular' keyboard, and it could rewire productivity for good",
+            "link": "https://www.zdnet.com/article/naya-connect-product-launch/",
+            "summary": "Naya went to Kickstarter to fund its second product launch - a modular keyboard that connects with its module lineup.",
+            "published_utc": "2026-01-15T14:29:00+00:00"
+        },
         {
             "source": "InfosecurityMag",
             "title": "CISO Role Reaches “Inflexion Point” With Executive-Level Titles",
@@ -254,20 +317,6 @@
             "published_utc": "2026-01-15T06:45:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "How to turn your Roku TV into a Frame-like TV today - for free",
-            "link": "https://www.zdnet.com/article/turn-roku-tv-into-frame-tv-art-free/",
-            "summary": "Love the look of Samsung's Frame TV? You can easily recreate that art gallery effect on your Roku TV. Here's how.",
-            "published_utc": "2026-01-15T04:00:43+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "This handheld e-reader has effectively replaced my Kindle, and I can't argue with the price",
-            "link": "https://www.zdnet.com/article/durobo-krono-review-e-reader-tablet-hands-on/",
-            "summary": "Just in time for CES 2026, the DuRobo Krono is officially available for sale.",
-            "published_utc": "2026-01-15T03:00:46+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "ChatGPT's upcoming cross-platform feature is codenamed \"Agora\"",
             "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-upcoming-cross-platform-feature-is-codenamed-agora/",
@@ -280,13 +329,6 @@
             "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-plans-to-make-chrome-for-android-an-agentic-browser-with-gemini/",
             "summary": "Google appears to be testing a new feature that integrates Gemini into Chrome for Android, allowing you to use agentic browser capabilities on your mo...",
             "published_utc": "2026-01-15T01:30:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Are AI health coach subscriptions a scam? My verdict after testing Fitbit's for a month",
-            "link": "https://www.zdnet.com/article/fitbit-premium-ai-review/",
-            "summary": "Is Fitbit Premium, and its Gemini smarts, enough to justify its price? Here's my buying advice.",
-            "published_utc": "2026-01-15T01:06:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -315,27 +357,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/south-korean-giant-kyowon-confirms-data-theft-in-ransomware-attack/",
             "summary": "The Kyowon Group (Kyowon), a South Korean conglomerate, disclosed that a cyberattack has disrupted its operations and customer information may have be...",
             "published_utc": "2026-01-14T21:49:50+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "7 deprecated Linux commands you need to stop using - and what to use instead",
-            "link": "https://www.zdnet.com/article/linux-commands-deprecated-why-do-not-use/",
-            "summary": "Certain Linux commands are no longer maintained for a number of reasons - including security vulnerabilities. Here's the list.",
-            "published_utc": "2026-01-14T21:32:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I compared Verizon, T-Mobile, and AT&T 5G coverage on a road trip - and the winner surprised me",
-            "link": "https://www.zdnet.com/article/verizon-tmobile-att-5g-coverage-compared-road-trip-review/",
-            "summary": "Between the three biggest mobile carriers in the US, here's which one delivers the best (and most consistent) network signal.",
-            "published_utc": "2026-01-14T20:36:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "This cheap pair of headphones has no business sounding this good for the price",
-            "link": "https://www.zdnet.com/article/haylou-s40-headphones-review/",
-            "summary": "Budget-friendly headphones are a dime a dozen, so what makes the Haylou S40s worthy of buying? Here's my verdict.",
-            "published_utc": "2026-01-14T20:32:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -436,13 +457,6 @@
             "published_utc": "2026-01-14T15:59:20+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "ConsentFix debrief: Insights from the new OAuth phishing attack",
-            "link": "https://www.bleepingcomputer.com/news/security/consentfix-debrief-insights-from-the-new-oauth-phishing-attack/",
-            "summary": "ConsentFix is an OAuth phishing technique abusing browser-based authorization flows to hijack Microsoft accounts. Push Security shares new insights fr...",
-            "published_utc": "2026-01-14T15:01:11+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "RedVDS Cybercrime Service Disrupted by Microsoft and Law Enforcement",
             "link": "https://www.securityweek.com/redvds-cybercrime-service-disrupted-by-microsoft-and-law-enforcement/",
@@ -455,13 +469,6 @@
             "link": "https://www.infosecurity-magazine.com/news/deadlock-polygon-smart-contracts/",
             "summary": "A new DeadLock ransomware operation uses Polygon blockchain smart contracts to manage proxy server addresses",
             "published_utc": "2026-01-14T14:20:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Reprompt attack hijacked Microsoft Copilot sessions for data theft",
-            "link": "https://www.bleepingcomputer.com/news/security/reprompt-attack-let-hackers-hijack-microsoft-copilot-sessions/",
-            "summary": "Researchers identified an attack method dubbed \"Reprompt\" that could allow attackers to infiltrate a user's Microsoft Copilot session and issue comman...",
-            "published_utc": "2026-01-14T14:00:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -583,25 +590,11 @@
             "published_utc": "2026-01-13T16:45:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "SHADOW#REACTOR Campaign Uses Text-Only Staging to Deploy Remcos RAT",
-            "link": "https://www.infosecurity-magazine.com/news/shadowreactor-text-staging-remcos/",
-            "summary": "SHADOW#REACTOR is a multi-stage Windows malware campaign that stealthily deploys the Remcos RAT using complex infection techniques",
-            "published_utc": "2026-01-13T16:00:00+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Ransomware-Banden erpressen Opfer mit Compliance-Verstößen",
             "link": "https://www.csoonline.com/article/4116135/ransomware-banden-erpressen-opfer-mit-compliance-verstosen.html",
             "summary": "",
             "published_utc": "2026-01-13T14:51:30+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Phishing Scams Exploit Browser-in-the-Browser Attacks to Steal Facebook Passwords",
-            "link": "https://www.infosecurity-magazine.com/news/phishing-scams-exploit-browser/",
-            "summary": "Cybersecurity researchers issue warning over a surge in attacks designed to trick Facebook users into handing over login credentials",
-            "published_utc": "2026-01-13T14:40:00+00:00"
         },
         {
             "source": "Schneier",
