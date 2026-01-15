@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-01-15T19:25:59.514830+00:00",
+    "lastUpdatedUTC": "2026-01-15T20:27:50.895082+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "Your Bluetooth headphones could be vulnerable to attack - here's what to do next",
+            "link": "https://www.zdnet.com/article/whisperpair-vulnerability-google-fast-pair-bluetooth-attack-audio-devices/",
+            "summary": "Google Fast Pair offers the convenience of one-click accessory pairing, but its improper implementation has created a new security risk. See if your d...",
+            "published_utc": "2026-01-15T20:22:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Verizon blames nationwide outage on a \"software issue\"",
+            "link": "https://www.bleepingcomputer.com/news/mobile/verizon-blames-nationwide-outage-on-a-software-issue/",
+            "summary": "Verizon has confirmed that yesterday's nationwide wireless outage was caused by a software issue, though the company has not shared additional details...",
+            "published_utc": "2026-01-15T20:13:54+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "Elon Musk’s Grok ‘Undressing’ Problem Isn’t Fixed",
+            "link": "https://www.wired.com/story/elon-musks-grok-undressing-problem-isnt-fixed/",
+            "summary": "X has placed more restrictions on Grok’s ability to generate explicit AI images, but tests show that the updates have created a patchwork of limitatio...",
+            "published_utc": "2026-01-15T19:30:14+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Microsoft Copilot Studio extension for VS Code now publicly available",
@@ -189,13 +210,6 @@
             "link": "https://www.zdnet.com/article/how-to-use-chatgpt-translate-vs-google-translate-alternative/",
             "summary": "ChatGPT Translate is a separate tool. It's not multimodal yet, but it does let you refine clarity, tone, and intent. Here's how.",
             "published_utc": "2026-01-15T15:41:05+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How this one-click Copilot attack bypassed security controls - and what Microsoft did about it",
-            "link": "https://www.zdnet.com/article/copilot-steal-data-reprompt-vulnerability/",
-            "summary": "Reprompt let attackers control Copilot and pull your data, even after you closed the chat.",
-            "published_utc": "2026-01-15T15:36:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -938,13 +952,6 @@
             "link": "https://www.welivesecurity.com/en/eset-research/eset-threat-report-h2-2025/",
             "summary": "A view of the H2 2025 threat landscape as seen by ESET telemetry and from the perspective of ESET threat detection and research experts",
             "published_utc": "2025-12-16T09:50:45+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "AI Toys for Kids Talk About Sex, Drugs, and Chinese Propaganda",
-            "link": "https://www.wired.com/story/security-news-this-week-ai-toys-for-kids-talk-about-sex-drugs-and-chinese-propaganda/",
-            "summary": "Plus: Travelers to the US may have to hand over five years of social media history, South Korean CEOs are resigning due to cyberattacks, and more.",
-            "published_utc": "2025-12-13T11:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
