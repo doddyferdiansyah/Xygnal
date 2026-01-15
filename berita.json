@@ -1,6 +1,20 @@
 {
-    "lastUpdatedUTC": "2026-01-15T22:23:59.336662+00:00",
+    "lastUpdatedUTC": "2026-01-15T23:23:26.531873+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Gootloader now uses 1,000-part ZIP archives for stealthy delivery",
+            "link": "https://www.bleepingcomputer.com/news/security/gootloader-now-uses-1-000-part-zip-archives-for-stealthy-delivery/",
+            "summary": "The Gootloader malware, typically used for initial access, is now using a malformed ZIP archive designed to evade detection by concatenating up to 1,0...",
+            "published_utc": "2026-01-15T22:54:34+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Possible software supply chain attack through AWS CodeBuild service blunted",
+            "link": "https://www.csoonline.com/article/4117692/possible-software-supply-chain-attack-through-aws-codebuild-service-blunted-2.html",
+            "summary": "",
+            "published_utc": "2026-01-15T22:27:18+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Verizon customer? How to get your free $20 refund after Wednesday's massive network outage",
@@ -436,13 +450,6 @@
             "published_utc": "2026-01-15T00:00:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "OpenAI's hidden ChatGPT Translate tool takes on Google Translate",
-            "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-hidden-chatgpt-translate-tool-takes-on-google-translate/",
-            "summary": "OpenAI has quietly rolled out a new ChatGPT feature called ChatGPT Translate, and it looks very similar to Google Translate on the web. [...]",
-            "published_utc": "2026-01-14T22:52:16+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Output from vibe coding tools prone to critical security flaws, study finds",
             "link": "https://www.csoonline.com/article/4116923/output-from-vibe-coding-tools-prone-to-critical-security-flaws-study-finds.html",
@@ -595,13 +602,6 @@
             "link": "https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/",
             "summary": "Microsoft today issued patches to plug at least 113 security holes in its various Windows operating systems and supported software. Eight of the vulne...",
             "published_utc": "2026-01-14T00:47:38+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Cybersecurity risk will accelerate this year, fueled in part by AI, says World Economic Forum",
-            "link": "https://www.csoonline.com/article/4116270/cybersecurity-risk-will-accelerate-this-year-fueled-in-part-by-ai-says-world-economic-forum.html",
-            "summary": "",
-            "published_utc": "2026-01-13T20:52:08+00:00"
         },
         {
             "source": "WIRED Security",
