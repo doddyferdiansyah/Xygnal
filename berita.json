@@ -1,6 +1,55 @@
 {
-    "lastUpdatedUTC": "2026-01-15T23:23:26.531873+00:00",
+    "lastUpdatedUTC": "2026-01-16T01:52:40.326242+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "iPhone 17 vs. iPhone 17 Pro: I didn't expect one camera spec to make such a big difference",
+            "link": "https://www.zdnet.com/article/iphone-17-vs-iphone-17-pro-camera-analysis/",
+            "summary": "Between two of the best iPhones on the market right now, it all comes down to perspective.",
+            "published_utc": "2026-01-16T01:00:37+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The latest EndeavorOS release just solved one of my biggest frustrations with Arch Linux",
+            "link": "https://www.zdnet.com/article/endeavoros-offers-a-new-release-with-a-beautiful-look-and-a-game-changing-feature/",
+            "summary": "Ganymede is fast, beautiful, stable, and relatively simple to use.",
+            "published_utc": "2026-01-16T00:37:53+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Google now lets you change your @gmail.com address, rolling out",
+            "link": "https://www.bleepingcomputer.com/news/technology/google-now-lets-you-change-your-gmailcom-address-rolling-out/",
+            "summary": "Google has confirmed that it's now possible to change your @gmail.com address. This means that if your current email is xyz@gmail.com, you can now cha...",
+            "published_utc": "2026-01-16T00:36:10+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Your Bluetooth headphones may be at risk of being hacked - here's how to stay protected",
+            "link": "https://www.zdnet.com/article/whisperpair-vulnerability-google-fast-pair-bluetooth-attack/",
+            "summary": "Google Fast Pair offers the convenience of one-click accessory pairing, but its improper implementation has created a new security risk.",
+            "published_utc": "2026-01-16T00:30:32+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Palo Alto Networks patches firewalls after discovery of a new denial-of-service flaw",
+            "link": "https://www.csoonline.com/article/4117730/palo-alto-networks-patches-firewalls-after-discovery-of-a-new-denial-of-service-flaw-2.html",
+            "summary": "",
+            "published_utc": "2026-01-16T00:22:31+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "ChatGPT is now more reliable at finding and remembering your past chat",
+            "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-now-more-reliable-at-finding-and-remembering-your-past-chat/",
+            "summary": "OpenAI is rolling out a big upgrade for ChatGPT with support for advanced chat history search, but the feature is rolling out to Plus and Pro subscrib...",
+            "published_utc": "2026-01-16T00:14:44+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "This snap-on iPhone accessory makes charging cables and cords a thing of the past",
+            "link": "https://www.zdnet.com/article/statiks-snap-charge-power-bank-review/",
+            "summary": "Statik's Snap-n-Charge is a charger that connects to your phone without the need for cords or cables.",
+            "published_utc": "2026-01-16T00:00:32+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Gootloader now uses 1,000-part ZIP archives for stealthy delivery",
@@ -49,13 +98,6 @@
             "link": "https://www.zdnet.com/article/how-to-clear-your-iphone-cache/",
             "summary": "If your iPhone is feeling sluggish, follow this quick routine to boost its speed and free up space - here's how.",
             "published_utc": "2026-01-15T20:39:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Your Bluetooth headphones could be vulnerable to attack - here's what to do next",
-            "link": "https://www.zdnet.com/article/whisperpair-vulnerability-google-fast-pair-bluetooth-attack-audio-devices/",
-            "summary": "Google Fast Pair offers the convenience of one-click accessory pairing, but its improper implementation has created a new security risk. See if your d...",
-            "published_utc": "2026-01-15T20:22:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -212,32 +254,11 @@
             "published_utc": "2026-01-15T16:15:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I compared the best soundbars from Samsung and Sonos, and here's my preference",
-            "link": "https://www.zdnet.com/article/samsung-hw0q990f-vs-sonos-arc-ultra-soundbar/",
-            "summary": "Upgrading your home theater with one of the best soundbars isn't a decision you make on the fly. Here's what you should know first.",
-            "published_utc": "2026-01-15T16:14:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Critical flaw lets hackers track, eavesdrop via Bluetooth audio devices",
             "link": "https://www.bleepingcomputer.com/news/security/critical-flaw-lets-hackers-track-eavesdrop-via-bluetooth-audio-devices/",
             "summary": "A critical vulnerability in Google's Fast Pair protocol can allow attackers to hijack Bluetooth audio accessories like wireless headphones and earbuds...",
             "published_utc": "2026-01-15T16:13:54+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I thought wireless charging pads were unnecessary - this leather one changed my mind",
-            "link": "https://www.zdnet.com/article/twelve-south-valet-charger-review/",
-            "summary": "Twelve South's Valet offers Qi2 wireless charging in a sophisticated, genuine leather design.",
-            "published_utc": "2026-01-15T15:56:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Opera just gave me 5 compelling reasons to ditch Chrome and Safari for good",
-            "link": "https://www.zdnet.com/article/opera-one-new-features/",
-            "summary": "Existing (and new) users will be thrilled to know that Opera One is about to unleash some features that help you be more organized and focused.",
-            "published_utc": "2026-01-15T15:55:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -429,25 +450,11 @@
             "published_utc": "2026-01-15T03:00:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Google plans to make Chrome for Android an agentic browser with Gemini",
-            "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-plans-to-make-chrome-for-android-an-agentic-browser-with-gemini/",
-            "summary": "Google appears to be testing a new feature that integrates Gemini into Chrome for Android, allowing you to use agentic browser capabilities on your mo...",
-            "published_utc": "2026-01-15T01:30:00+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Sophisticated VoidLink malware framework targets Linux cloud servers",
             "link": "https://www.csoonline.com/article/4117038/sophisticated-voidlink-malware-framework-targets-linux-cloud-servers.html",
             "summary": "",
             "published_utc": "2026-01-15T00:18:37+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Google's Personal Intelligence links Gmail, Photos and Search to Gemini",
-            "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/googles-personal-intelligence-links-gmail-photos-and-search-to-gemini/",
-            "summary": "Google is rolling out 'Personal Intelligence,' a new Gemini feature that pulls your data from Gmail, Photos, Google Search, and other products. [...]",
-            "published_utc": "2026-01-15T00:00:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -588,13 +595,6 @@
             "link": "https://www.csoonline.com/article/3495619/security-kpis-und-kris-so-messen-sie-cybersicherheit.html",
             "summary": "",
             "published_utc": "2026-01-14T04:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "January 2026 Microsoft Patch Tuesday: Actively exploited zero day needs attention",
-            "link": "https://www.csoonline.com/article/4116437/january-2026-microsoft-patch-tuesday-actively-exploited-zero-day-needs-attention.html",
-            "summary": "",
-            "published_utc": "2026-01-14T01:50:49+00:00"
         },
         {
             "source": "KrebsOnSecurity",
