@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-01-16T08:32:42.906029+00:00",
+    "lastUpdatedUTC": "2026-01-16T09:28:41.257134+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Cisco finally fixes AsyncOS zero-day exploited since November",
+            "link": "https://www.bleepingcomputer.com/news/security/cisco-finally-fixes-asyncos-zero-day-exploited-since-november/",
+            "summary": "​Cisco finally patched a maximum-severity AsyncOS zero-day exploited in attacks targeting Secure Email Gateway (SEG) appliances since November 2025. [...",
+            "published_utc": "2026-01-16T09:20:58+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "RondoDox Botnet Targets HPE OneView Vulnerability in Exploitation Wave",
+            "link": "https://www.infosecurity-magazine.com/news/rondodox-botnet-targets-hpe/",
+            "summary": "Check Point Research has reported a surge in attacks on a vulnerability in HPE OneView, driven by the Linux-based RondoDox botnet",
+            "published_utc": "2026-01-16T09:15:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft: Some Windows PCs fail to shut down after January update",
+            "link": "https://www.bleepingcomputer.com/news/security/microsoft-some-windows-pcs-fail-to-shut-down-after-january-update/",
+            "summary": "Microsoft has confirmed a new issue that prevents Windows 11 23H2 devices with System Guard Secure Launch enabled from shutting down. [...]",
+            "published_utc": "2026-01-16T08:35:38+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Former CISA Director Jen Easterly Appointed CEO of RSAC",
@@ -443,13 +464,6 @@
             "published_utc": "2026-01-15T07:44:59+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Microsoft disrupts massive RedVDS cybercrime virtual desktop service",
-            "link": "https://www.bleepingcomputer.com/news/security/microsoft-seizes-servers-disrupts-massive-redvds-cybercrime-platform/",
-            "summary": "Microsoft announced on Wednesday that it disrupted RedVDS, a massive cybercrime platform linked to at least $40 million in reported losses in the Unit...",
-            "published_utc": "2026-01-15T07:11:45+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "What is AI fuzzing? And what tools, threats and challenges generative AI brings",
             "link": "https://www.csoonline.com/article/567053/what-is-ai-fuzzing-and-why-it-may-be-the-next-big-cybersecurity-threat.html",
@@ -462,13 +476,6 @@
             "link": "https://www.csoonline.com/article/4116976/ransomware-gangs-blackmail-victims-with-compliance-violations.html",
             "summary": "",
             "published_utc": "2026-01-15T06:45:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "ChatGPT's upcoming cross-platform feature is codenamed \"Agora\"",
-            "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-upcoming-cross-platform-feature-is-codenamed-agora/",
-            "summary": "OpenAI is internally testing a new feature called \"Agora,\" and it could be related to some sort of cross-platform feature that works in real time or s...",
-            "published_utc": "2026-01-15T03:00:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -567,13 +574,6 @@
             "link": "https://www.csoonline.com/article/4116654/hackerangriff-lost-fehlalarm-in-halle-aus.html",
             "summary": "",
             "published_utc": "2026-01-14T10:57:30+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Microsoft Fixes Three Zero-Days on Busy Patch Tuesday",
-            "link": "https://www.infosecurity-magazine.com/news/microsoft-three-zerodays-busy/",
-            "summary": "Microsoft has patched three zero-day vulnerabilities in the first patch Tuesday of 2026, including one under active exploitation",
-            "published_utc": "2026-01-14T10:45:00+00:00"
         },
         {
             "source": "CSO Online",
