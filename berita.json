@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2026-01-16T17:25:44.666126+00:00",
+    "lastUpdatedUTC": "2026-01-16T18:35:29.783022+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "I switched to a solid-state portable battery for a week - now lithium-ion feels outdated",
+            "link": "https://www.zdnet.com/article/bmx-solidsafe-5k-power-bank-review/",
+            "summary": "The BMX SolidSafe 5K wireless power bank ditches lithium-ion batteries for solid-state batteries, and it's good to know why.",
+            "published_utc": "2026-01-16T18:23:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Enterprise Spotlight: Setting the 2026 IT agenda",
+            "link": "https://us.resources.csoonline.com/resources/download-the-2026-it-agenda-spotlight-report/",
+            "summary": "",
+            "published_utc": "2026-01-16T18:21:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Why I recommend these $50 headphones to most people (when I usually don't at that price)",
+            "link": "https://www.zdnet.com/article/haylou-s40-headphones-review/",
+            "summary": "Budget-friendly headphones are a dime a dozen, so what makes the Haylou S40s worthy of buying? Here's my verdict.",
+            "published_utc": "2026-01-16T18:08:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Here's what caused Verizon's massive outage on Wednesday (and how to get your free $20 credit)",
+            "link": "https://www.zdnet.com/article/verizon-outage-sos-phone-us/",
+            "summary": "According to the carrier, the root cause of this week's networking issues had less to do with cyberattacks and more to do with software.",
+            "published_utc": "2026-01-16T18:03:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Do these cheap car de-icing gadgets actually work? My verdict after testing one in the winter cold",
+            "link": "https://www.zdnet.com/article/car-deicing-gadget-scam-test/",
+            "summary": "Let's take an inside look at one of the latest viral gadgets on social media.",
+            "published_utc": "2026-01-16T17:53:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "LG G5 vs. LG G4: I compared both OLED TVs in a lab, and there's a surprise winner",
+            "link": "https://www.zdnet.com/article/lg-g5-vs-lg-g4/",
+            "summary": "Before the G6 releases later this year, we tested LG's two latest flagship OLED TVs to see which is the better buy.",
+            "published_utc": "2026-01-16T17:30:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Your Windows 11 PC has a free battery health feature that's seriously underutilized - how to find it",
@@ -31,10 +73,10 @@
         },
         {
             "source": "ZDNet Security",
-            "title": "Was X down for you? Outage reports spiked for Cloudflare and AWS too - here's the latest",
+            "title": "X, AWS, and Cloudflare outage reports spiked Friday morning - what we know",
             "link": "https://www.zdnet.com/article/x-cloudflare-aws-outage-friday/",
-            "summary": "Multiple sites appeared to deal with outages on Friday. What we know so far.",
-            "published_utc": "2026-01-16T17:06:28+00:00"
+            "summary": "The social media site was down today. What we know so far.",
+            "published_utc": "2026-01-16T17:06:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -56,13 +98,6 @@
             "link": "https://www.securityweek.com/in-other-news-fortisiem-flaw-exploited-sean-plankey-renominated-russias-polish-grid-attack/",
             "summary": "",
             "published_utc": "2026-01-16T16:14:58+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Verizon reveals cause for Wednesday's massive outage (and how to get your free $20 credit)",
-            "link": "https://www.zdnet.com/article/verizon-outage-sos-phone-us/",
-            "summary": "According to the carrier, the root cause of this week's networking issues had less to do with cyberattacks and more to do with software.",
-            "published_utc": "2026-01-16T16:13:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -198,39 +233,11 @@
             "published_utc": "2026-01-16T12:10:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "These unassuming devices promised to lower my electricity bills - only this one was legit",
-            "link": "https://www.zdnet.com/article/testing-power-saving-devices/",
-            "summary": "If you spot one of these in a friend's or family member's power outlet, unplug it ASAP and use this instead.",
-            "published_utc": "2026-01-16T12:09:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Your Raspberry Pi 5 just got a major functionality upgrade - and it looks very promising",
-            "link": "https://www.zdnet.com/article/raspberry-pi-5-generative-ai-add-on/",
-            "summary": "The new $130 AI HAT+ 2 unlocks generative AI for the Raspberry Pi 5.",
-            "published_utc": "2026-01-16T12:07:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "TamperedChef Malvertising Campaign Drops Malware via Fake PDF Manuals",
             "link": "https://www.infosecurity-magazine.com/news/tamperedchef-malvertising-fake-pdf/",
             "summary": "TamperedChef creates backdoors and steals user credentials – particularly in organizations reliant on technical equipment",
             "published_utc": "2026-01-16T12:05:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Own a PS5? I changed these 3 settings to give the system a big performance boost",
-            "link": "https://www.zdnet.com/article/best-ps5-settings-improve-performance/",
-            "summary": "With a few quick adjustments, you can easily enhance your experience across gaming, streaming, and even online security.",
-            "published_utc": "2026-01-16T12:03:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Still on Windows 10? I installed 0patch on my old PC, and it's easily the best defense in the 'End of Support' era",
-            "link": "https://www.zdnet.com/article/windows-10-pc-0patch-review/",
-            "summary": "0patch provides crucial security updates to Windows 10 and fills the support gap left behind by Microsoft.",
-            "published_utc": "2026-01-16T12:02:00+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -588,13 +595,6 @@
             "link": "https://www.csoonline.com/article/4116536/spycloud-launches-supply-chain-solution-to-combat-rising-third-party-identity-threats.html",
             "summary": "",
             "published_utc": "2026-01-14T13:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "CrowdStrike to add browser security to Falcon with Seraphic acquisition",
-            "link": "https://www.csoonline.com/article/4116703/crowdstrike-to-add-browser-security-to-falcon-with-seraphic-acquisition.html",
-            "summary": "",
-            "published_utc": "2026-01-14T12:02:13+00:00"
         },
         {
             "source": "WeLiveSecurity",
