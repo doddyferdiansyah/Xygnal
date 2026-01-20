@@ -1,6 +1,55 @@
 {
-    "lastUpdatedUTC": "2026-01-20T15:33:07.382991+00:00",
+    "lastUpdatedUTC": "2026-01-20T16:38:03.562866+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft PowerToys adds new CursorWrap mouse 'teleport' tool",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-new-cursorwrap-mouse-teleport-tool/",
+            "summary": "Microsoft has released PowerToys 0.97, with a new mouse utility for multi-monitor setups and significant improvements to the Command Palette quick lau...",
+            "published_utc": "2026-01-20T16:33:30+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Chainlit Security Flaws Highlight Infrastructure Risks in AI Apps",
+            "link": "https://www.infosecurity-magazine.com/news/chainlit-security-flaws-ai-apps/",
+            "summary": "2 security vulnerabilities in the Chainlit framework expose risks from web flaws in AI applications",
+            "published_utc": "2026-01-20T16:30:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "These confirmed Android 17 features make staying on my Pixel phone a no brainer for 2026",
+            "link": "https://www.zdnet.com/article/every-android-17-feature-google-confirmed/",
+            "summary": "Android 17, aka 'Cinnamon Bun,' is on the horizon, and there's already a lot of speculation about what it includes. Here's what I want with the next OS.",
+            "published_utc": "2026-01-20T16:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The email from Bose that should have made me angry - but turned me into a fan instead",
+            "link": "https://www.zdnet.com/article/bose-soundtouch-speaker-open-source-lifeline/",
+            "summary": "Every consumer electronics company should follow Bose's lead with how it's handled its aging SoundTouch speaker.",
+            "published_utc": "2026-01-20T15:53:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Don't want to update your iPhone to iOS 26? These 4 reasons changed my mind immediately",
+            "link": "https://www.zdnet.com/article/ios26-upgrade-four-security-reasons/",
+            "summary": "Many iPhone owners may be resisting iOS 26. But this latest version includes important security updates that will keep your phone protected.",
+            "published_utc": "2026-01-20T15:51:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I cracked Hyprland at last - thanks to this Arch-based Linux distro",
+            "link": "https://www.zdnet.com/article/omarchy-linux-distro-makes-hyprland-easy/",
+            "summary": "Omarchy isn't for beginners, but it's the best way I've found to use Hyprland and get straight to work.",
+            "published_utc": "2026-01-20T15:44:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "My new favorite keychain accessory is this multifunctional tool that costs just $30",
+            "link": "https://www.zdnet.com/article/k3-ultramulti-keychain-accessory-review/",
+            "summary": "The K3 Ultramulti EDC keychain tool is highly functional, combining a flashlight, laser pointer, and lighter into one convenient device.",
+            "published_utc": "2026-01-20T15:36:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Microsoft issues emergency patch for latest Windows bugs - grab it ASAP",
@@ -142,27 +191,6 @@
             "published_utc": "2026-01-20T13:50:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "This is by far the best Linux email client I've used - and I've tested them all",
-            "link": "https://www.zdnet.com/article/geary-linux-email-client-review/",
-            "summary": "I've used a slew of Linux email clients over the years, but I found only one that's truly exceeded my expectations.",
-            "published_utc": "2026-01-20T13:34:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "What does an orange USB port mean? I learned the truth behind all the colors, and now I always check",
-            "link": "https://www.zdnet.com/article/what-every-usb-port-color-means/",
-            "summary": "Look closely - the colors on your USB ports reveal a lot about what they can do.",
-            "published_utc": "2026-01-20T13:32:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Windows 11 Home vs. Windows 11 Pro: I compared both versions, and this one's best for your PC",
-            "link": "https://www.zdnet.com/article/windows-11-home-windows-11-pro-compared/",
-            "summary": "Windows 11 Pro offers more control - but is it worth the extra cost? Here's what a PC expert thinks.",
-            "published_utc": "2026-01-20T13:24:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Webinar: Aligning cybersecurity purchases with what your SOC team needs",
             "link": "https://www.bleepingcomputer.com/news/security/webinar-aligning-cybersecurity-purchases-with-what-your-soc-team-needs/",
@@ -175,20 +203,6 @@
             "link": "https://www.infosecurity-magazine.com/news/linkedin-phishing-campaign-targets/",
             "summary": "Cybersecurity Researchers at ReliaQuest warn of an ongoing campaign delivered to “high-value individuals” via LinkedIn messages",
             "published_utc": "2026-01-20T13:04:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "What a Linux root user can do - and 8 ways you should absolutely never use it",
-            "link": "https://www.zdnet.com/article/what-linux-root-can-do/",
-            "summary": "Remember, sudo is your friend.",
-            "published_utc": "2026-01-20T13:01:50+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Your KDE Plasma desktop is about to get a huge upgrade with 6.6 - what's inside",
-            "link": "https://www.zdnet.com/article/kde-plasma-6-6-release-whats-inside/",
-            "summary": "The new KDE Plasma 6.6 release brings faster performance, stronger security, deeper customization, and more.",
-            "published_utc": "2026-01-20T12:52:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -527,13 +541,6 @@
             "published_utc": "2026-01-18T15:17:45+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Google Chrome tests Gemini-powered AI \"Skills\"",
-            "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-chrome-tests-gemini-powered-ai-skills/",
-            "summary": "Google is testing \"Skills\" for Gemini in Chrome, which will allow AI in Chrome to perform tasks automatically, and it could challenge Perplexity Comet...",
-            "published_utc": "2026-01-18T03:00:00+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "US Hackers Reportedly Caused a Blackout in Venezuela",
             "link": "https://www.wired.com/story/security-news-this-week-us-hackers-reportedly-caused-a-blackout-in-venezuela/",
@@ -560,13 +567,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/01/ai-and-the-corporate-capture-of-knowledge.html",
             "summary": "",
             "published_utc": "2026-01-16T14:44:27+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "TamperedChef Malvertising Campaign Drops Malware via Fake PDF Manuals",
-            "link": "https://www.infosecurity-magazine.com/news/tamperedchef-malvertising-fake-pdf/",
-            "summary": "TamperedChef creates backdoors and steals user credentials – particularly in organizations reliant on technical equipment",
-            "published_utc": "2026-01-16T12:05:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
