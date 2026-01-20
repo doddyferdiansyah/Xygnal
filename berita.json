@@ -1,19 +1,54 @@
 {
-    "lastUpdatedUTC": "2026-01-20T11:24:37.388423+00:00",
+    "lastUpdatedUTC": "2026-01-20T12:54:04.884996+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "Your KDE Plasma desktop is about to get a huge upgrade with 6.6 - what's inside",
+            "link": "https://www.zdnet.com/article/kde-plasma-6-6-release-whats-inside/",
+            "summary": "The new KDE Plasma 6.6 release brings faster performance, stronger security, deeper customization, and more.",
+            "published_utc": "2026-01-20T12:52:28+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "AI Supercharges Attacks in Cybercrime's New 'Fifth Wave'",
+            "link": "https://www.infosecurity-magazine.com/news/ai-supercharges-attacks-cybercrime/",
+            "summary": "Weaponized AI is fueling a new wave of cybercrime, said Group-IB in its latest report",
+            "published_utc": "2026-01-20T12:15:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "APT-Grade PDFSider Malware Used by Ransomware Groups",
+            "link": "https://www.securityweek.com/apt-grade-pdfsider-malware-used-by-ransomware-groups/",
+            "summary": "",
+            "published_utc": "2026-01-20T12:09:44+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Could ChatGPT Convince You to Buy Something?",
+            "link": "https://www.schneier.com/blog/archives/2026/01/could-chatgpt-convince-you-to-buy-something.html",
+            "summary": "",
+            "published_utc": "2026-01-20T12:08:09+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "50+ Windows keyboard shortcuts that I can no longer work without (even on older versions)",
+            "link": "https://www.zdnet.com/article/my-favorite-windows-keyboard-shortcuts-every-user-should-know/",
+            "summary": "These essential keyboard shortcuts can save you time and speed up your work.",
+            "published_utc": "2026-01-20T12:00:41+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "CrashFix attack hijacks browser failures to deliver ModelRAT malware via fake Chrome extension",
+            "link": "https://www.csoonline.com/article/4119047/crashfix-attack-hijacks-browser-failures-to-deliver-modelrat-malware-via-fake-chrome-extension.html",
+            "summary": "",
+            "published_utc": "2026-01-20T11:39:40+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Weaponized Invite Enabled Calendar Data Theft via Google Gemini",
             "link": "https://www.securityweek.com/weaponized-invite-enabled-calendar-data-theft-via-google-gemini/",
             "summary": "",
             "published_utc": "2026-01-20T10:59:36+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Risk of AI Model Collapse to Drive Zero Trust Data Governance, Gartner Says",
-            "link": "https://www.infosecurity-magazine.com/news/ai-model-collapse-zero-trust-data/",
-            "summary": "Gartner predicts 50% of organizations will adopt zero trust data governance by 2028",
-            "published_utc": "2026-01-20T10:45:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -366,13 +401,6 @@
             "published_utc": "2026-01-19T10:00:48+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "How we test laptops at ZDNET in 2026",
-            "link": "https://www.zdnet.com/article/how-we-test-laptops/",
-            "summary": "ZDNET goes hands-on with dozens of laptops each year. Here's how we approach testing them.",
-            "published_utc": "2026-01-19T10:00:35+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Cyber Breaches, Compliance and Reputation Top UK Corporate Concerns",
             "link": "https://www.infosecurity-magazine.com/news/cyber-breaches-compliance/",
@@ -413,13 +441,6 @@
             "link": "https://www.csoonline.com/article/4118264/servicenow-bodysnatcher-flaw-highlights-risks-of-rushed-ai-integrations.html",
             "summary": "",
             "published_utc": "2026-01-19T07:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I put away my subwoofer after switching to this room-filling soundbar - and it looks great",
-            "link": "https://www.zdnet.com/article/bluesound-pulse-cinema-review/",
-            "summary": "If you're after big and bold sound, I might've found a speaker system that hits all the right notes.",
-            "published_utc": "2026-01-19T03:27:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -513,25 +534,11 @@
             "published_utc": "2026-01-16T18:21:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "In Other News: FortiSIEM Flaw Exploited, Sean Plankey Renominated, Russia’s Polish Grid Attack",
-            "link": "https://www.securityweek.com/in-other-news-fortisiem-flaw-exploited-sean-plankey-renominated-russias-polish-grid-attack/",
-            "summary": "",
-            "published_utc": "2026-01-16T16:14:58+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "AI and the Corporate Capture of Knowledge",
             "link": "https://www.schneier.com/blog/archives/2026/01/ai-and-the-corporate-capture-of-knowledge.html",
             "summary": "",
             "published_utc": "2026-01-16T14:44:27+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Google Vertex AI security permissions could amplify insider threats",
-            "link": "https://www.csoonline.com/article/4118092/google-vertex-ai-security-permissions-could-amplify-insider-threats.html",
-            "summary": "",
-            "published_utc": "2026-01-16T14:28:47+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -749,13 +756,6 @@
             "link": "https://www.wired.com/story/how-to-protest-safely-surveillance-digital-privacy/",
             "summary": "Law enforcement has more tools than ever to track your movements and access your communications. Here’s how to protect your privacy if you plan to pro...",
             "published_utc": "2026-01-08T17:34:04+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "AI & Humans: Making the Relationship Work",
-            "link": "https://www.schneier.com/blog/archives/2026/01/ai-humans-making-the-relationship-work.html",
-            "summary": "",
-            "published_utc": "2026-01-08T12:05:37+00:00"
         },
         {
             "source": "WeLiveSecurity",
