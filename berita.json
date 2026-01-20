@@ -1,6 +1,90 @@
 {
-    "lastUpdatedUTC": "2026-01-20T14:33:17.508087+00:00",
+    "lastUpdatedUTC": "2026-01-20T15:33:07.382991+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "Microsoft issues emergency patch for latest Windows bugs - grab it ASAP",
+            "link": "https://www.zdnet.com/article/microsoft-emergency-tuesday-patch/",
+            "summary": "The out-of-band patch fixes a couple of annoying bugs added to Windows 11 and 10 by Microsoft's January update.",
+            "published_utc": "2026-01-20T15:21:55+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Your Bluetooth earbuds are at risk of being hijacked - here's how to prevent it ASAP",
+            "link": "https://www.zdnet.com/article/whisperpair-google-fast-pair-bluetooth-earbuds-attack/",
+            "summary": "Google Fast Pair makes pairing easy, but a flawed implementation has created a potential security risk.",
+            "published_utc": "2026-01-20T15:17:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Make Identity Threat Detection your security strategy for 2026",
+            "link": "https://www.bleepingcomputer.com/news/security/make-identity-threat-detection-your-security-strategy-for-2026/",
+            "summary": "Identity-based attacks are one of the primary paths attackers use to breach corporate networks. Tenfold shows how Identity Threat Detection helps spot...",
+            "published_utc": "2026-01-20T15:01:11+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Prompt Injection Bugs Found in Official Anthropic Git MCP Server",
+            "link": "https://www.infosecurity-magazine.com/news/prompt-injection-bugs-anthropic/",
+            "summary": "Three vulnerabilities in Anthropic's Git server for the MCP can be exploited via prompt injection",
+            "published_utc": "2026-01-20T15:01:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "T-Mobile just made AT&T and Verizon look expensive with its new family plan - but read this first",
+            "link": "https://www.zdnet.com/article/t-mobile-better-value-family-phone-plan-deal/",
+            "summary": "T-Mobile's Better Value plan starts at $140 a month for three lines, with a five-year price guarantee. I break down the fine print.",
+            "published_utc": "2026-01-20T14:59:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I asked 6 popular AIs these trick questions, and it was a game of hallucination roulette",
+            "link": "https://www.zdnet.com/article/ai-hallucination-test/",
+            "summary": "Everyone knows AI chatbots can get things wrong, so I tested the leading ones to see which are the worst offenders.",
+            "published_utc": "2026-01-20T14:55:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Smart home hacking is a serious threat - but here's how experts actually stop it",
+            "link": "https://www.zdnet.com/article/what-is-smart-home-hacking-expert-prevention-methods/",
+            "summary": "Fewer open entry points mean a more secure smart home. Here's how to keep yours as protected as possible.",
+            "published_utc": "2026-01-20T14:50:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I discovered a little-known way to power your home during an outage - here's how",
+            "link": "https://www.zdnet.com/article/how-to-use-ev-power-home-during-outage/",
+            "summary": "A major power resource could be sitting in your driveway. Here's how to use it properly.",
+            "published_utc": "2026-01-20T14:46:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Worried about AI privacy? This new tool from Signal's founder adds end-to-end encryption to your chats",
+            "link": "https://www.zdnet.com/article/signal-founder-debuts-private-ai-chatbot-confer/",
+            "summary": "'Confer can't read them, train on them, or hand them over - because only you have access to them.'",
+            "published_utc": "2026-01-20T14:42:14+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "This AirTag alternative has earned a permanent spot in my wallet (and works with Android)",
+            "link": "https://www.zdnet.com/article/rolling-square-aircard-dual-review/",
+            "summary": "Rolling Square's AirCard Pro Dual features one of the loudest trackers I've tested, and has a nifty glow-up feature.",
+            "published_utc": "2026-01-20T14:42:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Why I'm in love with this power bank for my Apple Watch, even though it sounds bizarre",
+            "link": "https://www.zdnet.com/article/iniu-apple-watch-power-bank-review/",
+            "summary": "Your Apple Watch can be just as indispensable as your iPhone, and this Iniu power bank can keep it going for over a week.",
+            "published_utc": "2026-01-20T14:36:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I used Claude Code to vibe code a Mac app in 8 hours, and it was more work than magic",
+            "link": "https://www.zdnet.com/article/i-used-claude-code-to-vibe-code-mac-app/",
+            "summary": "The illusion vanished fast once I treated Claude Code like a remote junior developer.",
+            "published_utc": "2026-01-20T14:33:56+00:00"
+        },
         {
             "source": "InfosecurityMag",
             "title": "Cyber Risks Among CEOs’ Top Worries Amid Weak Short Term Growth Outlook",
@@ -80,8 +164,8 @@
         },
         {
             "source": "BleepingComputer",
-            "title": "Webinar: Why execs don’t buy SOC teams the tools they need",
-            "link": "https://www.bleepingcomputer.com/news/security/webinar-why-execs-dont-buy-soc-teams-the-tools-they-need/",
+            "title": "Webinar: Aligning cybersecurity purchases with what your SOC team needs",
+            "link": "https://www.bleepingcomputer.com/news/security/webinar-aligning-cybersecurity-purchases-with-what-your-soc-team-needs/",
             "summary": "Learn how security leaders and SOC teams can work together to close the gap between platform decisions and operational needs. Join Sumo Logic and Blee...",
             "published_utc": "2026-01-20T13:15:23+00:00"
         },
@@ -128,13 +212,6 @@
             "published_utc": "2026-01-20T12:08:09+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "50+ Windows keyboard shortcuts that I can no longer work without (even on older versions)",
-            "link": "https://www.zdnet.com/article/my-favorite-windows-keyboard-shortcuts-every-user-should-know/",
-            "summary": "These essential keyboard shortcuts can save you time and speed up your work.",
-            "published_utc": "2026-01-20T12:00:41+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "CrashFix attack hijacks browser failures to deliver ModelRAT malware via fake Chrome extension",
             "link": "https://www.csoonline.com/article/4119047/crashfix-attack-hijacks-browser-failures-to-deliver-modelrat-malware-via-fake-chrome-extension.html",
@@ -170,13 +247,6 @@
             "published_utc": "2026-01-20T10:00:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I tried 0patch as a last resort for my Windows 10 PC - here's how it compares to its promises",
-            "link": "https://www.zdnet.com/article/windows-10-pc-0patch-software-review/",
-            "summary": "0patch provides crucial security updates for Windows 10 and fills the support gap left by Microsoft. Is it legit?",
-            "published_utc": "2026-01-20T09:00:52+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Fake-Video mit Reinhold Würth wirbt für dubiose Geldanlagen",
             "link": "https://www.csoonline.com/article/4118949/fake-video-mit-reinhold-wurth-wirbt-fur-dubiose-geldanlagen.html",
@@ -205,27 +275,6 @@
             "published_utc": "2026-01-20T03:57:30+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Don't use your router's USB port when these alternatives exist, a PC expert explains",
-            "link": "https://www.zdnet.com/article/do-not-use-router-usb-port-pc-expert-explains/",
-            "summary": "Your router's USB port is convenient, but its unreliability makes it susceptible to security risks. Here's the alternative.",
-            "published_utc": "2026-01-20T03:00:50+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "After setting up Windows 11, these 9 steps are non-negotiable for me",
-            "link": "https://www.zdnet.com/article/essential-next-steps-setting-up-windows-11/",
-            "summary": "Microsoft's default settings for Windows 11 are filled with tiny annoyances, including unnecessary taskbar icons and unwanted apps. Here's how to decl...",
-            "published_utc": "2026-01-20T02:00:35+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "ChatGPT's cheapest subscription comes to the US: I compared Go to Plus and Pro",
-            "link": "https://www.zdnet.com/article/chat-gpt-go/",
-            "summary": "At $8 per month, here's how ChatGPT Go stacks up against OpenAI's other offerings.",
-            "published_utc": "2026-01-20T01:31:29+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "ChatGPT Go now unlocks unlimited access to GPT-5.2 Instant for $8",
             "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-go-now-unlocks-unlimited-access-to-gpt-52-instant-for-8/",
@@ -238,13 +287,6 @@
             "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/you-can-get-chatgpts-20-plus-subscription-for-free-for-a-limited-time/",
             "summary": "OpenAI is offering ChatGPT Plus, which costs $20 in the United States, for free, but the offer is valid for some accounts only, and it's a limited-tim...",
             "published_utc": "2026-01-20T01:07:57+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Why I recommend this cheap Motorola over budget phones by Samsung and TCL",
-            "link": "https://www.zdnet.com/article/motorola-moto-g-power-2026-review/",
-            "summary": "The 2026 Moto G Power is Motorola's best budget phone yet, with great battery life and a sharp display.",
-            "published_utc": "2026-01-20T01:00:52+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -268,32 +310,11 @@
             "published_utc": "2026-01-19T21:00:34+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "OpenAI's Google Translate killer is here: How to use the new ChatGPT Translate",
-            "link": "https://www.zdnet.com/article/how-to-use-chatgpt-translate-vs-google-translate-alternative/",
-            "summary": "ChatGPT Translate isn't multimodal yet, but it does beat Google Translate in one big way. Here's how.",
-            "published_utc": "2026-01-19T17:52:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "AI fails at freelancer tasks 97% of the time, new 'Remote Labor Index' shows",
-            "link": "https://www.zdnet.com/article/ai-failed-test-on-remote-freelance-jobs/",
-            "summary": "Researchers tested AI on remote freelance projects across fields like game development, data analysis, and video animation. It didn't go well.",
-            "published_utc": "2026-01-19T17:31:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "UK govt. warns about ongoing Russian hacktivist group attacks",
             "link": "https://www.bleepingcomputer.com/news/security/uk-govt-warns-about-ongoing-russian-hacktivist-group-attacks/",
             "summary": "The U.K. government is warning of continued malicious activity from Russian-aligned hacktivist groups targeting critical infrastructure and local gove...",
             "published_utc": "2026-01-19T17:20:39+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How I used GPT-5.2-Codex to solve a mystery bug and hosting nightmare - in under an hour",
-            "link": "https://www.zdnet.com/article/how-i-use-chatgpt-plus-codex-to-debug-code/",
-            "summary": "The $20-per-month ChatGPT plan is more than enough for occasional bug fixes and feature addition runs. Here's one such example.",
-            "published_utc": "2026-01-19T17:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -315,13 +336,6 @@
             "link": "https://www.infosecurity-magazine.com/news/russia-cyber-pressure-uk-orgs/",
             "summary": "UK NCSC warned of disruptive cyber attacks by Russian hacktivists targeting critical infrastructure",
             "published_utc": "2026-01-19T15:30:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How to run Windows apps on Linux with Wine - it's easy",
-            "link": "https://www.zdnet.com/article/how-to-run-windows-apps-on-linux-with-wine/",
-            "summary": "Considering a switch from Windows to Linux? The good news is you don't have to give up your favorite Windows apps. Here's how to run them on Linux.",
-            "published_utc": "2026-01-19T15:00:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -520,13 +534,6 @@
             "published_utc": "2026-01-18T03:00:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Google Chrome now lets you turn off on-device AI model powering scam detection",
-            "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-chrome-now-lets-you-turn-off-on-device-ai-model-powering-scam-detection/",
-            "summary": "Google Chrome now lets you delete the local AI models that power the \"Enhanced Protection\" feature, which was upgraded with AI capabilities last year....",
-            "published_utc": "2026-01-18T02:05:01+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "US Hackers Reportedly Caused a Blackout in Venezuela",
             "link": "https://www.wired.com/story/security-news-this-week-us-hackers-reportedly-caused-a-blackout-in-venezuela/",
@@ -560,13 +567,6 @@
             "link": "https://www.infosecurity-magazine.com/news/tamperedchef-malvertising-fake-pdf/",
             "summary": "TamperedChef creates backdoors and steals user credentials – particularly in organizations reliant on technical equipment",
             "published_utc": "2026-01-16T12:05:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Account Compromise Surged 389% in 2025, Says eSentire",
-            "link": "https://www.infosecurity-magazine.com/news/account-compromise-surged-2025/",
-            "summary": "An eSentire report showed credential theft accounted for 74% of all observed cyber threats in 2025",
-            "published_utc": "2026-01-16T11:40:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
