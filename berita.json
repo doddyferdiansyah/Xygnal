@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-01-21T21:29:45.764339+00:00",
+    "lastUpdatedUTC": "2026-01-21T22:27:25.900680+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Cisco fixes Unified Communications RCE zero day exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/cisco-fixes-unified-communications-rce-zero-day-exploited-in-attacks/",
+            "summary": "Cisco has fixed a critical Unified Communications and Webex Calling remote code execution vulnerability, tracked as CVE-2026-20045, that has been acti...",
+            "published_utc": "2026-01-21T22:16:21+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "New Android malware uses AI to click on hidden browser ads",
+            "link": "https://www.bleepingcomputer.com/news/security/new-android-malware-uses-ai-to-click-on-hidden-browser-ads/",
+            "summary": "A new family of Android click-fraud trojans leverages TensorFlow machine learning models to automatically detect and interact with specific advertisem...",
+            "published_utc": "2026-01-21T22:07:53+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "This rumored Siri upgrade could finally change how we use iPhones - but Apple needs to deliver",
+            "link": "https://www.zdnet.com/article/apple-turning-siri-into-chatgpt-chatbot-ai-ios-27-iphone-mac-ipad/",
+            "summary": "A Siri AI chatbot can transform how you interact with your iPhone. Here's to hoping Apple can make it even better than its rivals.",
+            "published_utc": "2026-01-21T21:40:00+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Online retailer PcComponentes says data breach claims are fake",
@@ -189,13 +210,6 @@
             "link": "https://www.zdnet.com/article/hdr10-vs-hdr-10-plus-vs-dolby-vision-compared/",
             "summary": "Confused by HDR10, HDR10+, and Dolby Vision? Here's how to pick the best HDR format for your TV.",
             "published_utc": "2026-01-21T15:54:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "This tiny Android phone I tried is a blast from the past with futuristic durability",
-            "link": "https://www.zdnet.com/article/ulefone-armor-mini-20-pro-review/",
-            "summary": "The Ulefone Armor Mini 20 Pro is a refreshing throwback to small screens and candy bar-shaped handsets.",
-            "published_utc": "2026-01-21T15:53:00+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -462,20 +476,6 @@
             "link": "https://www.wired.com/story/ice-detention-network-minnesota-5-states/",
             "summary": "Internal ICE planning documents propose spending up to $50 million on a privately run network capable of shipping immigrants in custody hundreds of mi...",
             "published_utc": "2026-01-20T19:12:15+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "EU plans cybersecurity overhaul to block foreign high-risk suppliers",
-            "link": "https://www.bleepingcomputer.com/news/security/eu-plans-cybersecurity-overhaul-to-block-foreign-high-risk-suppliers/",
-            "summary": "The European Commission has proposed new cybersecurity legislation mandating the removal of high-risk suppliers to secure telecommunications networks ...",
-            "published_utc": "2026-01-20T18:54:38+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Gemini AI assistant tricked into leaking Google Calendar data",
-            "link": "https://www.bleepingcomputer.com/news/security/gemini-ai-assistant-tricked-into-leaking-google-calendar-data/",
-            "summary": "Using only natural language instructions, researchers were able to bypass Google Gemini's defenses against malicious prompt injection and create misle...",
-            "published_utc": "2026-01-20T17:50:01+00:00"
         },
         {
             "source": "InfosecurityMag",
