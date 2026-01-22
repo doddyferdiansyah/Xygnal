@@ -1,6 +1,90 @@
 {
-    "lastUpdatedUTC": "2026-01-22T11:24:33.491202+00:00",
+    "lastUpdatedUTC": "2026-01-22T12:53:45.937188+00:00",
     "articles": [
+        {
+            "source": "InfosecurityMag",
+            "title": "Zero-Day Exploits Surge, Nearly 30% of Flaws Attacked Before Disclosure",
+            "link": "https://www.infosecurity-magazine.com/news/zeroday-exploits-surge-vulncheck/",
+            "summary": "VulnCheck analysts found that vulnerabilities exploited before being publicly disclosed rose from 23.6% in 2024 to 28.96% in 2025",
+            "published_utc": "2026-01-22T12:45:00+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Why AI Keeps Falling for Prompt Injection Attacks",
+            "link": "https://www.schneier.com/blog/archives/2026/01/why-ai-keeps-falling-for-prompt-injection-attacks.html",
+            "summary": "",
+            "published_utc": "2026-01-22T12:35:46+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers exploit 29 zero-days on second day of Pwn2Own Automotive",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-29-zero-day-vulnerabilities-on-second-day-of-pwn2own-automotive/",
+            "summary": "Hackers collect $439,250 after exploiting 29 zero-day vulnerabilities on the second day of Pwn2Own Automotive 2026. [...]",
+            "published_utc": "2026-01-22T12:30:30+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Actively exploited Cisco UC bug requires immediate, version‑specific patching",
+            "link": "https://www.csoonline.com/article/4120613/actively-exploited-cisco-uc-bug-requires-immediate-version%e2%80%91specific-patching.html",
+            "summary": "",
+            "published_utc": "2026-01-22T12:10:58+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "New Wave of Attacks Targeting FortiGate Firewalls",
+            "link": "https://www.securityweek.com/new-wave-of-attacks-targeting-fortigate-firewalls/",
+            "summary": "",
+            "published_utc": "2026-01-22T12:10:02+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "LastPass Warns of Phishing Campaign Attempting to Steal Master Passwords",
+            "link": "https://www.infosecurity-magazine.com/news/lastpass-phishing-master-passwords/",
+            "summary": "Phoney email alerts suggest users need to backup their LastPass accounts within 24 hours. LastPass says it would never require this action from users",
+            "published_utc": "2026-01-22T12:07:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The best small-business accounting software of 2026: Expert tested",
+            "link": "https://www.zdnet.com/article/best-small-business-accounting-software/",
+            "summary": "Here's my rundown of the top small-business accounting software, including stuff nobody told you. I'll cover QuickBooks, FreshBooks, Xero, and more.",
+            "published_utc": "2026-01-22T12:01:07+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The best stylus phones of 2026: Expert tested and reviewed",
+            "link": "https://www.zdnet.com/article/best-stylus-phone/",
+            "summary": "We tested the best stylus phones that add functionality, precision, and ease of use. These are our favorites.",
+            "published_utc": "2026-01-22T12:00:51+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Claroty Raises $150 Million in Series F Funding",
+            "link": "https://www.securityweek.com/claroty-raises-150-million-in-series-f-funding/",
+            "summary": "",
+            "published_utc": "2026-01-22T11:58:28+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers breach Fortinet FortiGate devices, steal firewall configs",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-fortinet-fortigate-devices-steal-firewall-configs/",
+            "summary": "Fortinet FortiGate devices are being targeted in automated attacks that create rogue accounts and steal firewall configuration data, according to cybe...",
+            "published_utc": "2026-01-22T11:49:12+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "VoidLink malware was almost entirely made by AI",
+            "link": "https://www.csoonline.com/article/4120607/voidlink-malware-was-almost-entirely-made-by-ai.html",
+            "summary": "",
+            "published_utc": "2026-01-22T11:44:41+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I invested $50 into Bitcoin in 2022 and watched it crash and rally - here's its value now",
+            "link": "https://www.zdnet.com/article/bitcoin-50-investment-2022-worth-today/",
+            "summary": "My money took a beating when Bitcoin crashed, burned, and gained. Do I wish I'd sold, or am I glad I held? Either way, it's been a journey.",
+            "published_utc": "2026-01-22T11:30:45+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Furl Raises $10 Million for Autonomous Vulnerability Remediation",
@@ -168,27 +252,6 @@
             "link": "https://www.zdnet.com/article/apple-turning-siri-into-chatgpt-chatbot-ai-ios-27-iphone-mac-ipad/",
             "summary": "A Siri AI chatbot can transform how you interact with your iPhone. Here's to hoping Apple can make it even better than OpenAI and Google.",
             "published_utc": "2026-01-22T02:33:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "OpenAI just unveiled its Google Translate competitor, and ChatGPT already wins in a big way",
-            "link": "https://www.zdnet.com/article/how-to-use-chatgpt-translate-vs-google-translate/",
-            "summary": "ChatGPT Translate isn't multimodal yet, but it still beats Google Translate by a wide margin. Here's how.",
-            "published_utc": "2026-01-22T02:27:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "AT&T's free iPhone 17 Pro, iPad, and Apple Watch bundle deal is live - how to qualify",
-            "link": "https://www.zdnet.com/article/att-iphone-17-ipad-apple-watch-bundle-deal/",
-            "summary": "Trade in your iPhone 15 or later and get a free iPhone 17 Pro, plus an iPad and an Apple Watch for just $0.99 each a month (plus the cost of a new lin...",
-            "published_utc": "2026-01-22T02:19:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Every Roku user should know these 15+ shortcuts that unlock the system's best features",
-            "link": "https://www.zdnet.com/article/best-roku-tv-shortcuts-to-know/",
-            "summary": "You're not getting the most out of your Roku - these hidden menus and settings can help.",
-            "published_utc": "2026-01-22T02:15:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -373,13 +436,6 @@
             "published_utc": "2026-01-21T12:33:03+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Why Identity Security Must Move Beyond MFA",
-            "link": "https://www.securityweek.com/why-identity-security-must-move-beyond-mfa/",
-            "summary": "",
-            "published_utc": "2026-01-21T12:30:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Tesla hacked, 37 zero-days demoed at Pwn2Own Automotive 2026",
             "link": "https://www.bleepingcomputer.com/news/security/tesla-hacked-37-zero-days-demoed-at-pwn2own-automotive-2026/",
@@ -392,13 +448,6 @@
             "link": "https://www.infosecurity-magazine.com/news/eu-unveils-cybersecurity-act-2/",
             "summary": "The EU’s Cybersecurity Act 2.0 will aim to address some of the challenges of the current CSA, including the slow rollout of certification schemes",
             "published_utc": "2026-01-21T12:15:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "MITRE Launches New Security Framework for Embedded Systems",
-            "link": "https://www.securityweek.com/mitre-launches-new-security-framework-for-embedded-systems/",
-            "summary": "",
-            "published_utc": "2026-01-21T12:11:46+00:00"
         },
         {
             "source": "Schneier",
@@ -492,20 +541,6 @@
             "published_utc": "2026-01-21T00:04:51+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Google says Gemini won’t have ads, as ChatGPT prepares to add them",
-            "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-says-gemini-wont-have-ads-as-chatgpt-prepares-to-add-them/",
-            "summary": "OpenAI recently rolled out ads to ChatGPT in the United States if you use $8 Go subscription or a free account, but Google says it does not plan to pu...",
-            "published_utc": "2026-01-21T00:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "OpenAI rolls out age prediction model on ChatGPT to detect your age",
-            "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-age-prediction-model-on-chatgpt-to-detect-your-age/",
-            "summary": "OpenAI is rolling out an age prediction model on ChatGPT to detect your age and apply possible safety-related restrictions to prevent misuse by teens....",
-            "published_utc": "2026-01-20T22:57:21+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Airlock Digital Announces Independent TEI Study Quantifying Measurable ROI & Security Impact",
             "link": "https://www.csoonline.com/article/4119592/airlock-digital-announces-independent-tei-study-quantifying-measurable-roi-security-impact.html",
@@ -527,39 +562,11 @@
             "published_utc": "2026-01-20T16:30:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "Prompt Injection Bugs Found in Official Anthropic Git MCP Server",
-            "link": "https://www.infosecurity-magazine.com/news/prompt-injection-bugs-anthropic/",
-            "summary": "Three vulnerabilities in Anthropic's Git server for the MCP can be exploited via prompt injection",
-            "published_utc": "2026-01-20T15:01:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Cyber Risks Among CEOs’ Top Worries Amid Weak Short Term Growth Outlook",
-            "link": "https://www.infosecurity-magazine.com/news/cyber-risks-among-ceos-top-worries/",
-            "summary": "PwC’s 29th Global CEO Survey shows cyber risk rising to the top of CEO concerns as confidence in short term business growth weakens",
-            "published_utc": "2026-01-20T14:30:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Fünf Chrome-Erweiterungen, die Unternehmenssitzungen kapern",
-            "link": "https://www.csoonline.com/article/4119111/funf-chrome-erweiterungen-die-unternehmenssitzungen-kapern.html",
-            "summary": "",
-            "published_utc": "2026-01-20T14:07:49+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Could ChatGPT Convince You to Buy Something?",
             "link": "https://www.schneier.com/blog/archives/2026/01/could-chatgpt-convince-you-to-buy-something.html",
             "summary": "",
             "published_utc": "2026-01-20T12:08:09+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "CrashFix attack hijacks browser failures to deliver ModelRAT malware via fake Chrome extension",
-            "link": "https://www.csoonline.com/article/4119047/crashfix-attack-hijacks-browser-failures-to-deliver-modelrat-malware-via-fake-chrome-extension.html",
-            "summary": "",
-            "published_utc": "2026-01-20T11:39:40+00:00"
         },
         {
             "source": "WeLiveSecurity",
@@ -735,13 +742,6 @@
             "link": "https://www.wired.com/story/security-news-this-week-ice-can-now-spy-on-every-phone-in-your-neighborhood/",
             "summary": "Plus: Iran shuts down its internet amid sweeping protests, an alleged scam boss gets extradited to China, and more.",
             "published_utc": "2026-01-10T11:30:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Friday Squid Blogging: The Chinese Squid-Fishing Fleet off the Argentine Coast",
-            "link": "https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-the-chinese-squid-fishing-fleet-off-the-argentine-coast.html",
-            "summary": "",
-            "published_utc": "2026-01-09T22:00:47+00:00"
         },
         {
             "source": "WIRED Security",
