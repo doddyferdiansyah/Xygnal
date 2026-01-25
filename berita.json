@@ -1,6 +1,13 @@
 {
-    "lastUpdatedUTC": "2026-01-25T12:46:04.602611+00:00",
+    "lastUpdatedUTC": "2026-01-25T13:33:15.063518+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft investigates Windows 11 boot failures after January updates",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-windows-11-boot-failures-after-january-updates/",
+            "summary": "Microsoft is investigating reports that some Windows 11 devices are failing to boot with \"UNMOUNTABLE_BOOT_VOLUME\" errors after installing the January...",
+            "published_utc": "2026-01-25T13:20:28+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "The 6 Linux distros I expect to rule 2026 - as someone who's tested hundreds of them",
@@ -455,13 +462,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/curl-ending-bug-bounty-program-after-flood-of-ai-slop-reports/",
             "summary": "The developer of the popular curl command-line utility and library announced that the project will end its HackerOne security bug bounty program at th...",
             "published_utc": "2026-01-22T19:01:36+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "SmarterMail auth bypass flaw now exploited to hijack admin accounts",
-            "link": "https://www.bleepingcomputer.com/news/security/smartermail-auth-bypass-flaw-now-exploited-to-hijack-admin-accounts/",
-            "summary": "Hackers began exploiting an authentication bypass vulnerability in SmarterTools' SmarterMail email server and collaboration tool that allows resetting...",
-            "published_utc": "2026-01-22T18:44:21+00:00"
         },
         {
             "source": "WIRED Security",
