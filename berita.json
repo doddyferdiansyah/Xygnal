@@ -1,6 +1,20 @@
 {
-    "lastUpdatedUTC": "2026-01-26T21:26:14.572688+00:00",
+    "lastUpdatedUTC": "2026-01-26T22:24:14.047700+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "6 useful tips for buying snow blowers, according to someone who's built dozens of them",
+            "link": "https://www.zdnet.com/article/how-to-choose-a-snow-blower-2026/",
+            "summary": "Whether you're buying your first snow blower or replacing one you already have, it can be difficult to know what kind to buy. Here's what to know befo...",
+            "published_utc": "2026-01-26T22:10:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "New ClickFix attacks abuse Windows App-V scripts to push malware",
+            "link": "https://www.bleepingcomputer.com/news/security/new-clickfix-attacks-abuse-windows-app-v-scripts-to-push-malware/",
+            "summary": "A new malicious campaign mixes the ClickFix method with fake CAPTCHA and a signed Microsoft Application Virtualization (App-V) script to ultimately de...",
+            "published_utc": "2026-01-26T21:42:12+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "How I turned my regular tablet into a full-fledged e-reader (whether it's an iPad or Android)",
@@ -170,13 +184,6 @@
             "published_utc": "2026-01-26T16:15:00+00:00"
         },
         {
-            "source": "KrebsOnSecurity",
-            "title": "Who Operates the Badbox 2.0 Botnet?",
-            "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-            "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicati...",
-            "published_utc": "2026-01-26T16:11:38+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "Access System Flaws Enabled Hackers to Unlock Doors at Major European Firms",
             "link": "https://www.securityweek.com/access-system-flaws-enabled-hackers-to-unlock-doors-at-major-european-firms/",
@@ -196,13 +203,6 @@
             "link": "https://www.zdnet.com/article/how-to-watch-the-super-bowl/",
             "summary": "We found the best streaming services available and covered everything you need to know about where to watch the Patriots vs. the Seahawks in Super Bow...",
             "published_utc": "2026-01-26T16:06:44+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Microsoft issues second emergency patch for Windows this month - update your PC today",
-            "link": "https://www.zdnet.com/article/microsoft-second-emergency-patch-for-windows-in-january-update-now/",
-            "summary": "Shipping an update that fixes some bugs but creates new ones is raising serious questions about Microsoft's quality control, or lack thereof.",
-            "published_utc": "2026-01-26T15:43:02+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -448,13 +448,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-giant-squid-in-the-star-trek-universe.html",
             "summary": "",
             "published_utc": "2026-01-23T22:03:20+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Malicious AI extensions on VSCode Marketplace steal developer data",
-            "link": "https://www.bleepingcomputer.com/news/security/malicious-ai-extensions-on-vscode-marketplace-steal-developer-data/",
-            "summary": "Two malicious extensions in Microsoft's Visual Studio Code (VSCode) Marketplace that were collectively installed 1.5 million times, exfiltrate develop...",
-            "published_utc": "2026-01-23T20:11:58+00:00"
         },
         {
             "source": "CSO Online",
@@ -1071,6 +1064,13 @@
             "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
             "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin...",
             "published_utc": "2025-12-06T14:45:03+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+            "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+            "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, ju...",
+            "published_utc": "2025-12-04T23:02:34+00:00"
         },
         {
             "source": "WeLiveSecurity",
