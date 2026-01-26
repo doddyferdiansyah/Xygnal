@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-01-26T18:38:47.283394+00:00",
+    "lastUpdatedUTC": "2026-01-26T19:25:03.492944+00:00",
     "articles": [
+        {
+            "source": "InfosecurityMag",
+            "title": "eScan Antivirus Supply Chain Breach Delivers Signed Malware",
+            "link": "https://www.infosecurity-magazine.com/news/escan-antivirus-breach-delivers/",
+            "summary": "Supply chain breach in eScan antivirus distributes multi-stage malware via legitimate updates",
+            "published_utc": "2026-01-26T19:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Your BitLocker-secured Windows PC isn't so secure after all - unless you do this",
+            "link": "https://www.zdnet.com/article/windows-pc-bitlocker-encryption-may-be-shared-with-law-enforcement-how-to-protect-privacy/",
+            "summary": "Microsoft says it may give your encryption key to law enforcement upon a valid request. Here's how to protect your privacy.",
+            "published_utc": "2026-01-26T18:44:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The latest Linux distro to embrace Wayland also makes Arch more accessible",
+            "link": "https://www.zdnet.com/article/cachyos-arch-linux-distro-now-supports-wayland/",
+            "summary": "Fast, beautiful, and free to use, the CachyOS distribution gets a big upgrade.",
+            "published_utc": "2026-01-26T18:40:52+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Microsoft patches actively exploited Office zero-day vulnerability",
@@ -66,16 +87,16 @@
         },
         {
             "source": "ZDNet Security",
-            "title": "My favorite USB-C accessory of all time has a magnetic superpower (and is priced well)",
-            "link": "https://www.zdnet.com/article/usbc-magnetic-breakaway-connector-review/",
-            "summary": "I've been using this USB-C connect for over six years and now own several versions. Here's why it's still with me at all times.",
+            "title": "This $20 remote may be Amazon's most useful gadget yet - here's how I use it",
+            "link": "https://www.zdnet.com/article/amazon-basics-smart-dimmer-switch-and-remote-review/",
+            "summary": "The Amazon Basics Smart Remote lets you control your Alexa-compatible devices with the press of a button.",
             "published_utc": "2026-01-26T17:10:00+00:00"
         },
         {
             "source": "ZDNet Security",
-            "title": "This $20 remote may be Amazon's most useful gadget yet - here's how I use it",
-            "link": "https://www.zdnet.com/article/amazon-basics-smart-dimmer-switch-and-remote-review/",
-            "summary": "The Amazon Basics Smart Remote lets you control your Alexa-compatible devices with the press of a button.",
+            "title": "My favorite USB-C accessory of all time has a magnetic superpower (and is priced well)",
+            "link": "https://www.zdnet.com/article/usbc-magnetic-breakaway-connector-review/",
+            "summary": "I've been using this USB-C connect for over six years and now own several versions. Here's why it's still with me at all times.",
             "published_utc": "2026-01-26T17:10:00+00:00"
         },
         {
@@ -91,6 +112,13 @@
             "link": "https://www.infosecurity-magazine.com/news/cisa-post-quantum-cryptography/",
             "summary": "CISA released initial list of PQC-capable hardware and software to guide companies amid quantum threats",
             "published_utc": "2026-01-26T16:15:00+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Who Operates the Badbox 2.0 Botnet?",
+            "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+            "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicati...",
+            "published_utc": "2026-01-26T16:11:38+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -216,14 +244,7 @@
             "title": "This dual-screen laptop is a creator's dream, but my favorite feature is more subtle",
             "link": "https://www.zdnet.com/article/asus-zenbook-duo-2026-review/",
             "summary": "Asus' 2026 Zenbook Duo has reached its final form, merging notable design updates with Intel's Panther Lake CPU.",
-            "published_utc": "2026-01-26T14:00:46+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The future of Gmail looks AI agent-shaped",
-            "link": "https://www.zdnet.com/article/future-of-gmail-looks-ai-agent-shaped/",
-            "summary": "I spoke with Gmail VP of Product Blake Barnes to better understand Gmail's latest AI updates. Behind them lies a much bigger idea.",
-            "published_utc": "2026-01-26T13:58:00+00:00"
+            "published_utc": "2026-01-26T14:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -252,13 +273,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/01/ireland-proposes-giving-police-new-digital-surveillance-powers.html",
             "summary": "",
             "published_utc": "2026-01-26T12:04:57+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The best email newsletter software of 2026: Expert tested",
-            "link": "https://www.zdnet.com/article/best-email-newsletter-software/",
-            "summary": "I tested the top email newsletter platforms to help you choose the right tool for your business.",
-            "published_utc": "2026-01-26T12:00:47+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -616,13 +630,6 @@
             "link": "https://www.csoonline.com/article/4120607/voidlink-malware-was-almost-entirely-made-by-ai.html",
             "summary": "",
             "published_utc": "2026-01-22T11:44:41+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "UK Executives Warn They May Not Survive a Major Cyber-Attack, Vodafone Survey Finds",
-            "link": "https://www.infosecurity-magazine.com/news/uk-execs-warn-may-not-suruvie/",
-            "summary": "UK Executives Warn They May Not Survive a Major Cyber-Attack, Vodafone Survey Finds",
-            "published_utc": "2026-01-22T11:05:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
@@ -1064,13 +1071,6 @@
             "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
             "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin...",
             "published_utc": "2025-12-06T14:45:03+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-            "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-            "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, ju...",
-            "published_utc": "2025-12-04T23:02:34+00:00"
         },
         {
             "source": "WeLiveSecurity",
