@@ -1,6 +1,62 @@
 {
-    "lastUpdatedUTC": "2026-01-26T14:30:22.932719+00:00",
+    "lastUpdatedUTC": "2026-01-26T15:31:20.150596+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "I used these viral Gemini prompts to find the cheapest flight possible - here are the results",
+            "link": "https://www.zdnet.com/article/how-to-use-google-gemini-to-find-cheapest-flights/",
+            "summary": "I tried 20 popular Gemini prompts to find the safest, cheapest way to fly my family to Florida later this year. Gemini gave me surprisingly specific g...",
+            "published_utc": "2026-01-26T15:27:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Nearly 800,000 Telnet servers exposed to remote attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/nearly-800-000-telnet-servers-exposed-to-remote-attacks/",
+            "summary": "Internet security watchdog Shadowserver tracks nearly 800,000 IP addresses with Telnet fingerprints amid ongoing attacks exploiting a critical authent...",
+            "published_utc": "2026-01-26T15:19:14+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Microsoft handed over BitLocker keys to law enforcement, raising enterprise data control concerns",
+            "link": "https://www.csoonline.com/article/4122151/microsoft-handed-over-bitlocker-keys-to-law-enforcement-raising-enterprise-data-control-concerns-2.html",
+            "summary": "",
+            "published_utc": "2026-01-26T15:14:38+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Microsoft releases second out-of-band fix for Windows in a week",
+            "link": "https://www.csoonline.com/article/4122144/microsoft-releases-second-out-of-band-fix-for-windows-in-a-week-2.html",
+            "summary": "",
+            "published_utc": "2026-01-26T15:02:35+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "6 Okta security settings you might have overlooked",
+            "link": "https://www.bleepingcomputer.com/news/security/6-okta-security-settings-you-might-have-overlooked/",
+            "summary": "Okta misconfigurations can quietly weaken identity security as SaaS environments evolve. Nudge Security shows six Okta security settings teams often o...",
+            "published_utc": "2026-01-26T15:01:11+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Researchers Uncover “Haxor” SEO Poisoning Marketplace",
+            "link": "https://www.infosecurity-magazine.com/news/researchers-haxor-seo-poisoning/",
+            "summary": "Fortra researchers have discovered a new SEO poisoning operation known as “HaxorSEO”",
+            "published_utc": "2026-01-26T15:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "8 urgent updates your IT playbook needs to survive the AI era",
+            "link": "https://www.zdnet.com/article/it-playbook-updates-required-ai-era/",
+            "summary": "Your playbook for 2026 has several new requirements, but it also builds on previous IT guidelines.",
+            "published_utc": "2026-01-26T14:56:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Upwind Raises $250 Million at $1.5 Billion Valuation",
+            "link": "https://www.securityweek.com/upwind-raises-250-million-at-1-5-billion-valuation/",
+            "summary": "",
+            "published_utc": "2026-01-26T14:41:11+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Hackers can bypass npm’s Shai-Hulud defenses via Git dependencies",
@@ -233,25 +289,11 @@
             "published_utc": "2026-01-25T17:16:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Why I prefer last year's Samsung QLED TV over pricier OLED TVs today - and it's $1,000 off",
-            "link": "https://www.zdnet.com/article/samsung-qn90f-tv-2025-review/",
-            "summary": "Samsung's QN90F offers fantastic streaming and gaming performance, and with the brand offering up to $6,000 off, it's the perfect time to upgrade your...",
-            "published_utc": "2026-01-25T17:14:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "1Password adds pop-up warnings for suspected phishing sites",
             "link": "https://www.bleepingcomputer.com/news/security/1password-adds-pop-up-warnings-for-suspected-phishing-sites/",
             "summary": "The 1Password digital vault and password manager has added built-in protection against phishing URLs to help users identify malicious pages and preven...",
             "published_utc": "2026-01-25T15:17:12+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The default TV setting I always turn off when installing one - and why experts mostly agree",
-            "link": "https://www.zdnet.com/article/how-to-turn-off-motion-smoothing-on-tv/",
-            "summary": "Motion smoothing makes games smoother, but it hurts overall film quality. Here's how to disable it.",
-            "published_utc": "2026-01-25T15:00:56+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -401,13 +443,6 @@
             "published_utc": "2026-01-23T16:21:46+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "What an AI-Written Honeypot Taught Us About Trusting Machines",
-            "link": "https://www.bleepingcomputer.com/news/security/what-an-ai-written-honeypot-taught-us-about-trusting-machines/",
-            "summary": "AI-generated code can introduce subtle security flaws when teams over-trust automated output. Intruder shows how an AI-written honeypot introduced hid...",
-            "published_utc": "2026-01-23T14:59:58+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "NHS Issues Open Letter Demanding Improved Cybersecurity Standards from Suppliers",
             "link": "https://www.infosecurity-magazine.com/news/nhs-open-letter-demands-improved/",
@@ -434,20 +469,6 @@
             "link": "https://www.securityweek.com/in-other-news-e1-2b-gdpr-fines-net-ntlmv1-rainbow-tables-rockwell-security-notice/",
             "summary": "",
             "published_utc": "2026-01-23T13:53:29+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft: Outlook for iOS crashes, freezes due to coding error",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-for-ios-crashes-freezes-due-to-coding-error/",
-            "summary": "Microsoft confirmed today that Outlook mobile may crash or freeze when launched on iPad devices due to a coding error. [...]",
-            "published_utc": "2026-01-23T13:34:25+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Phishers Abuse SharePoint in New Campaign Targeting Energy Sector",
-            "link": "https://www.securityweek.com/phishers-abuse-sharepoint-in-new-campaign-targeting-energy-sector/",
-            "summary": "",
-            "published_utc": "2026-01-23T13:19:11+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -618,32 +639,11 @@
             "published_utc": "2026-01-22T06:30:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "GitLab 2FA login protection bypass lets attackers take over accounts",
-            "link": "https://www.csoonline.com/article/4120316/gitlab-2fa-login-protection-bypass-lets-attackers-take-over-accounts.html",
-            "summary": "",
-            "published_utc": "2026-01-21T23:54:10+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Misconfigured demo environments are turning into cloud backdoors to the enterprise",
-            "link": "https://www.csoonline.com/article/4120258/misconfigured-demo-environments-are-turning-into-cloud-backdoors-to-the-enterprise.html",
-            "summary": "",
-            "published_utc": "2026-01-21T22:27:50+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "Surveillance and ICE Are Driving Patients Away From Medical Care, Report Warns",
             "link": "https://www.wired.com/story/surveillance-and-ice-are-driving-patients-away-from-medical-care-report-warns/",
             "summary": "A new EPIC report says data brokers, ad-tech surveillance, and ICE enforcement are among the factors leading to a “health privacy crisis” that is erod...",
             "published_utc": "2026-01-21T18:04:15+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Phishing and Spoofed Sites Remain Primary Entry Points For Olympics",
-            "link": "https://www.infosecurity-magazine.com/news/phishing-spoofed-sites-olympic/",
-            "summary": "Cyber risks for the Milano-Cortina 2026 Winter Games include phishing and spoofed websites as key threat vectors",
-            "published_utc": "2026-01-21T16:00:00+00:00"
         },
         {
             "source": "Schneier",
