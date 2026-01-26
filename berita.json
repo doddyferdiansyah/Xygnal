@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2026-01-26T17:30:58.057538+00:00",
+    "lastUpdatedUTC": "2026-01-26T18:38:47.283394+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft patches actively exploited Office zero-day vulnerability",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-actively-exploited-office-zero-day-vulnerability/",
+            "summary": "Microsoft has released emergency security updates to patch a high-severity Office zero-day vulnerability exploited in attacks. [...]",
+            "published_utc": "2026-01-26T18:20:35+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "This new Linux distro folds a gorgeous COSMIC desktop into an immutable Fedora base",
+            "link": "https://www.zdnet.com/article/origami-linux-cosmic-desktop-immutable-fedora-base/",
+            "summary": "Origami Linux feels impressively fast, stable, and secure.",
+            "published_utc": "2026-01-26T18:02:20+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "You can use Slack, Asana, and Figma directly inside Claude now - here's how",
+            "link": "https://www.zdnet.com/article/claude-work-apps-slack-asana-figma-how-they-work/",
+            "summary": "Anthropic is trying to make Claude the primary UI of our working lives.",
+            "published_utc": "2026-01-26T18:00:41+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Cloudflare misconfiguration behind recent BGP route leak",
+            "link": "https://www.bleepingcomputer.com/news/security/cloudflare-misconfiguration-behind-recent-bgp-route-leak/",
+            "summary": "Cloudflare has shared more details about a recent 25-minute Border Gateway Protocol (BGP) route leak affecting IPv6 traffic, which caused measurable c...",
+            "published_utc": "2026-01-26T17:50:35+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Is TikTok down? Why your feed is suddenly glitchy or broken",
+            "link": "https://www.zdnet.com/article/is-tiktok-down-feed-glitchy-broken/",
+            "summary": "App glitches, strange foreign-language videos, broken FYPs, and upload failures are happening - right after TikTok's ownership change.",
+            "published_utc": "2026-01-26T17:30:15+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Pets chewing through your charging cables? This one's almost indestructible",
@@ -268,20 +303,6 @@
             "published_utc": "2026-01-26T10:55:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "The best private messaging apps of 2026: Expert tested",
-            "link": "https://www.zdnet.com/article/best-private-messaging-apps/",
-            "summary": "Here's our detailed guide to help you find your go-to secured texting app in 2026 and beyond.",
-            "published_utc": "2026-01-26T10:00:48+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I found a new Linux distro that's a productivity powerhouse right out of the box",
-            "link": "https://www.zdnet.com/article/manjaro-elegance-linux-distribution-hands-on/",
-            "summary": "Elegance is a relatively new Linux distribution designed to handle work, media, and gaming.",
-            "published_utc": "2026-01-26T09:00:42+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "Russian Sandworm Hackers Blamed for Cyberattack on Polish Power Grid",
             "link": "https://www.securityweek.com/russian-sandworm-hackers-blamed-for-cyberattack-on-polish-power-grid/",
@@ -308,13 +329,6 @@
             "link": "https://www.securityweek.com/2024-vmware-flaw-now-in-attackers-crosshairs/",
             "summary": "",
             "published_utc": "2026-01-26T05:28:19+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The most powerful Lenovo ThinkPad I've tested surprised in ways I didn't expect",
-            "link": "https://www.zdnet.com/article/lenovo-thinkpad-p1-gen-8-laptop-review/",
-            "summary": "Lenovo's latest ThinkPad P1 is a portable workstation that has it all, but you'll have to be willing to pay to play.",
-            "published_utc": "2026-01-26T02:06:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -429,13 +443,6 @@
             "published_utc": "2026-01-23T19:00:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "CISA confirms active exploitation of four enterprise software bugs",
-            "link": "https://www.bleepingcomputer.com/news/security/cisa-confirms-active-exploitation-of-four-enterprise-software-bugs/",
-            "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) in the U.S. warned of active exploitation of four vulnerabilities impacting enterprise sof...",
-            "published_utc": "2026-01-23T18:47:31+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "NETSCOUT recognized for leadership in network detection and response",
             "link": "https://www.csoonline.com/article/4117431/netscout-recognized-for-leadership-in-network-detection-and-response.html",
@@ -462,13 +469,6 @@
             "link": "https://www.welivesecurity.com/en/eset-research/eset-research-sandworm-cyberattack-poland-power-grid-late-2025/",
             "summary": "The attack involved data-wiping malware that ESET researchers have now analyzed and named DynoWiper",
             "published_utc": "2026-01-23T16:58:26+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "US to deport Venezuelans who emptied bank ATMs using malware",
-            "link": "https://www.bleepingcomputer.com/news/security/us-to-deport-venezuelans-who-emptied-bank-atms-using-malware/",
-            "summary": "South Carolina federal prosecutors announced that two Venezuelan nationals convicted of stealing hundreds of thousands of dollars from U.S. banks in a...",
-            "published_utc": "2026-01-23T16:38:54+00:00"
         },
         {
             "source": "InfosecurityMag",
