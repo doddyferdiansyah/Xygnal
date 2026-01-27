@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2026-01-27T01:58:31.375000+00:00",
+    "lastUpdatedUTC": "2026-01-27T03:52:50.930918+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "Why you need Microsoft's new emergency Windows patch - and the black-screen bug to watch for",
+            "link": "https://www.zdnet.com/article/microsoft-second-emergency-patch-for-windows-in-january-update-now/",
+            "summary": "While Microsoft has been fixing bugs caused by the Patch Tuesday update, another glitch has surfaced.",
+            "published_utc": "2026-01-27T03:40:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The only Linux command you need for monitoring network traffic - and how to use it",
+            "link": "https://www.zdnet.com/article/monitor-network-traffic-iftop-command-linux/",
+            "summary": "Recently, I needed to check on incoming and outgoing traffic to one of my Linux machines. Fortunately, there's an easy way to do just that.",
+            "published_utc": "2026-01-27T03:01:06+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How to file your taxes for free in 2026 - 4 ways to do it (despite Direct File's demise)",
+            "link": "https://www.zdnet.com/article/file-2025-taxes-free-4-ways/",
+            "summary": "The IRS's Direct File Service is no more, but most taxpayers can use one of these free options to prepare their 2025 returns - even if you itemize ded...",
+            "published_utc": "2026-01-27T03:00:47+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Apple AirPods Pro 3 vs. Samsung Galaxy Buds 3 Pro: I tried both models, and this pair wins",
+            "link": "https://www.zdnet.com/article/apple-airpods-pro-3-vs-samsung-galaxy-buds-3-pro/",
+            "summary": "It's a battle of ecosystems - but is one truly superior? Here's my verdict after testing both pairs for a month.",
+            "published_utc": "2026-01-27T02:13:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Inside Google's plan to turn Gmail into a relationship-aware AI agent - and you're at the center",
+            "link": "https://www.zdnet.com/article/future-of-gmail-ai-interview-blake-barnes/",
+            "summary": "I spoke with Gmail VP of Product Blake Barnes to better understand Gmail's latest AI updates. Behind them lies a much larger idea.",
+            "published_utc": "2026-01-27T02:11:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How to clear your TV cache (and why it makes such a big difference)",
+            "link": "https://www.zdnet.com/article/how-to-clear-tv-cache-every-model/",
+            "summary": "Clearing your TV's cache greatly reduces stuttering and improves performance. Here's how to do it on brands like Samsung, LG, and more.",
+            "published_utc": "2026-01-27T02:02:09+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "I changed 10 settings on my Samsung phone to significantly improve the user experience",
@@ -31,16 +73,16 @@
         },
         {
             "source": "ZDNet Security",
-            "title": "Finally, a USB-C charging cable so indestructible, your dog can't even chew through it",
-            "link": "https://www.zdnet.com/article/galvanox-pet-proof-usb-c-charge-cable-review/",
-            "summary": "These Galvanox pet-proof USB-C to USB-C cables are reinforced with stainless steel.",
+            "title": "How to buy the right snow blower, according to someone who's built dozens of them",
+            "link": "https://www.zdnet.com/article/how-to-choose-a-snow-blower-2026/",
+            "summary": "Whether you're buying your first snow blower or replacing one you already have, it can be difficult to know what kind to buy. Here's what to know befo...",
             "published_utc": "2026-01-27T01:22:00+00:00"
         },
         {
             "source": "ZDNet Security",
-            "title": "How to buy the right snow blower, according to someone who's built dozens of them",
-            "link": "https://www.zdnet.com/article/how-to-choose-a-snow-blower-2026/",
-            "summary": "Whether you're buying your first snow blower or replacing one you already have, it can be difficult to know what kind to buy. Here's what to know befo...",
+            "title": "Finally, a USB-C charging cable so indestructible, your dog can't even chew through it",
+            "link": "https://www.zdnet.com/article/galvanox-pet-proof-usb-c-charge-cable-review/",
+            "summary": "These Galvanox pet-proof USB-C to USB-C cables are reinforced with stainless steel.",
             "published_utc": "2026-01-27T01:22:00+00:00"
         },
         {
@@ -142,32 +184,11 @@
             "published_utc": "2026-01-26T18:44:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "The latest Linux distro to embrace Wayland also makes Arch more accessible",
-            "link": "https://www.zdnet.com/article/cachyos-arch-linux-distro-now-supports-wayland/",
-            "summary": "Fast, beautiful, and free to use, the CachyOS distribution gets a big upgrade.",
-            "published_utc": "2026-01-26T18:40:52+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Microsoft patches actively exploited Office zero-day vulnerability",
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-actively-exploited-office-zero-day-vulnerability/",
             "summary": "Microsoft has released emergency security updates to patch a high-severity Office zero-day vulnerability exploited in attacks. [...]",
             "published_utc": "2026-01-26T18:20:35+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "This new Linux distro folds a gorgeous COSMIC desktop into an immutable Fedora base",
-            "link": "https://www.zdnet.com/article/origami-linux-cosmic-desktop-immutable-fedora-base/",
-            "summary": "Origami Linux feels impressively fast, stable, and secure.",
-            "published_utc": "2026-01-26T18:02:20+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "You can use Slack, Asana, and Figma directly inside Claude now - here's how",
-            "link": "https://www.zdnet.com/article/claude-work-apps-slack-asana-figma-how-they-work/",
-            "summary": "Anthropic is trying to make Claude the primary UI of our working lives.",
-            "published_utc": "2026-01-26T18:00:41+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -177,32 +198,11 @@
             "published_utc": "2026-01-26T17:50:35+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Shokz just gave me a compelling reason to ditch my AirPods for good - and I didn't see it coming",
-            "link": "https://www.zdnet.com/article/shokzs-openfit-pro-earbuds-review/",
-            "summary": "Open-ear earbuds allow you to hear everything, but what if you only want to hear some things? The Shokz OpenFit Pro fulfills that need.",
-            "published_utc": "2026-01-26T17:22:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Best Buy is selling last year's Sony OLED TV for $1,100 off - and it's a model I highly recommend",
-            "link": "https://www.zdnet.com/article/best-buy-sony-bravia-8-ii-deal/",
-            "summary": "The Bravia 8 II is Sony's flagship OLED TV and is worth every penny of its retail price, but it's even better when you can snag one for this much off.",
-            "published_utc": "2026-01-26T17:17:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "EU launches investigation into X over Grok-generated sexual images",
             "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/eu-launches-investigation-into-x-over-grok-generated-sexual-images/",
             "summary": "The European Commission is now investigating whether X properly assessed risks before deploying its Grok artificial intelligence tool, following its u...",
             "published_utc": "2026-01-26T17:14:29+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "This $20 remote may be Amazon's most useful gadget yet - here's how I use it",
-            "link": "https://www.zdnet.com/article/amazon-basics-smart-dimmer-switch-and-remote-review/",
-            "summary": "The Amazon Basics Smart Remote lets you control your Alexa-compatible devices with the press of a button.",
-            "published_utc": "2026-01-26T17:10:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -217,13 +217,6 @@
             "link": "https://www.infosecurity-magazine.com/news/cisa-post-quantum-cryptography/",
             "summary": "CISA released initial list of PQC-capable hardware and software to guide companies amid quantum threats",
             "published_utc": "2026-01-26T16:15:00+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Who Operates the Badbox 2.0 Botnet?",
-            "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-            "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicati...",
-            "published_utc": "2026-01-26T16:11:38+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -1071,6 +1064,13 @@
             "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
             "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin...",
             "published_utc": "2025-12-06T14:45:03+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+            "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+            "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, ju...",
+            "published_utc": "2025-12-04T23:02:34+00:00"
         },
         {
             "source": "WeLiveSecurity",
