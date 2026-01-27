@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2026-01-27T12:54:33.083478+00:00",
+    "lastUpdatedUTC": "2026-01-27T13:50:11.837293+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "‘PackageGate’ Flaws Open JavaScript Ecosystem to Supply Chain Attacks",
+            "link": "https://www.securityweek.com/packagegate-flaws-open-javascript-ecosystem-to-supply-chain-attacks/",
+            "summary": "",
+            "published_utc": "2026-01-27T13:43:32+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Why the internet kept breaking and taking down your favorite sites in 2025",
+            "link": "https://www.zdnet.com/article/why-internet-kept-breaking-taking-sites-downs-in-2025/",
+            "summary": "There's a reason outages kept frustrating users last year, according to Cloudflare.",
+            "published_utc": "2026-01-27T13:36:53+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Storing your BitLocker key in the cloud? Microsoft can give it to the FBI - what to do instead",
+            "link": "https://www.zdnet.com/article/windows-pc-bitlocker-encryption-may-be-shared-with-law-enforcement-how-to-protect-privacy/",
+            "summary": "Microsoft says it may give your encryption key to law enforcement upon a valid request. Here's how to protect your privacy.",
+            "published_utc": "2026-01-27T13:20:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Solid-state vs. lithium-ion: Why your iPhone doesn't have the latest battery type yet (for the better)",
+            "link": "https://www.zdnet.com/article/solid-state-batteries-vs-lithium-ion-batteries/",
+            "summary": "Solid-state batteries have significant advantages over lithium-ion batteries. Here's what stands in the way of mass production.",
+            "published_utc": "2026-01-27T13:09:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "CISA releases technology readiness list for post-quantum cryptography",
+            "link": "https://www.csoonline.com/article/4122752/cisa-releases-technology-readiness-list-for-post-quantum-cryptography.html",
+            "summary": "",
+            "published_utc": "2026-01-27T13:06:45+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Cyber Insights 2026: Quantum Computing and the Potential Synergy With Advanced AI",
@@ -247,27 +282,6 @@
             "published_utc": "2026-01-26T21:42:12+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "How I turned my regular tablet into a full-fledged e-reader (whether it's an iPad or Android)",
-            "link": "https://www.zdnet.com/article/how-to-turn-ipad-android-tablet-into-e-reader/",
-            "summary": "There's no need for a separate device when your tablet can hold your whole library.",
-            "published_utc": "2026-01-26T20:30:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I tested a cheap car de-icing gadget from Amazon in the winter cold - here's how it fared",
-            "link": "https://www.zdnet.com/article/car-deicing-gadget-scam-review/",
-            "summary": "Let's take an inside look at one of the latest viral gadgets on social media - and whether or not it's legit.",
-            "published_utc": "2026-01-26T20:21:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Why your iPhone isn't powered by a solid-state battery yet - even though it beats lithium-ion",
-            "link": "https://www.zdnet.com/article/solid-state-batteries-vs-lithium-ion-batteries-for-iphones/",
-            "summary": "Solid-state batteries have significant advantages over lithium-ion batteries. Here's what stands in the way of mass production.",
-            "published_utc": "2026-01-26T20:08:40+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Russian hackers accused of attack on Poland electricity grid",
             "link": "https://www.csoonline.com/article/4122256/russian-hackers-accused-of-attack-on-polands-power-grid.html",
@@ -308,13 +322,6 @@
             "link": "https://www.infosecurity-magazine.com/news/cisa-post-quantum-cryptography/",
             "summary": "CISA released initial list of PQC-capable hardware and software to guide companies amid quantum threats",
             "published_utc": "2026-01-26T16:15:00+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Who Operates the Badbox 2.0 Botnet?",
-            "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-            "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicati...",
-            "published_utc": "2026-01-26T16:11:38+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -427,13 +434,6 @@
             "link": "https://www.wired.com/story/deepfake-nudify-technology-is-getting-darker-and-more-dangerous/",
             "summary": "Sexual deepfakes continue to get more sophisticated, capable, easy to access, and perilous for millions of women who are abused with the technology.",
             "published_utc": "2026-01-26T11:30:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "TikTok Finalizes a Deal to Form a New American Entity",
-            "link": "https://www.securityweek.com/tiktok-finalizes-a-deal-to-form-a-new-american-entity/",
-            "summary": "",
-            "published_utc": "2026-01-26T11:29:23+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -630,13 +630,6 @@
             "link": "https://www.csoonline.com/article/4121134/ransomware-gangs-slip-up-led-to-data-recovery-for-12-us-firms.html",
             "summary": "",
             "published_utc": "2026-01-23T02:23:58+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Trivial Telnet authentication bypass exposes devices to complete takeover",
-            "link": "https://www.csoonline.com/article/4120997/trivial-telnet-authentication-bypass-exposes-devices-to-complete-takeover.html",
-            "summary": "",
-            "published_utc": "2026-01-22T22:28:16+00:00"
         },
         {
             "source": "WIRED Security",
@@ -1071,6 +1064,13 @@
             "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
             "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin...",
             "published_utc": "2025-12-06T14:45:03+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+            "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+            "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, ju...",
+            "published_utc": "2025-12-04T23:02:34+00:00"
         },
         {
             "source": "WeLiveSecurity",
