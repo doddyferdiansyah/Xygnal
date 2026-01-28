@@ -1,6 +1,20 @@
 {
-    "lastUpdatedUTC": "2026-01-28T18:40:14.595206+00:00",
+    "lastUpdatedUTC": "2026-01-28T19:30:38.696414+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "I used Netflix's secret codes to quintuple my viewing options - here's how",
+            "link": "https://www.zdnet.com/article/netflix-secret-codes-unlock-catalog/",
+            "summary": "By searching these unique codes on your Netflix app or browser, you'll uncover hundreds of new genres and obscure shows.",
+            "published_utc": "2026-01-28T19:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Google's new 'Aluminium OS' just leaked - here's what we learned",
+            "link": "https://www.zdnet.com/article/google-aluminium-os-leaked-chromeos-android/",
+            "summary": "The long-rumored merger of ChromeOS and Android gets fresh confirmation in a leaked bug report.",
+            "published_utc": "2026-01-28T18:59:48+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "I'm a diehard Pixel fan, but this sleek Android phone has me questioning why",
@@ -168,20 +182,6 @@
             "link": "https://www.zdnet.com/article/dewalt-electric-snow-blower-review/",
             "summary": "The DeWalt 60V Max snow blower is tough enough to handle everything from fresh powder to ice. Here's how it weathered the most recent storm.",
             "published_utc": "2026-01-28T15:58:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How to keep your PC encryption key safe - from Microsoft and the FBI",
-            "link": "https://www.zdnet.com/article/how-to-keep-pc-bitlocker-encryption-key-safe-from-microsoft-fbi/",
-            "summary": "Microsoft says it may give your encryption key to law enforcement upon a valid request. Here's how to protect your privacy.",
-            "published_utc": "2026-01-28T15:36:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Google's $8 AI Plus plan is here - should you switch from the $20 Pro?",
-            "link": "https://www.zdnet.com/article/google-ai-plus-debuts-should-you-switch-from-pro-plan/",
-            "summary": "Want more Gemini without paying for Pro? Google AI Plus might be for you. Here's what it includes.",
-            "published_utc": "2026-01-28T15:29:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -574,13 +574,6 @@
             "link": "https://www.infosecurity-magazine.com/news/cisa-post-quantum-cryptography/",
             "summary": "CISA released initial list of PQC-capable hardware and software to guide companies amid quantum threats",
             "published_utc": "2026-01-26T16:15:00+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Who Operates the Badbox 2.0 Botnet?",
-            "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-            "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicati...",
-            "published_utc": "2026-01-26T16:11:38+00:00"
         },
         {
             "source": "CSO Online",
@@ -1078,6 +1071,13 @@
             "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
             "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin...",
             "published_utc": "2025-12-06T14:45:03+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+            "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+            "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, ju...",
+            "published_utc": "2025-12-04T23:02:34+00:00"
         },
         {
             "source": "WeLiveSecurity",
