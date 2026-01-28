@@ -1,6 +1,20 @@
 {
-    "lastUpdatedUTC": "2026-01-28T20:34:08.771399+00:00",
+    "lastUpdatedUTC": "2026-01-28T21:31:12.192208+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "eScan confirms update server breached to push malicious update",
+            "link": "https://www.bleepingcomputer.com/news/security/escan-confirms-update-server-breached-to-push-malicious-update/",
+            "summary": "MicroWorld Technologies, the maker of the eScan antivirus product, has confirmed that one of its update servers was breached and used to distribute an...",
+            "published_utc": "2026-01-28T21:00:40+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I watched the Challenger shuttle disaster from inside Mission Control - 40 years ago today",
+            "link": "https://www.zdnet.com/article/remembering-challenger-shuttle-disaster/",
+            "summary": "It was manned space flight's darkest day.",
+            "published_utc": "2026-01-28T20:32:00+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Viral Moltbot AI assistant raises concerns over data security",
@@ -10,7 +24,7 @@
         },
         {
             "source": "WIRED Security",
-            "title": "Here's the Company That Sold DHS ICE's Notorious Face Recognition App",
+            "title": "Here’s the Company That Sold DHS ICE’s Notorious Face Recognition App",
             "link": "https://www.wired.com/story/mobile-fortify-face-recognition-nec-ice-cbp/",
             "summary": "Immigration agents have used Mobile Fortify to scan the faces of countless people in the US—including many citizens.",
             "published_utc": "2026-01-28T20:17:15+00:00"
@@ -189,13 +203,6 @@
             "link": "https://www.zdnet.com/article/kde-plasma-6-6-neon-unstable/",
             "summary": "If you're looking to see what's coming in KDE Plasma 6.6, your best bet is to give KDE Neon Unstable a try.",
             "published_utc": "2026-01-28T16:26:33+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I tested Lenovo's most powerful ThinkPad, and it surprised me in ways I didn't expect",
-            "link": "https://www.zdnet.com/article/lenovo-thinkpad-p1-gen-8-review/",
-            "summary": "Lenovo's latest ThinkPad P1 is a portable workstation that has it all, but you'll have to be willing to pay to play.",
-            "published_utc": "2026-01-28T16:20:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -448,13 +455,6 @@
             "link": "https://www.infosecurity-magazine.com/news/pyodide-sandbox-escape-rce-grist/",
             "summary": "Critical sandbox escape vulnerability in Grist-Core enables remote code execution via a malicious formula",
             "published_utc": "2026-01-27T16:45:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Critical sandbox escape flaw found in popular vm2 NodeJS library",
-            "link": "https://www.bleepingcomputer.com/news/security/critical-sandbox-escape-flaw-discovered-in-popular-vm2-nodejs-library/",
-            "summary": "A critical-severity vulnerability in the vm2 Node.js sandbox library, tracked as CVE-2026-22709, allows escaping the sandbox and executing arbitrary c...",
-            "published_utc": "2026-01-27T16:35:29+00:00"
         },
         {
             "source": "InfosecurityMag",
