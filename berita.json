@@ -1,6 +1,55 @@
 {
-    "lastUpdatedUTC": "2026-01-28T17:33:46.689712+00:00",
+    "lastUpdatedUTC": "2026-01-28T18:40:14.595206+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "I'm a diehard Pixel fan, but this sleek Android phone has me questioning why",
+            "link": "https://www.zdnet.com/article/redmagic-air-11-android-review/",
+            "summary": "The RedMagic Air 11 is a brilliant Android phone that blows away most of the competition.",
+            "published_utc": "2026-01-28T18:30:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "This genius new Roku feature helps you find everything you need much faster - here's how",
+            "link": "https://www.zdnet.com/article/roku-subscriptions-menu-find-new-movie-shows-to-watch-fast/",
+            "summary": "It's a godsend if you subscribe to several streaming services - even ones not billed directly through Roku.",
+            "published_utc": "2026-01-28T18:22:46+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Your Google Chrome browser just got a useful autopilot feature - here's how it works",
+            "link": "https://www.zdnet.com/article/google-chrome-auto-browse/",
+            "summary": "Google's new Auto Browse feature aims to handle your digital chores by taking actions on your behalf.",
+            "published_utc": "2026-01-28T18:00:45+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "New sandbox escape flaw exposes n8n instances to RCE attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/new-sandbox-escape-flaw-exposes-n8n-instances-to-rce-attacks/",
+            "summary": "Two vulnerabilities in the n8n workflow automation platform could allow attackers to fully compromise affected instances, access sensitive data, and e...",
+            "published_utc": "2026-01-28T17:46:57+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "FBI seizes RAMP cybercrime forum used by ransomware gangs",
+            "link": "https://www.bleepingcomputer.com/news/security/fbi-seizes-ramp-cybercrime-forum-used-by-ransomware-gangs/",
+            "summary": "The FBI has seized the notorious RAMP cybercrime forum, a platform used to advertise a wide range of malware and hacking services, and one of the few ...",
+            "published_utc": "2026-01-28T17:38:45+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "My favorite budget-friendly robot vacuum is from a brand you've never heard of",
+            "link": "https://www.zdnet.com/article/i3-g10-plus-robot-vacuum-mop-review/",
+            "summary": "I test robot vacuums for a living, but one of the most pleasant surprises is from a $230 unit.",
+            "published_utc": "2026-01-28T17:35:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I changed 6 settings on my iPad to instantly improve the battery life (by hours)",
+            "link": "https://www.zdnet.com/article/best-ipad-settings-change-improve-battery-life/",
+            "summary": "A few simple tweaks, and you'll quickly find yourself with a tablet that lasts longer than usual.",
+            "published_utc": "2026-01-28T17:34:00+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "Palo Alto unveils Quantum-Safe Security to mitigate cryptographic risk",
@@ -12,7 +61,7 @@
             "source": "BleepingComputer",
             "title": "Empire cybercrime market owner pleads guilty to drug conspiracy",
             "link": "https://www.bleepingcomputer.com/news/security/empire-cybercrime-market-owner-pleads-guilty-to-drug-conspiracy/",
-            "summary": "​A Virginia man who co-created Empire Market, one of the largest dark web marketplaces at the time, pleaded guilty Monday to federal drug conspiracy c...",
+            "summary": "​A Virginia man who co-created Empire Market, one of the largest dark web marketplaces at the time, pleaded guilty to federal drug conspiracy charges ...",
             "published_utc": "2026-01-28T17:19:02+00:00"
         },
         {
@@ -163,46 +212,11 @@
             "published_utc": "2026-01-28T14:26:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "After charging my iPhone the 'Apple way' for 2 years, here's the state of its battery now",
-            "link": "https://www.zdnet.com/article/charging-iphone-apple-way-2-years-results/",
-            "summary": "Is there a correct way to charge your iPhone? And what happens when you do? Here's what happened to mine after two years.",
-            "published_utc": "2026-01-28T14:21:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "14 secret phone codes that unlock hidden features on your Android and iPhone",
-            "link": "https://www.zdnet.com/article/secret-phone-codes-unlock-hidden-features-on-your-android-iphone/",
-            "summary": "I dialed these short codes on my phone to access secret menus, screens, and features that are highly useful.",
-            "published_utc": "2026-01-28T14:12:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Samsung is selling last year's QLED TV for $1,300 off right now, and it's a top choice for me",
-            "link": "https://www.zdnet.com/article/samsung-qn80f-tv-deal/",
-            "summary": "The Samsung QN80F is a high-end TV featuring object-tracking sound and a 120Hz refresh rate - and it's almost 40% off right now.",
-            "published_utc": "2026-01-28T14:01:00+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "Why We Can’t Let AI Take the Wheel of Cyber Defense",
             "link": "https://www.securityweek.com/why-we-cant-let-ai-take-the-wheel-of-cyber-defense/",
             "summary": "",
             "published_utc": "2026-01-28T14:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Your Android phone's most powerful security feature is off by default and hidden - turn it on now",
-            "link": "https://www.zdnet.com/article/how-to-turn-on-advanced-protection-android-16-phone/",
-            "summary": "One of Google's most critical features is hidden behind a single toggle - turn it on to protect against theft, scams, spam, and more.",
-            "published_utc": "2026-01-28T13:50:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "My new favorite PC accessory is the ultimate productivity tool for work travel",
-            "link": "https://www.zdnet.com/article/protoarc-caseup-combo-review/",
-            "summary": "ProtoArc's CaseUp combo packs an ergonomic office setup into a portable case, and it's on sale for a limited time.",
-            "published_utc": "2026-01-28T13:44:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -441,20 +455,6 @@
             "link": "https://www.csoonline.com/article/4122799/4-probleme-die-cisos-behindern.html",
             "summary": "",
             "published_utc": "2026-01-27T15:16:52+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "From Cipher to Fear: The psychology behind modern ransomware extortion",
-            "link": "https://www.bleepingcomputer.com/news/security/from-cipher-to-fear-the-psychology-behind-modern-ransomware-extortion/",
-            "summary": "Modern ransomware has shifted from encryption to psychological extortion that exploits fear, liability, and exposure. Flare shows how today's ransomwa...",
-            "published_utc": "2026-01-27T15:02:12+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Over 6,000 SmarterMail servers exposed to automated hijacking attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/over-6-000-smartermail-servers-exposed-to-automated-hijacking-attacks/",
-            "summary": "Nonprofit security organization Shadowserver has found over 6,000 SmarterMail servers exposed online and likely vulnerable to attacks exploiting a cri...",
-            "published_utc": "2026-01-27T14:09:47+00:00"
         },
         {
             "source": "InfosecurityMag",
