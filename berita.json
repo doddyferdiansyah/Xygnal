@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2026-01-28T11:24:45.824044+00:00",
+    "lastUpdatedUTC": "2026-01-28T12:54:40.566475+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Slovakian man pleads guilty to operating darknet marketplace",
+            "link": "https://www.bleepingcomputer.com/news/security/slovakian-man-pleads-guilty-to-operating-kingdown-market-cybercrime-marketplace/",
+            "summary": "A Slovakian national admitted on Tuesday to helping operate a darknet marketplace that sold narcotics, cybercrime tools and services, fake government ...",
+            "published_utc": "2026-01-28T12:49:05+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "6 Best VPN Services (2026), Tested and Reviewed",
+            "link": "https://www.wired.com/gallery/best-vpn/",
+            "summary": "Every VPN says it’s the best, but only some of them are telling the truth.",
+            "published_utc": "2026-01-28T12:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Emojis in PureRAT’s Code Point to AI-Generated Malware Campaign",
+            "link": "https://www.infosecurity-magazine.com/news/emojis-in-purerats-code/",
+            "summary": "Researchers discover that PureRAT’s code now contains emojis – indicating it has been written by AI based-on comments ripped from social media.",
+            "published_utc": "2026-01-28T12:10:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "New WhatsApp lockdown feature protects high-risk users from hackers",
+            "link": "https://www.bleepingcomputer.com/news/security/whatsapp-gets-new-lockdown-feature-that-blocks-cyberattacks/",
+            "summary": "Meta has started rolling out a new WhatsApp lockdown-style security feature designed to protect journalists, public figures, and other high-risk indiv...",
+            "published_utc": "2026-01-28T11:48:26+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "AI Security Threats Loom as Enterprise Usage Jumps 91%",
+            "link": "https://www.infosecurity-magazine.com/news/ai-security-threats-loom-zscaler/",
+            "summary": "Zscaler analysts found critical vulnerabilities in 100% of enterprise AI systems, with 90% compromised in under 90 minutes",
+            "published_utc": "2026-01-28T11:45:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Critical FortiCloud SSO zero‑day forces emergency service disablement at Fortinet",
+            "link": "https://www.csoonline.com/article/4123500/critical-forticloud-sso-zero%e2%80%91day-forces-emergency-service-disablement-at-fortinet.html",
+            "summary": "",
+            "published_utc": "2026-01-28T11:44:18+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "Sicarii ransomware locks your data and throws away the keys",
@@ -492,20 +534,6 @@
             "published_utc": "2026-01-26T18:20:35+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Cloudflare misconfiguration behind recent BGP route leak",
-            "link": "https://www.bleepingcomputer.com/news/security/cloudflare-misconfiguration-behind-recent-bgp-route-leak/",
-            "summary": "Cloudflare has shared more details about a recent 25-minute Border Gateway Protocol (BGP) route leak affecting IPv6 traffic, which caused measurable c...",
-            "published_utc": "2026-01-26T17:50:35+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "EU launches investigation into X over Grok-generated sexual images",
-            "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/eu-launches-investigation-into-x-over-grok-generated-sexual-images/",
-            "summary": "The European Commission is now investigating whether X properly assessed risks before deploying its Grok artificial intelligence tool, following its u...",
-            "published_utc": "2026-01-26T17:14:29+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Digitale Integrität: Warum Firewall und IDS nicht reichen",
             "link": "https://www.csoonline.com/article/4121937/digitale-integritat-warum-firewall-und-ids-nicht-reichen.html",
@@ -555,13 +583,6 @@
             "published_utc": "2026-01-26T13:00:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "Okta Flags Customized, Reactive Vishing Attacks Which Bypass MFA",
-            "link": "https://www.infosecurity-magazine.com/news/okta-flags-vishing-attacks-which/",
-            "summary": "Threat actors posing as IT support teams use phishing kits to generate fake login sites in real-time to trick victims into handing over credentials",
-            "published_utc": "2026-01-26T12:12:00+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Ireland Proposes Giving Police New Digital Surveillance Powers",
             "link": "https://www.schneier.com/blog/archives/2026/01/ireland-proposes-giving-police-new-digital-surveillance-powers.html",
@@ -576,25 +597,11 @@
             "published_utc": "2026-01-26T11:30:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "Wiper Attack on Polish Power Grid Linked to Russia’s Sandworm",
-            "link": "https://www.infosecurity-magazine.com/news/wiper-attack-polish-power-grid/",
-            "summary": "A destructive cyber attack targeting Poland’s energy sector has been linked to Russian APT group Sandworm",
-            "published_utc": "2026-01-26T10:55:00+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Dobrindt zu Cyberangriffen: “Wir werden zurückschlagen”",
             "link": "https://www.csoonline.com/article/4121852/dobrindt-zu-cyberangriffen-wir-werden-zuruckschlagen.html",
             "summary": "",
             "published_utc": "2026-01-26T08:07:24+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "CISO’s predictions for 2026",
-            "link": "https://www.csoonline.com/article/4116527/cisos-predictions-for-2026.html",
-            "summary": "",
-            "published_utc": "2026-01-26T07:00:00+00:00"
         },
         {
             "source": "WIRED Security",
@@ -973,13 +980,6 @@
             "link": "https://www.wired.com/story/worst-hacks-of-2025/",
             "summary": "From university breaches to cyberattacks that shut down whole supply chains, these were the worst cybersecurity incidents of the year.",
             "published_utc": "2025-12-29T12:00:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "The New Surveillance State Is You",
-            "link": "https://www.wired.com/story/expired-tired-wired-surveillance-state/",
-            "summary": "Privacy may be dead, but civilians are turning conventional wisdom on its head by surveilling the cops as much as the cops surveil them.",
-            "published_utc": "2025-12-29T11:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
