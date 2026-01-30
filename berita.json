@@ -1,6 +1,55 @@
 {
-    "lastUpdatedUTC": "2026-01-30T14:47:44.634322+00:00",
+    "lastUpdatedUTC": "2026-01-30T15:36:52.076644+00:00",
     "articles": [
+        {
+            "source": "Schneier",
+            "title": "AIs Are Getting Better at Finding and Exploiting Security Vulnerabilities",
+            "link": "https://www.schneier.com/blog/archives/2026/01/ais-are-getting-better-at-finding-and-exploiting-security-vulnerabilities.html",
+            "summary": "",
+            "published_utc": "2026-01-30T15:35:15+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Labyrinth Chollima Evolves into Three North Korean Hacking Groups",
+            "link": "https://www.infosecurity-magazine.com/news/labyrinth-chollima-dprk-three/",
+            "summary": "CrowdStrike assessed that two new threat actor groups have spun off from North Korean Labyrinth Chollima hackers",
+            "published_utc": "2026-01-30T15:30:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Why France just dumped Microsoft Teams and Zoom - and what's replacing them",
+            "link": "https://www.zdnet.com/article/france-dumps-teams-zoom-digital-sovereignty-replacement/",
+            "summary": "France plans to replace all US video-conferencing services, marking the EU's latest push for digital sovereignty - with more moves on the way.",
+            "published_utc": "2026-01-30T15:27:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Get a month of 5G Home Internet on T-Mobile, plus $300 back - here's how",
+            "link": "https://www.zdnet.com/article/t-mobile-5g-home-internet-deal/",
+            "summary": "Want to switch your internet provider? Consider this T-Mobile deal that gets you up to $300 cash back.",
+            "published_utc": "2026-01-30T15:17:43+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Aisy Launches Out of Stealth to Transform Vulnerability Management",
+            "link": "https://www.securityweek.com/aisy-launches-out-of-stealth-to-transform-vulnerability-management/",
+            "summary": "",
+            "published_utc": "2026-01-30T15:00:46+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Is Google saving your voice recordings? How to check, delete, and opt out - fast",
+            "link": "https://www.zdnet.com/article/how-to-find-google-voice-recordings-check-delete-opt-out/",
+            "summary": "I was a little unsettled by what I found.",
+            "published_utc": "2026-01-30T14:57:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft fixes Outlook bug blocking access to encrypted emails",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-bug-blocking-access-to-encrypted-emails/",
+            "summary": "Microsoft has fixed a known issue that prevented Microsoft 365 customers from opening encrypted emails in classic Outlook after a recent update. [...]",
+            "published_utc": "2026-01-30T14:48:49+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "175,000 Exposed Ollama Hosts Could Enable LLM Abuse",
@@ -212,27 +261,6 @@
             "published_utc": "2026-01-30T02:02:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I bricked my iPhone to prevent doomscrolling - and accidentally fixed my life",
-            "link": "https://www.zdnet.com/article/brick-iphone-review/",
-            "summary": "Brick is one of the few new devices that positively changed my daily content consumption.",
-            "published_utc": "2026-01-30T02:00:38+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Microsoft may give your encryption key to law enforcement upon valid request - here's how to keep it safe",
-            "link": "https://www.zdnet.com/article/how-to-keep-pc-bitlocker-encryption-key-safe-from-fbi-microsoft/",
-            "summary": "Concerned about encryption and privacy? Here's how to protect your data despite Microsoft's recent policy.",
-            "published_utc": "2026-01-30T02:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "This free web tool unlocked data my Oura Ring app barely shows - but can it be trusted?",
-            "link": "https://www.zdnet.com/article/oura-ring-simple-wearable-report-ai-chatbot/",
-            "summary": "Simple Wearable Report uses AI to extract more insights from your Oura Ring data. Here's how it works.",
-            "published_utc": "2026-01-30T01:58:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Microsoft links Windows 11 boot failures to failed December 2025 update",
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-links-windows-11-boot-failures-to-failed-december-2025-update/",
@@ -422,13 +450,6 @@
             "published_utc": "2026-01-29T11:41:25+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Google Disrupts IPIDEA Proxy Network",
-            "link": "https://www.securityweek.com/google-disrupts-ipidea-proxy-network/",
-            "summary": "",
-            "published_utc": "2026-01-29T11:26:41+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Number of Cybersecurity Pros Surges 194% in Four Years",
             "link": "https://www.infosecurity-magazine.com/news/number-cybersecurity-pros-surges/",
@@ -513,13 +534,6 @@
             "published_utc": "2026-01-28T21:40:18+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "eScan confirms update server breached to push malicious update",
-            "link": "https://www.bleepingcomputer.com/news/security/escan-confirms-update-server-breached-to-push-malicious-update/",
-            "summary": "MicroWorld Technologies, the maker of the eScan antivirus product, has confirmed that one of its update servers was breached and used to distribute an...",
-            "published_utc": "2026-01-28T21:00:40+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "Here’s the Company That Sold DHS ICE’s Notorious Face Recognition App",
             "link": "https://www.wired.com/story/mobile-fortify-face-recognition-nec-ice-cbp/",
@@ -539,13 +553,6 @@
             "link": "https://www.csoonline.com/article/4123719/palo-alto-warns-of-quantum-risk-to-digital-security.html",
             "summary": "",
             "published_utc": "2026-01-28T17:23:26+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Autonomous System Uncovers Long-Standing OpenSSL Flaws",
-            "link": "https://www.infosecurity-magazine.com/news/12-openssl-flaws/",
-            "summary": "A recent update has fixed 12 vulnerabilities in OpenSSL, some existing in the codebase for years",
-            "published_utc": "2026-01-28T16:45:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -611,6 +618,13 @@
             "published_utc": "2026-01-26T22:39:30+00:00"
         },
         {
+            "source": "KrebsOnSecurity",
+            "title": "Who Operates the Badbox 2.0 Botnet?",
+            "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+            "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicati...",
+            "published_utc": "2026-01-26T16:11:38+00:00"
+        },
+        {
             "source": "Schneier",
             "title": "Ireland Proposes Giving Police New Digital Surveillance Powers",
             "link": "https://www.schneier.com/blog/archives/2026/01/ireland-proposes-giving-police-new-digital-surveillance-powers.html",
@@ -672,13 +686,6 @@
             "link": "https://www.welivesecurity.com/en/eset-research/eset-research-sandworm-cyberattack-poland-power-grid-late-2025/",
             "summary": "The attack involved data-wiping malware that ESET researchers have now analyzed and named DynoWiper",
             "published_utc": "2026-01-23T16:58:26+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "AIs are Getting Better at Finding and Exploiting Internet Vulnerabilities",
-            "link": "https://www.schneier.com/blog/archives/2026/01/ais-are-getting-better-at-finding-and-exploiting-internet-vulnerabilities.html",
-            "summary": "",
-            "published_utc": "2026-01-23T12:01:19+00:00"
         },
         {
             "source": "WIRED Security",
@@ -805,13 +812,6 @@
             "link": "https://www.wired.com/story/former-cisa-director-jen-easterly-will-lead-rsa-conference/",
             "summary": "The longtime cybersecurity professional says she’s taking the helm of the legacy security organization at “an inflection point” for tech and the world...",
             "published_utc": "2026-01-15T13:00:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "New Vulnerability in n8n",
-            "link": "https://www.schneier.com/blog/archives/2026/01/new-vulnerability-in-n8n.html",
-            "summary": "",
-            "published_utc": "2026-01-15T12:05:04+00:00"
         },
         {
             "source": "WIRED Security",
@@ -1071,13 +1071,6 @@
             "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
             "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin...",
             "published_utc": "2025-12-06T14:45:03+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-            "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-            "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, ju...",
-            "published_utc": "2025-12-04T23:02:34+00:00"
         },
         {
             "source": "WeLiveSecurity",
