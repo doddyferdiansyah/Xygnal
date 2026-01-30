@@ -1,6 +1,20 @@
 {
-    "lastUpdatedUTC": "2026-01-30T08:42:11.977373+00:00",
+    "lastUpdatedUTC": "2026-01-30T09:40:23.673862+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "ICS Devices Bricked Following Russia-Linked Intrusion Into Polish Power Grid",
+            "link": "https://www.securityweek.com/ics-devices-bricked-in-russia-linked-strike-on-polish-power-grid/",
+            "summary": "",
+            "published_utc": "2026-01-30T09:35:06+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Forget the chief AI officer - why your business needs this 'magician'",
+            "link": "https://www.zdnet.com/article/caio-chief-ai-officer-alternative-director-of-ai-productivity/",
+            "summary": "Looking to exploit generative AI effectively? Here are three reasons your company needs a senior data executive with special collaborative powers.",
+            "published_utc": "2026-01-30T09:01:01+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Ivanti Patches Exploited EPMM Zero-Days",
@@ -189,13 +203,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-two-epmm-flaws-exploited-in-zero-day-attacks/",
             "summary": "Ivanti has disclosed two critical vulnerabilities in Ivanti Endpoint Manager Mobile (EPMM), tracked as CVE-2026-1281 and CVE-2026-1340, that were expl...",
             "published_utc": "2026-01-29T22:07:33+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Why France just dumped Microsoft Teams and Zoom for homegrown videoconferencing",
-            "link": "https://www.zdnet.com/article/france-dumps-teams-zoom-homegrown-videoconferencing-eu-digital-sovereignty/",
-            "summary": "Aiming to replace all US videoconferencing services by 2027, the deployment is the EU's latest policy move in support of digital sovereignty. And ther...",
-            "published_utc": "2026-01-29T19:51:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -520,13 +527,6 @@
             "published_utc": "2026-01-28T14:26:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Why We Can’t Let AI Take the Wheel of Cyber Defense",
-            "link": "https://www.securityweek.com/why-we-cant-let-ai-take-the-wheel-of-cyber-defense/",
-            "summary": "",
-            "published_utc": "2026-01-28T14:00:00+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Massives Datenleck bedroht rund 150 Millionen Benutzer",
             "link": "https://www.csoonline.com/article/4123589/massives-datenleck-bedroht-rund-150-millionen-benutzer.html",
@@ -609,13 +609,6 @@
             "link": "https://www.wired.com/story/judge-delays-minnesota-ice-decision-while-weighing-whether-state-was-being-illegally-punished/",
             "summary": "A federal judge ordered a new briefing due Wednesday on whether DHS is using armed raids to pressure Minnesota into abandoning its sanctuary policies,...",
             "published_utc": "2026-01-26T22:39:30+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Who Operates the Badbox 2.0 Botnet?",
-            "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-            "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicati...",
-            "published_utc": "2026-01-26T16:11:38+00:00"
         },
         {
             "source": "Schneier",
@@ -1078,6 +1071,13 @@
             "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
             "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin...",
             "published_utc": "2025-12-06T14:45:03+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+            "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+            "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, ju...",
+            "published_utc": "2025-12-04T23:02:34+00:00"
         },
         {
             "source": "WeLiveSecurity",
