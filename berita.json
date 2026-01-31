@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-01-30T23:27:12.690870+00:00",
+    "lastUpdatedUTC": "2026-01-31T02:05:00.858321+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "The viral AI agent Moltbot is a security mess - 5 red flags you shouldn't ignore (before it's too late)",
+            "link": "https://www.zdnet.com/article/moltbot-clawdbot-5-reasons-viral-ai-agent-security-nightmare/",
+            "summary": "Handing your computing tasks over to a cute AI crustacean might be tempting - but you should consider these security risks before getting started.",
+            "published_utc": "2026-01-31T02:00:45+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "LG will give you a free 27-inch UltraGear monitor with its latest preorder deal - how to redeem",
+            "link": "https://www.zdnet.com/article/lg-ultragear-oled-preorder-deal/",
+            "summary": "Right now at LG, you can get a 27-inch UltraGear LED monitor when you preorder the latest OLED model.",
+            "published_utc": "2026-01-31T01:00:42+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "This popular Bose speaker is losing software support in a few weeks - but I can't even be upset",
+            "link": "https://www.zdnet.com/article/bose-soundtouch-speaker-open-source-lifeline/",
+            "summary": "Every consumer electronics company should follow Bose's lead with how it's handled its aging SoundTouch speaker.",
+            "published_utc": "2026-01-31T00:23:00+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "Ivanti patches two actively exploited critical vulnerabilities in EPMM",
@@ -20,7 +41,7 @@
             "title": "21 secret Netflix settings I use to instantly upgrade my streaming experience",
             "link": "https://www.zdnet.com/article/netflix-settings-tips-tricks-hacks/",
             "summary": "I dug into Netflix's menus and unlocked a world of hidden content and features.",
-            "published_utc": "2026-01-30T21:59:50+00:00"
+            "published_utc": "2026-01-30T21:59:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -219,32 +240,11 @@
             "published_utc": "2026-01-30T12:31:25+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Should you buy a cheap robot vacuum? I tested this $200 model, and it went surprisingly well",
-            "link": "https://www.zdnet.com/article/i3-g10-plus-robot-vacuum-mop-review/",
-            "summary": "I test robot vacuums for a living, but one of the most pleasant surprises is from the 3i G10+, which is relatively affordable.",
-            "published_utc": "2026-01-30T12:20:00+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Hugging Face infra abused to spread Android RAT in a large-scale malware campaign",
             "link": "https://www.csoonline.com/article/4124958/hugging-face-infra-abused-to-spread-android-rat-in-a-large-scale-malware-campaign.html",
             "summary": "",
             "published_utc": "2026-01-30T12:16:23+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "This $20 smart remote has completely changed how I use Alexa at home",
-            "link": "https://www.zdnet.com/article/amazon-basics-smart-dimmer-switch-remote-review/",
-            "summary": "The Amazon Basics Smart Remote lets you control and map your Alexa-compatible devices with a single press.",
-            "published_utc": "2026-01-30T12:13:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "What is MoCA 2.5? How this low-cost networking option can seriously improve your internet",
-            "link": "https://www.zdnet.com/article/what-is-moca-2-5-improve-internet/",
-            "summary": "MoCA 2.5 is a great alternative to Wi-Fi networks that leverage old coaxial cables to enable high-speed internet.",
-            "published_utc": "2026-01-30T12:10:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -623,6 +623,13 @@
             "link": "https://www.wired.com/story/judge-delays-minnesota-ice-decision-while-weighing-whether-state-was-being-illegally-punished/",
             "summary": "A federal judge ordered a new briefing due Wednesday on whether DHS is using armed raids to pressure Minnesota into abandoning its sanctuary policies,...",
             "published_utc": "2026-01-26T22:39:30+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Who Operates the Badbox 2.0 Botnet?",
+            "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+            "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicati...",
+            "published_utc": "2026-01-26T16:11:38+00:00"
         },
         {
             "source": "Schneier",
@@ -1064,13 +1071,6 @@
             "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
             "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin...",
             "published_utc": "2025-12-06T14:45:03+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-            "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-            "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, ju...",
-            "published_utc": "2025-12-04T23:02:34+00:00"
         },
         {
             "source": "WeLiveSecurity",
