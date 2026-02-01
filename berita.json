@@ -1,6 +1,20 @@
 {
-    "lastUpdatedUTC": "2026-02-01T15:27:09.971668+00:00",
+    "lastUpdatedUTC": "2026-02-01T16:32:31.393045+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Exposed MongoDB instances still targeted in data extortion attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/exposed-mongodb-instances-still-targeted-in-data-extortion-attacks/",
+            "summary": "A threat actor is targeting exposed MongoDB instances in automated data extortion attacks demanding low ransoms from owners to restore the data. [...]",
+            "published_utc": "2026-02-01T16:27:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "New Apple privacy feature limits location tracking on iPhones, iPads",
+            "link": "https://www.bleepingcomputer.com/news/apple/new-apple-privacy-feature-limits-location-tracking-on-iphones-ipads/",
+            "summary": "Apple is introducing a new privacy feature that lets users limit the precision of location data shared with cellular networks on some iPhone and iPad ...",
+            "published_utc": "2026-02-01T15:20:40+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "MacBook Pro vs. MacBook Air: We tested both models, and here's which one to buy in 2026",
@@ -413,20 +427,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/hugging-face-abused-to-spread-thousands-of-android-malware-variants/",
             "summary": "A new Android malware campaign is using the Hugging Face platform as a repository for thousands of variations of an APK payload that collects credenti...",
             "published_utc": "2026-01-29T22:08:19+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Ivanti warns of two EPMM flaws exploited in zero-day attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-two-epmm-flaws-exploited-in-zero-day-attacks/",
-            "summary": "Ivanti has disclosed two critical vulnerabilities in Ivanti Endpoint Manager Mobile (EPMM), tracked as CVE-2026-1281 and CVE-2026-1340, that were expl...",
-            "published_utc": "2026-01-29T22:07:33+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Google disrupts IPIDEA residential proxy networks fueled by malware",
-            "link": "https://www.bleepingcomputer.com/news/security/google-disrupts-ipidea-residential-proxy-networks-fueled-by-malware/",
-            "summary": "IPIDEA, one of the largest residential proxy networks used by threat actors, was disrupted earlier this week by Google Threat Intelligence Group (GTIG...",
-            "published_utc": "2026-01-29T19:29:17+00:00"
         },
         {
             "source": "WIRED Security",
