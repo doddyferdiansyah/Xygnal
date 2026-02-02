@@ -1,12 +1,47 @@
 {
-    "lastUpdatedUTC": "2026-02-02T16:42:31.365070+00:00",
+    "lastUpdatedUTC": "2026-02-02T17:39:00.086928+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "RAM too expensive? Here's how to speed up your Linux system anyway - for free",
+            "link": "https://www.zdnet.com/article/ram-prices-linux-zram/",
+            "summary": "If you haven't noticed, the price of memory has shot through the roof. If you can't afford to boost your Linux system with hardware, try this software...",
+            "published_utc": "2026-02-02T17:32:27+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I've tested all of Apple's smart watches - I recommend this one in 2026 (and it's $100 off)",
+            "link": "https://www.zdnet.com/article/apple-watch-series-11-review/",
+            "summary": "Looking for a smartwatch to help you tackle your 2026 fitness goals? The Apple Watch Series 11 is on sale for the first time this year.",
+            "published_utc": "2026-02-02T17:30:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft: January update shutdown bug affects more Windows PCs",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-january-update-shutdown-bug-affects-more-windows-pcs/",
+            "summary": "Microsoft has confirmed that a known issue preventing some Windows 11 devices from shutting down also affects Windows 10 systems with Virtual Secure M...",
+            "published_utc": "2026-02-02T17:17:30+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "This subscription-free smart ring is an Oura alternative I still recommend in 2026",
+            "link": "https://www.zdnet.com/article/ringconn-gen-2-review/",
+            "summary": "RingConn's second-generation smart ring is competitively priced, and doesn't lock your data behind subscription fees.",
+            "published_utc": "2026-02-02T16:52:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Massive 31.4 Tbps DDoS attack breaks records: How the 'apex' of botnets could be weaponizing your home devices",
             "link": "https://www.zdnet.com/article/what-is-aisuru-botnet-ddos-assault/",
-            "summary": "The \"apex\" botnet's ongoing activities highlight how consumer devices are being weaponized to launch cyberattacks on the world stage.",
-            "published_utc": "2026-02-02T16:23:32+00:00"
+            "summary": "The botnet's ongoing activities highlight how consumer devices are being weaponized to launch cyberattacks on the world stage.",
+            "published_utc": "2026-02-02T16:23:00+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
+            "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+            "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from vic...",
+            "published_utc": "2026-02-02T16:15:16+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -296,13 +331,6 @@
             "published_utc": "2026-02-02T08:07:34+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "More workers are using AI than ever - they're also trusting it less: Inside the frustration gap",
-            "link": "https://www.zdnet.com/article/confidence-in-ai-tools-among-workers-plunged-why-and-what-to-do-about-it/",
-            "summary": "AI adoption is up while employee confidence in the technology is down. A report from ManpowerGroup explains why.",
-            "published_utc": "2026-02-02T08:00:00+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "CSO Barry Hensley on staying a step ahead of the cyber threat landscape",
             "link": "https://www.csoonline.com/article/4101470/a-desire-to-protect-his-nation-made-barry-hensley-seek-a-career-in-cybersecurity-after-24-years-of-military-service.html",
@@ -329,20 +357,6 @@
             "link": "https://www.csoonline.com/article/4122039/das-nachste-grose-security-schlachtfeld.html",
             "summary": "",
             "published_utc": "2026-02-02T03:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Ring vs. Blink: I compared Amazon's two biggest security brands, and here's my winner",
-            "link": "https://www.zdnet.com/article/ring-vs-blink/",
-            "summary": "Both Ring and Blink dominate the security camera market, but they couldn't be more different. Here's the breakdown.",
-            "published_utc": "2026-02-02T02:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Windows 11 Home vs. Windows 11 Pro: How to decide which edition to upgrade your PC to",
-            "link": "https://www.zdnet.com/article/windows-11-home-windows-11-pro-compared/",
-            "summary": "Windows 11 Pro offers more control - but is it worth the extra money? Here's my two cents, as someone who's used both.",
-            "published_utc": "2026-02-02T01:59:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -462,13 +476,6 @@
             "link": "https://www.securityweek.com/in-other-news-paid-for-being-jailed-googles-68m-settlement-cisa-chiefs-chatgpt-leak/",
             "summary": "",
             "published_utc": "2026-01-30T17:49:31+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft to disable NTLM by default in future Windows releases",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-disable-ntlm-by-default-in-future-windows-releases/",
-            "summary": "Microsoft announced that it will disable the 30-year-old NTLM authentication protocol by default in upcoming Windows releases due to security vulnerab...",
-            "published_utc": "2026-01-30T17:08:57+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -672,6 +679,13 @@
             "link": "https://www.wired.com/story/judge-delays-minnesota-ice-decision-while-weighing-whether-state-was-being-illegally-punished/",
             "summary": "A federal judge ordered a new briefing due Wednesday on whether DHS is using armed raids to pressure Minnesota into abandoning its sanctuary policies,...",
             "published_utc": "2026-01-26T22:39:30+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Who Operates the Badbox 2.0 Botnet?",
+            "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+            "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicati...",
+            "published_utc": "2026-01-26T16:11:38+00:00"
         },
         {
             "source": "Schneier",
@@ -1071,20 +1085,6 @@
             "link": "https://www.welivesecurity.com/en/business-security/big-catch-how-whaling-attacks-target-top-executives/",
             "summary": "Is your organization’s senior leadership vulnerable to a cyber-harpooning? Learn how to keep them safe.",
             "published_utc": "2025-12-09T10:00:00+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
-            "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
-            "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin...",
-            "published_utc": "2025-12-06T14:45:03+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-            "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-            "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, ju...",
-            "published_utc": "2025-12-04T23:02:34+00:00"
         },
         {
             "source": "WeLiveSecurity",
