@@ -1,6 +1,83 @@
 {
-    "lastUpdatedUTC": "2026-02-02T18:47:57.855009+00:00",
+    "lastUpdatedUTC": "2026-02-02T23:30:18.215139+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "Microsoft disables NTLM in Windows",
+            "link": "https://www.csoonline.com/article/4125947/microsoft-disables-ntlm-in-windows.html",
+            "summary": "",
+            "published_utc": "2026-02-02T22:05:47+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "New GlassWorm attack targets macOS via compromised OpenVSX extensions",
+            "link": "https://www.bleepingcomputer.com/news/security/new-glassworm-attack-targets-macos-via-compromised-openvsx-extensions/",
+            "summary": "A new GlassWorm malware attack through compromised OpenVSX extensions focuses on stealing passwords, crypto-wallet data, and developer credentials and...",
+            "published_utc": "2026-02-02T22:04:19+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "8K is down to one manufacturer after LG's exit - so where does TV tech go next?",
+            "link": "https://www.zdnet.com/article/lg-drops-8k-tv-whats-next/",
+            "summary": "If more resolution isn't the answer, what advances can TV buyers expect? Here's our take.",
+            "published_utc": "2026-02-02T21:41:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How I'm using this $20 smart remote by Amazon to automate my home",
+            "link": "https://www.zdnet.com/article/amazon-basics-smart-dimmer-remote-review/",
+            "summary": "The Amazon Basics Smart Remote lets you control and map your Alexa-compatible devices with a single press. Here's I use mine.",
+            "published_utc": "2026-02-02T21:01:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Russian hackers exploit recently patched Microsoft Office bug in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-recently-patched-microsoft-office-bug-in-attacks/",
+            "summary": "Ukraine's Computer Emergency Response Team (CERT) says that Russian hackers are exploiting CVE-2026-21509, a recently patched vulnerability in multipl...",
+            "published_utc": "2026-02-02T21:00:07+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Hate your Windows 11 UI? Try a MacOS or Linux-like shell: My 3 picks",
+            "link": "https://www.zdnet.com/article/windows-11-alternative-shells/",
+            "summary": "Are you tired of the Windows 11 UI? Are you jealous of your friends' Linux desktops? If so, you might want to give one of these alternative shells a try.",
+            "published_utc": "2026-02-02T20:38:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Why lithium batteries continue to fail your phone and laptop - and 6 ways to reduce the risk",
+            "link": "https://www.zdnet.com/article/why-smartphone-and-laptop-batteries-explode-and-how-to-protect-yourself/",
+            "summary": "A faulty lithium-ion battery is a serious hazard and can catch fire. Here's what to do if the unthinkable happens - and some preventive measures.",
+            "published_utc": "2026-02-02T20:01:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "You've been using super glue all wrong",
+            "link": "https://www.zdnet.com/article/youve-been-using-super-glue-all-wrong/",
+            "summary": "Super glue is highly useful, but are you getting the most out of it? Try these 10 expert tips and tricks for results that stick.",
+            "published_utc": "2026-02-02T19:39:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "This $50 tool essentially gives you another pair of hands to work with",
+            "link": "https://www.zdnet.com/article/stanley-maxsteel-multi-angle-hobby-vice-review/",
+            "summary": "Even after using the Stanley Maxsteel vice for so long, I'm still finding new ways to leverage its capabilities in my DIY workshop.",
+            "published_utc": "2026-02-02T19:29:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Malicious MoltBot skills used to push password-stealing malware",
+            "link": "https://www.bleepingcomputer.com/news/security/malicious-moltbot-skills-used-to-push-password-stealing-malware/",
+            "summary": "More than 230 malicious packages for the personal AI assistant OpenClaw (formerly known as Moltbot and ClawdBot) have been published in less than a we...",
+            "published_utc": "2026-02-02T19:11:12+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I lived with the Echo Show 11 for weeks - and loved it (until I looked closer)",
+            "link": "https://www.zdnet.com/article/amazon-echo-show-11-alexa-plus-review/",
+            "summary": "Amazon's latest Echo Show is a definite upgrade to its predecessors, and it's $40 off for a limited time.",
+            "published_utc": "2026-02-02T19:00:11+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Samsung's biggest feature upgrade for the S26 Ultra will be hidden in plain sight - here's why",
@@ -77,6 +154,13 @@
             "link": "https://www.zdnet.com/article/what-is-aisuru-botnet-ddos-assault/",
             "summary": "The botnet's ongoing activities highlight how consumer devices are being weaponized to launch cyberattacks on the world stage.",
             "published_utc": "2026-02-02T16:23:00+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
+            "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+            "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from vic...",
+            "published_utc": "2026-02-02T16:15:16+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -184,27 +268,6 @@
             "published_utc": "2026-02-02T12:29:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "These unassuming pliers replaced my multitool for a fraction of the cost",
-            "link": "https://www.zdnet.com/article/knipex-cobra-xs-water-pump-pliers-review/",
-            "summary": "Multitools are often too flashy, expensive, and not really that handy. I found a cheaper alternative that's somehow better.",
-            "published_utc": "2026-02-02T12:26:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "7 cool and useful things I can do with my Flipper Zero - as someone who's used it for years",
-            "link": "https://www.zdnet.com/article/7-useful-things-flipper-zero-can-do/",
-            "summary": "This quirky little gadget went viral on TikTok, but it's got a lot more going for it than meets the eye.",
-            "published_utc": "2026-02-02T12:17:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "OpenClaw is a security nightmare - 5 red flags you shouldn't ignore (before it's too late)",
-            "link": "https://www.zdnet.com/article/openclaw-moltbot-clawdbot-5-reasons-viral-ai-agent-security-nightmare/",
-            "summary": "Handing your computing tasks over to a cute AI crustacean might be intriguing - but you should consider these security risks before doing so.",
-            "published_utc": "2026-02-02T12:13:00+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "This stealthy Windows RAT holds live conversations with its operators",
             "link": "https://www.csoonline.com/article/4125567/this-stealthy-windows-rat-holds-live-conversations-with-its-operators.html",
@@ -219,39 +282,11 @@
             "published_utc": "2026-02-02T12:05:34+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "3 security gadgets I never leave home without (and they're more affordable than you'd think)",
-            "link": "https://www.zdnet.com/article/3-security-gadgets-i-never-leave-home-without/",
-            "summary": "These must-have tools help protect against hacking and data loss, without costing an arm and a leg.",
-            "published_utc": "2026-02-02T12:04:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The best online collaboration software of 2026: Expert tested",
-            "link": "https://www.zdnet.com/article/best-online-collaboration-software/",
-            "summary": "Collaborating online means communication, file sharing, and task management. Here are the tools to stay connected with teammates without sacrificing p...",
-            "published_utc": "2026-02-02T12:00:48+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "Cyber Insights 2026: Malware and Cyberattacks in the Age of AI",
             "link": "https://www.securityweek.com/cyber-insights-2026-malware-and-cyberattacks-in-the-age-of-ai/",
             "summary": "",
             "published_utc": "2026-02-02T12:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "This tiny accessory gives your Android thermal vision superpowers (and works on iPhone, too)",
-            "link": "https://www.zdnet.com/article/thermal-master-p2-android-iphone-review/",
-            "summary": "Thermal cameras are infinitely useful, and this one from Thermal Master would be a fantastic addition to any Android user's toolkit.",
-            "published_utc": "2026-02-02T11:58:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Forget Google Search: I found a search tool that doesn't track me or push AI - and it gets better",
-            "link": "https://www.zdnet.com/article/yacy-google-search-alternative-hands-on/",
-            "summary": "YaCy is fully private and can be installed on Linux, Mac, and Windows PCs. Here's my experience so far, and how to use it yourself.",
-            "published_utc": "2026-02-02T11:54:00+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -401,32 +436,11 @@
             "published_utc": "2026-01-31T17:33:42+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Cloud storage payment scam floods inboxes with fake renewals",
-            "link": "https://www.bleepingcomputer.com/news/security/cloud-storage-payment-scam-floods-inboxes-with-fake-renewals/",
-            "summary": "Over the past few months, a large-scale cloud storage subscription scam campaign has been targeting users worldwide with repeated emails falsely warni...",
-            "published_utc": "2026-01-31T16:21:32+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Mandiant details how ShinyHunters abuse SSO to steal cloud data",
-            "link": "https://www.bleepingcomputer.com/news/security/mandiant-details-how-shinyhunters-abuse-sso-to-steal-cloud-data/",
-            "summary": "Mandiant says a wave of recent ShinyHunters SaaS data-theft attacks is being fueled by targeted voice phishing (vishing) attacks and company-branded p...",
-            "published_utc": "2026-01-31T15:02:12+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "eScan Antivirus Delivers Malware in Supply Chain Attack",
             "link": "https://www.securityweek.com/escan-antivirus-delivers-malware-in-supply-chain-attack/",
             "summary": "",
             "published_utc": "2026-01-31T15:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Researcher reveals evidence of private Instagram profiles leaking photos",
-            "link": "https://www.bleepingcomputer.com/news/security/researcher-reveals-evidence-of-private-instagram-profiles-leaking-photos/",
-            "summary": "A researcher has released detailed evidence showing some Instagram private accounts exposed photo links to unauthenticated visitors. The issue was lat...",
-            "published_utc": "2026-01-31T14:27:12+00:00"
         },
         {
             "source": "WIRED Security",
@@ -604,13 +618,6 @@
             "published_utc": "2026-01-29T13:53:29+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Critical RCE bugs expose the n8n automation platform to host‑level compromise",
-            "link": "https://www.csoonline.com/article/4124343/critical-rce-bugs-expose-the-n8n-automation-platform-to-host%e2%80%91level-compromise.html",
-            "summary": "",
-            "published_utc": "2026-01-29T12:38:54+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "ICE Is Using Palantir’s AI Tools to Sort Through Tips",
             "link": "https://www.wired.com/story/ice-is-using-palantirs-ai-tools-to-sort-through-tips/",
@@ -672,6 +679,13 @@
             "link": "https://www.wired.com/story/judge-delays-minnesota-ice-decision-while-weighing-whether-state-was-being-illegally-punished/",
             "summary": "A federal judge ordered a new briefing due Wednesday on whether DHS is using armed raids to pressure Minnesota into abandoning its sanctuary policies,...",
             "published_utc": "2026-01-26T22:39:30+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Who Operates the Badbox 2.0 Botnet?",
+            "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+            "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicati...",
+            "published_utc": "2026-01-26T16:11:38+00:00"
         },
         {
             "source": "Schneier",
@@ -1071,20 +1085,6 @@
             "link": "https://www.welivesecurity.com/en/business-security/big-catch-how-whaling-attacks-target-top-executives/",
             "summary": "Is your organization’s senior leadership vulnerable to a cyber-harpooning? Learn how to keep them safe.",
             "published_utc": "2025-12-09T10:00:00+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
-            "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
-            "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin...",
-            "published_utc": "2025-12-06T14:45:03+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-            "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-            "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, ju...",
-            "published_utc": "2025-12-04T23:02:34+00:00"
         },
         {
             "source": "WeLiveSecurity",
