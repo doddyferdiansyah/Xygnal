@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2026-02-02T13:03:22.540661+00:00",
+    "lastUpdatedUTC": "2026-02-02T14:42:25.186277+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "I tried a Claude Code alternative that's local, open source, and completely free - how it works",
+            "link": "https://www.zdnet.com/article/claude-code-alternative-free-local-open-source-goose-getting-started/",
+            "summary": "I was curious if Block's Goose agent, paired with Ollama and the Qwen3-coder model, could really replace Claude Code. Here's how I got started.",
+            "published_utc": "2026-02-02T14:30:50+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Open VSX Publisher Account Hijacked in Fresh GlassWorm Attack",
+            "link": "https://www.securityweek.com/open-vsx-publisher-account-hijacked-in-fresh-glassworm-attack/",
+            "summary": "",
+            "published_utc": "2026-02-02T14:12:50+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Default ICS Credentials Exploited in Destructive Attack on Polish Energy Facilities",
+            "link": "https://www.securityweek.com/default-ics-credentials-exploited-in-destructive-attack-on-polish-energy-facilities/",
+            "summary": "",
+            "published_utc": "2026-02-02T13:50:53+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Panera Bread breach impacts 5.1 million accounts, not 14 million customers",
+            "link": "https://www.bleepingcomputer.com/news/security/panera-bread-data-breach-impacts-51-million-accounts-not-14-million-customers/",
+            "summary": "The data breach notification service Have I Been Pwned says that a data breach at the U.S. food chain Panera Bread affected 5.1 million accounts, not ...",
+            "published_utc": "2026-02-02T13:46:39+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "How risk culture turns cyber teams predictive",
+            "link": "https://www.csoonline.com/article/4125172/how-risk-culture-turns-cyber-teams-predictive.html",
+            "summary": "",
+            "published_utc": "2026-02-02T13:30:00+00:00"
+        },
         {
             "source": "InfosecurityMag",
             "title": "Fancy Bear Exploits Microsoft Office Flaw in Ukraine, EU Cyber-Attacks",
@@ -24,7 +59,7 @@
         },
         {
             "source": "ZDNet Security",
-            "title": "This unassuming plier replaced my multitool for a fraction of the cost",
+            "title": "These unassuming pliers replaced my multitool for a fraction of the cost",
             "link": "https://www.zdnet.com/article/knipex-cobra-xs-water-pump-pliers-review/",
             "summary": "Multitools are often too flashy, expensive, and not really that handy. I found a cheaper alternative that's somehow better.",
             "published_utc": "2026-02-02T12:26:00+00:00"
@@ -199,10 +234,10 @@
         },
         {
             "source": "ZDNet Security",
-            "title": "Why workers are losing confidence in AI - and what businesses can do about it",
+            "title": "The more workers use AI, the less they trust it: Inside the frustration gap",
             "link": "https://www.zdnet.com/article/confidence-in-ai-tools-among-workers-plunged-why-and-what-to-do-about-it/",
             "summary": "AI adoption is up while employee confidence in the technology is down. A report from ManpowerGroup explains why.",
-            "published_utc": "2026-02-02T08:00:44+00:00"
+            "published_utc": "2026-02-02T08:00:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -266,13 +301,6 @@
             "link": "https://www.zdnet.com/article/airtag-2-vs-airtag-1/",
             "summary": "Apple's new AirTag has finally launched, but is it worth upgrading when you can frequently buy the older one at a discount?",
             "published_utc": "2026-02-02T01:52:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Why I'm recommending Google's Pixel Buds in 2026 (after years of passing on them)",
-            "link": "https://www.zdnet.com/article/google-pixel-buds-pro-2-review/",
-            "summary": "After giving up on my original Pixel Buds Pro, I rolled the dice on a pair of Pro 2. I'm shocked at how much they've improved.",
-            "published_utc": "2026-02-02T01:48:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -443,13 +471,6 @@
             "published_utc": "2026-01-30T14:48:49+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "175,000 Exposed Ollama Hosts Could Enable LLM Abuse",
-            "link": "https://www.securityweek.com/175000-exposed-ollama-hosts-could-enable-llm-abuse/",
-            "summary": "",
-            "published_utc": "2026-01-30T14:34:13+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "NIS2: Lieferketten als Risikofaktor",
             "link": "https://www.csoonline.com/article/4124984/nis2-lieferketten-als-risikofaktor.html",
@@ -457,25 +478,11 @@
             "published_utc": "2026-01-30T13:46:48+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "White House Scraps ‘Burdensome’ Software Security Rules",
-            "link": "https://www.securityweek.com/white-house-scraps-burdensome-software-security-rules/",
-            "summary": "",
-            "published_utc": "2026-01-30T12:31:25+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Hugging Face infra abused to spread Android RAT in a large-scale malware campaign",
             "link": "https://www.csoonline.com/article/4124958/hugging-face-infra-abused-to-spread-android-rat-in-a-large-scale-malware-campaign.html",
             "summary": "",
             "published_utc": "2026-01-30T12:16:23+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Windows 11 KB5074105 update fixes boot, sign-in, and activation issues",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5074105-update-fixes-boot-sign-in-and-activation-issues/",
-            "summary": "Microsoft has released the KB5074105 preview cumulative update for Windows 11 systems, which includes 32 changes, including fixes for sign-in, boot, a...",
-            "published_utc": "2026-01-30T12:02:09+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -602,13 +609,6 @@
             "link": "https://www.csoonline.com/article/4124320/cisa-chief-uploaded-sensitive-government-files-to-public-chatgpt.html",
             "summary": "",
             "published_utc": "2026-01-29T11:41:25+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Reports of GDPR violations have risen sharply",
-            "link": "https://www.csoonline.com/article/4122281/reports-of-gdpr-violations-have-risen-sharply.html",
-            "summary": "",
-            "published_utc": "2026-01-29T09:30:00+00:00"
         },
         {
             "source": "WIRED Security",
