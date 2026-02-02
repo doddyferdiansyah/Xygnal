@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-02-02T10:46:55.245171+00:00",
+    "lastUpdatedUTC": "2026-02-02T11:36:30.558599+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft fixes bug causing password sign-in option to disappear",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-password-sign-in-option-to-disappear/",
+            "summary": "Microsoft has fixed a known issue that was causing the password sign-in option to disappear from the lock screen options after installing Windows 11 u...",
+            "published_utc": "2026-02-02T11:34:34+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Microsoft Moves Closer to Disabling NTLM",
+            "link": "https://www.securityweek.com/microsoft-moves-closer-to-disabling-ntlm/",
+            "summary": "",
+            "published_utc": "2026-02-02T11:31:40+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "ICE and Qatari Security Forces at the Winter Olympics Put Italians on Edge",
+            "link": "https://www.wired.com/story/ice-and-qatari-security-forces-at-the-winter-olympics-put-italians-on-edge/",
+            "summary": "The influx of security personnel from around the world is sparking concern among Italians ahead of the Milano Cortina Olympic Games.",
+            "published_utc": "2026-02-02T11:00:00+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Japan, Britain to Boost Cybersecurity and Critical Minerals Cooperation as China’s Influence Grows",
@@ -457,13 +478,6 @@
             "published_utc": "2026-01-30T09:35:06+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Ivanti Patches Exploited EPMM Zero-Days",
-            "link": "https://www.securityweek.com/ivanti-patches-exploited-epmm-zero-days/",
-            "summary": "",
-            "published_utc": "2026-01-30T08:32:35+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "The CSO guide to top security conferences",
             "link": "https://www.csoonline.com/article/559539/the-cso-guide-to-top-security-conferences.html",
@@ -483,13 +497,6 @@
             "link": "https://www.csoonline.com/article/4124775/roughly-half-of-employees-are-using-unsanctioned-ai-tools-and-enterprise-leaders-are-major-culprits-2.html",
             "summary": "",
             "published_utc": "2026-01-30T03:15:05+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft links Windows 11 boot failures to failed December 2025 update",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-links-windows-11-boot-failures-to-failed-december-2025-update/",
-            "summary": "Microsoft has linked recent reports of Windows 11 boot failures after installing the January 2026 updates to previously failed attempts to install the...",
-            "published_utc": "2026-01-30T00:21:49+00:00"
         },
         {
             "source": "CSO Online",
@@ -658,13 +665,6 @@
             "link": "https://www.wired.com/story/judge-delays-minnesota-ice-decision-while-weighing-whether-state-was-being-illegally-punished/",
             "summary": "A federal judge ordered a new briefing due Wednesday on whether DHS is using armed raids to pressure Minnesota into abandoning its sanctuary policies,...",
             "published_utc": "2026-01-26T22:39:30+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Who Operates the Badbox 2.0 Botnet?",
-            "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-            "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicati...",
-            "published_utc": "2026-01-26T16:11:38+00:00"
         },
         {
             "source": "Schneier",
@@ -940,13 +940,6 @@
             "published_utc": "2026-01-09T15:19:18+00:00"
         },
         {
-            "source": "WIRED Security",
-            "title": "ICE Agent Who Reportedly Shot Renee Good Was a Firearms Trainer, per Testimony",
-            "link": "https://www.wired.com/story/ice-agent-jonathan-ross-renee-good-shooting-firearms-trainer-testimony/",
-            "summary": "Jonathan Ross told a federal court in December about his professional background, including “hundreds” of encounters with drivers during enforcement a...",
-            "published_utc": "2026-01-09T03:19:26+00:00"
-        },
-        {
             "source": "KrebsOnSecurity",
             "title": "Who Benefited from the Aisuru and Kimwolf Botnets?",
             "link": "https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/",
@@ -1085,6 +1078,13 @@
             "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
             "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin...",
             "published_utc": "2025-12-06T14:45:03+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+            "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+            "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, ju...",
+            "published_utc": "2025-12-04T23:02:34+00:00"
         },
         {
             "source": "WeLiveSecurity",
