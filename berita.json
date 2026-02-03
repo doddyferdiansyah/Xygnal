@@ -1,6 +1,55 @@
 {
-    "lastUpdatedUTC": "2026-02-03T13:04:13.922987+00:00",
+    "lastUpdatedUTC": "2026-02-03T14:44:19.464638+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "RapidFort Raises $42M to Automate Software Supply Chain Security",
+            "link": "https://www.securityweek.com/rapidfort-raises-42m-to-automate-software-supply-chain-security/",
+            "summary": "",
+            "published_utc": "2026-02-03T14:41:18+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "UK privacy watchdog probes Grok over AI-generated sexual images",
+            "link": "https://www.bleepingcomputer.com/news/security/uk-privacy-watchdog-probes-grok-over-ai-generated-sexual-images/",
+            "summary": "The United Kingdom's data protection authority launched a formal investigation into X and its Irish subsidiary over reports that the Grok AI assistant...",
+            "published_utc": "2026-02-03T14:25:50+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "This Auracast receiver is the home theater upgrade I didn't know I needed - but there's a big catch",
+            "link": "https://www.zdnet.com/article/sennheiser-bta1-tv-headphones-review/",
+            "summary": "Sennheiser's RS 275 TV headphone bundle delivers one of the flexible in-home entertainment experiences I've tested.",
+            "published_utc": "2026-02-03T14:00:38+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers exploit critical React Native Metro bug to breach dev systems",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-react-native-metro-bug-to-breach-dev-systems/",
+            "summary": "Hackers are targeting developers by exploiting the critical vulnerability CVE-2025-11953 in the Metro server for React Native to deliver malicious pay...",
+            "published_utc": "2026-02-03T14:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Critical React Native Vulnerability Exploited in the Wild",
+            "link": "https://www.securityweek.com/critical-react-native-vulnerability-exploited-in-the-wild/",
+            "summary": "",
+            "published_utc": "2026-02-03T14:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Researchers Warn of New “Vect” RaaS Variant",
+            "link": "https://www.infosecurity-magazine.com/news/researchers-warn-new-vect-raas/",
+            "summary": "A new ransomware-as-a-service operation dubbed “Vect” features custom malware",
+            "published_utc": "2026-02-03T14:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Vulnerability Allows Hackers to Hijack OpenClaw AI Assistant",
+            "link": "https://www.securityweek.com/vulnerability-allows-hackers-to-hijack-openclaw-ai-assistant/",
+            "summary": "",
+            "published_utc": "2026-02-03T13:44:55+00:00"
+        },
         {
             "source": "InfosecurityMag",
             "title": "Cybercrime Unit of Paris Prosecutors Raid Elon Musk’s X Offices in France",
@@ -233,13 +282,6 @@
             "published_utc": "2026-02-03T00:21:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "How to turn ChatGPT into a scam detector using the new Malwarebytes integration - for free",
-            "link": "https://www.zdnet.com/article/malwarebytes-in-chatgpt-flags-scams-for-free/",
-            "summary": "Are you being scammed? This new ChatGPT trick scans suspicious numbers, emails, and links to keep you safe.",
-            "published_utc": "2026-02-03T00:20:00+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Microsoft disables NTLM in Windows",
             "link": "https://www.csoonline.com/article/4125947/microsoft-disables-ntlm-in-windows.html",
@@ -280,13 +322,6 @@
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-january-update-shutdown-bug-affects-more-windows-pcs/",
             "summary": "Microsoft has confirmed that a known issue preventing some Windows 11 devices from shutting down also affects Windows 10 systems with Virtual Secure M...",
             "published_utc": "2026-02-02T17:17:30+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-            "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-            "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from vic...",
-            "published_utc": "2026-02-02T16:15:16+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -387,13 +422,6 @@
             "published_utc": "2026-02-02T12:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Over 1,400 MongoDB Databases Ransacked by Threat Actor",
-            "link": "https://www.securityweek.com/over-1400-mongodb-databases-ransacked-by-threat-actor/",
-            "summary": "",
-            "published_utc": "2026-02-02T11:45:56+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Microsoft fixes bug causing password sign-in option to disappear",
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-password-sign-in-option-to-disappear/",
@@ -401,25 +429,11 @@
             "published_utc": "2026-02-02T11:34:34+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Microsoft Moves Closer to Disabling NTLM",
-            "link": "https://www.securityweek.com/microsoft-moves-closer-to-disabling-ntlm/",
-            "summary": "",
-            "published_utc": "2026-02-02T11:31:40+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "ICE and Qatari Security Forces at the Winter Olympics Put Italians on Edge",
             "link": "https://www.wired.com/story/ice-and-qatari-security-forces-at-the-winter-olympics-put-italians-on-edge/",
             "summary": "The influx of security personnel from around the world is sparking concern among Italians ahead of the Milano Cortina Olympic Games.",
             "published_utc": "2026-02-02T11:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Japan, Britain to Boost Cybersecurity and Critical Minerals Cooperation as China’s Influence Grows",
-            "link": "https://www.securityweek.com/japan-britain-to-boost-cybersecurity-and-critical-minerals-cooperation-as-chinas-influence-grows/",
-            "summary": "",
-            "published_utc": "2026-02-02T10:35:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -511,20 +525,6 @@
             "link": "https://www.bleepingcomputer.com/news/apple/new-apple-privacy-feature-limits-location-tracking-on-iphones-ipads/",
             "summary": "Apple is introducing a new privacy feature that lets users limit the precision of location data shared with cellular networks on some iPhone and iPad ...",
             "published_utc": "2026-02-01T15:20:40+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "OpenAI says you can trust ChatGPT answers, as it kicks off ads rollout preparation",
-            "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-you-can-trust-chatgpt-answers-as-it-kicks-off-ads-rollout-preparation/",
-            "summary": "OpenAI previously confirmed that it's testing ads in ChatGPT for free and $8 Go accounts, and now we're seeing early signs of that rollout, at least o...",
-            "published_utc": "2026-02-01T02:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "OpenAI is retiring famous GPT-4o model, says GPT 5.2 is good enough",
-            "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-retiring-famous-gpt-4o-model-says-gpt-52-is-good-enough/",
-            "summary": "OpenAI has confirmed that it's retiring ChatGPT's most popular model called GPT-4o and several other models, including GPT-5 Instant, GPT-5 Thinking, ...",
-            "published_utc": "2026-02-01T01:26:02+00:00"
         },
         {
             "source": "WIRED Security",
@@ -625,13 +625,6 @@
             "published_utc": "2026-01-29T18:04:13+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "Google Disrupts Extensive Residential Proxy Networks",
-            "link": "https://www.infosecurity-magazine.com/news/google-disrupts-proxy-networks/",
-            "summary": "Google has taken coordinated action against the massive IPIDEA residential proxy network, enhancing customer protections and disrupting cybercrime ope...",
-            "published_utc": "2026-01-29T17:15:00+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "An AI Toy Exposed 50,000 Logs of Its Chats With Kids to Anyone With a Gmail Account",
             "link": "https://www.wired.com/story/an-ai-toy-exposed-50000-logs-of-its-chats-with-kids-to-anyone-with-a-gmail-account/",
@@ -700,13 +693,6 @@
             "link": "https://www.wired.com/story/judge-delays-minnesota-ice-decision-while-weighing-whether-state-was-being-illegally-punished/",
             "summary": "A federal judge ordered a new briefing due Wednesday on whether DHS is using armed raids to pressure Minnesota into abandoning its sanctuary policies,...",
             "published_utc": "2026-01-26T22:39:30+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Who Operates the Badbox 2.0 Botnet?",
-            "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-            "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicati...",
-            "published_utc": "2026-01-26T16:11:38+00:00"
         },
         {
             "source": "Schneier",
@@ -828,13 +814,6 @@
             "published_utc": "2026-01-20T19:12:15+00:00"
         },
         {
-            "source": "KrebsOnSecurity",
-            "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
-            "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
-            "summary": "A new Internet-of-Things botnet called Kimwolf has spread to more than 2 million devices, forcing infected systems to participate in massive distribut...",
-            "published_utc": "2026-01-20T18:19:13+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "Old habits die hard: 2025’s most common passwords were as predictable as ever",
             "link": "https://www.welivesecurity.com/en/cybersecurity/old-habits-die-hard-2025-most-common-passwords/",
@@ -905,13 +884,6 @@
             "published_utc": "2026-01-14T10:00:00+00:00"
         },
         {
-            "source": "KrebsOnSecurity",
-            "title": "Patch Tuesday, January 2026 Edition",
-            "link": "https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/",
-            "summary": "Microsoft today issued patches to plug at least 113 security holes in its various Windows operating systems and supported software. Eight of the vulne...",
-            "published_utc": "2026-01-14T00:47:38+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "Dozens of ICE Vehicles in Minnesota Lack ‘Necessary’ Lights and Sirens",
             "link": "https://www.wired.com/story/dozens-of-ice-vehicles-in-minnesota-lack-necessary-lights-and-sirens/",
@@ -961,13 +933,6 @@
             "published_utc": "2026-01-10T11:30:00+00:00"
         },
         {
-            "source": "KrebsOnSecurity",
-            "title": "Who Benefited from the Aisuru and Kimwolf Botnets?",
-            "link": "https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/",
-            "summary": "Our first story of 2026 revealed how a destructive new botnet called Kimwolf rapidly grew to infect more than two million devices by mass-compromising...",
-            "published_utc": "2026-01-08T23:23:43+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "How to Protest Safely in the Age of Surveillance",
             "link": "https://www.wired.com/story/how-to-protest-safely-surveillance-digital-privacy/",
@@ -996,20 +961,6 @@
             "published_utc": "2026-01-03T10:00:00+00:00"
         },
         {
-            "source": "KrebsOnSecurity",
-            "title": "The Kimwolf Botnet is Stalking Your Local Network",
-            "link": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
-            "summary": "The story you are reading is a series of scoops nestled inside a far more urgent Internet-wide security advisory. The vulnerability at issue has been ...",
-            "published_utc": "2026-01-02T14:20:10+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
-            "link": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
-            "summary": "KrebsOnSecurity.com celebrates its 16th anniversary today! A huge \"thank you\" to all of our readers -- newcomers, long-timers and drive-by critics ali...",
-            "published_utc": "2025-12-29T20:23:26+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "A brush with online fraud: What are brushing scams and how do I stay safe?",
             "link": "https://www.welivesecurity.com/en/scams/brush-online-fraud-what-are-brushing-scams-how-do-i-stay-safe/",
@@ -1024,25 +975,11 @@
             "published_utc": "2025-12-22T09:55:00+00:00"
         },
         {
-            "source": "KrebsOnSecurity",
-            "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
-            "link": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
-            "summary": "The Trump administration has pursued a staggering range of policy pivots this past year that threaten to weaken the nation’s ability and willingness t...",
-            "published_utc": "2025-12-19T15:14:55+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "LongNosedGoblin tries to sniff out governmental affairs in Southeast Asia and Japan",
             "link": "https://www.welivesecurity.com/en/eset-research/longnosedgoblin-tries-sniff-out-governmental-affairs-southeast-asia-japan/",
             "summary": "ESET researchers discovered a China-aligned APT group, LongNosedGoblin, which uses Group Policy to deploy cyberespionage tools across networks of gove...",
             "published_utc": "2025-12-18T10:00:00+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Most Parked Domains Now Serving Malicious Content",
-            "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
-            "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the ...",
-            "published_utc": "2025-12-16T14:14:48+00:00"
         },
         {
             "source": "WeLiveSecurity",
@@ -1078,13 +1015,6 @@
             "link": "https://www.welivesecurity.com/en/business-security/seeking-symmetry-attck-season-harness-todays-diverse-analyst-tester-landscape-paint-security-masterpiece/",
             "summary": "Interpreting the vast cybersecurity vendor landscape through the lens of industry analysts and testing authorities can immensely enhance your cyber-re...",
             "published_utc": "2025-12-10T15:03:51+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Microsoft Patch Tuesday, December 2025 Edition",
-            "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
-            "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of ...",
-            "published_utc": "2025-12-09T23:18:29+00:00"
         },
         {
             "source": "WeLiveSecurity",
