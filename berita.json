@@ -1,6 +1,97 @@
 {
-    "lastUpdatedUTC": "2026-02-03T14:44:19.464638+00:00",
+    "lastUpdatedUTC": "2026-02-03T15:51:59.891688+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "RADICL Raises $31 Million for vSOC",
+            "link": "https://www.securityweek.com/radicl-raises-31-million-for-vsoc/",
+            "summary": "",
+            "published_utc": "2026-02-03T15:32:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I uncovered hidden Oura Ring data using this free tool, but I'm not fully convinced yet",
+            "link": "https://www.zdnet.com/article/oura-ring-simple-wearable-report-gemini-ai-chatbot/",
+            "summary": "Simple Wearable Report uses AI to extract more insights from your Oura Ring data. Here's how it works.",
+            "published_utc": "2026-02-03T15:27:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "DockerDash Exposes AI Supply Chain Weakness In Docker's Ask Gordon",
+            "link": "https://www.infosecurity-magazine.com/news/dockerdash-weakness-dockers-ask/",
+            "summary": "DockerDash vulnerability allows RCE and data exfiltration via unverified metadata in Ask Gordon",
+            "published_utc": "2026-02-03T15:15:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How to clear your Windows 11 PC cache (and why it makes such a big difference)",
+            "link": "https://www.zdnet.com/article/how-to-clear-your-windows-11-pc-cache/",
+            "summary": "Clearing this hidden data will markedly speed up your computer - here's how to do it.",
+            "published_utc": "2026-02-03T15:12:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The most premium work laptop I've tested so far lets me finally ditch Wi-Fi for good",
+            "link": "https://www.zdnet.com/article/microsoft-surface-laptop-5g-review-2025/",
+            "summary": "While it's last year's model, Microsoft's Surface Laptop 5G combines a positively premium build with an always-on connection.",
+            "published_utc": "2026-02-03T15:09:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "AI Agent Identity Management: A New Security Control Plane for CISOs",
+            "link": "https://www.bleepingcomputer.com/news/security/ai-agent-identity-management-a-new-security-control-plane-for-cisos/",
+            "summary": "Autonomous AI agents are creating a new identity blind spot as they operate outside traditional IAM controls. Token Security shows why managing the fu...",
+            "published_utc": "2026-02-03T15:01:11+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Cyberrisiko Ruhestand",
+            "link": "https://www.csoonline.com/article/4126366/cyberrisiko-ruhestand.html",
+            "summary": "",
+            "published_utc": "2026-02-03T15:00:38+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "From credentials to cloud admin in 8 minutes: AI supercharges AWS attack chain",
+            "link": "https://www.csoonline.com/article/4126336/from-credentials-to-cloud-admin-in-8-minutes-ai-supercharges-aws-attack-chain.html",
+            "summary": "",
+            "published_utc": "2026-02-03T15:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The most useful thing in my tech bag costs just $7 - and it's a cable",
+            "link": "https://www.zdnet.com/article/vafoton-pd-240w-usb-c-cable-review/",
+            "summary": "The Vafoton PD 240W Thunderbolt 4 cable supports 40Gbps data transfer and is flexible enough to clip to my backpack.",
+            "published_utc": "2026-02-03T15:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The 10 most popular products ZDNET readers bought last month",
+            "link": "https://www.zdnet.com/article/most-popular-products-zdnet-readers-bought-last-month-2026/",
+            "summary": "From Bluetooth trackers to power banks, these are the top tech gadgets and useful items our readers actually purchased last month.",
+            "published_utc": "2026-02-03T14:55:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "UK ICO Launches Investigation into X Over AI Generated Non-Consensual Sexual Imagery",
+            "link": "https://www.infosecurity-magazine.com/news/ico-investigates-x-over-grok-ai/",
+            "summary": "UK Data Protection Watchdog has “serious concerns” over data privacy on Elon Musk’s social platform",
+            "published_utc": "2026-02-03T14:47:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The top 5 Presidents' Day deals I'd buy right now (including a free Samsung TV offer)",
+            "link": "https://www.zdnet.com/article/my-favorite-presidents-day-deals-2026/",
+            "summary": "Presidents' Day 2026 is coming soon, but there's already tech savings to be had. Here are my favorite offers I've seen scouring the sales so far, incl...",
+            "published_utc": "2026-02-03T14:44:04+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "You've been using super glue all wrong - here's how I really make it stick",
+            "link": "https://www.zdnet.com/article/youve-been-using-super-glue-all-wrong/",
+            "summary": "Super glue is highly useful, but are you getting the most out of it? Try these 10 expert tips and tricks for results that stick.",
+            "published_utc": "2026-02-03T14:43:00+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "RapidFort Raises $42M to Automate Software Supply Chain Security",
@@ -233,55 +324,6 @@
             "published_utc": "2026-02-03T02:30:44+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I didn't trust the 'dog-proof' USB-C cable claim, so I tried something sharper instead",
-            "link": "https://www.zdnet.com/article/galvanox-pet-proof-usb-c-cable-review/",
-            "summary": "These Galvanox USB-C to USB-C cables are reinforced with stainless steel. Here's how they handled my stress tests.",
-            "published_utc": "2026-02-03T02:15:43+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Why I still recommend this Oura Ring alternative with no subscriptions in 2026",
-            "link": "https://www.zdnet.com/article/ringconn-gen-2-review/",
-            "summary": "RingConn's second-generation smart ring is competitively priced, and doesn't lock your data behind subscription fees.",
-            "published_utc": "2026-02-03T02:01:07+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Why more consumers prefer AI-enhanced shopping - and still expect the human touch",
-            "link": "https://www.zdnet.com/article/ai-agents-consumer-buying-experience-value-through-intelligence/",
-            "summary": "Consumers are favoring brands that leverage AI agents to deliver transparency, confidence, and highly personalized assistance.",
-            "published_utc": "2026-02-03T02:00:45+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Own a Samsung phone? Changing these 7 settings will extend its battery life by hours",
-            "link": "https://www.zdnet.com/article/change-samsung-phone-settings-improve-battery-life/",
-            "summary": "Your Samsung phone may already have great battery life, but a few adjustments can make that even more enduring.",
-            "published_utc": "2026-02-03T01:01:01+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "This game-changing tool gives you another pair of hands - here's how I use it",
-            "link": "https://www.zdnet.com/article/stanley-maxsteel-multi-angle-hobby-vice-review/",
-            "summary": "Even after using the Stanley Maxsteel vice for so long, I'm still finding new ways to leverage its capabilities in my DIY workshop.",
-            "published_utc": "2026-02-03T00:46:18+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How to get unlimited AI video and image generations in Adobe Firefly for free",
-            "link": "https://www.zdnet.com/article/free-ai-video-image-generations-adobe-firefly/",
-            "summary": "Indulge all your AI content needs through March 16th. Here's how.",
-            "published_utc": "2026-02-03T00:36:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "What is Bluetooth 6.0? Why the newest audio connectivity standard is worth getting excited about",
-            "link": "https://www.zdnet.com/article/what-is-bluetooth-6-headphones/",
-            "summary": "Bluetooth 6 is gaining traction in audio, but its best features ultimately lie in new hardware.",
-            "published_utc": "2026-02-03T00:21:00+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Microsoft disables NTLM in Windows",
             "link": "https://www.csoonline.com/article/4125947/microsoft-disables-ntlm-in-windows.html",
@@ -415,13 +457,6 @@
             "published_utc": "2026-02-02T12:05:34+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Cyber Insights 2026: Malware and Cyberattacks in the Age of AI",
-            "link": "https://www.securityweek.com/cyber-insights-2026-malware-and-cyberattacks-in-the-age-of-ai/",
-            "summary": "",
-            "published_utc": "2026-02-02T12:00:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Microsoft fixes bug causing password sign-in option to disappear",
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-password-sign-in-option-to-disappear/",
@@ -520,13 +555,6 @@
             "published_utc": "2026-02-01T16:27:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "New Apple privacy feature limits location tracking on iPhones, iPads",
-            "link": "https://www.bleepingcomputer.com/news/apple/new-apple-privacy-feature-limits-location-tracking-on-iphones-ipads/",
-            "summary": "Apple is introducing a new privacy feature that lets users limit the precision of location data shared with cellular networks on some iPhone and iPad ...",
-            "published_utc": "2026-02-01T15:20:40+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "Jeffrey Epstein Had a ‘Personal Hacker,’ Informant Claims",
             "link": "https://www.wired.com/story/security-news-this-week-jeffrey-epstein-had-a-personal-hacker-informant-claims/",
@@ -581,34 +609,6 @@
             "link": "https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-january-2026-edition/",
             "summary": "The trends from January offer useful clues about the risks and priorities that security teams are likely to contend with throughout the year",
             "published_utc": "2026-01-30T15:20:16+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "NIS2: Lieferketten als Risikofaktor",
-            "link": "https://www.csoonline.com/article/4124984/nis2-lieferketten-als-risikofaktor.html",
-            "summary": "",
-            "published_utc": "2026-01-30T13:46:48+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Hugging Face infra abused to spread Android RAT in a large-scale malware campaign",
-            "link": "https://www.csoonline.com/article/4124958/hugging-face-infra-abused-to-spread-android-rat-in-a-large-scale-malware-campaign.html",
-            "summary": "",
-            "published_utc": "2026-01-30T12:16:23+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "New AI-Developed Malware Campaign Targets Iranian Protests",
-            "link": "https://www.infosecurity-magazine.com/news/ai-malware-redkitten-iranian/",
-            "summary": "The RedKitten campaign distributes lures designed to target people seeking information about missing persons or political dissidents in Iran",
-            "published_utc": "2026-01-30T11:55:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "National Crime Agency and NatWest Issue Joint Warning Over Invoice Fraud Threat",
-            "link": "https://www.infosecurity-magazine.com/news/nca-natwest-warning-over-invoice/",
-            "summary": "Cyber fraudsters targeting corporate finance departments costs businesses millions a year",
-            "published_utc": "2026-01-30T11:10:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
@@ -814,6 +814,13 @@
             "published_utc": "2026-01-20T19:12:15+00:00"
         },
         {
+            "source": "KrebsOnSecurity",
+            "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
+            "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
+            "summary": "A new Internet-of-Things botnet called Kimwolf has spread to more than 2 million devices, forcing infected systems to participate in massive distribut...",
+            "published_utc": "2026-01-20T18:19:13+00:00"
+        },
+        {
             "source": "WeLiveSecurity",
             "title": "Old habits die hard: 2025’s most common passwords were as predictable as ever",
             "link": "https://www.welivesecurity.com/en/cybersecurity/old-habits-die-hard-2025-most-common-passwords/",
@@ -884,6 +891,13 @@
             "published_utc": "2026-01-14T10:00:00+00:00"
         },
         {
+            "source": "KrebsOnSecurity",
+            "title": "Patch Tuesday, January 2026 Edition",
+            "link": "https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/",
+            "summary": "Microsoft today issued patches to plug at least 113 security holes in its various Windows operating systems and supported software. Eight of the vulne...",
+            "published_utc": "2026-01-14T00:47:38+00:00"
+        },
+        {
             "source": "WIRED Security",
             "title": "Dozens of ICE Vehicles in Minnesota Lack ‘Necessary’ Lights and Sirens",
             "link": "https://www.wired.com/story/dozens-of-ice-vehicles-in-minnesota-lack-necessary-lights-and-sirens/",
@@ -933,6 +947,13 @@
             "published_utc": "2026-01-10T11:30:00+00:00"
         },
         {
+            "source": "KrebsOnSecurity",
+            "title": "Who Benefited from the Aisuru and Kimwolf Botnets?",
+            "link": "https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/",
+            "summary": "Our first story of 2026 revealed how a destructive new botnet called Kimwolf rapidly grew to infect more than two million devices by mass-compromising...",
+            "published_utc": "2026-01-08T23:23:43+00:00"
+        },
+        {
             "source": "WIRED Security",
             "title": "How to Protest Safely in the Age of Surveillance",
             "link": "https://www.wired.com/story/how-to-protest-safely-surveillance-digital-privacy/",
@@ -961,6 +982,20 @@
             "published_utc": "2026-01-03T10:00:00+00:00"
         },
         {
+            "source": "KrebsOnSecurity",
+            "title": "The Kimwolf Botnet is Stalking Your Local Network",
+            "link": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
+            "summary": "The story you are reading is a series of scoops nestled inside a far more urgent Internet-wide security advisory. The vulnerability at issue has been ...",
+            "published_utc": "2026-01-02T14:20:10+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
+            "link": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
+            "summary": "KrebsOnSecurity.com celebrates its 16th anniversary today! A huge \"thank you\" to all of our readers -- newcomers, long-timers and drive-by critics ali...",
+            "published_utc": "2025-12-29T20:23:26+00:00"
+        },
+        {
             "source": "WeLiveSecurity",
             "title": "A brush with online fraud: What are brushing scams and how do I stay safe?",
             "link": "https://www.welivesecurity.com/en/scams/brush-online-fraud-what-are-brushing-scams-how-do-i-stay-safe/",
@@ -975,11 +1010,25 @@
             "published_utc": "2025-12-22T09:55:00+00:00"
         },
         {
+            "source": "KrebsOnSecurity",
+            "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
+            "link": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
+            "summary": "The Trump administration has pursued a staggering range of policy pivots this past year that threaten to weaken the nation’s ability and willingness t...",
+            "published_utc": "2025-12-19T15:14:55+00:00"
+        },
+        {
             "source": "WeLiveSecurity",
             "title": "LongNosedGoblin tries to sniff out governmental affairs in Southeast Asia and Japan",
             "link": "https://www.welivesecurity.com/en/eset-research/longnosedgoblin-tries-sniff-out-governmental-affairs-southeast-asia-japan/",
             "summary": "ESET researchers discovered a China-aligned APT group, LongNosedGoblin, which uses Group Policy to deploy cyberespionage tools across networks of gove...",
             "published_utc": "2025-12-18T10:00:00+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Most Parked Domains Now Serving Malicious Content",
+            "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
+            "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the ...",
+            "published_utc": "2025-12-16T14:14:48+00:00"
         },
         {
             "source": "WeLiveSecurity",
@@ -1017,11 +1066,32 @@
             "published_utc": "2025-12-10T15:03:51+00:00"
         },
         {
+            "source": "KrebsOnSecurity",
+            "title": "Microsoft Patch Tuesday, December 2025 Edition",
+            "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+            "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of ...",
+            "published_utc": "2025-12-09T23:18:29+00:00"
+        },
+        {
             "source": "WeLiveSecurity",
             "title": "The big catch: How whaling attacks target top executives",
             "link": "https://www.welivesecurity.com/en/business-security/big-catch-how-whaling-attacks-target-top-executives/",
             "summary": "Is your organization’s senior leadership vulnerable to a cyber-harpooning? Learn how to keep them safe.",
             "published_utc": "2025-12-09T10:00:00+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
+            "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+            "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin...",
+            "published_utc": "2025-12-06T14:45:03+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+            "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+            "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, ju...",
+            "published_utc": "2025-12-04T23:02:34+00:00"
         },
         {
             "source": "WeLiveSecurity",
