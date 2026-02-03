@@ -1,6 +1,13 @@
 {
-    "lastUpdatedUTC": "2026-02-03T08:39:09.147315+00:00",
+    "lastUpdatedUTC": "2026-02-03T09:43:14.838986+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "I recommend these USB-C connectors to anyone with a laptop - here's what they do",
+            "link": "https://www.zdnet.com/article/magnetic-usb-c-adapter-240w-duhesin-review/",
+            "summary": "Busted USB-C ports are a problem. These affordable breakaway accessories protect them at an affordable price.",
+            "published_utc": "2026-02-03T08:40:47+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "This ultra-light 17-inch LG laptop is on sale - and it comes with a free monitor",
@@ -28,6 +35,13 @@
             "link": "https://www.csoonline.com/article/4123250/shai-hulud-co-the-supply-chain-as-the-achilles-heel.html",
             "summary": "",
             "published_utc": "2026-02-03T06:30:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Was tun, wenn die Erpresser kommen?",
+            "link": "https://www.csoonline.com/article/4125456/was-tun-wenn-die-erpresser-kommen.html",
+            "summary": "",
+            "published_utc": "2026-02-03T06:00:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -177,13 +191,6 @@
             "published_utc": "2026-02-02T21:00:07+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Hate your Windows 11 UI? Try a MacOS or Linux-like shell: My 3 picks",
-            "link": "https://www.zdnet.com/article/windows-11-alternative-shells/",
-            "summary": "Are you tired of the Windows 11 UI? Are you jealous of your friends' Linux desktops? If so, you might want to give one of these alternative shells a try.",
-            "published_utc": "2026-02-02T20:38:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Malicious MoltBot skills used to push password-stealing malware",
             "link": "https://www.bleepingcomputer.com/news/security/malicious-moltbot-skills-used-to-push-password-stealing-malware/",
@@ -203,6 +210,13 @@
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-january-update-shutdown-bug-affects-more-windows-pcs/",
             "summary": "Microsoft has confirmed that a known issue preventing some Windows 11 devices from shutting down also affects Windows 10 systems with Virtual Secure M...",
             "published_utc": "2026-02-02T17:17:30+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
+            "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+            "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from vic...",
+            "published_utc": "2026-02-02T16:15:16+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -357,6 +371,13 @@
             "link": "https://www.bleepingcomputer.com/news/security/nationstates-confirms-data-breach-shuts-down-game-site/",
             "summary": "NationStates, a multiplayer browser-based game, has confirmed a data breach after taking its website offline earlier this week to investigate a securi...",
             "published_utc": "2026-02-02T10:05:57+00:00"
+        },
+        {
+            "source": "WeLiveSecurity",
+            "title": "A slippery slope: Beware of Winter Olympics scams and other cyberthreats",
+            "link": "https://www.welivesecurity.com/en/cybersecurity/slippery-slope-winter-olympics-scams-cyberthreats/",
+            "summary": "It’s snow joke – sporting events are a big draw for cybercriminals. Make sure you’re not on the losing side by following these best practices.",
+            "published_utc": "2026-02-02T10:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -516,7 +537,7 @@
             "source": "WeLiveSecurity",
             "title": "This month in security with Tony Anscombe – January 2026 edition",
             "link": "https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-january-2026-edition/",
-            "summary": "The trends that emerged in January offer useful clues about the risks and priorities that security teams are likely to contend with throughout the year",
+            "summary": "The trends from January offer useful clues about the risks and priorities that security teams are likely to contend with throughout the year",
             "published_utc": "2026-01-30T15:20:16+00:00"
         },
         {
@@ -560,13 +581,6 @@
             "link": "https://www.csoonline.com/article/559539/the-cso-guide-to-top-security-conferences.html",
             "summary": "",
             "published_utc": "2026-01-30T07:30:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Human risk management: CISOs’ solution to the security awareness training paradox",
-            "link": "https://www.csoonline.com/article/4123230/human-risk-management-cisos-solution-to-the-security-awareness-training-paradox.html",
-            "summary": "",
-            "published_utc": "2026-01-30T07:00:00+00:00"
         },
         {
             "source": "WIRED Security",
@@ -672,6 +686,13 @@
             "link": "https://www.wired.com/story/judge-delays-minnesota-ice-decision-while-weighing-whether-state-was-being-illegally-punished/",
             "summary": "A federal judge ordered a new briefing due Wednesday on whether DHS is using armed raids to pressure Minnesota into abandoning its sanctuary policies,...",
             "published_utc": "2026-01-26T22:39:30+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Who Operates the Badbox 2.0 Botnet?",
+            "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+            "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicati...",
+            "published_utc": "2026-01-26T16:11:38+00:00"
         },
         {
             "source": "Schneier",
@@ -1071,20 +1092,6 @@
             "link": "https://www.welivesecurity.com/en/business-security/big-catch-how-whaling-attacks-target-top-executives/",
             "summary": "Is your organization’s senior leadership vulnerable to a cyber-harpooning? Learn how to keep them safe.",
             "published_utc": "2025-12-09T10:00:00+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
-            "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
-            "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin...",
-            "published_utc": "2025-12-06T14:45:03+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-            "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-            "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, ju...",
-            "published_utc": "2025-12-04T23:02:34+00:00"
         },
         {
             "source": "WeLiveSecurity",
@@ -1596,13 +1603,6 @@
             "link": "https://www.welivesecurity.com/en/business-security/how-government-cyber-cuts-will-affect-you-and-your-business/",
             "summary": "Deep cuts in cybersecurity spending risk creating ripple effects that will put many organizations at a higher risk of falling victim to cyberattacks",
             "published_utc": "2025-07-03T09:00:00+00:00"
-        },
-        {
-            "source": "WeLiveSecurity",
-            "title": "Gamaredon in 2024: Cranking out spearphishing campaigns against Ukraine with an evolved toolset",
-            "link": "https://www.welivesecurity.com/en/eset-research/gamaredon-2024-cranking-out-spearphishing-campaigns-ukraine-evolved-toolset/",
-            "summary": "ESET Research analyzes Gamaredon’s updated cyberespionage toolset, new stealth-focused techniques, and aggressive spearphishing operations observed th...",
-            "published_utc": "2025-07-02T08:58:22+00:00"
         },
         {
             "source": "NVD (NIST)",
