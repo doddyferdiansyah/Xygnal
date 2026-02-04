@@ -1,6 +1,69 @@
 {
-    "lastUpdatedUTC": "2026-02-04T13:03:15.617402+00:00",
+    "lastUpdatedUTC": "2026-02-04T14:41:22.850791+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Blockchain Intelligence Firm TRM Labs Raises $70 Million at $1 Billion Valuation",
+            "link": "https://www.securityweek.com/blockchain-intelligence-firm-trm-labs-raises-70-million-at-1-billion-valuation/",
+            "summary": "",
+            "published_utc": "2026-02-04T14:27:13+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Stop gambling with your food: This $130 gadget put an end to cooking anxiety for me",
+            "link": "https://www.zdnet.com/article/meater-pro-review/",
+            "summary": "The Meater Pro is a precision thermometer that makes cooking meat perfectly so much easier. Here's how I use mine.",
+            "published_utc": "2026-02-04T14:21:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "EDR killer tool uses signed kernel driver from forensic software",
+            "link": "https://www.bleepingcomputer.com/news/security/edr-killer-tool-uses-signed-kernel-driver-from-forensic-software/",
+            "summary": "Hackers are abusing a legitimate but long-revoked EnCase kernel driver in an EDR killer that can detect 59 security tools in attempts to deactivate th...",
+            "published_utc": "2026-02-04T14:17:45+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "This Linux desktop I tested can be opened and closed like an app - and I'm sold",
+            "link": "https://www.zdnet.com/article/orbitiny-portable-modular-unique-linux-desktop/",
+            "summary": "Orbitiny is snappy, portable, and feels like a native experience - but it's not.",
+            "published_utc": "2026-02-04T14:11:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "You can buy Samsung's 65-inch QLED TV and soundbar bundle by 50% off right now",
+            "link": "https://www.zdnet.com/article/samsung-tv-soundbar-bundle-deal/",
+            "summary": "Samsung will sell you a 65-inch QN1EF Neo QLED TV and HW-S700D soundbar for under $1,200 now, just in time for the Super Bowl.",
+            "published_utc": "2026-02-04T14:08:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "New Amaranth Dragon cyberespionage group exploits WinRAR flaw",
+            "link": "https://www.bleepingcomputer.com/news/security/new-amaranth-dragon-cyberespionage-group-exploits-winrar-flaw/",
+            "summary": "A new threat actor called Amaranth Dragon, linked to APT41 state-sponsored Chinese operations, exploited the CVE-2025-8088 vulnerability in WinRAR in ...",
+            "published_utc": "2026-02-04T14:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "AI Drives Doubling of Phishing Attacks in a Year",
+            "link": "https://www.infosecurity-magazine.com/news/ai-double-volume-phishing-attacks/",
+            "summary": "Cofense claims AI is making phishing emails more personalized and sophisticated",
+            "published_utc": "2026-02-04T14:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Vulnerabilities Allowed Full Compromise of Google Looker Instances",
+            "link": "https://www.securityweek.com/vulnerabilities-allowed-full-compromise-of-google-looker-instances/",
+            "summary": "",
+            "published_utc": "2026-02-04T13:41:08+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Cyber Insights 2026: Cyberwar and Rising Nation State Threats",
+            "link": "https://www.securityweek.com/cyber-insights-2026-cyberwar-and-rising-nation-state-threats/",
+            "summary": "",
+            "published_utc": "2026-02-04T13:00:00+00:00"
+        },
         {
             "source": "InfosecurityMag",
             "title": "Two Critical Flaws in n8n AI Workflow Automation Platform Allow Complete Takeover",
@@ -164,13 +227,6 @@
         },
         {
             "source": "ZDNet Security",
-            "title": "Samsung is slashing this 65-inch QLED TV and soundbar bundle by 50% for a limited time",
-            "link": "https://www.zdnet.com/article/samsung-tv-soundbar-bundle-deal/",
-            "summary": "Samsung will sell you a 65-inch QN1EF Neo QLED TV and HW-S700D soundbar for under $1,200 now, just in time for the Super Bowl and the Winter Olympics.",
-            "published_utc": "2026-02-04T02:09:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
             "title": "After 30 years with Linux, I switched it for Windows 11 - and found 9 serious problems",
             "link": "https://www.zdnet.com/article/i-ditched-linux-for-windows-11-9-big-problems/",
             "summary": "I finally decided to try Windows 11. Here's a list of everything that went wrong.",
@@ -275,25 +331,11 @@
             "published_utc": "2026-02-03T19:41:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Your library card unlocks a free movie streaming service most people don't know about",
-            "link": "https://www.zdnet.com/article/kanopy-free-streaming-service-signup/",
-            "summary": "Kanopy offers thousands of shows and movies. Here's how to sign up for it.",
-            "published_utc": "2026-02-03T19:39:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "CISA flags critical SolarWinds RCE flaw as exploited in attacks",
             "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-solarwinds-rce-flaw-as-actively-exploited/",
             "summary": "CISA has flagged a critical SolarWinds Web Help Desk vulnerability as actively exploited in attacks and ordered federal agencies to patch their system...",
             "published_utc": "2026-02-03T19:37:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How much RAM do you really need in 2026? A Windows and Mac expert explains",
-            "link": "https://www.zdnet.com/article/how-much-ram-pc-mac-2026/",
-            "summary": "Considering a PC upgrade, but unsure about how much RAM to buy? Here's what a tech expert recommends.",
-            "published_utc": "2026-02-03T18:59:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -359,13 +401,6 @@
             "published_utc": "2026-02-03T14:47:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "RapidFort Raises $42M to Automate Software Supply Chain Security",
-            "link": "https://www.securityweek.com/rapidfort-raises-42m-to-automate-software-supply-chain-security/",
-            "summary": "",
-            "published_utc": "2026-02-03T14:41:18+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "UK privacy watchdog probes Grok over AI-generated sexual images",
             "link": "https://www.bleepingcomputer.com/news/security/uk-privacy-watchdog-probes-grok-over-ai-generated-sexual-images/",
@@ -380,25 +415,11 @@
             "published_utc": "2026-02-03T14:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Critical React Native Vulnerability Exploited in the Wild",
-            "link": "https://www.securityweek.com/critical-react-native-vulnerability-exploited-in-the-wild/",
-            "summary": "",
-            "published_utc": "2026-02-03T14:00:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Researchers Warn of New “Vect” RaaS Variant",
             "link": "https://www.infosecurity-magazine.com/news/researchers-warn-new-vect-raas/",
             "summary": "A new ransomware-as-a-service operation dubbed “Vect” features custom malware",
             "published_utc": "2026-02-03T14:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Vulnerability Allows Hackers to Hijack OpenClaw AI Assistant",
-            "link": "https://www.securityweek.com/vulnerability-allows-hackers-to-hijack-openclaw-ai-assistant/",
-            "summary": "",
-            "published_utc": "2026-02-03T13:44:55+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -499,32 +520,11 @@
             "published_utc": "2026-02-02T21:00:07+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Malicious MoltBot skills used to push password-stealing malware",
-            "link": "https://www.bleepingcomputer.com/news/security/malicious-moltbot-skills-used-to-push-password-stealing-malware/",
-            "summary": "More than 230 malicious packages for the personal AI assistant OpenClaw (formerly known as Moltbot and ClawdBot) have been published in less than a we...",
-            "published_utc": "2026-02-02T19:11:12+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Mozilla announces switch to disable all Firefox AI features",
-            "link": "https://www.bleepingcomputer.com/news/software/mozilla-will-let-you-turn-off-all-firefox-ai-features/",
-            "summary": "In response to user feedback on AI integration, Mozilla announced today that the next Firefox release will let users disable AI features entirely or m...",
-            "published_utc": "2026-02-02T18:09:13+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "NSA Publishes New Zero Trust Implementation Guidelines",
             "link": "https://www.infosecurity-magazine.com/news/nsa-zero-trust-implementation/",
             "summary": "NSA released new guidelines to help organizations achieve target-level Zero Trust maturity",
             "published_utc": "2026-02-02T16:05:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Notepad++ Update Hijacking Linked to Hosting Provider Compromise",
-            "link": "https://www.infosecurity-magazine.com/news/notepad-update-hijacked/",
-            "summary": "A supply chain attack on Notepad++ update process was linked to compromised hosting infrastructure",
-            "published_utc": "2026-02-02T15:15:00+00:00"
         },
         {
             "source": "CSO Online",
