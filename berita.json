@@ -1,6 +1,55 @@
 {
-    "lastUpdatedUTC": "2026-02-04T09:46:03.648538+00:00",
+    "lastUpdatedUTC": "2026-02-04T10:40:14.477956+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "Hackerangriff auf Romina Mineralbrunnen",
+            "link": "https://www.csoonline.com/article/4127094/hackerangriff-auf-romina-mineralbrunnen.html",
+            "summary": "",
+            "published_utc": "2026-02-04T10:19:25+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "SolarWinds Web Help Desk Vulnerability Actively Exploited",
+            "link": "https://www.infosecurity-magazine.com/news/solarwinds-web-help-desk/",
+            "summary": "CISA has added a critical CVE in SolarWinds Web Help Desk to its KEV Catalog",
+            "published_utc": "2026-02-04T10:15:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Microsoft and ServiceNow's exploitable agents reveal a growing - and preventable - AI security crisis",
+            "link": "https://www.zdnet.com/article/exploitable-ai-agents-servicenow-microsoft-security-warnings/",
+            "summary": "Once deployed on corporate networks, AI agents can become every threat actor's fantasy. Lesson one for cybersecurity pros: limit privileges.",
+            "published_utc": "2026-02-04T10:01:09+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How to watch the 2026 Winter Olympics: Streaming options, schedule, and times",
+            "link": "https://www.zdnet.com/article/how-to-watch-the-2026-winter-olympics/",
+            "summary": "Don't miss a single medal. See how to watch the Milano Cortina 2026 Winter Olympics for free. Get the latest streaming links right here.",
+            "published_utc": "2026-02-04T10:00:51+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Cryptominers, Reverse Shells Dropped in Recent React2Shell Attacks",
+            "link": "https://www.securityweek.com/cryptominers-reverse-shells-dropped-in-recent-react2shell-attacks/",
+            "summary": "",
+            "published_utc": "2026-02-04T10:00:14+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Zero trust in practice: A deep technical dive into going fully passwordless in hybrid enterprise environments",
+            "link": "https://www.csoonline.com/article/4126694/zero-trust-in-practice-a-deep-technical-dive-into-going-fully-passwordless-in-hybrid-enterprise-environments.html",
+            "summary": "",
+            "published_utc": "2026-02-04T10:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Fresh SolarWinds Vulnerability Exploited in Attacks",
+            "link": "https://www.securityweek.com/fresh-solarwinds-vulnerability-exploited-in-attacks/",
+            "summary": "",
+            "published_utc": "2026-02-04T09:50:56+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Security Analysis of Moltbook Agent Network: Bot-to-Bot Prompt Injection and Data Leaks",
@@ -161,20 +210,6 @@
             "link": "https://www.zdnet.com/article/samsung-qn80f-tv-deal/",
             "summary": "The Samsung QN80F is a high-end TV featuring object-tracking sound and a 120Hz refresh rate - and it's nearly 40% off right now.",
             "published_utc": "2026-02-03T18:55:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Does it matter which HDMI port you use on your TV? Yes - here's why",
-            "link": "https://www.zdnet.com/article/which-hdmi-port-to-use-on-your-tv/",
-            "summary": "You might be losing out on peak visual or sound performance - here's how to choose the right port.",
-            "published_utc": "2026-02-03T18:46:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How to turn on Private DNS Mode on Android - and why it's a must for security",
-            "link": "https://www.zdnet.com/article/how-to-turn-on-private-dns-mode-on-android/",
-            "summary": "Unencrypted DNS can expose your browsing activity, but Android's Private DNS helps keep it private. Here's how to enable it.",
-            "published_utc": "2026-02-03T18:40:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -366,13 +401,6 @@
             "published_utc": "2026-02-02T16:05:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "ShinyHunters-Branded Extortion Activity Expands, Escalates",
-            "link": "https://www.securityweek.com/shinyhunters-branded-extortion-activity-expands-escalates/",
-            "summary": "",
-            "published_utc": "2026-02-02T15:28:16+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Notepad++ Update Hijacking Linked to Hosting Provider Compromise",
             "link": "https://www.infosecurity-magazine.com/news/notepad-update-hijacked/",
@@ -385,13 +413,6 @@
             "link": "https://www.csoonline.com/article/4125591/human-risk-management-das-paradoxon-der-sicherheitsschulungen.html",
             "summary": "",
             "published_utc": "2026-02-02T14:49:14+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Open VSX Publisher Account Hijacked in Fresh GlassWorm Attack",
-            "link": "https://www.securityweek.com/open-vsx-publisher-account-hijacked-in-fresh-glassworm-attack/",
-            "summary": "",
-            "published_utc": "2026-02-02T14:12:50+00:00"
         },
         {
             "source": "CSO Online",
@@ -429,13 +450,6 @@
             "published_utc": "2026-02-02T11:00:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "Android RAT Uses Hugging Face to Host Malware",
-            "link": "https://www.infosecurity-magazine.com/news/android-rat-hugging-face-host/",
-            "summary": "Bitdefender has discovered a new Android malware campaign that uses Hugging Face",
-            "published_utc": "2026-02-02T10:30:00+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Why non-human identities are your biggest security blind spot in 2026",
             "link": "https://www.csoonline.com/article/4125156/why-non-human-identities-are-your-biggest-security-blind-spot-in-2026.html",
@@ -469,20 +483,6 @@
             "link": "https://de.resources.csoonline.com/resources/im-fokus-emerging-technologies/",
             "summary": "",
             "published_utc": "2026-02-02T07:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "When responsible disclosure becomes unpaid labor",
-            "link": "https://www.csoonline.com/article/4124766/when-responsible-disclosure-becomes-unpaid-labor.html",
-            "summary": "",
-            "published_utc": "2026-02-02T07:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Das nächste große Security-Schlachtfeld",
-            "link": "https://www.csoonline.com/article/4122039/das-nachste-grose-security-schlachtfeld.html",
-            "summary": "",
-            "published_utc": "2026-02-02T03:00:00+00:00"
         },
         {
             "source": "WIRED Security",
