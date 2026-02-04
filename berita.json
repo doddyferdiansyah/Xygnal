@@ -1,6 +1,69 @@
 {
-    "lastUpdatedUTC": "2026-02-04T11:34:13.061969+00:00",
+    "lastUpdatedUTC": "2026-02-04T13:03:15.617402+00:00",
     "articles": [
+        {
+            "source": "InfosecurityMag",
+            "title": "Two Critical Flaws in n8n AI Workflow Automation Platform Allow Complete Takeover",
+            "link": "https://www.infosecurity-magazine.com/news/two-critical-flaws-in-n8n-ai/",
+            "summary": "Pillar Security discovered two new critical vulnerabilities in n8n that could lead to supply chain compromise, credential harvesting and complete take...",
+            "published_utc": "2026-02-04T13:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft rolls out native Sysmon monitoring in Windows 11",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-native-windows-11-sysmon-security-monitoring/",
+            "summary": "Microsoft has started rolling out built-in Sysmon functionality to some Windows 11 systems enrolled in the Windows Insider program. [...]",
+            "published_utc": "2026-02-04T12:58:20+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Varonis Acquisition of AllTrue.ai Valued at $150 Million",
+            "link": "https://www.securityweek.com/varonis-acquisition-of-alltrue-ai-valued-at-150-million/",
+            "summary": "",
+            "published_utc": "2026-02-04T12:39:56+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Russian hackers exploited a critical Office bug within days of disclosure",
+            "link": "https://www.csoonline.com/article/4127181/russian-hackers-exploited-a-critical-office-bug-within-days-of-disclosure.html",
+            "summary": "",
+            "published_utc": "2026-02-04T12:19:59+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Orion Raises $32 Million for Data Security",
+            "link": "https://www.securityweek.com/orion-raises-32-million-for-data-security/",
+            "summary": "",
+            "published_utc": "2026-02-04T12:07:13+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "US Declassifies Information on JUMPSEAT Spy Satellites",
+            "link": "https://www.schneier.com/blog/archives/2026/02/us-declassifies-information-on-jumpseat-spy-satellites.html",
+            "summary": "",
+            "published_utc": "2026-02-04T12:02:10+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The best ERP software of 2026: Expert tested and reviewed",
+            "link": "https://www.zdnet.com/article/best-erp-software/",
+            "summary": "Learn about the best ERP software available right now, including SAP S/4HANA, Oracle NetSuite ERP, and Microsoft Dynamics 365.",
+            "published_utc": "2026-02-04T12:00:43+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "DockerDash Flaw in Docker AI Assistant Leads to RCE, Data Theft",
+            "link": "https://www.securityweek.com/dockerdash-flaw-in-docker-ai-assistant-leads-to-rce-data-theft/",
+            "summary": "",
+            "published_utc": "2026-02-04T11:34:55+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Owner of Incognito dark web drugs market gets 30 years in prison",
+            "link": "https://www.bleepingcomputer.com/news/security/taiwanese-man-gets-30-years-for-operating-dark-web-drug-market/",
+            "summary": "A Taiwanese man was sentenced to 30 years in prison for operating Incognito Market, one of the world's largest online narcotics marketplaces that sold...",
+            "published_utc": "2026-02-04T11:24:23+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "The best iPad Air cases of 2026: Expert tested",
@@ -114,6 +177,13 @@
             "published_utc": "2026-02-04T02:08:00+00:00"
         },
         {
+            "source": "BleepingComputer",
+            "title": "Coinbase confirms insider breach linked to leaked support tool screenshots",
+            "link": "https://www.bleepingcomputer.com/news/security/coinbase-confirms-insider-breach-linked-to-leaked-support-tool-screenshots/",
+            "summary": "Coinbase has confirmed an insider breach after a contractor improperly accessed the data of approximately thirty customers, which BleepingComputer has...",
+            "published_utc": "2026-02-04T02:04:23+00:00"
+        },
+        {
             "source": "ZDNet Security",
             "title": "How I speed up my Linux system for free while RAM prices are out of control",
             "link": "https://www.zdnet.com/article/ram-prices-linux-zram/",
@@ -142,11 +212,25 @@
             "published_utc": "2026-02-04T00:42:00+00:00"
         },
         {
+            "source": "BleepingComputer",
+            "title": "Step Finance says compromised execs' devices led to $40M crypto theft",
+            "link": "https://www.bleepingcomputer.com/news/security/step-finance-says-compromised-execs-devices-led-to-40m-crypto-theft/",
+            "summary": "Step Finance announced that it lost $40 million worth of digital assets after hackers compromised devices belonging to the company's team of executive...",
+            "published_utc": "2026-02-03T21:33:23+00:00"
+        },
+        {
             "source": "ZDNet Security",
             "title": "I changed 6 settings on my Roku TV to instantly give it a performance boost",
             "link": "https://www.zdnet.com/article/best-roku-tv-settings-improve-performance/",
             "summary": "There are several ways to optimize your Roku TV's operating system for improved performance. Here's my usual routine.",
             "published_utc": "2026-02-03T20:30:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Wave of Citrix NetScaler scans use thousands of residential proxies",
+            "link": "https://www.bleepingcomputer.com/news/security/wave-of-citrix-netscaler-scans-use-thousands-of-residential-proxies/",
+            "summary": "A coordinated reconnaissance campaign targeting Citrix NetScaler infrastructure over the past week used tens of thousands of residential proxies to di...",
+            "published_utc": "2026-02-03T20:25:40+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -198,6 +282,13 @@
             "published_utc": "2026-02-03T19:39:00+00:00"
         },
         {
+            "source": "BleepingComputer",
+            "title": "CISA flags critical SolarWinds RCE flaw as exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-solarwinds-rce-flaw-as-actively-exploited/",
+            "summary": "CISA has flagged a critical SolarWinds Web Help Desk vulnerability as actively exploited in attacks and ordered federal agencies to patch their system...",
+            "published_utc": "2026-02-03T19:37:00+00:00"
+        },
+        {
             "source": "ZDNet Security",
             "title": "How much RAM do you really need in 2026? A Windows and Mac expert explains",
             "link": "https://www.zdnet.com/article/how-much-ram-pc-mac-2026/",
@@ -205,11 +296,11 @@
             "published_utc": "2026-02-03T18:59:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "You can still buy last year's LG OLED TV for $1,500 off at Best Buy, and I can vouch for it",
-            "link": "https://www.zdnet.com/article/best-buy-lg-b5-oled-tv-deal/",
-            "summary": "Looking for a budget-friendly OLED upgrade? The LG B5 at half price is one of the best deals ahead of Super Bowl weekend.",
-            "published_utc": "2026-02-03T18:56:00+00:00"
+            "source": "BleepingComputer",
+            "title": "Iron Mountain: Data breach mostly limited to marketing materials",
+            "link": "https://www.bleepingcomputer.com/news/security/iron-mountain-data-breach-mostly-limited-to-marketing-materials/",
+            "summary": "Iron Mountain, a leading data storage and recovery services company, says that a recent breach claimed by the Everest extortion gang is limited to mos...",
+            "published_utc": "2026-02-03T16:49:09+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -240,6 +331,13 @@
             "published_utc": "2026-02-03T15:15:00+00:00"
         },
         {
+            "source": "BleepingComputer",
+            "title": "AI Agent Identity Management: A New Security Control Plane for CISOs",
+            "link": "https://www.bleepingcomputer.com/news/security/ai-agent-identity-management-a-new-security-control-plane-for-cisos/",
+            "summary": "Autonomous AI agents are creating a new identity blind spot as they operate outside traditional IAM controls. Token Security shows why managing the fu...",
+            "published_utc": "2026-02-03T15:01:11+00:00"
+        },
+        {
             "source": "CSO Online",
             "title": "Cyberrisiko Ruhestand",
             "link": "https://www.csoonline.com/article/4126366/cyberrisiko-ruhestand.html",
@@ -266,6 +364,20 @@
             "link": "https://www.securityweek.com/rapidfort-raises-42m-to-automate-software-supply-chain-security/",
             "summary": "",
             "published_utc": "2026-02-03T14:41:18+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "UK privacy watchdog probes Grok over AI-generated sexual images",
+            "link": "https://www.bleepingcomputer.com/news/security/uk-privacy-watchdog-probes-grok-over-ai-generated-sexual-images/",
+            "summary": "The United Kingdom's data protection authority launched a formal investigation into X and its Irish subsidiary over reports that the Grok AI assistant...",
+            "published_utc": "2026-02-03T14:25:50+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers exploit critical React Native Metro bug to breach dev systems",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-react-native-metro-bug-to-breach-dev-systems/",
+            "summary": "Hackers are targeting developers by exploiting the critical vulnerability CVE-2025-11953 in the Metro server for React Native to deliver malicious pay...",
+            "published_utc": "2026-02-03T14:00:00+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -296,11 +408,11 @@
             "published_utc": "2026-02-03T12:45:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Hackers Leak 5.1 Million Panera Bread Records",
-            "link": "https://www.securityweek.com/hackers-leak-5-1-million-panera-bread-accounts/",
-            "summary": "",
-            "published_utc": "2026-02-03T12:16:31+00:00"
+            "source": "BleepingComputer",
+            "title": "French prosecutors raid X offices, summon Musk over Grok deepfakes",
+            "link": "https://www.bleepingcomputer.com/news/security/french-prosecutors-raid-x-offices-over-grok-sexual-deepfakes/",
+            "summary": "French prosecutors have raided X's offices in Paris on Tuesday as part of a criminal investigation into the platform's Grok AI tool, widely used to ge...",
+            "published_utc": "2026-02-03T12:43:37+00:00"
         },
         {
             "source": "Schneier",
@@ -308,20 +420,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/02/microsoft-is-giving-the-fbi-bitlocker-keys.html",
             "summary": "",
             "published_utc": "2026-02-03T12:05:25+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Russia’s APT28 Rapidly Weaponizes Newly Patched Office Vulnerability",
-            "link": "https://www.securityweek.com/russias-apt28-rapidly-weaponizes-newly-patched-office-vulnerability/",
-            "summary": "",
-            "published_utc": "2026-02-03T11:22:52+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Kasada Raises $20 Million for Anti-Bot Expansion",
-            "link": "https://www.securityweek.com/kasada-raises-20-million-for-anti-bot-expansion/",
-            "summary": "",
-            "published_utc": "2026-02-03T11:00:00+00:00"
         },
         {
             "source": "WIRED Security",
@@ -387,6 +485,34 @@
             "published_utc": "2026-02-02T22:05:47+00:00"
         },
         {
+            "source": "BleepingComputer",
+            "title": "New GlassWorm attack targets macOS via compromised OpenVSX extensions",
+            "link": "https://www.bleepingcomputer.com/news/security/new-glassworm-attack-targets-macos-via-compromised-openvsx-extensions/",
+            "summary": "A new GlassWorm malware attack through compromised OpenVSX extensions focuses on stealing passwords, crypto-wallet data, and developer credentials and...",
+            "published_utc": "2026-02-02T22:04:19+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Russian hackers exploit recently patched Microsoft Office bug in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-recently-patched-microsoft-office-bug-in-attacks/",
+            "summary": "Ukraine's Computer Emergency Response Team (CERT) says that Russian hackers are exploiting CVE-2026-21509, a recently patched vulnerability in multipl...",
+            "published_utc": "2026-02-02T21:00:07+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Malicious MoltBot skills used to push password-stealing malware",
+            "link": "https://www.bleepingcomputer.com/news/security/malicious-moltbot-skills-used-to-push-password-stealing-malware/",
+            "summary": "More than 230 malicious packages for the personal AI assistant OpenClaw (formerly known as Moltbot and ClawdBot) have been published in less than a we...",
+            "published_utc": "2026-02-02T19:11:12+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Mozilla announces switch to disable all Firefox AI features",
+            "link": "https://www.bleepingcomputer.com/news/software/mozilla-will-let-you-turn-off-all-firefox-ai-features/",
+            "summary": "In response to user feedback on AI integration, Mozilla announced today that the next Firefox release will let users disable AI features entirely or m...",
+            "published_utc": "2026-02-02T18:09:13+00:00"
+        },
+        {
             "source": "InfosecurityMag",
             "title": "NSA Publishes New Zero Trust Implementation Guidelines",
             "link": "https://www.infosecurity-magazine.com/news/nsa-zero-trust-implementation/",
@@ -413,13 +539,6 @@
             "link": "https://www.csoonline.com/article/4125172/how-risk-culture-turns-cyber-teams-predictive.html",
             "summary": "",
             "published_utc": "2026-02-02T13:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Fancy Bear Exploits Microsoft Office Flaw in Ukraine, EU Cyber-Attacks",
-            "link": "https://www.infosecurity-magazine.com/news/fancy-bear-exploits-office-flaw/",
-            "summary": "Russia-linked hacking group Fancy Bear is exploiting a brand-new vulnerability in Microsoft Office, CERT-UA says",
-            "published_utc": "2026-02-02T12:45:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -469,13 +588,6 @@
             "link": "https://www.csoonline.com/article/4101470/a-desire-to-protect-his-nation-made-barry-hensley-seek-a-career-in-cybersecurity-after-24-years-of-military-service.html",
             "summary": "",
             "published_utc": "2026-02-02T07:30:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Im Fokus: Emerging Technologies",
-            "link": "https://de.resources.csoonline.com/resources/im-fokus-emerging-technologies/",
-            "summary": "",
-            "published_utc": "2026-02-02T07:00:00+00:00"
         },
         {
             "source": "WIRED Security",
@@ -700,13 +812,6 @@
             "link": "https://www.wired.com/story/surveillance-and-ice-are-driving-patients-away-from-medical-care-report-warns/",
             "summary": "A new EPIC report says data brokers, ad-tech surveillance, and ICE enforcement are among the factors leading to a “health privacy crisis” that is erod...",
             "published_utc": "2026-01-21T18:04:15+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Internet Voting is Too Insecure for Use in Elections",
-            "link": "https://www.schneier.com/blog/archives/2026/01/internet-voting-is-too-insecure-for-use-in-elections.html",
-            "summary": "",
-            "published_utc": "2026-01-21T12:05:50+00:00"
         },
         {
             "source": "WIRED Security",
