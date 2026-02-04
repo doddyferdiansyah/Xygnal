@@ -1,6 +1,34 @@
 {
-    "lastUpdatedUTC": "2026-02-04T17:47:49.611129+00:00",
+    "lastUpdatedUTC": "2026-02-04T18:54:12.150968+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "This $20 gadget lets you watch the Super Bowl for free (and the 2026 Olympics)",
+            "link": "https://www.zdnet.com/article/how-to-watch-tv-for-free-antenna/",
+            "summary": "Over-the-air TV antennas give you access to local news, sports, and entertainment channels for no cost, making them a great choice for enjoying the bi...",
+            "published_utc": "2026-02-04T18:51:48+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Anker's whole-home backup is the power outage solution of my dreams - and it's on sale now",
+            "link": "https://www.zdnet.com/article/anker-solix-e10-whole-home-battery-backup-generator-pricing-availability/",
+            "summary": "Split between solar, battery, or generator backup for your home? Anker Solix E10 promises to do all three for you.",
+            "published_utc": "2026-02-04T18:11:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "7 apps I use to lock down, encrypt, and store my private files - and most are free",
+            "link": "https://www.zdnet.com/article/apps-lock-down-encrypt-store-private-files-free/",
+            "summary": "If you want to keep the documents and files on your PC extra secure, there apps will do the trick.",
+            "published_utc": "2026-02-04T17:59:57+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Ubuntu 26.04 surprised me - this upcoming release is seriously secure",
+            "link": "https://www.zdnet.com/article/ubuntu-26-04-new-release/",
+            "summary": "The next release of Ubuntu desktop Linux is on the horizon, so I dove into the latest daily build to see what was what, and came away nodding my head ...",
+            "published_utc": "2026-02-04T17:58:22+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "CISA: VMware ESXi flaw now exploited in ransomware attacks",
@@ -310,39 +338,11 @@
             "published_utc": "2026-02-04T04:00:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Onboarding new AI hires calls for context engineering - here's your 3-step action plan",
-            "link": "https://www.zdnet.com/article/context-engineering-key-to-onboarding-agentic-ai-success/",
-            "summary": "Your company culture is the intangible knowledge new employees will absorb over time. But AI agents need all of it, all at once. Here's how to enginee...",
-            "published_utc": "2026-02-04T03:00:41+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "After 30 years with Linux, I switched it for Windows 11 - and found 9 serious problems",
-            "link": "https://www.zdnet.com/article/i-ditched-linux-for-windows-11-9-big-problems/",
-            "summary": "I finally decided to try Windows 11. Here's a list of everything that went wrong.",
-            "published_utc": "2026-02-04T02:08:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Coinbase confirms insider breach linked to leaked support tool screenshots",
             "link": "https://www.bleepingcomputer.com/news/security/coinbase-confirms-insider-breach-linked-to-leaked-support-tool-screenshots/",
             "summary": "Coinbase has confirmed an insider breach after a contractor improperly accessed the data of approximately thirty customers, which BleepingComputer has...",
             "published_utc": "2026-02-04T02:04:23+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How I speed up my Linux system for free while RAM prices are out of control",
-            "link": "https://www.zdnet.com/article/ram-prices-linux-zram/",
-            "summary": "The price of memory has shot through the roof. If you can't afford to boost your Linux system with hardware, try this software approach.",
-            "published_utc": "2026-02-04T02:02:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "This Debian-based Linux distro has one of the smartest security features I've tested in years",
-            "link": "https://www.zdnet.com/article/ideal-os-linux-distribution-review/",
-            "summary": "If you're looking for a bit of extra security with an MX Linux-based distribution, iDeal OS might be an ideal solution.",
-            "published_utc": "2026-02-04T01:47:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -527,6 +527,13 @@
             "published_utc": "2026-02-02T22:05:47+00:00"
         },
         {
+            "source": "KrebsOnSecurity",
+            "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
+            "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+            "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from vic...",
+            "published_utc": "2026-02-02T16:15:16+00:00"
+        },
+        {
             "source": "CSO Online",
             "title": "Human Risk Management: Das Paradoxon der Sicherheitsschulungen",
             "link": "https://www.csoonline.com/article/4125591/human-risk-management-das-paradoxon-der-sicherheitsschulungen.html",
@@ -707,6 +714,13 @@
             "link": "https://www.wired.com/story/judge-delays-minnesota-ice-decision-while-weighing-whether-state-was-being-illegally-punished/",
             "summary": "A federal judge ordered a new briefing due Wednesday on whether DHS is using armed raids to pressure Minnesota into abandoning its sanctuary policies,...",
             "published_utc": "2026-01-26T22:39:30+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Who Operates the Badbox 2.0 Botnet?",
+            "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+            "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicati...",
+            "published_utc": "2026-01-26T16:11:38+00:00"
         },
         {
             "source": "Schneier",
@@ -1078,20 +1092,6 @@
             "link": "https://www.welivesecurity.com/en/business-security/big-catch-how-whaling-attacks-target-top-executives/",
             "summary": "Is your organization’s senior leadership vulnerable to a cyber-harpooning? Learn how to keep them safe.",
             "published_utc": "2025-12-09T10:00:00+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
-            "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
-            "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin...",
-            "published_utc": "2025-12-06T14:45:03+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-            "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-            "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, ju...",
-            "published_utc": "2025-12-04T23:02:34+00:00"
         },
         {
             "source": "WeLiveSecurity",
