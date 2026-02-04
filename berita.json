@@ -1,6 +1,13 @@
 {
-    "lastUpdatedUTC": "2026-02-04T22:30:34.819900+00:00",
+    "lastUpdatedUTC": "2026-02-04T23:29:45.169178+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers compromise NGINX servers to redirect user traffic",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-nginx-servers-to-redirect-user-traffic/",
+            "summary": "A threat actor is compromising NGINX servers in a campaign that hijacks user traffic and reroutes it through the attacker's backend infrastructure. [...]",
+            "published_utc": "2026-02-04T23:26:56+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "Threat actors hijack web traffic after exploiting React2Shell vulnerability: Report",
@@ -455,13 +462,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ico-investigates-x-over-grok-ai/",
             "summary": "UK Data Protection Watchdog has “serious concerns” over data privacy on Elon Musk’s social platform",
             "published_utc": "2026-02-03T14:47:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "UK privacy watchdog probes Grok over AI-generated sexual images",
-            "link": "https://www.bleepingcomputer.com/news/security/uk-privacy-watchdog-probes-grok-over-ai-generated-sexual-images/",
-            "summary": "The United Kingdom's data protection authority launched a formal investigation into X and its Irish subsidiary over reports that the Grok AI assistant...",
-            "published_utc": "2026-02-03T14:25:50+00:00"
         },
         {
             "source": "InfosecurityMag",
