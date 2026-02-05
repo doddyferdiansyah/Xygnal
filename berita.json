@@ -1,6 +1,55 @@
 {
-    "lastUpdatedUTC": "2026-02-05T13:06:05.803440+00:00",
+    "lastUpdatedUTC": "2026-02-05T14:44:05.480723+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "Amazon will sell you a 55-inch Fire TV for only $180 right now - know this before you buy it",
+            "link": "https://www.zdnet.com/article/amazon-insignia-f50-smart-tv-deal/",
+            "summary": "Looking to upgrade or replace your TV, but are working with a tight budget? You can get the 55-inch Insignia F50 for just $180.",
+            "published_utc": "2026-02-05T14:36:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Malicious Commands in GitHub Codespaces Enable RCE",
+            "link": "https://www.infosecurity-magazine.com/news/malicious-commands-in-github/",
+            "summary": "Flaws in GitHub Codespaces allow RCE via crafted repositories or pull requests",
+            "published_utc": "2026-02-05T14:30:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Your ExpressVPN is getting three huge upgrades - including a private AI assistant",
+            "link": "https://www.zdnet.com/article/expressvpn-update-private-ai-assistant/",
+            "summary": "ExpressVPN is expanding beyond basic VPN protection to better compete with NordVPN. Here's what's new.",
+            "published_utc": "2026-02-05T14:00:48+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Researchers Expose Network of 150 Cloned Law Firm Websites in AI-Powered Scam Campaign",
+            "link": "https://www.securityweek.com/researchers-expose-network-of-150-cloned-law-firm-websites-in-ai-powered-scam-campaign/",
+            "summary": "",
+            "published_utc": "2026-02-05T14:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Firefox users didn't want AI, so Mozilla is giving them a way to kill it",
+            "link": "https://www.zdnet.com/article/firefox-turn-off-ai-features-switch-how-to/",
+            "summary": "Mozilla heard your complaints, and now Firefox 148 gives you an AI opt-out.",
+            "published_utc": "2026-02-05T13:52:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "VS Code Configs Expose GitHub Codespaces to Attacks",
+            "link": "https://www.securityweek.com/vs-code-configs-expose-github-codespaces-to-attacks/",
+            "summary": "",
+            "published_utc": "2026-02-05T13:41:48+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Smartphones Now Involved in Nearly Every Police Investigation",
+            "link": "https://www.infosecurity-magazine.com/news/smartphones-involved-every-police/",
+            "summary": "Cellebrite data confirms digital evidence is now central to almost all cases",
+            "published_utc": "2026-02-05T13:30:00+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Nullify Secures $12.5 Million in Seed Funding for Cybersecurity AI Workforce",
@@ -254,27 +303,6 @@
             "published_utc": "2026-02-05T03:30:46+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Linux Mint vs. Zorin OS: I've tried both Windows alternatives, and here's my winner",
-            "link": "https://www.zdnet.com/article/linux-mint-vs-zorin-os/",
-            "summary": "Linux Mint and Zorin OS are both popular Linux distros - but which one should you use? Here's my advice after weeks of testing.",
-            "published_utc": "2026-02-05T03:01:11+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Want local vibe coding? This AI stack replaces Claude Code and Codex - and it's free",
-            "link": "https://www.zdnet.com/article/local-ai-coding-stack-replaces-claude-code-codex-free/",
-            "summary": "You can replace expensive, cloud-based AI coding with three tools. Here's how.",
-            "published_utc": "2026-02-05T03:01:09+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "AI is collapsing the career ladder  - 5 ways to reach that leadership role now",
-            "link": "https://www.zdnet.com/article/career-ladder-crumbling-climb-leadership/",
-            "summary": "AI has changed all the rules. To get to the top, you'll have to prove you're ready for responsibility. Here's how.",
-            "published_utc": "2026-02-05T03:01:08+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "1.5 million AI agents are at risk of going rogue",
             "link": "https://www.csoonline.com/article/4127733/1-5-million-ai-agents-are-at-risk-of-going-rogue.html",
@@ -380,13 +408,6 @@
             "published_utc": "2026-02-04T13:41:08+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Cyber Insights 2026: Cyberwar and Rising Nation State Threats",
-            "link": "https://www.securityweek.com/cyber-insights-2026-cyberwar-and-rising-nation-state-threats/",
-            "summary": "",
-            "published_utc": "2026-02-04T13:00:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Two Critical Flaws in n8n AI Workflow Automation Platform Allow Complete Takeover",
             "link": "https://www.infosecurity-magazine.com/news/two-critical-flaws-in-n8n-ai/",
@@ -399,13 +420,6 @@
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-native-windows-11-sysmon-security-monitoring/",
             "summary": "Microsoft has started rolling out built-in Sysmon functionality to some Windows 11 systems enrolled in the Windows Insider program. [...]",
             "published_utc": "2026-02-04T12:58:20+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Varonis Acquisition of AllTrue.ai Valued at $150 Million",
-            "link": "https://www.securityweek.com/varonis-acquisition-of-alltrue-ai-valued-at-150-million/",
-            "summary": "",
-            "published_utc": "2026-02-04T12:39:56+00:00"
         },
         {
             "source": "CSO Online",
@@ -541,20 +555,6 @@
             "published_utc": "2026-02-03T15:00:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "UK ICO Launches Investigation into X Over AI Generated Non-Consensual Sexual Imagery",
-            "link": "https://www.infosecurity-magazine.com/news/ico-investigates-x-over-grok-ai/",
-            "summary": "UK Data Protection Watchdog has “serious concerns” over data privacy on Elon Musk’s social platform",
-            "published_utc": "2026-02-03T14:47:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Researchers Warn of New “Vect” RaaS Variant",
-            "link": "https://www.infosecurity-magazine.com/news/researchers-warn-new-vect-raas/",
-            "summary": "A new ransomware-as-a-service operation dubbed “Vect” features custom malware",
-            "published_utc": "2026-02-03T14:00:00+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Microsoft is Giving the FBI BitLocker Keys",
             "link": "https://www.schneier.com/blog/archives/2026/02/microsoft-is-giving-the-fbi-bitlocker-keys.html",
@@ -581,6 +581,13 @@
             "link": "https://www.csoonline.com/article/4123246/think-agentic-ai-is-hard-to-secure-today-just-wait-a-few-months.html",
             "summary": "",
             "published_utc": "2026-02-03T07:00:00+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
+            "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+            "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from vic...",
+            "published_utc": "2026-02-02T16:15:16+00:00"
         },
         {
             "source": "Schneier",
@@ -721,6 +728,13 @@
             "link": "https://www.wired.com/story/judge-delays-minnesota-ice-decision-while-weighing-whether-state-was-being-illegally-punished/",
             "summary": "A federal judge ordered a new briefing due Wednesday on whether DHS is using armed raids to pressure Minnesota into abandoning its sanctuary policies,...",
             "published_utc": "2026-01-26T22:39:30+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Who Operates the Badbox 2.0 Botnet?",
+            "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+            "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicati...",
+            "published_utc": "2026-01-26T16:11:38+00:00"
         },
         {
             "source": "Schneier",
@@ -1078,20 +1092,6 @@
             "link": "https://www.welivesecurity.com/en/business-security/big-catch-how-whaling-attacks-target-top-executives/",
             "summary": "Is your organization’s senior leadership vulnerable to a cyber-harpooning? Learn how to keep them safe.",
             "published_utc": "2025-12-09T10:00:00+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
-            "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
-            "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin...",
-            "published_utc": "2025-12-06T14:45:03+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-            "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-            "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, ju...",
-            "published_utc": "2025-12-04T23:02:34+00:00"
         },
         {
             "source": "WeLiveSecurity",
