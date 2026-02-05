@@ -1,6 +1,34 @@
 {
-    "lastUpdatedUTC": "2026-02-05T20:35:42.653351+00:00",
+    "lastUpdatedUTC": "2026-02-05T21:31:30.302124+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Spain's Ministry of Science shuts down systems after breach claims",
+            "link": "https://www.bleepingcomputer.com/news/security/spains-ministry-of-science-shuts-down-systems-after-breach-claims/",
+            "summary": "Spain's Ministry of Science (Ministerio de Ciencia) announced a partial shutdown of its IT systems, affecting several citizen- and company-facing serv...",
+            "published_utc": "2026-02-05T21:23:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Substack data breach leaks users’ email addresses and phone numbers",
+            "link": "https://www.csoonline.com/article/4128287/substack-data-breach-leaks-users-email-addresses-and-phone-numbers.html",
+            "summary": "",
+            "published_utc": "2026-02-05T21:13:42+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Ransomware gang uses ISPsystem VMs for stealthy payload delivery",
+            "link": "https://www.bleepingcomputer.com/news/security/ransomware-gang-uses-ispsystem-vms-for-stealthy-payload-delivery/",
+            "summary": "Ransomware operators are hosting and delivering malicious payloads at scale by abusing virtual machines (VMs) provisioned by ISPsystem, a legitimate v...",
+            "published_utc": "2026-02-05T20:57:11+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "OpenAI's Frontier wants to manage your AI agents - it could upend enterprise software, too",
+            "link": "https://www.zdnet.com/article/openai-frontier-manage-enterprise-ai-agents-like-palantir/",
+            "summary": "Emulating Palantir's use of forward-deployed AI engineers, OpenAI's framework is both an opportunity and a threat for commercial software firms.",
+            "published_utc": "2026-02-05T20:54:34+00:00"
+        },
         {
             "source": "WIRED Security",
             "title": "ICE and CBP’s Face-Recognition App Can’t Actually Verify Who People Are",
@@ -24,16 +52,16 @@
         },
         {
             "source": "ZDNet Security",
-            "title": "This 31-in-1 multitool would be good enough for MacGyver, but serves me just as well",
-            "link": "https://www.zdnet.com/article/bibury-multitool-pliers-pro-review/",
-            "summary": "Bibury's Multitool Pliers Pro is a fraction of the price of the big brand names, but no less handy with 31 different tools.",
+            "title": "I plugged my USB cables into this pocketable power tester - the results were not flattering",
+            "link": "https://www.zdnet.com/article/treedix-usb-cable-tester-review/",
+            "summary": "The Treedix multifunction USB cable tester identifies which cables work as intended and which should be recycled.",
             "published_utc": "2026-02-05T18:27:00+00:00"
         },
         {
             "source": "ZDNet Security",
-            "title": "I plugged my USB cables into this pocketable power tester - the results were not flattering",
-            "link": "https://www.zdnet.com/article/treedix-usb-cable-tester-review/",
-            "summary": "The Treedix multifunction USB cable tester identifies which cables work as intended and which should be recycled.",
+            "title": "This 31-in-1 multitool would be good enough for MacGyver, but serves me just as well",
+            "link": "https://www.zdnet.com/article/bibury-multitool-pliers-pro-review/",
+            "summary": "Bibury's Multitool Pliers Pro is a fraction of the price of the big brand names, but no less handy with 31 different tools.",
             "published_utc": "2026-02-05T18:27:00+00:00"
         },
         {
@@ -210,13 +238,6 @@
             "link": "https://www.zdnet.com/article/best-samsung-tablet/",
             "summary": "Looking beyond the iPad? We put Samsung's best tablets to the test featuring expandable storage, S Pen compatibility, and Android operating systems.",
             "published_utc": "2026-02-05T13:00:50+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "3 Apple devices you shouldn't buy this month, and 10 I recommend",
-            "link": "https://www.zdnet.com/article/apple-devices-not-to-buy-this-month/",
-            "summary": "Check this list out before you hit the Apple Store to make any big purchases.",
-            "published_utc": "2026-02-05T12:57:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -436,13 +457,6 @@
             "published_utc": "2026-02-04T14:17:45+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "New Amaranth Dragon cyberespionage group exploits WinRAR flaw",
-            "link": "https://www.bleepingcomputer.com/news/security/new-amaranth-dragon-cyberespionage-group-exploits-winrar-flaw/",
-            "summary": "A new threat actor called Amaranth Dragon, linked to APT41 state-sponsored Chinese operations, exploited the CVE-2025-8088 vulnerability in WinRAR in ...",
-            "published_utc": "2026-02-04T14:00:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "AI Drives Doubling of Phishing Attacks in a Year",
             "link": "https://www.infosecurity-magazine.com/news/ai-double-volume-phishing-attacks/",
@@ -455,13 +469,6 @@
             "link": "https://www.infosecurity-magazine.com/news/two-critical-flaws-in-n8n-ai/",
             "summary": "Pillar Security discovered two new critical vulnerabilities in n8n that could lead to supply chain compromise, credential harvesting and complete take...",
             "published_utc": "2026-02-04T13:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft rolls out native Sysmon monitoring in Windows 11",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-native-windows-11-sysmon-security-monitoring/",
-            "summary": "Microsoft has started rolling out built-in Sysmon functionality to some Windows 11 systems enrolled in the Windows Insider program. [...]",
-            "published_utc": "2026-02-04T12:58:20+00:00"
         },
         {
             "source": "CSO Online",
@@ -588,20 +595,6 @@
             "link": "https://www.csoonline.com/article/4126269/notepad-infrastructure-hijacked-by-chinese-apt-in-sophisticated-supply-chain-attack.html",
             "summary": "",
             "published_utc": "2026-02-03T10:31:15+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Think agentic AI is hard to secure today? Just wait a few months",
-            "link": "https://www.csoonline.com/article/4123246/think-agentic-ai-is-hard-to-secure-today-just-wait-a-few-months.html",
-            "summary": "",
-            "published_utc": "2026-02-03T07:00:00+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-            "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-            "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from vic...",
-            "published_utc": "2026-02-02T16:15:16+00:00"
         },
         {
             "source": "Schneier",
@@ -742,13 +735,6 @@
             "link": "https://www.wired.com/story/judge-delays-minnesota-ice-decision-while-weighing-whether-state-was-being-illegally-punished/",
             "summary": "A federal judge ordered a new briefing due Wednesday on whether DHS is using armed raids to pressure Minnesota into abandoning its sanctuary policies,...",
             "published_utc": "2026-01-26T22:39:30+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Who Operates the Badbox 2.0 Botnet?",
-            "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-            "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicati...",
-            "published_utc": "2026-01-26T16:11:38+00:00"
         },
         {
             "source": "Schneier",
@@ -1099,6 +1085,20 @@
             "link": "https://www.welivesecurity.com/en/business-security/big-catch-how-whaling-attacks-target-top-executives/",
             "summary": "Is your organization’s senior leadership vulnerable to a cyber-harpooning? Learn how to keep them safe.",
             "published_utc": "2025-12-09T10:00:00+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
+            "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+            "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin...",
+            "published_utc": "2025-12-06T14:45:03+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+            "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+            "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, ju...",
+            "published_utc": "2025-12-04T23:02:34+00:00"
         },
         {
             "source": "WeLiveSecurity",
