@@ -1,6 +1,34 @@
 {
-    "lastUpdatedUTC": "2026-02-05T10:42:08.252522+00:00",
+    "lastUpdatedUTC": "2026-02-05T11:36:29.598213+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Critical N8n Sandbox Escape Could Lead to Server Compromise",
+            "link": "https://www.securityweek.com/critical-n8n-sandbox-escape-could-lead-to-server-compromise/",
+            "summary": "",
+            "published_utc": "2026-02-05T11:23:19+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Data breach at fintech firm Betterment exposes 1.4 million accounts",
+            "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-betterment-exposes-14-million-accounts/",
+            "summary": "Hackers stole email addresses and other personal information from 1.4 million accounts after breaching the systems of automated investment platform Be...",
+            "published_utc": "2026-02-05T11:16:12+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Cyberspy Group Hacked Governments and Critical Infrastructure in 37 Countries",
+            "link": "https://www.securityweek.com/cyberspy-group-hacked-governments-and-critical-infrastructure-in-37-countries/",
+            "summary": "",
+            "published_utc": "2026-02-05T11:00:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "The silent security gap in enterprise AI adoption",
+            "link": "https://www.csoonline.com/article/4127334/the-silent-security-gap-in-enterprise-ai-adoption.html",
+            "summary": "",
+            "published_utc": "2026-02-05T11:00:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "The best Roborock vacuums 2026: Expert tested and reviewed",
@@ -236,7 +264,7 @@
             "source": "BleepingComputer",
             "title": "CISA: VMware ESXi flaw now exploited in ransomware attacks",
             "link": "https://www.bleepingcomputer.com/news/security/cisa-vmware-esxi-flaw-now-exploited-in-ransomware-attacks/",
-            "summary": "CISA confirmed on Wednesday that ransomware gangs have begun exploiting a high-severity VMware ESXi sandbox escape vulnerability that was previously u...",
+            "summary": "CISA confirmed on Wednesday that ransomware gangs have begun exploiting a high-severity VMware ESXi sandbox escape vulnerability that was used in zero...",
             "published_utc": "2026-02-04T17:38:46+00:00"
         },
         {
@@ -401,20 +429,6 @@
             "published_utc": "2026-02-04T10:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Fresh SolarWinds Vulnerability Exploited in Attacks",
-            "link": "https://www.securityweek.com/fresh-solarwinds-vulnerability-exploited-in-attacks/",
-            "summary": "",
-            "published_utc": "2026-02-04T09:50:56+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Security Analysis of Moltbook Agent Network: Bot-to-Bot Prompt Injection and Data Leaks",
-            "link": "https://www.securityweek.com/security-analysis-of-moltbook-agent-network-bot-to-bot-prompt-injection-and-data-leaks/",
-            "summary": "",
-            "published_utc": "2026-02-04T08:43:18+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Cybercriminals set sites on identities",
             "link": "https://www.csoonline.com/article/4126064/identities-in-the-crosshairs-of-cybercriminals.html",
@@ -469,13 +483,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-solarwinds-rce-flaw-as-actively-exploited/",
             "summary": "CISA has flagged a critical SolarWinds Web Help Desk vulnerability as actively exploited in attacks and ordered federal agencies to patch their system...",
             "published_utc": "2026-02-03T19:37:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Iron Mountain: Data breach mostly limited to marketing materials",
-            "link": "https://www.bleepingcomputer.com/news/security/iron-mountain-data-breach-mostly-limited-to-marketing-materials/",
-            "summary": "Iron Mountain, a leading data storage and recovery services company, says that a recent breach claimed by the Everest extortion gang is limited to mos...",
-            "published_utc": "2026-02-03T16:49:09+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -574,13 +581,6 @@
             "link": "https://www.csoonline.com/article/4125456/was-tun-wenn-die-erpresser-kommen.html",
             "summary": "",
             "published_utc": "2026-02-03T06:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "New phishing attack leverages PDFs and Dropbox",
-            "link": "https://www.csoonline.com/article/4125990/new-phishing-attack-leverages-pdfs-and-dropbox.html",
-            "summary": "",
-            "published_utc": "2026-02-03T02:30:44+00:00"
         },
         {
             "source": "Schneier",
