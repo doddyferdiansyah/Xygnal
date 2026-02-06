@@ -1,6 +1,34 @@
 {
-    "lastUpdatedUTC": "2026-02-06T07:50:48.025580+00:00",
+    "lastUpdatedUTC": "2026-02-06T08:43:47.649591+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "CISA orders federal agencies to replace end-of-life edge devices",
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-replace-end-of-life-edge-devices/",
+            "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has issued a new binding operational directive requiring federal agencies to identify...",
+            "published_utc": "2026-02-06T08:41:11+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "New Cyber Startup Programme to Debut at Infosecurity Europe 2026",
+            "link": "https://www.infosecurity-magazine.com/news/cyber-startup-programme/",
+            "summary": "Infosecurity Europe 2026 will debut a new Cyber Startup Programme, featuring a dedicated show-floor zone for early-stage cybersecurity companies to sh...",
+            "published_utc": "2026-02-06T08:30:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "5 Bills to Boost Energy Sector Cyber Defenses Clear House Panel",
+            "link": "https://www.securityweek.com/5-bills-to-boost-energy-sector-cyber-defenses-clear-house-panel/",
+            "summary": "",
+            "published_utc": "2026-02-06T08:19:03+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "KI als AWS-Angriffsturbo",
+            "link": "https://www.csoonline.com/article/4127244/ki-als-aws-angriffsturbo.html",
+            "summary": "",
+            "published_utc": "2026-02-06T08:03:29+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Critical SmarterMail Vulnerability Exploited in Ransomware Attacks",
@@ -96,7 +124,7 @@
             "source": "ZDNet Security",
             "title": "Which AI chatbots have ads? Comparing ChatGPT, Claude, Gemini, and more",
             "link": "https://www.zdnet.com/article/which-ai-chatbots-are-ad-free/",
-            "summary": "Want to know which AI chatbots have ads or plan to roll them out? I compared the top ones to find out.",
+            "summary": "Wondering which AI chatbots are still ad-free in 2026? There aren't many. Here's a quick rundown of the top ones.",
             "published_utc": "2026-02-06T01:51:00+00:00"
         },
         {
@@ -338,13 +366,6 @@
             "published_utc": "2026-02-05T11:38:55+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Critical N8n Sandbox Escape Could Lead to Server Compromise",
-            "link": "https://www.securityweek.com/critical-n8n-sandbox-escape-could-lead-to-server-compromise/",
-            "summary": "",
-            "published_utc": "2026-02-05T11:23:19+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Data breach at fintech firm Betterment exposes 1.4 million accounts",
             "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-betterment-exposes-14-million-accounts/",
@@ -478,13 +499,6 @@
             "published_utc": "2026-02-04T15:00:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "EDR killer tool uses signed kernel driver from forensic software",
-            "link": "https://www.bleepingcomputer.com/news/security/edr-killer-tool-uses-signed-kernel-driver-from-forensic-software/",
-            "summary": "Hackers are abusing a legitimate but long-revoked EnCase kernel driver in an EDR killer that can detect 59 security tools in attempts to deactivate th...",
-            "published_utc": "2026-02-04T14:17:45+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "AI Drives Doubling of Phishing Attacks in a Year",
             "link": "https://www.infosecurity-magazine.com/news/ai-double-volume-phishing-attacks/",
@@ -548,13 +562,6 @@
             "published_utc": "2026-02-04T08:30:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Should I stay or should I go?",
-            "link": "https://www.csoonline.com/article/4125356/should-i-stay-or-should-i-go-2.html",
-            "summary": "",
-            "published_utc": "2026-02-04T07:00:00+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "The Paramilitary ICE and CBP Units at the Center of Minnesota's Killings",
             "link": "https://www.wired.com/story/ice-cbp-srt-bortac-units-immigration-operations/",
@@ -576,13 +583,6 @@
             "published_utc": "2026-02-03T16:15:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "DockerDash Exposes AI Supply Chain Weakness In Docker's Ask Gordon",
-            "link": "https://www.infosecurity-magazine.com/news/dockerdash-weakness-dockers-ask/",
-            "summary": "DockerDash vulnerability allows RCE and data exfiltration via unverified metadata in Ask Gordon",
-            "published_utc": "2026-02-03T15:15:00+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Microsoft is Giving the FBI BitLocker Keys",
             "link": "https://www.schneier.com/blog/archives/2026/02/microsoft-is-giving-the-fbi-bitlocker-keys.html",
@@ -595,13 +595,6 @@
             "link": "https://www.wired.com/story/how-data-brokers-can-fuel-violence-against-public-servants/",
             "summary": "A new report from the Public Service Alliance finds state privacy laws offer public servants few ways to protect their private data, even as threats a...",
             "published_utc": "2026-02-03T11:00:00+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-            "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-            "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from vic...",
-            "published_utc": "2026-02-02T16:15:16+00:00"
         },
         {
             "source": "Schneier",
@@ -742,13 +735,6 @@
             "link": "https://www.wired.com/story/judge-delays-minnesota-ice-decision-while-weighing-whether-state-was-being-illegally-punished/",
             "summary": "A federal judge ordered a new briefing due Wednesday on whether DHS is using armed raids to pressure Minnesota into abandoning its sanctuary policies,...",
             "published_utc": "2026-01-26T22:39:30+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Who Operates the Badbox 2.0 Botnet?",
-            "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-            "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicati...",
-            "published_utc": "2026-01-26T16:11:38+00:00"
         },
         {
             "source": "Schneier",
@@ -1099,6 +1085,20 @@
             "link": "https://www.welivesecurity.com/en/business-security/big-catch-how-whaling-attacks-target-top-executives/",
             "summary": "Is your organization’s senior leadership vulnerable to a cyber-harpooning? Learn how to keep them safe.",
             "published_utc": "2025-12-09T10:00:00+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
+            "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+            "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin...",
+            "published_utc": "2025-12-06T14:45:03+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+            "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+            "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, ju...",
+            "published_utc": "2025-12-04T23:02:34+00:00"
         },
         {
             "source": "WeLiveSecurity",
