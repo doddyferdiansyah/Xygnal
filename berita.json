@@ -1,6 +1,20 @@
 {
-    "lastUpdatedUTC": "2026-02-06T06:57:23.461065+00:00",
+    "lastUpdatedUTC": "2026-02-06T07:50:48.025580+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Critical SmarterMail Vulnerability Exploited in Ransomware Attacks",
+            "link": "https://www.securityweek.com/critical-smartermail-vulnerability-exploited-in-ransomware-attacks/",
+            "summary": "",
+            "published_utc": "2026-02-06T07:50:23+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "The blind spot every CISO must see: Loyalty",
+            "link": "https://www.csoonline.com/article/4127687/the-blind-spot-every-ciso-must-see-loyalty.html",
+            "summary": "",
+            "published_utc": "2026-02-06T07:00:00+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Concerns Raised Over CISA’s Silent Ransomware Updates in KEV Catalog",
@@ -147,6 +161,13 @@
             "link": "https://www.zdnet.com/article/oukitel-rt10-tablet-review/",
             "summary": "The Oukitel RT10 tablet is built like a tank yet still delivers a bright, vivid display.",
             "published_utc": "2026-02-05T23:56:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "New APT group breached gov and critical infrastructure orgs in 37 countries",
+            "link": "https://www.csoonline.com/article/4128378/new-apt-group-breached-gov-and-critical-infrastructure-orgs-in-37-countries.html",
+            "summary": "",
+            "published_utc": "2026-02-05T23:13:21+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -329,13 +350,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-betterment-exposes-14-million-accounts/",
             "summary": "Hackers stole email addresses and other personal information from 1.4 million accounts after breaching the systems of automated investment platform Be...",
             "published_utc": "2026-02-05T11:16:12+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Cyberspy Group Hacked Governments and Critical Infrastructure in 37 Countries",
-            "link": "https://www.securityweek.com/cyberspy-group-hacked-governments-and-critical-infrastructure-in-37-countries/",
-            "summary": "",
-            "published_utc": "2026-02-05T11:00:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -541,13 +555,6 @@
             "published_utc": "2026-02-04T07:00:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Die besten DAST- & SAST-Tools",
-            "link": "https://www.csoonline.com/article/3493611/dynamic-static-application-security-testing-die-besten-dast-sast-tools.html",
-            "summary": "",
-            "published_utc": "2026-02-04T04:00:00+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "The Paramilitary ICE and CBP Units at the Center of Minnesota's Killings",
             "link": "https://www.wired.com/story/ice-cbp-srt-bortac-units-immigration-operations/",
@@ -588,6 +595,13 @@
             "link": "https://www.wired.com/story/how-data-brokers-can-fuel-violence-against-public-servants/",
             "summary": "A new report from the Public Service Alliance finds state privacy laws offer public servants few ways to protect their private data, even as threats a...",
             "published_utc": "2026-02-03T11:00:00+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
+            "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+            "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from vic...",
+            "published_utc": "2026-02-02T16:15:16+00:00"
         },
         {
             "source": "Schneier",
@@ -728,6 +742,13 @@
             "link": "https://www.wired.com/story/judge-delays-minnesota-ice-decision-while-weighing-whether-state-was-being-illegally-punished/",
             "summary": "A federal judge ordered a new briefing due Wednesday on whether DHS is using armed raids to pressure Minnesota into abandoning its sanctuary policies,...",
             "published_utc": "2026-01-26T22:39:30+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Who Operates the Badbox 2.0 Botnet?",
+            "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+            "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicati...",
+            "published_utc": "2026-01-26T16:11:38+00:00"
         },
         {
             "source": "Schneier",
@@ -1078,20 +1099,6 @@
             "link": "https://www.welivesecurity.com/en/business-security/big-catch-how-whaling-attacks-target-top-executives/",
             "summary": "Is your organization’s senior leadership vulnerable to a cyber-harpooning? Learn how to keep them safe.",
             "published_utc": "2025-12-09T10:00:00+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
-            "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
-            "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin...",
-            "published_utc": "2025-12-06T14:45:03+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-            "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-            "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, ju...",
-            "published_utc": "2025-12-04T23:02:34+00:00"
         },
         {
             "source": "WeLiveSecurity",
