@@ -1,6 +1,20 @@
 {
-    "lastUpdatedUTC": "2026-02-06T18:54:09.423135+00:00",
+    "lastUpdatedUTC": "2026-02-06T19:38:36.769183+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "The best Presidents' Day sales we've found so far",
+            "link": "https://www.zdnet.com/article/best-presidents-day-deals-2026/",
+            "summary": "Presidents' Day sales are slowly making their way online, and I'm scouting for expert-approved deals on home, tech, and more.",
+            "published_utc": "2026-02-06T19:07:51+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Beyond gold: Why Team USA will be wearing titanium at these Olympics",
+            "link": "https://www.zdnet.com/article/oura-rings-team-usa-olympics-official-wearable/",
+            "summary": "US athletes will sport Oura Rings to track their health. Here's why sponsorships like these can inspire new features.",
+            "published_utc": "2026-02-06T19:00:00+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "DKnife Linux toolkit hijacks router traffic to spy, deliver malware",
@@ -49,13 +63,6 @@
             "link": "https://www.infosecurity-magazine.com/news/china-malware-kit-targets-routers/",
             "summary": "DKnife is a Chinese made malware framework that targets Chinese-based users",
             "published_utc": "2026-02-06T17:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The best Presidents' Day laptop sales we've found so far",
-            "link": "https://www.zdnet.com/article/best-laptop-deals-presidents-day-2026/",
-            "summary": "We're following the best laptop deals ahead of Presidents' Day 2026, with offers from Acer, Lenovo, HP, and Apple.",
-            "published_utc": "2026-02-06T16:53:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -154,20 +161,6 @@
             "link": "https://www.zdnet.com/article/cuktech-15-air-power-bank-review/",
             "summary": "The Cuktech 15 Air is a small yet energy-dense power bank that commands a premium price. Here's how it fared in my tests.",
             "published_utc": "2026-02-06T15:58:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "This rugged Android tablet I tested was off to a rough start - then I discovered its real charm",
-            "link": "https://www.zdnet.com/article/oukitel-rt10-tablet-review/",
-            "summary": "The Oukitel RT10 tablet is built like a tank yet still delivers a bright, vivid display.",
-            "published_utc": "2026-02-06T15:55:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How to watch the 2026 Winter Olympics: Streaming options, schedule, and times",
-            "link": "https://www.zdnet.com/article/how-to-watch-the-2026-winter-olympics/",
-            "summary": "Don't miss a single medal. See how to watch the Milano Cortina 2026 Winter Olympics for free. Get the latest streaming links right here.",
-            "published_utc": "2026-02-06T15:52:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -653,6 +646,13 @@
             "published_utc": "2026-02-03T10:00:00+00:00"
         },
         {
+            "source": "KrebsOnSecurity",
+            "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
+            "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+            "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from vic...",
+            "published_utc": "2026-02-02T16:15:16+00:00"
+        },
+        {
             "source": "InfosecurityMag",
             "title": "NSA Publishes New Zero Trust Implementation Guidelines",
             "link": "https://www.infosecurity-magazine.com/news/nsa-zero-trust-implementation/",
@@ -994,6 +994,13 @@
             "link": "https://www.infosecurity-magazine.com/news/cisa-post-quantum-cryptography/",
             "summary": "CISA released initial list of PQC-capable hardware and software to guide companies amid quantum threats",
             "published_utc": "2026-01-26T16:15:00+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Who Operates the Badbox 2.0 Botnet?",
+            "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+            "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicati...",
+            "published_utc": "2026-01-26T16:11:38+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2375,13 +2382,6 @@
             "published_utc": "2025-12-08T09:30:00+00:00"
         },
         {
-            "source": "KrebsOnSecurity",
-            "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
-            "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
-            "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin...",
-            "published_utc": "2025-12-06T14:45:03+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "React.js Hit by Maximum-Severity 'React2Shell' Vulnerability",
             "link": "https://www.infosecurity-magazine.com/news/reactjs-hit-by-react2shell/",
@@ -2408,13 +2408,6 @@
             "link": "https://www.infosecurity-magazine.com/news/predator-spyware-intellexa-evades/",
             "summary": "Data leaks have shed a new light on Intellexa’s flagship spyware infrastructure and attack vectors",
             "published_utc": "2025-12-05T09:15:00+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-            "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-            "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, ju...",
-            "published_utc": "2025-12-04T23:02:34+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -3500,6 +3493,13 @@
             "link": "https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/",
             "summary": "Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed.",
             "published_utc": "2022-08-25T18:47:15+00:00"
+        },
+        {
+            "source": "Threatpost",
+            "title": "Twitter Whistleblower Complaint: The TL;DR Version",
+            "link": "https://threatpost.com/twitter-whistleblower-tldr-version/180472/",
+            "summary": "Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a n...",
+            "published_utc": "2022-08-24T14:17:04+00:00"
         }
     ]
 }
