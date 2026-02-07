@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2026-02-06T23:28:29.340252+00:00",
+    "lastUpdatedUTC": "2026-02-07T02:07:49.732352+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "Your Android phone feeling slow? My 4-step refresh routine works wonders every time",
+            "link": "https://www.zdnet.com/article/4-step-android-phone-clear-cache-refresh-routine/",
+            "summary": "A few taps and swipes are all it takes to make your old phone feel brand new.",
+            "published_utc": "2026-02-07T02:03:56+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Are your Bluetooth devices missing these key features? Here's why - and who to blame",
+            "link": "https://www.zdnet.com/article/bluetooth-forecast-ces-2026/",
+            "summary": "Channel Sounding adoption is slow, but Auracast is gaining momentum. It's all up to manufacturers.",
+            "published_utc": "2026-02-07T02:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I stopped using a dedicated e-reader when I found out my tablet could do this instead",
+            "link": "https://www.zdnet.com/article/how-to-turn-ipad-android-tablet-into-e-reader/",
+            "summary": "There's no need for a separate device when your iPad or Android tablet can hold your whole reading library.",
+            "published_utc": "2026-02-07T01:30:44+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How to clear your iPhone cache (and why it makes such a big difference)",
+            "link": "https://www.zdnet.com/article/how-to-clear-your-iphone-cache/",
+            "summary": "If your iPhone is feeling slow, follow this quick routine to boost its speed and free up space.",
+            "published_utc": "2026-02-07T01:01:01+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The best AI chatbots of 2026: Expert tested and reviewed",
+            "link": "https://www.zdnet.com/article/best-ai-chatbot/",
+            "summary": "I pushed eight free AI chatbots to their limits to find the best AI chatbots of 2026. To explore our top picks, check out ZDNET's chatbot-by-chatbot g...",
+            "published_utc": "2026-02-07T00:23:38+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "This 85-inch Sony Bravia dropped to less than $1,000 at Amazon",
@@ -156,20 +191,6 @@
             "published_utc": "2026-02-06T16:50:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I tested the world's smallest 1TB SSD drive, and it's biggest downside shouldn't surprise you",
-            "link": "https://www.zdnet.com/article/sandisk-extremefit-usb-review/",
-            "summary": "The SanDisk ExtremeFit USB-C weighs under three grams yet delivers ample storage and fast speeds.",
-            "published_utc": "2026-02-06T16:41:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Lenovo showed me its new ThinkPad X1 Carbon, and I didn't see this year's upgrades coming",
-            "link": "https://www.zdnet.com/article/thinkpad-x1-carbon-gen-14-hands-on/",
-            "summary": "With the upcoming ThinkPad, Lenovo commits to repairability with a redesigned 'Space Frame' motherboard. Here's how it works.",
-            "published_utc": "2026-02-06T16:40:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Substack Confirms Data Breach, \"Limited User Data\" Compromised",
             "link": "https://www.infosecurity-magazine.com/news/substack-confirms-data-breach/",
@@ -182,20 +203,6 @@
             "link": "https://www.csoonline.com/article/4128889/claude-ai-finds-500-high-severity-software-vulnerabilities.html",
             "summary": "",
             "published_utc": "2026-02-06T16:21:05+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I tested Raspberry Pi's new USB flash drive, and it has one key advantage over competitors",
-            "link": "https://www.zdnet.com/article/raspberry-pi-flash-drive-review/",
-            "summary": "It might not fully replace a traditional Raspberry Pi system, but this is as fast as these kinds of flash drives get.",
-            "published_utc": "2026-02-06T16:20:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Why last year's LG C5 OLED is my top TV choice right now - especially at nearly 50% off",
-            "link": "https://www.zdnet.com/article/lg-c5-oled-review/",
-            "summary": "The LG C5 OLED offers stunning picture quality and a sleek, minimalist design for a truly immersive experience. It's heavily discounted going into thi...",
-            "published_utc": "2026-02-06T16:15:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -667,6 +674,13 @@
             "published_utc": "2026-02-03T10:00:00+00:00"
         },
         {
+            "source": "KrebsOnSecurity",
+            "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
+            "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+            "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from vic...",
+            "published_utc": "2026-02-02T16:15:16+00:00"
+        },
+        {
             "source": "InfosecurityMag",
             "title": "NSA Publishes New Zero Trust Implementation Guidelines",
             "link": "https://www.infosecurity-magazine.com/news/nsa-zero-trust-implementation/",
@@ -1008,6 +1022,13 @@
             "link": "https://www.infosecurity-magazine.com/news/cisa-post-quantum-cryptography/",
             "summary": "CISA released initial list of PQC-capable hardware and software to guide companies amid quantum threats",
             "published_utc": "2026-01-26T16:15:00+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Who Operates the Badbox 2.0 Botnet?",
+            "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+            "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicati...",
+            "published_utc": "2026-01-26T16:11:38+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2368,13 +2389,6 @@
             "published_utc": "2025-12-08T09:30:00+00:00"
         },
         {
-            "source": "KrebsOnSecurity",
-            "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
-            "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
-            "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin...",
-            "published_utc": "2025-12-06T14:45:03+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "React.js Hit by Maximum-Severity 'React2Shell' Vulnerability",
             "link": "https://www.infosecurity-magazine.com/news/reactjs-hit-by-react2shell/",
@@ -2401,13 +2415,6 @@
             "link": "https://www.infosecurity-magazine.com/news/predator-spyware-intellexa-evades/",
             "summary": "Data leaks have shed a new light on Intellexa’s flagship spyware infrastructure and attack vectors",
             "published_utc": "2025-12-05T09:15:00+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-            "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-            "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, ju...",
-            "published_utc": "2025-12-04T23:02:34+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -3493,13 +3500,6 @@
             "link": "https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/",
             "summary": "Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed.",
             "published_utc": "2022-08-25T18:47:15+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Twitter Whistleblower Complaint: The TL;DR Version",
-            "link": "https://threatpost.com/twitter-whistleblower-tldr-version/180472/",
-            "summary": "Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a n...",
-            "published_utc": "2022-08-24T14:17:04+00:00"
         }
     ]
 }
