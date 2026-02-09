@@ -1,6 +1,55 @@
 {
-    "lastUpdatedUTC": "2026-02-09T08:56:09.098590+00:00",
+    "lastUpdatedUTC": "2026-02-09T10:05:38.958721+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "Schrödinger’s cat and the enterprise security paradox",
+            "link": "https://www.csoonline.com/article/4128910/schrodingers-cat-and-the-enterprise-security-paradox.html",
+            "summary": "",
+            "published_utc": "2026-02-09T10:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "European Commission discloses breach that exposed staff data",
+            "link": "https://www.bleepingcomputer.com/news/security/european-commission-discloses-breach-that-exposed-staff-data/",
+            "summary": "The European Commission is investigating a breach after finding evidence that its mobile device management platform was hacked. [...]",
+            "published_utc": "2026-02-09T09:49:04+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Gartner-Prognose: Die sechs wichtigsten Cybersicherheits-Trends für 2026",
+            "link": "https://www.csoonline.com/article/4129302/gartner-prognose-die-sechs-wichtigsten-cybersicherheits-trends-fur-2026.html",
+            "summary": "",
+            "published_utc": "2026-02-09T09:49:01+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "You can unlock this secure SSD with the touch of your smartphone",
+            "link": "https://www.zdnet.com/article/lexar-touchlock-portable-ssd-review/",
+            "summary": "The Lexar TouchLock Portable SSD uses the magic of NFC to unlock.",
+            "published_utc": "2026-02-09T09:43:15+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Researchers Find 40,000+ Exposed OpenClaw Instances",
+            "link": "https://www.infosecurity-magazine.com/news/researchers-40000-exposed-openclaw/",
+            "summary": "SecurityScorecard has identified over 40,000 OpenClaw deployments exposed to potential attack",
+            "published_utc": "2026-02-09T09:30:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "New Paper and Tool Help Security Teams Move Beyond Blind Reliance on CISA’s KEV Catalog",
+            "link": "https://www.securityweek.com/new-paper-and-tool-help-security-teams-move-beyond-blind-reliance-on-cisas-kev-catalog/",
+            "summary": "",
+            "published_utc": "2026-02-09T09:10:25+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "US Agencies Told to Scrap End of Support Edge Devices",
+            "link": "https://www.infosecurity-magazine.com/news/us-agencies-scrap-end-of-support/",
+            "summary": "CISA has issued a new directive requiring federal agencies to decommission all end of support edge devices within 12 months to reduce ongoing exploita...",
+            "published_utc": "2026-02-09T09:00:00+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "NIS2: Supply chains as a risk factor",
@@ -175,13 +224,6 @@
             "link": "https://www.zdnet.com/article/eufycam-s3-pro-review/",
             "summary": "The EufyCam S3 Pro promises to capture evening footage as clearly as daytime footage, and it delivers.",
             "published_utc": "2026-02-08T11:00:53+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The best AR and MR glasses in 2026: Expert tested and reviewed",
-            "link": "https://www.zdnet.com/article/best-ar-and-mr-glasses/",
-            "summary": "We tested the best AR and MR glasses that seamlessly blend digital content with the real world for immersive work and entertainment experiences.",
-            "published_utc": "2026-02-08T10:00:42+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -422,13 +464,6 @@
             "published_utc": "2026-02-06T07:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Concerns Raised Over CISA’s Silent Ransomware Updates in KEV Catalog",
-            "link": "https://www.securityweek.com/questions-raised-over-cisas-silent-ransomware-updates-in-kev-catalog/",
-            "summary": "",
-            "published_utc": "2026-02-06T05:28:39+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Cybersicherheitsvorschriften: So erfüllen Sie Ihre Compliance-Anforderungen",
             "link": "https://www.csoonline.com/article/3494023/cybersicherheitsvorschriften-so-erfullen-sie-ihre-compliance-anforderungen.html",
@@ -485,13 +520,6 @@
             "published_utc": "2026-02-05T18:07:41+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Italian university La Sapienza goes offline after cyberattack",
-            "link": "https://www.bleepingcomputer.com/news/security/italian-university-la-sapienza-goes-offline-after-cyberattack/",
-            "summary": "Rome's \"La Sapienza\" university has been targeted by a cyberattack that impacted its IT systems and caused widespread operational disruptions at the e...",
-            "published_utc": "2026-02-05T17:02:45+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Malicious Commands in GitHub Codespaces Enable RCE",
             "link": "https://www.infosecurity-magazine.com/news/malicious-commands-in-github/",
@@ -534,25 +562,11 @@
             "published_utc": "2026-02-05T11:38:55+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "The silent security gap in enterprise AI adoption",
-            "link": "https://www.csoonline.com/article/4127334/the-silent-security-gap-in-enterprise-ai-adoption.html",
-            "summary": "",
-            "published_utc": "2026-02-05T11:00:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "AI-Enabled Voice and Virtual Meeting Fraud Surges 1000%+",
             "link": "https://www.infosecurity-magazine.com/news/ai-voice-virtual-meeting-fraud/",
             "summary": "Pindrop warns of 1210% increase in AI-powered fraud last year",
             "published_utc": "2026-02-05T10:05:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Microsoft develops a new scanner to detect hidden backdoors in LLMs",
-            "link": "https://www.csoonline.com/article/4127897/microsoft-develops-a-new-scanner-to-detect-hidden-backdoors-in-llms.html",
-            "summary": "",
-            "published_utc": "2026-02-05T10:02:44+00:00"
         },
         {
             "source": "WIRED Security",
@@ -2795,25 +2809,11 @@
             "published_utc": "2025-11-24T11:07:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "Iberia Airlines Notifies Customers of Supply Chain Data Breach",
-            "link": "https://www.infosecurity-magazine.com/news/iberia-airlines-supply-chain-data/",
-            "summary": "Spanish airline Iberia has begun emailing its customers about a supplier data breach",
-            "published_utc": "2025-11-24T10:15:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "MDR is the answer – now, what’s the question?",
             "link": "https://www.welivesecurity.com/en/business-security/mdr-answer-now-whats-question/",
             "summary": "Why your business needs the best-of-breed combination of technology and human expertise",
             "published_utc": "2025-11-24T10:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "MoD Launches World’s First Military Gaming Tournament",
-            "link": "https://www.infosecurity-magazine.com/news/mod-worlds-first-military-gaming/",
-            "summary": "The International Defence Esports Games (IDEG) will help sharpen cyber and battlefield skills for allied soldiers",
-            "published_utc": "2025-11-24T09:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
