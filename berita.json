@@ -1,6 +1,13 @@
 {
-    "lastUpdatedUTC": "2026-02-10T21:50:55.318373+00:00",
+    "lastUpdatedUTC": "2026-02-10T22:41:29.101166+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "North Korean hackers use new macOS malware in crypto-theft attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/north-korean-hackers-use-new-macos-malware-in-crypto-theft-attacks/",
+            "summary": "North Korean hackers are running tailored campaigns using AI-generated video and the ClickFix technique to deliver malware for macOS and Windows to ta...",
+            "published_utc": "2026-02-10T22:17:35+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Microsoft is giving these Windows 11 PCs a useful Bluetooth upgrade for free - but there's a catch",
@@ -429,13 +436,6 @@
             "published_utc": "2026-02-09T15:25:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Password guessing without AI: How attackers build targeted wordlists",
-            "link": "https://www.bleepingcomputer.com/news/security/password-guessing-without-ai-how-attackers-build-targeted-wordlists/",
-            "summary": "Attackers don't need AI to crack passwords, they build targeted wordlists from an organization's own public language. This article explains how tools ...",
-            "published_utc": "2026-02-09T15:01:11+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "OpenClaw integrates VirusTotal malware scanning as security firms flag enterprise risks",
             "link": "https://www.csoonline.com/article/4129393/openclaw-integrates-virustotal-malware-scanning-as-security-firms-flag-enterprise-risks.html",
@@ -807,13 +807,6 @@
             "published_utc": "2026-02-03T10:00:00+00:00"
         },
         {
-            "source": "KrebsOnSecurity",
-            "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-            "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-            "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from vic...",
-            "published_utc": "2026-02-02T16:15:16+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "NSA Publishes New Zero Trust Implementation Guidelines",
             "link": "https://www.infosecurity-magazine.com/news/nsa-zero-trust-implementation/",
@@ -1141,13 +1134,6 @@
             "link": "https://www.infosecurity-magazine.com/news/cisa-post-quantum-cryptography/",
             "summary": "CISA released initial list of PQC-capable hardware and software to guide companies amid quantum threats",
             "published_utc": "2026-01-26T16:15:00+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Who Operates the Badbox 2.0 Botnet?",
-            "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-            "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicati...",
-            "published_utc": "2026-01-26T16:11:38+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2487,6 +2473,13 @@
             "published_utc": "2025-12-08T09:30:00+00:00"
         },
         {
+            "source": "KrebsOnSecurity",
+            "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
+            "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+            "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin...",
+            "published_utc": "2025-12-06T14:45:03+00:00"
+        },
+        {
             "source": "InfosecurityMag",
             "title": "React.js Hit by Maximum-Severity 'React2Shell' Vulnerability",
             "link": "https://www.infosecurity-magazine.com/news/reactjs-hit-by-react2shell/",
@@ -2513,6 +2506,13 @@
             "link": "https://www.infosecurity-magazine.com/news/predator-spyware-intellexa-evades/",
             "summary": "Data leaks have shed a new light on Intellexa’s flagship spyware infrastructure and attack vectors",
             "published_utc": "2025-12-05T09:15:00+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+            "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+            "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, ju...",
+            "published_utc": "2025-12-04T23:02:34+00:00"
         },
         {
             "source": "InfosecurityMag",
