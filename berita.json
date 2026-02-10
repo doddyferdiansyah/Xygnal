@@ -1,11 +1,88 @@
 {
-    "lastUpdatedUTC": "2026-02-10T13:17:56.039387+00:00",
+    "lastUpdatedUTC": "2026-02-10T15:00:03.703574+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "SAP Patches Critical CRM, S/4HANA, NetWeaver Vulnerabilities",
+            "link": "https://www.securityweek.com/sap-patches-critical-crm-s-4hana-netweaver-vulnerabilities/",
+            "summary": "",
+            "published_utc": "2026-02-10T14:54:35+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "8 Linux distros I always recommend first to developers - and why",
+            "link": "https://www.zdnet.com/article/linux-distros-for-developers/",
+            "summary": "These Linux distributions deliver the compilers, flexibility, and stability serious development work demands.",
+            "published_utc": "2026-02-10T14:54:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Cyberangriff auf EU-Kommission",
+            "link": "https://www.csoonline.com/article/4130077/cyberangriff-auf-eu-kommission.html",
+            "summary": "",
+            "published_utc": "2026-02-10T14:01:46+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Backslash Raises $19 Million to Secure Vibe Coding",
+            "link": "https://www.securityweek.com/backslash-raises-19-million-to-secure-vibe-coding/",
+            "summary": "",
+            "published_utc": "2026-02-10T14:01:08+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "This new 'sleeperware' doesn't set off alarms or crash your system - it sneaks in and waits",
+            "link": "https://www.zdnet.com/article/sleeperware-malware-sneaks-waits-ransomware-decline/",
+            "summary": "As ransomware declines, a new more dangerous digital parasite quietly rises to take its place.",
+            "published_utc": "2026-02-10T14:00:50+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "“Digital Parasite” Warning as Attackers Favor Stealth for Extortion",
+            "link": "https://www.infosecurity-magazine.com/news/digital-parasite-attackers-stealth/",
+            "summary": "Picus Security warns of the increasingly sophisticated ways malicious activity is staying hidden",
+            "published_utc": "2026-02-10T14:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "New Mobile Spyware ZeroDayRAT Targets Android and iOS",
+            "link": "https://www.infosecurity-magazine.com/news/zerodayrat-mobile-spyware-android/",
+            "summary": "ZeroDayRAT is a new mobile spyware targeting Android and iOS, offering attackers persistent access",
+            "published_utc": "2026-02-10T14:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Your Roku has hidden settings and menu screens - here's how to unlock them",
+            "link": "https://www.zdnet.com/article/roku-tv-secret-menus-settings/",
+            "summary": "These secret button combinations get you access to Roku's secret menu of advanced features and tweaks.",
+            "published_utc": "2026-02-10T13:56:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The latest Linux kernel release closes out the 6.x era - and it's a gift to cloud admins",
+            "link": "https://www.zdnet.com/article/latest-linux-kernel-ends-6x-era-cloud-admins/",
+            "summary": "Linux is jumping straight to 7 next.",
+            "published_utc": "2026-02-10T13:28:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft announces new mobile-style Windows security controls",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-new-mobile-style-windows-security-controls/",
+            "summary": "Microsoft wants to introduce smartphone-style app permission prompts in Windows 11 to request user consent before apps can access sensitive resources ...",
+            "published_utc": "2026-02-10T13:16:32+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "ZeroDayRAT malware grants full access to Android, iOS devices",
             "link": "https://www.bleepingcomputer.com/news/security/zerodayrat-malware-grants-full-access-to-android-ios-devices/",
             "summary": "A new commercial mobile spyware platform dubbed ZeroDayRAT is being advertised to cybercriminals on Telegram as a tool that provides full remote contr...",
+            "published_utc": "2026-02-10T13:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "New ‘ZeroDayRAT’ Spyware Kit Enables Total Compromise of iOS, Android Devices",
+            "link": "https://www.securityweek.com/new-zerodayrat-spyware-kit-enables-total-compromise-of-ios-android-devices/",
+            "summary": "",
             "published_utc": "2026-02-10T13:00:00+00:00"
         },
         {
@@ -170,25 +247,11 @@
             "published_utc": "2026-02-10T11:15:43+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "The best VPS hosting services for 2026: Expert tested and reviewed",
-            "link": "https://www.zdnet.com/article/best-vps-hosting-service/",
-            "summary": "Our favorite VPS solutions will power up your next online project or business venture and allow you the flexibility to scale up as your needs change.",
-            "published_utc": "2026-02-10T11:00:45+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "Singapore: Rootkits, Zero-Day Used in Chinese Attack on Major Telecom Firms",
             "link": "https://www.securityweek.com/singapore-rootkits-zero-day-used-in-chinese-attack-on-major-telecom-firms/",
             "summary": "",
             "published_utc": "2026-02-10T10:09:46+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I've tested hundreds of Linux distros - these five are the easiest to install",
-            "link": "https://www.zdnet.com/article/5-of-my-favorite-linux-distros-ready-to-use-out-of-the-box-no-setup-required/",
-            "summary": "These distros are easy to install, include the right apps, skip the bloat and ads, and automatically detect your hardware. Easy peasy. You're welcome.",
-            "published_utc": "2026-02-10T10:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -231,13 +294,6 @@
             "link": "https://www.csoonline.com/article/4129820/anthropics-dxt-poses-critical-rce-vulnerability-by-running-with-full-system-privileges.html",
             "summary": "",
             "published_utc": "2026-02-10T03:19:04+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I created the ultimate Wi-Fi password key with the most unexpected gadget - how it works",
-            "link": "https://www.zdnet.com/article/how-to-turn-airtag-into-wifi-password-key-nfc-tags/",
-            "summary": "NFC tags are so useful and customizable, and it's quite simple to make your own. Here's what you can do with it and how.",
-            "published_utc": "2026-02-10T03:01:15+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -310,25 +366,11 @@
             "published_utc": "2026-02-09T13:56:46+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Cybersecurity M&A Roundup: 34 Deals Announced in January 2026",
-            "link": "https://www.securityweek.com/cybersecurity-ma-roundup-34-deals-announced-in-january-2026/",
-            "summary": "",
-            "published_utc": "2026-02-09T13:23:57+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "BeyondTrust warns of critical RCE flaw in remote support software",
             "link": "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-rce-flaw-in-remote-support-software/",
             "summary": "BeyondTrust warned customers to patch a critical security flaw in its Remote Support (RS) and Privileged Remote Access (PRA) software that could allow...",
             "published_utc": "2026-02-09T13:07:03+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Recent SolarWinds Flaws Potentially Exploited as Zero-Days",
-            "link": "https://www.securityweek.com/recent-solarwinds-flaws-potentially-exploited-as-zero-days/",
-            "summary": "",
-            "published_utc": "2026-02-09T12:42:19+00:00"
         },
         {
             "source": "CSO Online",
@@ -343,13 +385,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/02/llms-are-getting-a-lot-better-and-faster-at-finding-and-exploiting-zero-days.html",
             "summary": "",
             "published_utc": "2026-02-09T12:04:29+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "SmarterTools Hit by Ransomware via Vulnerability in Its Own Product",
-            "link": "https://www.securityweek.com/smartertools-hit-by-ransomware-via-vulnerability-in-its-own-product/",
-            "summary": "",
-            "published_utc": "2026-02-09T12:02:24+00:00"
         },
         {
             "source": "CSO Online",
@@ -534,13 +569,6 @@
             "published_utc": "2026-02-06T20:00:33+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "DKnife Linux toolkit hijacks router traffic to spy, deliver malware",
-            "link": "https://www.bleepingcomputer.com/news/security/dknife-linux-toolkit-hijacks-router-traffic-to-spy-deliver-malware/",
-            "summary": "A newly discovered toolkit called DKnife has been used since 2019 to hijack traffic at the edge-device level and deliver malware in espionage campaign...",
-            "published_utc": "2026-02-06T18:35:11+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Chinese-Made Malware Kit Targets Chinese-Based Routers and Edge Devices",
             "link": "https://www.infosecurity-magazine.com/news/china-malware-kit-targets-routers/",
@@ -588,13 +616,6 @@
             "link": "https://www.csoonline.com/article/4128748/cisa-gives-federal-agencies-18-months-to-purge-unsupported-edge-devices.html",
             "summary": "",
             "published_utc": "2026-02-06T11:48:51+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Zscaler extends zero-trust security to browsers with SquareX acquisition",
-            "link": "https://www.csoonline.com/article/4128745/zscaler-extends-zero-trust-security-to-browsers-with-squarex-acquisition.html",
-            "summary": "",
-            "published_utc": "2026-02-06T11:39:43+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2781,20 +2802,6 @@
             "published_utc": "2025-11-26T12:05:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "HashJack Indirect Prompt Injection Weaponizes Websites",
-            "link": "https://www.infosecurity-magazine.com/news/hashjack-indirect-prompt-injection/",
-            "summary": "A new vulnerability dubbed “HashJack” could enable attackers to booby trap websites when they interact with AI browsers",
-            "published_utc": "2025-11-26T10:15:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "London Councils Hit By Serious Cyber “Incidents”",
-            "link": "https://www.infosecurity-magazine.com/news/london-councils-hit-by-serious/",
-            "summary": "At least three London local authorities are dealing with a major cybersecurity incident",
-            "published_utc": "2025-11-26T09:20:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "Influencers in the crosshairs: How cybercriminals are targeting content creators",
             "link": "https://www.welivesecurity.com/en/social-media/influencers-crosshairs-cybercriminals-targeting-content-creators/",
@@ -3493,13 +3500,6 @@
             "link": "https://threatpost.com/ransomware-attacks-are-on-the-rise/180481/",
             "summary": "Lockbit is by far this summer’s most prolific ransomware group, trailed by two offshoots of the Conti group.",
             "published_utc": "2022-08-26T16:44:27+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Cybercriminals Are Selling Access to Chinese Surveillance Cameras",
-            "link": "https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/",
-            "summary": "Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed.",
-            "published_utc": "2022-08-25T18:47:15+00:00"
         }
     ]
 }
