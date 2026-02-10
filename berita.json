@@ -1,6 +1,55 @@
 {
-    "lastUpdatedUTC": "2026-02-10T15:00:03.703574+00:00",
+    "lastUpdatedUTC": "2026-02-10T16:14:46.282749+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "RATs in the Machine: Inside a Pakistan-Linked Three-Pronged Cyber Assault on India",
+            "link": "https://www.securityweek.com/rats-in-the-machine-inside-a-pakistan-linked-three-pronged-cyber-assault-on-india/",
+            "summary": "",
+            "published_utc": "2026-02-10T16:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Phorpiex Phishing Delivers Low-Noise Global Group Ransomware",
+            "link": "https://www.infosecurity-magazine.com/news/phorpiex-phishing-global-group/",
+            "summary": "High-volume phishing campaign delivers Phorpiex malware via malicious Windows Shortcut files",
+            "published_utc": "2026-02-10T16:00:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "SolarWinds WHD zero-days from January are under attack",
+            "link": "https://www.csoonline.com/article/4130151/solarwinds-whd-zero-days-from-january-are-under-attack.html",
+            "summary": "",
+            "published_utc": "2026-02-10T15:58:43+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft 365 outage takes down admin center in North America",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-takes-down-admin-center-in-north-america/",
+            "summary": "Microsoft is investigating an outage that blocks some administrators with business or enterprise subscriptions from accessing the Microsoft 365 admin ...",
+            "published_utc": "2026-02-10T15:45:15+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Disabling this Pixel app could free up to 10GB of storage space - how it works",
+            "link": "https://www.zdnet.com/article/how-to-disable-aicore-free-storage/",
+            "summary": "If your Pixel phone is running out of storage space, there's one thing you can do to reclaim GB, and it's just a matter of disabling a single service.",
+            "published_utc": "2026-02-10T15:44:28+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I found 3 fixes that make your 'broken' headphones work again (and sound better)",
+            "link": "https://www.zdnet.com/article/3-easy-ways-to-upgrade-your-headphones-free/",
+            "summary": "Are your headphones feeling old? Consider these tweaks before upgrading.",
+            "published_utc": "2026-02-10T15:17:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "How to Automate AWS Incident Investigation with Tines and AI",
+            "link": "https://www.bleepingcomputer.com/news/security/how-to-automate-aws-incident-investigation-with-tines-and-ai/",
+            "summary": "Cloud incidents drag on when analysts have to leave cases to hunt through AWS consoles and CLIs. Tines shows how automated agents pull AWS CLI data di...",
+            "published_utc": "2026-02-10T15:01:11+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "SAP Patches Critical CRM, S/4HANA, NetWeaver Vulnerabilities",
@@ -219,13 +268,6 @@
             "published_utc": "2026-02-10T11:50:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "3 upgrades the Samsung Galaxy S26 Ultra needs for me to take it seriously (as an S25 owner)",
-            "link": "https://www.zdnet.com/article/samsung-galaxy-s26-ultra-concerns/",
-            "summary": "The Samsung Galaxy S26 Ultra looks like another incremental upgrade, and these rumored omissions have me concerned.",
-            "published_utc": "2026-02-10T11:47:00+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Single prompt breaks AI safety in 15 major language models",
             "link": "https://www.csoonline.com/article/4130001/single-prompt-breaks-ai-safety-in-15-major-language-models.html",
@@ -238,13 +280,6 @@
             "link": "https://www.securityweek.com/beyondtrust-patches-critical-rce-vulnerability/",
             "summary": "",
             "published_utc": "2026-02-10T11:24:02+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Your Windows PC has a secretly useful backup tool - here's how to access it",
-            "link": "https://www.zdnet.com/article/windows-pc-backup-tool-how-to-access/",
-            "summary": "Looking for a traditional yet flexible program to back up your personal files? Windows has a built-in tool you can use.",
-            "published_utc": "2026-02-10T11:15:43+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -357,13 +392,6 @@
             "link": "https://www.securityweek.com/ransomware-groups-may-pivot-back-to-encryption-as-data-theft-tactics-falter/",
             "summary": "",
             "published_utc": "2026-02-09T14:38:17+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Outtake Raises $40 Million to Bolster Digital Trust Against AI-Driven Threats",
-            "link": "https://www.securityweek.com/outtake-raises-40-million-to-bolster-digital-trust-against-ai-driven-threats/",
-            "summary": "",
-            "published_utc": "2026-02-09T13:56:46+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -527,13 +555,6 @@
             "published_utc": "2026-02-07T11:30:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Payments platform BridgePay confirms ransomware attack behind outage",
-            "link": "https://www.bleepingcomputer.com/news/security/payments-platform-bridgepay-confirms-ransomware-attack-behind-outage/",
-            "summary": "A major U.S. payment gateway and solutions provider says a ransomware attack has knocked key systems offline, triggering a widespread outage affecting...",
-            "published_utc": "2026-02-07T09:47:10+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "ICE Agent’s ‘Dragging’ Case May Help Expose Evidence in Renee Good Shooting",
             "link": "https://www.wired.com/story/jonathan-ross-renee-good-roberto-carlos-munoz-guatemala/",
@@ -560,13 +581,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/02/i-am-in-the-epstein-files.html",
             "summary": "",
             "published_utc": "2026-02-06T20:43:52+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Germany warns of Signal account hijacking targeting senior figures",
-            "link": "https://www.bleepingcomputer.com/news/security/germany-warns-of-signal-account-hijacking-targeting-senior-figures/",
-            "summary": "Germany's domestic intelligence agency is warning of suspected state-sponsored threat actors targeting high-ranking individuals in phishing attacks vi...",
-            "published_utc": "2026-02-06T20:00:33+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -609,13 +623,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/02/iphone-lockdown-mode-protects-washington-post-reporter.html",
             "summary": "",
             "published_utc": "2026-02-06T12:00:36+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "CISA gives federal agencies 18 months to purge unsupported edge devices",
-            "link": "https://www.csoonline.com/article/4128748/cisa-gives-federal-agencies-18-months-to-purge-unsupported-edge-devices.html",
-            "summary": "",
-            "published_utc": "2026-02-06T11:48:51+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2793,13 +2800,6 @@
             "link": "https://www.infosecurity-magazine.com/news/fbi-warns-account-takeover-fraud/",
             "summary": "The FBI reports over $262m in losses from account takeover schemes since January 2025, as cybercriminals impersonate financial institutions to steal d...",
             "published_utc": "2025-11-26T14:15:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Gainsight Cyber-Attack Affects More Salesforce Customers",
-            "link": "https://www.infosecurity-magazine.com/news/gainsight-cyberattack-more/",
-            "summary": "The CEO of the customer support platform said “a handful of customers” saw their data exposed after the breach",
-            "published_utc": "2025-11-26T12:05:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
