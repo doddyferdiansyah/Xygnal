@@ -1,6 +1,34 @@
 {
-    "lastUpdatedUTC": "2026-02-11T20:40:55.204862+00:00",
+    "lastUpdatedUTC": "2026-02-11T21:35:39.751031+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "The best early Walmart sales for Presidents' Day",
+            "link": "https://www.zdnet.com/article/best-early-walmart-deals-presidents-day-2026/",
+            "summary": "Presidents' Day sales are already live at Walmart, including deals on everything from top TVs and laptops to everyday essentials.",
+            "published_utc": "2026-02-11T21:33:30+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "ICE Is Crashing the US Court System in Minnesota",
+            "link": "https://www.wired.com/story/ice-crashing-us-court-system-minnesota/",
+            "summary": "Petitions demanding people get the chance to be released from ICE custody have overwhelmed courts throughout the US.",
+            "published_utc": "2026-02-11T21:23:51+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The best early Presidents' Day TV sales live now",
+            "link": "https://www.zdnet.com/article/early-presidents-day-tv-deals-2026/",
+            "summary": "Early Presidents' Day sales and winter sports championships mean it's the perfect time to upgrade your home theater with a new TV from retailers like ...",
+            "published_utc": "2026-02-11T20:59:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Need a Microsoft Lens replacement? These 5 alternative scanning apps fit the bill",
+            "link": "https://www.zdnet.com/article/microsoft-lens-alternative-scanning-apps/",
+            "summary": "Lens has left app stores, but you can still scan and save documents on your phone with one of these.",
+            "published_utc": "2026-02-11T20:58:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Your Android phone's most powerful security feature is off by default and hidden - turn it on ASAP",
@@ -63,13 +91,6 @@
             "link": "https://www.zdnet.com/article/verizon-small-business-days-sale/",
             "summary": "Right now at Verizon, small business owners can take advantage of great deals like free iPhone 17s, Ring camera bundles, and discounts on phone and in...",
             "published_utc": "2026-02-11T17:40:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The best Presidents' Day phone sales live now",
-            "link": "https://www.zdnet.com/article/best-early-phone-presidents-day-sale/",
-            "summary": "For Presidents' Day, I've rounded up the best phone deals available now from Apple, Samsung, Motorola, and more.",
-            "published_utc": "2026-02-11T17:35:09+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -184,32 +205,11 @@
             "published_utc": "2026-02-11T15:01:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "How this $25 kevlar cord effectively made phone cases unnecessary for me",
-            "link": "https://www.zdnet.com/article/keybak-ratch-it-review/",
-            "summary": "Rugged phone cases may protect your phone from falls, but this device keeps it tethered to prevent drops in the first place.",
-            "published_utc": "2026-02-11T15:00:45+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Rewiring Democracy Ebook is on Sale",
             "link": "https://www.schneier.com/blog/archives/2026/02/rewiring-democracy-ebook-is-on-sale.html",
             "summary": "",
             "published_utc": "2026-02-11T14:48:14+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Grab this 75-inch Insignia QLED TV for less than $500 at Best Buy",
-            "link": "https://www.zdnet.com/article/best-buy-presidents-day-insignia-qf-tv-deal/",
-            "summary": "Looking to upgrade your home theater on a tight budget? Right now during Best Buy's Presidents' Day sale, you can save $250 on the 75-inch Insignia QF...",
-            "published_utc": "2026-02-11T14:31:16+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "You can save $1,100 on the HP Omen 17 at Best Buy, and it's a powerhouse laptop",
-            "link": "https://www.zdnet.com/article/best-buy-hp-omen-17-gaming-laptop-deal/",
-            "summary": "The recent rise of RAM and GPU prices has made it hard to find good gaming laptop deals. This one's an exception.",
-            "published_utc": "2026-02-11T14:28:00+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -1624,13 +1624,6 @@
             "link": "https://www.infosecurity-magazine.com/news/data-privacy-teams-staffing/",
             "summary": "ISACA’s State of Privacy 2026 report reveals that data privacy teams remain understaffed and underfunded, despite growing regulatory demands and risin...",
             "published_utc": "2026-01-15T12:15:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "Hundreds of Millions of Audio Devices Need a Patch to Prevent Wireless Hacking and Tracking",
-            "link": "https://www.wired.com/story/google-fast-pair-bluetooth-audio-accessories-vulnerability-patches/",
-            "summary": "Flaws in how 17 models of headphones and speakers use Google’s one-tap Fast Pair Bluetooth protocol have left devices open to eavesdroppers and stalkers.",
-            "published_utc": "2026-01-15T12:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -3500,6 +3493,13 @@
             "link": "https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/",
             "summary": "Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed.",
             "published_utc": "2022-08-25T18:47:15+00:00"
+        },
+        {
+            "source": "Threatpost",
+            "title": "Twitter Whistleblower Complaint: The TL;DR Version",
+            "link": "https://threatpost.com/twitter-whistleblower-tldr-version/180472/",
+            "summary": "Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a n...",
+            "published_utc": "2022-08-24T14:17:04+00:00"
         }
     ]
 }
