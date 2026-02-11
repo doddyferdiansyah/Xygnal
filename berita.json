@@ -1,6 +1,55 @@
 {
-    "lastUpdatedUTC": "2026-02-11T11:46:52.217404+00:00",
+    "lastUpdatedUTC": "2026-02-11T13:14:57.067411+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Microsoft to Refresh Windows Secure Boot Certificates in June 2026",
+            "link": "https://www.securityweek.com/microsoft-to-refresh-windows-secure-boot-certificates-in-june-2026/",
+            "summary": "",
+            "published_utc": "2026-02-11T13:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Hacker Conversations: Professional Hacker Douglas Day",
+            "link": "https://www.securityweek.com/hacker-conversations-professional-hacker-douglas-day/",
+            "summary": "",
+            "published_utc": "2026-02-11T12:30:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Ivanti Patches Endpoint Manager Vulnerabilities Disclosed in October 2025",
+            "link": "https://www.securityweek.com/ivanti-patches-endpoint-manager-vulnerabilities-disclosed-in-october-2025/",
+            "summary": "",
+            "published_utc": "2026-02-11T12:14:51+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "North Korean actors blend ClickFix with new macOS backdoors in Crypto campaign",
+            "link": "https://www.csoonline.com/article/4130724/north-korean-actors-blend-clickfix-with-new-macos-backdoors-in-crypto-campaign.html",
+            "summary": "",
+            "published_utc": "2026-02-11T12:06:58+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "US Court Hands Crypto Scammer 20 Years in $73m Case",
+            "link": "https://www.infosecurity-magazine.com/news/court-hands-crypto-scammer-20-years/",
+            "summary": "A federal court has sentenced crypto-scammer Daren Li to 20 years in absentia",
+            "published_utc": "2026-02-11T12:05:00+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Prompt Injection Via Road Signs",
+            "link": "https://www.schneier.com/blog/archives/2026/02/prompt-injection-via-road-signs.html",
+            "summary": "",
+            "published_utc": "2026-02-11T12:03:22+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The best Amazon Fire TV Stick VPNs of 2026: Expert tested and reviewed",
+            "link": "https://www.zdnet.com/article/best-vpn-for-firestick/",
+            "summary": "If you're looking for a VPN compatible with your Amazon Fire TV stick, check out my favorite VPNs that I've put to the test.",
+            "published_utc": "2026-02-11T12:00:46+00:00"
+        },
         {
             "source": "InfosecurityMag",
             "title": "FIRST Forecasts Record-Breaking 50,000+ CVEs in 2026",
@@ -219,13 +268,6 @@
             "published_utc": "2026-02-11T01:42:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "These Windows 11 PCs are getting a free Bluetooth upgrade - here's how to use it properly",
-            "link": "https://www.zdnet.com/article/windows-bluetooth-le-audio-sharing-auracast/",
-            "summary": "Both your laptop and hearing device must be compatible with Bluetooth LE Audio to use the latest connectivity feature.",
-            "published_utc": "2026-02-11T01:36:00+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "February 2026 Patch Tuesday: Six new and actively exploited Microsoft vulnerabilities addressed",
             "link": "https://www.csoonline.com/article/4130446/february-2026-patch-tuesday-six-new-and-actively-exploited-microsoft-vulnerabilities-addressed.html",
@@ -252,13 +294,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/north-korean-hackers-use-new-macos-malware-in-crypto-theft-attacks/",
             "summary": "North Korean hackers are running tailored campaigns using AI-generated video and the ClickFix technique to deliver malware for macOS and Windows to ta...",
             "published_utc": "2026-02-10T22:17:35+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Patch Tuesday, February 2026 Edition",
-            "link": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
-            "summary": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopp...",
-            "published_utc": "2026-02-10T21:49:53+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -310,20 +345,6 @@
             "published_utc": "2026-02-10T17:36:45+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Reco Raises $30 Million to Enhance AI SaaS Security",
-            "link": "https://www.securityweek.com/reco-raises-30-million-to-enhance-ai-saas-security/",
-            "summary": "",
-            "published_utc": "2026-02-10T17:08:24+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Vega Raises $120M in Series B Funding to Grow Security Analytics Platform",
-            "link": "https://www.securityweek.com/vega-raises-120m-in-series-b-funding-to-grow-security-analytics-platform/",
-            "summary": "",
-            "published_utc": "2026-02-10T17:06:06+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Volvo Group North America customer data exposed in Conduent hack",
             "link": "https://www.bleepingcomputer.com/news/security/volvo-group-north-america-customer-data-exposed-in-conduent-hack/",
@@ -336,13 +357,6 @@
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-new-secure-boot-certificates-before-june-expiration/",
             "summary": "Microsoft has begun rolling out updated Secure Boot certificates through monthly Windows updates to replace the original 2011 certificates that will e...",
             "published_utc": "2026-02-10T17:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "RATs in the Machine: Inside a Pakistan-Linked Three-Pronged Cyber Assault on India",
-            "link": "https://www.securityweek.com/rats-in-the-machine-inside-a-pakistan-linked-three-pronged-cyber-assault-on-india/",
-            "summary": "",
-            "published_utc": "2026-02-10T16:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -597,13 +611,6 @@
             "published_utc": "2026-02-09T09:00:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "NIS2: Supply chains as a risk factor",
-            "link": "https://www.csoonline.com/article/4128381/nis2-supply-chains-as-a-risk-factor.html",
-            "summary": "",
-            "published_utc": "2026-02-09T08:30:00+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "Moltbook, the Social Network for AI Agents, Exposed Real Humans’ Data",
             "link": "https://www.wired.com/story/security-news-this-week-moltbook-the-social-network-for-ai-agents-exposed-real-humans-data/",
@@ -835,13 +842,6 @@
             "published_utc": "2026-02-03T10:00:00+00:00"
         },
         {
-            "source": "KrebsOnSecurity",
-            "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-            "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-            "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from vic...",
-            "published_utc": "2026-02-02T16:15:16+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "NSA Publishes New Zero Trust Implementation Guidelines",
             "link": "https://www.infosecurity-magazine.com/news/nsa-zero-trust-implementation/",
@@ -910,13 +910,6 @@
             "link": "https://www.wired.com/story/how-to-film-ice/",
             "summary": "Filming federal agents in public is legal, but avoiding a dangerous—even deadly—confrontation isn’t guaranteed. Here’s how to record ICE and CBP agent...",
             "published_utc": "2026-01-31T10:30:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Friday Squid Blogging: New Squid Species Discovered",
-            "link": "https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-new-squid-species-discovered.html",
-            "summary": "",
-            "published_utc": "2026-01-30T22:05:11+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1169,13 +1162,6 @@
             "link": "https://www.infosecurity-magazine.com/news/cisa-post-quantum-cryptography/",
             "summary": "CISA released initial list of PQC-capable hardware and software to guide companies amid quantum threats",
             "published_utc": "2026-01-26T16:15:00+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Who Operates the Badbox 2.0 Botnet?",
-            "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-            "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicati...",
-            "published_utc": "2026-01-26T16:11:38+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1666,6 +1652,13 @@
             "link": "https://www.welivesecurity.com/en/social-media/time-internet-services-adopt-identity-verification/",
             "summary": "Should verified identities become the standard online? Australia’s social media ban for under-16s shows why the question matters.",
             "published_utc": "2026-01-14T10:00:00+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Patch Tuesday, January 2026 Edition",
+            "link": "https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/",
+            "summary": "Microsoft today issued patches to plug at least 113 security holes in its various Windows operating systems and supported software. Eight of the vulne...",
+            "published_utc": "2026-01-14T00:47:38+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2417,6 +2410,13 @@
             "published_utc": "2025-12-10T11:00:00+00:00"
         },
         {
+            "source": "KrebsOnSecurity",
+            "title": "Microsoft Patch Tuesday, December 2025 Edition",
+            "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+            "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of ...",
+            "published_utc": "2025-12-09T23:18:29+00:00"
+        },
+        {
             "source": "InfosecurityMag",
             "title": "React2Shell Exploit Campaigns Tied to North Korean Cyber Intrusion Tactics",
             "link": "https://www.infosecurity-magazine.com/news/react2shell-exploit-campaigns/",
@@ -2501,6 +2501,13 @@
             "published_utc": "2025-12-08T09:30:00+00:00"
         },
         {
+            "source": "KrebsOnSecurity",
+            "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
+            "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+            "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin...",
+            "published_utc": "2025-12-06T14:45:03+00:00"
+        },
+        {
             "source": "InfosecurityMag",
             "title": "React.js Hit by Maximum-Severity 'React2Shell' Vulnerability",
             "link": "https://www.infosecurity-magazine.com/news/reactjs-hit-by-react2shell/",
@@ -2527,6 +2534,13 @@
             "link": "https://www.infosecurity-magazine.com/news/predator-spyware-intellexa-evades/",
             "summary": "Data leaks have shed a new light on Intellexa’s flagship spyware infrastructure and attack vectors",
             "published_utc": "2025-12-05T09:15:00+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+            "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+            "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, ju...",
+            "published_utc": "2025-12-04T23:02:34+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2793,13 +2807,6 @@
             "link": "https://www.infosecurity-magazine.com/news/key-provisions-uk-cyber-resilience/",
             "summary": "Shona Lester, head of the Cyber Security and Resilience Bill team within the UK government, outlined some of the provisions that should be included in...",
             "published_utc": "2025-11-27T09:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Cyber-Attack Disrupts OnSolve CodeRED Emergency Notification System",
-            "link": "https://www.infosecurity-magazine.com/news/cyberattack-disrupts-onsolve/",
-            "summary": "A cyber-attack claimed to be the resposibility of INC Ransom group and targeting the OnSolve CodeRED platform has disrupted emergency notification and...",
-            "published_utc": "2025-11-26T16:15:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
@@ -3493,13 +3500,6 @@
             "link": "https://threatpost.com/ransomware-attacks-are-on-the-rise/180481/",
             "summary": "Lockbit is by far this summer’s most prolific ransomware group, trailed by two offshoots of the Conti group.",
             "published_utc": "2022-08-26T16:44:27+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Cybercriminals Are Selling Access to Chinese Surveillance Cameras",
-            "link": "https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/",
-            "summary": "Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed.",
-            "published_utc": "2022-08-25T18:47:15+00:00"
         }
     ]
 }
