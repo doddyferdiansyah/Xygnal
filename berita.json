@@ -1,6 +1,20 @@
 {
-    "lastUpdatedUTC": "2026-02-11T21:35:39.751031+00:00",
+    "lastUpdatedUTC": "2026-02-11T22:31:06.077007+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "You can watch local news on Roku for free - no subscription or antenna required",
+            "link": "https://www.zdnet.com/article/roku-revamps-news-hub-watch-local-stations-free/",
+            "summary": "The Roku Channel has hundreds of free live channels, including your local ABC, CBS, and NBC news affiliates.",
+            "published_utc": "2026-02-11T22:21:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft Store Outlook add-in hijacked to steal 4,000 Microsoft accounts",
+            "link": "https://www.bleepingcomputer.com/news/security/microsoft-store-outlook-add-in-hijacked-to-steal-4-000-microsoft-accounts/",
+            "summary": "The AgreeTo add-in for Outlook has been hijacked and turned into a phishing kit that stole more than 4,000 Microsoft account credentials. [...]",
+            "published_utc": "2026-02-11T21:53:58+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "The best early Walmart sales for Presidents' Day",
@@ -56,13 +70,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/police-arrest-seller-of-jokerotp-mfa-passcode-capturing-tool/",
             "summary": "The Netherlands Police have arrested a a 21-year-old man from Dordrecht, suspected of selling access to the JokerOTP phishing automation tool that can...",
             "published_utc": "2026-02-11T19:14:32+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Roku lets anyone watch local news for free: How to find your NBC, ABC, and CBS stations",
-            "link": "https://www.zdnet.com/article/roku-revamps-news-hub-watch-local-stations-free/",
-            "summary": "The Roku Channel has hundreds of free live channels, including your local news affiliates.",
-            "published_utc": "2026-02-11T18:30:12+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -154,13 +161,6 @@
             "link": "https://www.zdnet.com/article/best-early-laptop-deals-presidents-day-2026/",
             "summary": "We found the best laptop deals ahead of Presidents' Day 2026, with offers from Acer, HP, Lenovo, and Apple.",
             "published_utc": "2026-02-11T16:26:00+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
-            "link": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
-            "summary": "For the past week, the massive \"Internet of Things\" (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a dece...",
-            "published_utc": "2026-02-11T16:08:11+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -373,13 +373,6 @@
             "published_utc": "2026-02-10T22:17:35+00:00"
         },
         {
-            "source": "KrebsOnSecurity",
-            "title": "Patch Tuesday, February 2026 Edition",
-            "link": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
-            "summary": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopp...",
-            "published_utc": "2026-02-10T21:49:53+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Malicious 7-Zip site distributes installer laced with proxy tool",
             "link": "https://www.bleepingcomputer.com/news/security/malicious-7-zip-site-distributes-installer-laced-with-proxy-tool/",
@@ -441,13 +434,6 @@
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-takes-down-admin-center-in-north-america/",
             "summary": "Microsoft is investigating an outage that blocks some administrators with business or enterprise subscriptions from accessing the Microsoft 365 admin ...",
             "published_utc": "2026-02-10T15:45:15+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "How to Automate AWS Incident Investigation with Tines and AI",
-            "link": "https://www.bleepingcomputer.com/news/security/how-to-automate-aws-incident-investigation-with-tines-and-ai/",
-            "summary": "Cloud incidents drag on when analysts have to leave cases to hunt through AWS consoles and CLIs. Tines shows how automated agents pull AWS CLI data di...",
-            "published_utc": "2026-02-10T15:01:11+00:00"
         },
         {
             "source": "CSO Online",
@@ -877,13 +863,6 @@
             "published_utc": "2026-02-03T10:00:00+00:00"
         },
         {
-            "source": "KrebsOnSecurity",
-            "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-            "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-            "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from vic...",
-            "published_utc": "2026-02-02T16:15:16+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "NSA Publishes New Zero Trust Implementation Guidelines",
             "link": "https://www.infosecurity-magazine.com/news/nsa-zero-trust-implementation/",
@@ -1197,13 +1176,6 @@
             "link": "https://www.infosecurity-magazine.com/news/cisa-post-quantum-cryptography/",
             "summary": "CISA released initial list of PQC-capable hardware and software to guide companies amid quantum threats",
             "published_utc": "2026-01-26T16:15:00+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Who Operates the Badbox 2.0 Botnet?",
-            "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-            "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicati...",
-            "published_utc": "2026-01-26T16:11:38+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1680,6 +1652,13 @@
             "link": "https://www.welivesecurity.com/en/social-media/time-internet-services-adopt-identity-verification/",
             "summary": "Should verified identities become the standard online? Australia’s social media ban for under-16s shows why the question matters.",
             "published_utc": "2026-01-14T10:00:00+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Patch Tuesday, January 2026 Edition",
+            "link": "https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/",
+            "summary": "Microsoft today issued patches to plug at least 113 security holes in its various Windows operating systems and supported software. Eight of the vulne...",
+            "published_utc": "2026-01-14T00:47:38+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2249,6 +2228,13 @@
             "published_utc": "2025-12-16T16:00:00+00:00"
         },
         {
+            "source": "KrebsOnSecurity",
+            "title": "Most Parked Domains Now Serving Malicious Content",
+            "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
+            "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the ...",
+            "published_utc": "2025-12-16T14:14:48+00:00"
+        },
+        {
             "source": "InfosecurityMag",
             "title": "Amazon Warns Russian GRU Hackers Target Western Firms via Edge Devices",
             "link": "https://www.infosecurity-magazine.com/news/amazon-russian-gru-hackers-target/",
@@ -2424,6 +2410,13 @@
             "published_utc": "2025-12-10T11:00:00+00:00"
         },
         {
+            "source": "KrebsOnSecurity",
+            "title": "Microsoft Patch Tuesday, December 2025 Edition",
+            "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+            "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of ...",
+            "published_utc": "2025-12-09T23:18:29+00:00"
+        },
+        {
             "source": "InfosecurityMag",
             "title": "React2Shell Exploit Campaigns Tied to North Korean Cyber Intrusion Tactics",
             "link": "https://www.infosecurity-magazine.com/news/react2shell-exploit-campaigns/",
@@ -2508,6 +2501,13 @@
             "published_utc": "2025-12-08T09:30:00+00:00"
         },
         {
+            "source": "KrebsOnSecurity",
+            "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
+            "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+            "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin...",
+            "published_utc": "2025-12-06T14:45:03+00:00"
+        },
+        {
             "source": "InfosecurityMag",
             "title": "React.js Hit by Maximum-Severity 'React2Shell' Vulnerability",
             "link": "https://www.infosecurity-magazine.com/news/reactjs-hit-by-react2shell/",
@@ -2534,6 +2534,13 @@
             "link": "https://www.infosecurity-magazine.com/news/predator-spyware-intellexa-evades/",
             "summary": "Data leaks have shed a new light on Intellexa’s flagship spyware infrastructure and attack vectors",
             "published_utc": "2025-12-05T09:15:00+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+            "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+            "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, ju...",
+            "published_utc": "2025-12-04T23:02:34+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -3493,13 +3500,6 @@
             "link": "https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/",
             "summary": "Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed.",
             "published_utc": "2022-08-25T18:47:15+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Twitter Whistleblower Complaint: The TL;DR Version",
-            "link": "https://threatpost.com/twitter-whistleblower-tldr-version/180472/",
-            "summary": "Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a n...",
-            "published_utc": "2022-08-24T14:17:04+00:00"
         }
     ]
 }
