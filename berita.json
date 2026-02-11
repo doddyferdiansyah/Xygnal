@@ -1,6 +1,104 @@
 {
-    "lastUpdatedUTC": "2026-02-11T16:03:50.517873+00:00",
+    "lastUpdatedUTC": "2026-02-11T17:57:38.667673+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "What is Alexa+? Everything Amazon's generative AI can do - and how to get it today",
+            "link": "https://www.zdnet.com/article/what-is-alexa-plus-generative-ai-amazon/",
+            "summary": "Alexa+ is smarter, more natural-sounding, and more capable than the old Alexa. Here's how to upgrade ASAP.",
+            "published_utc": "2026-02-11T17:50:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Proactive strategies for cyber resilience with Wazuh",
+            "link": "https://www.bleepingcomputer.com/news/security/proactive-strategies-for-cyber-resilience-with-wazuh/",
+            "summary": "Cyber resilience means anticipating threats, detecting them early, and recovering fast when incidents occur. Wazuh shows how its open source SIEM and ...",
+            "published_utc": "2026-02-11T17:40:28+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Get a free iPhone 17, Galaxy S25, or Pixel 10 during Verizon's Small Business Days sale - here's how",
+            "link": "https://www.zdnet.com/article/verizon-small-business-days-sale/",
+            "summary": "Right now at Verizon, small business owners can take advantage of great deals like free iPhone 17s, Ring camera bundles, and discounts on phone and in...",
+            "published_utc": "2026-02-11T17:40:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The best Presidents' Day phone sales live now",
+            "link": "https://www.zdnet.com/article/best-early-phone-presidents-day-sale/",
+            "summary": "For Presidents' Day, I've rounded up the best phone deals available now from Apple, Samsung, Motorola, and more.",
+            "published_utc": "2026-02-11T17:35:09+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Eero's new backup device keeps you online when your ISP fails - here's how it works",
+            "link": "https://www.zdnet.com/article/eero-signal-4g-available-buy-now/",
+            "summary": "If you struggle with internet outages, this new Eero device automatically switches your home network to 4G.",
+            "published_utc": "2026-02-11T17:30:50+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "LummaStealer infections surge after CastleLoader malware campaigns",
+            "link": "https://www.bleepingcomputer.com/news/security/lummastealer-infections-surge-after-castleloader-malware-campaigns/",
+            "summary": "A surge in LummaStealer infections has been observed, driven by social engineering campaigns leveraging the ClickFix technique to deliver the CastleLo...",
+            "published_utc": "2026-02-11T17:02:29+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How to save $80 on your upcoming YouTube TV bills - no commitments required",
+            "link": "https://www.zdnet.com/article/youtube-tv-discount-save-80-bill-4-months/",
+            "summary": "A few clicks are all it takes for you to get a discount on your YouTube TV subscription for the next 4 months.",
+            "published_utc": "2026-02-11T17:00:44+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Stop using ChatGPT on factory settings: 7 tweaks I use to make it a pro tool",
+            "link": "https://www.zdnet.com/article/chatgpt-settings-for-pro-users/",
+            "summary": "I'm a ChatGPT power user, and these are the top settings tweaks I rely on to help me get more out of my AI sessions.",
+            "published_utc": "2026-02-11T16:51:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "If these Samsung Galaxy S26 features are true, I might finally put away my Google Pixel",
+            "link": "https://www.zdnet.com/article/samsung-galaxy-s26-rumors-google-pixel-fan/",
+            "summary": "I've been a Google Pixel phone user for years, but Samsung might have a compelling case for switching later this month.",
+            "published_utc": "2026-02-11T16:46:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "North Korean Hackers Use Deepfake Video Calls to Target Crypto Firms",
+            "link": "https://www.infosecurity-magazine.com/news/north-korea-hackers-deepfake-crypto/",
+            "summary": "Campaign combines stolen Telegram accounts, fake Zoom calls and ClickFix attacks to deploy infostealer malware",
+            "published_utc": "2026-02-11T16:35:00+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "CBP Signs Clearview AI Deal to Use Face Recognition for ‘Tactical Targeting’",
+            "link": "https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/",
+            "summary": "US Border Patrol intelligence units will gain access to a face recognition tool built on billions of images scraped from the internet.",
+            "published_utc": "2026-02-11T16:32:27+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Is your Roku TV tracking you? Short answer: Yes, but there's a way to stop it",
+            "link": "https://www.zdnet.com/article/how-to-stop-roku-fire-chromecast-tv-from-tracking-you/",
+            "summary": "Streaming devices, such as Fire TV Sticks and Chromecasts, collect personal data for various purposes. Here's how to rein it in.",
+            "published_utc": "2026-02-11T16:27:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The best early Presidents' Day laptop sales we've found so far",
+            "link": "https://www.zdnet.com/article/best-early-laptop-deals-presidents-day-2026/",
+            "summary": "We found the best laptop deals ahead of Presidents' Day 2026, with offers from Acer, HP, Lenovo, and Apple.",
+            "published_utc": "2026-02-11T16:26:00+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
+            "link": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
+            "summary": "For the past week, the massive \"Internet of Things\" (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a dece...",
+            "published_utc": "2026-02-11T16:08:11+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Samsung Galaxy S26 Ultra vs. S25 Ultra: My 3 biggest concerns as a longtime Galaxy user",
@@ -100,13 +198,6 @@
             "published_utc": "2026-02-11T14:03:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Is spyware hiding on your phone? How to find out and remove it - fast",
-            "link": "https://www.zdnet.com/article/spyware-hiding-on-phone-how-to-find-remove-fast/",
-            "summary": "Think your phone is acting strange? It may be infected with spyware. Here are the warning signs and and how you can stop it.",
-            "published_utc": "2026-02-11T14:00:00+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "Conduent Breach Hits Volvo Group: Nearly 17,000 Employees’ Data Exposed",
             "link": "https://www.securityweek.com/conduent-breach-hits-volvo-group-nearly-17000-employees-data-exposed/",
@@ -170,13 +261,6 @@
             "published_utc": "2026-02-11T12:03:22+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "The best Amazon Fire TV Stick VPNs of 2026: Expert tested and reviewed",
-            "link": "https://www.zdnet.com/article/best-vpn-for-firestick/",
-            "summary": "If you're looking for a VPN compatible with your Amazon Fire TV stick, check out my favorite VPNs that I've put to the test.",
-            "published_utc": "2026-02-11T12:00:46+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "FIRST Forecasts Record-Breaking 50,000+ CVEs in 2026",
             "link": "https://www.infosecurity-magazine.com/news/first-forecasts-record-50000-cve/",
@@ -196,13 +280,6 @@
             "link": "https://www.csoonline.com/article/4130667/eu-clears-googles-32b-wiz-acquisition-intensifying-cloud-security-competition.html",
             "summary": "",
             "published_utc": "2026-02-11T10:50:53+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Best VPN services 2026: Expert tested and recommended",
-            "link": "https://www.zdnet.com/article/best-vpn/",
-            "summary": "Here's how the best VPNs around compare in real-world tests of their speed, servers, and security features.",
-            "published_utc": "2026-02-11T10:00:48+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -245,48 +322,6 @@
             "link": "https://www.csoonline.com/article/3494368/der-kaufratgeber-fur-breach-attack-simulation-tools.html",
             "summary": "",
             "published_utc": "2026-02-11T04:14:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I took apart a 9,000,000mAh power bank from eBay to learn the truth - here's what's inside",
-            "link": "https://www.zdnet.com/article/i-tested-a-9000000mah-battery-pack-from-ebay-that-cost-10-heres-my-verdict/",
-            "summary": "I often get asked about cheap power banks with hard-to-believe claims. Well, I bought one and tested it. Here's my buying advice.",
-            "published_utc": "2026-02-11T02:45:43+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I ignored Apple's battery advice for months - here's how my iPhone 17 Pro Max performs now",
-            "link": "https://www.zdnet.com/article/ignored-apple-battery-advice-on-iphone-the-result/",
-            "summary": "I did everything Apple tells you not to do with my iPhone 17 Pro Max, and waited.",
-            "published_utc": "2026-02-11T02:42:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I replaced my messy power strips with this vertical charging tower - and I'll never go back",
-            "link": "https://www.zdnet.com/article/tessan-65w-charging-tower-review/",
-            "summary": "I was so impressed by the Tessan 65W charging tower that it became a staple at home and at the office.",
-            "published_utc": "2026-02-11T02:40:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "These wireless speakers deliver gloriously smooth sound for any genre I threw at them",
-            "link": "https://www.zdnet.com/article/svs-prime-wireless-pro-review/",
-            "summary": "The SVS Prime Wireless Pro offers rich, immersive sound that audiophiles will appreciate, and it looks great.",
-            "published_utc": "2026-02-11T02:38:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Discord's new age ID rules are driving users away - here's where they're headed",
-            "link": "https://www.zdnet.com/article/discord-age-verification-requirement/",
-            "summary": "Unverified users will soon need to upload a video selfie or official ID to remove age restrictions.",
-            "published_utc": "2026-02-11T02:37:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Can you trust LastPass in 2026? Inside the multimillion-dollar quest to rebuild its security culture",
-            "link": "https://www.zdnet.com/article/lastpass-2026-rebuilding-trust-ceo-interview/",
-            "summary": "After a string of high-profile breaches, the password manager's new CEO says security is now at the 'very heart' of what it does.",
-            "published_utc": "2026-02-11T02:34:08+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -485,13 +520,6 @@
             "published_utc": "2026-02-10T09:45:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Fugitive behind $73M 'pig butchering' scheme gets 20 years in prison",
-            "link": "https://www.bleepingcomputer.com/news/security/fugitive-behind-73m-pig-butchering-scheme-gets-20-years-in-prison/",
-            "summary": "A dual Chinese and St. Kitts and Nevis national was sentenced to 20 years in prison in absentia for his role in an international cryptocurrency invest...",
-            "published_utc": "2026-02-10T08:17:54+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "How to govern agentic AI so as not to lose control",
             "link": "https://www.csoonline.com/article/4128421/learning-to-govern-agentic-ai-so-as-not-to-lose-control.html",
@@ -511,13 +539,6 @@
             "link": "https://www.csoonline.com/article/4129820/anthropics-dxt-poses-critical-rce-vulnerability-by-running-with-full-system-privileges.html",
             "summary": "",
             "published_utc": "2026-02-10T03:19:04+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Chinese cyberspies breach Singapore's four largest telcos",
-            "link": "https://www.bleepingcomputer.com/news/security/chinese-cyberspies-breach-singapores-four-largest-telcos/",
-            "summary": "The Chinese threat actor tracked as UNC3886 breached Singapore's four largest telecommunication service providers, Singtel, StarHub, M1, and Simba, at...",
-            "published_utc": "2026-02-09T22:47:53+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1619,13 +1640,6 @@
             "published_utc": "2026-01-15T11:15:00+00:00"
         },
         {
-            "source": "WIRED Security",
-            "title": "Verizon Outage Knocks Out US Mobile Service, Including Some 911 Calls",
-            "link": "https://www.wired.com/story/verizon-outage-knocks-out-us-mobile-service-including-some-911-calls/",
-            "summary": "A major Verizon outage appeared to impact customers across the United States starting around noon ET on Wednesday. Calls to Verizon customers from oth...",
-            "published_utc": "2026-01-14T18:54:40+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Criminal Subscription Service Behind AI-Powered Cyber-Attacks Taken Out By Microsoft",
             "link": "https://www.infosecurity-magazine.com/news/criminal-subscription-service/",
@@ -2242,13 +2256,6 @@
             "published_utc": "2025-12-16T16:00:00+00:00"
         },
         {
-            "source": "KrebsOnSecurity",
-            "title": "Most Parked Domains Now Serving Malicious Content",
-            "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
-            "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the ...",
-            "published_utc": "2025-12-16T14:14:48+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Amazon Warns Russian GRU Hackers Target Western Firms via Edge Devices",
             "link": "https://www.infosecurity-magazine.com/news/amazon-russian-gru-hackers-target/",
@@ -2793,13 +2800,6 @@
             "link": "https://www.infosecurity-magazine.com/news/scattered-lapsus-hunters-zendesk/",
             "summary": "New phishing domains point to a campaign from the notorious Scattered Lapsus$ Hunters collective",
             "published_utc": "2025-11-27T09:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Key Provisions of the UK Cyber Resilience Bill Revealed",
-            "link": "https://www.infosecurity-magazine.com/news/key-provisions-uk-cyber-resilience/",
-            "summary": "Shona Lester, head of the Cyber Security and Resilience Bill team within the UK government, outlined some of the provisions that should be included in...",
-            "published_utc": "2025-11-27T09:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
