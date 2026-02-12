@@ -1,6 +1,20 @@
 {
-    "lastUpdatedUTC": "2026-02-12T20:37:50.514778+00:00",
+    "lastUpdatedUTC": "2026-02-12T21:35:36.385188+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Critical BeyondTrust RCE flaw now exploited in attacks, patch now",
+            "link": "https://www.bleepingcomputer.com/news/security/critical-beyondtrust-rce-flaw-now-exploited-in-attacks-patch-now/",
+            "summary": "A critical pre-authentication remote code execution vulnerability in BeyondTrust Remote Support and Privileged Remote Access appliances is now being e...",
+            "published_utc": "2026-02-12T21:34:12+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft: New Windows LNK spoofing issues aren't vulnerabilities",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-lnk-spoofing-issues-arent-vulnerabilities/",
+            "summary": "Today, at Wild West Hackin' Fest, security researcher Wietze Beukema disclosed multiple vulnerabilities in Windows LK shortcut files that allow attack...",
+            "published_utc": "2026-02-12T21:01:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "This USB-C accessory gave my iPhone and Android a surprisingly useful functionality",
@@ -520,13 +534,6 @@
             "published_utc": "2026-02-11T04:14:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Microsoft releases Windows 11 26H1 for select and upcoming CPUs",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-26h1-for-select-and-upcoming-cpus/",
-            "summary": "Microsoft has announced Windows 11 26H1, but it's not for existing PCs. Instead, it will ship on devices with Snapdragon X2 processors and possibly ot...",
-            "published_utc": "2026-02-11T02:06:42+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "February 2026 Patch Tuesday: Six new and actively exploited Microsoft vulnerabilities addressed",
             "link": "https://www.csoonline.com/article/4130446/february-2026-patch-tuesday-six-new-and-actively-exploited-microsoft-vulnerabilities-addressed.html",
@@ -539,13 +546,6 @@
             "link": "https://www.csoonline.com/article/4130415/beyondtrust-fixes-critical-rce-flaw-in-remote-access-tools.html",
             "summary": "",
             "published_utc": "2026-02-10T23:22:33+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "New Linux botnet SSHStalker uses old-school IRC for C2 comms",
-            "link": "https://www.bleepingcomputer.com/news/security/new-linux-botnet-sshstalker-uses-old-school-irc-for-c2-comms/",
-            "summary": "A newly documented Linux botnet named SSHStalker is using the IRC (Internet Relay Chat) communication protocol for command-and-control (C2) operations...",
-            "published_utc": "2026-02-10T23:09:48+00:00"
         },
         {
             "source": "KrebsOnSecurity",
