@@ -1,6 +1,20 @@
 {
-    "lastUpdatedUTC": "2026-02-12T10:50:22.009579+00:00",
+    "lastUpdatedUTC": "2026-02-12T11:41:22.973464+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Microsoft to Enable ‘Windows Baseline Security’ With New Runtime Integrity Safeguards",
+            "link": "https://www.securityweek.com/microsoft-to-enable-windows-baseline-security-with-new-runtime-integrity-safeguards/",
+            "summary": "",
+            "published_utc": "2026-02-12T11:27:30+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Hacktivists, State Actors, Cybercriminals Target Global Defense Industry, Google Warns",
+            "link": "https://www.securityweek.com/hacktivists-state-actors-cybercriminals-target-global-defense-industry-google-warns/",
+            "summary": "",
+            "published_utc": "2026-02-12T11:12:46+00:00"
+        },
         {
             "source": "InfosecurityMag",
             "title": "AI Skills Represent Dangerous New Attack Surface, Says TrendAI",
@@ -289,13 +303,6 @@
             "published_utc": "2026-02-11T16:32:27+00:00"
         },
         {
-            "source": "KrebsOnSecurity",
-            "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
-            "link": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
-            "summary": "For the past week, the massive \"Internet of Things\" (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a dece...",
-            "published_utc": "2026-02-11T16:08:11+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "Webinar Today: Identity Under Attack – Strengthen Your Identity Defenses",
             "link": "https://www.securityweek.com/webinar-today-identity-under-attack-strengthen-your-identity-defenses/",
@@ -336,20 +343,6 @@
             "link": "https://www.securityweek.com/security-in-the-dark-recognizing-the-signs-of-hidden-information/",
             "summary": "",
             "published_utc": "2026-02-11T13:15:55+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Microsoft to Refresh Windows Secure Boot Certificates in June 2026",
-            "link": "https://www.securityweek.com/microsoft-to-refresh-windows-secure-boot-certificates-in-june-2026/",
-            "summary": "",
-            "published_utc": "2026-02-11T13:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Hacker Conversations: Professional Hacker Douglas Day",
-            "link": "https://www.securityweek.com/hacker-conversations-professional-hacker-douglas-day/",
-            "summary": "",
-            "published_utc": "2026-02-11T12:30:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -455,13 +448,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/north-korean-hackers-use-new-macos-malware-in-crypto-theft-attacks/",
             "summary": "North Korean hackers are running tailored campaigns using AI-generated video and the ClickFix technique to deliver malware for macOS and Windows to ta...",
             "published_utc": "2026-02-10T22:17:35+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Patch Tuesday, February 2026 Edition",
-            "link": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
-            "summary": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopp...",
-            "published_utc": "2026-02-10T21:49:53+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -898,13 +884,6 @@
             "published_utc": "2026-02-03T10:00:00+00:00"
         },
         {
-            "source": "KrebsOnSecurity",
-            "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-            "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-            "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from vic...",
-            "published_utc": "2026-02-02T16:15:16+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "NSA Publishes New Zero Trust Implementation Guidelines",
             "link": "https://www.infosecurity-magazine.com/news/nsa-zero-trust-implementation/",
@@ -1218,13 +1197,6 @@
             "link": "https://www.infosecurity-magazine.com/news/cisa-post-quantum-cryptography/",
             "summary": "CISA released initial list of PQC-capable hardware and software to guide companies amid quantum threats",
             "published_utc": "2026-01-26T16:15:00+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Who Operates the Badbox 2.0 Botnet?",
-            "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-            "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicati...",
-            "published_utc": "2026-01-26T16:11:38+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1701,6 +1673,13 @@
             "link": "https://www.welivesecurity.com/en/social-media/time-internet-services-adopt-identity-verification/",
             "summary": "Should verified identities become the standard online? Australia’s social media ban for under-16s shows why the question matters.",
             "published_utc": "2026-01-14T10:00:00+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Patch Tuesday, January 2026 Edition",
+            "link": "https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/",
+            "summary": "Microsoft today issued patches to plug at least 113 security holes in its various Windows operating systems and supported software. Eight of the vulne...",
+            "published_utc": "2026-01-14T00:47:38+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2270,6 +2249,13 @@
             "published_utc": "2025-12-16T16:00:00+00:00"
         },
         {
+            "source": "KrebsOnSecurity",
+            "title": "Most Parked Domains Now Serving Malicious Content",
+            "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
+            "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the ...",
+            "published_utc": "2025-12-16T14:14:48+00:00"
+        },
+        {
             "source": "InfosecurityMag",
             "title": "Amazon Warns Russian GRU Hackers Target Western Firms via Edge Devices",
             "link": "https://www.infosecurity-magazine.com/news/amazon-russian-gru-hackers-target/",
@@ -2445,6 +2431,13 @@
             "published_utc": "2025-12-10T11:00:00+00:00"
         },
         {
+            "source": "KrebsOnSecurity",
+            "title": "Microsoft Patch Tuesday, December 2025 Edition",
+            "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+            "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of ...",
+            "published_utc": "2025-12-09T23:18:29+00:00"
+        },
+        {
             "source": "InfosecurityMag",
             "title": "React2Shell Exploit Campaigns Tied to North Korean Cyber Intrusion Tactics",
             "link": "https://www.infosecurity-magazine.com/news/react2shell-exploit-campaigns/",
@@ -2529,6 +2522,13 @@
             "published_utc": "2025-12-08T09:30:00+00:00"
         },
         {
+            "source": "KrebsOnSecurity",
+            "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
+            "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+            "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin...",
+            "published_utc": "2025-12-06T14:45:03+00:00"
+        },
+        {
             "source": "InfosecurityMag",
             "title": "React.js Hit by Maximum-Severity 'React2Shell' Vulnerability",
             "link": "https://www.infosecurity-magazine.com/news/reactjs-hit-by-react2shell/",
@@ -2555,6 +2555,13 @@
             "link": "https://www.infosecurity-magazine.com/news/predator-spyware-intellexa-evades/",
             "summary": "Data leaks have shed a new light on Intellexa’s flagship spyware infrastructure and attack vectors",
             "published_utc": "2025-12-05T09:15:00+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+            "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+            "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, ju...",
+            "published_utc": "2025-12-04T23:02:34+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -3493,13 +3500,6 @@
             "link": "https://threatpost.com/ransomware-attacks-are-on-the-rise/180481/",
             "summary": "Lockbit is by far this summer’s most prolific ransomware group, trailed by two offshoots of the Conti group.",
             "published_utc": "2022-08-26T16:44:27+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Cybercriminals Are Selling Access to Chinese Surveillance Cameras",
-            "link": "https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/",
-            "summary": "Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed.",
-            "published_utc": "2022-08-25T18:47:15+00:00"
         }
     ]
 }
