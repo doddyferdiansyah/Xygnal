@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2026-02-16T11:41:43.793218+00:00",
+    "lastUpdatedUTC": "2026-02-16T13:07:32.599602+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "6 reasons why autonomous enterprises are still more a vision than reality",
+            "link": "https://www.zdnet.com/article/autonomous-enterprises-vision-reality/",
+            "summary": "We're not ready to hand the company keys to AI anytime soon.",
+            "published_utc": "2026-02-16T12:54:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I replaced Windows with Linux, and there's only one feature I miss",
+            "link": "https://www.zdnet.com/article/how-to-replace-windows-with-linux/",
+            "summary": "Switching from Windows to Linux is easy, they say. But here's what they don't tell you.",
+            "published_utc": "2026-02-16T12:50:42+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "CISA gives feds 3 days to patch actively exploited BeyondTrust flaw",
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-beyondtrust-flaw-within-three-days/",
+            "summary": "CISA ordered U.S. government agencies on Friday to secure their BeyondTrust Remote Support instances against an actively exploited vulnerability withi...",
+            "published_utc": "2026-02-16T12:33:11+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "The Promptware Kill Chain",
+            "link": "https://www.schneier.com/blog/archives/2026/02/the-promptware-kill-chain.html",
+            "summary": "",
+            "published_utc": "2026-02-16T12:04:01+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How to turn on Private DNS mode on your iPhone - and why you should do it ASAP",
+            "link": "https://www.zdnet.com/article/how-to-turn-on-iphone-private-dns/",
+            "summary": "Unencrypted DNS can expose your browsing activity, but private DNS helps keep it private on iPhone. Here's how to set it up.",
+            "published_utc": "2026-02-16T12:00:49+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Microsoft Warns of ClickFix Attack Abusing DNS Lookups",
+            "link": "https://www.securityweek.com/microsoft-warns-of-clickfix-attack-abusing-dns-lookups/",
+            "summary": "",
+            "published_utc": "2026-02-16T11:56:12+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Amazon Scraps Partnership With Surveillance Company After Super Bowl Ad Backlash",
@@ -247,20 +289,6 @@
             "published_utc": "2026-02-15T13:57:06+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "The best early Presidents' Day sales we've found so far: Save on Apple, Sony, and more",
-            "link": "https://www.zdnet.com/article/best-early-presidents-day-deals-2026/",
-            "summary": "Presidents' Day is this weekend, and I'm scouting for expert-approved deals on home, tech, and more.",
-            "published_utc": "2026-02-15T13:33:04+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Samsung confirms Galaxy S26 Ultra deal for $900 off ahead of February Unpacked",
-            "link": "https://www.zdnet.com/article/samsung-unpacked-2026-confirmed-galaxy-s26-ultra-preorder-deal/",
-            "summary": "Samsung's newest products will be unveiled later this month, but you can already save with this reservation offer.",
-            "published_utc": "2026-02-15T13:01:09+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Upcoming Speaking Engagements",
             "link": "https://www.schneier.com/blog/archives/2026/02/upcoming-speaking-engagements-53.html",
@@ -485,13 +513,6 @@
             "published_utc": "2026-02-13T07:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "China Revives Tianfu Cup Hacking Contest Under Increased Secrecy",
-            "link": "https://www.securityweek.com/china-revives-tianfu-cup-hacking-contest-under-increased-secrecy/",
-            "summary": "",
-            "published_utc": "2026-02-13T06:49:26+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Security-Infotainment: Die besten Hacker-Dokus",
             "link": "https://www.csoonline.com/article/3492776/security-infotainment-die-besten-hacker-dokus.html",
@@ -511,13 +532,6 @@
             "link": "https://www.csoonline.com/article/4131708/why-identity-recovery-is-now-central-to-cyber-resilience.html",
             "summary": "",
             "published_utc": "2026-02-12T23:05:58+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Russia tries to block WhatsApp, Telegram in communication blockade",
-            "link": "https://www.bleepingcomputer.com/news/security/russia-tries-to-block-whatsapp-telegram-in-communication-blockade/",
-            "summary": "The Russian government is attempting to block WhatsApp in the country as its crackdown on communication platforms not under its control intensifies. [...",
-            "published_utc": "2026-02-12T22:57:54+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -590,6 +604,13 @@
             "published_utc": "2026-02-11T16:32:27+00:00"
         },
         {
+            "source": "KrebsOnSecurity",
+            "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
+            "link": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
+            "summary": "For the past week, the massive \"Internet of Things\" (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a dece...",
+            "published_utc": "2026-02-11T16:08:11+00:00"
+        },
+        {
             "source": "Schneier",
             "title": "Rewiring Democracy Ebook is on Sale",
             "link": "https://www.schneier.com/blog/archives/2026/02/rewiring-democracy-ebook-is-on-sale.html",
@@ -623,6 +644,13 @@
             "link": "https://www.infosecurity-magazine.com/news/microsoft-six-zero-day-feb-2026/",
             "summary": "Six actively exploited zero-day bug have been patched by Microsoft",
             "published_utc": "2026-02-11T09:50:00+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Patch Tuesday, February 2026 Edition",
+            "link": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
+            "summary": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopp...",
+            "published_utc": "2026-02-10T21:49:53+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -793,13 +821,6 @@
             "published_utc": "2026-02-06T16:22:00+00:00"
         },
         {
-            "source": "Schneier",
-            "title": "iPhone Lockdown Mode Protects Washington Post Reporter",
-            "link": "https://www.schneier.com/blog/archives/2026/02/iphone-lockdown-mode-protects-washington-post-reporter.html",
-            "summary": "",
-            "published_utc": "2026-02-06T12:00:36+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "New Cyber Startup Programme to Debut at Infosecurity Europe 2026",
             "link": "https://www.infosecurity-magazine.com/news/cyber-startup-programme/",
@@ -959,6 +980,13 @@
             "link": "https://www.infosecurity-magazine.com/news/moltbook-exposes-user-data-api/",
             "summary": "Wiz Security claims Moltbook misconfiguration allowed full read and write access",
             "published_utc": "2026-02-03T10:00:00+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
+            "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+            "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from vic...",
+            "published_utc": "2026-02-02T16:15:16+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1274,6 +1302,13 @@
             "link": "https://www.infosecurity-magazine.com/news/cisa-post-quantum-cryptography/",
             "summary": "CISA released initial list of PQC-capable hardware and software to guide companies amid quantum threats",
             "published_utc": "2026-01-26T16:15:00+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Who Operates the Badbox 2.0 Botnet?",
+            "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+            "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicati...",
+            "published_utc": "2026-01-26T16:11:38+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1722,13 +1757,6 @@
             "link": "https://www.welivesecurity.com/en/social-media/time-internet-services-adopt-identity-verification/",
             "summary": "Should verified identities become the standard online? Australia’s social media ban for under-16s shows why the question matters.",
             "published_utc": "2026-01-14T10:00:00+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Patch Tuesday, January 2026 Edition",
-            "link": "https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/",
-            "summary": "Microsoft today issued patches to plug at least 113 security holes in its various Windows operating systems and supported software. Eight of the vulne...",
-            "published_utc": "2026-01-14T00:47:38+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2298,13 +2326,6 @@
             "published_utc": "2025-12-16T16:00:00+00:00"
         },
         {
-            "source": "KrebsOnSecurity",
-            "title": "Most Parked Domains Now Serving Malicious Content",
-            "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
-            "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the ...",
-            "published_utc": "2025-12-16T14:14:48+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Amazon Warns Russian GRU Hackers Target Western Firms via Edge Devices",
             "link": "https://www.infosecurity-magazine.com/news/amazon-russian-gru-hackers-target/",
@@ -2480,13 +2501,6 @@
             "published_utc": "2025-12-10T11:00:00+00:00"
         },
         {
-            "source": "KrebsOnSecurity",
-            "title": "Microsoft Patch Tuesday, December 2025 Edition",
-            "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
-            "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of ...",
-            "published_utc": "2025-12-09T23:18:29+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "React2Shell Exploit Campaigns Tied to North Korean Cyber Intrusion Tactics",
             "link": "https://www.infosecurity-magazine.com/news/react2shell-exploit-campaigns/",
@@ -2571,13 +2585,6 @@
             "published_utc": "2025-12-08T09:30:00+00:00"
         },
         {
-            "source": "KrebsOnSecurity",
-            "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
-            "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
-            "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin...",
-            "published_utc": "2025-12-06T14:45:03+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "React.js Hit by Maximum-Severity 'React2Shell' Vulnerability",
             "link": "https://www.infosecurity-magazine.com/news/reactjs-hit-by-react2shell/",
@@ -2604,13 +2611,6 @@
             "link": "https://www.infosecurity-magazine.com/news/predator-spyware-intellexa-evades/",
             "summary": "Data leaks have shed a new light on Intellexa’s flagship spyware infrastructure and attack vectors",
             "published_utc": "2025-12-05T09:15:00+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
-            "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
-            "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, ju...",
-            "published_utc": "2025-12-04T23:02:34+00:00"
         },
         {
             "source": "InfosecurityMag",
