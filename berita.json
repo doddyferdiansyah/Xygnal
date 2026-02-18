@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-02-18T09:51:43.801400+00:00",
+    "lastUpdatedUTC": "2026-02-18T10:48:12.184569+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "CISA: Hackers Exploiting Vulnerability in Product of Taiwan Security Firm TeamT5",
+            "link": "https://www.securityweek.com/cisa-hackers-exploiting-vulnerability-in-product-of-taiwan-security-firm-teamt5/",
+            "summary": "",
+            "published_utc": "2026-02-18T10:26:03+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Chinese APT Group Exploits Dell Zero-Day for Two Years",
+            "link": "https://www.infosecurity-magazine.com/news/chinese-apt-exploits-dell-zeroday/",
+            "summary": "Mandiant reveals campaign featuring exploit of a CVSS 10.0 CVE in Dell RecoverPoint for Virtual Machines",
+            "published_utc": "2026-02-18T10:10:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "A new approach for GenAI risk protection",
+            "link": "https://www.csoonline.com/article/4133243/a-new-approach-for-genai-risk-protection.html",
+            "summary": "",
+            "published_utc": "2026-02-18T10:00:00+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Palo Alto Networks to Acquire Koi in Reported $400 Million Transaction",
@@ -450,13 +471,6 @@
             "published_utc": "2026-02-16T15:45:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Dior, Louis Vuitton, Tiffany Fined $25 Million in South Korea After Data Breaches",
-            "link": "https://www.securityweek.com/dior-louis-vuitton-tiffany-fined-25-million-in-south-korea-after-data-breaches/",
-            "summary": "",
-            "published_utc": "2026-02-16T15:09:13+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Passwords to passkeys: Staying ISO 27001 compliant in a passwordless era",
             "link": "https://www.bleepingcomputer.com/news/security/passwords-to-passkeys-staying-iso-27001-compliant-in-a-passwordless-era/",
@@ -595,13 +609,6 @@
             "link": "https://www.csoonline.com/article/4132296/researchers-unearth-30-year-old-vulnerability-in-libpng-library.html",
             "summary": "",
             "published_utc": "2026-02-13T18:10:59+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Battling bots face off in cybersecurity arena",
-            "link": "https://www.csoonline.com/article/4132272/battling-bots-face-off-in-cybersecurity-arena.html",
-            "summary": "",
-            "published_utc": "2026-02-13T17:41:50+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2779,13 +2786,6 @@
             "link": "https://www.infosecurity-magazine.com/news/picklescan-flaws-expose-ai-supply/",
             "summary": "3 critical zero-day flaws in PickleScan, affecting Python and PyTorch, allowed undetected attacks",
             "published_utc": "2025-12-02T16:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "ShadyPanda's Seven-Year Campaign Infects 4.3M Chrome and Edge Users",
-            "link": "https://www.infosecurity-magazine.com/news/shadypanda-infects-43m-chrome-edge/",
-            "summary": "Infected 4.3 million Chrome and Edge users via extensions; ShadyPanda exploited browser marketplaces",
-            "published_utc": "2025-12-02T15:10:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
