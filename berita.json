@@ -1,6 +1,69 @@
 {
-    "lastUpdatedUTC": "2026-02-19T14:50:24.848168+00:00",
+    "lastUpdatedUTC": "2026-02-19T15:51:37.905683+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "I've used Windows for decades, but I tried Linux to see if it's truly 'easy' now - and one thing surprised me",
+            "link": "https://www.zdnet.com/article/how-to-replace-windows-with-linux/",
+            "summary": "Should you switch to Linux? Well, I was pleasantly surprised to find it is a great alternative - for some.",
+            "published_utc": "2026-02-19T15:47:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Edge just got a useful AI tool that Chrome doesn't have - here's how to try it",
+            "link": "https://www.zdnet.com/article/edge-just-got-a-useful-ai-tool-that-chrome-doesnt-have-heres-how-to-try-it/",
+            "summary": "A new AI-powered feature in Edge uses Copilot to summarize and answer questions about your PDF files directly in the browser.",
+            "published_utc": "2026-02-19T15:42:27+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "CISA orders feds to patch actively exploited Dell flaw within 3 days",
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-dell-flaw-within-3-days/",
+            "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch their systems within three days against a maximu...",
+            "published_utc": "2026-02-19T15:30:37+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Industrial-Scale Fake Coretax Apps Drive $2m Fraud in Indonesia",
+            "link": "https://www.infosecurity-magazine.com/news/fake-coretax-apps-fraud-indonesia/",
+            "summary": "Fraud campaign exploiting Indonesia’s Coretax resulted in $1.5m to $2m in losses via malicious apps",
+            "published_utc": "2026-02-19T15:30:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Apple Pencil Pro vs ESR Geo Pencil: I tested both, here's what I recommend",
+            "link": "https://www.zdnet.com/article/apple-pencil-pro-vs-esr-geo-pencil/",
+            "summary": "Still deciding whether to go with Apple's Pencil Pro or ESR's cheaper Geo Pencil? I broke down the differences.",
+            "published_utc": "2026-02-19T15:27:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "What is a passkey? The easy explanation - and how they beat passwords",
+            "link": "https://www.zdnet.com/article/what-are-passkeys/",
+            "summary": "Yes, the technology behind passkeys can be confusing. Here's a simple guide to help you ditch passwords today.",
+            "published_utc": "2026-02-19T15:11:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "How infostealers turn stolen credentials into real identities",
+            "link": "https://www.bleepingcomputer.com/news/security/how-infostealers-turn-stolen-credentials-into-real-identities/",
+            "summary": "Infostealer dumps increasingly tie stolen credentials to real identities, linking usernames, cookies, and behavior across personal and enterprise acco...",
+            "published_utc": "2026-02-19T15:05:15+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "French Government Says 1.2 Million Bank Accounts Exposed in Breach",
+            "link": "https://www.securityweek.com/french-government-says-1-2-million-bank-accounts-exposed-in-breach/",
+            "summary": "",
+            "published_utc": "2026-02-19T15:02:58+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Is free AI enough? How to choose the right chatbot for you - and when to upgrade",
+            "link": "https://www.zdnet.com/article/how-to-choose-ai-chatbot-when-to-upgrade-from-free/",
+            "summary": "You can do a lot with free AI. But you can do even more if you upgrade. Here's how to decide between all your options.",
+            "published_utc": "2026-02-19T14:58:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "I went alpine skiing with this rugged watch and it tracked every slope in detail",
@@ -247,34 +310,6 @@
             "published_utc": "2026-02-19T00:01:03+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Is your Wi-Fi being throttled? Here's a simple workaround that worked for me",
-            "link": "https://www.zdnet.com/article/yes-your-internet-provider-can-throttle-your-speed-heres-an-easy-solution-that-may-help/",
-            "summary": "In addition to asking your provider directly, using tools like VPNs can help reveal if your internet connection is being deliberately throttled.",
-            "published_utc": "2026-02-19T00:01:01+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "This MagSafe pack is equal parts stylish and efficient - but I have one issue",
-            "link": "https://www.zdnet.com/article/finally-a-magsafe-battery-pack-that-doesnt-look-like-a-brick-and-it-charges-quick-too/",
-            "summary": "Casely's Power Pod can power your phone, earbuds, and other electronic devices, and its design brings exactly what the battery pack market needs -- st...",
-            "published_utc": "2026-02-19T00:01:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "This $30 keychain tool continues to impress me - why I take it everywhere now",
-            "link": "https://www.zdnet.com/article/k3-ultramulti-keychain-flashlight-review/",
-            "summary": "The K3 Ultramulti EDC keychain tool is highly functional, combining a flashlight, laser pointer, and lighter into one convenient device.",
-            "published_utc": "2026-02-19T00:00:43+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I found a hidden smart lock that's as easy as using tap-to-pay",
-            "link": "https://www.zdnet.com/article/level-lock-pro-review-smart-lock/",
-            "summary": "The Matter-enabled Level Lock Pro maintains a sleek deadbolt look while packing advanced smart features within.",
-            "published_utc": "2026-02-18T23:01:15+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Notepad++ author says fixes make update mechanism ‘effectively unexploitable’",
             "link": "https://www.csoonline.com/article/4134135/notepad-author-says-fixes-make-update-mechanism-effectively-unexploitable.html",
@@ -301,13 +336,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/ai-platforms-can-be-abused-for-stealthy-malware-communication/",
             "summary": "AI assistants like Grok and Microsoft Copilot with web browsing and URL-fetching capabilities can be abused to intermediate command-and-control (C2) a...",
             "published_utc": "2026-02-18T20:18:24+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Why your EV's battery will outlive your phone's battery - and by how much",
-            "link": "https://www.zdnet.com/article/ev-battery-will-outlast-your-phone-battery-study/",
-            "summary": "Electric car batteries are surprisingly robust, and mileage is not a good indicator of battery wear, according to a new study.",
-            "published_utc": "2026-02-18T19:51:26+00:00"
         },
         {
             "source": "WIRED Security",
@@ -464,13 +492,6 @@
             "published_utc": "2026-02-18T10:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Palo Alto Networks to Acquire Koi in Reported $400 Million Transaction",
-            "link": "https://www.securityweek.com/palo-alto-networks-to-acquire-koi-in-reported-400-million-transaction/",
-            "summary": "",
-            "published_utc": "2026-02-18T08:24:46+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "The new paradigm for raising up secure software engineers",
             "link": "https://www.csoonline.com/article/4129134/the-new-paradigm-for-raising-up-secure-software-engineers.html",
@@ -492,25 +513,11 @@
             "published_utc": "2026-02-17T23:15:49+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Flaws in popular VSCode extensions expose developers to attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/flaws-in-popular-vscode-extensions-expose-developers-to-attacks/",
-            "summary": "Vulnerabilities with high to critical severity ratings affecting popular Visual Studio Code (VSCode) extensions collectively downloaded more than 128 ...",
-            "published_utc": "2026-02-17T21:27:12+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Cyber attacks enabled by basic failings, Palo Alto analysis finds",
             "link": "https://www.csoonline.com/article/4133342/cyber-attacks-enabled-by-basic-failings-palo-alto-analysis-finds.html",
             "summary": "",
             "published_utc": "2026-02-17T21:02:42+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Chinese hackers exploiting Dell zero-day flaw since mid-2024",
-            "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploiting-dell-zero-day-flaw-since-mid-2024/",
-            "summary": "A suspected Chinese state-backed hacking group has been quietly exploiting a critical Dell security flaw in zero-day attacks that started in mid-2024....",
-            "published_utc": "2026-02-17T20:15:03+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2772,13 +2779,6 @@
             "link": "https://www.welivesecurity.com/en/business-security/phishing-privileges-passwords-identity-cybersecurity-posture/",
             "summary": "Identity is effectively the new network boundary. It must be protected at all costs.",
             "published_utc": "2025-12-04T10:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Post Office Escapes £1m Fine After Postmaster Data Breach",
-            "link": "https://www.infosecurity-magazine.com/news/post-office-1m-fine-postmaster/",
-            "summary": "The Information Commissioner’s Office has chosen only to reprimand the Post Office after a 2024 breach",
-            "published_utc": "2025-12-04T09:35:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
