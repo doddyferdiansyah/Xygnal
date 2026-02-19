@@ -1,6 +1,34 @@
 {
-    "lastUpdatedUTC": "2026-02-19T09:50:19.023713+00:00",
+    "lastUpdatedUTC": "2026-02-19T10:45:02.078793+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "Hackers can turn Grok, Copilot into covert command-and-control channels, researchers warn",
+            "link": "https://www.csoonline.com/article/4134419/hackers-can-turn-grok-copilot-into-covert-command-and-control-channels-researchers-warn.html",
+            "summary": "",
+            "published_utc": "2026-02-19T10:22:03+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "New 'Massiv' Android banking malware poses as an IPTV app",
+            "link": "https://www.bleepingcomputer.com/news/security/new-massiv-android-banking-malware-poses-as-an-iptv-app/",
+            "summary": "A newly identified Android banking trojan named Massiv has been under active distribution across south Europe, disguised as an IPTV app. [...]",
+            "published_utc": "2026-02-19T10:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Researchers Reveal Six New OpenClaw Vulnerabilities",
+            "link": "https://www.infosecurity-magazine.com/news/researchers-six-new-openclaw/",
+            "summary": "Endor Labs has published details of six new vulnerabilities in popular AI assistant OpenClaw",
+            "published_utc": "2026-02-19T10:00:00+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "How to Organize Safely in the Age of Surveillance",
+            "link": "https://www.wired.com/story/how-to-organize-safely-in-the-age-of-surveillance/",
+            "summary": "From threat modeling to encrypted collaboration apps, we’ve collected experts’ tips and tools for safely and effectively building a group—even while b...",
+            "published_utc": "2026-02-19T10:00:00+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "Cybersicherheit braucht Reife und keine Checklisten",
@@ -499,13 +527,6 @@
             "published_utc": "2026-02-17T12:01:45+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Poland arrests suspect linked to Phobos ransomware operation",
-            "link": "https://www.bleepingcomputer.com/news/security/poland-arrests-suspect-linked-to-phobos-ransomware-operation/",
-            "summary": "Polish police have detained a 47-year-old man suspected of ties to the Phobos ransomware group and seized computers and mobile phones containing stole...",
-            "published_utc": "2026-02-17T11:31:37+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "With CISOs stretched thin, re-envisioning enterprise risk may be the only fix",
             "link": "https://www.csoonline.com/article/4128992/with-cisos-stretched-thin-re-envisioning-enterprise-risk-may-be-the-only-fix.html",
@@ -546,13 +567,6 @@
             "link": "https://www.csoonline.com/article/4132781/was-cisos-uber-openclaw-wissen-sollten.html",
             "summary": "",
             "published_utc": "2026-02-16T19:41:33+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Open source maintainers being targeted by AI agent as part of ‘reputation farming’",
-            "link": "https://www.csoonline.com/article/4132870/open-source-maintainers-being-targeted-by-ai-agent-as-part-of-reputation-farming.html",
-            "summary": "",
-            "published_utc": "2026-02-16T19:21:01+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -730,13 +744,6 @@
             "published_utc": "2026-02-11T16:32:27+00:00"
         },
         {
-            "source": "KrebsOnSecurity",
-            "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
-            "link": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
-            "summary": "For the past week, the massive \"Internet of Things\" (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a dece...",
-            "published_utc": "2026-02-11T16:08:11+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Rewiring Democracy Ebook is on Sale",
             "link": "https://www.schneier.com/blog/archives/2026/02/rewiring-democracy-ebook-is-on-sale.html",
@@ -770,13 +777,6 @@
             "link": "https://www.infosecurity-magazine.com/news/microsoft-six-zero-day-feb-2026/",
             "summary": "Six actively exploited zero-day bug have been patched by Microsoft",
             "published_utc": "2026-02-11T09:50:00+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Patch Tuesday, February 2026 Edition",
-            "link": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
-            "summary": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopp...",
-            "published_utc": "2026-02-10T21:49:53+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1094,13 +1094,6 @@
             "published_utc": "2026-02-03T10:00:00+00:00"
         },
         {
-            "source": "KrebsOnSecurity",
-            "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-            "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-            "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from vic...",
-            "published_utc": "2026-02-02T16:15:16+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "NSA Publishes New Zero Trust Implementation Guidelines",
             "link": "https://www.infosecurity-magazine.com/news/nsa-zero-trust-implementation/",
@@ -1416,13 +1409,6 @@
             "published_utc": "2026-01-26T16:15:00+00:00"
         },
         {
-            "source": "KrebsOnSecurity",
-            "title": "Who Operates the Badbox 2.0 Botnet?",
-            "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-            "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicati...",
-            "published_utc": "2026-01-26T16:11:38+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Researchers Uncover “Haxor” SEO Poisoning Marketplace",
             "link": "https://www.infosecurity-magazine.com/news/researchers-haxor-seo-poisoning/",
@@ -1582,13 +1568,6 @@
             "link": "https://www.welivesecurity.com/en/scams/common-apple-pay-scams-how-stay-safe/",
             "summary": "Here’s how the most common scams targeting Apple Pay users work and what you can do to stay one step ahead",
             "published_utc": "2026-01-22T10:00:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "Surveillance and ICE Are Driving Patients Away From Medical Care, Report Warns",
-            "link": "https://www.wired.com/story/surveillance-and-ice-are-driving-patients-away-from-medical-care-report-warns/",
-            "summary": "A new EPIC report says data brokers, ad-tech surveillance, and ICE enforcement are among the factors leading to a “health privacy crisis” that is erod...",
-            "published_utc": "2026-01-21T18:04:15+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1864,6 +1843,13 @@
             "published_utc": "2026-01-14T10:00:00+00:00"
         },
         {
+            "source": "KrebsOnSecurity",
+            "title": "Patch Tuesday, January 2026 Edition",
+            "link": "https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/",
+            "summary": "Microsoft today issued patches to plug at least 113 security holes in its various Windows operating systems and supported software. Eight of the vulne...",
+            "published_utc": "2026-01-14T00:47:38+00:00"
+        },
+        {
             "source": "InfosecurityMag",
             "title": "CISA Flags Actively Exploited Gogs Vulnerability With No Patch",
             "link": "https://www.infosecurity-magazine.com/news/cisa-flags-exploited-gogs-flaw-no/",
@@ -1988,13 +1974,6 @@
             "link": "https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/",
             "summary": "Our first story of 2026 revealed how a destructive new botnet called Kimwolf rapidly grew to infect more than two million devices by mass-compromising...",
             "published_utc": "2026-01-08T23:23:43+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "How to Protest Safely in the Age of Surveillance",
-            "link": "https://www.wired.com/story/how-to-protest-safely-surveillance-digital-privacy/",
-            "summary": "Law enforcement has more tools than ever to track your movements and access your communications. Here’s how to protect your privacy if you plan to pro...",
-            "published_utc": "2026-01-08T17:34:04+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2431,6 +2410,13 @@
             "published_utc": "2025-12-16T16:00:00+00:00"
         },
         {
+            "source": "KrebsOnSecurity",
+            "title": "Most Parked Domains Now Serving Malicious Content",
+            "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
+            "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the ...",
+            "published_utc": "2025-12-16T14:14:48+00:00"
+        },
+        {
             "source": "InfosecurityMag",
             "title": "Amazon Warns Russian GRU Hackers Target Western Firms via Edge Devices",
             "link": "https://www.infosecurity-magazine.com/news/amazon-russian-gru-hackers-target/",
@@ -2606,6 +2592,13 @@
             "published_utc": "2025-12-10T11:00:00+00:00"
         },
         {
+            "source": "KrebsOnSecurity",
+            "title": "Microsoft Patch Tuesday, December 2025 Edition",
+            "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+            "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of ...",
+            "published_utc": "2025-12-09T23:18:29+00:00"
+        },
+        {
             "source": "InfosecurityMag",
             "title": "React2Shell Exploit Campaigns Tied to North Korean Cyber Intrusion Tactics",
             "link": "https://www.infosecurity-magazine.com/news/react2shell-exploit-campaigns/",
@@ -2690,6 +2683,13 @@
             "published_utc": "2025-12-08T09:30:00+00:00"
         },
         {
+            "source": "KrebsOnSecurity",
+            "title": "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill",
+            "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+            "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin...",
+            "published_utc": "2025-12-06T14:45:03+00:00"
+        },
+        {
             "source": "InfosecurityMag",
             "title": "React.js Hit by Maximum-Severity 'React2Shell' Vulnerability",
             "link": "https://www.infosecurity-magazine.com/news/reactjs-hit-by-react2shell/",
@@ -2716,6 +2716,13 @@
             "link": "https://www.infosecurity-magazine.com/news/predator-spyware-intellexa-evades/",
             "summary": "Data leaks have shed a new light on Intellexa’s flagship spyware infrastructure and attack vectors",
             "published_utc": "2025-12-05T09:15:00+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+            "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+            "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, ju...",
+            "published_utc": "2025-12-04T23:02:34+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2779,13 +2786,6 @@
             "link": "https://www.infosecurity-magazine.com/news/yearn-finance-yeth-pool-exploit/",
             "summary": "A critical vulnerability in Yearn Finance's yETH pool allowed an attacker to steal around $9m",
             "published_utc": "2025-12-03T15:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "UK Ransomware Payment Ban to Come with Exemptions, Security Minster Say",
-            "link": "https://www.infosecurity-magazine.com/news/uk-ransomware-payment-ban/",
-            "summary": "The UK government’s proposed ransomware payment ban for public sector and critical infrastructure will come with national security exemptions",
-            "published_utc": "2025-12-03T13:25:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
