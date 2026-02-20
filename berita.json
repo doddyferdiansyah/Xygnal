@@ -1,6 +1,55 @@
 {
-    "lastUpdatedUTC": "2026-02-19T23:31:57.250657+00:00",
+    "lastUpdatedUTC": "2026-02-20T02:12:27.414001+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "I found the best Linux server distros for your home lab",
+            "link": "https://www.zdnet.com/article/best-linux-server-distros-for-your-home-lab/",
+            "summary": "Whether you opt for bare metal servers or virtual machines, you'll need a rock-solid distro. These are my four go-to favorites.",
+            "published_utc": "2026-02-20T02:00:52+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I spent 2 years charging my phone exactly how Apple suggests - here's where it's at now",
+            "link": "https://www.zdnet.com/article/charging-iphone-apple-way-2-years-results/",
+            "summary": "Is there a 'correct' way to charge your phone? This is the state of my battery after following Apple's guidelines for two years.",
+            "published_utc": "2026-02-20T01:45:46+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I tested 5G coverage from the big 3 mobile carriers on a road trip - the winner was a surprise",
+            "link": "https://www.zdnet.com/article/verizon-tmobile-att-5g-coverage-compared-road-trip-review/",
+            "summary": "Between Verizon, T-Mobile, and AT&amp;T, here's which one delivers the strongest (and most consistent) network signal.",
+            "published_utc": "2026-02-20T01:16:10+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "A $10K Bounty Awaits Anyone Who Can Hack Ring Cameras to Stop Sharing Data With Amazon",
+            "link": "https://www.wired.com/story/a-10k-bounty-awaits-anyone-who-can-hack-ring-cameras-to-stop-sharing-data-with-amazon/",
+            "summary": "The Fulu Foundation, a nonprofit that pays out bounties for removing user-hostile features, is hunting for a way to keep Ring cameras from sending dat...",
+            "published_utc": "2026-02-20T01:12:25+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "AI agents are fast, loose and out of control, MIT study finds",
+            "link": "https://www.zdnet.com/article/ai-agents-are-fast-loose-and-out-of-control-mit-study-find/",
+            "summary": "The vast majority of agentic AI systems disclose nothing about what safety testing, if any, has been conducted, and many systems have no documented wa...",
+            "published_utc": "2026-02-20T01:00:38+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "New phishing campaign tricks employees into bypassing Microsoft 365 MFA",
+            "link": "https://www.csoonline.com/article/4134874/new-phishing-campaign-tricks-employees-into-bypassing-microsoft-365-mfa.html",
+            "summary": "",
+            "published_utc": "2026-02-20T00:20:17+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Phone acting weird? 5 red flags that could point to hackers",
+            "link": "https://www.zdnet.com/article/5-warning-signs-that-your-phones-been-hacked-and-how-to-fight-back/",
+            "summary": "Here are the biggest warning signs that your phone may be compromised and the secret codes that can tell you all about it.",
+            "published_utc": "2026-02-20T00:00:46+00:00"
+        },
         {
             "source": "WIRED Security",
             "title": "An FBI ‘Asset’ Helped Run a Dark Web Site That Sold Fentanyl-Laced Drugs for Years",
@@ -177,39 +226,11 @@
             "published_utc": "2026-02-19T15:02:58+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Is free AI enough? How to choose the right chatbot for you - and when to upgrade",
-            "link": "https://www.zdnet.com/article/how-to-choose-ai-chatbot-when-to-upgrade-from-free/",
-            "summary": "You can do a lot with free AI. But you can do even more if you upgrade. Here's how to decide between all your options.",
-            "published_utc": "2026-02-19T14:58:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I went alpine skiing with this rugged watch and it tracked every slope in detail",
-            "link": "https://www.zdnet.com/article/amazfit-t-rex-ultra-2-review/",
-            "summary": "Amazfit's T-Rex Ultra 2 lets you plot your winter adventures with offline maps and detailed data that outshines expensive competitors.",
-            "published_utc": "2026-02-19T14:45:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "5 surprise products Samsung could unveil at Unpacked - including an ultra wide phone",
-            "link": "https://www.zdnet.com/article/samsung-unpacked-surprise-announcements-what-to-expect/",
-            "summary": "Unpacked 2026 could feature a few curveballs, like a new type of foldable.",
-            "published_utc": "2026-02-19T14:28:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Nigerian man gets eight years in prison for hacking tax firms",
             "link": "https://www.bleepingcomputer.com/news/security/nigerian-man-gets-eight-years-in-prison-for-hacking-tax-firms/",
             "summary": "A Nigerian national was sentenced to eight years in prison for hacking multiple tax preparation firms in Massachusetts and filing fraudulent tax retur...",
             "published_utc": "2026-02-19T13:51:49+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Want free TV streaming? How to get more than 1000 channels - no subscription required",
-            "link": "https://www.zdnet.com/article/the-roku-channel-vs-google-tv-freeplay-free-tv-streaming/",
-            "summary": "The Roku Channel vs. Google TV Freeplay: Both services offer hundreds of free channels, but one has a far better interface.",
-            "published_utc": "2026-02-19T13:27:00+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -280,13 +301,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/police-arrests-651-suspects-in-african-cybercrime-crackdown/",
             "summary": "African authorities arrested 651 suspects and recovered over $4.3 million in a joint operation targeting investment fraud, mobile money scams, and fak...",
             "published_utc": "2026-02-19T11:24:17+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Considering a home battery? These 3 factors can help you decide",
-            "link": "https://www.zdnet.com/article/home-battery-systems-cost-savings/",
-            "summary": "Home battery systems aren't just for backup power anymore. In some states, homeowners are tapping into stored energy to sidestep peak electricity pric...",
-            "published_utc": "2026-02-19T11:01:03+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -595,13 +609,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/02/side-channel-attacks-against-llms.html",
             "summary": "",
             "published_utc": "2026-02-17T12:01:45+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "With CISOs stretched thin, re-envisioning enterprise risk may be the only fix",
-            "link": "https://www.csoonline.com/article/4128992/with-cisos-stretched-thin-re-envisioning-enterprise-risk-may-be-the-only-fix.html",
-            "summary": "",
-            "published_utc": "2026-02-17T10:01:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
@@ -1568,13 +1575,6 @@
             "link": "https://www.infosecurity-magazine.com/news/under-armour-investigates-data/",
             "summary": "Under Armour said there is no evidence at this point to suggest the incident affected systems used to process payments or store customer passwords",
             "published_utc": "2026-01-23T12:10:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "149 Million Usernames and Passwords Exposed by Unsecured Database",
-            "link": "https://www.wired.com/story/149-million-stolen-usernames-passwords/",
-            "summary": "This “dream wish list for criminals” includes millions of Gmail, Facebook, banking logins, and more. The researcher who discovered it suspects they we...",
-            "published_utc": "2026-01-23T11:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
