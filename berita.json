@@ -1,6 +1,20 @@
 {
-    "lastUpdatedUTC": "2026-02-20T06:59:25.620711+00:00",
+    "lastUpdatedUTC": "2026-02-20T07:52:49.641837+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "PromptSpy Android Malware Abuses Gemini AI at Runtime for Persistence",
+            "link": "https://www.securityweek.com/promptspy-android-malware-abuses-gemini-ai-at-runtime-for-persistence/",
+            "summary": "",
+            "published_utc": "2026-02-20T07:06:15+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "PayPal launches latest struggle to get rid of SMS for MFA",
+            "link": "https://www.csoonline.com/article/4134258/paypal-launches-latest-struggle-to-get-rid-of-sms-for-mfa.html",
+            "summary": "",
+            "published_utc": "2026-02-20T07:00:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "New to VPNs? Everything you need to know about virtual private networks in 2026",
@@ -331,6 +345,13 @@
             "published_utc": "2026-02-19T10:45:00+00:00"
         },
         {
+            "source": "WeLiveSecurity",
+            "title": "PromptSpy ushers in the era of Android threats using GenAI",
+            "link": "https://www.welivesecurity.com/en/eset-research/promptspy-ushers-in-era-android-threats-using-genai/",
+            "summary": "ESET researchers discover PromptSpy, the first known Android malware to abuse generative AI in its execution flow",
+            "published_utc": "2026-02-19T10:30:20+00:00"
+        },
+        {
             "source": "CSO Online",
             "title": "Hackers can turn Grok, Copilot into covert command-and-control channels, researchers warn",
             "link": "https://www.csoonline.com/article/4134419/hackers-can-turn-grok-copilot-into-covert-command-and-control-channels-researchers-warn.html",
@@ -371,6 +392,13 @@
             "link": "https://www.securityweek.com/german-rail-giant-deutsche-bahn-hit-by-large-scale-ddos-attack/",
             "summary": "",
             "published_utc": "2026-02-19T09:16:20+00:00"
+        },
+        {
+            "source": "WeLiveSecurity",
+            "title": "Is Poshmark safe? How to buy and sell without getting scammed",
+            "link": "https://www.welivesecurity.com/en/scams/poshmark-safe-buy-sell-scammed/",
+            "summary": "Like any other marketplace, the social commerce platform has its share of red flags. It pays to know what to look for so you can shop or sell without ...",
+            "published_utc": "2026-02-19T07:21:48+00:00"
         },
         {
             "source": "CSO Online",
@@ -527,13 +555,6 @@
             "published_utc": "2026-02-18T10:49:32+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "CISA: Hackers Exploiting Vulnerability in Product of Taiwan Security Firm TeamT5",
-            "link": "https://www.securityweek.com/cisa-hackers-exploiting-vulnerability-in-product-of-taiwan-security-firm-teamt5/",
-            "summary": "",
-            "published_utc": "2026-02-18T10:26:03+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Chinese APT Group Exploits Dell Zero-Day for Two Years",
             "link": "https://www.infosecurity-magazine.com/news/chinese-apt-exploits-dell-zeroday/",
@@ -581,13 +602,6 @@
             "link": "https://www.infosecurity-magazine.com/news/apple-rcs-encryption-memory/",
             "summary": "iOS 26.4 Beta adds end-to-end encryption for RCS messaging and enhanced Memory Integrity Enforcement",
             "published_utc": "2026-02-17T15:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "MCSC 2026: „Politik und Wirtschaft müssen zusammenarbeiten“",
-            "link": "https://www.csoonline.com/article/4133182/mcsc-2026-politik-und-wirtschaft-mussen-zusammenarbeiten.html",
-            "summary": "",
-            "published_utc": "2026-02-17T14:49:40+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -3241,20 +3255,6 @@
             "link": "https://www.welivesecurity.com/en/eset-research/toolshell-an-all-you-can-eat-buffet-for-threat-actors/",
             "summary": "ESET Research has been monitoring attacks involving the recently discovered ToolShell zero-day vulnerabilities",
             "published_utc": "2025-07-24T09:00:45+00:00"
-        },
-        {
-            "source": "WeLiveSecurity",
-            "title": "Rogue CAPTCHAs: Look out for phony verification pages spreading malware",
-            "link": "https://www.welivesecurity.com/en/cybersecurity/rogue-captchas-look-out-phony-verification-pages-spreading-malware/",
-            "summary": "Before rushing to prove that you're not a robot, be wary of deceptive human verification pages as an increasingly popular vector for delivering malware",
-            "published_utc": "2025-07-24T08:30:00+00:00"
-        },
-        {
-            "source": "WeLiveSecurity",
-            "title": "Why is your data worth so much? | Unlocked 403 cybersecurity podcast (S2E4)",
-            "link": "https://www.welivesecurity.com/en/videos/why-is-your-data-worth-so-much-unlocked-403-cybersecurity-podcast-s2e4/",
-            "summary": "Behind every free online service, there's a price being paid. Learn why your digital footprint is so valuable, and when you might actually be the prod...",
-            "published_utc": "2025-07-22T10:18:17+00:00"
         },
         {
             "source": "NVD (NIST)",
