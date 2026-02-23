@@ -1,6 +1,20 @@
 {
-    "lastUpdatedUTC": "2026-02-23T22:42:48.956008+00:00",
+    "lastUpdatedUTC": "2026-02-23T23:35:29.718800+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "How to blur your home on Google Street View - and why you should do it ASAP",
+            "link": "https://www.zdnet.com/article/blur-your-house-on-google-street-view/",
+            "summary": "Blurring your house on Street View isn't just about privacy. Here's why it's become a trend and what to know before you try it.",
+            "published_utc": "2026-02-23T23:00:45+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Android mental health apps with 14.7M installs filled with security flaws",
+            "link": "https://www.bleepingcomputer.com/news/security/android-mental-health-apps-with-147m-installs-filled-with-security-flaws/",
+            "summary": "Several mental health mobile apps with millions of downloads on Google Play contain security vulnerabilities that could expose users' sensitive medica...",
+            "published_utc": "2026-02-23T22:59:04+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "I stopped using my Apple's Watch dock after trying this Scosche keychain charger",
@@ -154,13 +168,6 @@
             "link": "https://www.zdnet.com/article/google-pixel-10a-vs-pixel-10/",
             "summary": "The Google Pixel 10a may not be the upgrade you expected, but it beats the more expensive Pixel 10 in a few ways.",
             "published_utc": "2026-02-23T16:27:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How to FaceTime on Android (or your Windows PC) - no third-party app needed",
-            "link": "https://www.zdnet.com/article/how-to-facetime-on-android/",
-            "summary": "Did you know that anyone can join a FaceTime call? It's as simple as clicking on a link.",
-            "published_utc": "2026-02-23T16:04:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -462,13 +469,6 @@
             "link": "https://www.infosecurity-magazine.com/news/android-malware-hijacks-google/",
             "summary": "A new Android malware implant using Google Gemini to perform persistence tasks was discovered on VirusTotal and analyzed by ESET",
             "published_utc": "2026-02-20T11:35:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "FBI: Over $20 million stolen in surge of ATM malware attacks in 2025",
-            "link": "https://www.bleepingcomputer.com/news/security/fbi-over-20-million-stolen-in-surge-of-atm-malware-attacks-in-2025/",
-            "summary": "The FBI warned that Americans lost more than $20 million last year amid a massive surge in ATM \"jackpotting\" attacks, in which criminals use malware t...",
-            "published_utc": "2026-02-20T10:08:49+00:00"
         },
         {
             "source": "CSO Online",
@@ -3444,62 +3444,6 @@
             "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-20005",
             "summary": "Multiple vulnerabilities in the web-based management interface of Cisco Firepower Management Center (FMC) Software could allow an unauthenticated, rem...",
             "published_utc": "2023-11-01T17:15:10+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Student Loan Breach Exposes 2.5M Records",
-            "link": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
-            "summary": "2.5 million people were affected, in a breach that could spell more trouble down the line.",
-            "published_utc": "2022-08-31T12:57:48+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Watering Hole Attacks Push ScanBox Keylogger",
-            "link": "https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/",
-            "summary": "Researchers uncover a watering hole attack likely carried out by APT TA423, which attempts to plant the ScanBox JavaScript-based reconnaissance tool.",
-            "published_utc": "2022-08-30T16:00:43+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms",
-            "link": "https://threatpost.com/0ktapus-victimize-130-firms/180487/",
-            "summary": "Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.",
-            "published_utc": "2022-08-29T14:56:19+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Ransomware Attacks are on the Rise",
-            "link": "https://threatpost.com/ransomware-attacks-are-on-the-rise/180481/",
-            "summary": "Lockbit is by far this summer’s most prolific ransomware group, trailed by two offshoots of the Conti group.",
-            "published_utc": "2022-08-26T16:44:27+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Cybercriminals Are Selling Access to Chinese Surveillance Cameras",
-            "link": "https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/",
-            "summary": "Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed.",
-            "published_utc": "2022-08-25T18:47:15+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Twitter Whistleblower Complaint: The TL;DR Version",
-            "link": "https://threatpost.com/twitter-whistleblower-tldr-version/180472/",
-            "summary": "Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a n...",
-            "published_utc": "2022-08-24T14:17:04+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Firewall Bug Under Active Attack Triggers CISA Warning",
-            "link": "https://threatpost.com/firewall-bug-under-active-attack-cisa-warning/180467/",
-            "summary": "CISA is warning that Palo Alto Networks’ PAN-OS is under active attack and needs to be patched ASAP.",
-            "published_utc": "2022-08-23T13:19:58+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Fake Reservation Links Prey on Weary Travelers",
-            "link": "https://threatpost.com/reservation-links-prey-on-travelers/180462/",
-            "summary": "Fake travel reservations are exacting more pain from the travel weary, already dealing with the misery of canceled flights and overbooked hotels.",
-            "published_utc": "2022-08-22T13:59:06+00:00"
         }
     ]
 }
