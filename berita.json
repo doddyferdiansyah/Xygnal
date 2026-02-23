@@ -1,6 +1,13 @@
 {
-    "lastUpdatedUTC": "2026-02-23T07:56:00.428020+00:00",
+    "lastUpdatedUTC": "2026-02-23T08:54:30.434967+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "VPN tricks and tips you didn't know you needed (but definitely do)",
+            "link": "https://www.zdnet.com/article/vpn-settings-tips-tricks/",
+            "summary": "Enhancing your online privacy and security isn't all your VPN can do for you. Discover additional settings, configuration options, and more cool tricks.",
+            "published_utc": "2026-02-23T08:00:45+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "13 ways attackers use generative AI to exploit your systems",
@@ -73,16 +80,16 @@
         },
         {
             "source": "ZDNet Security",
-            "title": "This new Linux desktop runs like an app on your existing desktop - and I highly recommend it",
-            "link": "https://www.zdnet.com/article/orbitiny-portable-modular-unique-linux-desktop/",
-            "summary": "Orbitiny is a modular desktop environment that feels like it's running natively - but it's not.",
+            "title": "I compared the best soundbars from Samsung and Sonos, and here's my preference",
+            "link": "https://www.zdnet.com/article/samsung-hw0q990f-vs-sonos-arc-ultra-soundbar/",
+            "summary": "Upgrading your home theater with one of the best soundbars isn't a decision you make on the fly. Here's what to consider first.",
             "published_utc": "2026-02-23T02:20:00+00:00"
         },
         {
             "source": "ZDNet Security",
-            "title": "I compared the best soundbars from Samsung and Sonos, and here's my preference",
-            "link": "https://www.zdnet.com/article/samsung-hw0q990f-vs-sonos-arc-ultra-soundbar/",
-            "summary": "Upgrading your home theater with one of the best soundbars isn't a decision you make on the fly. Here's what to consider first.",
+            "title": "This new Linux desktop runs like an app on your existing desktop - and I highly recommend it",
+            "link": "https://www.zdnet.com/article/orbitiny-portable-modular-unique-linux-desktop/",
+            "summary": "Orbitiny is a modular desktop environment that feels like it's running natively - but it's not.",
             "published_utc": "2026-02-23T02:20:00+00:00"
         },
         {
@@ -140,13 +147,6 @@
             "link": "https://www.zdnet.com/article/lenovo-ideacentre-mini-x-review/",
             "summary": "Lenovo's IdeaCentre Mini X is a compact PC with efficient everyday performance, making it a worthwhile alternative to today's desktops and laptops.",
             "published_utc": "2026-02-23T01:59:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I reclaimed 10GB of storage space on my Pixel by disabling this one background app",
-            "link": "https://www.zdnet.com/article/how-to-disable-aicore-google-pixel-free-storage/",
-            "summary": "If your Google Pixel is running out of storage space, turning off the AI Core is one way to reclaim GBs. Know this before you do.",
-            "published_utc": "2026-02-23T01:55:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -210,13 +210,6 @@
             "link": "https://www.wired.com/story/dhs-wants-a-single-search-engine-to-flag-faces-and-fingerprints-across-agencies/",
             "summary": "Homeland Security aims to combine its face and fingerprint systems into one big biometric platform—after dismantling centralized privacy reviews and k...",
             "published_utc": "2026-02-20T20:03:23+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA",
-            "link": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
-            "summary": "Most phishing websites are little more than static copies of login pages for popular online destinations, and they are often quickly taken down by ant...",
-            "published_utc": "2026-02-20T20:00:30+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -877,13 +870,6 @@
             "published_utc": "2026-02-11T16:32:27+00:00"
         },
         {
-            "source": "KrebsOnSecurity",
-            "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
-            "link": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
-            "summary": "For the past week, the massive \"Internet of Things\" (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a dece...",
-            "published_utc": "2026-02-11T16:08:11+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Rewiring Democracy Ebook is on Sale",
             "link": "https://www.schneier.com/blog/archives/2026/02/rewiring-democracy-ebook-is-on-sale.html",
@@ -910,13 +896,6 @@
             "link": "https://www.infosecurity-magazine.com/news/microsoft-six-zero-day-feb-2026/",
             "summary": "Six actively exploited zero-day bug have been patched by Microsoft",
             "published_utc": "2026-02-11T09:50:00+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Patch Tuesday, February 2026 Edition",
-            "link": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
-            "summary": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopp...",
-            "published_utc": "2026-02-10T21:49:53+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1218,13 +1197,6 @@
             "link": "https://www.infosecurity-magazine.com/news/moltbook-exposes-user-data-api/",
             "summary": "Wiz Security claims Moltbook misconfiguration allowed full read and write access",
             "published_utc": "2026-02-03T10:00:00+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Please Don’t Feed the Scattered Lapsus ShinyHunters",
-            "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-            "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from vic...",
-            "published_utc": "2026-02-02T16:15:16+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1542,13 +1514,6 @@
             "published_utc": "2026-01-26T16:15:00+00:00"
         },
         {
-            "source": "KrebsOnSecurity",
-            "title": "Who Operates the Badbox 2.0 Botnet?",
-            "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-            "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicati...",
-            "published_utc": "2026-01-26T16:11:38+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Researchers Uncover “Haxor” SEO Poisoning Marketplace",
             "link": "https://www.infosecurity-magazine.com/news/researchers-haxor-seo-poisoning/",
@@ -1708,13 +1673,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ai-model-collapse-zero-trust-data/",
             "summary": "Gartner predicts 50% of organizations will adopt zero trust data governance by 2028",
             "published_utc": "2026-01-21T08:30:00+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
-            "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
-            "summary": "A new Internet-of-Things botnet called Kimwolf has spread to more than 2 million devices, forcing infected systems to participate in massive distribut...",
-            "published_utc": "2026-01-20T18:19:13+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2053,13 +2011,6 @@
             "published_utc": "2026-01-09T10:00:00+00:00"
         },
         {
-            "source": "KrebsOnSecurity",
-            "title": "Who Benefited from the Aisuru and Kimwolf Botnets?",
-            "link": "https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/",
-            "summary": "Our first story of 2026 revealed how a destructive new botnet called Kimwolf rapidly grew to infect more than two million devices by mass-compromising...",
-            "published_utc": "2026-01-08T23:23:43+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "GoBruteforcer Botnet Targets Linux Servers",
             "link": "https://www.infosecurity-magazine.com/news/gobruteforcer-botnet-linux-servers/",
@@ -2235,25 +2186,11 @@
             "published_utc": "2026-01-03T10:00:00+00:00"
         },
         {
-            "source": "KrebsOnSecurity",
-            "title": "The Kimwolf Botnet is Stalking Your Local Network",
-            "link": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
-            "summary": "The story you are reading is a series of scoops nestled inside a far more urgent Internet-wide security advisory. The vulnerability at issue has been ...",
-            "published_utc": "2026-01-02T14:20:10+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Infosecurity's Top 10 Cybersecurity Stories of 2025",
             "link": "https://www.infosecurity-magazine.com/news/infosecurity-top-10-stories-2025/",
             "summary": "Explore Infosecurity Magazine’s most-read cybersecurity stories of 2025, from major vendor shake-ups and zero-day exploits to AI-driven threats and su...",
             "published_utc": "2026-01-01T08:30:00+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
-            "link": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
-            "summary": "KrebsOnSecurity.com celebrates its 16th anniversary today! A huge \"thank you\" to all of our readers -- newcomers, long-timers and drive-by critics ali...",
-            "published_utc": "2025-12-29T20:23:26+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -3500,6 +3437,27 @@
             "link": "https://threatpost.com/firewall-bug-under-active-attack-cisa-warning/180467/",
             "summary": "CISA is warning that Palo Alto Networks’ PAN-OS is under active attack and needs to be patched ASAP.",
             "published_utc": "2022-08-23T13:19:58+00:00"
+        },
+        {
+            "source": "Threatpost",
+            "title": "Fake Reservation Links Prey on Weary Travelers",
+            "link": "https://threatpost.com/reservation-links-prey-on-travelers/180462/",
+            "summary": "Fake travel reservations are exacting more pain from the travel weary, already dealing with the misery of canceled flights and overbooked hotels.",
+            "published_utc": "2022-08-22T13:59:06+00:00"
+        },
+        {
+            "source": "Threatpost",
+            "title": "iPhone Users Urged to Update to Patch 2 Zero-Days",
+            "link": "https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/",
+            "summary": "Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack.",
+            "published_utc": "2022-08-19T15:25:56+00:00"
+        },
+        {
+            "source": "Threatpost",
+            "title": "Google Patches Chrome’s Fifth Zero-Day of the Year",
+            "link": "https://threatpost.com/google-patches-chromes-fifth-zero-day-of-the-year/180432/",
+            "summary": "An insufficient validation input flaw, one of 11 patched in an update this week, could allow for arbitrary code execution and is under active attack.",
+            "published_utc": "2022-08-18T14:31:38+00:00"
         }
     ]
 }
