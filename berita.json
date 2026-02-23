@@ -1,6 +1,62 @@
 {
-    "lastUpdatedUTC": "2026-02-23T11:41:02.722587+00:00",
+    "lastUpdatedUTC": "2026-02-23T13:09:08.927978+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "7 AI coding techniques that quietly make you elite",
+            "link": "https://www.zdnet.com/article/ai-coding-techniques/",
+            "summary": "What separates casual vibe coders from elite builders? It's not better prompts. It's systems. Here's the exact framework I use to keep AI projects pro...",
+            "published_utc": "2026-02-23T13:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Autonomous AI Agents Provide New Class of Supply Chain Attack",
+            "link": "https://www.securityweek.com/autonomous-ai-agents-provide-new-class-of-supply-chain-attack/",
+            "summary": "",
+            "published_utc": "2026-02-23T12:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Russian Cyber Threat Actor Uses GenAI to Compromise Fortinet Firewalls",
+            "link": "https://www.infosecurity-magazine.com/news/russian-threat-actor-genai/",
+            "summary": "A low-skilled Russian-speaking attacker has used GenAI tools to help deploy a successful attack workflow targeting FortiGate instances",
+            "published_utc": "2026-02-23T12:30:00+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "On the Security of Password Managers",
+            "link": "https://www.schneier.com/blog/archives/2026/02/on-the-security-of-password-managers.html",
+            "summary": "",
+            "published_utc": "2026-02-23T12:03:33+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Hacker stiehlt Daten von Tausenden RTL-Mitarbeitern",
+            "link": "https://www.csoonline.com/article/4135838/hacker-stiehlt-daten-von-tausenden-rtl-mitarbeitern.html",
+            "summary": "",
+            "published_utc": "2026-02-23T11:58:45+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "New Arkanix stealer blends rapid Python harvesting with stealthier C++ payloads",
+            "link": "https://www.csoonline.com/article/4135843/new-arkanix-stealer-blends-rapid-python-harvesting-with-stealthier-c-payloads.html",
+            "summary": "",
+            "published_utc": "2026-02-23T11:54:52+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Romanian Hacker Pleads Guilty to Selling Access to US State Network",
+            "link": "https://www.securityweek.com/romanian-hacker-pleads-guilty-to-selling-access-to-us-state-network/",
+            "summary": "",
+            "published_utc": "2026-02-23T11:53:35+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "CISA: Recently patched RoundCube flaws now exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-recently-patched-roundcube-flaws-now-exploited-in-attacks/",
+            "summary": "CISA flagged two Roundcube Webmail vulnerabilities as actively exploited in attacks and ordered U.S. federal agencies to patch them within three weeks...",
+            "published_utc": "2026-02-23T11:44:21+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Hundreds of FortiGate Firewalls Hacked in AI-Powered Attacks: AWS",
@@ -191,13 +247,6 @@
             "published_utc": "2026-02-23T02:10:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Waking up to a $250 alarm clock was more effective than I expected - but it's far from perfect",
-            "link": "https://www.zdnet.com/article/dreamie-smart-alarm-clock-review/",
-            "summary": "Dreamie is the smart alarm clock newcomer that wants to get you off your phone and to sleep. Here's my buying advice after a week of testing.",
-            "published_utc": "2026-02-23T02:07:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Arkanix Stealer pops up as short-lived AI info-stealer experiment",
             "link": "https://www.bleepingcomputer.com/news/security/arkanix-stealer-pops-up-as-short-lived-ai-info-stealer-experiment/",
@@ -373,25 +422,11 @@
             "published_utc": "2026-02-20T11:35:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "FBI: $20 Million Losses Caused by 700 ATM Jackpotting Attacks in 2025",
-            "link": "https://www.securityweek.com/fbi-20-million-losses-caused-by-700-atm-jackpotting-attacks-in-2025/",
-            "summary": "",
-            "published_utc": "2026-02-20T11:05:26+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "FBI: Over $20 million stolen in surge of ATM malware attacks in 2025",
             "link": "https://www.bleepingcomputer.com/news/security/fbi-over-20-million-stolen-in-surge-of-atm-malware-attacks-in-2025/",
             "summary": "The FBI warned that Americans lost more than $20 million last year amid a massive surge in ATM \"jackpotting\" attacks, in which criminals use malware t...",
             "published_utc": "2026-02-20T10:08:49+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Chip Testing Giant Advantest Hit by Ransomware",
-            "link": "https://www.securityweek.com/chip-testing-giant-advantest-hit-by-ransomware/",
-            "summary": "",
-            "published_utc": "2026-02-20T09:31:29+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -483,13 +518,6 @@
             "link": "https://www.infosecurity-magazine.com/news/remcos-rat-expands-real-time/",
             "summary": "New Remcos RAT variant enhances real-time surveillance and evasion techniques to compromise Windows",
             "published_utc": "2026-02-19T16:30:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "CISA orders feds to patch actively exploited Dell flaw within 3 days",
-            "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-dell-flaw-within-3-days/",
-            "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch their systems within three days against a maximu...",
-            "published_utc": "2026-02-19T15:30:37+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -632,13 +660,6 @@
             "published_utc": "2026-02-18T12:30:06+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Keenadu: Android malware that comes preinstalled and can’t be removed by users",
-            "link": "https://www.csoonline.com/article/4133774/keenadu-android-malware-that-comes-preinstalled-and-cant-be-removed-by-users.html",
-            "summary": "",
-            "published_utc": "2026-02-18T12:14:35+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "AI Found Twelve New Vulnerabilities in OpenSSL",
             "link": "https://www.schneier.com/blog/archives/2026/02/ai-found-twelve-new-vulnerabilities-in-openssl.html",
@@ -651,13 +672,6 @@
             "link": "https://www.infosecurity-magazine.com/news/record-number-ransomware-victims/",
             "summary": "Searchlight Cyber reports a 30% annual increase in ransomware victim numbers in 2025",
             "published_utc": "2026-02-18T11:30:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Cyberangriff auf Bahn stört Auskunftssysteme",
-            "link": "https://www.csoonline.com/article/4133725/cyberangriff-auf-bahn-stort-auskunftssysteme.html",
-            "summary": "",
-            "published_utc": "2026-02-18T11:04:39+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -896,13 +910,6 @@
             "link": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
             "summary": "For the past week, the massive \"Internet of Things\" (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a dece...",
             "published_utc": "2026-02-11T16:08:11+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Rewiring Democracy Ebook is on Sale",
-            "link": "https://www.schneier.com/blog/archives/2026/02/rewiring-democracy-ebook-is-on-sale.html",
-            "summary": "",
-            "published_utc": "2026-02-11T14:48:14+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2765,13 +2772,6 @@
             "link": "https://www.infosecurity-magazine.com/news/reactjs-hit-by-react2shell/",
             "summary": "A critical RCE flaw in React.js, dubbed React2Shell (CVE-2025-55182), has been disclosed with a maximum CVSS score of 10.0, posing severe risks for se...",
             "published_utc": "2025-12-05T16:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "China-Linked Warp Panda Targets North American Firms in Espionage Campaign",
-            "link": "https://www.infosecurity-magazine.com/news/chinalinked-warp-panda/",
-            "summary": "CrowdStrike warned that Warp Panda, a China-linked cyber-espionage group, is targeting US organizations to steal sensitive data and support Beijing’s ...",
-            "published_utc": "2025-12-05T14:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
