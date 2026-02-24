@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-02-24T10:52:19.978418+00:00",
+    "lastUpdatedUTC": "2026-02-24T11:41:37.933016+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "ShinyHunters extortion gang claims Odido breach affecting millions",
+            "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-extortion-gang-claims-odido-breach-affecting-millions/",
+            "summary": "The ShinyHunters extortion gang has claimed responsibility for breaching Dutch telecommunications provider Odido and stealing millions of user records...",
+            "published_utc": "2026-02-24T11:40:20+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Chinese AI Firms Hit Claude with Distillation Attacks, Anthropic Warns",
+            "link": "https://www.infosecurity-magazine.com/news/chinese-ai-claude-distillation/",
+            "summary": "Anthropic accused DeepSeek, Moonshot and MiniMax of illicitly using Claude to steal some of the AI model’s capabilities",
+            "published_utc": "2026-02-24T11:30:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "North Korean Lazarus group linked to Medusa ransomware attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/north-korean-lazarus-group-linked-to-medusa-ransomware-attacks/",
+            "summary": "North Korean state-backed hackers associated with the Lazarus threat group are targeting U.S. healthcare organizations in extortion attacks using the ...",
+            "published_utc": "2026-02-24T11:00:00+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Anonymous Fénix Members Arrested in Spain",
@@ -345,6 +366,13 @@
             "published_utc": "2026-02-23T10:30:00+00:00"
         },
         {
+            "source": "SecurityWeek",
+            "title": "Mississippi Hospital System Closes All Clinics After Ransomware Attack",
+            "link": "https://www.securityweek.com/mississippi-hospital-system-closes-all-clinics-after-ransomware-attack/",
+            "summary": "",
+            "published_utc": "2026-02-23T10:29:13+00:00"
+        },
+        {
             "source": "WeLiveSecurity",
             "title": "Faking it on the phone: How to tell if a voice call is AI or not",
             "link": "https://www.welivesecurity.com/en/business-security/faking-it-phone-how-tell-voice-call-ai/",
@@ -485,13 +513,6 @@
             "published_utc": "2026-02-20T14:45:54+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "PayPal discloses data breach that exposed user info for 6 months",
-            "link": "https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/",
-            "summary": "PayPal is notifying customers of a data breach after a software error in a loan application exposed their sensitive personal information, including So...",
-            "published_utc": "2026-02-20T13:12:01+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "KI und Komplexität als Brandbeschleuniger für Cyberkriminelle",
             "link": "https://www.csoonline.com/article/4135199/ki-und-komplexitat-als-brandbeschleuniger-fur-cyberkriminelle.html",
@@ -511,13 +532,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/02/ring-cancels-its-partnership-with-flock.html",
             "summary": "",
             "published_utc": "2026-02-20T12:08:51+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Mississippi medical center closes all clinics after ransomware attack",
-            "link": "https://www.bleepingcomputer.com/news/security/university-of-mississippi-medical-center-closes-clinics-after-ransomware-attack/",
-            "summary": "The University of Mississippi Medical Center (UMMC) closed all its clinic locations statewide on Thursday following a ransomware attack. [...]",
-            "published_utc": "2026-02-20T11:50:14+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2774,13 +2788,6 @@
             "published_utc": "2025-12-08T11:43:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "React2Shell Under Active Exploitation by China-Nexus Hackers",
-            "link": "https://www.infosecurity-magazine.com/news/react2shell-under-active/",
-            "summary": "React2Shell (CVE-2025-55182) is under active exploitation by Earth Lamia and Jackpot Panda, risking over two million instances worldwide",
-            "published_utc": "2025-12-08T11:40:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "Phishing, privileges and passwords: Why identity is critical to improving cybersecurity posture",
             "link": "https://www.welivesecurity.com/en/business-security/phishing-privileges-passwords-identity-cybersecurity-posture/",
@@ -3493,13 +3500,6 @@
             "link": "https://threatpost.com/firewall-bug-under-active-attack-cisa-warning/180467/",
             "summary": "CISA is warning that Palo Alto Networks’ PAN-OS is under active attack and needs to be patched ASAP.",
             "published_utc": "2022-08-23T13:19:58+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Fake Reservation Links Prey on Weary Travelers",
-            "link": "https://threatpost.com/reservation-links-prey-on-travelers/180462/",
-            "summary": "Fake travel reservations are exacting more pain from the travel weary, already dealing with the misery of canceled flights and overbooked hotels.",
-            "published_utc": "2022-08-22T13:59:06+00:00"
         }
     ]
 }
