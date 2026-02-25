@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2026-02-25T11:41:33.995897+00:00",
+    "lastUpdatedUTC": "2026-02-25T13:09:08.145598+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Ex-US Defense Contractor Executive Jailed for Selling Exploits to Russia",
+            "link": "https://www.securityweek.com/ex-us-defense-contractor-executive-jailed-for-selling-exploits-to-russia/",
+            "summary": "",
+            "published_utc": "2026-02-25T12:59:30+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The once beloved PCLinuxOS is back - and it's still a great Windows escape",
+            "link": "https://www.zdnet.com/article/pclinuxos-linux-distro-review-comeback/",
+            "summary": "There's another Linux distribution that's ready to welcome Windows users with open arms, only this one has been around for a long time.",
+            "published_utc": "2026-02-25T12:59:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Zyxel warns of critical RCE flaw affecting over a dozen routers",
+            "link": "https://www.bleepingcomputer.com/news/security/zyxel-warns-of-critical-rce-flaw-affecting-over-a-dozen-routers/",
+            "summary": "Taiwan networking provider Zyxel has released security updates to address a critical vulnerability affecting over a dozen router models that can allow...",
+            "published_utc": "2026-02-25T12:53:02+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Over 12 Million Users Impacted by CarGurus Data Breach",
+            "link": "https://www.securityweek.com/over-12-million-users-impacted-by-cargurus-data-breach/",
+            "summary": "",
+            "published_utc": "2026-02-25T12:30:00+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Poisoning AI Training Data",
+            "link": "https://www.schneier.com/blog/archives/2026/02/poisoning-ai-training-data.html",
+            "summary": "",
+            "published_utc": "2026-02-25T12:01:23+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "SecurityWeek Report: 426 Cybersecurity M&A Deals Announced in 2025",
+            "link": "https://www.securityweek.com/securityweek-report-426-cybersecurity-ma-deals-announced-in-2025/",
+            "summary": "",
+            "published_utc": "2026-02-25T12:00:00+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Wynn Resorts Confirms Data Breach After Hackers Remove It From Leak Site",
@@ -98,13 +140,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/ex-l3harris-exec-jailed-for-selling-zero-days-to-russian-exploit-broker/",
             "summary": "The former head of Trenchant, a specialized U.S. defense contractor unit, was sentenced Tuesday to more than seven years in federal prison for stealin...",
             "published_utc": "2026-02-25T08:21:40+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "One of my old favorite Linux distros is back - and it's still a great Windows escape",
-            "link": "https://www.zdnet.com/article/pclinux-was-once-a-darling-distro-that-could-be-primed-to-make-a-comeback/",
-            "summary": "There's another Linux distribution that's ready to welcome Windows users with open arms, only this one has been around for a long time.",
-            "published_utc": "2026-02-25T08:00:41+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -394,20 +429,6 @@
             "published_utc": "2026-02-24T14:30:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "CISO Conversations: Timothy Youngblood; 4x Fortune 500 CISO/CSO",
-            "link": "https://www.securityweek.com/ciso-conversations-timothy-youngblood-4x-fortune-500-ciso-cso/",
-            "summary": "",
-            "published_utc": "2026-02-24T14:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "New ‘Sandworm_Mode’ Supply Chain Attack Hits NPM",
-            "link": "https://www.securityweek.com/new-sandworm_mode-supply-chain-attack-hits-npm/",
-            "summary": "",
-            "published_utc": "2026-02-24T13:40:35+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Critical SolarWinds Serv-U flaws offer root access to servers",
             "link": "https://www.bleepingcomputer.com/news/security/critical-solarwinds-serv-u-flaws-offer-root-access-to-servers/",
@@ -420,13 +441,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ai-accelerates-attack-breakout/",
             "summary": "ReliaQuest claims AI has reduced breakout and exfiltration time to under 10 minutes",
             "published_utc": "2026-02-24T13:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "GitHub Issues Abused in Copilot Attack Leading to Repository Takeover",
-            "link": "https://www.securityweek.com/github-issues-abused-in-copilot-attack-leading-to-repository-takeover/",
-            "summary": "",
-            "published_utc": "2026-02-24T12:26:53+00:00"
         },
         {
             "source": "Schneier",
@@ -511,13 +525,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/android-mental-health-apps-with-147m-installs-filled-with-security-flaws/",
             "summary": "Several mental health mobile apps with millions of downloads on Google Play contain security vulnerabilities that could expose users' sensitive medica...",
             "published_utc": "2026-02-23T22:59:04+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Spain arrests suspected hacktivists for DDoSing govt sites",
-            "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-anonymous-fenix-hacktivists-for-ddosing-govt-sites/",
-            "summary": "Spanish authorities have arrested four alleged members of a hacktivist group believed to have carried out cyberattacks targeting government ministries...",
-            "published_utc": "2026-02-23T21:59:42+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -3493,13 +3500,6 @@
             "link": "https://threatpost.com/firewall-bug-under-active-attack-cisa-warning/180467/",
             "summary": "CISA is warning that Palo Alto Networks’ PAN-OS is under active attack and needs to be patched ASAP.",
             "published_utc": "2022-08-23T13:19:58+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Fake Reservation Links Prey on Weary Travelers",
-            "link": "https://threatpost.com/reservation-links-prey-on-travelers/180462/",
-            "summary": "Fake travel reservations are exacting more pain from the travel weary, already dealing with the misery of canceled flights and overbooked hotels.",
-            "published_utc": "2022-08-22T13:59:06+00:00"
         }
     ]
 }
