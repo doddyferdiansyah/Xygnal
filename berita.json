@@ -1,6 +1,20 @@
 {
-    "lastUpdatedUTC": "2026-02-25T21:36:29.368391+00:00",
+    "lastUpdatedUTC": "2026-02-25T22:35:47.286149+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "The Galaxy S26 Ultra might be a lifeline for photography beginners like me",
+            "link": "https://www.zdnet.com/article/samsung-galaxy-s26-ultra-pro-level-camera/",
+            "summary": "The S26 Ultra features improved low-light performance, advanced video tools, and AI tools that might actually make it worthwhile for me.",
+            "published_utc": "2026-02-25T21:50:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Fake Next.js job interview tests backdoor developer's devices",
+            "link": "https://www.bleepingcomputer.com/news/security/fake-nextjs-job-interview-tests-backdoor-developers-devices/",
+            "summary": "The Microsoft Defender team has discovered a coordinated campaign targeting software developers through malicious repositories posing as legitimate Ne...",
+            "published_utc": "2026-02-25T21:47:12+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Samsung Galaxy S26 Ultra vs. iPhone 17 Pro Max: Which premium flagship phone wins?",
@@ -462,13 +476,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/identity-first-ai-security-why-cisos-must-add-intent-to-the-equation/",
             "summary": "AI agents now provision infrastructure and approve actions, but many inherit over-scoped privileges without proper governance. Token Security explains...",
             "published_utc": "2026-02-24T15:02:12+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "UK fines Reddit $19 million for using children’s data unlawfully",
-            "link": "https://www.bleepingcomputer.com/news/security/uk-fines-reddit-19-million-for-using-childrens-data-unlawfully/",
-            "summary": "The UK Information Commissioner's Office (ICO) has fined Reddit £14.47 million (over $19.5 million) for collecting and using the personal information ...",
-            "published_utc": "2026-02-24T14:54:24+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -3493,13 +3500,6 @@
             "link": "https://threatpost.com/twitter-whistleblower-tldr-version/180472/",
             "summary": "Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a n...",
             "published_utc": "2022-08-24T14:17:04+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Firewall Bug Under Active Attack Triggers CISA Warning",
-            "link": "https://threatpost.com/firewall-bug-under-active-attack-cisa-warning/180467/",
-            "summary": "CISA is warning that Palo Alto Networks’ PAN-OS is under active attack and needs to be patched ASAP.",
-            "published_utc": "2022-08-23T13:19:58+00:00"
         }
     ]
 }
