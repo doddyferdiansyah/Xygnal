@@ -1,6 +1,20 @@
 {
-    "lastUpdatedUTC": "2026-02-26T08:52:18.924005+00:00",
+    "lastUpdatedUTC": "2026-02-26T09:53:08.086349+00:00",
     "articles": [
+        {
+            "source": "InfosecurityMag",
+            "title": "Global Cyber Agencies Urge Immediate Patching of Cisco SD-WAN Zero Day",
+            "link": "https://www.infosecurity-magazine.com/news/immediate-patch-cisco-catalyst/",
+            "summary": "The US and allies are urging Cisco Catalyst SD-WAN customers to hunt for signs of exploitation",
+            "published_utc": "2026-02-26T09:30:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Cisco Patches Catalyst SD-WAN Zero-Day Exploited by Highly Sophisticated Hackers",
+            "link": "https://www.securityweek.com/cisco-patches-catalyst-sd-wan-zero-day-exploited-by-highly-sophisticated-hackers/",
+            "summary": "",
+            "published_utc": "2026-02-26T09:18:43+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "5 trends that should top CISO’s RSA 2026 agendas",
@@ -329,13 +343,6 @@
             "link": "https://www.infosecurity-magazine.com/news/defense-contractor-boss-7-years/",
             "summary": "A former general manager of a US defense contractor has been sentenced after selling zero days to Russia",
             "published_utc": "2026-02-25T10:30:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Reddit Hit With $20 Million UK Data Privacy Fine Over Child Safety Failings",
-            "link": "https://www.securityweek.com/reddit-hit-with-20-million-uk-data-privacy-fine-over-child-safety-failings/",
-            "summary": "",
-            "published_utc": "2026-02-25T10:04:16+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -3493,13 +3500,6 @@
             "link": "https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/",
             "summary": "Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed.",
             "published_utc": "2022-08-25T18:47:15+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Twitter Whistleblower Complaint: The TL;DR Version",
-            "link": "https://threatpost.com/twitter-whistleblower-tldr-version/180472/",
-            "summary": "Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a n...",
-            "published_utc": "2022-08-24T14:17:04+00:00"
         }
     ]
 }
