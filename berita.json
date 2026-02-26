@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2026-02-26T15:55:06.409000+00:00",
+    "lastUpdatedUTC": "2026-02-26T17:00:56.847594+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Critical Juniper Networks PTX flaw allows full router takeover",
+            "link": "https://www.bleepingcomputer.com/news/security/critical-juniper-networks-ptx-flaw-allows-full-router-takeover/",
+            "summary": "A critical vulnerability in the Junos OS Evolved network operating system running on PTX Series routers from Juniper Networks could allow an unauthent...",
+            "published_utc": "2026-02-26T16:42:12+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Your smart home may be at risk - 6 ways experts protect your devices from attacks",
+            "link": "https://www.zdnet.com/article/what-is-smart-home-hacking-expert-prevention-methods/",
+            "summary": "Locking down your smart home is about reducing entry points - here's how to do it right.",
+            "published_utc": "2026-02-26T16:34:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Olympique Marseille confirms 'attempted' cyberattack after data leak",
+            "link": "https://www.bleepingcomputer.com/news/security/olympique-marseille-football-club-confirms-cyberattack-after-data-leak/",
+            "summary": "French professional football club Olympique de Marseille has confirmed a cyberattack after a threat actor claimed on Monday that it breached the club'...",
+            "published_utc": "2026-02-26T16:11:30+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Aeternum Botnet Shifts Command Control to Polygon Blockchain",
+            "link": "https://www.infosecurity-magazine.com/news/aeternum-botnet-c2-polygon/",
+            "summary": "New botnet Aeternum shifted C2 operations to Polygon blockchain, complicating takedown efforts",
+            "published_utc": "2026-02-26T16:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Is 0patch legit? My verdict after months of testing on my outdated Windows 10 PC",
+            "link": "https://www.zdnet.com/article/0patch-review/",
+            "summary": "0patch provides crucial security updates for Windows 10 and fills the support gap left by Microsoft. Here's how my experience with it has been.",
+            "published_utc": "2026-02-26T15:58:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How the rise of AI-native software could give SMBs enterprise-level power",
+            "link": "https://www.zdnet.com/article/ai-native-software-and-small-business/",
+            "summary": "Just as cloud-native vendors flooded the market a decade ago, we may be on the cusp of a new wave of AI-based applications. Here's why that could be a...",
+            "published_utc": "2026-02-26T15:55:30+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "How to make your GNOME desktop look like Windows 11 (if that's your jam)",
@@ -268,27 +310,6 @@
             "published_utc": "2026-02-26T02:26:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "5 phones you should seriously consider instead of the Samsung Galaxy S26 Ultra",
-            "link": "https://www.zdnet.com/article/5-phones-you-should-buy-instead-galaxy-s26-ultra/",
-            "summary": "The Galaxy S26 Ultra delivers strong performance and new privacy tools, but its steep price will make these alternatives look better.",
-            "published_utc": "2026-02-26T02:15:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How to preorder the Samsung Galaxy S26 Ultra (and other models) - plus the best deals",
-            "link": "https://www.zdnet.com/article/how-to-preorder-the-samsung-galaxy-s26-series-and-the-new-galaxy-buds-4-pro/",
-            "summary": "Samsung has unveiled the new Galaxy S26 series and the Galaxy Buds 4. We found where you can preorder the new devices and see all the deals available.",
-            "published_utc": "2026-02-26T02:11:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The best AT&T deal for the Samsung Galaxy S26 Ultra I found can save you up to $1,300",
-            "link": "https://www.zdnet.com/article/samsung-galaxy-s26-ultra-att-preorder-deal/",
-            "summary": "Samsung's new Galaxy S26 lineup just dropped, and AT&amp;T wants you to upgrade your phone for 'free.' Here's the catch.",
-            "published_utc": "2026-02-26T02:10:00+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Steaelite RAT combines data theft and ransomware management capability in one tool",
             "link": "https://www.csoonline.com/article/4137527/steaelite-rat-combines-data-theft-and-ransomware-management-capability-in-one-tool.html",
@@ -499,13 +520,6 @@
             "published_utc": "2026-02-25T01:04:20+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Phishing campaign targets freight and logistics orgs in the US, Europe",
-            "link": "https://www.bleepingcomputer.com/news/security/phishing-campaign-targets-freight-and-logistics-orgs-in-the-us-europe/",
-            "summary": "A financially motivated threat group dubbed \"Diesel Vortex\" is stealing credentials from freight and logistics operators in the U.S. and Europe in phi...",
-            "published_utc": "2026-02-24T23:57:58+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "Here’s What a Google Subpoena Response Looks Like, Courtesy of the Epstein Files",
             "link": "https://www.wired.com/story/heres-what-a-google-subpoena-response-looks-like-courtesy-of-the-epstein-files/",
@@ -525,13 +539,6 @@
             "link": "https://www.csoonline.com/article/4128947/what-are-the-types-of-ransomware-attacks.html",
             "summary": "",
             "published_utc": "2026-02-24T21:52:59+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Wynn Resorts confirms employee data breach after extortion threat",
-            "link": "https://www.bleepingcomputer.com/news/security/wynn-resorts-confirms-employee-data-breach-after-extortion-threat/",
-            "summary": "Wynn Resorts has confirmed that a hacker stole employee data from its systems after the company was listed on the ShinyHunters extortion gang's data l...",
-            "published_utc": "2026-02-24T21:51:20+00:00"
         },
         {
             "source": "CSO Online",
@@ -2779,13 +2786,6 @@
             "link": "https://www.welivesecurity.com/en/business-security/locks-socs-cat-box-what-schrodinger-can-teach-us-about-cybersecurity/",
             "summary": "If you don’t look inside your environment, you can’t know its true state – and attackers count on that",
             "published_utc": "2025-12-11T10:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "“Cyber Tax” Warning as Two-Fifths of SMBs Raise Prices After Breach",
-            "link": "https://www.infosecurity-magazine.com/news/twofifths-smbs-raise-prices-after/",
-            "summary": "New ITRC research finds 81% of US small businesses suffered a data or security breach in the past year",
-            "published_utc": "2025-12-11T09:45:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
