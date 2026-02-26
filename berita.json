@@ -1,6 +1,20 @@
 {
-    "lastUpdatedUTC": "2026-02-26T20:40:10.745554+00:00",
+    "lastUpdatedUTC": "2026-02-26T21:34:19.992115+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Previously harmless Google API keys now expose Gemini AI data",
+            "link": "https://www.bleepingcomputer.com/news/security/previously-harmless-google-api-keys-now-expose-gemini-ai-data/",
+            "summary": "Google API keys for services like Maps embedded in accessible client-side code could be used to authenticate to the Gemini AI assistant and access pri...",
+            "published_utc": "2026-02-26T20:55:29+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "This AI Agent Is Designed to Not Go Rogue",
+            "link": "https://www.wired.com/story/ironcurtain-ai-agent-security/",
+            "summary": "The new open source project IronCurtain uses a unique method to secure and constrain AI assistant agents before they flip your digital life upside down.",
+            "published_utc": "2026-02-26T20:54:51+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Linux explores new way of authenticating developers and their code - here's how it works",
@@ -13,7 +27,7 @@
             "title": "Why scammers call you and say nothing - and how to respond safely",
             "link": "https://www.zdnet.com/article/why-scammers-call-you-say-nothing-how-to-respond-safely/",
             "summary": "There's a reason scammers don't say anything when they call you, at least not right away. Here's how to deal with these sneaky calls.",
-            "published_utc": "2026-02-26T20:24:30+00:00"
+            "published_utc": "2026-02-26T20:24:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -441,13 +455,6 @@
             "link": "https://www.csoonline.com/article/4137194/microsoft-warns-of-job%e2%80%91themed-repo-lures-targeting-developers-with-multi%e2%80%91stage-backdoors.html",
             "summary": "",
             "published_utc": "2026-02-25T11:10:33+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "US sanctions Russian broker for buying stolen zero-day exploits",
-            "link": "https://www.bleepingcomputer.com/news/security/us-sanctions-russian-exploit-broker-for-buying-stolen-zero-days/",
-            "summary": "The U.S. Treasury Department has sanctioned a Russian exploit broker who bought stolen hacking tools from a former executive of a U.S. defense contrac...",
-            "published_utc": "2026-02-25T10:31:13+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1679,13 +1686,6 @@
             "title": "He Leaked the Secrets of a Southeast Asian Scam Compound. Then He Had to Get Out Alive",
             "link": "https://www.wired.com/story/he-leaked-the-secrets-southeast-asian-scam-compound-then-had-to-get-out-alive/",
             "summary": "A source trapped inside an industrial-scale scamming operation contacted me, determined to expose his captors’ crimes—and then escape. This is his story.",
-            "published_utc": "2026-01-27T11:00:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "Revealed: Leaked Chats Expose the Daily Life of a Scam Compound’s Enslaved Workforce",
-            "link": "https://www.wired.com/story/the-red-bull-leaks/",
-            "summary": "A whistleblower trapped inside a “pig butchering” scam compound gave WIRED a vast trove of its internal materials—including 4,200 pages of messages th...",
             "published_utc": "2026-01-27T11:00:00+00:00"
         },
         {
