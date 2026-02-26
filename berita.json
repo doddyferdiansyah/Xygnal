@@ -1,6 +1,69 @@
 {
-    "lastUpdatedUTC": "2026-02-26T17:00:56.847594+00:00",
+    "lastUpdatedUTC": "2026-02-26T18:55:01.437656+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "Motorola's new smartwatch keeps things simple, but power users may want more",
+            "link": "https://www.zdnet.com/article/moto-watch-review/",
+            "summary": "Developed alongside fitness brand Polar, the Moto Watch is a minimalist wearable with a vibrant OLED screen and very good battery life.",
+            "published_utc": "2026-02-26T18:29:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Samsung Galaxy S26 vs. S24: After comparing both models, here's my take",
+            "link": "https://www.zdnet.com/article/samsung-galaxy-s26-vs-s24-comparison/",
+            "summary": "If you have a Samsung Galaxy S24 or are upgrading from an older phone, you may wonder if the new Galaxy S26 is worth the splurge.",
+            "published_utc": "2026-02-26T18:10:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Anthropic retired a popular AI model and now it's blogging on Substack",
+            "link": "https://www.zdnet.com/article/anthropic-retired-ai-model-blogging-on-substack/",
+            "summary": "The 'philosophical and whimsical' Opus 3 plans to offer a window into the inner world of an AI system.",
+            "published_utc": "2026-02-26T18:08:06+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Apple iPhone and iPad Cleared for Classified NATO Use",
+            "link": "https://www.securityweek.com/apple-iphone-and-ipad-cleared-for-classified-nato-use/",
+            "summary": "",
+            "published_utc": "2026-02-26T18:04:45+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The iPhone in your pocket is now trusted for classified NATO data",
+            "link": "https://www.zdnet.com/article/apple-iphone-ipad-nato-classified-security/",
+            "summary": "NATO approved iOS 26 and iPadOS 26 devices for classified use up to the 'restricted' level, and that's a big deal. Here's why.",
+            "published_utc": "2026-02-26T18:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Trend Micro warns of critical Apex One code execution flaws",
+            "link": "https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-critical-apex-one-rce-vulnerabilities/",
+            "summary": "Trend Micro has patched two critical Apex One vulnerabilities that allow attackers to gain remote code execution (RCE) on vulnerable Windows systems. ...",
+            "published_utc": "2026-02-26T17:58:28+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "European DYI chain ManoMano data breach impacts 38 million customers",
+            "link": "https://www.bleepingcomputer.com/news/security/european-dyi-chain-manomano-data-breach-impacts-38-million-customers/",
+            "summary": "DIY store chain ManoMano is notifying customers of a data breach personal data, which was caused by hackers compromising a third-party service provide...",
+            "published_utc": "2026-02-26T17:35:21+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "YouTube Premium vs. Premium Lite: Why the new cheaper tier may be all you need",
+            "link": "https://www.zdnet.com/article/youtube-premium-vs-premium-lite/",
+            "summary": "Thanks to some big new features available this week, most people only need Premium Lite. Here's why.",
+            "published_utc": "2026-02-26T17:31:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Four Risks Boards Cannot Treat as Background Noise",
+            "link": "https://www.securityweek.com/four-risks-boards-cannot-treat-as-background-noise/",
+            "summary": "",
+            "published_utc": "2026-02-26T17:30:00+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Critical Juniper Networks PTX flaw allows full router takeover",
@@ -112,13 +175,6 @@
             "link": "https://www.zdnet.com/article/best-samsung-tv-settings-to-change/",
             "summary": "Your Samsung TV may function well out of the box, but a few adjustments can make it look and operate even better.",
             "published_utc": "2026-02-26T13:30:58+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "YouTube Premium vs. Premium Lite: Should anyone be paying more at this point?",
-            "link": "https://www.zdnet.com/article/youtube-premium-vs-premium-lite/",
-            "summary": "Thanks to some big new features available this week, most people only need Premium Lite. Here's why.",
-            "published_utc": "2026-02-26T13:30:44+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -240,13 +296,6 @@
             "published_utc": "2026-02-26T10:00:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "How to record an iPhone call (and where and when it's legal to do so)",
-            "link": "https://www.zdnet.com/article/how-to-record-a-phone-call-on-your-iphone/",
-            "summary": "Recording calls on your iPhone is easy. Here's how, and you can even generate a transcript with it.",
-            "published_utc": "2026-02-26T10:00:00+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "Trend Micro Patches Critical Apex One Vulnerabilities",
             "link": "https://www.securityweek.com/trend-micro-patches-critical-apex-one-vulnerabilities/",
@@ -287,27 +336,6 @@
             "link": "https://www.csoonline.com/article/4051211/so-rechtfertigen-sie-ihre-security-investitionen.html",
             "summary": "",
             "published_utc": "2026-02-26T04:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Want your Linux looking more like Windows? KDE Plasma makes it easy - here's how",
-            "link": "https://www.zdnet.com/article/how-to-make-kde-plasma-look-more-like-windows/",
-            "summary": "If you'd like to use Linux, but want to have the good old Windows 11 theme, fear not; with the help of KDE Plasma, you can have that very thing.",
-            "published_utc": "2026-02-26T03:01:07+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "GNOME 50 is a brilliant release - but I had to look twice to see why",
-            "link": "https://www.zdnet.com/article/i-tested-gnome-50-beta-release/",
-            "summary": "This latest (still beta) version of the Linux desktop is faster, smoother, and prettier.",
-            "published_utc": "2026-02-26T03:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Dolby Vision or HDR10+? I compared the popular TV formats to help you decide",
-            "link": "https://www.zdnet.com/article/hdr10-vs-hdr-10-plus-vs-dolby-vision/",
-            "summary": "Split between HDR10, HDR10+, and Dolby Vision content? Here's how to pick the best HDR format for your TV.",
-            "published_utc": "2026-02-26T02:26:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -373,13 +401,6 @@
             "published_utc": "2026-02-25T15:54:44+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "SolarWinds Patches Four Critical Serv-U Vulnerabilities",
-            "link": "https://www.securityweek.com/solarwinds-patches-four-critical-serv-u-vulnerabilities/",
-            "summary": "",
-            "published_utc": "2026-02-25T15:30:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "The OpenClaw Hype: Analysis of Chatter from Open-Source Deep and Dark Web",
             "link": "https://www.bleepingcomputer.com/news/security/the-openclaw-hype-analysis-of-chatter-from-open-source-deep-and-dark-web/",
@@ -392,13 +413,6 @@
             "link": "https://www.infosecurity-magazine.com/news/app-exploits-surge-ai-speeds/",
             "summary": "IBM's 2026 X-Force report reveals 44% rise in cyber-attacks on public apps, driven by AI and flaws",
             "published_utc": "2026-02-25T14:30:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Medical Device Maker UFP Technologies Hit by Cyberattack",
-            "link": "https://www.securityweek.com/medical-device-maker-ufp-technologies-hit-by-cyberattack/",
-            "summary": "",
-            "published_utc": "2026-02-25T13:40:46+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -462,20 +476,6 @@
             "link": "https://www.wired.com/story/how-mexicos-cjng-drug-cartel-embraced-ai-drones-and-social-media/",
             "summary": "Drug kingpin Nemesio “El Mencho” Oseguera Cervantes may be dead, but the Jalisco cartel he ran for years will likely outlive him—thanks, in part, to t...",
             "published_utc": "2026-02-25T09:30:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Ex-L3Harris exec jailed for selling zero-days to Russian exploit broker",
-            "link": "https://www.bleepingcomputer.com/news/security/ex-l3harris-exec-jailed-for-selling-zero-days-to-russian-exploit-broker/",
-            "summary": "The former head of Trenchant, a specialized U.S. defense contractor unit, was sentenced Tuesday to more than seven years in federal prison for stealin...",
-            "published_utc": "2026-02-25T08:21:40+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Windows 11 KB5077241 update improves BitLocker, adds Sysmon tool",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077241-update-improves-bitlocker-adds-sysmon-tool/",
-            "summary": "Microsoft has released the KB5077241 optional cumulative update for Windows 11, which comes with 29 changes, including improvements to BitLocker, a ne...",
-            "published_utc": "2026-02-25T07:51:51+00:00"
         },
         {
             "source": "CSO Online",
