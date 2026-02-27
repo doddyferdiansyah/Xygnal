@@ -1,6 +1,62 @@
 {
-    "lastUpdatedUTC": "2026-02-27T13:03:00.484807+00:00",
+    "lastUpdatedUTC": "2026-02-27T14:39:53.818672+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "What to expect at MWC 2026: Best phones I'm anticipating from Xiaomi, Motorola, and more",
+            "link": "https://www.zdnet.com/article/what-to-expect-at-mwc-2026-best-phones/",
+            "summary": "Mobile World Congress 2026 kicks off next week, but Samsung, Nothing, TCL, and others have already hinted at what's to come in Barcelona.",
+            "published_utc": "2026-02-27T14:21:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "North Korea's APT37 Expands Toolkit to Breach Air-Gapped Networks",
+            "link": "https://www.infosecurity-magazine.com/news/north-korea-apt37-expands-toolkit/",
+            "summary": "The security researchers from Zscaler ThreatLabz have also discovered five new tools deployed by the North Korean hacking group",
+            "published_utc": "2026-02-27T14:15:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I'm a Linux power user, but NixOS has made me rethink what an operating system can be",
+            "link": "https://www.zdnet.com/article/nixos-linux-review/",
+            "summary": "Experienced Linux users looking for a new approach should check out NixOS, which offers a thoughtful design with extensive customization.",
+            "published_utc": "2026-02-27T14:00:39+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "38 Million Allegedly Impacted by ManoMano Data Breach",
+            "link": "https://www.securityweek.com/38-million-allegedly-impacted-by-manomano-data-breach/",
+            "summary": "",
+            "published_utc": "2026-02-27T13:41:27+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "One of the ‘most influential cybersecurity’ roles will pay under $175,000",
+            "link": "https://www.csoonline.com/article/4138526/one-of-the-most-influential-cybersecurity-roles-will-pay-under-175000.html",
+            "summary": "",
+            "published_utc": "2026-02-27T13:32:02+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I bought this bizarre wireless charger for my Apple Watch, and it's already saved me multiple times",
+            "link": "https://www.zdnet.com/article/iniu-apple-watch-power-bank-charger-review/",
+            "summary": "If your Apple Watch is just as important as your iPhone, this snap charger by Iniu is a compelling power solution.",
+            "published_utc": "2026-02-27T13:30:45+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Is Microsoft really spying on you with Windows telemetry?",
+            "link": "https://www.zdnet.com/article/microsoft-spying-windows-telemetry/",
+            "summary": "Some Windows customers are convinced that Microsoft's diagnostic data collection for Windows is a secret spy network. I've been investigating this top...",
+            "published_utc": "2026-02-27T13:27:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "900 Sangoma FreePBX Instances Infected With Web Shells",
+            "link": "https://www.securityweek.com/900-sangoma-freepbx-instances-infected-with-web-shells/",
+            "summary": "",
+            "published_utc": "2026-02-27T13:24:25+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "A month with Lenovo's most powerful ThinkPad changed my mind about work laptops",
@@ -261,32 +317,11 @@
             "published_utc": "2026-02-26T19:42:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Samsung Galaxy S26 vs. S24: After comparing both models, here's my take",
-            "link": "https://www.zdnet.com/article/samsung-galaxy-s26-vs-s24-comparison/",
-            "summary": "If you have a Samsung Galaxy S24 or are upgrading from an older phone, you may wonder if the new Galaxy S26 is worth the splurge.",
-            "published_utc": "2026-02-26T18:10:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Anthropic retired a popular AI model and now it's blogging on Substack",
-            "link": "https://www.zdnet.com/article/anthropic-retired-ai-model-blogging-on-substack/",
-            "summary": "The 'philosophical and whimsical' Opus 3 plans to offer a window into the inner world of an AI system.",
-            "published_utc": "2026-02-26T18:08:06+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "Apple iPhone and iPad Cleared for Classified NATO Use",
             "link": "https://www.securityweek.com/apple-iphone-and-ipad-cleared-for-classified-nato-use/",
             "summary": "",
             "published_utc": "2026-02-26T18:04:45+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The iPhone in your pocket is now trusted for classified NATO data",
-            "link": "https://www.zdnet.com/article/apple-iphone-ipad-nato-classified-security/",
-            "summary": "NATO approved iOS 26 and iPadOS 26 devices for classified use up to the 'restricted' level, and that's a big deal. Here's why.",
-            "published_utc": "2026-02-26T18:00:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -301,13 +336,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/european-dyi-chain-manomano-data-breach-impacts-38-million-customers/",
             "summary": "DIY store chain ManoMano is notifying customers of a data breach personal data, which was caused by hackers compromising a third-party service provide...",
             "published_utc": "2026-02-26T17:35:21+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "YouTube Premium vs. Premium Lite: Why the new cheaper tier may be all you need",
-            "link": "https://www.zdnet.com/article/youtube-premium-vs-premium-lite/",
-            "summary": "Thanks to some big new features available this week, most people only need Premium Lite. Here's why.",
-            "published_utc": "2026-02-26T17:31:00+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -378,20 +406,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/microsoft-expands-windows-restore-to-more-enterprise-devices/",
             "summary": "Microsoft now allows more enterprise users to restore their personal settings and Microsoft Store apps from a previous Windows 11 device. [...]",
             "published_utc": "2026-02-26T13:04:02+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Gambit Security Emerges From Stealth With $61 Million in Funding",
-            "link": "https://www.securityweek.com/gambit-security-emerges-from-stealth-with-61-million-in-funding/",
-            "summary": "",
-            "published_utc": "2026-02-26T12:55:40+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Zyxel Patches Critical Vulnerability in Many Device Models",
-            "link": "https://www.securityweek.com/zyxel-patches-critical-vulnerability-in-many-device-models/",
-            "summary": "",
-            "published_utc": "2026-02-26T12:09:29+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -579,13 +593,6 @@
             "source": "CSO Online",
             "title": "So verändert KI Ihre GRC-Strategie",
             "link": "https://www.csoonline.com/article/4030328/so-verandert-ki-ihre-grc-strategie.html",
-            "summary": "",
-            "published_utc": "2026-02-25T04:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Hacker knackt 600 Firewalls in einem Monat – mit KI",
-            "link": "https://www.csoonline.com/article/4136590/hacker-knackt-600-firewalls-in-einem-monat-mit-ki.html",
             "summary": "",
             "published_utc": "2026-02-25T04:00:00+00:00"
         },
@@ -2772,13 +2779,6 @@
             "link": "https://www.welivesecurity.com/en/business-security/black-hat-europe-2025-reputation-ransomware/",
             "summary": "Being seen as reliable is good for ‘business’ and ransomware groups care about 'brand reputation' just as much as their victims",
             "published_utc": "2025-12-11T16:04:19+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Malware Discovered in 19 Visual Studio Code Extensions",
-            "link": "https://www.infosecurity-magazine.com/news/malware-discovered-in-19-vs-code/",
-            "summary": "A new campaign involving 19 malicious Visual Studio Code extensions used a legitimate npm package to embed malware in dependency folders",
-            "published_utc": "2025-12-11T16:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
