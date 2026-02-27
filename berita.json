@@ -1,6 +1,13 @@
 {
-    "lastUpdatedUTC": "2026-02-27T18:46:59.439529+00:00",
+    "lastUpdatedUTC": "2026-02-27T19:34:46.106365+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "APT37 hackers use new malware to breach air-gapped networks",
+            "link": "https://www.bleepingcomputer.com/news/security/apt37-hackers-use-new-malware-to-breach-air-gapped-networks/",
+            "summary": "North Korean hackers are deploying newly uncovered tools to move data between internet-connected and air-gapped systems, spread via removable drives, ...",
+            "published_utc": "2026-02-27T19:21:25+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Europol-led crackdown on The Com hackers leads to 30 arrests",
@@ -55,7 +62,7 @@
             "title": "Destroyed servers and DoS attacks: What can happen when OpenClaw AI agents interact",
             "link": "https://www.zdnet.com/article/how-ai-agents-create-new-disasters-when-they-interact/",
             "summary": "By testing agent-to-agent interactions, researchers observed catastrophic system failures. Here's why that's bad news for everyone.",
-            "published_utc": "2026-02-27T15:16:10+00:00"
+            "published_utc": "2026-02-27T15:16:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -518,13 +525,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/fake-nextjs-job-interview-tests-backdoor-developers-devices/",
             "summary": "The Microsoft Defender team has discovered a coordinated campaign targeting software developers through malicious repositories posing as legitimate Ne...",
             "published_utc": "2026-02-25T21:47:12+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Critical Cisco SD-WAN bug exploited in zero-day attacks since 2023",
-            "link": "https://www.bleepingcomputer.com/news/security/critical-cisco-sd-wan-bug-exploited-in-zero-day-attacks-since-2023/",
-            "summary": "Cisco is warning that a critical authentication bypass vulnerability in Cisco Catalyst SD-WAN, tracked as CVE-2026-20127, was actively exploited in ze...",
-            "published_utc": "2026-02-25T18:01:51+00:00"
         },
         {
             "source": "InfosecurityMag",
