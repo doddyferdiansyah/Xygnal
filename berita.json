@@ -1,40 +1,68 @@
 {
-    "lastUpdatedUTC": "2026-03-02T19:38:05.857129+00:00",
+    "lastUpdatedUTC": "2026-03-02T20:39:59.703083+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "Lenovo's new PCs offer a glimpse of the future - and it's modular",
+            "link": "https://www.zdnet.com/article/mwc-2026-new-lenovo-laptops/",
+            "summary": "At MWC 2026, Lenovo previewed a mix of new laptops and bold conceptual devices that push the boundaries of personal computing.",
+            "published_utc": "2026-03-02T20:25:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Fake Google Security site uses PWA app to steal credentials, MFA codes",
+            "link": "https://www.bleepingcomputer.com/news/security/fake-google-security-site-uses-pwa-app-to-steal-credentials-mfa-codes/",
+            "summary": "A phishing campaign is using a fake Google Account security page to deliver a web-based app capable of stealing one-time passcodes, harvesting cryptoc...",
+            "published_utc": "2026-03-02T20:23:41+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Ditching ChatGPT for Claude? How to easily transfer your memories and preferences",
+            "link": "https://www.zdnet.com/article/switch-to-claude-ai-import-memories-preferences/",
+            "summary": "Claude AI now lets you copy your memories and preferences from another AI via a straightforward prompt. Here's how you do it.",
+            "published_utc": "2026-03-02T19:59:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Vulnerability monitoring service secures public-sector websites faster",
+            "link": "https://www.csoonline.com/article/4139509/vulnerability-monitoring-service-secures-public-sector-websites-faster.html",
+            "summary": "",
+            "published_utc": "2026-03-02T19:42:03+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Rolling out AI? 5 security tactics your business can't get wrong - and why",
             "link": "https://www.zdnet.com/article/5-ways-to-ensure-great-security-in-an-age-of-ai/",
             "summary": "Here's how the experts have established strong processes and policies to help their organizations secure data and embrace AI services.",
-            "published_utc": "2026-03-02T19:29:08+00:00"
+            "published_utc": "2026-03-02T19:29:00+00:00"
         },
         {
             "source": "ZDNet Security",
             "title": "Why enterprise AI agents could become the ultimate insider threat",
             "link": "https://www.zdnet.com/article/enterprise-ai-agents-insider-threat/",
             "summary": "Generative AI is moving from chatbot to autonomous actor. When agents can launch other agents, spend money, and modify systems, the line between produ...",
-            "published_utc": "2026-03-02T19:29:04+00:00"
+            "published_utc": "2026-03-02T19:29:00+00:00"
         },
         {
             "source": "ZDNet Security",
             "title": "AI threats will get worse: 6 ways to match the tenacity of your digital adversaries",
             "link": "https://www.zdnet.com/article/6-ways-to-counter-ai-cybersecurity-threats/",
             "summary": "Don't wait until AI-enabled deepfakes and malware overwhelm your organization. Experts recommend these aggressive best practices for hardening your de...",
-            "published_utc": "2026-03-02T19:28:55+00:00"
+            "published_utc": "2026-03-02T19:28:00+00:00"
         },
         {
             "source": "ZDNet Security",
             "title": "Will AI make cybersecurity obsolete or is Silicon Valley confabulating again?",
             "link": "https://www.zdnet.com/article/ai-cybersecurity-silicon-valley/",
             "summary": "'If the code developer is offering the code security tool, is that like the fox guarding the hen house?'",
-            "published_utc": "2026-03-02T19:28:47+00:00"
+            "published_utc": "2026-03-02T19:28:00+00:00"
         },
         {
             "source": "ZDNet Security",
             "title": "Why encrypted backups may fail in an AI-driven ransomware era",
             "link": "https://www.zdnet.com/article/encrypted-backups-fail-ai-driven-ransomware/",
             "summary": "Think your encrypted backups are safe? AI-driven ransomware now infiltrates networks, corrupts recovery points, and silently targets backup systems be...",
-            "published_utc": "2026-03-02T19:28:42+00:00"
+            "published_utc": "2026-03-02T19:28:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -205,25 +233,11 @@
             "published_utc": "2026-03-02T14:26:03+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Job hunting? 5 ways you can stand out in 2026 - and beat AI screening tools",
-            "link": "https://www.zdnet.com/article/job-seekers-and-ai-screening-how-to-stand-out/",
-            "summary": "Companies are using AI to filter research results, and professionals are using AI to polish their resumes. Here's how you can beat the algorithms.",
-            "published_utc": "2026-03-02T14:18:24+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "Madison Square Garden Data Breach Confirmed Months After Hacker Attack",
             "link": "https://www.securityweek.com/madison-square-garden-data-breach-confirmed-months-after-hacker-attack/",
             "summary": "",
             "published_utc": "2026-03-02T13:53:26+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "41 hidden Google Maps settings and features every power user should know",
-            "link": "https://www.zdnet.com/article/google-maps-settings-features-tips-tricks/",
-            "summary": "Google Maps does far more than give you directions, if you know where to look.",
-            "published_utc": "2026-03-02T13:25:59+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -492,13 +506,6 @@
             "published_utc": "2026-02-27T13:32:02+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Ukrainian man pleads guilty to running AI-powered fake ID site",
-            "link": "https://www.bleepingcomputer.com/news/security/ukrainian-man-pleads-guilty-to-running-ai-powered-fake-id-site/",
-            "summary": "A Ukrainian man has pleaded guilty to operating OnlyFake, an AI-powered website that generated and sold more than 10,000 photos of fake identification...",
-            "published_utc": "2026-02-27T12:30:07+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Why Tehran’s Two-Tiered Internet Is So Dangerous",
             "link": "https://www.schneier.com/blog/archives/2026/02/why-tehrans-two-tiered-internet-is-so-dangerous.html",
@@ -665,13 +672,6 @@
             "link": "https://www.infosecurity-magazine.com/news/immediate-patch-cisco-catalyst/",
             "summary": "The US and allies are urging Cisco Catalyst SD-WAN customers to hunt for signs of exploitation",
             "published_utc": "2026-02-26T09:30:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "5 trends that should top CISO’s RSA 2026 agendas",
-            "link": "https://www.csoonline.com/article/4136999/5-trends-that-should-top-cisos-rsa-2026-agendas.html",
-            "summary": "",
-            "published_utc": "2026-02-26T07:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
