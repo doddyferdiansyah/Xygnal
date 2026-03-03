@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-03-03T10:41:26.563667+00:00",
+    "lastUpdatedUTC": "2026-03-03T11:34:22.244258+00:00",
     "articles": [
+        {
+            "source": "InfosecurityMag",
+            "title": "Huge “Shadow Layer” of Organizations Hit by Supply Chain Attacks",
+            "link": "https://www.infosecurity-magazine.com/news/shadow-layer-organizations-supply/",
+            "summary": "Black Kite reveals 26,000 unnamed corporate victims linked to 136 third-party breaches",
+            "published_utc": "2026-03-03T11:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Star Citizen game dev discloses breach affecting user data",
+            "link": "https://www.bleepingcomputer.com/news/security/star-citizen-game-dev-discloses-breach-affecting-user-data/",
+            "summary": "Cloud Imperium Games (CIG), the game developer behind Star Citizen and Squadron 42, says attackers breached systems containing some users' personal in...",
+            "published_utc": "2026-03-03T10:50:26+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Vulnerability in MS-Agent AI Framework Can Allow Full System Compromise",
+            "link": "https://www.securityweek.com/vulnerability-in-ms-agent-ai-framework-can-allow-full-system-compromise/",
+            "summary": "",
+            "published_utc": "2026-03-03T10:43:20+00:00"
+        },
         {
             "source": "InfosecurityMag",
             "title": "Iranian Cyber Threat Actor Targets Iraqi Government Officials in AI-Powered Campaign",
@@ -436,13 +457,6 @@
             "published_utc": "2026-03-01T15:23:34+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Hackers Weaponize Claude Code in Mexican Government Cyberattack",
-            "link": "https://www.securityweek.com/hackers-weaponize-claude-code-in-mexican-government-cyberattack/",
-            "summary": "",
-            "published_utc": "2026-03-01T12:30:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "QuickLens Chrome extension steals crypto, shows ClickFix attack",
             "link": "https://www.bleepingcomputer.com/news/security/quicklens-chrome-extension-steals-crypto-shows-clickfix-attack/",
@@ -525,13 +539,6 @@
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-windows-11-batch-file-security-improvements/",
             "summary": "Microsoft is rolling out new Windows 11 Insider Preview builds that improve security and performance during batch file or CMD script execution. [...]",
             "published_utc": "2026-02-27T20:00:27+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "APT37 hackers use new malware to breach air-gapped networks",
-            "link": "https://www.bleepingcomputer.com/news/security/apt37-hackers-use-new-malware-to-breach-air-gapped-networks/",
-            "summary": "North Korean hackers are deploying newly uncovered tools to move data between internet-connected and air-gapped systems, spread via removable drives, ...",
-            "published_utc": "2026-02-27T19:21:25+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2765,13 +2772,6 @@
             "link": "https://www.infosecurity-magazine.com/news/russian-phishing-phantom-stealer/",
             "summary": "A new phishing campaign has been identified, delivering the Phantom information-stealing malware via an ISO attachment",
             "published_utc": "2025-12-15T16:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Asahi to Launch Cybersecurity Overhaul After Crippling Cyber-Attack",
-            "link": "https://www.infosecurity-magazine.com/news/asahi-launch-cybersecurity/",
-            "summary": "Asahi Group’s CEO said he is considering creating a dedicated cyber unit following the ransomware attack that crippled the company",
-            "published_utc": "2025-12-15T11:15:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
