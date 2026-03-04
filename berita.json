@@ -1,6 +1,13 @@
 {
-    "lastUpdatedUTC": "2026-03-04T22:34:14.246724+00:00",
+    "lastUpdatedUTC": "2026-03-04T23:31:59.981431+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Bitwarden adds support for passkey login on Windows 11",
+            "link": "https://www.bleepingcomputer.com/news/security/bitwarden-adds-support-for-passkey-login-on-windows-11/",
+            "summary": "Bitwarden announced support for logging into Windows 11 devices using passkeys stored in the manager's vault, enabling phishing-resistant authenticati...",
+            "published_utc": "2026-03-04T22:34:58+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Mail2Shell zero-click attack lets hackers hijack FreeScout mail servers",
@@ -28,20 +35,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/fake-lastpass-support-email-threads-try-to-steal-vault-passwords/",
             "summary": "Password management software provider LastPass is warning users of a phishing campaign targeting its users with fake unauthorized account access alert...",
             "published_utc": "2026-03-04T20:44:21+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Why AI, Zero Trust, and modern security require deep visibility",
-            "link": "https://www.csoonline.com/article/4140747/why-ai-zero-trust-and-modern-security-require-deep-visibility.html",
-            "summary": "",
-            "published_utc": "2026-03-04T19:32:24+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "The 10-hour problem: How visibility gaps are burning out the SOC",
-            "link": "https://www.csoonline.com/article/4140738/the-10-hour-problem-how-visibility-gaps-are-burning-out-the-soc.html",
-            "summary": "",
-            "published_utc": "2026-03-04T19:23:21+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -408,13 +401,6 @@
             "published_utc": "2026-03-03T19:01:35+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Google Chrome shifts to two-week release cycle for increased stability",
-            "link": "https://www.bleepingcomputer.com/news/security/google-chrome-shifts-to-two-week-release-cycle-for-increased-stability/",
-            "summary": "Google Chrome will shift from a four-week to a two-week release cycle to roll out new features, bug fixes, and performance improvements more frequentl...",
-            "published_utc": "2026-03-03T17:00:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Israel: RedAlert Spyware Campaign Exploits Wartime Panic With Trojanized App",
             "link": "https://www.infosecurity-magazine.com/news/redalert-israel-spyware-campaign/",
@@ -681,11 +667,25 @@
             "published_utc": "2026-02-27T21:36:37+00:00"
         },
         {
+            "source": "CSO Online",
+            "title": "‘Silent’ Google API key change exposed Gemini AI data",
+            "link": "https://www.csoonline.com/article/4138749/silent-google-api-key-change-exposed-gemini-ai-data.html",
+            "summary": "",
+            "published_utc": "2026-02-27T20:40:07+00:00"
+        },
+        {
             "source": "InfosecurityMag",
             "title": "North Korea's APT37 Expands Toolkit to Breach Air-Gapped Networks",
             "link": "https://www.infosecurity-magazine.com/news/north-korea-apt37-expands-toolkit/",
             "summary": "The security researchers from Zscaler ThreatLabz have also discovered five new tools deployed by the North Korean hacking group",
             "published_utc": "2026-02-27T14:15:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "One of the ‘most influential cybersecurity’ roles will pay under $175,000",
+            "link": "https://www.csoonline.com/article/4138526/one-of-the-most-influential-cybersecurity-roles-will-pay-under-175000.html",
+            "summary": "",
+            "published_utc": "2026-02-27T13:32:02+00:00"
         },
         {
             "source": "Schneier",
