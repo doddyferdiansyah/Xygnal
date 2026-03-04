@@ -1,6 +1,62 @@
 {
-    "lastUpdatedUTC": "2026-03-04T11:31:59.508142+00:00",
+    "lastUpdatedUTC": "2026-03-04T13:00:27.168216+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "How Pirated Software Turns Helpful Employees Into Malware Delivery Agents",
+            "link": "https://www.securityweek.com/how-pirated-software-turns-helpful-employees-into-malware-delivery-agents/",
+            "summary": "",
+            "published_utc": "2026-03-04T12:48:16+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "AI Security Firm JetStream Launches With $34 Million in Seed Funding",
+            "link": "https://www.securityweek.com/ai-security-firm-jetstream-launches-with-34-million-in-seed-funding/",
+            "summary": "",
+            "published_utc": "2026-03-04T12:43:17+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Manipulating AI Summarization Features",
+            "link": "https://www.schneier.com/blog/archives/2026/03/manipulating-ai-summarization-features.html",
+            "summary": "",
+            "published_utc": "2026-03-04T12:06:01+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "LastPass Warns of New Phishing Campaign",
+            "link": "https://www.securityweek.com/lastpass-warns-of-new-phishing-campaign/",
+            "summary": "",
+            "published_utc": "2026-03-04T12:04:30+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Best of MWC 2026: We found the biggest news from Lenovo, Xiaomi, Honor, more",
+            "link": "https://www.zdnet.com/article/mwc-03-04-26-live-blog/",
+            "summary": "Mobile World Congress is almost over, and we're covering all the key announcements on phones, laptops, concepts, and more.",
+            "published_utc": "2026-03-04T12:00:54+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Webinar Today: Designing an OT SOC for Safety, Reliability, and Business Continuity",
+            "link": "https://www.securityweek.com/webinar-today-designing-an-ot-soc-for-safety-reliability-and-business-continuity/",
+            "summary": "",
+            "published_utc": "2026-03-04T12:00:00+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "How Vulnerable Are Computers to an 80-Year-Old Spy Technique? Congress Wants Answers",
+            "link": "https://www.wired.com/story/how-vulnerable-are-computers-to-an-80-year-old-spy-technique-congress-wants-answers/",
+            "summary": "A pair of US lawmakers are calling for an investigation into how easily spies can steal information based on devices’ electromagnetic and acoustic lea...",
+            "published_utc": "2026-03-04T12:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Google Plans Two-Week Release Schedule for Chrome",
+            "link": "https://www.securityweek.com/google-plans-two-week-release-schedule-for-chrome/",
+            "summary": "",
+            "published_utc": "2026-03-04T11:52:04+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Optimum will give you fiber internet for $25 a month - here's how to qualify",
@@ -112,13 +168,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-vmware-aria-operations-rce-flaw-as-exploited-in-attacks/",
             "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a VMware Aria Operations vulnerability tracked as CVE-2026-22719 to its Kno...",
             "published_utc": "2026-03-03T23:40:37+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Best of MWC 2026: We found the biggest news from Lenovo, Xiaomi, Honor, more",
-            "link": "https://www.zdnet.com/article/mwc-03-03-26-live-blog/",
-            "summary": "It's Mobile World Congress week, and we've got a full slate of announcements to go over, from phones to laptops to all the concepts.",
-            "published_utc": "2026-03-03T23:03:40+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -233,13 +282,6 @@
             "published_utc": "2026-03-03T15:30:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Honeywell, Researcher Clash Over Impact of Building Controller Vulnerability",
-            "link": "https://www.securityweek.com/honeywell-researcher-clash-over-impact-of-building-controller-vulnerability/",
-            "summary": "",
-            "published_utc": "2026-03-03T15:28:47+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Compromised Site Management Panels are a Hot Item in Cybercrime Markets",
             "link": "https://www.bleepingcomputer.com/news/security/compromised-site-management-panels-are-a-hot-item-in-cybercrime-markets/",
@@ -261,32 +303,11 @@
             "published_utc": "2026-03-03T14:30:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Quantum Decryption of RSA Is Much Closer Than Expected",
-            "link": "https://www.securityweek.com/quantum-decryption-of-rsa-is-much-closer-than-expected/",
-            "summary": "",
-            "published_utc": "2026-03-03T14:00:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Half of US CISOs Work the Equivalent of a Six-Day Week",
             "link": "https://www.infosecurity-magazine.com/news/half-us-cisos-work-equivalent/",
             "summary": "Seemplicity finds US security leaders work 11 or more extra hours per week",
             "published_utc": "2026-03-03T14:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "New ‘AirSnitch’ Attack Shows Wi-Fi Client Isolation Could Be a False Sense of Security",
-            "link": "https://www.securityweek.com/new-airsnitch-attack-shows-wi-fi-client-isolation-could-be-a-false-sense-of-security/",
-            "summary": "",
-            "published_utc": "2026-03-03T13:49:53+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "1.2 Million Affected by University of Hawaii Cancer Center Data Breach",
-            "link": "https://www.securityweek.com/1-2-million-affected-by-university-of-hawaii-cancer-center-data-breach/",
-            "summary": "",
-            "published_utc": "2026-03-03T13:34:16+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -308,13 +329,6 @@
             "link": "https://www.csoonline.com/article/4139868/jetzt-staats-ciso-werden-fuer-unter-160000-euro.html",
             "summary": "",
             "published_utc": "2026-03-03T12:44:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Android Update Patches Exploited Qualcomm Zero-Day",
-            "link": "https://www.securityweek.com/android-update-patches-exploited-qualcomm-zero-day/",
-            "summary": "",
-            "published_utc": "2026-03-03T12:41:16+00:00"
         },
         {
             "source": "Schneier",
@@ -910,13 +924,6 @@
             "link": "https://www.wired.com/story/narco-submarine-carrying-4-tons-of-cocaine-captured-by-mexicos-navy/",
             "summary": "Following increased surveillance and patrols of routes used by transnational drug-trafficking networks, Mexican authorities have seized approximately ...",
             "published_utc": "2026-02-21T10:00:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Friday Squid Blogging: Squid Cartoon",
-            "link": "https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-squid-cartoon-3.html",
-            "summary": "",
-            "published_utc": "2026-02-20T22:05:15+00:00"
         },
         {
             "source": "WIRED Security",
@@ -2828,13 +2835,6 @@
             "link": "https://www.welivesecurity.com/en/business-security/oversharing-is-not-caring-stake-employees-post-too-much-online/",
             "summary": "From LinkedIn to X, GitHub to Instagram, there are plenty of opportunities to share work-related information. But posting could also get your company ...",
             "published_utc": "2025-12-01T10:00:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "The WIRED Guide to Digital Opsec for Teens",
-            "link": "https://www.wired.com/story/digital-opsec-for-teens/",
-            "summary": "Practicing good “operations security” is essential to staying safe online. Here's a complete guide for teenagers (and anyone else) who wants to button...",
-            "published_utc": "2025-11-29T12:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
