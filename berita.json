@@ -1,6 +1,104 @@
 {
-    "lastUpdatedUTC": "2026-03-04T14:02:30.083164+00:00",
+    "lastUpdatedUTC": "2026-03-04T15:42:59.022133+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Zurich Acquires Beazley in $11 Billion Deal to Lead Cyberinsurance",
+            "link": "https://www.securityweek.com/zurich-acquires-beazley-in-11-billion-deal-to-lead-cyberinsurance/",
+            "summary": "",
+            "published_utc": "2026-03-04T15:36:26+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Mississippi medical center reopens clinics hit by ransomware attack",
+            "link": "https://www.bleepingcomputer.com/news/security/mississippi-medical-center-reopens-clinics-hit-by-ransomware-attack/",
+            "summary": "The University of Mississippi Medical Center (UMMC) says it has resumed normal operations, nine days after a ransomware attack blocked access to elect...",
+            "published_utc": "2026-03-04T15:28:56+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I used Gemini Nano Banana 2 to create sketchnotes - here's what it got right (and hilariously wrong)",
+            "link": "https://www.zdnet.com/article/gemini-nano-banana-sketchnotes/",
+            "summary": "The results were fascinating, impressive, and sometimes surprisingly broken. Here are five lessons I learned that can help you get better results faster.",
+            "published_utc": "2026-03-04T15:10:51+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Everything Apple announced at its March event: The $599 MacBook Neo, M5 Pro, iPad 12, and more",
+            "link": "https://www.zdnet.com/article/apple-march-event-mac-ipad-macbook-neo/",
+            "summary": "Aside from the new MacBook Neo, iPhone 17e, and iPad Air M4, here's what Apple revealed during its big product drop this week.",
+            "published_utc": "2026-03-04T15:04:46+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "How a Brute Force Attack Unmasked a Ransomware Infrastructure Network",
+            "link": "https://www.bleepingcomputer.com/news/security/how-a-brute-force-attack-unmasked-a-ransomware-infrastructure-network/",
+            "summary": "A routine RDP brute-force alert led to unusual credential hunting and a geo-distributed VPN-linked infrastructure. Huntress Labs explains how one comp...",
+            "published_utc": "2026-03-04T15:02:12+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Hacker Conversations: Inti De Ceukelaire, Raging Against the Machine Creatively",
+            "link": "https://www.securityweek.com/hacker-conversations-inti-de-ceukelaire-raging-against-the-machine-creatively/",
+            "summary": "",
+            "published_utc": "2026-03-04T15:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Surge in Attacks on Surveillance Cameras Linked to Iranian Hackers",
+            "link": "https://www.infosecurity-magazine.com/news/iran-attacks-surveillance-cameras/",
+            "summary": "Increased attempts to compromise surveillance cameras linked to Iran during Middle East conflict",
+            "published_utc": "2026-03-04T15:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The best kids' tablets of 2026: Expert tested and parent-reviewed",
+            "link": "https://www.zdnet.com/article/best-kids-tablet/",
+            "summary": "We tested the best kids' tablets to find the most durable, fun-filled picks for travel, learning, and winter downtime.",
+            "published_utc": "2026-03-04T14:56:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The best TVs of 2026: Expert tested and recommended",
+            "link": "https://www.zdnet.com/article/best-tv/",
+            "summary": "I have been writing about TVs and home theater tech for the better part of a decade. These are the best TVs ZDNET has tested from brands like LG, Sams...",
+            "published_utc": "2026-03-04T14:49:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Is that text message spam or legit? This Android tool can tell you real quick",
+            "link": "https://www.zdnet.com/article/how-to-easily-check-whether-chats-or-messages-are-scams-on-android/",
+            "summary": "Are your chats and DMs flooded with suspicious messages? If you have a Pixel or Galaxy phone, there's an easy way to ID the scams.",
+            "published_utc": "2026-03-04T14:44:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Apple's $599 MacBook Neo is here: Is this the budget Mac you've been waiting for?",
+            "link": "https://www.zdnet.com/article/apple-new-599-cheap-macbook-neo/",
+            "summary": "The new affordable MacBook Neo uses the A18 chip found in the iPhone 16 Pro and comes in playful colors.",
+            "published_utc": "2026-03-04T14:36:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Multi-Stage \"BadPaw\" Malware Campaign Targets Ukraine",
+            "link": "https://www.infosecurity-magazine.com/news/badpaw-malware-targets-ukraine/",
+            "summary": "Malware campaign uses Ukrainian email service for credibility, deploying \"BadPaw\" to execute attacks",
+            "published_utc": "2026-03-04T14:30:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How to preorder the iPhone 17e, MacBook Air M5, and other new Apple devices",
+            "link": "https://www.zdnet.com/article/how-to-preorder-iphone-17e-macbook-air-m5-new-apple-devices/",
+            "summary": "Apple's newest devices announced this week are available to preorder now. Here's where to find the best deals.",
+            "published_utc": "2026-03-04T14:15:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Live blog: Every new Apple product and updates from the March event",
+            "link": "https://www.zdnet.com/article/apples-march-event-live-blog-updates/",
+            "summary": "Apple is in release mode, with new Macs and iPads coming in fast. What else will it reveal today? Stay tuned.",
+            "published_utc": "2026-03-04T14:06:00+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "Iranian cyberattacks fail to materialize but threat remains acute",
@@ -107,13 +205,6 @@
             "published_utc": "2026-03-04T07:00:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Is that message spam or real? This Android trick helps you ID the scams",
-            "link": "https://www.zdnet.com/article/how-to-easily-check-whether-chats-or-messages-are-scams-on-android/",
-            "summary": "Are your chats and DMs flooded with scams? If you have a Pixel or Galaxy phone, Circle to Search can come to the rescue. Here's how.",
-            "published_utc": "2026-03-04T03:00:41+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "AI-powered attack kits go open source, and CyberStrikeAI may be just the beginning",
             "link": "https://www.csoonline.com/article/4140221/ai-powered-attack-kits-go-open-source-and-cyberstrikeai-may-be-just-the-beginning.html",
@@ -152,7 +243,7 @@
             "source": "ZDNet Security",
             "title": "The latest Pixel Drop arrives with 8 useful upgrades for your Android phone - what's new",
             "link": "https://www.zdnet.com/article/march-pixel-drop-upgrades-android-devices-whats-new-mwc-2026/",
-            "summary": "Not everything is exclusive to Pixel users. Some of the changes are coming to Android devices, too.",
+            "summary": "Not everything is exclusive to Pixel users. Some of the changes are coming to other Android devices, too.",
             "published_utc": "2026-03-04T01:35:00+00:00"
         },
         {
@@ -205,13 +296,6 @@
             "published_utc": "2026-03-03T19:58:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Iranian Strikes on Amazon Data Centers Highlight Industry’s Vulnerability to Physical Disasters",
-            "link": "https://www.securityweek.com/iranian-strikes-on-amazon-data-centers-highlight-industrys-vulnerability-to-physical-disasters/",
-            "summary": "",
-            "published_utc": "2026-03-03T19:56:24+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "A Possible US Government iPhone-Hacking Toolkit Is Now in the Hands of Foreign Spies and Criminals",
             "link": "https://www.wired.com/story/coruna-iphone-hacking-toolkit-us-government/",
@@ -247,32 +331,11 @@
             "published_utc": "2026-03-03T16:14:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Fig Security Launches With $38 Million to Bolster SecOps Resilience",
-            "link": "https://www.securityweek.com/fig-security-launches-with-38-million-to-bolster-secops-resilience/",
-            "summary": "",
-            "published_utc": "2026-03-03T15:56:25+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Linux PC booting slowly? This handy tool shows why in seconds - here's how",
-            "link": "https://www.zdnet.com/article/linux-boot-time-systemd-analyze/",
-            "summary": "If your Linux machine is taking its own sweet time booting, you have a built-in tool to help discover where the problem lies.",
-            "published_utc": "2026-03-03T15:52:27+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "LexisNexis confirms data breach as hackers leak stolen files",
             "link": "https://www.bleepingcomputer.com/news/security/lexisnexis-confirms-data-breach-as-hackers-leak-stolen-files/",
             "summary": "American data analytics company LexisNexis Legal & Professional has confirmed to BleepingComputer that hackers breached its servers and accessed some ...",
             "published_utc": "2026-03-03T15:40:48+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The new MacBook Air M5 costs $100 more - here's what that gets you",
-            "link": "https://www.zdnet.com/article/apple-macbook-air-m5-price-features-release-date/",
-            "summary": "Apple's thinnest, lightest laptop gets an update for 2026.",
-            "published_utc": "2026-03-03T15:32:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -289,13 +352,6 @@
             "published_utc": "2026-03-03T15:01:11+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Need a microSD? I trust this 1TB card with all my footage - and that says a lot",
-            "link": "https://www.zdnet.com/article/lexar-silver-plus-1tb-microsdxc-card-review/",
-            "summary": "This Lexar 1TB microSD card is fast, durable, and worth every cent. Here's why.",
-            "published_utc": "2026-03-03T14:35:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Leaked Database Sheds Light on Iranian Crypto Sanctions Evasion",
             "link": "https://www.infosecurity-magazine.com/news/iranian-crypto-leaked-database/",
@@ -308,13 +364,6 @@
             "link": "https://www.infosecurity-magazine.com/news/half-us-cisos-work-equivalent/",
             "summary": "Seemplicity finds US security leaders work 11 or more extra hours per week",
             "published_utc": "2026-03-03T14:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I tested Shark's new robot vacuum and mop - and only one thing wasn't perfect",
-            "link": "https://www.zdnet.com/article/shark-uv-reveal-robot-vacuum-mop-review/",
-            "summary": "The Shark UV Reveal is ideal for mostly hard floors and obstacle avoidance. Plus: It's bagless.",
-            "published_utc": "2026-03-03T13:30:12+00:00"
         },
         {
             "source": "CSO Online",
@@ -422,27 +471,6 @@
             "published_utc": "2026-03-03T00:06:39+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Best laptops and PC concepts Lenovo announced at MWC 2026 that surprised our editors",
-            "link": "https://www.zdnet.com/article/every-lenovo-laptop-pc-announced-at-mwc-2026/",
-            "summary": "At Mobile World Congress, Lenovo previewed a mix of new laptops and bold conceptual devices that push the boundaries of personal computing.",
-            "published_utc": "2026-03-02T22:44:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "TCL quietly did something clever with its Nxtpaper phone and AMOLED at MWC",
-            "link": "https://www.zdnet.com/article/tcl-nxtpaper-amoled-phone-hands-on-mwc-2026/",
-            "summary": "The paper-like comfort display is getting the AMOLED treatment, and it's my favorite change to Nxtpaper yet.",
-            "published_utc": "2026-03-02T21:09:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "This robotic camera phone is going viral at MWC, and I can see why",
-            "link": "https://www.zdnet.com/article/honor-robot-phone-hands-on-mwc-2026/",
-            "summary": "The Honor Robot Phone has made a public reappearance, this time with its flagship feature in action.",
-            "published_utc": "2026-03-02T20:48:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Fake Google Security site uses PWA app to steal credentials, MFA codes",
             "link": "https://www.bleepingcomputer.com/news/security/fake-google-security-site-uses-pwa-app-to-steal-credentials-mfa-codes/",
@@ -457,25 +485,11 @@
             "published_utc": "2026-03-02T19:42:03+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Alabama man pleads guilty to hacking, extorting hundreds of women",
-            "link": "https://www.bleepingcomputer.com/news/security/alabama-man-pleads-guilty-to-hacking-extorting-hundreds-of-women/",
-            "summary": "A 22-year-old Alabama man pleaded guilty to extortion, cyberstalking, and computer fraud charges after hijacking the social media accounts of hundreds...",
-            "published_utc": "2026-03-02T18:54:34+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "Attacks on GPS Spike Amid US and Israeli War on Iran",
             "link": "https://www.wired.com/story/gps-attacks-on-ships-spike-amid-the-us-and-israeli-war-on-iran/",
             "summary": "New analysis shows that attacks on satellite navigation systems have impacted some 1,100 ships in the Middle East since the US and Israel attacked Ira...",
             "published_utc": "2026-03-02T18:34:25+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Florida woman imprisoned for massive Microsoft license fraud scheme",
-            "link": "https://www.bleepingcomputer.com/news/security/florida-woman-imprisoned-for-massive-microsoft-license-fraud-scheme/",
-            "summary": "A Florida woman was sentenced to 22 months in prison for running a massive years-long scheme to traffic thousands of stolen Microsoft Certificate of A...",
-            "published_utc": "2026-03-02T17:30:13+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2751,20 +2765,6 @@
             "link": "https://www.infosecurity-magazine.com/news/chinese-ink-dragon-hides-european/",
             "summary": "China’s Ink Dragon is using European government networks to hide its espionage activity",
             "published_utc": "2025-12-17T09:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Urban VPN Proxy Accused of Harvesting AI Chat Conversations",
-            "link": "https://www.infosecurity-magazine.com/news/urban-vpn-proxy-harvesting-ai-chats/",
-            "summary": "The browser extension Urban VPN Proxy has been reportedly collecting users’ AI chat conversations",
-            "published_utc": "2025-12-16T16:45:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "JumpCloud Windows Agent Flaw Enables Local Privilege Escalation",
-            "link": "https://www.infosecurity-magazine.com/news/jumpcloud-windows-agent-flaw/",
-            "summary": "A flaw in JumpCloud Remote Assist for Windows has exposed managed endpoints to local privilege escalation and denial-of-service attacks",
-            "published_utc": "2025-12-16T16:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
