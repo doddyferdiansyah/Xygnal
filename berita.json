@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-03-05T09:45:19.576517+00:00",
+    "lastUpdatedUTC": "2026-03-05T10:41:18.396684+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Cisco flags more SD-WAN flaws as actively exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/cisco-flags-more-sd-wan-flaws-as-actively-exploited-in-attacks/",
+            "summary": "​Cisco has flagged two more Catalyst SD-WAN Manager security flaws as actively exploited in the wild, urging administrators to upgrade vulnerable devi...",
+            "published_utc": "2026-03-05T10:32:19+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "How a Music Streaming CEO Built an Open-Source Global Threat Map in His Spare Time",
+            "link": "https://www.wired.com/story/world-monitor-elie-habib/",
+            "summary": "Frustrated by fragmented war news, Anghami’s Elie Habib built World Monitor, a platform that fuses global data, like aircraft signals and satellite de...",
+            "published_utc": "2026-03-05T10:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Europol Operation Seizes LeakBase Data Breach Site",
+            "link": "https://www.infosecurity-magazine.com/news/europol-seizes-leakbase-data/",
+            "summary": "A global operation has resulted in the takedown of popular cybercrime forum LeakBase",
+            "published_utc": "2026-03-05T09:45:00+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Cisco Patches Critical Vulnerabilities in Enterprise Networking Products",
@@ -434,13 +455,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/paint-maker-giant-akzonobel-confirms-cyberattack-on-us-site/",
             "summary": "The multinational Dutch paint company AkzoNobel has confirmed to BleepingComputer that hackers breached the network of one of its U.S. sites. [...]",
             "published_utc": "2026-03-03T23:00:53+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Facebook accounts unavailable in worldwide outage",
-            "link": "https://www.bleepingcomputer.com/news/technology/facebook-hit-with-worldwide-outage-stating-accounts-are-unavailable/",
-            "summary": "Social media giant Facebook is currently experiencing a massive worldwide outage, preventing users from accessing their accounts. [...]",
-            "published_utc": "2026-03-03T22:38:55+00:00"
         },
         {
             "source": "WIRED Security",
@@ -1575,13 +1589,6 @@
             "link": "https://www.welivesecurity.com/en/scams/offerup-scammers-out-force-heres-what-you-should-know/",
             "summary": "The mobile marketplace app has a growing number of users, but not all of them are genuine. Watch out for these common scams.",
             "published_utc": "2026-02-04T10:00:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "The Paramilitary ICE and CBP Units at the Center of Minnesota's Killings",
-            "link": "https://www.wired.com/story/ice-cbp-srt-bortac-units-immigration-operations/",
-            "summary": "Two agents involved in the shooting deaths of US citizens in Minneapolis are reportedly part of highly militarized DHS units whose extreme tactics are...",
-            "published_utc": "2026-02-03T19:52:29+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2767,20 +2774,6 @@
             "published_utc": "2025-12-17T16:00:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "ISACA Named Global Credentialing Authority for DoD’s CMMC Program",
-            "link": "https://www.infosecurity-magazine.com/news/isaca-credentialing-authority-dods/",
-            "summary": "ISACA has been appointed by the US DoD as the global credentialing authority for its CMMC program",
-            "published_utc": "2025-12-17T14:05:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "US Autoparts Maker LKQ Confirms Oracle EBS Breach",
-            "link": "https://www.infosecurity-magazine.com/news/lkq-confirms-oracle-ebs-breach/",
-            "summary": "LKQ confirmed that over 9000 individuals saw their personal data compromised because of the breach",
-            "published_utc": "2025-12-17T11:00:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "ESET Threat Report H2 2025",
             "link": "https://www.welivesecurity.com/en/eset-research/eset-threat-report-h2-2025/",
@@ -3500,6 +3493,13 @@
             "link": "https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/",
             "summary": "Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed.",
             "published_utc": "2022-08-25T18:47:15+00:00"
+        },
+        {
+            "source": "Threatpost",
+            "title": "Twitter Whistleblower Complaint: The TL;DR Version",
+            "link": "https://threatpost.com/twitter-whistleblower-tldr-version/180472/",
+            "summary": "Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a n...",
+            "published_utc": "2022-08-24T14:17:04+00:00"
         }
     ]
 }
