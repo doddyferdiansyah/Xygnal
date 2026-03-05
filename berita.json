@@ -1,6 +1,55 @@
 {
-    "lastUpdatedUTC": "2026-03-05T15:52:41.418983+00:00",
+    "lastUpdatedUTC": "2026-03-05T18:05:56.950510+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "New GPT-5.4 clobbers humans on pro-level work in OpenAI's tests - by 83%",
+            "link": "https://www.zdnet.com/article/openai-gpt-5-4/",
+            "summary": "GPT-5.4 is also more reliable, producing 18% fewer errors and 33% fewer false claims than GPT-5.2, according to OpenAI.",
+            "published_utc": "2026-03-05T18:00:02+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Does unplugging your TV overnight actually save electricity? Yes, but there's a better method",
+            "link": "https://www.zdnet.com/article/how-to-disable-standby-mode-on-your-tv/",
+            "summary": "Disabling your TV's standby mode is a common piece of online advice, but does it actually affect your energy bill? I break it all down.",
+            "published_utc": "2026-03-05T17:57:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The average tax scam victim loses $1,020 - and they're younger than you'd think",
+            "link": "https://www.zdnet.com/article/tax-scam-irs/",
+            "summary": "Even savvy people can be victims of tax scams. Here are five ways to protect yourself before it's too late.",
+            "published_utc": "2026-03-05T17:45:19+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Israel Hacked Traffic Cameras in Iran",
+            "link": "https://www.schneier.com/blog/archives/2026/03/israel-hacked-traffic-cameras-in-iran.html",
+            "summary": "",
+            "published_utc": "2026-03-05T17:31:53+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Cisco issues emergency patches for critical firewall vulnerabilities",
+            "link": "https://www.csoonline.com/article/4141268/cisco-issues-emergency-patches-for-critical-firewall-vulnerabilities.html",
+            "summary": "",
+            "published_utc": "2026-03-05T17:19:35+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How Roku's new button totally changes the way you watch free, live TV",
+            "link": "https://www.zdnet.com/article/roku-free-tv-search-button/",
+            "summary": "It's now easier than ever to find something specific on Roku's free TV channels.",
+            "published_utc": "2026-03-05T17:18:46+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "AI-Driven Insider Risk Now a “Critical Business Threat,” Report Warns",
+            "link": "https://www.infosecurity-magazine.com/news/ai-insider-risk-critical-business/",
+            "summary": "Malicious insiders are using misusing AI for nefarious gain, while employees cutting corners also creates risk, warns Mimecast",
+            "published_utc": "2026-03-05T16:00:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Verizon will give you the new iPhone 17e for free - no trade-in required",
@@ -289,27 +338,6 @@
             "published_utc": "2026-03-05T00:22:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I tried Tecno's modular phone that's got the internet buzzing - and it got weird quickly",
-            "link": "https://www.zdnet.com/article/tecno-modular-phone-concept-mwc-2026/",
-            "summary": "Tecno's magnetic modular phone introduces some cool concepts, but the execution didn't wow me.",
-            "published_utc": "2026-03-05T00:20:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Why I trust this 1TB microSD card with all my professional footage - and that says a lot",
-            "link": "https://www.zdnet.com/article/lexar-silver-plus-1tb-microsdxc-card-review/",
-            "summary": "This Lexar 1TB microSD card is fast, durable, and worth every cent. Here's why.",
-            "published_utc": "2026-03-05T00:15:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How I converted my Android phone into the perfect bedside clock - and why it makes sense",
-            "link": "https://www.zdnet.com/article/android-phone-bedside-alarm-clock-how-to-set-up/",
-            "summary": "Don't want a traditional alarm clock? Your Android phone can show the time while it charges. Here's how to set it up.",
-            "published_utc": "2026-03-05T00:08:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Bitwarden adds support for passkey login on Windows 11",
             "link": "https://www.bleepingcomputer.com/news/security/bitwarden-adds-support-for-passkey-login-on-windows-11/",
@@ -338,20 +366,6 @@
             "published_utc": "2026-03-04T20:44:21+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Why AI, Zero Trust, and modern security require deep visibility",
-            "link": "https://www.csoonline.com/article/4140747/why-ai-zero-trust-and-modern-security-require-deep-visibility.html",
-            "summary": "",
-            "published_utc": "2026-03-04T19:32:24+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "The 10-hour problem: How visibility gaps are burning out the SOC",
-            "link": "https://www.csoonline.com/article/4140738/the-10-hour-problem-how-visibility-gaps-are-burning-out-the-soc.html",
-            "summary": "",
-            "published_utc": "2026-03-04T19:23:21+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Cisco warns of max severity Secure FMC flaws giving root access",
             "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-max-severity-secure-fmc-flaws-giving-root-access/",
@@ -371,13 +385,6 @@
             "link": "https://www.wired.com/story/how-vulnerable-are-computers-to-an-80-year-old-spy-technique-congress-wants-answers/",
             "summary": "A pair of US lawmakers are calling for an investigation into how easily spies can steal information based on devices’ electromagnetic and acoustic lea...",
             "published_utc": "2026-03-04T19:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Watching Shark's UV Reveal clean my house in real time was addictively satisfying",
-            "link": "https://www.zdnet.com/article/shark-uv-reveal-robot-vacuum-mop-review/",
-            "summary": "The Shark UV Reveal is ideal for mostly hard floors and obstacle avoidance. Plus: It's bagless.",
-            "published_utc": "2026-03-04T18:55:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -667,6 +674,13 @@
             "published_utc": "2026-03-02T11:30:00+00:00"
         },
         {
+            "source": "CSO Online",
+            "title": "Innovation without exposure: A CISO’s secure-by-design framework for business outcomes",
+            "link": "https://www.csoonline.com/article/4138735/innovation-without-exposure-a-cisos-secure-by-design-framework-for-business-outcomes.html",
+            "summary": "",
+            "published_utc": "2026-03-02T11:00:00+00:00"
+        },
+        {
             "source": "InfosecurityMag",
             "title": "Ransomware Payments Decline 8% as Attacks Surge 50%",
             "link": "https://www.infosecurity-magazine.com/news/ransomware-payments-decline-1/",
@@ -910,13 +924,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ai-accelerates-attack-breakout/",
             "summary": "ReliaQuest claims AI has reduced breakout and exfiltration time to under 10 minutes",
             "published_utc": "2026-02-24T13:00:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Is AI Good for Democracy?",
-            "link": "https://www.schneier.com/blog/archives/2026/02/is-ai-good-for-democracy.html",
-            "summary": "",
-            "published_utc": "2026-02-24T12:06:13+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2758,13 +2765,6 @@
             "link": "https://www.infosecurity-magazine.com/news/north-korea-steals-over-2bn-crypto/",
             "summary": "Chainalysis warns North Korea continues to steal billions in crypto for its weapons program",
             "published_utc": "2025-12-18T13:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "New BeaverTail Malware Variant Linked to Lazarus Group",
-            "link": "https://www.infosecurity-magazine.com/news/beavertail-variant-linked-lazarus/",
-            "summary": "A new variant of the BeaverTail malware linked to North Korean hackers has been identified targeting cryptocurrency traders and developers",
-            "published_utc": "2025-12-18T12:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
