@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-03-05T02:12:19.989838+00:00",
+    "lastUpdatedUTC": "2026-03-05T04:46:18.145549+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "Die besten Cyber-Recovery-Lösungen",
+            "link": "https://www.csoonline.com/article/3495970/die-besten-cyber-recovery-anbieter.html",
+            "summary": "",
+            "published_utc": "2026-03-05T04:15:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Nation-State iOS Exploit Kit ‘Coruna’ Found Powering Global Attacks",
+            "link": "https://www.securityweek.com/nation-state-ios-exploit-kit-coruna-found-powering-global-attacks/",
+            "summary": "",
+            "published_utc": "2026-03-05T04:04:17+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Microsoft leads takedown of Tycoon2FA phishing service infrastructure",
+            "link": "https://www.csoonline.com/article/4140890/microsoft-leads-takedown-of-tycoon2fa-phishing-service-infrastructure.html",
+            "summary": "",
+            "published_utc": "2026-03-05T02:34:59+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Bluetooth is working on wireless audio tech I once thought was impossible - what to know",
@@ -345,18 +366,18 @@
             "published_utc": "2026-03-04T11:52:04+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Global Coalition Publishes 6G Security and Resilience Principles",
-            "link": "https://www.securityweek.com/global-coalition-publishes-6g-security-and-resilience-principles/",
-            "summary": "",
-            "published_utc": "2026-03-04T10:57:18+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Calls for Global Digital Estate Standard as Posthumous Deepfake Fraud Risk Grows",
             "link": "https://www.infosecurity-magazine.com/news/digital-estate-post-death-deepfake/",
             "summary": "The OpenID Foundation warns that fragmented policies on posthumous digital accounts could open the door for fraudsters to exploit AI deepfakes",
             "published_utc": "2026-03-04T10:45:00+00:00"
+        },
+        {
+            "source": "WeLiveSecurity",
+            "title": "Protecting education: How MDR can tip the balance in favor of schools",
+            "link": "https://www.welivesecurity.com/en/business-security/protecting-education-how-mdr-can-tip-balance-favor-schools/",
+            "summary": "The education sector is notoriously short on cash, but rich in assets for threat actors to target. How can managed detection and response (MDR) help l...",
+            "published_utc": "2026-03-04T10:00:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -611,13 +632,6 @@
             "published_utc": "2026-03-02T06:00:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Kubernetes Security: Wie Sie Ihre Cluster (besser) absichern",
-            "link": "https://www.csoonline.com/article/3492006/kubernetes-security-wie-sie-ihre-cluster-besser-absichern.html",
-            "summary": "",
-            "published_utc": "2026-03-02T03:47:00+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "The 5 Big ‘Known Unknowns’ of Donald Trump’s New War With Iran",
             "link": "https://www.wired.com/story/5-big-known-unknowns-donald-trump-iran-war/",
@@ -672,13 +686,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-squid-fishing-in-peru.html",
             "summary": "",
             "published_utc": "2026-02-27T22:04:45+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Security hole could let hackers take over Juniper Networks PTX core routers",
-            "link": "https://www.csoonline.com/article/4138788/security-hole-could-let-hackers-take-over-juniper-networks-ptx-core-routers.html",
-            "summary": "",
-            "published_utc": "2026-02-27T21:36:37+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -3493,13 +3500,6 @@
             "link": "https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/",
             "summary": "Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed.",
             "published_utc": "2022-08-25T18:47:15+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Twitter Whistleblower Complaint: The TL;DR Version",
-            "link": "https://threatpost.com/twitter-whistleblower-tldr-version/180472/",
-            "summary": "Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a n...",
-            "published_utc": "2022-08-24T14:17:04+00:00"
         }
     ]
 }
