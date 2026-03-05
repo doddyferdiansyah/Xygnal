@@ -1,19 +1,33 @@
 {
-    "lastUpdatedUTC": "2026-03-05T22:33:36.505081+00:00",
+    "lastUpdatedUTC": "2026-03-05T23:52:17.007210+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "Update: Is Amazon down? Services slowly resuming after customers couldn't check out",
+            "link": "https://www.zdnet.com/article/is-amazon-down/",
+            "summary": "Reports indicate Amazon users are experiencing difficulties checking out and viewing product pages - but are slowly regaining access.",
+            "published_utc": "2026-03-05T23:25:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Chinese state hackers target telcos with new malware toolkit",
+            "link": "https://www.bleepingcomputer.com/news/security/chinese-state-hackers-target-telcos-with-new-malware-toolkit/",
+            "summary": "A China-linked advanced persistent threat actor tracked as UAT-9244 has been targeting telecommunication service providers in South America since 2024...",
+            "published_utc": "2026-03-05T23:19:49+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Bing AI promoted fake OpenClaw GitHub repo pushing info-stealing malware",
+            "link": "https://www.bleepingcomputer.com/news/security/bing-ai-promoted-fake-openclaw-github-repo-pushing-info-stealing-malware/",
+            "summary": "Fake OpenClaw installers hosted in GitHub repositories and promoted by Microsoft Bing's AI-enhanced search feature instructed users to run commands th...",
+            "published_utc": "2026-03-05T22:37:34+00:00"
+        },
         {
             "source": "WIRED Security",
             "title": "Here’s Every Country Directly Impacted by the War on Iran",
             "link": "https://www.wired.com/story/every-country-directly-impacted-by-the-war-on-iran/",
-            "summary": "As the conflict in the Middle East continues to escalate, more than a dozen countries in the region have reportedly been affected by strikes.",
+            "summary": "As the conflict in the Middle East continues to escalate, more than a dozen countries in the region have reportedly been affected by air strikes.",
             "published_utc": "2026-03-05T22:28:33+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Is Amazon down? Why customers can't check out or add to cart - and Amazon's response",
-            "link": "https://www.zdnet.com/article/is-amazon-down/",
-            "summary": "Reports indicate Amazon users are experiencing difficulties checking out and viewing product pages.",
-            "published_utc": "2026-03-05T22:08:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -408,25 +422,11 @@
             "published_utc": "2026-03-04T19:12:43+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Spyware-grade Coruna iOS exploit kit now used in crypto theft attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/spyware-grade-coruna-ios-exploit-kit-now-used-in-crypto-theft-attacks/",
-            "summary": "A previously undocumented set of 23 iOS exploits named \"Coruna\" has been deployed by multiple threat actors in targeted espionage campaigns and financ...",
-            "published_utc": "2026-03-04T19:06:13+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "How Vulnerable Are Computers to an 80-Year-Old Spy Technique? Congress Wants Answers",
             "link": "https://www.wired.com/story/how-vulnerable-are-computers-to-an-80-year-old-spy-technique-congress-wants-answers/",
             "summary": "A pair of US lawmakers are calling for an investigation into how easily spies can steal information based on devices’ electromagnetic and acoustic lea...",
             "published_utc": "2026-03-04T19:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Hacker mass-mails HungerRush extortion emails to restaurant patrons",
-            "link": "https://www.bleepingcomputer.com/news/security/hacker-mass-mails-hungerrush-extortion-emails-to-restaurant-patrons/",
-            "summary": "Customers of restaurants using the HungerRush point-of-sale (POS) platform say they received emails from a threat actor attempting to extort the compa...",
-            "published_utc": "2026-03-04T18:44:14+00:00"
         },
         {
             "source": "SecurityWeek",
