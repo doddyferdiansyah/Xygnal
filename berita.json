@@ -1,6 +1,34 @@
 {
-    "lastUpdatedUTC": "2026-03-06T13:00:03.625897+00:00",
+    "lastUpdatedUTC": "2026-03-06T13:59:33.454616+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "Sick of Microsoft and Google? This new European office suite is a private, open-source alternative",
+            "link": "https://www.zdnet.com/article/europe-open-source-office-suite-alternative-to-microsoft-google/",
+            "summary": "Built on open-source software, this European cloud office suite aims to keep your data out of Microsoft 365 and Google Workspace.",
+            "published_utc": "2026-03-06T13:39:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Targeted advertising is also targeting malware",
+            "link": "https://www.csoonline.com/article/4141784/targeted-advertising-is-also-targeting-malware.html",
+            "summary": "",
+            "published_utc": "2026-03-06T13:28:41+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "CISA Adds iOS Flaws From Coruna Exploit Kit to KEV List",
+            "link": "https://www.securityweek.com/cisa-adds-ios-flaws-from-coruna-exploit-kit-to-kev/",
+            "summary": "",
+            "published_utc": "2026-03-06T13:18:12+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How to disable standby mode on your TV - and does it really save on your electric bill?",
+            "link": "https://www.zdnet.com/article/how-to-disable-standby-mode-on-your-tv/",
+            "summary": "Does unplugging your TV overnight actually save you electricity? Yes, but you might be able to get similar results with less effort. Here's how.",
+            "published_utc": "2026-03-06T13:00:12+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Rockwell Vulnerability Allowing Remote ICS Hacking Exploited in Attacks",
@@ -262,13 +290,6 @@
         },
         {
             "source": "ZDNet Security",
-            "title": "Does unplugging your TV overnight actually save electricity? Yes, but there's a better method",
-            "link": "https://www.zdnet.com/article/how-to-disable-standby-mode-on-your-tv/",
-            "summary": "Disabling your TV's standby mode is a common piece of online advice, but does it actually affect your energy bill? I break it all down.",
-            "published_utc": "2026-03-05T17:57:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
             "title": "The average tax scam victim loses $1,020 - and they're younger than you'd think",
             "link": "https://www.zdnet.com/article/tax-scam-irs/",
             "summary": "Even savvy people can be victims of tax scams. Here are five ways to protect yourself before it's too late.",
@@ -315,13 +336,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/google-says-90-zero-days-were-exploited-in-attacks-last-year/",
             "summary": "Google Threat Intelligence Group (GTIG) tracked 90 zero-day vulnerabilities actively exploited throughout 2025, almost half of them in enterprise soft...",
             "published_utc": "2026-03-05T15:03:43+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I tested Xiaomi's matte-glass tablet for a month, and it's a darn good iPad alternative",
-            "link": "https://www.zdnet.com/article/xiaomi-pad-8-pro-matte-glass-version-review/",
-            "summary": "The Xiaomi Pad 8 Pro Matte Glass variant has an anti-reflective screen, a flagship processor, and upgraded accessories to take on the iPads.",
-            "published_utc": "2026-03-05T15:03:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -422,6 +436,13 @@
             "published_utc": "2026-03-05T10:32:19+00:00"
         },
         {
+            "source": "InfosecurityMag",
+            "title": "Cisco Issues Patches for 48 Vulnerabilities in Enterprise Networking Products",
+            "link": "https://www.infosecurity-magazine.com/news/cisco-issues-patches-48/",
+            "summary": "Two of the 48 Cisco vulnerabilities, affecting Secure Firewall Management Center, are maximum-severity flaws",
+            "published_utc": "2026-03-05T10:30:00+00:00"
+        },
+        {
             "source": "WIRED Security",
             "title": "How a Music Streaming CEO Built an Open-Source Global Threat Map in His Spare Time",
             "link": "https://www.wired.com/story/world-monitor-elie-habib/",
@@ -441,13 +462,6 @@
             "link": "https://www.infosecurity-magazine.com/news/europol-seizes-leakbase-data/",
             "summary": "A global operation has resulted in the takedown of popular cybercrime forum LeakBase",
             "published_utc": "2026-03-05T09:45:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Cisco Patches Critical Vulnerabilities in Enterprise Networking Products",
-            "link": "https://www.securityweek.com/cisco-patches-critical-vulnerabilities-in-enterprise-networking-products/",
-            "summary": "",
-            "published_utc": "2026-03-05T08:50:31+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -658,13 +672,6 @@
             "link": "https://www.infosecurity-magazine.com/news/iran-cyber-threat-actor-iraq/",
             "summary": "Zscaler ThreatLabz assessed with medium to high confidence that an Iranian adversary targeted Iraq’s Ministry of Foreign Affairs in a new cyber-attack",
             "published_utc": "2026-03-03T10:30:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Studie: Hacker legen Betrieb bei vielen Unternehmen lahm",
-            "link": "https://www.csoonline.com/article/4139159/studie-hacker-legen-betrieb-bei-vielen-unternehmen-lahm.html",
-            "summary": "",
-            "published_utc": "2026-03-03T10:00:00+00:00"
         },
         {
             "source": "WIRED Security",
@@ -3493,13 +3500,6 @@
             "link": "https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/",
             "summary": "Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed.",
             "published_utc": "2022-08-25T18:47:15+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Twitter Whistleblower Complaint: The TL;DR Version",
-            "link": "https://threatpost.com/twitter-whistleblower-tldr-version/180472/",
-            "summary": "Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a n...",
-            "published_utc": "2022-08-24T14:17:04+00:00"
         }
     ]
 }
