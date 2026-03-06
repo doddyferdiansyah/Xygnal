@@ -1,6 +1,55 @@
 {
-    "lastUpdatedUTC": "2026-03-06T15:39:20.908700+00:00",
+    "lastUpdatedUTC": "2026-03-06T16:43:19.750739+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "FBI wiretap system tapped by hackers",
+            "link": "https://www.csoonline.com/article/4141870/fbi-wiretap-system-tapped-by-hackers.html",
+            "summary": "",
+            "published_utc": "2026-03-06T16:40:03+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "6 essential strategies to defend against AI-powered threat actors in 2026",
+            "link": "https://www.zdnet.com/article/6-ways-to-counter-ai-cybersecurity-threats/",
+            "summary": "Don't wait until AI-enabled deepfakes and malware overwhelm your organization. Experts recommend these aggressive best practices for hardening your de...",
+            "published_utc": "2026-03-06T16:26:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "OAuth vulnerability in n8n automation platform could lead to system compromise",
+            "link": "https://www.csoonline.com/article/4141867/oauth-vulnerability-in-n8n-automation-platform-could-lead-to-system-compromise.html",
+            "summary": "",
+            "published_utc": "2026-03-06T16:22:51+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "AI agents of chaos? New research shows how bots talking to bots can go sideways fast",
+            "link": "https://www.zdnet.com/article/how-ai-agents-create-new-disasters-when-they-interact/",
+            "summary": "By testing agent-to-agent interactions, researchers observed catastrophic system failures. Here's why that's bad news for everyone.",
+            "published_utc": "2026-03-06T16:18:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "ArmorCode Raises $16 Million for Exposure Management Platform",
+            "link": "https://www.securityweek.com/armorcode-raises-16-million-for-exposure-management-platform/",
+            "summary": "",
+            "published_utc": "2026-03-06T16:06:39+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "CISA warns of Apple flaws exploited in spyware, crypto-theft attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-apple-flaws-exploited-in-spyware-crypto-theft-attacks/",
+            "summary": "CISA ordered U.S. federal agencies to patch three iOS security flaws targeted in cyberespionage and crypto-theft attacks using the Coruna exploit kit....",
+            "published_utc": "2026-03-06T15:57:16+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Can Meta see your private life through its Ray-Ban smart glasses? What to know",
+            "link": "https://www.zdnet.com/article/meta-ray-ban-smart-glasses-privacy-concerns/",
+            "summary": "In 2026, we know to be wary of someone pointing a phone camera at you - but should you now be wary of people wearing glasses?",
+            "published_utc": "2026-03-06T15:47:55+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "In Other News: FBI Hacked, US Security Pro Killed in Iran War, Hijacked Cameras Used in Khamenei Strike",
@@ -104,7 +153,7 @@
             "title": "We surveyed remote workers for their favorite tech gadgets - these 8 top the list",
             "link": "https://www.zdnet.com/article/work-from-home-staff-favorites/",
             "summary": "My ZDNET coworkers shared their top recommendations for work-from-home gear to boost productivity and comfort.",
-            "published_utc": "2026-03-06T12:00:54+00:00"
+            "published_utc": "2026-03-06T12:00:00+00:00"
         },
         {
             "source": "Schneier",
@@ -303,13 +352,6 @@
             "published_utc": "2026-03-05T20:21:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "My new favorite headphones for work look like nothing I've worn before",
-            "link": "https://www.zdnet.com/article/nothing-headphone-a-review/",
-            "summary": "The Nothing Headphone (a) are here, and beyond their distinctive design, they offer fantastic battery life and value for the price.",
-            "published_utc": "2026-03-05T19:45:00+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "The Controversies Finally Caught Up to Kristi Noem",
             "link": "https://www.wired.com/story/the-controversies-finally-caught-up-to-kristi-noem/",
@@ -329,20 +371,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/fbi-arrests-suspect-linked-to-46m-crypto-theft-from-us-marshals/",
             "summary": "​A U.S. government contractor's son, accused of stealing more than $46 million in cryptocurrency from the U.S. Marshals Service, was arrested Wednesda...",
             "published_utc": "2026-03-05T18:36:18+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "OpenAI's new GPT-5.4 clobbers humans on pro-level work in tests - by 83%",
-            "link": "https://www.zdnet.com/article/openai-gpt-5-4/",
-            "summary": "GPT-5.4 is also more reliable, producing 18% fewer errors and 33% fewer false claims than GPT-5.2, according to OpenAI.",
-            "published_utc": "2026-03-05T18:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The average tax scam victim loses $1,020 - and they're younger than you'd think",
-            "link": "https://www.zdnet.com/article/tax-scam-irs/",
-            "summary": "Even savvy people can be victims of tax scams. Here are five ways to protect yourself before it's too late.",
-            "published_utc": "2026-03-05T17:45:00+00:00"
         },
         {
             "source": "Schneier",
@@ -443,13 +471,6 @@
             "published_utc": "2026-03-05T11:28:48+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Reclaim Security Raises $20 Million to Accelerate Remediation",
-            "link": "https://www.securityweek.com/reclaim-security-raises-20-million-to-accelerate-remediation/",
-            "summary": "",
-            "published_utc": "2026-03-05T11:23:04+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Zero-Click FreeScout Bug Enables Remote Code Execution",
             "link": "https://www.infosecurity-magazine.com/news/zeroclick-freescout-bug-remote/",
@@ -490,13 +511,6 @@
             "link": "https://www.infosecurity-magazine.com/news/europol-seizes-leakbase-data/",
             "summary": "A global operation has resulted in the takedown of popular cybercrime forum LeakBase",
             "published_utc": "2026-03-05T09:45:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Phobos ransomware admin pleads guilty to wire fraud conspiracy",
-            "link": "https://www.bleepingcomputer.com/news/security/phobos-ransomware-admin-pleads-guilty-to-wire-fraud-conspiracy/",
-            "summary": "A Russian national pleaded guilty to a wire fraud conspiracy charge related to his role in administering the Phobos ransomware operation, which breach...",
-            "published_utc": "2026-03-05T08:34:42+00:00"
         },
         {
             "source": "CSO Online",
@@ -644,20 +658,6 @@
             "link": "https://www.infosecurity-magazine.com/news/half-us-cisos-work-equivalent/",
             "summary": "Seemplicity finds US security leaders work 11 or more extra hours per week",
             "published_utc": "2026-03-03T14:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "OAuth phishers make ‘check where the link points’ advice ineffective",
-            "link": "https://www.csoonline.com/article/4139872/oauth-phishers-make-check-where-the-link-points-advice-ineffective.html",
-            "summary": "",
-            "published_utc": "2026-03-03T13:00:15+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Jetzt Staats-CISO werden – für unter 160.000 Euro",
-            "link": "https://www.csoonline.com/article/4139868/jetzt-staats-ciso-werden-fuer-unter-160000-euro.html",
-            "summary": "",
-            "published_utc": "2026-03-03T12:44:00+00:00"
         },
         {
             "source": "Schneier",
