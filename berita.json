@@ -1,9 +1,65 @@
 {
-    "lastUpdatedUTC": "2026-03-09T23:30:05.443453+00:00",
+    "lastUpdatedUTC": "2026-03-10T02:08:04.303693+00:00",
     "articles": [
         {
+            "source": "ZDNet Security",
+            "title": "YouTube Premium vs. YouTube Premium Lite: Are the upgrades worth the $6 difference?",
+            "link": "https://www.zdnet.com/article/youtube-premium-vs-youtube-premium-lite/",
+            "summary": "YouTube videos without ads sound great, but you should know about both plans before overpaying for features you don't use.",
+            "published_utc": "2026-03-10T02:00:44+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I tried GPT-5.4, and most answers were really good - but a few had me concerned",
+            "link": "https://www.zdnet.com/article/gpt-5-4-thinking-tests-review/",
+            "summary": "OpenAI claims that GPT-5.4 Thinking can do professional tasks, but I'm not so sure if that's fully accurate.",
+            "published_utc": "2026-03-10T01:15:45+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Switching to Tor Browser on Android turned out to be more useful than I expected",
+            "link": "https://www.zdnet.com/article/tor-browser-android/",
+            "summary": "If you're looking for the safest way to browse on your Android phone, consider the Tor Browser over more popular options.",
+            "published_utc": "2026-03-10T01:01:03+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The good, bad, and ugly of AI healthcare, according to a doctor who uses AI",
+            "link": "https://www.zdnet.com/article/good-bad-ugly-of-ai-healthcare-according-to-a-doctor-who-uses-ai/",
+            "summary": "There's a right way and a wrong way to use AI for health advice. Consider the technology a springboard for conversations with a medical professional.",
+            "published_utc": "2026-03-10T01:00:44+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How to qualify for Apple's education discount - including for the $499 MacBook Neo",
+            "link": "https://www.zdnet.com/article/macbook-neo-499-educational-price-how-to/",
+            "summary": "Apple's budget MacBook Neo just dropped, but if you're an educator or student, you can get one for less than the standard price.",
+            "published_utc": "2026-03-10T00:41:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How I turned my Starlink Mini into the ultimate off-grid internet device - no AC adapter needed",
+            "link": "https://www.zdnet.com/article/xtar-link-mp158-starlink-mini-power-bank-review/",
+            "summary": "The XTAR-Link MP158 power bank makes using the Starlink Mink without a nearby outlet actually viable.",
+            "published_utc": "2026-03-10T00:30:40+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "AI is supercharging cloud cyberattacks - and third-party software is the most vulnerable",
+            "link": "https://www.zdnet.com/article/google-cloud-threat-report-third-party-software-ai-attacks/",
+            "summary": "Google's latest threat report warns that third-party tools are now prime targets for attackers - and businesses have just days to keep them secure.",
+            "published_utc": "2026-03-10T00:00:47+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Shark UV Reveal review: If you took Dyson's laser-vacuuming tech and put it in a robot",
+            "link": "https://www.zdnet.com/article/shark-uv-reveal-robot-vacuum-mop-review/",
+            "summary": "The Shark UV Reveal has proven ideal for most hardwood floors and rooms with plenty of obstacles. Plus: It's bagless.",
+            "published_utc": "2026-03-09T23:45:46+00:00"
+        },
+        {
             "source": "BleepingComputer",
-            "title": "Microsoft Teams phishing targets employees with backdoors",
+            "title": "Microsoft Teams phishing targets employees with A0Backdoor malware",
             "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-phishing-targets-employees-with-backdoors/",
             "summary": "Hackers contacted employees at financial and healthcare organizations over Microsoft Teams to trick them into granting remote access through Quick Ass...",
             "published_utc": "2026-03-09T22:50:38+00:00"
@@ -135,20 +191,6 @@
             "published_utc": "2026-03-09T16:06:19+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I'm a tech professional, and an AI job scam almost fooled me - here's how I caught on",
-            "link": "https://www.zdnet.com/article/ai-job-scams-linkedin/",
-            "summary": "With a bit of vigilance, I avoided an employment disaster. Here's how you can, too.",
-            "published_utc": "2026-03-09T16:00:42+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Apple might launch a new class of 'Ultra' devices in 2026 - including a foldable iPhone",
-            "link": "https://www.zdnet.com/article/apple-ultra-devices-2026-foldable-iphone-touchscreen-macbook/",
-            "summary": "Perhaps Apple's long-rumored touchscreen MacBook will also be an 'Ultra' device.",
-            "published_utc": "2026-03-09T15:57:00+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "Cybersecurity M&A Roundup: 42 Deals Announced in February 2026",
             "link": "https://www.securityweek.com/cybersecurity-ma-roundup-42-deals-announced-in-february-2026/",
@@ -163,13 +205,6 @@
             "published_utc": "2026-03-09T15:45:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I've used Tor browser for years, but now I'm using it on my Android phone - here's why",
-            "link": "https://www.zdnet.com/article/tor-browser-android/",
-            "summary": "If you're looking for the safest way to browse on your Android phone, Tor Browser is it.",
-            "published_utc": "2026-03-09T15:32:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "FBI warns of phishing attacks impersonating US city, county officials",
             "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-phishing-attacks-impersonating-us-city-county-officials/",
@@ -177,39 +212,11 @@
             "published_utc": "2026-03-09T15:30:50+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Getting your Android phone repaired? Turn on this setting first - and lock down your data",
-            "link": "https://www.zdnet.com/article/android-repair-mode-protect-data-during-phone-repair/",
-            "summary": "Repair Mode lets technicians fix your Android phone without seeing your personal files or apps. Here's how.",
-            "published_utc": "2026-03-09T15:25:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Scosche FoundIt review: The first car charger with Apple and Google tracking spoiled me",
-            "link": "https://www.zdnet.com/article/scosche-foundit-car-charger-and-finder-tag-review/",
-            "summary": "The Scosche FoundIt 12V charger has dual USB ports and a built-in finder for Apple Find My and Google Find Hub.",
-            "published_utc": "2026-03-09T15:00:50+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Trump Administration Unveils New Cyber Strategy for America",
             "link": "https://www.infosecurity-magazine.com/news/usa-unveils-new-cyber-strategy/",
             "summary": "US national cyber strategy focuses on stronger defenses, countering threats, fostering innovation",
             "published_utc": "2026-03-09T15:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I tested GPT-5.4, and the answers were really good - just not always what I asked",
-            "link": "https://www.zdnet.com/article/gpt-5-4-thinking-tests-review/",
-            "summary": "I'm a little concerned about OpenAI's claims that GPT-5.4 Thinking can do professional tasks. Here's why.",
-            "published_utc": "2026-03-09T14:42:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "BMX SolidSafe 10K review: This solid-sate battery has so many benefits (and an obvious flaw)",
-            "link": "https://www.zdnet.com/article/bmx-solidsafe-10k-review/",
-            "summary": "The BMX SolidSafe 10K has many advantages over traditional power banks, but it's held back by some clear issues.",
-            "published_utc": "2026-03-09T14:23:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -231,13 +238,6 @@
             "link": "https://www.infosecurity-magazine.com/news/uk-new-crackdown-unit-cyber-fraud/",
             "summary": "New UK Online Crime Centre will combine expertise from a range of sources to takedown online channels cyber-scammers rely on",
             "published_utc": "2026-03-09T14:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Can Meta workers see through your Ray-Ban smart glasses? Here's what security experts say",
-            "link": "https://www.zdnet.com/article/meta-ray-ban-smart-glasses-privacy-concerns/",
-            "summary": "By now, we know to be wary of someone pointing a phone camera at us. But should you now be wary of people wearing glasses?",
-            "published_utc": "2026-03-09T13:58:00+00:00"
         },
         {
             "source": "InfosecurityMag",
