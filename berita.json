@@ -1,6 +1,55 @@
 {
-    "lastUpdatedUTC": "2026-03-10T09:47:10.005558+00:00",
+    "lastUpdatedUTC": "2026-03-10T10:41:23.332918+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft to enable Windows hotpatch security updates by default",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-hotpatch-security-updates-by-default-in-may/",
+            "summary": "Microsoft will turn on hotpatch security updates by default for all eligible Windows devices managed through Microsoft Intune and the Microsoft Graph ...",
+            "published_utc": "2026-03-10T10:35:33+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Don't make these 3 common tablet charging mistakes - here's the right way to do it",
+            "link": "https://www.zdnet.com/article/3-tablet-charging-mistakes-to-avoid/",
+            "summary": "Your tablet is only as good as its battery - here's how to take better care of it.",
+            "published_utc": "2026-03-10T10:00:40+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How to preorder the Samsung Galaxy S26 Ultra (and other models) - plus the best deals",
+            "link": "https://www.zdnet.com/article/how-to-preorder-the-samsung-galaxy-s26-series-and-the-new-galaxy-buds-4-pro/",
+            "summary": "The new Galaxy S26 series and the Galaxy Buds 4 arrive this week. It's your last chance to preorder the new devices and get the best deals.",
+            "published_utc": "2026-03-10T10:00:20+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "APT28 hackers deploy customized variant of Covenant open-source tool",
+            "link": "https://www.bleepingcomputer.com/news/security/apt28-hackers-deploy-customized-variant-of-covenant-open-source-tool/",
+            "summary": "The Russian state-sponsored APT28 threat group is using a custom variant of the open-source Covenant post-exploitation framework for long-term espiona...",
+            "published_utc": "2026-03-10T10:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "ShinyHunters Targets Hundreds of Websites in New Salesforce Campaign",
+            "link": "https://www.infosecurity-magazine.com/news/shinyhunters-hundreds-websites/",
+            "summary": "Prolific ShinyHunters group claims to have stolen data from nearly 400 websites in Experience Cloud attacks",
+            "published_utc": "2026-03-10T10:00:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "The OT security time bomb: Why legacy industrial systems are the biggest cyber risk nobody wants to fix",
+            "link": "https://www.csoonline.com/article/4142548/the-ot-security-time-bomb-why-legacy-industrial-systems-are-the-biggest-cyber-risk-nobody-wants-to-fix.html",
+            "summary": "",
+            "published_utc": "2026-03-10T10:00:00+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Jailbreaking the F-35 Fighter Jet",
+            "link": "https://www.schneier.com/blog/archives/2026/03/jailbreaking-the-f-35-fighter-jet.html",
+            "summary": "",
+            "published_utc": "2026-03-10T09:50:23+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "OpenAI to acquire Promptfoo to strengthen AI agent security testing",
@@ -224,20 +273,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-ongoing-salesforce-aura-data-theft-attacks/",
             "summary": "Salesforce is warning customers that hackers are targeting websites with misconfigured Experience Cloud platforms that give guest users access to more...",
             "published_utc": "2026-03-09T17:12:22+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Amazon will give you a $200 gift card when you preorder the Galaxy S26, plus $400 off: Last chance",
-            "link": "https://www.zdnet.com/article/samsung-galaxy-s26-amazon-deal/",
-            "summary": "Preorder the new Samsung Galaxy S26, S26 Plus, or S26 Ultra from Amazon at a discount, and get a free gift card. We break down the details.",
-            "published_utc": "2026-03-09T16:54:12+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How to save money on YouTube TV: Consider these 12 cheaper packages (including live sports)",
-            "link": "https://www.zdnet.com/article/save-money-on-youtube-tv-choose-from-12-cheaper-packages/",
-            "summary": "The streaming service rolls out a dozen cheaper subscription plans - pick the one that fits your viewing habits.",
-            "published_utc": "2026-03-09T16:52:26+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -492,13 +527,6 @@
             "published_utc": "2026-03-06T20:06:06+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Cognizant TriZetto breach exposes health data of 3.4 million patients",
-            "link": "https://www.bleepingcomputer.com/news/security/cognizant-trizetto-breach-exposes-health-data-of-34-million-patients/",
-            "summary": "TriZetto Provider Solutions, a healthcare IT company that develops software and services used by health insurers and healthcare providers, has suffere...",
-            "published_utc": "2026-03-06T19:50:21+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Only 30 minutes per quarter on cyber risk: Why CISO-board conversations are falling short",
             "link": "https://www.csoonline.com/article/4141873/only-30-minutes-per-quarter-on-cyber-risk-why-ciso-board-conversations-are-falling-short.html",
@@ -525,13 +553,6 @@
             "link": "https://www.csoonline.com/article/4141867/oauth-vulnerability-in-n8n-automation-platform-could-lead-to-system-compromise.html",
             "summary": "",
             "published_utc": "2026-03-06T16:22:51+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "CISA warns feds to patch iOS flaws exploited in crypto-theft attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-apple-flaws-exploited-in-spyware-crypto-theft-attacks/",
-            "summary": "CISA ordered U.S. federal agencies to patch three iOS security flaws targeted in cyberespionage and crypto-theft attacks using the Coruna exploit kit....",
-            "published_utc": "2026-03-06T15:57:16+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -574,13 +595,6 @@
             "link": "https://www.welivesecurity.com/en/business-security/what-cybersecurity-actually-does-for-your-business/",
             "summary": "The ability to continue operating safely in an unsafe environment where competitors cannot is a competitive advantage that is rarely measured or discu...",
             "published_utc": "2026-03-06T10:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Teenage hacker myth primed for a middle-age criminal makeover",
-            "link": "https://www.csoonline.com/article/4141523/teenage-hacker-myth-primed-for-a-middle-age-criminal-makeover.html",
-            "summary": "",
-            "published_utc": "2026-03-06T09:00:00+00:00"
         },
         {
             "source": "WIRED Security",
@@ -889,13 +903,6 @@
             "link": "https://www.wired.com/story/us-iran-strike-donald-trump/",
             "summary": "US president Donald Trump said a “major combat operation” against Iran had begun as he called for the country’s government to be overthrown.",
             "published_utc": "2026-02-28T09:42:54+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Friday Squid Blogging: Squid Fishing in Peru",
-            "link": "https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-squid-fishing-in-peru.html",
-            "summary": "",
-            "published_utc": "2026-02-27T22:04:45+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2772,13 +2779,6 @@
             "link": "https://www.infosecurity-magazine.com/news/surge-fake-delivery-holidays/",
             "summary": "NordVPN has warned that malicious postal service websites have surged by 86% over the past month, targeting holiday delivery tracking",
             "published_utc": "2025-12-22T16:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Monitoring Tool Nezha Abused For Stealthy Post-Exploitation Access",
-            "link": "https://www.infosecurity-magazine.com/news/nezha-abused-post-exploitation/",
-            "summary": "Open-source server monitoring tool, Nezha, is being exploited by attackers for remote system control",
-            "published_utc": "2025-12-22T14:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
