@@ -1,6 +1,69 @@
 {
-    "lastUpdatedUTC": "2026-03-11T13:04:29.774915+00:00",
+    "lastUpdatedUTC": "2026-03-11T14:48:36.433999+00:00",
     "articles": [
+        {
+            "source": "InfosecurityMag",
+            "title": "Compromised WordPress Sites Deliver ClickFix Attacks in Global Infostealer Campaign",
+            "link": "https://www.infosecurity-magazine.com/news/wordpress-clickfix-infostealer/",
+            "summary": "Over 250 legitimate websites, including news outlets and  a US Senate candidate’s official webpage, been compromised to infect visitors with infosteal...",
+            "published_utc": "2026-03-11T14:45:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "BlackSanta EDR-Killer Targets HR Teams in CV-Themed Campaign",
+            "link": "https://www.infosecurity-magazine.com/news/blacksanta-edr-killer-targets-hr/",
+            "summary": "BlackSanta malware targets HR staff with fake resumes, kills EDR and steals system data",
+            "published_utc": "2026-03-11T14:30:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Wiz Joins Google Cloud as Landmark Acquisition Closes",
+            "link": "https://www.securityweek.com/wiz-joins-google-cloud-as-landmark-acquisition-closes/",
+            "summary": "",
+            "published_utc": "2026-03-11T14:25:17+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "CISO Conversations: Aimee Cardwell",
+            "link": "https://www.securityweek.com/ciso-conversations-aimee-cardwell/",
+            "summary": "",
+            "published_utc": "2026-03-11T14:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I was a phone addict: These 7 tricks stopped me scrolling and curbed my screen time - fast",
+            "link": "https://www.zdnet.com/article/how-to-reduce-screen-time-stop-scrolling-break-phone-addicton/",
+            "summary": "I went from 13 hours of screen time to about an hour a day on my phone. Here's how.",
+            "published_utc": "2026-03-11T13:42:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Researchers Discover Major Security Gaps in LLM Guardrails",
+            "link": "https://www.infosecurity-magazine.com/news/major-security-gaps-llm-guardrails/",
+            "summary": "Palo Alto Networks’ Unit 42 has developed a successful attack to bypass safety guardrails in popular generative AI tools",
+            "published_utc": "2026-03-11T13:35:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "238,000 Impacted by Bell Ambulance Data Breach",
+            "link": "https://www.securityweek.com/238000-impacted-by-bell-ambulance-data-breach/",
+            "summary": "",
+            "published_utc": "2026-03-11T13:34:17+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Meta adds new WhatsApp, Facebook, and Messenger anti-scam tools",
+            "link": "https://www.bleepingcomputer.com/news/security/meta-adds-new-whatsapp-facebook-and-messenger-anti-scam-tools/",
+            "summary": "Meta is introducing new anti-scam protections across its platforms, deploying systems and user-facing warnings to protect users against scammers. [...]",
+            "published_utc": "2026-03-11T13:29:29+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Scanner Raises $22 Million for AI-Powered Threat Hunting",
+            "link": "https://www.securityweek.com/scanner-raises-22-million-for-ai-powered-threat-hunting/",
+            "summary": "",
+            "published_utc": "2026-03-11T13:16:46+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "I switched password managers without losing a single login - here's how",
@@ -27,7 +90,7 @@
             "title": "How to enable Advanced Protection on your Android phone - and why it's critical to do so",
             "link": "https://www.zdnet.com/article/how-to-turn-on-advanced-protection-android-16-phone/",
             "summary": "One of Google's most critical features is hidden behind a single setting. Turn it on to protect against theft, scams, spam, and more.",
-            "published_utc": "2026-03-11T12:30:44+00:00"
+            "published_utc": "2026-03-11T12:30:00+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -226,13 +289,6 @@
             "published_utc": "2026-03-11T09:00:41+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Moxa, Mitsubishi Electric",
-            "link": "https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-moxa-mitsubishi-electric/",
-            "summary": "",
-            "published_utc": "2026-03-11T07:51:18+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "12 ways attackers abuse cloud services to hack your enterprise",
             "link": "https://www.csoonline.com/article/4142001/12-ways-attackers-abuse-cloud-services-to-hack-your-enterprise.html",
@@ -338,13 +394,6 @@
             "published_utc": "2026-03-10T19:18:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Microsoft Patches 83 Vulnerabilities",
-            "link": "https://www.securityweek.com/microsoft-patches-83-vulnerabilities/",
-            "summary": "",
-            "published_utc": "2026-03-10T19:12:21+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Microsoft releases Windows 10 KB5078885 extended security update",
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5078885-extended-security-update/",
@@ -359,25 +408,11 @@
             "published_utc": "2026-03-10T18:23:28+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Adobe Patches 80 Vulnerabilities Across Eight Products",
-            "link": "https://www.securityweek.com/adobe-patches-80-vulnerabilities-across-eight-products/",
-            "summary": "",
-            "published_utc": "2026-03-10T18:22:40+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Microsoft March 2026 Patch Tuesday fixes 2 zero-days, 79 flaws",
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-march-2026-patch-tuesday-fixes-2-zero-days-79-flaws/",
             "summary": "Today is Microsoft's March 2026 Patch Tuesday with security updates for 79 flaws, including 2 publicly disclosed zero-day vulnerabilities. [...]",
             "published_utc": "2026-03-10T17:49:51+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Jazz Emerges From Stealth With $61M in Funding for AI-Powered DLP",
-            "link": "https://www.securityweek.com/jazz-emerges-from-stealth-with-61m-in-funding-for-ai-powered-dlp/",
-            "summary": "",
-            "published_utc": "2026-03-10T17:45:32+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -399,13 +434,6 @@
             "link": "https://www.infosecurity-magazine.com/news/openai-promptfoo-deal-agentic-ai/",
             "summary": "OpenAI’s latest acquisition addresses a security need Jamieson O’Reilly, security advisor at OpenClaw, raised during an exclusive interview with Infos...",
             "published_utc": "2026-03-10T17:15:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How to turn on repair mode on your Android phone - and why it's critical to do so",
-            "link": "https://www.zdnet.com/article/how-to-turn-on-repair-mode-android-phone/",
-            "summary": "Repair Mode lets technicians fix your Android phone without seeing your personal files or apps. Here's how to enable it.",
-            "published_utc": "2026-03-10T16:46:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -553,13 +581,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-phishing-targets-employees-with-backdoors/",
             "summary": "Hackers contacted employees at financial and healthcare organizations over Microsoft Teams to trick them into granting remote access through Quick Ass...",
             "published_utc": "2026-03-09T22:50:38+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Google: Cloud attacks exploit flaws more than weak credentials",
-            "link": "https://www.bleepingcomputer.com/news/security/google-cloud-attacks-exploit-flaws-more-than-weak-credentials/",
-            "summary": "Hackers are increasingly exploiting newly disclosed vulnerabilities in third-party software to gain initial access to cloud environments, with the win...",
-            "published_utc": "2026-03-09T21:45:34+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2758,27 +2779,6 @@
             "link": "https://www.infosecurity-magazine.com/news/sec-charges-crypto-firms/",
             "summary": "The SEC has charged several crypto platforms and investment clubs for defrauding US investors of more than $14m",
             "published_utc": "2025-12-24T16:15:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Coordinated Scams Target MENA Region With Fake Online Job Ads",
-            "link": "https://www.infosecurity-magazine.com/news/scams-mena-fake-online-job/",
-            "summary": "A coordinated wave of fake online job ads targeting the Middle East and North Africa has been uncovered, exploiting remote work trends",
-            "published_utc": "2025-12-24T15:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "NIST, MITRE Partner on $20m AI Centers For Manufacturing and Cybersecurity",
-            "link": "https://www.infosecurity-magazine.com/news/nist-mitre-ai-centers/",
-            "summary": "NIST and MITRE are collaboratively launching two centers to advance AI security for US manufacturing and critical infrastructure",
-            "published_utc": "2025-12-24T11:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "ServiceNow to Pay $7.8bn For OT Security Specialist Armis",
-            "link": "https://www.infosecurity-magazine.com/news/servicenow-78bn-ot-security/",
-            "summary": "ServiceNow is set to acquire Armis for $7.75bn in a cash-only deal expected to close in the second half of 2026",
-            "published_utc": "2025-12-24T10:15:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
