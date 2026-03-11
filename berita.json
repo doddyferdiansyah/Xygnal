@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-03-11T17:50:40.578050+00:00",
+    "lastUpdatedUTC": "2026-03-11T18:55:43.998681+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "This security flaw could affect 1 in 4 Android phones - how to check yours",
+            "link": "https://www.zdnet.com/article/security-flaw-affects-1-in-4-android-phones-how-to-check-yours/",
+            "summary": "The hardware vulnerability - found primarily in budget handsets - makes it possible to steal sensitive user data, including crypto wallet seed phrases...",
+            "published_utc": "2026-03-11T18:30:13+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "CISA orders feds to patch n8n RCE flaw exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-n8n-rce-flaw-exploited-in-attacks/",
+            "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies on Wednesday to patch their systems against an actively e...",
+            "published_utc": "2026-03-11T18:21:15+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "MacBook Neo vs. Mac Mini: Both start at $599, which is right for you?",
+            "link": "https://www.zdnet.com/article/macbook-neo-vs-mac-mini-i-compared-both-models-and-heres-the-winner/",
+            "summary": "Apple's new MacBook Neo and the Mac Mini M4 both start at the same price, but they're for very different users. Which one is for you?",
+            "published_utc": "2026-03-11T18:04:00+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Medtech giant Stryker offline after Iran-linked wiper malware attack",
@@ -209,7 +230,7 @@
             "title": "After using MacBook Neo, it's clear Windows needs to rethink its PC strategy (and fast)",
             "link": "https://www.zdnet.com/article/the-macbook-neo-is-here-its-time-for-windows-to-adapt/",
             "summary": "Apple's new $599 laptop will force Windows PCs and Chromebooks to respond in turn. That's a good thing.",
-            "published_utc": "2026-03-11T12:01:11+00:00"
+            "published_utc": "2026-03-11T12:01:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -350,20 +371,6 @@
             "link": "https://www.infosecurity-magazine.com/news/microsoft-fixes-two-publicly/",
             "summary": "March Patch Tuesday sees Microsoft release updates for 79 flaws",
             "published_utc": "2026-03-11T09:20:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The best free VPNs of 2026: Expert tested and reviewed",
-            "link": "https://www.zdnet.com/article/best-free-vpn/",
-            "summary": "You don't have to compromise your privacy, security, or data when you use a free VPN -- as long as you pick the right one. Our guide lists the only tr...",
-            "published_utc": "2026-03-11T09:01:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The 10 most popular products ZDNET readers bought last month (including handy gadgets)",
-            "link": "https://www.zdnet.com/article/most-popular-products-zdnet-readers-bought-last-month-2026/",
-            "summary": "From thermal cameras to USB-C gear, these are the top tech gadgets and useful items our readers actually purchased last month.",
-            "published_utc": "2026-03-11T09:00:41+00:00"
         },
         {
             "source": "CSO Online",
@@ -546,13 +553,6 @@
             "link": "https://www.infosecurity-magazine.com/news/russian-hackers-target-military/",
             "summary": "Dutch intelligence reveals Russian state hackers are trying to hijack the Signal and WhatsApp accounts of key targets",
             "published_utc": "2026-03-10T10:45:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft to enable Windows hotpatch security updates by default",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-hotpatch-security-updates-by-default-in-may/",
-            "summary": "Microsoft will turn on hotpatch security updates by default for all eligible Windows devices managed through Microsoft Intune and the Microsoft Graph ...",
-            "published_utc": "2026-03-10T10:35:33+00:00"
         },
         {
             "source": "InfosecurityMag",
