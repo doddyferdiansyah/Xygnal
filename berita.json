@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2026-03-10T23:29:52.521265+00:00",
+    "lastUpdatedUTC": "2026-03-11T02:07:31.023027+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "When KaOS Linux dropped KDE Plasma, I worried - now I'm loving the new default desktop",
+            "link": "https://www.zdnet.com/article/kaos-linux-distro-replaces-kde-plasma-desktop-default/",
+            "summary": "The rolling release distro switches to Niri, a scrollable, tiling compositor that's a lot cooler than you'd think. See why.",
+            "published_utc": "2026-03-11T02:00:52+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Watch this, get rich, lose it all - 8 ways to spot and avoid investment scams on Meta",
+            "link": "https://www.zdnet.com/article/investment-scam-paid-social-media-ads/",
+            "summary": "This sophisticated investment scam is spread via paid Meta ads and fake news stories. Here's what to look for.",
+            "published_utc": "2026-03-11T01:00:49+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Microsoft Patch Tuesday, March 2026 Edition",
+            "link": "https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/",
+            "summary": "Microsoft Corp. today pushed security updates to fix at least 77 vulnerabilities in its Windows operating systems and other software. There are no pre...",
+            "published_utc": "2026-03-11T00:32:51+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "MacBook Neo review: My biggest concern with Apple's near-perfect budget laptop",
+            "link": "https://www.zdnet.com/article/apple-macbook-neo-review/",
+            "summary": "Apple's new $599 MacBook Neo is a snappy 13-inch that feels a lot like its older siblings, but I can't help but wonder how it'll hold up after a few y...",
+            "published_utc": "2026-03-11T00:00:50+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "7 surprisingly useful ways to use ChatGPT's voice mode, from a former skeptic",
+            "link": "https://www.zdnet.com/article/chatgpt-voice-mode-tricks/",
+            "summary": "Voice Mode fabricated answers the last time I used it, but I tested it again to see if it's actually useful now.",
+            "published_utc": "2026-03-11T00:00:36+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "March Patch Tuesday: Three high severity holes in Microsoft Office",
+            "link": "https://www.csoonline.com/article/4143232/march-patch-tuesday-three-high-severity-holes-in-microsoft-office.html",
+            "summary": "",
+            "published_utc": "2026-03-10T23:36:30+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "New ‘BlackSanta’ EDR killer spotted targeting HR departments",
@@ -275,13 +317,6 @@
             "published_utc": "2026-03-10T14:31:36+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Don't rely on your router's USB port when these alternatives are less prone to security risks",
-            "link": "https://www.zdnet.com/article/do-not-use-router-usb-port-pc-expert-explains/",
-            "summary": "Your router's USB port is convenient, but its unreliability makes it susceptible to security attacks. Here are your alternatives.",
-            "published_utc": "2026-03-10T14:30:00+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "Thousands Affected by Ericsson Data Breach",
             "link": "https://www.securityweek.com/thousands-affected-by-ericsson-data-breach/",
@@ -296,20 +331,6 @@
             "published_utc": "2026-03-10T14:02:12+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Samsung Galaxy S26 Ultra vs. S25 Ultra: I compared the flagship phones to decide the better buy",
-            "link": "https://www.zdnet.com/article/samsung-galaxy-s26-ultra-vs-samsung-galaxy-s25-ultra/",
-            "summary": "Samsung's latest flagship phone may seem very similar to the previous generation, but there are a few important differences.",
-            "published_utc": "2026-03-10T14:02:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Chrome on Android just got two huge upgrades that can fix your messy tabs - what's new",
-            "link": "https://www.zdnet.com/article/chrome-android-update-pinned-tabs-groups/",
-            "summary": "If you're still using bookmarks in Chrome, try these new features instead. You might never go back.",
-            "published_utc": "2026-03-10T13:55:41+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "OpenAI Rolls Out Codex Security Vulnerability Scanner",
             "link": "https://www.securityweek.com/openai-rolls-out-codex-security-vulnerability-scanner/",
@@ -322,13 +343,6 @@
             "link": "https://www.securityweek.com/kevin-mandias-armadin-launches-with-189-9-million-in-funding/",
             "summary": "",
             "published_utc": "2026-03-10T13:21:05+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Blackview MP20 review: A tiny but mighty Mac Mini alternative for Windows users",
-            "link": "https://www.zdnet.com/article/blackview-mp20-mini-pc-review/",
-            "summary": "The palm-sized Blackview MP20 runs cool and quiet and handles everyday computing tasks - with a few caveats.",
-            "published_utc": "2026-03-10T13:20:00+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -385,6 +399,13 @@
             "link": "https://www.csoonline.com/article/4142548/the-ot-security-time-bomb-why-legacy-industrial-systems-are-the-biggest-cyber-risk-nobody-wants-to-fix.html",
             "summary": "",
             "published_utc": "2026-03-10T10:00:00+00:00"
+        },
+        {
+            "source": "WeLiveSecurity",
+            "title": "Sednit reloaded: Back in the trenches",
+            "link": "https://www.welivesecurity.com/en/eset-research/sednit-reloaded-back-trenches/",
+            "summary": "The resurgence of one of Russia’s most notorious APT groups",
+            "published_utc": "2026-03-10T09:58:00+00:00"
         },
         {
             "source": "Schneier",
@@ -595,13 +616,6 @@
             "link": "https://www.wired.com/story/the-future-of-irans-internet-is-more-uncertain-than-ever/",
             "summary": "Iran’s internet shutdown has reduced connectivity by 99 percent, with air strikes likely causing additional outages, and few workarounds remaining.",
             "published_utc": "2026-03-06T20:06:06+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Only 30 minutes per quarter on cyber risk: Why CISO-board conversations are falling short",
-            "link": "https://www.csoonline.com/article/4141873/only-30-minutes-per-quarter-on-cyber-risk-why-ciso-board-conversations-are-falling-short.html",
-            "summary": "",
-            "published_utc": "2026-03-06T17:49:46+00:00"
         },
         {
             "source": "Schneier",
@@ -2543,13 +2557,6 @@
             "published_utc": "2026-01-09T10:00:00+00:00"
         },
         {
-            "source": "KrebsOnSecurity",
-            "title": "Who Benefited from the Aisuru and Kimwolf Botnets?",
-            "link": "https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/",
-            "summary": "Our first story of 2026 revealed how a destructive new botnet called Kimwolf rapidly grew to infect more than two million devices by mass-compromising...",
-            "published_utc": "2026-01-08T23:23:43+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "GoBruteforcer Botnet Targets Linux Servers",
             "link": "https://www.infosecurity-magazine.com/news/gobruteforcer-botnet-linux-servers/",
@@ -3255,13 +3262,6 @@
             "link": "https://www.welivesecurity.com/en/cybersecurity/black-hat-usa-2025-successful-cybersecurity-cyber-risk/",
             "summary": "Success in cybersecurity is when nothing happens, plus other standout themes from two of the event’s keynotes",
             "published_utc": "2025-08-07T14:23:42+00:00"
-        },
-        {
-            "source": "WeLiveSecurity",
-            "title": "ESET Threat Report H1 2025: ClickFix, infostealer disruptions, and ransomware deathmatch",
-            "link": "https://www.welivesecurity.com/en/podcasts/eset-threat-report-h1-2025-clickfix-infostealer-disruptions-ransomware-deathmatch/",
-            "summary": "Threat actors are embracing ClickFix, ransomware gangs are turning on each other – toppling even the leaders – and law enforcement is disrupting one i...",
-            "published_utc": "2025-08-05T09:00:00+00:00"
         },
         {
             "source": "NVD (NIST)",
