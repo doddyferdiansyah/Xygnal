@@ -1,12 +1,61 @@
 {
-    "lastUpdatedUTC": "2026-03-11T15:51:24.799334+00:00",
+    "lastUpdatedUTC": "2026-03-11T16:54:45.623625+00:00",
     "articles": [
+        {
+            "source": "InfosecurityMag",
+            "title": "France: National Cybersecurity Agency Reports Ransomware Attack Drop in 2025",
+            "link": "https://www.infosecurity-magazine.com/news/france-anssi-ransomware-attack/",
+            "summary": "French small and medium businesses remained the organizations most targeted by ransomware in 2025",
+            "published_utc": "2026-03-11T16:50:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "A Meta-powered investment scam is spreading across 25 countries - how to spot (and avoid) it",
+            "link": "https://www.zdnet.com/article/investment-scam-paid-social-media-ads/",
+            "summary": "This sophisticated online scam is spread via paid ads and fake news stories across popular sites like Facebook. Here's how to spot it before it's too ...",
+            "published_utc": "2026-03-11T16:46:00+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker",
+            "link": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
+            "summary": "A hacktivist group with links to Iran's intelligence agencies is claiming responsibility for a data-wiping attack against Stryker, a global medical te...",
+            "published_utc": "2026-03-11T16:20:13+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Infosecurity Europe Announces 2026 Keynote Line Up",
+            "link": "https://www.infosecurity-magazine.com/news/infosecurity-europe-2026-keynote/",
+            "summary": "Infosecurity Europe 2026 reveals its keynote line-up, featuring Jason Fox, Shlomo Kramer, Cynthia Kaiser and more, with sessions on AI, cloud security...",
+            "published_utc": "2026-03-11T16:20:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "MedTech Giant Stryker Crippled by Iran-Linked Hacker Attack",
+            "link": "https://www.securityweek.com/medtech-giant-stryker-crippled-by-iran-linked-hacker-attack/",
+            "summary": "",
+            "published_utc": "2026-03-11T16:18:39+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Researchers Uncover ‘LeakyLooker’ Vulnerabilities in Google Looker Studio",
+            "link": "https://www.infosecurity-magazine.com/news/google-looker-studios-security-gaps/",
+            "summary": "LeakyLooker flaws in Google Looker Studio let attackers run cross-tenant SQL attacks on cloud data",
+            "published_utc": "2026-03-11T16:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Bluetooth's latest wireless audio push could solve a connectivity problem we've all dealt with",
+            "link": "https://www.zdnet.com/article/bluetooth-special-interest-group-lossless-spatial-audio-development/",
+            "summary": "The Bluetooth Special Interest Group says it's improving on standard protocols for lossless and spatial audio. Here's how.",
+            "published_utc": "2026-03-11T15:57:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "8 powerful Apt commands I use to unlock hidden features - and why they're so handy",
             "link": "https://www.zdnet.com/article/apt-package-manager-linux/",
             "summary": "The Debian/Ubuntu package manager isn't just for installing and removing software. You'll find there are some other tricks up Apt's sleeve that you sh...",
-            "published_utc": "2026-03-11T15:47:17+00:00"
+            "published_utc": "2026-03-11T15:47:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -149,13 +198,6 @@
             "published_utc": "2026-03-11T12:00:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "A global investment scam is spreading across Facebook, WhatsApp, and more - what to look for",
-            "link": "https://www.zdnet.com/article/investment-scam-paid-social-media-ads/",
-            "summary": "This sophisticated online scam is spread via paid Meta ads and fake news stories. Here's how to spot it before it's too late.",
-            "published_utc": "2026-03-11T11:51:00+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Overly permissive ‘guest’ settings put Salesforce customers at risk",
             "link": "https://www.csoonline.com/article/4143667/overly-permissive-guest-settings-put-salesforce-customers-at-risk.html",
@@ -275,13 +317,6 @@
             "published_utc": "2026-03-11T10:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "‘BlackSanta’ Malware Activates EDR and AV Killer Before Detonating Payload",
-            "link": "https://www.securityweek.com/blacksanta-malware-activates-edr-and-av-killer-before-detonating-payload/",
-            "summary": "",
-            "published_utc": "2026-03-11T09:42:41+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Microsoft Fixes Two Publicly Disclosed Zero-Days",
             "link": "https://www.infosecurity-magazine.com/news/microsoft-fixes-two-publicly/",
@@ -364,13 +399,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/new-beatbanker-android-malware-poses-as-starlink-app-to-hijack-devices/",
             "summary": "A new Android malware named BeatBanker can hijack devices and tricks users into installing it by posing as a Starlink app on websites masquerading as ...",
             "published_utc": "2026-03-10T21:27:59+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Sonos just launched 2 new speakers, with some subtle but useful upgrades",
-            "link": "https://www.zdnet.com/article/sonos-play-era-100-sl-news/",
-            "summary": "Sonos announces the Play and Era 100 SL speakers, giving new and existing customers even more modular options.",
-            "published_utc": "2026-03-10T21:26:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -2746,13 +2774,6 @@
             "published_utc": "2026-01-05T10:15:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "Experts Trace $35m in Stolen Crypto to LastPass Breach",
-            "link": "https://www.infosecurity-magazine.com/news/experts-trace-35m-stolen-crypto/",
-            "summary": "TRM Labs says it has recorded $35m drained from users’ wallets following 2022 LastPass breach",
-            "published_utc": "2026-01-05T09:30:00+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "8 WhatsApp Features to Boost Your Security and Privacy",
             "link": "https://www.wired.com/story/5-features-that-boost-security-and-privacy-on-whatsapp/",
@@ -2765,20 +2786,6 @@
             "link": "https://www.wired.com/story/how-to-protect-your-iphone-or-android-device-from-spyware/",
             "summary": "Being targeted by sophisticated spyware is relatively rare, but experts say that everyone needs to stay vigilant as this dangerous malware continues t...",
             "published_utc": "2026-01-03T10:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Infosecurity's Top 10 Cybersecurity Stories of 2025",
-            "link": "https://www.infosecurity-magazine.com/news/infosecurity-top-10-stories-2025/",
-            "summary": "Explore Infosecurity Magazine’s most-read cybersecurity stories of 2025, from major vendor shake-ups and zero-day exploits to AI-driven threats and su...",
-            "published_utc": "2026-01-01T08:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "SEC Charges Crypto Firms in $14m Investment Scam",
-            "link": "https://www.infosecurity-magazine.com/news/sec-charges-crypto-firms/",
-            "summary": "The SEC has charged several crypto platforms and investment clubs for defrauding US investors of more than $14m",
-            "published_utc": "2025-12-24T16:15:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
@@ -3493,13 +3500,6 @@
             "link": "https://threatpost.com/ransomware-attacks-are-on-the-rise/180481/",
             "summary": "Lockbit is by far this summer’s most prolific ransomware group, trailed by two offshoots of the Conti group.",
             "published_utc": "2022-08-26T16:44:27+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Cybercriminals Are Selling Access to Chinese Surveillance Cameras",
-            "link": "https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/",
-            "summary": "Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed.",
-            "published_utc": "2022-08-25T18:47:15+00:00"
         }
     ]
 }
