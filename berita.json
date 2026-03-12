@@ -1,6 +1,83 @@
 {
-    "lastUpdatedUTC": "2026-03-12T13:04:01.968237+00:00",
+    "lastUpdatedUTC": "2026-03-12T14:51:11.145457+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Apple Updates Legacy iOS Versions to Patch Coruna Exploits",
+            "link": "https://www.securityweek.com/apple-updates-older-ios-versions-to-patch-coruna-exploits/",
+            "summary": "",
+            "published_utc": "2026-03-12T14:40:34+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Telus Digital confirms breach after hacker claims 1 petabyte data theft",
+            "link": "https://www.bleepingcomputer.com/news/security/telus-digital-confirms-breach-after-hacker-claims-1-petabyte-data-theft/",
+            "summary": "Canadian business process outsourcing giant Telus Digital has confirmed it suffered a security incident after threat actors claimed to have stolen nea...",
+            "published_utc": "2026-03-12T14:40:14+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How to diagnose your slow-booting Linux PC in seconds - without spending a dime",
+            "link": "https://www.zdnet.com/article/linux-boot-time-systemd-analyze/",
+            "summary": "If your Linux machine is taking its own sweet time to boot, you have a built-in tool to help you discover where the problem lies.",
+            "published_utc": "2026-03-12T14:31:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I didn't need this, but I found a free Linux app that makes memes in seconds (no GIMP required)",
+            "link": "https://www.zdnet.com/article/linux-meme-generator-app-memerist-no-gimp/",
+            "summary": "If you want to make memes using your own images - without AI or complicated editors - there's a free Linux tool that you can try today.",
+            "published_utc": "2026-03-12T14:27:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "This $30 smart router with a built-in VPN is the travel gadget I didn't know I needed",
+            "link": "https://www.zdnet.com/article/gl-inet-mango-gl-mt300n-v2-review/",
+            "summary": "The GL.iNet Mango (GL.MT300N-V2) mini smart router gives me total control of how I access the internet when I travel.",
+            "published_utc": "2026-03-12T14:11:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I switched to a Wi-Fi 7 mesh router at home - it was overkill in the best way",
+            "link": "https://www.zdnet.com/article/tp-link-deco-be77-review/",
+            "summary": "TP-Link's Deco BE77 is a premium Wi-Fi 7 system with blazing-fast speeds and coverage for very large homes.",
+            "published_utc": "2026-03-12T14:07:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Going the Extra Mile: Travel Rewards Turn into Underground Currency.",
+            "link": "https://www.bleepingcomputer.com/news/security/going-the-extra-mile-travel-rewards-turn-into-underground-currency/",
+            "summary": "Stolen airline miles are converted into flights and hotel stays, then resold as discounted travel. Flare shows how cybercriminals and underground mark...",
+            "published_utc": "2026-03-12T14:05:15+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Why you probably shouldn't tell a chatbot everything about your health",
+            "link": "https://www.zdnet.com/article/medical-advice-ai-healthcare-microsoft-openai/",
+            "summary": "Tech companies like Microsoft, Google, and OpenAI have unveiled health AI tools. Here's how to use them, according to a doctor.",
+            "published_utc": "2026-03-12T13:45:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Apple patches older iPhones and iPads against Coruna exploits",
+            "link": "https://www.bleepingcomputer.com/news/apple/apple-patches-older-iphones-and-ipads-against-coruna-exploits/",
+            "summary": "​Apple has released security updates to patch older iPhones and iPads against a set of vulnerabilities targeted in cyberespionage and crypto-theft att...",
+            "published_utc": "2026-03-12T13:43:46+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "After decades with Linux, I tried to use Windows 11 - and found 9 glaring issues",
+            "link": "https://www.zdnet.com/article/i-ditched-linux-for-windows-11-9-big-problems/",
+            "summary": "Going from Linux to Windows felt like taking one step forward and two steps back. Here's a list of what went wrong.",
+            "published_utc": "2026-03-12T13:21:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Meta Launches New Protection Tools as It Helps Disrupt Scam Centers",
+            "link": "https://www.securityweek.com/meta-launches-new-protection-tools-as-it-helps-disrupt-scam-centers/",
+            "summary": "",
+            "published_utc": "2026-03-12T13:17:26+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "How to check your Windows PC for expiring security certificates - a big one is ending soon",
@@ -233,13 +310,6 @@
             "published_utc": "2026-03-11T19:32:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "The best Samsung Galaxy S26 cases of 2026: Expert tested",
-            "link": "https://www.zdnet.com/article/best-samsung-galaxy-s26-cases/",
-            "summary": "Samsung's new Galaxy S26 phones are here, and we found the best phone cases from brands like Spigen, Dbrand, Mous, and more to protect your new device.",
-            "published_utc": "2026-03-11T19:31:00+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "Senate Confirms Joshua Rudd to Lead NSA and US Cyber Command",
             "link": "https://www.securityweek.com/senate-confirms-joshua-rudd-to-lead-nsa-and-us-cyber-command/",
@@ -252,13 +322,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-n8n-rce-flaw-exploited-in-attacks/",
             "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies on Wednesday to patch their systems against an actively e...",
             "published_utc": "2026-03-11T18:21:15+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "MacBook Neo vs. Mac Mini: Both start at $599, which is right for you?",
-            "link": "https://www.zdnet.com/article/macbook-neo-vs-mac-mini-i-compared-both-models-and-heres-the-winner/",
-            "summary": "Apple's new MacBook Neo and the Mac Mini M4 both start at the same price, but they're for very different users. Which one is for you?",
-            "published_utc": "2026-03-11T18:04:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -275,32 +338,11 @@
             "published_utc": "2026-03-11T17:09:42+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Meta is rolling out stronger anti-scam tools - here's how they protect you",
-            "link": "https://www.zdnet.com/article/meta-ai-scam-protection-tools/",
-            "summary": "Expect to see more alerts about suspicious activities across Facebook, WhatsApp, and Messenger.",
-            "published_utc": "2026-03-11T17:04:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How to set up a smart switch to power your home (and what to avoid when you do)",
-            "link": "https://www.zdnet.com/article/switchbot-smart-switch-review/",
-            "summary": "From lazy convenience to practical problem-solving, the SwitchBot Smart Switch makes dumb devices smart, one click at a time.",
-            "published_utc": "2026-03-11T16:54:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "France: National Cybersecurity Agency Reports Ransomware Attack Drop in 2025",
             "link": "https://www.infosecurity-magazine.com/news/france-anssi-ransomware-attack/",
             "summary": "French small and medium businesses remained the organizations most targeted by ransomware in 2025",
             "published_utc": "2026-03-11T16:50:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "A Meta-powered investment scam is spreading across 25 countries - how to spot (and avoid) it",
-            "link": "https://www.zdnet.com/article/investment-scam-paid-social-media-ads/",
-            "summary": "This sophisticated online scam is spread via paid ads and fake news stories across popular sites like Facebook. Here's how to spot it before it's too ...",
-            "published_utc": "2026-03-11T16:46:00+00:00"
         },
         {
             "source": "KrebsOnSecurity",
@@ -331,13 +373,6 @@
             "published_utc": "2026-03-11T16:00:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Bluetooth's latest wireless audio push could solve a connectivity problem we've all dealt with",
-            "link": "https://www.zdnet.com/article/bluetooth-special-interest-group-lossless-spatial-audio-development/",
-            "summary": "The Bluetooth Special Interest Group says it's improving on standard protocols for lossless and spatial audio. Here's how.",
-            "published_utc": "2026-03-11T15:57:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Compromised WordPress Sites Deliver ClickFix Attacks in Global Infostealer Campaign",
             "link": "https://www.infosecurity-magazine.com/news/wordpress-clickfix-infostealer/",
@@ -350,20 +385,6 @@
             "link": "https://www.infosecurity-magazine.com/news/blacksanta-edr-killer-targets-hr/",
             "summary": "BlackSanta malware targets HR staff with fake resumes, kills EDR and steals system data",
             "published_utc": "2026-03-11T14:30:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Wiz Joins Google Cloud as Landmark Acquisition Closes",
-            "link": "https://www.securityweek.com/wiz-joins-google-cloud-as-landmark-acquisition-closes/",
-            "summary": "",
-            "published_utc": "2026-03-11T14:25:17+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "CISO Conversations: Aimee Cardwell",
-            "link": "https://www.securityweek.com/ciso-conversations-aimee-cardwell/",
-            "summary": "",
-            "published_utc": "2026-03-11T14:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -548,20 +569,6 @@
             "published_utc": "2026-03-10T17:49:51+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Windows 11 KB5079473 & KB5078883 cumulative updates released",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5079473-and-kb5078883-cumulative-updates-released/",
-            "summary": "Microsoft has released Windows 11 KB5079473 and KB5078883 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, an...",
-            "published_utc": "2026-03-10T17:41:41+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "HPE warns of critical AOS-CX flaw allowing admin password resets",
-            "link": "https://www.bleepingcomputer.com/news/security/hpe-warns-of-critical-aos-cx-flaw-allowing-admin-password-resets/",
-            "summary": "Hewlett Packard Enterprise (HPE) has patched multiple security vulnerabilities in the Aruba Networking AOS-CX operating system, including several auth...",
-            "published_utc": "2026-03-10T17:30:35+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "OpenAI's Promptfoo Deal Plugs Agentic AI Testing Gap",
             "link": "https://www.infosecurity-magazine.com/news/openai-promptfoo-deal-agentic-ai/",
@@ -581,13 +588,6 @@
             "link": "https://www.infosecurity-magazine.com/news/cloud-attackers-prefer-exploits/",
             "summary": "Google Cloud report details a sharp rise in attackers exploiting software vulnerabilities, including React2Shell",
             "published_utc": "2026-03-10T15:30:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft brings phishing-resistant Windows sign-ins via Entra passkeys",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-brings-phishing-resistant-sign-in-to-windows/",
-            "summary": "Microsoft is rolling out passkey support for Microsoft Entra on Windows devices, adding phishing-resistant passwordless authentication via Windows Hel...",
-            "published_utc": "2026-03-10T15:27:58+00:00"
         },
         {
             "source": "WIRED Security",
