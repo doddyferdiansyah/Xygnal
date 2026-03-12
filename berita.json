@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2026-03-12T15:59:56.048863+00:00",
+    "lastUpdatedUTC": "2026-03-12T17:06:46.577981+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "Your Google Maps just got two huge upgrades - including a totally new driving experience",
+            "link": "https://www.zdnet.com/article/google-maps-two-big-upgrades-new-driving-experience/",
+            "summary": "Google is calling this 'the biggest update in over a decade' to Maps.",
+            "published_utc": "2026-03-12T17:05:16+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Veeam warns of critical flaws exposing backup servers to RCE attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/veeam-warns-of-critical-flaws-exposing-backup-servers-to-rce-attacks/",
+            "summary": "Data protection company Veeam Software has patched multiple flaws in its Backup & Replication solution, including four critical remote code execution ...",
+            "published_utc": "2026-03-12T16:59:20+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "US disrupts SocksEscort proxy network powered by Linux malware",
+            "link": "https://www.bleepingcomputer.com/news/security/us-disrupts-socksescort-proxy-network-powered-by-linux-malware/",
+            "summary": "Law enforcement agencies in the U.S. and Europe along with private partners have disrupted the SocksEscort cybercrime proxy network that used only edg...",
+            "published_utc": "2026-03-12T16:19:56+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "How ‘Handala’ Became the Face of Iran’s Hacker Counterattacks",
+            "link": "https://www.wired.com/story/handala-hacker-group-iran-us-israel-war/",
+            "summary": "Amid a paralyzing breach of medical tech firm Stryker, the group has come to represent Iran's use of “hacktivism” as cover for chaotic, retaliatory st...",
+            "published_utc": "2026-03-12T16:14:39+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "PixRevolution Malware Hijacks Brazil's PIX Transfers in Real Time",
+            "link": "https://www.infosecurity-magazine.com/news/pixrevolution-malware-brazils-pix/",
+            "summary": "PixRevolution Android trojan hijacks Brazil’s PIX payments in real time using accessibility abuse",
+            "published_utc": "2026-03-12T16:00:00+00:00"
+        },
         {
             "source": "InfosecurityMag",
             "title": "Critical Zero-Click Flaw in n8n Allows Full Server Compromise",
@@ -310,13 +345,6 @@
             "published_utc": "2026-03-11T20:06:39+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "8 powerful apt commands every Linux user should know - or else you're missing out",
-            "link": "https://www.zdnet.com/article/apt-package-manager-linux/",
-            "summary": "The Debian/Ubuntu package manager isn't just for installing and removing software. There's more to Apt than you might know.",
-            "published_utc": "2026-03-11T19:58:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "SQLi flaw in Elementor Ally plugin impacts 250k+ WordPress sites",
             "link": "https://www.bleepingcomputer.com/news/security/sqli-flaw-in-elementor-ally-plugin-impacts-250k-plus-wordpress-sites/",
@@ -548,25 +576,11 @@
             "published_utc": "2026-03-10T21:27:59+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "New 'Zombie ZIP' technique lets malware slip past security tools",
-            "link": "https://www.bleepingcomputer.com/news/security/new-zombie-zip-technique-lets-malware-slip-past-security-tools/",
-            "summary": "A new technique dubbed \"Zombie ZIP\" helps conceal payloads in compressed files specially created to avoid detection from security solutions such as an...",
-            "published_utc": "2026-03-10T20:05:39+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Threat intelligence by ESET is a game changer",
             "link": "https://www.csoonline.com/article/4143209/threat-intelligence-by-eset-is-a-game-changer.html",
             "summary": "",
             "published_utc": "2026-03-10T19:55:52+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft releases Windows 10 KB5078885 extended security update",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5078885-extended-security-update/",
-            "summary": "Microsoft has released the Windows 10 KB5078885 extended security update to fix the March 2026 Patch Tuesday vulnerabilities, including 2 zero-days an...",
-            "published_utc": "2026-03-10T18:23:35+00:00"
         },
         {
             "source": "WIRED Security",
@@ -1561,13 +1575,6 @@
             "link": "https://www.wired.com/story/security-news-this-week-ring-kills-flock-safety-deal-after-super-bowl-ad-uproar/",
             "summary": "Plus: Meta plans to add face recognition to its smart glasses, Jared Kushner named as part of whistleblower’s mysterious national security complaint, ...",
             "published_utc": "2026-02-14T11:30:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "Robot Dogs Are on Going on Patrol at the 2026 World Cup in Mexico",
-            "link": "https://www.wired.com/story/robot-dogs-are-on-going-on-patrol-at-the-2026-world-cup-in-mexico/",
-            "summary": "The Mexican city of Guadalupe, which will host portions of the 2026 World Cup, recently showed off four new robot dogs that will help provide security...",
-            "published_utc": "2026-02-14T10:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2765,13 +2772,6 @@
             "link": "https://www.infosecurity-magazine.com/news/uk-launches-new-cyber-unit/",
             "summary": "UK government’s new Cyber Action plan looks to provide more ‘hands-on’ support for protecting against and responding to security incidents",
             "published_utc": "2026-01-06T12:45:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Jaguar Land Rover's Q3 Sales Crash Amid Cyber-Attack Fallout",
-            "link": "https://www.infosecurity-magazine.com/news/jlr-q3-sales-crash-cyberattack/",
-            "summary": "JLR’s wholesale sales plunged 43% and retail drops 25% in the third quarter of 2025 following the 2025 cyber-attack",
-            "published_utc": "2026-01-06T11:15:00+00:00"
         },
         {
             "source": "WIRED Security",
