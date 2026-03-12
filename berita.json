@@ -1,6 +1,69 @@
 {
-    "lastUpdatedUTC": "2026-03-12T11:33:09.691654+00:00",
+    "lastUpdatedUTC": "2026-03-12T13:04:01.968237+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "How to check your Windows PC for expiring security certificates - a big one is ending soon",
+            "link": "https://www.zdnet.com/article/secure-boot-certificate-updates-2026/",
+            "summary": "Another critical Windows expiration date is right around the corner for more than a billion PCs. Here's what you should know ahead of time.",
+            "published_utc": "2026-03-12T12:53:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Is there a Windows PC alternative to the Mac Mini? This one I tested is so close (yet so far)",
+            "link": "https://www.zdnet.com/article/blackview-mp20-mini-pc-review/",
+            "summary": "The palm-sized Blackview MP20 runs cool and quiet and handles everyday computing tasks - with a few notable drawbacks.",
+            "published_utc": "2026-03-12T12:47:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "CISA Issues Emergency Directive Over Exploited Cisco SD-WAN Flaws",
+            "link": "https://www.infosecurity-magazine.com/news/cisa-cisco-sd-wan-flaws-directive/",
+            "summary": "CISA issued urgent directive as attackers exploit Cisco SD-WAN flaw granting admin access to networks",
+            "published_utc": "2026-03-12T12:45:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Ally WordPress Plugin Flaw Exposes Over 200,000 Websites to Attacks",
+            "link": "https://www.securityweek.com/ally-wordpress-plugin-flaw-exposes-over-200000-websites-to-attacks/",
+            "summary": "",
+            "published_utc": "2026-03-12T12:43:10+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "The Human IOC: Why Security Professionals Struggle with Social Vetting",
+            "link": "https://www.securityweek.com/the-human-ioc-why-security-professionals-struggle-with-social-vetting/",
+            "summary": "",
+            "published_utc": "2026-03-12T12:30:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Splunk, Zoom Patch Severe Vulnerabilities",
+            "link": "https://www.securityweek.com/splunk-zoom-patch-severe-vulnerabilities/",
+            "summary": "",
+            "published_utc": "2026-03-12T12:06:15+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "10+ VPN tricks and tips I recommend to everyone (whether for personal or business use)",
+            "link": "https://www.zdnet.com/article/best-vpn-settings-tips-tricks/",
+            "summary": "A VPN isn't just for privacy. Here are additional settings and features worth exploring.",
+            "published_utc": "2026-03-12T12:01:07+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "JBL's latest headphones offer an Auracast loophole Apple won't be happy about",
+            "link": "https://www.zdnet.com/article/jbls-live-770-nc-news/",
+            "summary": "With one simple app feature, JBL's headphones open an otherwise closed-off feature to iOS fans.",
+            "published_utc": "2026-03-12T12:00:50+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "PhantomRaven returns to npm with 88 bad packages",
+            "link": "https://www.csoonline.com/article/4144231/phantomraven-returns-to-npm-with-88-bad-packages.html",
+            "summary": "",
+            "published_utc": "2026-03-12T11:43:52+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "US charges another ransomware negotiator linked to BlackCat attacks",
@@ -21,13 +84,6 @@
             "link": "https://www.zdnet.com/article/how-to-switch-password-manager-without-losing-logins/",
             "summary": "I safely moved all my saved logins to a new password manager. And you can too by following these steps.",
             "published_utc": "2026-03-12T11:00:35+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Your Windows PC's critical security certificates may expire very soon - how to check",
-            "link": "https://www.zdnet.com/article/secure-boot-certificate-updates-2026/",
-            "summary": "Another big Windows expiration date is right around the corner for more than a billion PCs. Here's what you should know ahead of time.",
-            "published_utc": "2026-03-12T10:30:49+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -282,13 +338,6 @@
             "published_utc": "2026-03-11T15:57:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I tried Zenclora, a super-fast Linux distro with zero bloat - and one truly special feature",
-            "link": "https://www.zdnet.com/article/zenclora-fast-linux-distro-zero-bloat-special-feature/",
-            "summary": "This Debian-based distribution is an absolute delight to use and relatively easy, with some minor caveats.",
-            "published_utc": "2026-03-11T14:56:55+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Compromised WordPress Sites Deliver ClickFix Attacks in Global Infostealer Campaign",
             "link": "https://www.infosecurity-magazine.com/news/wordpress-clickfix-infostealer/",
@@ -324,13 +373,6 @@
             "published_utc": "2026-03-11T13:35:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "238,000 Impacted by Bell Ambulance Data Breach",
-            "link": "https://www.securityweek.com/238000-impacted-by-bell-ambulance-data-breach/",
-            "summary": "",
-            "published_utc": "2026-03-11T13:34:17+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Meta adds new WhatsApp, Facebook, and Messenger anti-scam tools",
             "link": "https://www.bleepingcomputer.com/news/security/meta-adds-new-whatsapp-facebook-and-messenger-anti-scam-tools/",
@@ -338,39 +380,11 @@
             "published_utc": "2026-03-11T13:29:29+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Scanner Raises $22 Million for AI-Powered Threat Hunting",
-            "link": "https://www.securityweek.com/scanner-raises-22-million-for-ai-powered-threat-hunting/",
-            "summary": "",
-            "published_utc": "2026-03-11T13:16:46+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Another Linux distro has dropped KDE Plasma, and I'm not surprised to see why",
-            "link": "https://www.zdnet.com/article/kaos-linux-distro-replaces-kde-plasma-desktop-default/",
-            "summary": "The rolling release distro switches to Niri, a scrollable, tiling compositor that's better than you'd think. See why.",
-            "published_utc": "2026-03-11T13:00:48+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "AWS expands Security Hub for multicloud security operations",
             "link": "https://www.csoonline.com/article/4143683/aws-expands-security-hub-for-multicloud-security-operations.html",
             "summary": "",
             "published_utc": "2026-03-11T12:55:30+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How to enable Advanced Protection on your Android phone - and why it's critical to do so",
-            "link": "https://www.zdnet.com/article/how-to-turn-on-advanced-protection-android-16-phone/",
-            "summary": "One of Google's most critical features is hidden behind a single setting. Turn it on to protect against theft, scams, spam, and more.",
-            "published_utc": "2026-03-11T12:30:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "OpenAI to Acquire AI Security Startup Promptfoo",
-            "link": "https://www.securityweek.com/openai-to-acquire-ai-security-startup-promptfoo/",
-            "summary": "",
-            "published_utc": "2026-03-11T12:25:58+00:00"
         },
         {
             "source": "WIRED Security",
@@ -511,13 +525,6 @@
             "link": "https://www.csoonline.com/article/4143209/threat-intelligence-by-eset-is-a-game-changer.html",
             "summary": "",
             "published_utc": "2026-03-10T19:55:52+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "The CSO role is evolving fast with AI in Cyber Defense strategy",
-            "link": "https://www.csoonline.com/article/4143188/the-cso-role-is-evolving-fast-with-ai-in-cyber-defense-strategy.html",
-            "summary": "",
-            "published_utc": "2026-03-10T19:31:54+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -2765,13 +2772,6 @@
             "link": "https://www.infosecurity-magazine.com/news/lichtenstein-released-bitfinex/",
             "summary": "Ilya Lichtenstein, convicted for the 2016 Bitfinex hack, has been released early from prison to home confinement",
             "published_utc": "2026-01-05T16:45:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "VVS Stealer Uses Advanced Obfuscation to Target Discord Users",
-            "link": "https://www.infosecurity-magazine.com/news/vvs-stealer-advanced-obfuscation/",
-            "summary": "A new Python-based malware called VVS stealer has been identified, targeting Discord users with stealthy techniques to steal data",
-            "published_utc": "2026-01-05T16:00:00+00:00"
         },
         {
             "source": "WIRED Security",
