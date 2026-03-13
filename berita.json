@@ -1,12 +1,54 @@
 {
-    "lastUpdatedUTC": "2026-03-13T17:36:15.151952+00:00",
+    "lastUpdatedUTC": "2026-03-13T18:45:45.407254+00:00",
     "articles": [
         {
             "source": "ZDNet Security",
-            "title": "The MacBook Neo is already discounted at Best Buy",
-            "link": "https://www.zdnet.com/article/the-macbook-neo-deal/",
+            "title": "YouTube rolls out unskippable ads - they're so annoying I'm mulling drastic measures",
+            "link": "https://www.zdnet.com/article/youtube-rolls-out-annoying-unskippable-ads/",
+            "summary": "The ads run for up to 30 seconds and offer no way to skip past them.",
+            "published_utc": "2026-03-13T18:20:32+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Lenovo is selling a $99 Android tablet that I can actually recommend",
+            "link": "https://www.zdnet.com/article/lenovo-tab-one-tablet-deal/",
+            "summary": "The Lenovo Tab One is an entry-level tablet that can handle most everyday tasks. And I highly recommend it at its discounted price.",
+            "published_utc": "2026-03-13T18:16:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I recommend this bestselling DeWalt cordless power tool set to everyone - and it's nearly 50% off",
+            "link": "https://www.zdnet.com/article/dewalt-power-tool-set-deal/",
+            "summary": "My favorite DeWalt power tool kit is perfect for DIY beginners and tradespeople, and it's currently near its lowest price of the year on Amazon.",
+            "published_utc": "2026-03-13T17:49:42+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I found 4 tech gadgets that actually helped me sleep better (and ditch the alarm)",
+            "link": "https://www.zdnet.com/article/best-products-i-use-for-better-sleep/",
+            "summary": "I regularly clock seven hours a night, and I wake up without an alarm. Here's why my sleep is so good.",
+            "published_utc": "2026-03-13T17:48:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How to enable Advanced Protection on Android 16 - and why you shouldn't skip it",
+            "link": "https://www.zdnet.com/article/how-to-turn-on-advanced-protection-android-16-phone/",
+            "summary": "One of Google's most critical features is hidden behind a single setting. Here's where to find it, and how it helps.",
+            "published_utc": "2026-03-13T17:44:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Cloud attacks are getting faster and deadlier - here's your best defense plan",
+            "link": "https://www.zdnet.com/article/google-cloud-threat-report-third-party-software-ai-attacks/",
+            "summary": "Google's latest threat report warns that third-party tools are now prime targets for attackers - and businesses have only days to prepare defenses.",
+            "published_utc": "2026-03-13T17:40:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The MacBook Neo is already discounted at Best Buy (sort of)",
+            "link": "https://www.zdnet.com/article/macbook-neo-best-buy-deal/",
             "summary": "Best Buy has open-box discounts on the brand-new MacBook Neo for anyone looking to save a few bucks.",
-            "published_utc": "2026-03-13T17:21:48+00:00"
+            "published_utc": "2026-03-13T17:21:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -142,13 +184,6 @@
             "published_utc": "2026-03-13T13:53:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "This critical Chrome browser vulnerability lets malicious extensions spy on your PC",
-            "link": "https://www.zdnet.com/article/gemini-live-chrome-bug-hijacks-ai/",
-            "summary": "A recent vulnerability in Google Chrome's Gemini integration may compromise user privacy, potentially enabling unauthorized data access or surveillance.",
-            "published_utc": "2026-03-13T13:38:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Police sinkholes 45,000 IP addresses in cybercrime crackdown",
             "link": "https://www.bleepingcomputer.com/news/security/police-sinkholes-45-000-ip-addresses-in-cybercrime-crackdown/",
@@ -157,17 +192,10 @@
         },
         {
             "source": "BleepingComputer",
-            "title": "Fake enterprise VPN downloads used to steal company credentials",
+            "title": "Fake enterprise VPN sites used to steal company credentials",
             "link": "https://www.bleepingcomputer.com/news/security/fake-enterprise-vpn-downloads-used-to-steal-company-credentials/",
             "summary": "A threat actor tracked as Storm-2561 is distributing fake enterprise VPN clients from Ivanti, Cisco, and Fortinet to steal VPN credentials from unsusp...",
             "published_utc": "2026-03-13T13:23:28+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Worried AI agents will replace you? 5 ways you can turn anxiety into action at work",
-            "link": "https://www.zdnet.com/article/ai-agents-workplace-anxiety-turn-into-action/",
-            "summary": "The AI agents are coming, but that doesn't mean you'll lose your job. Here's how you can embrace the change.",
-            "published_utc": "2026-03-13T12:57:00+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -177,13 +205,6 @@
             "published_utc": "2026-03-13T12:32:48+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Why PCLinuxOS gets my vouch if you miss the simplicity of Windows 7",
-            "link": "https://www.zdnet.com/article/pclinuxos-linux-distro-review-comeback/",
-            "summary": "There's another Linux distribution that's ready to welcome Windows users with open arms, and this one's been around for a long time.",
-            "published_utc": "2026-03-13T12:30:48+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Veeam warns admins to patch now as critical RCE flaws hit Backup & Replication",
             "link": "https://www.csoonline.com/article/4144882/veeam-warns-admins-to-patch-now-as-critical-rce-flaws-hit-backup-replication.html",
@@ -191,32 +212,11 @@
             "published_utc": "2026-03-13T12:01:47+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I tested Omega Linux to see if it can revitalize an old PC, and it made Ubuntu distributions look bad",
-            "link": "https://www.zdnet.com/article/i-tested-omega-linux-revive-old-pc/",
-            "summary": "If you're looking for a distribution for an aging machine, consider walking through the Arch with Omega.",
-            "published_utc": "2026-03-13T12:01:13+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "NanoClaw is in your Docker sandbox now - can this restrain AI agents from running amok?",
-            "link": "https://www.zdnet.com/article/nanoclaw-docker-sandbox/",
-            "summary": "The new partnership enables integration of the open-source AI agent platform with Docker containers. Here's why it's a smart move.",
-            "published_utc": "2026-03-13T12:00:52+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "Bold Security Emerges From Stealth With $40 Million in Funding",
             "link": "https://www.securityweek.com/bold-security-emerges-from-stealth-with-40-million-in-funding/",
             "summary": "",
             "published_utc": "2026-03-13T11:36:32+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "After 30 years with Linux, I gave Windows 11 a chance - and found 9 clear problems",
-            "link": "https://www.zdnet.com/article/i-ditched-linux-for-windows-11-9-big-problems/",
-            "summary": "Going from Linux to Windows felt like taking one step forward and two steps back. Here's a list of what went wrong.",
-            "published_utc": "2026-03-13T11:30:45+00:00"
         },
         {
             "source": "SecurityWeek",
