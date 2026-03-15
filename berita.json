@@ -1,6 +1,13 @@
 {
-    "lastUpdatedUTC": "2026-03-15T13:50:56.880498+00:00",
+    "lastUpdatedUTC": "2026-03-15T14:32:01.132792+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Betterleaks, a new open-source secrets scanner to replace Gitleaks",
+            "link": "https://www.bleepingcomputer.com/news/security/betterleaks-a-new-open-source-secrets-scanner-to-replace-gitleaks/",
+            "summary": "A new open-source tool called Betterleaks can scan directories, files, and git repositories and identify valid secrets using default or customized rul...",
+            "published_utc": "2026-03-15T14:17:23+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Loblaw Data Breach Impacts Customer Information",
@@ -434,13 +441,6 @@
             "link": "https://www.wired.com/story/us-lawmakers-move-to-kill-the-fbis-warrantless-wiretap-access/",
             "summary": "A bipartisan bill would force the FBI to get a warrant to read Americans’ messages and ban the federal purchase of commercial data on US residents ahe...",
             "published_utc": "2026-03-12T18:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Veeam warns of critical flaws exposing backup servers to RCE attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/veeam-warns-of-critical-flaws-exposing-backup-servers-to-rce-attacks/",
-            "summary": "Data protection company Veeam Software has patched multiple flaws in its Backup & Replication solution, including four critical remote code execution ...",
-            "published_utc": "2026-03-12T16:59:20+00:00"
         },
         {
             "source": "WIRED Security",
