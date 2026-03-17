@@ -1,6 +1,55 @@
 {
-    "lastUpdatedUTC": "2026-03-17T14:59:05.891637+00:00",
+    "lastUpdatedUTC": "2026-03-17T16:12:58.956214+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "EndeavorOS Titan stands out among Arch-based Linux distros - here's why",
+            "link": "https://www.zdnet.com/article/endeavoros-titan/",
+            "summary": "EndeavorOS Titan is the latest release in this Arch-based distribution, and it is well worth the update, especially if you depend on a GPU with the pr...",
+            "published_utc": "2026-03-17T16:09:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Amazon launches 1-hour delivery - what it costs and where it's available",
+            "link": "https://www.zdnet.com/article/amazon-one-hour-delivery/",
+            "summary": "You can order household essentials to your door in an hour, but delivery might cost as much as the item does.",
+            "published_utc": "2026-03-17T16:07:29+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Tech Giants Invest $12.5 Million in Open Source Security",
+            "link": "https://www.securityweek.com/tech-giants-invest-12-5-million-in-open-source-security/",
+            "summary": "",
+            "published_utc": "2026-03-17T16:01:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "UK Companies House Exposed Details of Millions of Firms",
+            "link": "https://www.securityweek.com/uk-companies-house-exposed-details-of-millions-of-firms/",
+            "summary": "",
+            "published_utc": "2026-03-17T15:40:25+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I tested GPT-5.4 Thinking, and it gave me great answers (until I dove deeper)",
+            "link": "https://www.zdnet.com/article/gpt-5-4-thinking-tests-review/",
+            "summary": "OpenAI claims GPT-5.4 Thinking can do professional tasks, but I'm not so sure if that's fully accurate.",
+            "published_utc": "2026-03-17T15:23:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Own a Sony TV? I changed 3 settings to noticeably improve the picture quality",
+            "link": "https://www.zdnet.com/article/best-settings-to-change-on-your-sony-bravia-tv/",
+            "summary": "Sony's various Bravia TVs deliver high-quality picture and sound. With a few simple tweaks, you can push those aspects even further.",
+            "published_utc": "2026-03-17T15:11:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "'CursorJack’ Attack Path Exposes Code Execution Risk in AI Development Environment",
+            "link": "https://www.infosecurity-magazine.com/news/cursor-jack-attack-path-ai/",
+            "summary": "CursorJack shows how malicious MCP deeplinks in Cursor IDE can trigger user-approved code execution",
+            "published_utc": "2026-03-17T15:00:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "I tested Samsung's new Galaxy Buds 4 Pro - it's not the design downgrade that I expected",
@@ -83,7 +132,7 @@
             "title": "As AI agents spread, 1Password's new tool tackles a rising security threat",
             "link": "https://www.zdnet.com/article/1password-introduces-unified-credential-security-platform/",
             "summary": "AI agents increasingly need credentials to log into your systems. 1Password wants to help secure them. Here's how.",
-            "published_utc": "2026-03-17T13:00:44+00:00"
+            "published_utc": "2026-03-17T13:00:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -282,34 +331,6 @@
             "published_utc": "2026-03-17T00:00:45+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Is your Android phone crashing? This hidden 'safe mode' trick can find the culprit",
-            "link": "https://www.zdnet.com/article/how-to-use-android-safe-mode-fix-slow-phone/",
-            "summary": "Safe mode itself doesn't fix your Android phone's problems, but it helps you diagnose them.",
-            "published_utc": "2026-03-16T22:08:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Nvidia's 'ChatGPT moment' for self-driving cars, and other key AI announcements at GTC 2026",
-            "link": "https://www.zdnet.com/article/nvidia-physical-ai-gtc-2026/",
-            "summary": "These are the physical AI advancements Nvidia said it's making in robotics, autonomous vehicles, and more.",
-            "published_utc": "2026-03-16T21:52:49+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Nvidia wants to own your AI data center from end to end",
-            "link": "https://www.zdnet.com/article/nvidia-wants-to-own-your-ai-data-center-end-to-end/",
-            "summary": "Nvidia's CEO makes the case that AI data centers will be more efficient, more economical, and generate more revenue if you buy all the parts from his ...",
-            "published_utc": "2026-03-16T20:32:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Nvidia bets on OpenClaw, but adds a security layer - how NemoClaw works",
-            "link": "https://www.zdnet.com/article/nvidia-openclaw-nemoclaw-security-stack-gtc-2026/",
-            "summary": "The company sees OpenClaw as the future of personal AI, but gives it some much-needed privacy and security help.",
-            "published_utc": "2026-03-16T20:28:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Stryker attack wiped tens of thousands of devices, no malware needed",
             "link": "https://www.bleepingcomputer.com/news/security/stryker-attack-wiped-tens-of-thousands-of-devices-no-malware-needed/",
@@ -352,13 +373,6 @@
             "published_utc": "2026-03-16T14:45:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Security Firm Executive Targeted in Sophisticated Phishing Attack",
-            "link": "https://www.securityweek.com/security-firm-executive-targeted-in-sophisticated-phishing-attack/",
-            "summary": "",
-            "published_utc": "2026-03-16T14:39:52+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Shadow AI is everywhere. Here’s how to find and secure it.",
             "link": "https://www.bleepingcomputer.com/news/security/shadow-ai-is-everywhere-heres-how-to-find-and-secure-it/",
@@ -385,13 +399,6 @@
             "link": "https://www.infosecurity-magazine.com/news/security-flaw-aws-bedrock/",
             "summary": "DNS-based attack in AWS Bedrock AgentCore lets AI sandboxes exfiltrate cloud data",
             "published_utc": "2026-03-16T13:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "China-Linked Hackers Hit Asian Militaries in Patient Espionage Operation",
-            "link": "https://www.securityweek.com/china-linked-hackers-hit-asian-militaries-in-patient-espionage-operation/",
-            "summary": "",
-            "published_utc": "2026-03-16T12:52:12+00:00"
         },
         {
             "source": "CSO Online",
@@ -2772,13 +2779,6 @@
             "link": "https://www.infosecurity-magazine.com/news/fifth-breaches-two-weeks-recover/",
             "summary": "Absolute Security claims that full recovery from endpoint-related downtime can take up to a fortnight for most organizations",
             "published_utc": "2026-01-08T12:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "US To Leave Global Forum on Cyber Expertise",
-            "link": "https://www.infosecurity-magazine.com/news/us-leave-global-forum-on-cyber/",
-            "summary": "The Trump administration decided to leave 66 international organizations, including the GFCE and the European Centre of Excellence for Countering Hybr...",
-            "published_utc": "2026-01-08T11:15:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
