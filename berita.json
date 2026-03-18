@@ -1,6 +1,34 @@
 {
-    "lastUpdatedUTC": "2026-03-18T08:53:10.403888+00:00",
+    "lastUpdatedUTC": "2026-03-18T09:57:49.905096+00:00",
     "articles": [
+        {
+            "source": "InfosecurityMag",
+            "title": "AI Issues Will Drive Half of Incident Response Efforts by 2028, Says Gartner",
+            "link": "https://www.infosecurity-magazine.com/news/ai-issues-half-incident-response/",
+            "summary": "Gartner has urged security teams to get involved in AI projects from the start to avoid costly incident response",
+            "published_utc": "2026-03-18T09:40:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "ClickFix treibt neue Infostealer-Kampagnen an",
+            "link": "https://www.csoonline.com/article/4146782/clickfix-treibt-neue-infostealer-kampagnen-an.html",
+            "summary": "",
+            "published_utc": "2026-03-18T09:23:15+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Best early Amazon Spring Sale deals under $25",
+            "link": "https://www.zdnet.com/article/best-early-amazon-spring-sale-2026-deals-under-25/",
+            "summary": "Amazon's Big Spring Sale already has plenty of cheap deals on useful tech gadgets. These are our favorites.",
+            "published_utc": "2026-03-18T09:00:51+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Cybersecurity and privacy priorities for 2026: The legal risk map",
+            "link": "https://www.csoonline.com/article/4146429/cybersecurity-and-privacy-priorities-for-2026-the-legal-risk-map.html",
+            "summary": "",
+            "published_utc": "2026-03-18T09:00:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "The best early Amazon Spring Sale deals: Save on streaming, Apple, Samsung, and more",
@@ -70,13 +98,6 @@
             "link": "https://www.csoonline.com/article/4146564/nvidia-nemoclaw-promises-to-run-openclaw-agents-securely-3.html",
             "summary": "",
             "published_utc": "2026-03-17T19:32:22+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Best early Amazon Spring Sale tablet deals 2026",
-            "link": "https://www.zdnet.com/article/best-early-amazon-spring-sale-2026-tablet-deals/",
-            "summary": "We found the best early deals on tablets from brands like Apple, Samsung, and more, ahead of Amazon's Big Spring Sale.",
-            "published_utc": "2026-03-17T19:30:46+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -224,13 +245,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/new-font-rendering-trick-hides-malicious-commands-from-ai-tools/",
             "summary": "A new font-rendering attack causes AI assistants to miss malicious commands shown on webpages by hiding them in seemingly harmless HTML. [...]",
             "published_utc": "2026-03-17T13:59:12+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "This $5 USB-C connector solved my biggest problem with charging phones and laptops",
-            "link": "https://www.zdnet.com/article/magnetic-swivel-usbc-accessory-review/",
-            "summary": "This USB-C magnetic breakaway connector bends, swivels, rotates, handles 240W of power, and pulls away before your ports break.",
-            "published_utc": "2026-03-17T13:57:27+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -588,20 +602,6 @@
             "link": "https://www.csoonline.com/article/4144783/storm-2561-targets-enterprise-vpn-users-with-seo-poisoning-fake-clients.html",
             "summary": "",
             "published_utc": "2026-03-13T08:51:14+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "The cyber perimeter was never dead. We just abandoned it.",
-            "link": "https://www.csoonline.com/article/4137598/the-cyber-perimeter-was-never-dead-we-just-abandoned-it.html",
-            "summary": "",
-            "published_utc": "2026-03-13T07:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "10 Kennzahlen, die CISOs weiterbringen",
-            "link": "https://www.csoonline.com/article/3492322/cybersecurity-messen-10-kennzahlen-die-cisos-weiterbringen.html",
-            "summary": "",
-            "published_utc": "2026-03-13T04:09:00+00:00"
         },
         {
             "source": "Schneier",
@@ -2774,13 +2774,6 @@
             "published_utc": "2026-01-08T16:00:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "Phishing Attacks Exploit Misconfigured Email Routing Settings to Target Microsoft 365 Users",
-            "link": "https://www.infosecurity-magazine.com/news/phishing-exploits-misconfigured/",
-            "summary": "Misconfigurations abused to make phishing emails look like they come from within the organization",
-            "published_utc": "2026-01-08T14:01:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "Credential stuffing: What it is and how to protect yourself",
             "link": "https://www.welivesecurity.com/en/cybersecurity/credential-stuffing-what-it-is-how-protect-yourself/",
@@ -3500,6 +3493,13 @@
             "link": "https://threatpost.com/ransomware-attacks-are-on-the-rise/180481/",
             "summary": "Lockbit is by far this summer’s most prolific ransomware group, trailed by two offshoots of the Conti group.",
             "published_utc": "2022-08-26T16:44:27+00:00"
+        },
+        {
+            "source": "Threatpost",
+            "title": "Cybercriminals Are Selling Access to Chinese Surveillance Cameras",
+            "link": "https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/",
+            "summary": "Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed.",
+            "published_utc": "2022-08-25T18:47:15+00:00"
         }
     ]
 }
