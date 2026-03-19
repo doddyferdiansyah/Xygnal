@@ -1,6 +1,20 @@
 {
-    "lastUpdatedUTC": "2026-03-19T11:37:15.144256+00:00",
+    "lastUpdatedUTC": "2026-03-19T13:08:51.078315+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Max severity Ubiquiti UniFi flaw may allow account takeover",
+            "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-unifi-flaw-that-may-enable-account-takeover/",
+            "summary": "Ubiquiti has patched two vulnerabilities in the UniFi Network Application, including a maximum-severity flaw that may allow attackers to take over use...",
+            "published_utc": "2026-03-19T13:00:22+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Best Buy is already selling the MacBook Neo at a discount - and the catch isn't so bad",
+            "link": "https://www.zdnet.com/article/macbook-neo-best-buy-deal/",
+            "summary": "Fresh off its launch, the MacBook Neo is already available in open-box condition, and that's not as bad as it sounds.",
+            "published_utc": "2026-03-19T12:37:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "I tested an M.2 PCIe enclosure for data storage, and it promptly improved my workflow",
@@ -145,8 +159,8 @@
             "source": "ZDNet Security",
             "title": "How to turn your old Android phone into a Wi-Fi extender - and fix dead spots at home",
             "link": "https://www.zdnet.com/article/how-to-turn-android-phone-into-wifi-extender-for-free/",
-            "summary": "It's free, easy to set up, and lets you avoid upgrading to a mesh system.",
-            "published_utc": "2026-03-19T02:00:43+00:00"
+            "summary": "It's free, easy to set up, doesn't use mobile data, and lets you avoid upgrading to mesh.",
+            "published_utc": "2026-03-19T02:00:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -483,13 +497,6 @@
             "link": "https://www.infosecurity-magazine.com/news/cursor-jack-attack-path-ai/",
             "summary": "CursorJack shows how malicious MCP deeplinks in Cursor IDE can trigger user-approved code execution",
             "published_utc": "2026-03-17T15:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Top 5 Things CISOs Need to Do Today to Secure AI Agents",
-            "link": "https://www.bleepingcomputer.com/news/security/top-5-things-cisos-need-to-do-today-to-secure-ai-agents/",
-            "summary": "AI agents are autonomous actors with real access to data and systems, not just copilots. Token Security explains why identity-based access control is ...",
-            "published_utc": "2026-03-17T14:02:12+00:00"
         },
         {
             "source": "CSO Online",
@@ -3493,13 +3500,6 @@
             "link": "https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/",
             "summary": "Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed.",
             "published_utc": "2022-08-25T18:47:15+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Twitter Whistleblower Complaint: The TL;DR Version",
-            "link": "https://threatpost.com/twitter-whistleblower-tldr-version/180472/",
-            "summary": "Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a n...",
-            "published_utc": "2022-08-24T14:17:04+00:00"
         }
     ]
 }
