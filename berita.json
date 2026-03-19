@@ -1,6 +1,20 @@
 {
-    "lastUpdatedUTC": "2026-03-19T10:42:14.260893+00:00",
+    "lastUpdatedUTC": "2026-03-19T11:37:15.144256+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "I tested an M.2 PCIe enclosure for data storage, and it promptly improved my workflow",
+            "link": "https://www.zdnet.com/article/hyper-drive-usb4-enclosure-review/",
+            "summary": "The HyperDrive Next USB4 M.2 PCIe enclosure lets NVMe SSDs perform at their best, ensuring fast transfer speeds for large files.",
+            "published_utc": "2026-03-19T11:25:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "CISA urges US orgs to secure Microsoft Intune systems after Stryker breach",
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-businesses-to-secure-microsoft-intune-systems-after-stryker-breach/",
+            "summary": "CISA warned U.S. organizations to follow Microsoft guidance to strengthen the Intune endpoint management tool after a cyberattack exploited it to wipe...",
+            "published_utc": "2026-03-19T11:02:27+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Raven Emerges From Stealth With $20 Million in Funding",
@@ -261,13 +275,6 @@
             "published_utc": "2026-03-18T16:53:42+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "What's a minimal install for Linux? 6 reasons it can come in handy",
-            "link": "https://www.zdnet.com/article/minimal-installs-linux/",
-            "summary": "If you've ever installed Linux and noticed the distribution offers a \"minimal\" install, you've probably wondered, \"Why bother?\" Well, there are reason...",
-            "published_utc": "2026-03-18T16:48:29+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "Cloud Security Startup Native Exits Stealth With $42 Million in Funding",
             "link": "https://www.securityweek.com/cloud-security-startup-native-exits-stealth-with-42-million-in-funding/",
@@ -483,13 +490,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/top-5-things-cisos-need-to-do-today-to-secure-ai-agents/",
             "summary": "AI agents are autonomous actors with real access to data and systems, not just copilots. Token Security explains why identity-based access control is ...",
             "published_utc": "2026-03-17T14:02:12+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "New font-rendering trick hides malicious commands from AI tools",
-            "link": "https://www.bleepingcomputer.com/news/security/new-font-rendering-trick-hides-malicious-commands-from-ai-tools/",
-            "summary": "A new font-rendering attack causes AI assistants to miss malicious commands shown on webpages by hiding them in seemingly harmless HTML. [...]",
-            "published_utc": "2026-03-17T13:59:12+00:00"
         },
         {
             "source": "CSO Online",
