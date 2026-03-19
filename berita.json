@@ -1,6 +1,76 @@
 {
-    "lastUpdatedUTC": "2026-03-18T23:32:18.010449+00:00",
+    "lastUpdatedUTC": "2026-03-19T02:27:03.196923+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "This AI tool turned my messy browser tabs into something actually manageable",
+            "link": "https://www.zdnet.com/article/karakeep-cure-browser-tab-overload/",
+            "summary": "Meet my new secret weapon for automatically organizing online articles, research, and YouTube videos.",
+            "published_utc": "2026-03-19T02:01:01+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How to turn your old Android phone into a Wi-Fi extender - and fix dead spots at home",
+            "link": "https://www.zdnet.com/article/how-to-turn-android-phone-into-wifi-extender-for-free/",
+            "summary": "It's free, easy to set up, and lets you avoid upgrading to a mesh system.",
+            "published_utc": "2026-03-19T02:00:43+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The hidden metric that makes these portable power stations truly worth your money",
+            "link": "https://www.zdnet.com/article/most-efficient-portable-power-stations-lab-tested/",
+            "summary": "ZDNET's latest Lab Awards crown the best portable power stations that deliver electricity most efficiently.",
+            "published_utc": "2026-03-19T01:30:45+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The MacBook Neo just upended the budget laptop market - and it's bad news for PC makers",
+            "link": "https://www.zdnet.com/article/what-macbook-neo-means-to-the-pc-industry/",
+            "summary": "For years, Apple has refused to compete with the makers of cheap laptops - until now. Here's who wins and who loses in the wake of the MacBook Neo.",
+            "published_utc": "2026-03-19T01:14:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I see why this Linux distro is the dream pick for gamers and content creators",
+            "link": "https://www.zdnet.com/article/glf-os-linux-distro-perfect-for-gamers-and-content-creators/",
+            "summary": "Yes, it was a challenge to install. But then GLF OS took me by surprise - in the best possible way.",
+            "published_utc": "2026-03-19T01:01:07+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I didn't think switching to a 4K webcam on my MacBook would make such a big difference",
+            "link": "https://www.zdnet.com/article/obsbot-tiny-3-review/",
+            "summary": "The PTZ webcam from Obsbot packs a punch in a tiny form factor. But you'll have to be willing to pay to play.",
+            "published_utc": "2026-03-19T01:00:48+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Fitbit users: You can upload medical records now for AI advice - but is that safe?",
+            "link": "https://www.zdnet.com/article/fitbit-medical-google-ai/",
+            "summary": "It'll even analyze your lab results to deliver personalized recommendations. But here's what you need to know first.",
+            "published_utc": "2026-03-19T00:54:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I tried Gemini's Personal Intelligence, and it was accurate in a useful (but unsettling) way",
+            "link": "https://www.zdnet.com/article/geminis-personal-intelligence-mode-rolling-out-to-all-users/",
+            "summary": "I gave Gemini's hyper-personalized mode a test drive and was shocked by how much it knew about me. However, it was surprisingly useful.",
+            "published_utc": "2026-03-19T00:50:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Why you shouldn't skip your TV's firmware updates - and how to do it on older models",
+            "link": "https://www.zdnet.com/article/tv-usb-port-update-reset/",
+            "summary": "Updating your TV's software can dramatically improve performance and fix those pesky bugs and glitches - even without internet.",
+            "published_utc": "2026-03-19T00:44:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I test drove the new Android Desktop Mode with my Pixel, and it genuinely wowed me",
+            "link": "https://www.zdnet.com/article/how-to-use-android-desktop-mode/",
+            "summary": "The latest Android feature turned my Pixel phone into a genuinely productive desktop computer - for free.",
+            "published_utc": "2026-03-19T00:40:09+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Aura confirms data breach exposing 900,000 marketing contacts",
@@ -45,20 +115,6 @@
         },
         {
             "source": "ZDNet Security",
-            "title": "How to find and update your TV firmware (and why it's critical to do it properly)",
-            "link": "https://www.zdnet.com/article/tv-usb-port-update-reset/",
-            "summary": "Updating your TV's software can improve performance and fix those pesky bugs and glitches - even without internet.",
-            "published_utc": "2026-03-18T18:58:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How I turned my Pixel phone into a genuinely productive desktop computer - for free",
-            "link": "https://www.zdnet.com/article/i-tested-android-desktop-mode-on-my-pixel-phone/",
-            "summary": "I just test drove the new Android desktop mode, and it wowed me. Here's how to try it for yourself.",
-            "published_utc": "2026-03-18T18:48:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
             "title": "I tried a highly-customized Hyprland desktop that's meant for Linux pros - and didn't hate it",
             "link": "https://www.zdnet.com/article/ml4w-hyprland-custom-desktop-easy-setup-minutes/",
             "summary": "Want to customize Hyprland without editing config files? ML4W makes it simple. Here's how.",
@@ -91,13 +147,6 @@
             "link": "https://www.zdnet.com/article/minimal-installs-linux/",
             "summary": "If you've ever installed Linux and noticed the distribution offers a \"minimal\" install, you've probably wondered, \"Why bother?\" Well, there are reason...",
             "published_utc": "2026-03-18T16:48:29+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Gemini's Personal Intelligence shocked me with everything it knows - here's how to turn it on (or off)",
-            "link": "https://www.zdnet.com/article/geminis-personal-intelligence-mode-rolling-out-to-all-users/",
-            "summary": "I gave Gemini's hyper-personalized mode a test drive and was unsettled by how much it knew about me. However, it was surprisingly useful.",
-            "published_utc": "2026-03-18T16:35:44+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -133,13 +182,6 @@
             "link": "https://www.securityweek.com/darksword-ios-exploit-kit-used-by-state-sponsored-hackers-spyware-vendors/",
             "summary": "",
             "published_utc": "2026-03-18T15:30:50+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Fitbit lets you upload medical records and ask its AI for advice now - but is that safe?",
-            "link": "https://www.zdnet.com/article/fitbit-medical-google-ai/",
-            "summary": "It'll even analyze your lab results to deliver personalized recommendations. But here's what you need to know first.",
-            "published_utc": "2026-03-18T15:29:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -219,32 +261,11 @@
             "published_utc": "2026-03-18T13:55:49+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "A headphone maker is offering an audio loophole Apple likely won't be happy about",
-            "link": "https://www.zdnet.com/article/jbls-live-770-nc-news/",
-            "summary": "With a single app feature, JBL's latest Live 780NC headphones open up an otherwise closed-off feature for iOS fans.",
-            "published_utc": "2026-03-18T13:42:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "AI-Enabled Adversaries Compress Time-to-Exploit Following Vulnerability Disclosure",
             "link": "https://www.infosecurity-magazine.com/news/exploitation-accelerates-in-2025/",
             "summary": "Rapid7 says median time from publication to CISA KEV inclusion dropped to five days",
             "published_utc": "2026-03-18T13:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "This free privacy tool makes it super easy to see which sites are selling your data",
-            "link": "https://www.zdnet.com/article/optmeowt-free-privacy-tool-stop-sites-selling-data/",
-            "summary": "Data is gold, and some companies go to great lengths to collect it, save it, and sell it. But you can stop it. Here's how.",
-            "published_utc": "2026-03-18T12:56:43+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Two years later, should you still buy the Sonos Ace? Why my answer is a resounding yes",
-            "link": "https://www.zdnet.com/article/sonos-ace-headphones-review-2026/",
-            "summary": "Since launching its first over-ear headphones, Sonos has tackled some of my biggest problems with the original model.",
-            "published_utc": "2026-03-18T12:49:00+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -259,27 +280,6 @@
             "link": "https://www.securityweek.com/apple-debuts-background-security-improvements-with-fresh-webkit-patches/",
             "summary": "",
             "published_utc": "2026-03-18T12:35:49+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Oupes Mega 1 review: I finally found a portable power station I can store in my truck",
-            "link": "https://www.zdnet.com/article/oupes-mega-1-review/",
-            "summary": "It's rare that I feature a power station not made by one of the big names, but the Oupes Mega 1 makes the cut, even receiving a ZDNET Lab Award for it...",
-            "published_utc": "2026-03-18T12:05:58+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Bluetti AC240 review: One of the most durable power stations I've tested",
-            "link": "https://www.zdnet.com/article/bluetti-ac240-review/",
-            "summary": "The Bluetti AC240 is water and dust-resistant, allowing it to withstand the worst Mother Nature can throw at it. It also earns a ZDNET Lab Award for i...",
-            "published_utc": "2026-03-18T12:05:42+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The best portable power stations of 2026: Expert and lab tested",
-            "link": "https://www.zdnet.com/article/best-portable-power-station/",
-            "summary": "We tested some of the best portable power stations from brands like EcoFlow, Jackery, and more to help you find the best off-grid solutions.",
-            "published_utc": "2026-03-18T12:01:00+00:00"
         },
         {
             "source": "CSO Online",
