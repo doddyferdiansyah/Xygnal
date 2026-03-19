@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2026-03-19T14:50:53.484371+00:00",
+    "lastUpdatedUTC": "2026-03-19T15:56:19.493175+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "I wore the Whoop 5.0 for a month - it combines the best of the Oura Ring and Apple Watch",
+            "link": "https://www.zdnet.com/article/whoop-5-0-review/",
+            "summary": "The Whoop 5.0 has several medical-minded tools, like ECG and blood pressure monitoring. Here's how I actually used them.",
+            "published_utc": "2026-03-19T15:45:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Bose just gave me a compelling reason to put my AirPods Pro away for good",
+            "link": "https://www.zdnet.com/article/bose-quietcomfort-ultra-earbuds-2-review/",
+            "summary": "Bose's QuietComfort Ultra 2 deliver strong audio and comfort in a form ideal for travel.",
+            "published_utc": "2026-03-19T15:45:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Iran Readied Cyberattack Capabilities for Response Prior to Epic Fury",
+            "link": "https://www.securityweek.com/iran-readied-cyberattack-capabilities-for-response-prior-to-epic-fury/",
+            "summary": "",
+            "published_utc": "2026-03-19T15:30:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "This infrared gadget claims to improve your mood with lights - I got to the bottom of it",
+            "link": "https://www.zdnet.com/article/sunbooster-sls2000-review/",
+            "summary": "I tested a near-infrared light device that attaches to my computer, mimics the sun, and allegedly improves mood and focus. Did it work?",
+            "published_utc": "2026-03-19T15:08:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Marquis Data Breach Affects 672,000 Individuals",
+            "link": "https://www.securityweek.com/marquis-data-breach-affects-672000-individuals/",
+            "summary": "",
+            "published_utc": "2026-03-19T15:07:36+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Russian hackers exploit Zimbra flaw in Ukrainian govt attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/russian-apt28-military-hackers-exploit-zimbra-flaw-in-ukrainian-govt-attacks/",
+            "summary": "Hackers part of APT28, a state-backed threat group linked to Russia's military intelligence service (GRU), are exploiting a Zimbra Collaboration Suite...",
+            "published_utc": "2026-03-19T14:55:50+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "Telnet vulnerability opens door to remote code execution as root",
@@ -275,32 +317,11 @@
             "published_utc": "2026-03-19T00:44:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I test drove the new Android Desktop Mode with my Pixel, and it genuinely wowed me",
-            "link": "https://www.zdnet.com/article/how-to-use-android-desktop-mode/",
-            "summary": "The latest Android feature turned my Pixel phone into a genuinely productive desktop computer - for free.",
-            "published_utc": "2026-03-19T00:40:09+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Aura confirms data breach exposing 900,000 marketing contacts",
             "link": "https://www.bleepingcomputer.com/news/security/aura-confirms-data-breach-exposing-900-000-marketing-contacts/",
             "summary": "Identity protection company Aura has confirmed that an unauthorized party gained access to nearly 900,000 customer records containing names and email ...",
             "published_utc": "2026-03-18T22:56:50+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "You can now order 1-hour Amazon deliveries across 2,000 cities - is yours on the list?",
-            "link": "https://www.zdnet.com/article/amazon-one-hour-delivery/",
-            "summary": "Items, including household essentials, will arrive at your door in an hour, but delivery might cost as much as the item itself.",
-            "published_utc": "2026-03-18T21:40:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Can the Samsung Frame Pro replace my TV? My advice after weeks of testing",
-            "link": "https://www.zdnet.com/article/samsung-frame-pro-tv-review/",
-            "summary": "The Frame Pro TV improves on its predecessor by integrating entertainment and home décor. Right now, it's $500 off.",
-            "published_utc": "2026-03-18T20:46:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -338,13 +359,6 @@
             "published_utc": "2026-03-18T16:53:42+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Cloud Security Startup Native Exits Stealth With $42 Million in Funding",
-            "link": "https://www.securityweek.com/cloud-security-startup-native-exits-stealth-with-42-million-in-funding/",
-            "summary": "",
-            "published_utc": "2026-03-18T15:59:50+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "New Ubuntu Flaw Enables Local Attackers to Gain Root Access",
             "link": "https://www.infosecurity-magazine.com/news/ubuntu-flaw-enables-root-access/",
@@ -357,13 +371,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/marquis-ransomware-gang-stole-data-of-672-000-people-in-2025-cyberattack/",
             "summary": "Marquis, a Texas-based financial services provider, revealed this week that a ransomware gang stole the data of over 670,000 individuals in an August ...",
             "published_utc": "2026-03-18T15:32:39+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "‘DarkSword’ iOS Exploit Kit Used by State-Sponsored Hackers, Spyware Vendors",
-            "link": "https://www.securityweek.com/darksword-ios-exploit-kit-used-by-state-sponsored-hackers-spyware-vendors/",
-            "summary": "",
-            "published_utc": "2026-03-18T15:30:50+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -490,13 +497,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/apple-pushes-first-background-security-improvements-update-to-fix-webkit-flaw/",
             "summary": "Apple has released its first Background Security Improvements update to fix a WebKit flaw tracked as CVE-2026-20643 on iPhones, iPads, and Macs withou...",
             "published_utc": "2026-03-18T01:06:31+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "GlassWorm malware hits 400+ code repos on GitHub, npm, VSCode, OpenVSX",
-            "link": "https://www.bleepingcomputer.com/news/security/glassworm-malware-hits-400-plus-code-repos-on-github-npm-vscode-openvsx/",
-            "summary": "The GlassWorm supply-chain campaign has returned with a new, coordinated attack that targeted hundreds of packages, repositories, and extensions on Gi...",
-            "published_utc": "2026-03-17T21:42:54+00:00"
         },
         {
             "source": "CSO Online",
