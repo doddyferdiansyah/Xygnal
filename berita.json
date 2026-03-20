@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-03-20T02:12:25.524940+00:00",
+    "lastUpdatedUTC": "2026-03-20T04:48:14.293137+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "Die besten IAM-Tools",
+            "link": "https://www.csoonline.com/article/3495114/identity-access-managementdie-9-besten-iam-tools.html",
+            "summary": "",
+            "published_utc": "2026-03-20T04:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I used Omega Linux to revitalize a junk PC, and it's noticeably better than Ubuntu",
+            "link": "https://www.zdnet.com/article/i-tested-omega-linux-revive-old-pc/",
+            "summary": "If you're looking for a distribution for an aging machine, consider Omega, based on Arch.",
+            "published_utc": "2026-03-20T03:00:39+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "EndeavorOS Titan is one of the most unique Arch-based Linux distros I've tried - here's why",
+            "link": "https://www.zdnet.com/article/endeavoros-titan-hands-on/",
+            "summary": "EndeavorOS Titan is the newest release in this Arch-based distribution, and it is well worth the update, especially if you depend on proper GPU drivers.",
+            "published_utc": "2026-03-20T02:30:39+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "My personal data has been leaked several times - this service helped clean it all up",
@@ -310,18 +331,11 @@
             "published_utc": "2026-03-19T13:00:22+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Best Buy is already selling the MacBook Neo at a discount - and the catch isn't so bad",
-            "link": "https://www.zdnet.com/article/macbook-neo-best-buy-deal/",
-            "summary": "Fresh off its launch, the MacBook Neo is already available in open-box condition, and that's not as bad as it sounds.",
-            "published_utc": "2026-03-19T12:37:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I tested an M.2 PCIe enclosure for data storage, and it promptly improved my workflow",
-            "link": "https://www.zdnet.com/article/hyper-drive-usb4-enclosure-review/",
-            "summary": "The HyperDrive Next USB4 M.2 PCIe enclosure lets NVMe SSDs perform at their best, ensuring fast transfer speeds for large files.",
-            "published_utc": "2026-03-19T11:25:00+00:00"
+            "source": "CSO Online",
+            "title": "SpyCloud’s 2026 Identity Exposure Report Reveals Explosion of Non-Human Identity Theft",
+            "link": "https://www.csoonline.com/article/4147970/spyclouds-2026-identity-exposure-report-reveals-explosion-of-non-human-identity-theft.html",
+            "summary": "",
+            "published_utc": "2026-03-19T13:00:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -364,6 +378,13 @@
             "link": "https://www.csoonline.com/article/4147148/the-multi-billion-dollar-mistake-why-cloud-misconfigurations-are-your-biggest-security-threat.html",
             "summary": "",
             "published_utc": "2026-03-19T10:00:00+00:00"
+        },
+        {
+            "source": "WeLiveSecurity",
+            "title": "EDR killers explained: Beyond the drivers",
+            "link": "https://www.welivesecurity.com/en/eset-research/edr-killers-explained-beyond-the-drivers/",
+            "summary": "ESET researchers dive deeper into the EDR killer ecosystem, disclosing how attackers abuse vulnerable drivers",
+            "published_utc": "2026-03-19T09:55:08+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -569,25 +590,11 @@
             "published_utc": "2026-03-17T15:00:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Cyber-Attacken fluten Eon-Netz: Angriffe verzehnfacht",
-            "link": "https://www.csoonline.com/article/4146299/cyber-attacken-fluten-eon-netz-angriffe-verzehnfacht-2.html",
-            "summary": "",
-            "published_utc": "2026-03-17T12:47:53+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Surge in Nation State Attacks on UK Firms Amid Cyber Warfare Fears",
             "link": "https://www.infosecurity-magazine.com/news/nation-state-attacks-uk-firms/",
             "summary": "Armis reveals that “mutually assured disruption” is no longer preventing state-backed attacks",
             "published_utc": "2026-03-17T12:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "AWS Bedrock’s ‘isolated’ sandbox comes with a DNS escape hatch",
-            "link": "https://www.csoonline.com/article/4146202/aws-bedrocks-isolated-sandbox-comes-with-a-dns-escape-hatch.html",
-            "summary": "",
-            "published_utc": "2026-03-17T11:12:35+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -3255,13 +3262,6 @@
             "link": "https://www.welivesecurity.com/en/business-security/black-hat-usa-2025-cyber-insurance-premium/",
             "summary": "A sky-high premium may not always reflect your company’s security posture",
             "published_utc": "2025-08-08T14:25:09+00:00"
-        },
-        {
-            "source": "WeLiveSecurity",
-            "title": "Android adware: What is it, and how do I get it off my device?",
-            "link": "https://www.welivesecurity.com/en/mobile-security/android-adware-what-is-it-how-get-it-off-my-device/",
-            "summary": "Is your phone suddenly flooded with aggressive ads, slowing down performance or leading to unusual app behavior? Here’s what to do.",
-            "published_utc": "2025-08-08T09:00:00+00:00"
         },
         {
             "source": "NVD (NIST)",
