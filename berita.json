@@ -1,12 +1,82 @@
 {
-    "lastUpdatedUTC": "2026-03-20T17:36:39.308993+00:00",
+    "lastUpdatedUTC": "2026-03-20T18:53:23.203654+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Oracle pushes emergency fix for critical Identity Manager RCE flaw",
+            "link": "https://www.bleepingcomputer.com/news/security/oracle-pushes-emergency-fix-for-critical-identity-manager-rce-flaw/",
+            "summary": "Oracle has released an out-of-band security update to fix a critical unauthenticated remote code execution vulnerability in Identity Manager and Web S...",
+            "published_utc": "2026-03-20T18:48:47+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Frequent flyers will love this tiny Bluetooth gadget, and it's on sale now",
+            "link": "https://www.zdnet.com/article/airfly-pro-2-deal-amazon-spring-sale-2026/",
+            "summary": "The AirFly Pro 2 is $15 off during Best Buy's Tech Fest sale. Here's why you need it.",
+            "published_utc": "2026-03-20T18:41:05+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The Trump administration is targeting state AI legislation - again. Why that matters",
+            "link": "https://www.zdnet.com/article/state-ai-safety-laws-california-new-york/",
+            "summary": "New policy guidance from the White House wants Congress to preempt state AI laws. Here's what current state AI laws address.",
+            "published_utc": "2026-03-20T18:34:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Using an infrared light to improve your productivity sounds bizarre - so I put that claim to the test",
+            "link": "https://www.zdnet.com/article/sunbooster-sls2000-review/",
+            "summary": "The Sunbooster SLS2000 attaches to your monitor, mimics the sun, and allegedly improves mood and focus. Did it work?",
+            "published_utc": "2026-03-20T18:21:42+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "OpenAI's rumored 'superapp' could finally solve one of my biggest issues with ChatGPT",
+            "link": "https://www.zdnet.com/article/openai-superapp-merges-chatgpt-codex-atlas-together/",
+            "summary": "Commentary: OpenAI reportedly wants one app for everything, and I'm here for it.",
+            "published_utc": "2026-03-20T18:12:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "YouTube killed my comment alerts, so I vibe-coded a fix to get them back - in just 1 hour",
+            "link": "https://www.zdnet.com/article/youtube-comment-alerts-gemini-vibe-code-guide/",
+            "summary": "With Gemini and a simple Python script, I rebuilt YouTube email alerts. Now I won't miss another comment. Here's how you can do the same.",
+            "published_utc": "2026-03-20T18:03:16+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "6 useful Bluetooth gadgets that feel like life hacks (and won't break the bank)",
+            "link": "https://www.zdnet.com/article/amazon-spring-sale-bluetooth-gadgets/",
+            "summary": "Bluetooth gadgets are among the most practical on the market. These are my favorites.",
+            "published_utc": "2026-03-20T18:00:45+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "For Amazon's Fire Phone to succeed, it'll need to fix its app store problem first",
+            "link": "https://www.zdnet.com/article/new-amazon-fire-phone-2026-app-problem/",
+            "summary": "A new Fire Phone is reportedly being developed - and I sure hope Amazon doesn't make the same mistakes it did years ago.",
+            "published_utc": "2026-03-20T17:56:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Water utilities strengthen cybersecurity through cooperation",
+            "link": "https://www.csoonline.com/article/4148225/water-utilities-strengthen-cybersecurity-through-cooperation.html",
+            "summary": "",
+            "published_utc": "2026-03-20T17:51:34+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Police take down 373,000 fake CSAM sites in Operation Alice",
             "link": "https://www.bleepingcomputer.com/news/security/police-take-down-373-000-fake-csam-sites-in-operation-alice/",
             "summary": "An international law enforcement action called Operation Alice has shut down over 373,000 dark web sites that offered fake CSAM packages. [...]",
             "published_utc": "2026-03-20T17:19:02+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Stop using AI to submit bug reports, says Google",
+            "link": "https://www.csoonline.com/article/4148203/stop-using-ai-to-submit-bug-reports-says-google-2.html",
+            "summary": "",
+            "published_utc": "2026-03-20T16:50:53+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -261,25 +331,11 @@
             "published_utc": "2026-03-20T02:30:39+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "AI will accelerate tech job growth - former Tesla president explains where and why",
-            "link": "https://www.zdnet.com/article/former-tesla-president-explains-where-ai-will-accelerate-job-growth/",
-            "summary": "Venture capitalist Jon McNeill foresees growing demand for humans to sustain complex AI infrastructure and architecture.",
-            "published_utc": "2026-03-20T01:00:00+00:00"
-        },
-        {
             "source": "KrebsOnSecurity",
             "title": "Feds Disrupt IoT Botnets Behind Huge DDoS Attacks",
             "link": "https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/",
             "summary": "The U.S. Justice Department joined authorities in Canada and Germany in dismantling the online infrastructure behind four highly disruptive botnets th...",
             "published_utc": "2026-03-20T00:49:19+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "This viral wireless dongle lets you share your audio on a flight - how it works",
-            "link": "https://www.zdnet.com/article/twelve-south-airfly-pro-2-review/",
-            "summary": "The Twelve South AirFly Pro 2 improves audio quality, streamlines connectivity, and makes in-flight entertainment much easier to enjoy.",
-            "published_utc": "2026-03-20T00:20:40+00:00"
         },
         {
             "source": "WIRED Security",
@@ -303,20 +359,6 @@
             "published_utc": "2026-03-19T23:08:34+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Why your biggest tech upgrade this year is a splash of color",
-            "link": "https://www.zdnet.com/article/why-so-many-colors-in-the-latest-mobile-tech/",
-            "summary": "For phones, laptops, and other mobile accessories, any color besides black is the new black.",
-            "published_utc": "2026-03-19T23:06:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How to turn your Pixel phone into a PC - with the new Android Desktop Mode",
-            "link": "https://www.zdnet.com/article/how-to-use-android-desktop-mode/",
-            "summary": "I test drove the new Android Desktop Mode with my Pixel, and it genuinely wowed me.",
-            "published_utc": "2026-03-19T21:03:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Navia discloses data breach impacting 2.7 million people",
             "link": "https://www.bleepingcomputer.com/news/security/navia-discloses-data-breach-impacting-27-million-people/",
@@ -338,20 +380,6 @@
             "published_utc": "2026-03-19T18:25:26+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Save big on gaming laptops, Switch 2 consoles, and more during Best Buy's Tech Fest sale",
-            "link": "https://www.zdnet.com/article/best-buy-tech-fest-sale-gaming-deals/",
-            "summary": "Can't wait until Amazon's Big Spring Sale to upgrade your gaming setup? Now at Best Buy, you can save hundreds on gaming laptops, consoles, and more.",
-            "published_utc": "2026-03-19T18:13:32+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "SSD prices have gone up, but this 8TB WD-Black option is 67% off at Best Buy right now",
-            "link": "https://www.zdnet.com/article/wd-black-sn850p-ssd-best-buy-deal/",
-            "summary": "The AI industry is driving up prices for RAM and SSDs, but we found a great deal on the WD Black SN850P.",
-            "published_utc": "2026-03-19T17:54:37+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Bitrefill blames North Korean Lazarus group for cyberattack",
             "link": "https://www.bleepingcomputer.com/news/security/bitrefill-blames-north-korean-lazarus-group-for-cyberattack/",
@@ -364,13 +392,6 @@
             "link": "https://www.csoonline.com/article/4147736/beijing-wants-its-own-quantum-resistant-encryption-standards-rather-than-adopt-nists.html",
             "summary": "",
             "published_utc": "2026-03-19T17:04:38+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How to turn your old Android phone or iPhone into a security camera - in 4 easy steps",
-            "link": "https://www.zdnet.com/article/how-to-turn-iphone-android-phone-into-security-camera-free/",
-            "summary": "You can easily use your old phone as a live home security camera and get alerts, two-way audio, and even recordings.",
-            "published_utc": "2026-03-19T16:39:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -434,13 +455,6 @@
             "link": "https://www.csoonline.com/article/4147970/spyclouds-2026-identity-exposure-report-reveals-explosion-of-non-human-identity-theft.html",
             "summary": "",
             "published_utc": "2026-03-19T13:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "CISA urges US orgs to secure Microsoft Intune systems after Stryker breach",
-            "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-businesses-to-secure-microsoft-intune-systems-after-stryker-breach/",
-            "summary": "CISA warned U.S. organizations to follow Microsoft guidance to strengthen the Intune endpoint management tool after a cyberattack exploited it to wipe...",
-            "published_utc": "2026-03-19T11:02:27+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -595,20 +609,6 @@
             "link": "https://www.csoonline.com/article/4146782/clickfix-treibt-neue-infostealer-kampagnen-an.html",
             "summary": "",
             "published_utc": "2026-03-18T09:23:15+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Cybersecurity and privacy priorities for 2026: The legal risk map",
-            "link": "https://www.csoonline.com/article/4146429/cybersecurity-and-privacy-priorities-for-2026-the-legal-risk-map.html",
-            "summary": "",
-            "published_utc": "2026-03-18T09:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "CISOs rethink their data protection strategies",
-            "link": "https://www.csoonline.com/article/4143384/cisos-rethink-their-data-protection-strategies.html",
-            "summary": "",
-            "published_utc": "2026-03-18T07:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
