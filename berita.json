@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-03-20T06:58:20.649368+00:00",
+    "lastUpdatedUTC": "2026-03-20T07:50:43.562935+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft: March Windows updates break Teams, OneDrive sign-ins",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/kb5079473-march-windows-11-update-breaks-microsoft-account-sign-ins/",
+            "summary": "Microsoft says the March Windows 11 update breaks sign-ins with Microsoft accounts across multiple Microsoft apps, including Teams and OneDrive. [...]",
+            "published_utc": "2026-03-20T07:33:32+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Aisuru and Kimwolf DDoS Botnets Disrupted in International Operation",
+            "link": "https://www.securityweek.com/aisuru-and-kimwolf-ddos-botnets-disrupted-in-international-operation/",
+            "summary": "",
+            "published_utc": "2026-03-20T07:32:32+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "The espionage reality: Your infrastructure is already in the collection path",
+            "link": "https://www.csoonline.com/article/4143390/the-espionage-reality-your-infrastructure-is-already-in-the-collection-path.html",
+            "summary": "",
+            "published_utc": "2026-03-20T07:00:00+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Ex-data analyst stole company data in $2.5M extortion scheme",
@@ -457,13 +478,6 @@
             "published_utc": "2026-03-18T18:10:35+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Ransomware gang exploits Cisco flaw in zero-day attacks since January",
-            "link": "https://www.bleepingcomputer.com/news/security/interlock-ransomware-exploited-secure-fmc-flaw-in-zero-day-attacks-since-january/",
-            "summary": "The Interlock ransomware gang has been exploiting a maximum severity remote code execution (RCE) vulnerability in Cisco's Secure Firewall Management C...",
-            "published_utc": "2026-03-18T16:53:42+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "New Ubuntu Flaw Enables Local Attackers to Gain Root Access",
             "link": "https://www.infosecurity-magazine.com/news/ubuntu-flaw-enables-root-access/",
@@ -567,13 +581,6 @@
             "link": "https://www.csoonline.com/article/3495593/security-entertainment-die-besten-hacker-filme.html",
             "summary": "",
             "published_utc": "2026-03-18T04:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Nvidia NemoClaw promises to run OpenClaw agents securely",
-            "link": "https://www.csoonline.com/article/4146564/nvidia-nemoclaw-promises-to-run-openclaw-agents-securely-3.html",
-            "summary": "",
-            "published_utc": "2026-03-17T19:32:22+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -3465,41 +3472,6 @@
             "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-20005",
             "summary": "Multiple vulnerabilities in the web-based management interface of Cisco Firepower Management Center (FMC) Software could allow an unauthenticated, rem...",
             "published_utc": "2023-11-01T17:15:10+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Student Loan Breach Exposes 2.5M Records",
-            "link": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
-            "summary": "2.5 million people were affected, in a breach that could spell more trouble down the line.",
-            "published_utc": "2022-08-31T12:57:48+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Watering Hole Attacks Push ScanBox Keylogger",
-            "link": "https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/",
-            "summary": "Researchers uncover a watering hole attack likely carried out by APT TA423, which attempts to plant the ScanBox JavaScript-based reconnaissance tool.",
-            "published_utc": "2022-08-30T16:00:43+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms",
-            "link": "https://threatpost.com/0ktapus-victimize-130-firms/180487/",
-            "summary": "Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.",
-            "published_utc": "2022-08-29T14:56:19+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Ransomware Attacks are on the Rise",
-            "link": "https://threatpost.com/ransomware-attacks-are-on-the-rise/180481/",
-            "summary": "Lockbit is by far this summer’s most prolific ransomware group, trailed by two offshoots of the Conti group.",
-            "published_utc": "2022-08-26T16:44:27+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Cybercriminals Are Selling Access to Chinese Surveillance Cameras",
-            "link": "https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/",
-            "summary": "Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed.",
-            "published_utc": "2022-08-25T18:47:15+00:00"
         }
     ]
 }
