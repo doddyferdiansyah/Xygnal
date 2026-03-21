@@ -1,6 +1,20 @@
 {
-    "lastUpdatedUTC": "2026-03-21T13:43:38.786717+00:00",
+    "lastUpdatedUTC": "2026-03-21T14:29:20.310874+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Google adds ‘Advanced Flow’ for safe APK sideloading on Android",
+            "link": "https://www.bleepingcomputer.com/news/security/google-adds-advanced-flow-for-safe-apk-sideloading-on-android/",
+            "summary": "Google has announced a new mechanism in Android called Advanced Flow that will allow sideloading APKs from unverified developers for power users in a ...",
+            "published_utc": "2026-03-21T14:18:23+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft Azure Monitor alerts abused in callback phishing campaigns",
+            "link": "https://www.bleepingcomputer.com/news/security/microsoft-azure-monitor-alerts-abused-in-callback-phishing-campaigns/",
+            "summary": "Microsoft Azure Monitor alerts are being abused to send callback phishing emails that impersonate warnings from the Microsoft Security Team about unau...",
+            "published_utc": "2026-03-21T14:09:19+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Critical Quest KACE Vulnerability Potentially Exploited in Attacks",
@@ -220,16 +234,16 @@
         },
         {
             "source": "ZDNet Security",
-            "title": "Should you upgrade to M5 MacBook Pro from the M1? Short answer: It's probably time",
-            "link": "https://www.zdnet.com/article/m5-macbook-pro-vs-m1-comparison-upgrade/",
-            "summary": "The M5 MacBook Pro brings some impressive performance gains, but not everyone needs to upgrade. Here's how it compares to the M1 model.",
+            "title": "Hit by breaches? I tried a data removal service to take back my privacy - how it paid off",
+            "link": "https://www.zdnet.com/article/delete-me-review/",
+            "summary": "Services like DeleteMe scan the internet for exposed personal information and work to remove it. Here's what it does well - and what it's still missing.",
             "published_utc": "2026-03-20T13:40:00+00:00"
         },
         {
             "source": "ZDNet Security",
-            "title": "Hit by breaches? I tried a data removal service to take back my privacy - how it paid off",
-            "link": "https://www.zdnet.com/article/delete-me-review/",
-            "summary": "Services like DeleteMe scan the internet for exposed personal information and work to remove it. Here's what it does well - and what it's still missing.",
+            "title": "Should you upgrade to M5 MacBook Pro from the M1? Short answer: It's probably time",
+            "link": "https://www.zdnet.com/article/m5-macbook-pro-vs-m1-comparison-upgrade/",
+            "summary": "The M5 MacBook Pro brings some impressive performance gains, but not everyone needs to upgrade. Here's how it compares to the M1 model.",
             "published_utc": "2026-03-20T13:40:00+00:00"
         },
         {
@@ -457,13 +471,6 @@
             "published_utc": "2026-03-19T16:00:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Russian hackers exploit Zimbra flaw in Ukrainian govt attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/russian-apt28-military-hackers-exploit-zimbra-flaw-in-ukrainian-govt-attacks/",
-            "summary": "Hackers part of APT28, a state-backed threat group linked to Russia's military intelligence service (GRU), are exploiting a Zimbra Collaboration Suite...",
-            "published_utc": "2026-03-19T14:55:50+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Telnet vulnerability opens door to remote code execution as root",
             "link": "https://www.csoonline.com/article/4147674/telnet-vulnerability-opens-door-to-remote-code-execution-as-root.html",
@@ -483,13 +490,6 @@
             "link": "https://www.wired.com/story/signals-creator-is-helping-encrypt-meta-ai/",
             "summary": "Moxie Marlinspike says the technology powering his encrypted AI chatbot, Confer, will be integrated into Meta AI. The move could help protect the AI c...",
             "published_utc": "2026-03-19T14:09:51+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "7 Ways to Prevent Privilege Escalation via Password Resets",
-            "link": "https://www.bleepingcomputer.com/news/security/7-ways-to-prevent-privilege-escalation-via-password-resets/",
-            "summary": "Password resets are often weaker than login security, making them a prime target for privilege escalation. Specops Software explains how attackers abu...",
-            "published_utc": "2026-03-19T14:00:10+00:00"
         },
         {
             "source": "CSO Online",
