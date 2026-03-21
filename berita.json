@@ -1,6 +1,13 @@
 {
-    "lastUpdatedUTC": "2026-03-21T17:27:07.522572+00:00",
+    "lastUpdatedUTC": "2026-03-21T18:38:44.131500+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Trivy vulnerability scanner breach pushed infostealer via GitHub Actions",
+            "link": "https://www.bleepingcomputer.com/news/security/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions/",
+            "summary": "The Trivy vulnerability scanner was compromised in a supply-chain attack by threat actors known as TeamPCP, which distributed credential-stealing malw...",
+            "published_utc": "2026-03-21T17:30:41+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Google adds ‘Advanced Flow’ for safe APK sideloading on Android",
@@ -455,13 +462,6 @@
             "link": "https://www.csoonline.com/article/4147736/beijing-wants-its-own-quantum-resistant-encryption-standards-rather-than-adopt-nists.html",
             "summary": "",
             "published_utc": "2026-03-19T17:04:38+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "FBI seizes Handala data leak site after Stryker cyberattack",
-            "link": "https://www.bleepingcomputer.com/news/security/fbi-seizes-handala-data-leak-site-after-stryker-cyberattack/",
-            "summary": "The FBI has seized two websites used by the Handala hacktivist group after the threat actors conducted a destructive cyberattack on medical technology...",
-            "published_utc": "2026-03-19T16:14:13+00:00"
         },
         {
             "source": "InfosecurityMag",
