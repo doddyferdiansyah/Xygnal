@@ -1,6 +1,13 @@
 {
-    "lastUpdatedUTC": "2026-03-22T14:30:08.049434+00:00",
+    "lastUpdatedUTC": "2026-03-22T15:28:45.840992+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "VoidStealer malware steals Chrome master key via debugger trick",
+            "link": "https://www.bleepingcomputer.com/news/security/voidstealer-malware-steals-chrome-master-key-via-debugger-trick/",
+            "summary": "An information stealer called VoidStealer uses a new approach to bypass Chrome's Application-Bound Encryption (ABE) and extract the master key for dec...",
+            "published_utc": "2026-03-22T14:32:46+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "After getting hit by multiple data breaches, I gave DeleteMe a try - here's how it's paid off",
@@ -448,13 +455,6 @@
             "link": "https://www.csoonline.com/article/4147770/ransomware-group-exploited-cisco-firewall-vulnerability-as-a-zero-day-weeks-before-a-patch-appeared.html",
             "summary": "",
             "published_utc": "2026-03-19T18:25:26+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Bitrefill blames North Korean Lazarus group for cyberattack",
-            "link": "https://www.bleepingcomputer.com/news/security/bitrefill-blames-north-korean-lazarus-group-for-cyberattack/",
-            "summary": "Crypto-powered gift card store Bitrefill says that the attack it suffered at the beginning of the month was likely perpetrated by North Korean hackers...",
-            "published_utc": "2026-03-19T17:08:24+00:00"
         },
         {
             "source": "CSO Online",
