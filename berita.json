@@ -1,6 +1,62 @@
 {
-    "lastUpdatedUTC": "2026-03-23T10:11:01.960326+00:00",
+    "lastUpdatedUTC": "2026-03-23T11:44:55.293493+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "I researched into USB color codes - and now I use my ports differently",
+            "link": "https://www.zdnet.com/article/what-your-usb-port-color-means/",
+            "summary": "Blue, black, orange, and more. Those colored USB ports aren't random. Here's what they tell you.",
+            "published_utc": "2026-03-23T11:30:41+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Samsung adopting AirDrop compatibility is exactly what Android needs right now",
+            "link": "https://www.zdnet.com/article/samsung-adopting-airdrop-compatibility/",
+            "summary": "A global rollout this week will allow the latest Samsung phones to Quick Share with various Apple devices.",
+            "published_utc": "2026-03-23T11:12:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "QNAP Patches Four Vulnerabilities Exploited at Pwn2Own",
+            "link": "https://www.securityweek.com/qnap-patches-four-vulnerabilities-exploited-at-pwn2own/",
+            "summary": "",
+            "published_utc": "2026-03-23T11:09:16+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "This hidden Windows 11 feature can help you spot battery issues early - how to find it",
+            "link": "https://www.zdnet.com/article/how-to-use-microsoft-battery-health-report-windows-11-pc/",
+            "summary": "The built-in report provides insight into your laptop's battery status, including whether it's time for a replacement.",
+            "published_utc": "2026-03-23T11:08:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "A month with Lenovo's premium ThinkPad made me rethink what a work laptop should be",
+            "link": "https://www.zdnet.com/article/lenovo-thinkpad-p1-2026-review/",
+            "summary": "Lenovo's latest ThinkPad P1 is a portable workstation that can do it all, but it doesn't come cheap.",
+            "published_utc": "2026-03-23T11:02:00+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Microsoft Xbox One Hacked",
+            "link": "https://www.schneier.com/blog/archives/2026/03/microsoft-xbox-hacked.html",
+            "summary": "",
+            "published_utc": "2026-03-23T11:01:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "CISA Orders US Government to Patch Maximum Severity Cisco Flaw",
+            "link": "https://www.infosecurity-magazine.com/news/cisa-orders-us-government-patch/",
+            "summary": "CISA added CVE-2026-20131 to its KEV catalog as it is being used in ransomware campaigns",
+            "published_utc": "2026-03-23T10:30:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Tycoon 2FA Fully Operational Despite Law Enforcement Takedown",
+            "link": "https://www.securityweek.com/tycoon-2fa-fully-operational-despite-law-enforcement-takedown/",
+            "summary": "",
+            "published_utc": "2026-03-23T10:29:52+00:00"
+        },
         {
             "source": "WIRED Security",
             "title": "Hassan Took a Bike Ride. Now He's One of the Thousands Missing in Gaza",
@@ -184,39 +240,11 @@
             "published_utc": "2026-03-22T23:05:50+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Samsung confirms latest Galaxy phones will support AirDrop compatibility - and I'm thrilled",
-            "link": "https://www.zdnet.com/article/samsung-adopting-airdrop-compatibility-from-google-pixel-iphone/",
-            "summary": "A global rollout will allow the latest Samsung phones to Quick Share with various Apple devices.",
-            "published_utc": "2026-03-22T23:00:49+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Why I trust these $5 USB-C connectors to power my most expensive tech gadgets",
-            "link": "https://www.zdnet.com/article/magnetic-swivel-usbc-accessory-review/",
-            "summary": "This USB-C magnetic breakaway connector bends, swivels, handles 240W of power, and pulls away before your ports break.",
-            "published_utc": "2026-03-22T18:38:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "VoidStealer malware steals Chrome master key via debugger trick",
             "link": "https://www.bleepingcomputer.com/news/security/voidstealer-malware-steals-chrome-master-key-via-debugger-trick/",
             "summary": "An information stealer called VoidStealer uses a new approach to bypass Chrome's Application-Bound Encryption (ABE) and extract the master key for dec...",
             "published_utc": "2026-03-22T14:32:46+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "After getting hit by multiple data breaches, I gave DeleteMe a try - here's how it's paid off",
-            "link": "https://www.zdnet.com/article/delete-me-review/",
-            "summary": "Services like DeleteMe scan the internet for exposed personal information and work to remove it. Here's what it does well - and what it can do better ...",
-            "published_utc": "2026-03-22T10:00:47+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How to AirDrop on an Android phone (and the few models that can actually do it)",
-            "link": "https://www.zdnet.com/article/how-to-airdrop-on-android-to-iphone/",
-            "summary": "Google has found a way for Quick Share to play nicely with AirDrop, paving the way for the new sharing method.",
-            "published_utc": "2026-03-22T02:02:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -387,13 +415,6 @@
             "published_utc": "2026-03-20T11:02:08+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Thousands of Magento Sites Hit in Ongoing Defacement Campaign",
-            "link": "https://www.securityweek.com/thousands-of-magento-sites-hit-in-ongoing-defacement-campaign/",
-            "summary": "",
-            "published_utc": "2026-03-20T10:36:51+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Hackers Exploit Critical Langflow Bug in Just 20 Hours",
             "link": "https://www.infosecurity-magazine.com/news/hackers-exploit-critical-langflow/",
@@ -427,13 +448,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/musician-pleads-guilty-to-10m-streaming-fraud-powered-by-ai-bots/",
             "summary": "North Carolina musician Michael Smith has pleaded guilty to collecting over $10 million in royalty payments through a massive streaming royalty fraud ...",
             "published_utc": "2026-03-20T09:33:33+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Allure Security Raises $17 Million for Online Brand Protection",
-            "link": "https://www.securityweek.com/allure-security-raises-17-million-for-online-brand-protection/",
-            "summary": "",
-            "published_utc": "2026-03-20T09:09:59+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -805,13 +819,6 @@
             "link": "https://www.welivesecurity.com/en/privacy/face-value-what-takes-fool-facial-recognition/",
             "summary": "ESET’s Jake Moore used smart glasses, deepfakes and face swaps to ‘hack’ widely-used facial recognition systems – and he'll demo it all at RSAC 2026",
             "published_utc": "2026-03-13T10:00:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "iPhones and iPads Approved for NATO Classified Data",
-            "link": "https://www.schneier.com/blog/archives/2026/03/iphones-and-ipads-approved-for-nato-classified-data.html",
-            "summary": "",
-            "published_utc": "2026-03-12T19:59:54+00:00"
         },
         {
             "source": "WIRED Security",
@@ -2786,13 +2793,6 @@
             "link": "https://www.welivesecurity.com/en/privacy/information-dark-web-what-happens-next/",
             "summary": "If your data is on the dark web, it’s probably only a matter of time before it’s abused for fraud or account hijacking. Here’s what to do.",
             "published_utc": "2026-01-13T10:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Palo Alto Networks Introduces New Vibe Coding Security Governance Framework",
-            "link": "https://www.infosecurity-magazine.com/news/palo-alto-networks-vibe-coding/",
-            "summary": "Researchers at Palo Alto’s Unit 42 have outlined a list of recommended security controls for vibe coding tools",
-            "published_utc": "2026-01-12T17:15:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
