@@ -1,6 +1,20 @@
 {
-    "lastUpdatedUTC": "2026-03-23T19:51:21.675536+00:00",
+    "lastUpdatedUTC": "2026-03-23T20:39:20.565210+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "TeamPCP deploys Iran-targeted wiper in Kubernetes attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/teampcp-deploys-iran-targeted-wiper-in-kubernetes-attacks/",
+            "summary": "The TeamPCP hacking group is targeting Kubernetes clusters with a malicious script that wipes all machines when it detects systems configured for Iran...",
+            "published_utc": "2026-03-23T20:09:10+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "3 ways Cisco's DefenseClaw aims to make agentic AI safer",
+            "link": "https://www.zdnet.com/article/cisco-defenseclaw-to-govern-agentic-ai/",
+            "summary": "The reason agentic AI has seen slow enterprise adoption is the lack of an orchestration layer to track what agents are doing, the networking giant says.",
+            "published_utc": "2026-03-23T19:58:55+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Crunchyroll probes breach after hacker claims to steal 6.8M users' data",
@@ -196,13 +210,6 @@
             "link": "https://www.zdnet.com/article/my-favorite-color-e-reader-is-80-off-ahead-of-amazon-spring-sale-2026/",
             "summary": "Amazon's Kindle Colorsoft brings a smooth color display to your favorite books, and it's $80 off right now.",
             "published_utc": "2026-03-23T14:55:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "You can get a free iPhone 17e at Visible with this deal - here's how",
-            "link": "https://www.zdnet.com/article/iphone-17e-deal-visible/",
-            "summary": "The iPhone 17e is here, and new customers can score one for free with a Visible+ plan. Here's what to know.",
-            "published_utc": "2026-03-23T14:46:58+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -448,13 +455,6 @@
             "link": "https://www.securityweek.com/in-other-news-new-android-safeguards-operation-alice-uk-toughens-cyber-reporting/",
             "summary": "",
             "published_utc": "2026-03-20T15:57:30+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "CISA orders feds to patch max-severity Cisco flaw by Sunday",
-            "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-cisco-flaw-by-sunday/",
-            "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to patch a maximum-severity vulnerability, CVE-2026-20131, in...",
-            "published_utc": "2026-03-20T15:09:12+00:00"
         },
         {
             "source": "SecurityWeek",
