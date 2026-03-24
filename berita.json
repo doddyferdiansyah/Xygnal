@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2026-03-24T08:55:40.128845+00:00",
+    "lastUpdatedUTC": "2026-03-24T09:57:43.623369+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Stryker Says Malicious File Found During Probe Into Iran-Linked Attack",
+            "link": "https://www.securityweek.com/stryker-says-malicious-file-found-during-probe-into-iran-linked-attack/",
+            "summary": "",
+            "published_utc": "2026-03-24T09:30:18+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Handala Group Tied to Iranian Hack‑and‑Leak Operations, FBI Reveals",
+            "link": "https://www.infosecurity-magazine.com/news/handala-group-iranian-hack-and/",
+            "summary": "The FBI has warned that Iranian hacking group Handala has been targeting opponents of the regime since 2023",
+            "published_utc": "2026-03-24T09:30:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Autonomous AI adoption is on the rise, but it’s risky",
+            "link": "https://www.csoonline.com/article/4146661/autonomous-ai-adoption-is-on-the-rise-but-its-risky-2.html",
+            "summary": "",
+            "published_utc": "2026-03-24T09:30:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Streamline physical security to enable data center growth in the era of AI",
+            "link": "https://www.csoonline.com/article/4148735/streamline-physical-security-to-enable-data-center-growth-in-the-era-of-ai.html",
+            "summary": "",
+            "published_utc": "2026-03-24T09:00:00+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "ICE Is Paying the Salaries of This Town’s Entire Police Force",
+            "link": "https://www.wired.com/story/ice-is-paying-the-salaries-of-this-towns-entire-police-force/",
+            "summary": "Under a Homeland Security program, police departments around the US are signing up to assist in immigration enforcement. The cops of Carroll, New Hamp...",
+            "published_utc": "2026-03-24T09:00:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "I replaced my Sonos Era speakers with an unlikely alternative - and didn't miss a beat",
@@ -492,13 +527,6 @@
             "published_utc": "2026-03-20T15:57:30+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "3 Men Charged With Conspiring to Smuggle US Artificial Intelligence to China",
-            "link": "https://www.securityweek.com/3-men-charged-with-conspiring-to-smuggle-us-artificial-intelligence-to-china/",
-            "summary": "",
-            "published_utc": "2026-03-20T14:43:36+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "DDoS-Attacken: Schlag gegen internationale Cyberkriminelle",
             "link": "https://www.csoonline.com/article/4148087/ddos-attacken-schlag-gegen-internationale-cyberkriminelle.html",
@@ -590,25 +618,11 @@
             "published_utc": "2026-03-19T18:25:26+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Beijing wants its own quantum-resistant encryption standards rather than adopt NIST’s",
-            "link": "https://www.csoonline.com/article/4147736/beijing-wants-its-own-quantum-resistant-encryption-standards-rather-than-adopt-nists.html",
-            "summary": "",
-            "published_utc": "2026-03-19T17:04:38+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Ransomware Affiliate Exposes Details of 'The Gentlemen' Operation",
             "link": "https://www.infosecurity-magazine.com/news/ransomware-affiliate-gentlemen/",
             "summary": "Hastalamuerte leaks The Gentlemen RaaS ops: FortiGate exploits, BYOVD evasion, Qilin split tactics",
             "published_utc": "2026-03-19T16:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Telnet vulnerability opens door to remote code execution as root",
-            "link": "https://www.csoonline.com/article/4147674/telnet-vulnerability-opens-door-to-remote-code-execution-as-root.html",
-            "summary": "",
-            "published_utc": "2026-03-19T14:37:28+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1421,13 +1435,6 @@
             "link": "https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-february-2026/",
             "summary": "In this roundup, Tony looks at how opportunistic threat actors are taking advantage of weak authentication, unmanaged exposure, and popular AI tools",
             "published_utc": "2026-02-28T10:00:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "US and Israel Launch Strikes Against Iran",
-            "link": "https://www.wired.com/story/us-iran-strike-donald-trump/",
-            "summary": "US president Donald Trump said a “major combat operation” against Iran had begun as he called for the country’s government to be overthrown.",
-            "published_utc": "2026-02-28T09:42:54+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2779,13 +2786,6 @@
             "link": "https://www.infosecurity-magazine.com/news/cisa-flags-exploited-gogs-flaw-no/",
             "summary": "A high-severity security flaw in the Gogs Git service is being actively exploited, leading to remote code execution",
             "published_utc": "2026-01-13T16:45:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "SHADOW#REACTOR Campaign Uses Text-Only Staging to Deploy Remcos RAT",
-            "link": "https://www.infosecurity-magazine.com/news/shadowreactor-text-staging-remcos/",
-            "summary": "SHADOW#REACTOR is a multi-stage Windows malware campaign that stealthily deploys the Remcos RAT using complex infection techniques",
-            "published_utc": "2026-01-13T16:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
