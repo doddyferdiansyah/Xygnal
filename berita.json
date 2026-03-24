@@ -1,9 +1,16 @@
 {
-    "lastUpdatedUTC": "2026-03-24T22:34:46.394849+00:00",
+    "lastUpdatedUTC": "2026-03-24T23:34:20.779615+00:00",
     "articles": [
         {
             "source": "BleepingComputer",
-            "title": "Popular LiteLLM PyPI package compromised in TeamPCP supply chain attack",
+            "title": "PTC warns of imminent threat from critical Windchill, FlexPLM RCE bug",
+            "link": "https://www.bleepingcomputer.com/news/security/ptc-warns-of-imminent-threat-from-critical-windchill-flexplm-rce-bug/",
+            "summary": "PTC Inc. is warning of a critical vulnerability in Windchill and FlexPLM, widely used product lifecycle management (PLM) solutions, that could allow r...",
+            "published_utc": "2026-03-24T23:04:36+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Popular LiteLLM PyPI package backdoored to steal credentials, auth tokens",
             "link": "https://www.bleepingcomputer.com/news/security/popular-litellm-pypi-package-compromised-in-teampcp-supply-chain-attack/",
             "summary": "The TeamPCP hacking group continues its supply-chain rampage, now compromising the massively popular \"LiteLLM\" Python package on PyPI and claiming to ...",
             "published_utc": "2026-03-24T22:29:01+00:00"
@@ -448,13 +455,6 @@
             "link": "https://www.wired.com/story/a-mysterious-numbers-station-is-broadcasting-through-the-iran-war/",
             "summary": "First heard as US and Israeli strikes on Iran began, the shortwave broadcast has since been traced to a US military base in Germany—but its purpose an...",
             "published_utc": "2026-03-23T18:59:17+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Trivy supply-chain attack spreads to Docker, GitHub repos",
-            "link": "https://www.bleepingcomputer.com/news/security/trivy-supply-chain-attack-spreads-to-docker-github-repos/",
-            "summary": "The TeamPCP hackers behind the Trivy supply-chain attack continued to target Aqua Security, pushing malicious Docker images and hijacking the company'...",
-            "published_utc": "2026-03-23T17:40:27+00:00"
         },
         {
             "source": "InfosecurityMag",
