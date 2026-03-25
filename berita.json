@@ -1,6 +1,13 @@
 {
-    "lastUpdatedUTC": "2026-03-25T22:38:23.437015+00:00",
+    "lastUpdatedUTC": "2026-03-25T23:37:24.166198+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "GitHub adds AI-powered bug detection to expand security coverage",
+            "link": "https://www.bleepingcomputer.com/news/security/github-adds-ai-powered-bug-detection-to-expand-security-coverage/",
+            "summary": "GitHub is adopting AI-based scanning for its Code Security tool to expand vulnerability detections beyond the CodeQL static analysis and cover more la...",
+            "published_utc": "2026-03-25T23:23:39+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "How I used Gemini to replace YouTube's missing comment alerts - in under an hour",
@@ -434,13 +441,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/zero-trust-bridging-the-gap-between-authentication-and-trust/",
             "summary": "Passing MFA doesn't mean a session is safe, attackers can hijack tokens and bypass identity checks. Specops Software explains why Zero Trust must veri...",
             "published_utc": "2026-03-24T14:02:12+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "HackerOne discloses employee data breach after Navia hack",
-            "link": "https://www.bleepingcomputer.com/news/security/hackerone-discloses-employee-data-breach-after-navia-hack/",
-            "summary": "Bug bounty platform HackerOne is notifying hundreds of employees that their data was stolen after attackers hacked Navia, one of its U.S. benefits adm...",
-            "published_utc": "2026-03-24T14:01:02+00:00"
         },
         {
             "source": "InfosecurityMag",
