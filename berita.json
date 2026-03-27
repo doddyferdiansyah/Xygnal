@@ -1,6 +1,55 @@
 {
-    "lastUpdatedUTC": "2026-03-27T11:43:05.119840+00:00",
+    "lastUpdatedUTC": "2026-03-27T13:10:55.957049+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "OpenAI upgrades Codex to automate your workflows - and compete better with Claude Code",
+            "link": "https://www.zdnet.com/article/openai-codex-plugins-workflow-automation-upgrade/",
+            "summary": "Codex's new plugins push it beyond coding and position it to challenge Claude Code's growing lead among developers.",
+            "published_utc": "2026-03-27T12:41:50+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I was overpaying for YouTube Premium for months without realizing it - check yours ASAP",
+            "link": "https://www.zdnet.com/article/youtube-premium-overpaying-check-plan/",
+            "summary": "For months, maybe years, I paid 30% more for YouTube Premium. Here's why, and how I fixed it.",
+            "published_utc": "2026-03-27T12:33:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Quantum Computing Threat to Encryption Is Closer Than Expected, Warns Google",
+            "link": "https://www.infosecurity-magazine.com/news/quantum-encryption-q-day-closer/",
+            "summary": "‘Q-Day’ and the cybersecurity problems it brings could come as early as 2029 as Google accelerates its post-quantum cryptography migration",
+            "published_utc": "2026-03-27T12:30:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The Samsung S95F OLED TV is selling for $800 off right now - and I can vouch for its quality",
+            "link": "https://www.zdnet.com/article/samung-s95f-deal-03-27-amazon-spring-sale-2026/",
+            "summary": "Samsung's flagship OLED TV from last year is worth every penny, but it's even better with this discount during the Amazon Spring Sale.",
+            "published_utc": "2026-03-27T12:30:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "European Commission investigating breach after Amazon cloud hack",
+            "link": "https://www.bleepingcomputer.com/news/security/european-commission-investigating-breach-after-amazon-cloud-hack/",
+            "summary": "The European Commission, the European Union's main executive body, is investigating a security breach after a threat actor gained access to its Amazon...",
+            "published_utc": "2026-03-27T12:22:19+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Attackers exploit critical Langflow RCE within hours as CISA sounds alarm",
+            "link": "https://www.csoonline.com/article/4151203/attackers-exploit-critical-langflow-rce-within-hours-as-cisa-sounds-alarm.html",
+            "summary": "",
+            "published_utc": "2026-03-27T12:03:06+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "UK Cracks Down on Chinese Crypto Marketplace for Funding Southeast Asia Scam Hubs",
+            "link": "https://www.infosecurity-magazine.com/news/uk-sanction-chinese-crypto/",
+            "summary": "The UK government has sanctioned Xinbi, described as “the second-largest illicit online marketplace ever”",
+            "published_utc": "2026-03-27T12:00:00+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "TP-Link Patches High-Severity Router Vulnerabilities",
@@ -226,27 +275,6 @@
             "published_utc": "2026-03-26T18:46:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "WhatsApp's March update finally fixes the big iPhone-to-Android concern (and more)",
-            "link": "https://www.zdnet.com/article/whatsapp-easy-transfer-from-ios-to-android-multiple-iphone-accounts/",
-            "summary": "You can now easily move your WhatsApp chat history from iOS to Android, and use multiple accounts on iPhone.",
-            "published_utc": "2026-03-26T18:43:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "10 Amazon Spring Sale car gadget deals that are worth every penny",
-            "link": "https://www.zdnet.com/article/car-gadgets-amazon-spring-sale-2026/",
-            "summary": "Upgrade your car tech on a budget. Shop the best Amazon Big Spring Sale deals on Bluetooth adapters, chargers, and more.",
-            "published_utc": "2026-03-26T18:38:08+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The best $5 I've spent this year is on these breakaway USB-C connectors that overdeliver",
-            "link": "https://www.zdnet.com/article/magnetic-swivel-usbc-accessory-review-amazon-spring-sale-2026/",
-            "summary": "This USB-C magnetic breakaway connector bends, swivels, supports 240W of power, and pulls away without damaging your ports.",
-            "published_utc": "2026-03-26T18:35:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Security Researchers Sound the Alarm on Vulnerabilities in AI-Generated Code",
             "link": "https://www.infosecurity-magazine.com/news/ai-generated-code-vulnerabilities/",
@@ -455,13 +483,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/polyshell-attacks-target-56-percent-of-all-vulnerable-magento-stores/",
             "summary": "Attacks leveraging the 'PolyShell' vulnerability in version 2 of Magento Open Source and Adobe Commerce installations are underway, targeting more tha...",
             "published_utc": "2026-03-25T21:40:21+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Bubble AI app builder abused to steal Microsoft account credentials",
-            "link": "https://www.bleepingcomputer.com/news/security/bubble-ai-app-builder-abused-to-steal-microsoft-account-credentials/",
-            "summary": "Threat actors are evading phishing detection in campaigns targeting Microsoft accounts by abusing the no-code app-building platform Bubble to generate...",
-            "published_utc": "2026-03-25T19:48:36+00:00"
         },
         {
             "source": "CSO Online",
@@ -686,13 +707,6 @@
             "link": "https://www.csoonline.com/article/4146661/autonomous-ai-adoption-is-on-the-rise-but-its-risky-2.html",
             "summary": "",
             "published_utc": "2026-03-24T09:30:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Streamline physical security to enable data center growth in the era of AI",
-            "link": "https://www.csoonline.com/article/4148735/streamline-physical-security-to-enable-data-center-growth-in-the-era-of-ai.html",
-            "summary": "",
-            "published_utc": "2026-03-24T09:00:00+00:00"
         },
         {
             "source": "WIRED Security",
@@ -2772,20 +2786,6 @@
             "link": "https://www.infosecurity-magazine.com/news/pdfsider-anti-vm-checks-hidden/",
             "summary": "New malware PDFSIDER enables covert, long-term access to compromised systems via advanced techniques",
             "published_utc": "2026-01-19T16:20:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Russian Hacktivists Intensify Disruptive Cyber Pressure on UK Orgs",
-            "link": "https://www.infosecurity-magazine.com/news/russia-cyber-pressure-uk-orgs/",
-            "summary": "UK NCSC warned of disruptive cyber attacks by Russian hacktivists targeting critical infrastructure",
-            "published_utc": "2026-01-19T15:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Malicious Google Chrome Extensions Hijack Workday and Netsuite",
-            "link": "https://www.infosecurity-magazine.com/news/malicious-google-chrome-extension/",
-            "summary": "Users of widely used HR and ERP platforms targeted with malicious extensions which were available in the Chrome Web Store",
-            "published_utc": "2026-01-19T12:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
