@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2026-03-27T20:40:51.413978+00:00",
+    "lastUpdatedUTC": "2026-03-27T21:37:02.715388+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "Why these older Sony headphones are still worth buying in 2026 - especially at this price",
+            "link": "https://www.zdnet.com/article/sony-wh1000xm5-amazon-spring-sale-deal/",
+            "summary": "Amazon is discounting the Sony WH-1000XM5 headphones during its Big Spring Sale. They're 25% off.",
+            "published_utc": "2026-03-27T21:20:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Backdoored Telnyx PyPI package pushes malware hidden in WAV audio",
+            "link": "https://www.bleepingcomputer.com/news/security/backdoored-telnyx-pypi-package-pushes-malware-hidden-in-wav-audio/",
+            "summary": "TeamPCP hackers compromised the Telnyx package on the Python Package Index today, uploading malicious versions that deliver credential-stealing malwar...",
+            "published_utc": "2026-03-27T21:13:26+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "European Commission data stolen in a cyberattack on the infrastructure hosting its web sites",
+            "link": "https://www.csoonline.com/article/4151363/european-commission-data-stolen-in-a-cyberattack-on-the-infrastructure-hosting-its-web-sites.html",
+            "summary": "",
+            "published_utc": "2026-03-27T21:13:03+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "These 20 award-winning tech products are on sale (but we'd pay full price)",
+            "link": "https://www.zdnet.com/article/editors-choice-amazon-spring-sale-2026-deals/",
+            "summary": "Some ZDNET-approved, award-winning tech is on sale during Amazon's Big Spring Sale. Don't miss these offers on products we love.",
+            "published_utc": "2026-03-27T21:03:06+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I've tested every MacBook Air in recent years - here's why the time to upgrade is now",
+            "link": "https://www.zdnet.com/article/macbook-air-m5-review/",
+            "summary": "The MacBook Air M5 marks a logical upgrade point for older Mac users or PC refugees ditching Windows.",
+            "published_utc": "2026-03-27T20:50:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Amazon Spring Sale live blog 2026: The top deals you can't miss",
@@ -168,20 +203,6 @@
             "link": "https://www.zdnet.com/article/best-amazon-spring-sale-2026-smart-ring-smartwatch-deals/",
             "summary": "Looking to improve your sleep, log more steps, or track activity? These smart rings, smartwatches, and other wearables on sale during Amazon's Big Spr...",
             "published_utc": "2026-03-27T15:03:43+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Yes, you need a smart bird feeder in your life - and this one's on sale",
-            "link": "https://www.zdnet.com/article/birdfy-bird-feeder-amazon-spring-sale-2026/",
-            "summary": "Offering insight into which birds are visiting your feeder this spring, the Birdfy smart feeder is $60 off during Amazon's Big Spring Sale.",
-            "published_utc": "2026-03-27T14:57:14+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The most popular Amazon Spring Sale deals, according to thousands of readers",
-            "link": "https://www.zdnet.com/article/reader-favorites-amazon-spring-sale-2026/",
-            "summary": "Amazon's Spring Sale is live, and we've got the scoop on the top products ZDNET readers are clicking on the most, from inexpensive gadgets to flagship...",
-            "published_utc": "2026-03-27T14:54:00+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -457,13 +478,6 @@
             "published_utc": "2026-03-26T12:20:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Suspected RedLine infostealer malware admin extradited to US",
-            "link": "https://www.bleepingcomputer.com/news/security/suspected-redline-infostealer-administrator-extradited-to-us/",
-            "summary": "An Armenian suspect was extradited to the United States to face criminal charges for allegedly helping manage RedLine, one of the most prolific infost...",
-            "published_utc": "2026-03-26T11:51:59+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "GitHub phishers use fake OpenClaw tokens to drain crypto wallets",
             "link": "https://www.csoonline.com/article/4150456/github-phishers-use-fake-openclaw-tokens-to-drain-crypto-wallets.html",
@@ -679,13 +693,6 @@
             "link": "https://www.infosecurity-magazine.com/news/cybersecurity-software-failure-20/",
             "summary": "Poor patch management, increasingly complex IT environments and continued use of obsolete software puts organizations at risk from cyber threats, says...",
             "published_utc": "2026-03-24T13:15:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "New ‘StoatWaffle’ malware auto‑executes attacks on developers",
-            "link": "https://www.csoonline.com/article/4149274/new-stoatwaffle-malware-auto%e2%80%91executes-attacks-on-developers.html",
-            "summary": "",
-            "published_utc": "2026-03-24T11:58:18+00:00"
         },
         {
             "source": "Schneier",
@@ -3493,13 +3500,6 @@
             "link": "https://threatpost.com/ransomware-attacks-are-on-the-rise/180481/",
             "summary": "Lockbit is by far this summer’s most prolific ransomware group, trailed by two offshoots of the Conti group.",
             "published_utc": "2022-08-26T16:44:27+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Cybercriminals Are Selling Access to Chinese Surveillance Cameras",
-            "link": "https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/",
-            "summary": "Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed.",
-            "published_utc": "2022-08-25T18:47:15+00:00"
         }
     ]
 }
