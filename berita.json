@@ -1,6 +1,62 @@
 {
-    "lastUpdatedUTC": "2026-03-30T09:14:47.836214+00:00",
+    "lastUpdatedUTC": "2026-03-30T11:03:51.516198+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers now exploit critical F5 BIG-IP flaw in attacks, patch now",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-f5-big-ip-flaw-in-attacks-patch-now/",
+            "summary": "F5 has reclassified a BIG-IP APM denial-of-service (DoS) vulnerability as a critical-severity remote code execution (RCE) flaw, warning that attackers...",
+            "published_utc": "2026-03-30T10:59:38+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How to enable Private DNS mode on your iPhone - and why it's important to do so ASAP",
+            "link": "https://www.zdnet.com/article/how-to-turn-on-iphone-private-dns/",
+            "summary": "Unencrypted DNS can expose your browsing activity and more, but a private mode helps keep it secure on iPhone. Here's how to set it up.",
+            "published_utc": "2026-03-30T10:58:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Telnyx Targeted in Growing TeamPCP Supply Chain Attack",
+            "link": "https://www.securityweek.com/telnyx-targeted-in-growing-teampcp-supply-chain-attack/",
+            "summary": "",
+            "published_utc": "2026-03-30T10:53:46+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "It's not the MacBook Neo, but the MacBook Air that Windows should be most afraid of",
+            "link": "https://www.zdnet.com/article/macbook-air-m5-review/",
+            "summary": "The MacBook Air M5 marks a logical upgrade point for older Mac users or PC refugees ditching Windows.",
+            "published_utc": "2026-03-30T10:46:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "APIs are the new perimeter: Here’s how CISOs are securing them",
+            "link": "https://www.csoonline.com/article/4148315/apis-are-the-new-perimeter-heres-how-cisos-are-securing-them.html",
+            "summary": "",
+            "published_utc": "2026-03-30T10:01:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft pulls KB5079391 Windows update over install issues",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-windows-kb5079391-update-over-0x80073712-install-errors/",
+            "summary": "Microsoft has pulled a buggy Windows 11 non-security preview update to investigate a known issue that triggers 0x80073712 errors during installation. ...",
+            "published_utc": "2026-03-30T09:38:45+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "ICO Fines UK Nuisance Call Scammers £100,000",
+            "link": "https://www.infosecurity-magazine.com/news/ico-fines-uk-nuisance-call/",
+            "summary": "The UK Information Commissioner’s Office has handed a £100,000 fine to Birmingham-based TMAC",
+            "published_utc": "2026-03-30T09:30:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Exploitation of Fresh Citrix NetScaler Vulnerability Begins",
+            "link": "https://www.securityweek.com/exploitation-of-fresh-citrix-netscaler-vulnerability-begins/",
+            "summary": "",
+            "published_utc": "2026-03-30T09:24:10+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "3 red flags that job posting is a scam - and how to verify safely",
@@ -161,20 +217,6 @@
             "link": "https://www.zdnet.com/article/best-amazon-spring-sale-2026-robot-vacuum-deals/",
             "summary": "A reliable robot vacuum is a great way to outsource cleaning your home's biggest messes. Shop the best deals during Amazon's Big Spring Sale.",
             "published_utc": "2026-03-29T14:33:01+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Best Amazon Spring Sale deals under $25",
-            "link": "https://www.zdnet.com/article/best-amazon-spring-sale-2026-deals-under-25/",
-            "summary": "Amazon's Big Spring Sale has plenty of cheap deals on useful tech gadgets this weekend. Save up to $25 on devices from Blink, Logitech, and more right...",
-            "published_utc": "2026-03-29T14:06:08+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I tried this Shokz alternative for my runs, and the price-to-performance ratio surprised me",
-            "link": "https://www.zdnet.com/article/h20-audio-tri-run-headset-review/",
-            "summary": "If you're curious about bone conduction technology, the H2O Audio Tri Run is a solid entry-level pair.",
-            "published_utc": "2026-03-29T11:00:37+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -338,25 +380,11 @@
             "published_utc": "2026-03-27T10:38:21+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Coruna iOS Exploit Kit Likely an Update to Operation Triangulation",
-            "link": "https://www.securityweek.com/coruna-ios-exploit-kit-likely-an-update-to-operation-triangulation/",
-            "summary": "",
-            "published_utc": "2026-03-27T10:35:20+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "8 steps CISOs can take to empower their teams",
             "link": "https://www.csoonline.com/article/4148286/8-steps-cisos-can-take-to-empower-their-teams.html",
             "summary": "",
             "published_utc": "2026-03-27T10:01:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "CISA Flags Critical PTC Vulnerability That Had German Police Mobilized",
-            "link": "https://www.securityweek.com/cisa-flags-critical-ptc-vulnerability-that-had-german-police-mobilized/",
-            "summary": "",
-            "published_utc": "2026-03-27T09:21:14+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -408,13 +436,6 @@
             "published_utc": "2026-03-26T20:37:25+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "CISA: New Langflow flaw actively exploited to hijack AI workflows",
-            "link": "https://www.bleepingcomputer.com/news/security/cisa-new-langflow-flaw-actively-exploited-to-hijack-ai-workflows/",
-            "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are actively exploiting a critical vulnerability identified as CVE...",
-            "published_utc": "2026-03-26T19:17:43+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "The CISO’s guide to responding to shadow AI",
             "link": "https://www.csoonline.com/article/4143302/the-cisos-guide-to-responding-to-shadow-ai.html",
@@ -434,13 +455,6 @@
             "link": "https://www.infosecurity-magazine.com/news/critical-oracle-weblogic-rce/",
             "summary": "Attackers rapidly exploited a critical Oracle WebLogic RCE flaw the same day exploit code was released, according to a CloudSEK honeypot study",
             "published_utc": "2026-03-26T16:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "UK sanctions Xinbi marketplace linked to Asian scam centers",
-            "link": "https://www.bleepingcomputer.com/news/security/uk-sanctions-xinbi-marketplace-linked-to-asian-scam-centers/",
-            "summary": "The United Kingdom's Foreign, Commonwealth and Development Office (FCDO) has sanctioned Xinbi, a Chinese-language cryptocurrency-based online marketpl...",
-            "published_utc": "2026-03-26T15:42:43+00:00"
         },
         {
             "source": "WIRED Security",
@@ -637,13 +651,6 @@
             "link": "https://www.wired.com/story/iranians-dont-have-a-missile-alert-system-so-volunteers-built-their-own-warning-map/",
             "summary": "The crowdsourced website and app Mahsa Alert provides citizens in Iran with crucial information amid the country’s ongoing war with the US and Israel—...",
             "published_utc": "2026-03-25T09:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Empathie trifft IT-Sicherheit: Der Weg zu gelebter Compliance",
-            "link": "https://www.csoonline.com/article/4025731/empathie-trifft-it-sicherheit-der-weg-zu-gelebter-compliance.html",
-            "summary": "",
-            "published_utc": "2026-03-25T04:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2758,13 +2765,6 @@
             "link": "https://www.infosecurity-magazine.com/news/cyber-risks-among-ceos-top-worries/",
             "summary": "PwC’s 29th Global CEO Survey shows cyber risk rising to the top of CEO concerns as confidence in short term business growth weakens",
             "published_utc": "2026-01-20T14:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "LinkedIn Phishing Campaign Exploits Open-Source Pen Testing Tool to Compromise Business Execs",
-            "link": "https://www.infosecurity-magazine.com/news/linkedin-phishing-campaign-targets/",
-            "summary": "Cybersecurity Researchers at ReliaQuest warn of an ongoing campaign delivered to “high-value individuals” via LinkedIn messages",
-            "published_utc": "2026-01-20T13:04:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
