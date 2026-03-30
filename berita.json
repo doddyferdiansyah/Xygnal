@@ -1,6 +1,90 @@
 {
-    "lastUpdatedUTC": "2026-03-30T11:03:51.516198+00:00",
+    "lastUpdatedUTC": "2026-03-30T13:24:20.799139+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "Amazon Spring Sale live blog 2026: Real-time updates on the best deals (while they last)",
+            "link": "https://www.zdnet.com/article/amazon-spring-sale-live-blog-03-30-2026/",
+            "summary": "We're live-tracking the best Amazon Spring Sale deals over 60% off on home, tech, and more, as the sale enters its final days.",
+            "published_utc": "2026-03-30T13:22:08+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Huskeys Emerges From Stealth With $8 Million in Funding",
+            "link": "https://www.securityweek.com/huskeys-emerges-from-stealth-with-8-million-in-funding/",
+            "summary": "",
+            "published_utc": "2026-03-30T12:40:27+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "This AI expert says the job apocalypse isn't coming, even if you're a coder - here's why",
+            "link": "https://www.zdnet.com/article/ai-job-apocalypse-not-happening-for-coders/",
+            "summary": "AI will either substitute or supplement our work. Too many people are focused on the substitute side, argues Stanford's Erik Brynjolfsson.",
+            "published_utc": "2026-03-30T12:23:01+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "LangChain path traversal bug adds to input validation woes in AI pipelines",
+            "link": "https://www.csoonline.com/article/4151814/langchain-path-traversal-bug-adds-to-input-validation-woes-in-ai-pipelines.html",
+            "summary": "",
+            "published_utc": "2026-03-30T12:14:09+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Earn 5% in rewards on phones, devices, and accessories with the T-Mobile Visa right now",
+            "link": "https://www.zdnet.com/article/t-mobile-visa-deals/",
+            "summary": "T-Mobile's credit card offering can save you money on your monthly bill, and gets you deals on dining, travel, and more.",
+            "published_utc": "2026-03-30T12:00:45+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "DeepLoad Malware Combines ClickFix With AI-Generated Code to Avoid Detection",
+            "link": "https://www.infosecurity-magazine.com/news/deepload-malware-clickfix-ai-code/",
+            "summary": "Researchers at ReliaQuest warn of persistent malware campaign targeting enterprise credentials",
+            "published_utc": "2026-03-30T12:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Russian APT Star Blizzard Adopts DarkSword iOS Exploit Kit",
+            "link": "https://www.securityweek.com/russian-apt-star-blizzard-adopts-darksword-ios-exploit-kit/",
+            "summary": "",
+            "published_utc": "2026-03-30T11:54:15+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Leak reveals Anthropic’s ‘Mythos,’ a powerful AI model aimed at cybersecurity use cases",
+            "link": "https://www.csoonline.com/article/4151801/leak-reveals-anthropics-mythos-a-powerful-ai-model-aimed-at-cybersecurity-use-cases.html",
+            "summary": "",
+            "published_utc": "2026-03-30T11:52:41+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "European Commission Reports Cyber Intrusion and Data Theft",
+            "link": "https://www.securityweek.com/european-commission-reports-cyber-intrusion-and-data-theft/",
+            "summary": "",
+            "published_utc": "2026-03-30T11:29:45+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How I'm using a smart calendar to effectively keep my large family organized",
+            "link": "https://www.zdnet.com/article/skylight-calendar-2-review/",
+            "summary": "The latest version of the Skylight Calendar 2 is ideal for large families. Here's how I use it to maintain schedules, tasks, and more.",
+            "published_utc": "2026-03-30T11:10:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Hacked Hospitals, Hidden Spyware: Iran Conflict Shows How Digital Fight Is Ingrained in Warfare",
+            "link": "https://www.securityweek.com/hacked-hospitals-hidden-spyware-iran-conflict-shows-how-digital-fight-is-ingrained-in-warfare/",
+            "summary": "",
+            "published_utc": "2026-03-30T11:09:49+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Apple’s Camera Indicator Lights",
+            "link": "https://www.schneier.com/blog/archives/2026/03/apples-camera-indicator-lights.html",
+            "summary": "",
+            "published_utc": "2026-03-30T11:08:24+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Hackers now exploit critical F5 BIG-IP flaw in attacks, patch now",
@@ -28,6 +112,13 @@
             "link": "https://www.zdnet.com/article/macbook-air-m5-review/",
             "summary": "The MacBook Air M5 marks a logical upgrade point for older Mac users or PC refugees ditching Windows.",
             "published_utc": "2026-03-30T10:46:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Critical Citrix NetScaler Vulnerability Exploited in the Wild",
+            "link": "https://www.infosecurity-magazine.com/news/critical-citrix-netscaler/",
+            "summary": "Researchers from watchTowr and Defused have found evidence that attackers are actively exploiting CVE-2026-3055, a critical NetScaler vulnerability",
+            "published_utc": "2026-03-30T10:45:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -125,7 +216,7 @@
             "title": "Master your navigation: 41 hidden Google Maps settings you should know",
             "link": "https://www.zdnet.com/article/google-maps-settings-features-tips-tricks/",
             "summary": "Google Maps can help plan your entire trip for you and beyond if you're hip to all these time-saving shortcuts.",
-            "published_utc": "2026-03-30T01:26:50+00:00"
+            "published_utc": "2026-03-30T01:26:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -139,7 +230,7 @@
             "title": "Google TV or Roku: Which free streaming service is actually worth your time?",
             "link": "https://www.zdnet.com/article/the-roku-channel-vs-google-tv-freeplay-free-tv-streaming/",
             "summary": "The Roku Channel and Google TV Freeplay both provide free TV streaming, but one clearly leads the pack in terms of content.",
-            "published_utc": "2026-03-30T00:56:37+00:00"
+            "published_utc": "2026-03-30T00:56:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -147,13 +238,6 @@
             "link": "https://www.csoonline.com/article/3493645/data-security-posture-management-die-besten-dspm-tools.html",
             "summary": "",
             "published_utc": "2026-03-30T00:07:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Amazon Spring Sale live blog 2026: Tracking the biggest price drops all weekend",
-            "link": "https://www.zdnet.com/article/amazon-spring-sale-live-blog-03-29-2026/",
-            "summary": "We're live-tracking the best Amazon Spring Sale deals over 60% off on home, tech, and more, as the sale continues this weekend.",
-            "published_utc": "2026-03-30T00:01:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -198,25 +282,11 @@
             "published_utc": "2026-03-29T21:09:50+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Best Amazon Spring Sale phone deals 2026: 25+ sales out now",
-            "link": "https://www.zdnet.com/article/best-amazon-big-spring-sale-2026-phone-deals/",
-            "summary": "For Amazon's Big Spring Sale, I've rounded up the best phone deals from major brands like Apple, Samsung, Motorola, and more. Sales are live now, so a...",
-            "published_utc": "2026-03-29T18:17:31+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "File read flaw in Smart Slider plugin impacts 500K WordPress sites",
             "link": "https://www.bleepingcomputer.com/news/security/file-read-flaw-in-smart-slider-plugin-impacts-500k-wordpress-sites/",
             "summary": "A vulnerability in the Smart Slider 3 WordPress plugin, active on more than 800,000 websites, can be exploited to allow subscriber-level users access ...",
             "published_utc": "2026-03-29T14:38:25+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Best Amazon Spring Sale robot vacuum deals 2026",
-            "link": "https://www.zdnet.com/article/best-amazon-spring-sale-2026-robot-vacuum-deals/",
-            "summary": "A reliable robot vacuum is a great way to outsource cleaning your home's biggest messes. Shop the best deals during Amazon's Big Spring Sale.",
-            "published_utc": "2026-03-29T14:33:01+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -296,25 +366,11 @@
             "published_utc": "2026-03-27T15:06:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "In Other News: Palo Alto Recruiter Scam, Anti-Deepfake Chip, Google Sets 2029 Quantum Deadline",
-            "link": "https://www.securityweek.com/in-other-news-palo-alto-recruiter-scam-anti-deepfake-chip-google-sets-2029-quantum-deadline/",
-            "summary": "",
-            "published_utc": "2026-03-27T14:25:52+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Agentic GRC: Teams Get the Tech. The Mindset Shift Is What's Missing.",
             "link": "https://www.bleepingcomputer.com/news/security/agentic-grc-teams-get-the-tech-the-mindset-shift-is-whats-missing/",
             "summary": "Agentic GRC automates workflows, forcing teams to rethink their role beyond operations. Anecdotes explains why the biggest challenge is shifting from ...",
             "published_utc": "2026-03-27T14:02:12+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "OpenAI Launches Bug Bounty Program for Abuse and Safety Risks",
-            "link": "https://www.securityweek.com/openai-launches-bug-bounty-program-for-abuse-and-safety-risks/",
-            "summary": "",
-            "published_utc": "2026-03-27T13:33:11+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -345,25 +401,11 @@
             "published_utc": "2026-03-27T12:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "TP-Link Patches High-Severity Router Vulnerabilities",
-            "link": "https://www.securityweek.com/tp-link-patches-high-severity-router-vulnerabilities/",
-            "summary": "",
-            "published_utc": "2026-03-27T11:42:30+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Cyberangriff auf die Linke",
             "link": "https://www.csoonline.com/article/4151169/cyberangriff-auf-die-linke.html",
             "summary": "",
             "published_utc": "2026-03-27T10:58:49+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "RSAC 2026 Conference Announcements Summary (Days 3-4)",
-            "link": "https://www.securityweek.com/rsac-2026-conference-announcements-summary-days-3-4/",
-            "summary": "",
-            "published_utc": "2026-03-27T10:48:53+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -618,13 +660,6 @@
             "published_utc": "2026-03-25T11:00:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "6 key trends reshaping the IAM market",
-            "link": "https://www.csoonline.com/article/4148282/6-key-trends-reshaping-the-iam-market.html",
-            "summary": "",
-            "published_utc": "2026-03-25T10:01:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "Virtual machines, virtually everywhere – and with real security gaps",
             "link": "https://www.welivesecurity.com/en/business-security/virtual-machines-virtually-everywhere-real-security-gaps/",
@@ -637,13 +672,6 @@
             "link": "https://www.infosecurity-magazine.com/news/police-fraud-crackdown-leads-to/",
             "summary": "UK police trumpet success of Operation Henhouse as they seize and freeze over £27m in suspected fraud proceeds",
             "published_utc": "2026-03-25T09:35:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "AI is breaking traditional security models — Here’s where they fail first",
-            "link": "https://www.csoonline.com/article/4149411/ai-is-breaking-traditional-security-models-heres-where-they-fail-first.html",
-            "summary": "",
-            "published_utc": "2026-03-25T09:00:00+00:00"
         },
         {
             "source": "WIRED Security",
@@ -1036,13 +1064,6 @@
             "link": "https://www.infosecurity-magazine.com/news/uk-cyber-monitoring-centre-us/",
             "summary": "The US Cyber Monitoring Center should be operational in 2027, said the UK CMC leadership",
             "published_utc": "2026-03-17T10:15:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "South Korean Police Accidentally Post Cryptocurrency Wallet Password",
-            "link": "https://www.schneier.com/blog/archives/2026/03/south-korean-police-accidentally-post-cryptocurrency-wallet-password.html",
-            "summary": "",
-            "published_utc": "2026-03-17T10:01:43+00:00"
         },
         {
             "source": "WIRED Security",
@@ -2753,20 +2774,6 @@
             "published_utc": "2026-01-20T16:30:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "Prompt Injection Bugs Found in Official Anthropic Git MCP Server",
-            "link": "https://www.infosecurity-magazine.com/news/prompt-injection-bugs-anthropic/",
-            "summary": "Three vulnerabilities in Anthropic's Git server for the MCP can be exploited via prompt injection",
-            "published_utc": "2026-01-20T15:01:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Cyber Risks Among CEOs’ Top Worries Amid Weak Short Term Growth Outlook",
-            "link": "https://www.infosecurity-magazine.com/news/cyber-risks-among-ceos-top-worries/",
-            "summary": "PwC’s 29th Global CEO Survey shows cyber risk rising to the top of CEO concerns as confidence in short term business growth weakens",
-            "published_utc": "2026-01-20T14:30:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "Old habits die hard: 2025’s most common passwords were as predictable as ever",
             "link": "https://www.welivesecurity.com/en/cybersecurity/old-habits-die-hard-2025-most-common-passwords/",
@@ -3493,13 +3500,6 @@
             "link": "https://threatpost.com/firewall-bug-under-active-attack-cisa-warning/180467/",
             "summary": "CISA is warning that Palo Alto Networks’ PAN-OS is under active attack and needs to be patched ASAP.",
             "published_utc": "2022-08-23T13:19:58+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Fake Reservation Links Prey on Weary Travelers",
-            "link": "https://threatpost.com/reservation-links-prey-on-travelers/180462/",
-            "summary": "Fake travel reservations are exacting more pain from the travel weary, already dealing with the misery of canceled flights and overbooked hotels.",
-            "published_utc": "2022-08-22T13:59:06+00:00"
         }
     ]
 }
