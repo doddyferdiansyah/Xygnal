@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2026-03-31T21:40:42.727620+00:00",
+    "lastUpdatedUTC": "2026-03-31T22:36:32.747398+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "These Shark Amazon Spring Sale deals are perfect for a spring refresh - but hurry",
+            "link": "https://www.zdnet.com/article/shark-amazon-spring-sale-2026-deals-last-chance/",
+            "summary": "Amazon's Big Spring Sale ends today, but there's still plenty of savings from Shark (including hair tools, cleaning gear, and more) - but don't wait.",
+            "published_utc": "2026-03-31T22:32:34+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "GIGABYTE Control Center vulnerable to arbitrary file write flaw",
+            "link": "https://www.bleepingcomputer.com/news/security/gigabyte-control-center-vulnerable-to-arbitrary-file-write-flaw/",
+            "summary": "The GIGABYTE Control Center is vulnerable to an arbitrary file-write flaw that could allow a remote, unauthenticated attacker to access files on vulne...",
+            "published_utc": "2026-03-31T22:28:02+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "These 5 Amazon Spring Sale deals are worth a second glance before they're gone soon",
+            "link": "https://www.zdnet.com/article/dyson-amazon-spring-sale-2026-deals-still-live/",
+            "summary": "It's the last day of Amazon's Big Spring Sale, but there's still last chance savings on top gear from Dyson (including vacuums, hair tools, and more).",
+            "published_utc": "2026-03-31T22:19:07+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Amazon Spring Sale live blog 2026: Last day to score top Amazon deals",
+            "link": "https://www.zdnet.com/article/amazon-spring-sale-live-blog-03-31-2026/",
+            "summary": "We're live-tracking the best Amazon Spring Sale deals over 60% off on home, tech, and more, during the final hours of the sale. Buy them before they'r...",
+            "published_utc": "2026-03-31T22:02:47+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Claude AI finds Vim, Emacs RCE bugs that trigger on file open",
+            "link": "https://www.bleepingcomputer.com/news/security/claude-ai-finds-vim-emacs-rce-bugs-that-trigger-on-file-open/",
+            "summary": "Vulnerabilities in the Vim and GNU Emacs text editors, discovered using simple prompts with the Claude assistant, allow remote code execution simply b...",
+            "published_utc": "2026-03-31T21:45:14+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "This minimalist smartwatch by one of my favorite tech companies is under $100 right now",
+            "link": "https://www.zdnet.com/article/this-minimalist-smartwatch-by-one-of-my-favorite-tech-companies-is-under-100-right-now/",
+            "summary": "On the final day of Amazon's Spring Sale, grab the CMF by Nothing Watch Pro 3 for $69.",
+            "published_utc": "2026-03-31T21:43:02+00:00"
+        },
         {
             "source": "WIRED Security",
             "title": "Iran Threatens to Start Attacking Major US Tech Firms on April 1",
@@ -14,13 +56,6 @@
             "link": "https://www.zdnet.com/article/best-deals-under-100-amazon-spring-sale/",
             "summary": "Improve your personal life with these great sub-$100 deals I've found during Amazon's Spring Sale. Act fast because the event ends soon.",
             "published_utc": "2026-03-31T21:00:53+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Amazon Spring Sale live blog 2026: Last day to score top Amazon deals",
-            "link": "https://www.zdnet.com/article/amazon-spring-sale-live-blog-03-31-2026/",
-            "summary": "We're live-tracking the best Amazon Spring Sale deals over 60% off on home, tech, and more, during the final hours of the sale.",
-            "published_utc": "2026-03-31T20:52:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -163,32 +198,11 @@
             "published_utc": "2026-03-31T15:11:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Last chance on these rare DDR5 RAM deals during Amazon's Spring Sale",
-            "link": "https://www.zdnet.com/article/ddr5-ram-deals-amazon-spring-sale-2026/",
-            "summary": "The RAM-pocalypse is causing sky-high prices, but you can snag upgrades from Corsair, Kingston, and more during Amazon's Spring Sale.",
-            "published_utc": "2026-03-31T15:05:00+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "Stolen Logins Are Fueling Everything From Ransomware to Nation-State Cyberattacks",
             "link": "https://www.securityweek.com/stolen-logins-are-fueling-everything-from-ransomware-to-nation-state-cyberattacks/",
             "summary": "",
             "published_utc": "2026-03-31T15:04:58+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Best Amazon Spring Sale 2026 smartwatch and smart ring deals",
-            "link": "https://www.zdnet.com/article/best-amazon-spring-sale-2026-smart-ring-smartwatch-deals/",
-            "summary": "These smart rings, smartwatches, and other wearables are on sale during Amazon's Big Spring Sale, which ends tonight.",
-            "published_utc": "2026-03-31T15:03:48+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Best Amazon Big Spring Sale headphone deals 2026 - last chance to save",
-            "link": "https://www.zdnet.com/article/last-minute-amazon-spring-sale-2026-headphones-deals/",
-            "summary": "Spring has sprung, and Amazon's Big Spring Sale is almost over. Here are the best headphone deals to shop before the sale ends.",
-            "published_utc": "2026-03-31T14:58:50+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -464,13 +478,6 @@
             "published_utc": "2026-03-30T10:01:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Microsoft pulls KB5079391 Windows update over install issues",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-windows-kb5079391-update-over-0x80073712-install-errors/",
-            "summary": "Microsoft has pulled a buggy Windows 11 non-security preview update to investigate a known issue that triggers 0x80073712 errors during installation. ...",
-            "published_utc": "2026-03-30T09:38:45+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "ICO Fines UK Nuisance Call Scammers £100,000",
             "link": "https://www.infosecurity-magazine.com/news/ico-fines-uk-nuisance-call/",
@@ -490,13 +497,6 @@
             "link": "https://www.infosecurity-magazine.com/news/european-commission-cloud-data/",
             "summary": "The European Commission has revealed details of a data breach impacting its AWS infrastructure",
             "published_utc": "2026-03-30T08:15:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Critical Fortinet Forticlient EMS flaw now exploited in attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/critical-fortinet-forticlient-ems-flaw-now-exploited-in-attacks/",
-            "summary": "Attackers are now actively exploiting a critical vulnerability in Fortinet's FortiClient EMS platform, according to threat intelligence company Defuse...",
-            "published_utc": "2026-03-30T07:48:17+00:00"
         },
         {
             "source": "CSO Online",
