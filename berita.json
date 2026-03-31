@@ -1,6 +1,34 @@
 {
-    "lastUpdatedUTC": "2026-03-30T23:37:12.875862+00:00",
+    "lastUpdatedUTC": "2026-03-31T02:33:36.066934+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "This privacy-first chatbot is taking off - here's why and how to try it",
+            "link": "https://www.zdnet.com/article/duckai-popularity-government-surveillance-privacy-anthropic-openai/",
+            "summary": "Users are flocking to Duck.ai. Is it a reaction to increasing concerns about AI companies and privacy? Here's what you should know.",
+            "published_utc": "2026-03-31T02:01:07+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I installed this Arch-based distro my way in under 5 minutes - so can you",
+            "link": "https://www.zdnet.com/article/prism-linux-arch-based-distro-has-killer-installer/",
+            "summary": "Thanks to the Prism Linux installer, I curated exactly the software I wanted and achieved the holy grail of out-of-the-box experiences.",
+            "published_utc": "2026-03-31T02:00:48+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Don't ignore your desktop PC's empty M.2 slots - they're more useful than you think",
+            "link": "https://www.zdnet.com/article/desktop-pc-m2-slots-how-to-use-them-fully/",
+            "summary": "M.2 slots aren't just for storage; you can get more use out of your desktop with some initial investment.",
+            "published_utc": "2026-03-31T01:00:59+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I replaced my outdoor Bluetooth speakers with a wired audio system, and don't regret it",
+            "link": "https://www.zdnet.com/article/pok-audio-atrium-5-review/",
+            "summary": "Review: The Polk Audio Atrium 5 speakers pair a sleek, minimalist design with full weatherproofing, delivering crisp, dynamic sound.",
+            "published_utc": "2026-03-31T00:17:00+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "Fortinet hit by another exploited cybersecurity flaw",
@@ -41,7 +69,7 @@
             "title": "A dozen travel gadgets that can upgrade your spring break (and they're on sale)",
             "link": "https://www.zdnet.com/article/travel-gadgets-amazon-spring-sale-2026/",
             "summary": "Traveling soon? Scoop up these nifty gadgets ahead of your travels for less during the last days of Amazon's Spring Sale.",
-            "published_utc": "2026-03-30T21:15:13+00:00"
+            "published_utc": "2026-03-30T21:15:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -142,32 +170,11 @@
             "published_utc": "2026-03-30T17:06:11+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "We're tracking the best last-minute tech deals under $50 during Amazon's Big Spring Sale",
-            "link": "https://www.zdnet.com/article/best-deals-under-50-last-minute-amazon-spring-sale/",
-            "summary": "Amazon is full of great, affordable gadgets for your day-to-day, from speakers and chargers to streaming sticks and smart home gear. They're even chea...",
-            "published_utc": "2026-03-30T16:53:33+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The most popular Amazon Spring Sale deals, according to thousands of readers",
-            "link": "https://www.zdnet.com/article/reader-favorites-amazon-spring-sale-2026/",
-            "summary": "Amazon's Spring Sale is winding down, but we've got the scoop on the top products ZDNET readers are clicking on the most, from SSDs to kitchen gadgets.",
-            "published_utc": "2026-03-30T16:25:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Best Amazon Spring Sale phone deals 2026: Last chance to grab these 25+ discounts",
-            "link": "https://www.zdnet.com/article/last-minute-amazon-spring-sale-2026-phone-deals/",
-            "summary": "For Amazon's Big Spring Sale, I've rounded up the best phone deals from major brands like Apple, Samsung, Motorola, and more. Sales are live now, so a...",
-            "published_utc": "2026-03-30T16:15:04+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The best streaming deals right now: Paramount+, Roku sticks, and more",
-            "link": "https://www.zdnet.com/article/best-streaming-deals-last-minute-amazon-spring-sale-2026/",
-            "summary": "Cut the cord and stream for less with some of the best deals we've seen so far this year on popular streaming services and devices during Amazon's Big...",
-            "published_utc": "2026-03-30T16:13:00+00:00"
+            "source": "InfosecurityMag",
+            "title": "Cybercriminals Exploit Tax Season With New Phishing Tactics",
+            "link": "https://www.infosecurity-magazine.com/news/tax-season-new-phishing-tactics/",
+            "summary": "Tax-season phishing floods deliver RMM malware, credential theft, BEC and tax-form scams",
+            "published_utc": "2026-03-30T15:00:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -196,6 +203,13 @@
             "link": "https://www.bleepingcomputer.com/news/security/how-to-evaluate-ai-soc-agents-7-questions-gartner-says-you-should-be-asking/",
             "summary": "AI SOC agents can reduce alert fatigue, but most teams fail to measure real outcomes. Prophet Security breaks down Gartner's questions for evaluating ...",
             "published_utc": "2026-03-30T14:01:11+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Lloyds IT Glitch Exposed Data of Nearly 500,000 Banking Customers",
+            "link": "https://www.infosecurity-magazine.com/news/lloyds-glitch-exposed-500000/",
+            "summary": "Lloyds app glitch exposed up to 447,936 customers’ transactions and personal data during update",
+            "published_utc": "2026-03-30T14:00:00+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -2779,20 +2793,6 @@
             "link": "https://www.infosecurity-magazine.com/news/report-fraud-fight-against/",
             "summary": "City of London Police has launched the UK’s national Report Fraud service",
             "published_utc": "2026-01-21T09:45:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Risk of AI Model Collapse to Drive Zero Trust Data Governance, Gartner Says",
-            "link": "https://www.infosecurity-magazine.com/news/ai-model-collapse-zero-trust-data/",
-            "summary": "Gartner predicts 50% of organizations will adopt zero trust data governance by 2028",
-            "published_utc": "2026-01-21T08:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Chainlit Security Flaws Highlight Infrastructure Risks in AI Apps",
-            "link": "https://www.infosecurity-magazine.com/news/chainlit-security-flaws-ai-apps/",
-            "summary": "2 security vulnerabilities in the Chainlit framework expose risks from web flaws in AI applications",
-            "published_utc": "2026-01-20T16:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
