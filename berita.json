@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2026-03-31T05:11:09.971017+00:00",
+    "lastUpdatedUTC": "2026-03-31T07:18:26.016719+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "Fahndung nach Cyberkriminellen – 130 Firmen attackiert",
+            "link": "https://www.csoonline.com/article/4152271/fahndung-nach-cyberkriminellen-130-firmen-attackiert-2.html",
+            "summary": "",
+            "published_utc": "2026-03-31T07:16:58+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "CISA orders feds to patch actively exploited Citrix flaw by Thursday",
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-citrix-flaw-by-thursday/",
+            "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch their Citrix NetScaler appliances against an act...",
+            "published_utc": "2026-03-31T07:05:25+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Samsung Galaxy S24 vs. S26: Is the two-year upgrade worth it? I weighed the differences",
+            "link": "https://www.zdnet.com/article/samsung-galaxy-s26-vs-s24/",
+            "summary": "If you have a Samsung Galaxy S24 or are upgrading from an older model, here's what to know before you buy the S26.",
+            "published_utc": "2026-03-31T07:00:39+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Critical Vulnerability in OpenAI Codex Allowed GitHub Token Compromise",
+            "link": "https://www.securityweek.com/critical-vulnerability-in-openai-codex-allowed-github-token-compromise/",
+            "summary": "",
+            "published_utc": "2026-03-31T06:35:48+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Should you buy a solid-state battery pack in 2026? My advice after weeks of testing",
+            "link": "https://www.zdnet.com/article/bmx-solidsafe-10k-review/",
+            "summary": "The BMX SolidSafe 10K has many advantages over traditional power banks, but it has some obvious flaws. Here's the breakdown.",
+            "published_utc": "2026-03-31T06:00:53+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "A portable SSD with NFC unlock felt excessive, until I used it with my iPhone 17 Pro Max",
@@ -156,20 +191,6 @@
             "published_utc": "2026-03-30T17:41:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "This is hands-down the best juicer I've ever used - and it's on sale",
-            "link": "https://www.zdnet.com/article/dreamfarm-fluicer-deal-amazon-spring-sale-2026/",
-            "summary": "The Fluicer gets every drop of juice out of your lemons, limes, or oranges, with minimal effort. Get one for under $20 during the Amazon Spring Sale.",
-            "published_utc": "2026-03-30T17:32:35+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The best last minute phone deals from T-Mobile, Verizon, AT&T and other carriers",
-            "link": "https://www.zdnet.com/article/best-phone-carrier-deals-tmobile-verizon-att-last-minute-amazon-spring-sale/",
-            "summary": "Amazon Spring Sale is in its final days, but multiple carriers are offering deals on flagships, including the iPhone 17 Pro for free. These discounts ...",
-            "published_utc": "2026-03-30T17:26:42+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Cybercriminals Exploit Tax Season With New Phishing Tactics",
             "link": "https://www.infosecurity-magazine.com/news/tax-season-new-phishing-tactics/",
@@ -269,7 +290,7 @@
         },
         {
             "source": "BleepingComputer",
-            "title": "Hackers now exploit critical F5 BIG-IP flaw in attacks, patch now",
+            "title": "Hackers exploiting critical F5 BIG-IP flaw in attacks, patch now",
             "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-f5-big-ip-flaw-in-attacks-patch-now/",
             "summary": "F5 has reclassified a BIG-IP APM denial-of-service (DoS) vulnerability as a critical-severity remote code execution (RCE) flaw, warning that attackers...",
             "published_utc": "2026-03-30T10:59:38+00:00"
@@ -343,13 +364,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/critical-fortinet-forticlient-ems-flaw-now-exploited-in-attacks/",
             "summary": "Attackers are now actively exploiting a critical vulnerability in Fortinet's FortiClient EMS platform, according to threat intelligence company Defuse...",
             "published_utc": "2026-03-30T07:48:17+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "F5 BIG-IP DoS Flaw Upgraded to Critical RCE, Now Exploited in the Wild",
-            "link": "https://www.securityweek.com/f5-big-ip-dos-flaw-upgraded-to-critical-rce-now-exploited-in-the-wild/",
-            "summary": "",
-            "published_utc": "2026-03-30T07:07:09+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -441,13 +455,6 @@
             "link": "https://www.infosecurity-magazine.com/news/teampcp-targets-telnyx-pypi-package/",
             "summary": "Socket and Endor Labs discovered a new TeamPCP campaign leading to the delivery of credential-stealing malware",
             "published_utc": "2026-03-27T15:06:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Agentic GRC: Teams Get the Tech. The Mindset Shift Is What's Missing.",
-            "link": "https://www.bleepingcomputer.com/news/security/agentic-grc-teams-get-the-tech-the-mindset-shift-is-whats-missing/",
-            "summary": "Agentic GRC automates workflows, forcing teams to rethink their role beyond operations. Anecdotes explains why the biggest challenge is shifting from ...",
-            "published_utc": "2026-03-27T14:02:12+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -665,13 +672,6 @@
             "link": "https://www.infosecurity-magazine.com/news/us-fcc-bans-foreign-made-routers/",
             "summary": "The US Federal Communications Commission has placed all “consumer-grade” internet routers produced outside the US on its “covered list”",
             "published_utc": "2026-03-25T12:30:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Trivy supply chain breach compromises over 1,000 SaaS environments, Lapsus$ joins the extortion wave",
-            "link": "https://www.csoonline.com/article/4149938/trivy-supply-chain-breach-compromises-over-1000-saas-environments-lapsus-joins-the-extortion-wave.html",
-            "summary": "",
-            "published_utc": "2026-03-25T12:04:10+00:00"
         },
         {
             "source": "InfosecurityMag",
