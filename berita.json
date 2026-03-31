@@ -1,12 +1,33 @@
 {
-    "lastUpdatedUTC": "2026-03-31T20:44:58.660477+00:00",
+    "lastUpdatedUTC": "2026-03-31T21:40:42.727620+00:00",
     "articles": [
+        {
+            "source": "WIRED Security",
+            "title": "Iran Threatens to Start Attacking Major US Tech Firms on April 1",
+            "link": "https://www.wired.com/story/iran-threatens-to-start-attacking-major-us-tech-firms-on-april-1/",
+            "summary": "Tech giants like Apple, Google, and Microsoft are among those on a target list released by Iran’s Islamic Revolutionary Guard Corps.",
+            "published_utc": "2026-03-31T21:25:12+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I found the 3 best last minute tech deals under $100 during Amazon's Spring Sale",
+            "link": "https://www.zdnet.com/article/best-deals-under-100-amazon-spring-sale/",
+            "summary": "Improve your personal life with these great sub-$100 deals I've found during Amazon's Spring Sale. Act fast because the event ends soon.",
+            "published_utc": "2026-03-31T21:00:53+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Amazon Spring Sale live blog 2026: Last day to score top Amazon deals",
             "link": "https://www.zdnet.com/article/amazon-spring-sale-live-blog-03-31-2026/",
-            "summary": "We're live-tracking the best Amazon Spring Sale deals over 60% off on home, tech, and more, on the final day of the sale.",
-            "published_utc": "2026-03-31T20:22:00+00:00"
+            "summary": "We're live-tracking the best Amazon Spring Sale deals over 60% off on home, tech, and more, during the final hours of the sale.",
+            "published_utc": "2026-03-31T20:52:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Attackers trojanize Axios HTTP library in highest-impact npm supply chain attack",
+            "link": "https://www.csoonline.com/article/4152696/attackers-trojanize-axios-http-library-in-highest-impact-npm-supply-chain-attack.html",
+            "summary": "",
+            "published_utc": "2026-03-31T20:45:53+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -35,13 +56,6 @@
             "link": "https://www.zdnet.com/article/wfh-gadgets-amazon-spring-sale-2026/",
             "summary": "As a remote worker, I'd recommend these WFH essentials even if they weren't marked down for Amazon's Spring Sale. Here's your last chance for discounts.",
             "published_utc": "2026-03-31T18:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "We're tracking the best last-minute tech deals under $50 during Amazon's Big Spring Sale",
-            "link": "https://www.zdnet.com/article/best-deals-under-50-last-minute-amazon-spring-sale/",
-            "summary": "Amazon is full of great, affordable gadgets for your day-to-day, from speakers and chargers to streaming sticks and smart home gear. They're even chea...",
-            "published_utc": "2026-03-31T17:54:49+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -175,13 +189,6 @@
             "link": "https://www.zdnet.com/article/last-minute-amazon-spring-sale-2026-headphones-deals/",
             "summary": "Spring has sprung, and Amazon's Big Spring Sale is almost over. Here are the best headphone deals to shop before the sale ends.",
             "published_utc": "2026-03-31T14:58:50+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Best Amazon Spring Sale robot vacuum deals 2026 - last call for savings",
-            "link": "https://www.zdnet.com/article/best-last-minute-amazon-spring-sale-2026-robot-vacuum-deals/",
-            "summary": "A reliable robot vacuum is a great way to outsource cleaning your home's biggest messes. Shop the best deals during Amazon's Big Spring Sale before th...",
-            "published_utc": "2026-03-31T14:58:28+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -609,13 +616,6 @@
             "link": "https://www.wired.com/story/us-iran-war-nuclear-extraction-ground-operation/",
             "summary": "Experts say that an American ground operation targeting nuclear sites in Iran would be incredibly complicated, put troops’ lives at great risk—and mig...",
             "published_utc": "2026-03-26T21:42:52+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "The CISO’s guide to responding to shadow AI",
-            "link": "https://www.csoonline.com/article/4143302/the-cisos-guide-to-responding-to-shadow-ai.html",
-            "summary": "",
-            "published_utc": "2026-03-26T19:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1512,13 +1512,6 @@
             "link": "https://www.welivesecurity.com/en/business-security/what-cybersecurity-actually-does-for-your-business/",
             "summary": "The ability to continue operating safely in an unsafe environment where competitors cannot is a competitive advantage that is rarely measured or discu...",
             "published_utc": "2026-03-06T10:00:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "Here’s Every Country Directly Impacted by the War on Iran",
-            "link": "https://www.wired.com/story/every-country-directly-impacted-by-the-war-on-iran/",
-            "summary": "As the conflict in the Middle East continues to escalate, more than a dozen countries in the region have reportedly been affected by air strikes.",
-            "published_utc": "2026-03-05T22:28:33+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -3500,6 +3493,13 @@
             "link": "https://threatpost.com/ransomware-attacks-are-on-the-rise/180481/",
             "summary": "Lockbit is by far this summer’s most prolific ransomware group, trailed by two offshoots of the Conti group.",
             "published_utc": "2022-08-26T16:44:27+00:00"
+        },
+        {
+            "source": "Threatpost",
+            "title": "Cybercriminals Are Selling Access to Chinese Surveillance Cameras",
+            "link": "https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/",
+            "summary": "Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed.",
+            "published_utc": "2022-08-25T18:47:15+00:00"
         }
     ]
 }
