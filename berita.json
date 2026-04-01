@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-04-01T19:05:10.388419+00:00",
+    "lastUpdatedUTC": "2026-04-01T20:46:44.189921+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "Still running iOS 18? Install this critical update ASAP",
+            "link": "https://www.zdnet.com/article/ios-18-darksword-security-patch/",
+            "summary": "The latest patch provides protection against the deadly DarkSword exploit for iPhone users who have chosen to remain on iOS 18.",
+            "published_utc": "2026-04-01T20:00:29+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I tried to destroy this AirTag alternative, but it wouldn't crack - unlike others",
+            "link": "https://www.zdnet.com/article/ugreen-finder-pro-tag-review/",
+            "summary": "Finder tags are great, but most are pretty fragile. These Ugreen Finder Pro tags are some of the toughest I've tested.",
+            "published_utc": "2026-04-01T19:59:40+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "New EvilTokens service fuels Microsoft device code phishing attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/new-eviltokens-service-fuels-microsoft-device-code-phishing-attacks/",
+            "summary": "A new malicious kit called EvilTokens integrates device code phishing capabilities, allowing attackers to hijack Microsoft accounts and provide advanc...",
+            "published_utc": "2026-04-01T19:42:25+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "We still highly recommend these 3 older laptop models - especially while they're on sale",
@@ -182,13 +203,6 @@
             "link": "https://www.zdnet.com/article/ssd-deals-amazon-spring-sale-2026/",
             "summary": "Instantly upgrade your gaming or work computer's storage with these high-capacity SSDs from Western Digital even after Amazon's Big Spring Sale has en...",
             "published_utc": "2026-04-01T13:41:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "You can still save on gaming laptops, SSDs, and consoles at Best Buy",
-            "link": "https://www.zdnet.com/article/best-buy-gaming-deals-amazon-spring-sale-2026/",
-            "summary": "The Amazon Spring Sale has ended, but if you need to upgrade your gaming setup, you can save hundreds on gaming laptops, SSDs, and more at Best Buy.",
-            "published_utc": "2026-04-01T13:36:00+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -476,13 +490,6 @@
             "link": "https://www.csoonline.com/article/4152393/openai-patches-twin-leaks-as-codex-slips-and-chatgpt-spills.html",
             "summary": "",
             "published_utc": "2026-03-31T12:12:36+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft fixes Outlook Classic crashes caused by Teams Meeting add-in",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-classic-crashes-caused-by-teams-meeting-add-in/",
-            "summary": "​Microsoft has resolved a known issue that rendered the classic Outlook email client unusable for users who enabled the Microsoft Teams Meeting Add-in...",
-            "published_utc": "2026-03-31T12:04:15+00:00"
         },
         {
             "source": "Schneier",
@@ -3493,13 +3500,6 @@
             "link": "https://threatpost.com/twitter-whistleblower-tldr-version/180472/",
             "summary": "Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a n...",
             "published_utc": "2022-08-24T14:17:04+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Firewall Bug Under Active Attack Triggers CISA Warning",
-            "link": "https://threatpost.com/firewall-bug-under-active-attack-cisa-warning/180467/",
-            "summary": "CISA is warning that Palo Alto Networks’ PAN-OS is under active attack and needs to be patched ASAP.",
-            "published_utc": "2022-08-23T13:19:58+00:00"
         }
     ]
 }
