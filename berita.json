@@ -1,12 +1,82 @@
 {
-    "lastUpdatedUTC": "2026-04-02T13:18:01.374920+00:00",
+    "lastUpdatedUTC": "2026-04-02T14:58:06.666038+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "Oneisall Ease S1 review: Finally, a smart litter box that doesn't cost an arm and a paw",
+            "link": "https://www.zdnet.com/article/oneisall-ease-s1-review/",
+            "summary": "The Oneisall Ease S1 litter robot saves you from scooping and is a lot more affordable than competitors.",
+            "published_utc": "2026-04-02T14:45:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Cybersecurity M&A Roundup: 38 Deals Announced in March 2026",
+            "link": "https://www.securityweek.com/cybersecurity-ma-roundup-38-deals-announced-in-march-2026/",
+            "summary": "",
+            "published_utc": "2026-04-02T14:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "NCSC Issues Security Alert Over Hackers Targeting WhatsApp and Signal Accounts",
+            "link": "https://www.infosecurity-magazine.com/news/ncsc-alert-hackers-whatsapp-signal/",
+            "summary": "The UK’s cybersecurity agency offered advice to “high-risk’ individuals” on how to protect against social engineering and cyber-attacks",
+            "published_utc": "2026-04-02T14:15:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Adversaries Exploit Vacant Homes to Intercept Mail in Hybrid Cybercrime",
+            "link": "https://www.bleepingcomputer.com/news/security/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime/",
+            "summary": "Threat actors are exploiting vacant homes as \"drop addresses\" to intercept mail and enable fraud. Flare shows how postal services and fake identities ...",
+            "published_utc": "2026-04-02T14:01:11+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I built two apps with just my voice and a mouse - are IDEs already obsolete?",
+            "link": "https://www.zdnet.com/article/building-apps-with-ai-and-no-ide/",
+            "summary": "With one hand holding my dog and no keyboard, I advanced two serious development projects using AI prompting, proving that the traditional coding setu...",
+            "published_utc": "2026-04-02T13:55:32+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "New Progress ShareFile flaws can be chained in pre-auth RCE attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/new-progress-sharefile-flaws-can-be-chained-in-pre-auth-rce-attacks/",
+            "summary": "Two vulnerabilities in Progress ShareFile, an enterprise-grade secure file transfer solution, can be chained to enable unauthenticated file exfiltrati...",
+            "published_utc": "2026-04-02T13:33:11+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Apple Expands iOS 18 Security Updates Amid DarkSword Threat",
+            "link": "https://www.infosecurity-magazine.com/news/apple-ios-18-updates-darksword/",
+            "summary": "iOS/iPadOS 18.7.7 updates expanded to protect older devices from DarkSword web exploit kit",
+            "published_utc": "2026-04-02T13:30:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Medtech giant Stryker fully operational after data-wiping attack",
+            "link": "https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-fully-operational-after-data-wiping-attack/",
+            "summary": "Stryker Corporation, one of the world's leading medical technology companies, says it's fully operational three weeks after many of its systems were w...",
+            "published_utc": "2026-04-02T13:28:39+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "My two Raspberry Pi boards cost as much as a laptop now - and AI is to blame",
             "link": "https://www.zdnet.com/article/raspberry-pi-price-increase-blame-ai-ram/",
             "summary": "We live in a time when two 16GB Raspberry Pi 5 boards cost the same as a MacBook Neo. Here's why - and how to save.",
             "published_utc": "2026-04-02T13:16:16+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Researchers Observe Sub-One-Hour Ransomware Attacks",
+            "link": "https://www.infosecurity-magazine.com/news/researchers-subonehour-ransomware/",
+            "summary": "Halcyon says Akira is now capable of carrying out an entire ransomware attack in less than an hour",
+            "published_utc": "2026-04-02T13:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "GitHub Used as Covert Channel in Multi-Stage Malware Campaign",
+            "link": "https://www.infosecurity-magazine.com/news/github-covert-multi-stage-malware/",
+            "summary": "LNK files use GitHub C2, embedded decoders and PowerShell for persistence and data exfiltration",
+            "published_utc": "2026-04-02T13:00:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -282,13 +352,6 @@
             "published_utc": "2026-04-01T14:37:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Exploited Zero-Day Among 21 Vulnerabilities Patched in Chrome",
-            "link": "https://www.securityweek.com/exploited-zero-day-among-21-vulnerabilities-patched-in-chrome/",
-            "summary": "",
-            "published_utc": "2026-04-01T14:36:39+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "Amazon Spring Sale live blog 2026: Top Amazon deals still live",
             "link": "https://www.zdnet.com/article/amazon-spring-sale-live-blog-2026/",
@@ -322,13 +385,6 @@
             "link": "https://www.zdnet.com/article/icy-box-docking-and-clonestation-review/",
             "summary": "The Icy Box Docking and Clone Station provides the easiest way to move data between drives and to access bare drives.",
             "published_utc": "2026-04-01T13:46:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I used Apple Music's new AI tool to break out of my music rut - and it worked",
-            "link": "https://www.zdnet.com/article/apple-music-playlist-playground/",
-            "summary": "I usually cycle through my years-old playlists, but I tried AI-generated ones for a weekend. I found being specific is key.",
-            "published_utc": "2026-04-01T13:44:42+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -436,13 +492,6 @@
             "published_utc": "2026-04-01T06:10:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "New Windows 11 emergency update fixes preview update install issues",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/new-windows-11-kb5086672-emergency-update-fixes-install-issues/",
-            "summary": "Microsoft released an emergency update to fix the March 2026 KB5079391 non-security preview update, which was pulled over the weekend due to installat...",
-            "published_utc": "2026-04-01T05:33:43+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Attack Surface Management – ein Kaufratgeber",
             "link": "https://www.csoonline.com/article/3492897/attack-surface-management-losungen-9-tools-um-ihre-angriffsflache-zu-managen.html",
@@ -462,20 +511,6 @@
             "link": "https://www.wired.com/story/apple-will-push-out-rare-backported-patches-to-protect-ios-18-users-from-darksword-hacking-tool/",
             "summary": "As DarkSword spreads, Apple tells WIRED it will enable iOS 18-specific fixes for millions of iPhone owners who remain on that iOS version rather than ...",
             "published_utc": "2026-04-01T00:49:08+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Claude Code source code accidentally leaked in NPM package",
-            "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-code-source-code-accidentally-leaked-in-npm-package/",
-            "summary": "Anthropic says it accidentally leaked the source code for Claude Code, which is closed source, but the company says no customer data or credentials we...",
-            "published_utc": "2026-04-01T00:32:25+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Google now allows you to change your @gmail.com address",
-            "link": "https://www.bleepingcomputer.com/news/google/google-now-allows-you-to-change-your-gmailcom-address/",
-            "summary": "Google is rolling out a new feature in the U.S. that allows users to change their @gmail address or create a new alias. [...]",
-            "published_utc": "2026-03-31T23:13:56+00:00"
         },
         {
             "source": "WIRED Security",
@@ -2746,39 +2781,11 @@
             "published_utc": "2026-01-26T13:00:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "Okta Flags Customized, Reactive Vishing Attacks Which Bypass MFA",
-            "link": "https://www.infosecurity-magazine.com/news/okta-flags-vishing-attacks-which/",
-            "summary": "Threat actors posing as IT support teams use phishing kits to generate fake login sites in real-time to trick victims into handing over credentials",
-            "published_utc": "2026-01-26T12:12:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Wiper Attack on Polish Power Grid Linked to Russia’s Sandworm",
-            "link": "https://www.infosecurity-magazine.com/news/wiper-attack-polish-power-grid/",
-            "summary": "A destructive cyber attack targeting Poland’s energy sector has been linked to Russian APT group Sandworm",
-            "published_utc": "2026-01-26T10:55:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "ESET Research: Sandworm behind cyberattack on Poland’s power grid in late 2025",
             "link": "https://www.welivesecurity.com/en/eset-research/eset-research-sandworm-cyberattack-poland-power-grid-late-2025/",
             "summary": "The attack involved data-wiping malware that ESET researchers have now analyzed and named DynoWiper",
             "published_utc": "2026-01-23T16:58:26+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "NHS Issues Open Letter Demanding Improved Cybersecurity Standards from Suppliers",
-            "link": "https://www.infosecurity-magazine.com/news/nhs-open-letter-demands-improved/",
-            "summary": "Open letter by NHS technology leaders outlines plans to identify risks to software supply chain security across health and social care system",
-            "published_utc": "2026-01-23T14:38:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Under Armour Investigates Data Breach After 72 Million Records Allegedly Exposed",
-            "link": "https://www.infosecurity-magazine.com/news/under-armour-investigates-data/",
-            "summary": "Under Armour said there is no evidence at this point to suggest the incident affected systems used to process payments or store customer passwords",
-            "published_utc": "2026-01-23T12:10:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
@@ -3493,13 +3500,6 @@
             "link": "https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/",
             "summary": "Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed.",
             "published_utc": "2022-08-25T18:47:15+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Twitter Whistleblower Complaint: The TL;DR Version",
-            "link": "https://threatpost.com/twitter-whistleblower-tldr-version/180472/",
-            "summary": "Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a n...",
-            "published_utc": "2022-08-24T14:17:04+00:00"
         }
     ]
 }
