@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2026-04-02T08:59:35.588019+00:00",
+    "lastUpdatedUTC": "2026-04-02T10:08:25.837754+00:00",
     "articles": [
+        {
+            "source": "Schneier",
+            "title": "Possible US Government iPhone Hacking Tool Leaked",
+            "link": "https://www.schneier.com/blog/archives/2026/04/possible-us-government-iphone-hacking-tool-leaked.html",
+            "summary": "",
+            "published_utc": "2026-04-02T10:05:43+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "Unmasking the Paramilitary Agents Behind Trump’s Violent Immigration Crackdown",
+            "link": "https://www.wired.com/story/border-patrol-bortac-borstar-use-of-force-midway-blitz/",
+            "summary": "A WIRED analysis of DHS records identified dozens of specialized federal agents who used force against US civilians during the largest known deploymen...",
+            "published_utc": "2026-04-02T10:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Sophisticated CrystalX RAT Emerges",
+            "link": "https://www.securityweek.com/sophisticated-crystalx-rat-emerges/",
+            "summary": "",
+            "published_utc": "2026-04-02T09:51:07+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft links Classic Outlook issue to email delivery problems",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-links-classic-outlook-bug-to-email-delivery-issues/",
+            "summary": "Microsoft is investigating a known issue that prevents some Classic Outlook users from sending emails via Outlook.com. [...]",
+            "published_utc": "2026-04-02T09:12:12+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Cybersecurity in the age of instant software",
+            "link": "https://www.csoonline.com/article/4152133/cybersecurity-in-the-age-of-instant-software.html",
+            "summary": "",
+            "published_utc": "2026-04-02T09:01:00+00:00"
+        },
         {
             "source": "InfosecurityMag",
             "title": "Most CNI Firms Face Up to £5m in Downtime from OT Attacks",
@@ -366,13 +401,6 @@
             "published_utc": "2026-04-01T09:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Axios NPM Package Breached in North Korean Supply Chain Attack",
-            "link": "https://www.securityweek.com/axios-npm-package-breached-in-north-korean-supply-chain-attack/",
-            "summary": "",
-            "published_utc": "2026-04-01T08:45:47+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Im Fokus: IT-Leadership",
             "link": "https://de.resources.csoonline.com/resources/im-fokus-it-leadership/",
@@ -441,13 +469,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/proton-launches-new-meet-privacy-focused-conferencing-platform/",
             "summary": "Proton has announced a new video conferencing service named Meet and positioned it as a privacy-focused alternative to mainstream services like Google...",
             "published_utc": "2026-03-31T22:42:07+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "GIGABYTE Control Center vulnerable to arbitrary file write flaw",
-            "link": "https://www.bleepingcomputer.com/news/security/gigabyte-control-center-vulnerable-to-arbitrary-file-write-flaw/",
-            "summary": "The GIGABYTE Control Center is vulnerable to an arbitrary file-write flaw that could allow a remote, unauthenticated attacker to access files on vulne...",
-            "published_utc": "2026-03-31T22:28:02+00:00"
         },
         {
             "source": "WIRED Security",
@@ -609,13 +630,6 @@
             "link": "https://www.infosecurity-magazine.com/news/deepload-malware-clickfix-ai-code/",
             "summary": "Researchers at ReliaQuest warn of persistent malware campaign targeting enterprise credentials",
             "published_utc": "2026-03-30T12:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Leak reveals Anthropic’s ‘Mythos,’ a powerful AI model aimed at cybersecurity use cases",
-            "link": "https://www.csoonline.com/article/4151801/leak-reveals-anthropics-mythos-a-powerful-ai-model-aimed-at-cybersecurity-use-cases.html",
-            "summary": "",
-            "published_utc": "2026-03-30T11:52:41+00:00"
         },
         {
             "source": "Schneier",
@@ -1029,13 +1043,6 @@
             "link": "https://www.wired.com/story/security-news-this-week-cyberattack-on-a-car-breathalyzer-firm-leaves-drivers-stuck/",
             "summary": "Plus: The FBI admits it’s buying phone data to track Americans, Iranian hackers disrupt medical care at Maryland hospitals, and more.",
             "published_utc": "2026-03-21T10:30:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Friday Squid Blogging: Jumbo Flying Squid in the South Pacific",
-            "link": "https://www.schneier.com/blog/archives/2026/03/friday-squid-blogging-jumbo-flying-squid-in-the-south-pacific.html",
-            "summary": "",
-            "published_utc": "2026-03-20T21:06:59+00:00"
         },
         {
             "source": "WIRED Security",
@@ -1554,13 +1561,6 @@
             "link": "https://www.wired.com/story/how-each-gulf-country-is-intercepting-iranian-missiles-and-drones/",
             "summary": "As missiles and drones cross the region’s skies, the Gulf’s layered air-defense networks—from THAAD to Patriot batteries—are being tested in real time.",
             "published_utc": "2026-03-07T11:00:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "The Future of Iran’s Internet Is More Uncertain Than Ever",
-            "link": "https://www.wired.com/story/the-future-of-irans-internet-is-more-uncertain-than-ever/",
-            "summary": "Iran’s internet shutdown has reduced connectivity by 99 percent, with air strikes likely causing additional outages, and few workarounds remaining.",
-            "published_utc": "2026-03-06T20:06:06+00:00"
         },
         {
             "source": "InfosecurityMag",
