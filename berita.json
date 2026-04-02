@@ -1,6 +1,34 @@
 {
-    "lastUpdatedUTC": "2026-04-02T16:06:21.811480+00:00",
+    "lastUpdatedUTC": "2026-04-02T17:51:13.835495+00:00",
     "articles": [
+        {
+            "source": "Schneier",
+            "title": "US Bans All Foreign-Made Consumer Routers",
+            "link": "https://www.schneier.com/blog/archives/2026/04/us-bans-all-foreign-made-consumer-routers.html",
+            "summary": "",
+            "published_utc": "2026-04-02T17:28:27+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Android's emergency alerts just got a major map upgrade - but change this setting first",
+            "link": "https://www.zdnet.com/article/android-emergency-alerts-adding-maps-view/",
+            "summary": "The new map view shows your location relative to the affected area, which is especially crucial headed into the US storm season.",
+            "published_utc": "2026-04-02T17:00:19+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How I pay less for gas: 5 apps I use to find the cheapest stations nearby",
+            "link": "https://www.zdnet.com/article/high-gas-prices-mobile-apps-cheapest-stations/",
+            "summary": "With gas prices climbing ever higher, these apps help me find the cheapest fuel based on my location.",
+            "published_utc": "2026-04-02T16:55:01+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Apple Rolls Out DarkSword Exploit Protection to More Devices",
+            "link": "https://www.securityweek.com/apple-rolls-out-darksword-exploit-protection-to-more-devices/",
+            "summary": "",
+            "published_utc": "2026-04-02T16:18:07+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Google's Gemma 4 model goes fully open-source and unlocks powerful local AI - even on phones",
@@ -292,7 +320,7 @@
             "source": "BleepingComputer",
             "title": "'NoVoice' Android malware on Google Play infected 2.3 million devices",
             "link": "https://www.bleepingcomputer.com/news/security/novoice-android-malware-on-google-play-infected-23-million-devices/",
-            "summary": "A new Android malware named NoVoice was found on Google Play, hidden in more than 50 apps that were downloaded at least 2.3 million times. [...]",
+            "summary": "A new Android malware dubbed NoVoice exploited known vulnerabilities to gain root access and has been distributed through more than 50 apps on Google ...",
             "published_utc": "2026-04-01T18:07:21+00:00"
         },
         {
@@ -359,13 +387,6 @@
             "published_utc": "2026-04-01T15:14:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "New DeepLoad Malware Dropped in ClickFix Attacks",
-            "link": "https://www.securityweek.com/new-deepload-malware-dropped-in-clickfix-attacks/",
-            "summary": "",
-            "published_utc": "2026-04-01T15:04:43+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Google Introduces Android Dev Verification Amid Openness Debate",
             "link": "https://www.infosecurity-magazine.com/news/google-android-dev-verification/",
@@ -378,20 +399,6 @@
             "link": "https://www.zdnet.com/article/thermal-master-p4-thermal-camera-review/",
             "summary": "The Thermal Master P4 plugs into your Android phone and can help prevent disasters. Here's how.",
             "published_utc": "2026-04-01T14:49:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Best last-minute Amazon Spring Sale tablet deals 2026",
-            "link": "https://www.zdnet.com/article/best-last-minute-amazon-spring-sale-2026-tablet-deals/",
-            "summary": "We found last-minute Spring Sale deals on tablets up to $150 off from brands like Apple, Samsung, and more.",
-            "published_utc": "2026-04-01T14:37:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Amazon Spring Sale live blog 2026: Top Amazon deals still live",
-            "link": "https://www.zdnet.com/article/amazon-spring-sale-live-blog-2026/",
-            "summary": "Amazon's Spring Sale may be over, but you can still find some great deals on home, tech, and more live now. Buy them before they're gone.",
-            "published_utc": "2026-04-01T14:34:25+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -1043,13 +1050,6 @@
             "link": "https://www.infosecurity-magazine.com/news/trivy-supply-chain-attack-expands/",
             "summary": "New Trivy Docker images 0.69.5 and 0.69.6 compromised with TeamPCP infostealer, impacting CI/CD scans",
             "published_utc": "2026-03-23T15:05:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Microsoft Xbox One Hacked",
-            "link": "https://www.schneier.com/blog/archives/2026/03/microsoft-xbox-hacked.html",
-            "summary": "",
-            "published_utc": "2026-03-23T11:01:00+00:00"
         },
         {
             "source": "InfosecurityMag",
