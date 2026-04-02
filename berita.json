@@ -1,6 +1,34 @@
 {
-    "lastUpdatedUTC": "2026-04-02T14:58:06.666038+00:00",
+    "lastUpdatedUTC": "2026-04-02T16:06:21.811480+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "Google's Gemma 4 model goes fully open-source and unlocks powerful local AI - even on phones",
+            "link": "https://www.zdnet.com/article/google-gemma-4-fully-open-source-powerful-local-ai/",
+            "summary": "Now open-source under Apache 2.0, Gemma 4 brings offline, multimodal AI to servers, phones, and Raspberry Pi - giving developers total local control o...",
+            "published_utc": "2026-04-02T16:00:28+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "New MIT jobs report: Why AI's work impact will roll in like a rising tide, not a crashing wave",
+            "link": "https://www.zdnet.com/article/new-mit-jobs-work-report-ai-impacts-2026/",
+            "summary": "AI may be 'minimally sufficient' at most of your text work tasks by 2029, according to new MIT research. Here's why that's good news.",
+            "published_utc": "2026-04-02T16:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "New out-of-band Windows 11 update fixes March's installation errors - how to get it",
+            "link": "https://www.zdnet.com/article/windows-11-emergency-update/",
+            "summary": "Windows 11 users who tried to install March's broken preview update will want to grab the new replacement.",
+            "published_utc": "2026-04-02T15:26:43+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Residential proxies evaded IP reputation checks in 78% of 4B sessions",
+            "link": "https://www.bleepingcomputer.com/news/security/residential-proxies-evaded-ip-reputation-checks-in-78-percent-of-4b-sessions/",
+            "summary": "Researchers warn that residential proxies used to route malicious traffic are a big problem for IP reputation systems, as there is no clear distinctio...",
+            "published_utc": "2026-04-02T15:21:02+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Oneisall Ease S1 review: Finally, a smart litter box that doesn't cost an arm and a paw",
@@ -14,6 +42,13 @@
             "link": "https://www.securityweek.com/cybersecurity-ma-roundup-38-deals-announced-in-march-2026/",
             "summary": "",
             "published_utc": "2026-04-02T14:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "New 'Storm' Infostealer Remotely Decrypts Stolen Credentials",
+            "link": "https://www.infosecurity-magazine.com/news/storm-infostealer-remotely/",
+            "summary": "This modern infostealer adopted server-side decryption of stolen credentials to bypass security controls",
+            "published_utc": "2026-04-02T14:15:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -209,7 +244,7 @@
             "title": "Still running iOS 18? Install this critical update ASAP",
             "link": "https://www.zdnet.com/article/ios-18-darksword-security-patch/",
             "summary": "The latest patch provides protection against the deadly DarkSword exploit for iPhone users who have chosen to remain on iOS 18.",
-            "published_utc": "2026-04-01T20:00:29+00:00"
+            "published_utc": "2026-04-01T20:00:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -321,7 +356,7 @@
             "title": "I used Gmail's AI tool to do hours of work for me in 10 minutes - with 3 prompts",
             "link": "https://www.zdnet.com/article/gmail-ai-workflow/",
             "summary": "I just had a 'living in the future' moment with Gmail, of all things. Here's what happened.",
-            "published_utc": "2026-04-01T15:14:08+00:00"
+            "published_utc": "2026-04-01T15:14:00+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -359,32 +394,11 @@
             "published_utc": "2026-04-01T14:34:25+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Best Amazon Spring Sale deals under $25: Last chance to save",
-            "link": "https://www.zdnet.com/article/best-last-minute-amazon-spring-sale-2026-deals-under-25/",
-            "summary": "Amazon's Big Spring Sale may be over, but there's still plenty of cheap deals on useful tech gadgets. Save up to $25 on devices from Blink, Soundcore,...",
-            "published_utc": "2026-04-01T14:21:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Routine Access Is Powering Modern Intrusions, a New Threat Report Finds",
             "link": "https://www.bleepingcomputer.com/news/security/routine-access-is-powering-modern-intrusions-a-new-threat-report-finds/",
             "summary": "Modern intrusions increasingly start with valid credentials and routine access, not exploits. Blackpoint Cyber's upcoming threat report shows how VPN ...",
             "published_utc": "2026-04-01T14:05:15+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "DeWalt Amazon Spring Sale deals: Still live",
-            "link": "https://www.zdnet.com/article/dewalt-deals-amazon-spring-sale-2026/",
-            "summary": "Amazon's Big Spring Sale may be over, but there are still plenty deals on quality DeWalt power tools and accessories at great prices.",
-            "published_utc": "2026-04-01T13:47:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Why I'm ditching my cheap PC cloning software for this M.2 dock that's highly functional",
-            "link": "https://www.zdnet.com/article/icy-box-docking-and-clonestation-review/",
-            "summary": "The Icy Box Docking and Clone Station provides the easiest way to move data between drives and to access bare drives.",
-            "published_utc": "2026-04-01T13:46:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -476,13 +490,6 @@
             "link": "https://de.resources.csoonline.com/resources/im-fokus-it-leadership/",
             "summary": "",
             "published_utc": "2026-04-01T06:58:29+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Google Drive ransomware detection now on by default for paying users",
-            "link": "https://www.bleepingcomputer.com/news/security/google-drive-ransomware-detection-now-on-by-default-for-paying-users/",
-            "summary": "Google announced that the AI-powered Google Drive ransomware detection feature has reached general availability and is now enabled by default for all ...",
-            "published_utc": "2026-04-01T06:35:34+00:00"
         },
         {
             "source": "CSO Online",
@@ -2772,13 +2779,6 @@
             "link": "https://www.infosecurity-magazine.com/news/researchers-haxor-seo-poisoning/",
             "summary": "Fortra researchers have discovered a new SEO poisoning operation known as “HaxorSEO”",
             "published_utc": "2026-01-26T15:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Law Firm Investigates Coupang Security Failures Ahead of Class Action Deadline",
-            "link": "https://www.infosecurity-magazine.com/news/law-firm-coupang-security-failures/",
-            "summary": "The US law firm Hagens Berman will lead a class action lawsuit against Coupang over security failures that led to a June 2025 data breach",
-            "published_utc": "2026-01-26T13:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
