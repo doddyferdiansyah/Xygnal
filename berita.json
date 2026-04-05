@@ -1,6 +1,13 @@
 {
-    "lastUpdatedUTC": "2026-04-05T13:01:33.780368+00:00",
+    "lastUpdatedUTC": "2026-04-05T14:36:03.632250+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers exploit React2Shell in automated credential theft campaign",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-react2shell-in-automated-credential-theft-campaign/",
+            "summary": "Hackers are running a large-scale campaign to steal credentials in an automated way after exploiting React2Shell (CVE-2025-55182) in vulnerable Next.j...",
+            "published_utc": "2026-04-05T14:17:23+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "I customized an Arch-based distro my way in under 5 minutes - and it's glorious",
@@ -462,13 +469,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime/",
             "summary": "Threat actors are exploiting vacant homes as \"drop addresses\" to intercept mail and enable fraud. Flare shows how postal services and fake identities ...",
             "published_utc": "2026-04-02T14:01:11+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "New Progress ShareFile flaws can be chained in pre-auth RCE attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/new-progress-sharefile-flaws-can-be-chained-in-pre-auth-rce-attacks/",
-            "summary": "Two vulnerabilities in Progress ShareFile, an enterprise-grade secure file transfer solution, can be chained to enable unauthenticated file exfiltrati...",
-            "published_utc": "2026-04-02T13:33:11+00:00"
         },
         {
             "source": "InfosecurityMag",
