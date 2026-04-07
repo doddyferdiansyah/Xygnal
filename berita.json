@@ -1,6 +1,62 @@
 {
-    "lastUpdatedUTC": "2026-04-07T09:04:54.679404+00:00",
+    "lastUpdatedUTC": "2026-04-07T10:57:34.036605+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Medusa Ransomware Fast to Exploit Vulnerabilities, Breached Systems",
+            "link": "https://www.securityweek.com/medusa-ransomware-fast-to-exploit-vulnerabilities-breached-systems/",
+            "summary": "",
+            "published_utc": "2026-04-07T10:52:33+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Microsoft says Medusa-linked Storm-1175 is speeding ransomware attacks",
+            "link": "https://www.csoonline.com/article/4154934/microsoft-says-medusa-linked-storm-1175-is-speeding-ransomware-attacks.html",
+            "summary": "",
+            "published_utc": "2026-04-07T10:48:40+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Storm-1175 Exploits Flaws in High-Velocity Medusa Attacks",
+            "link": "https://www.infosecurity-magazine.com/news/storm1175-medusa-attacks/",
+            "summary": "Microsoft has released a new report about the Storm-1175 group and its connection to Medusa ransomware",
+            "published_utc": "2026-04-07T10:02:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Supply chain security is now a board-level issue: Here’s what CSOs need to know",
+            "link": "https://www.csoonline.com/article/4154550/supply-chain-security-is-now-a-board-level-issue-heres-what-csos-need-to-know.html",
+            "summary": "",
+            "published_utc": "2026-04-07T10:00:00+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Hong Kong Police Can Force You to Reveal Your Encryption Keys",
+            "link": "https://www.schneier.com/blog/archives/2026/04/hong-kong-police-can-force-you-to-reveal-your-encryption-keys.html",
+            "summary": "",
+            "published_utc": "2026-04-07T09:45:33+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Fortinet Releases Emergency Patch After FortiClient EMS Bug Is Exploited",
+            "link": "https://www.infosecurity-magazine.com/news/fortinet-emergency-patch-ems-bug/",
+            "summary": "Fortinet has updated its FortiClient EMS product after zero-day attacks surfaced",
+            "published_utc": "2026-04-07T09:26:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "German Police Unmask REvil Ransomware Leader",
+            "link": "https://www.securityweek.com/german-police-unmask-revil-ransomware-leader/",
+            "summary": "",
+            "published_utc": "2026-04-07T09:24:40+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "The rise of proactive cyber: Why defense is no longer enough",
+            "link": "https://www.csoonline.com/article/4154228/the-rise-of-proactive-cyber-why-defense-is-no-longer-enough.html",
+            "summary": "",
+            "published_utc": "2026-04-07T09:01:00+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "The noisy tenants: Engineering fairness in multi-tenant SIEM solutions",
@@ -436,20 +492,6 @@
             "published_utc": "2026-04-03T12:47:16+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "In Other News: ChatGPT Data Leak, Android Rootkit, Water Facility Hit by Ransomware",
-            "link": "https://www.securityweek.com/in-other-news-chatgpt-data-leak-android-rootkit-water-facility-hit-by-ransomware/",
-            "summary": "",
-            "published_utc": "2026-04-03T12:30:53+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Critical ShareFile Flaws Lead to Unauthenticated RCE",
-            "link": "https://www.securityweek.com/critical-sharefile-flaws-lead-to-unauthenticated-rce/",
-            "summary": "",
-            "published_utc": "2026-04-03T12:12:22+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Company that Secretly Records and Publishes Zoom Meetings",
             "link": "https://www.schneier.com/blog/archives/2026/04/company-that-secretly-records-and-publishes-zoom-meetings.html",
@@ -588,27 +630,6 @@
             "link": "https://www.infosecurity-magazine.com/news/most-cni-firms-5m-downtime-ot/",
             "summary": "E2e-assure says 80% of critical infrastructure providers could face millions in downtime from cyber-attacks",
             "published_utc": "2026-04-02T08:30:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Tools, um MCP-Server abzusichern",
-            "link": "https://www.csoonline.com/article/4093704/tools-um-mcp-server-abzusichern.html",
-            "summary": "",
-            "published_utc": "2026-04-02T04:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "7 ways to improve your business resilience with backup and recovery",
-            "link": "https://www.csoonline.com/article/4150675/7-ways-to-improve-your-business-resilience-with-backup-and-recovery.html",
-            "summary": "",
-            "published_utc": "2026-04-01T19:26:18+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "5 Steps to break free from alert fatigue and build resilient security operations",
-            "link": "https://www.csoonline.com/article/4150670/5-steps-to-break-free-from-alert-fatigue-and-build-resilient-security-operations.html",
-            "summary": "",
-            "published_utc": "2026-04-01T19:25:05+00:00"
         },
         {
             "source": "Schneier",
@@ -770,13 +791,6 @@
             "link": "https://www.infosecurity-magazine.com/news/deepload-malware-clickfix-ai-code/",
             "summary": "Researchers at ReliaQuest warn of persistent malware campaign targeting enterprise credentials",
             "published_utc": "2026-03-30T12:00:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Apple’s Camera Indicator Lights",
-            "link": "https://www.schneier.com/blog/archives/2026/03/apples-camera-indicator-lights.html",
-            "summary": "",
-            "published_utc": "2026-03-30T11:08:24+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2765,20 +2779,6 @@
             "link": "https://www.welivesecurity.com/en/cybersecurity/drowning-spam-scam-emails-why/",
             "summary": "Has your inbox recently been deluged with unwanted and even outright malicious messages? Here are 10 possible reasons – and how to stem the tide.",
             "published_utc": "2026-01-27T10:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "World Leaks Ransomware Group Claims 1.4TB Nike Data Breach",
-            "link": "https://www.infosecurity-magazine.com/news/worldleaks-ransomware-14tb-nike/",
-            "summary": "Nike is investigating after the World Leaks ransomware group posted a 1.4TB data dump",
-            "published_utc": "2026-01-27T09:45:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "CISA Releases List of Post-Quantum Cryptography Product Categories",
-            "link": "https://www.infosecurity-magazine.com/news/cisa-post-quantum-cryptography/",
-            "summary": "CISA released initial list of PQC-capable hardware and software to guide companies amid quantum threats",
-            "published_utc": "2026-01-26T16:15:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
