@@ -1,6 +1,97 @@
 {
-    "lastUpdatedUTC": "2026-04-07T17:01:17.437762+00:00",
+    "lastUpdatedUTC": "2026-04-07T19:05:49.761266+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "5 practical steps to strengthen attack resilience with attack surface management",
+            "link": "https://www.csoonline.com/article/4155177/5-practical-steps-to-strengthen-attack-resilience-with-attack-surface-management.html",
+            "summary": "",
+            "published_utc": "2026-04-07T19:04:02+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "5 steps to strengthen supply chain security and improve cyber resilience",
+            "link": "https://www.csoonline.com/article/4155175/5-steps-to-strengthen-supply-chain-security-and-improve-cyber-resilience.html",
+            "summary": "",
+            "published_utc": "2026-04-07T18:58:52+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "5 ways to strengthen identity security and improve attack resilience",
+            "link": "https://www.csoonline.com/article/4155179/5-ways-to-strengthen-identity-security-and-improve-attack-resilience.html",
+            "summary": "",
+            "published_utc": "2026-04-07T18:55:52+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "LG C6 vs. LG C5: I compared two generations of OLED TVs, and it was pretty darn close",
+            "link": "https://www.zdnet.com/article/lg-c6-vs-lg-c5/",
+            "summary": "The LG C6 is a refreshed version of the brand's flagship OLED TV, but is it worth upgrading over the C5?",
+            "published_utc": "2026-04-07T18:55:00+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "Anthropic Teams Up With Its Rivals to Keep AI From Hacking Everything",
+            "link": "https://www.wired.com/story/anthropic-mythos-preview-project-glasswing/",
+            "summary": "The AI lab's Project Glasswing will bring together Apple, Google, and more than 45 other organizations. They'll use the new Claude Mythos Preview mode...",
+            "published_utc": "2026-04-07T18:49:50+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I swapped my MacBook Air with a Snapdragon X Elite Extreme laptop - here's how they compared",
+            "link": "https://www.zdnet.com/article/asus-zenbook-a16-review/",
+            "summary": "Asus' 16-inch Zenbook A16 takes a fresh approach to ultraportability, but whether it works or not depends on who you ask.",
+            "published_utc": "2026-04-07T18:46:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Anthropic Unveils ‘Claude Mythos’ – A Cybersecurity Breakthrough That Could Also Supercharge Attacks",
+            "link": "https://www.securityweek.com/anthropic-unveils-claude-mythos-a-cybersecurity-breakthrough-that-could-also-supercharge-attacks/",
+            "summary": "",
+            "published_utc": "2026-04-07T18:39:56+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Google Chrome's vertical tabs are here: How to opt in and use the new Reading Mode",
+            "link": "https://www.zdnet.com/article/google-chrome-vertical-tabs/",
+            "summary": "Google's browser officially joins the vertical tab party. See what you've been missing.",
+            "published_utc": "2026-04-07T18:27:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "US warns of Iranian hackers targeting critical infrastructure",
+            "link": "https://www.bleepingcomputer.com/news/security/us-warns-of-iranian-hackers-targeting-critical-infrastructure/",
+            "summary": "Iranian-linked hackers are targeting Internet-exposed Rockwell/Allen-Bradley programmable logic controllers (PLCs) on the networks of U.S. critical in...",
+            "published_utc": "2026-04-07T18:02:26+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Apple, Google, and Microsoft join Anthropic's Project Glasswing to defend world's most critical software",
+            "link": "https://www.zdnet.com/article/project-glasswing-microsoft-google-apple-anthropic/",
+            "summary": "Is this AI's Manhattan Project? Twelve tech rivals are banding together and using Anthropic's unreleased Mythos model to find thousands of vulnerabili...",
+            "published_utc": "2026-04-07T18:00:42+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Cybersecurity in the Age of Instant Software",
+            "link": "https://www.schneier.com/blog/archives/2026/04/cybersecurity-in-the-age-of-instant-software.html",
+            "summary": "",
+            "published_utc": "2026-04-07T17:07:52+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
+            "link": "https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/",
+            "summary": "Hackers linked to Russia's military intelligence units are using known flaws in older Internet routers to mass harvest authentication tokens from Micr...",
+            "published_utc": "2026-04-07T17:02:44+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Max severity Flowise RCE vulnerability now exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/max-severity-flowise-rce-vulnerability-now-exploited-in-attacks/",
+            "summary": "Hackers are exploiting a maximum-severity vulnerability, tracked as CVE-2025-59528, in the open-source platform Flowise for building custom LLM apps a...",
+            "published_utc": "2026-04-07T17:02:05+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "The New Rules of Engagement: Matching Agentic Attack Speed",
@@ -90,13 +181,6 @@
             "title": "GrafanaGhost Exploit Bypasses AI Guardrails for Silent Data Exfiltration",
             "link": "https://www.infosecurity-magazine.com/news/grafanaghost-silent-data/",
             "summary": "GrafanaGhost chains AI prompt injection and URL flaws to exfiltrate sensitive Grafana data",
-            "published_utc": "2026-04-07T14:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Asus' latest flagship laptop competes with the MacBook Air, but not how you'd think",
-            "link": "https://www.zdnet.com/article/asus-zenbook-a16-review/",
-            "summary": "Asus' 16-inch follow-up to last year's featherweight A14 takes a different approach, but whether it works depends on who you ask.",
             "published_utc": "2026-04-07T14:00:00+00:00"
         },
         {
@@ -203,13 +287,6 @@
             "link": "https://www.csoonline.com/article/4154546/the-noisy-tenants-engineering-fairness-in-multi-tenant-siem-solutions.html",
             "summary": "",
             "published_utc": "2026-04-07T09:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "White House Seeks to Slash CISA Funding by $707 Million",
-            "link": "https://www.securityweek.com/white-house-seeks-to-slash-cisa-funding-by-707-million/",
-            "summary": "",
-            "published_utc": "2026-04-07T08:29:41+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -359,27 +436,6 @@
             "published_utc": "2026-04-06T16:02:14+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "How much RAM does Linux really need in 2026? My sweet spot after decades of use",
-            "link": "https://www.zdnet.com/article/how-much-ram-does-your-linux-pc-need-2026/",
-            "summary": "Want the best performance from Linux? Here's the ultimate sweet spot, based on my years of testing.",
-            "published_utc": "2026-04-06T15:44:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Your chatbot is playing a character - why Anthropic says that's dangerous",
-            "link": "https://www.zdnet.com/article/anthropic-report-chatbot-character-consequences/",
-            "summary": "Researchers found that part of what makes chatbots so compelling also makes them vulnerable to bad behavior. Here's why.",
-            "published_utc": "2026-04-06T15:44:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I tested Fedora Miracle: Why Linux needs a 'broken' flag for orphaned spins",
-            "link": "https://www.zdnet.com/article/fedora-miracle-tiling-window-manager-needs-broken-flag/",
-            "summary": "Opinion: Tiling managers are supposed to make your life easier, but the Miracle Window Manager did anything but for me last week. Here's what happened.",
-            "published_utc": "2026-04-06T15:33:33+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Why Simple Breach Monitoring is No Longer Enough",
             "link": "https://www.bleepingcomputer.com/news/security/why-simple-breach-monitoring-is-no-longer-enough/",
@@ -443,25 +499,11 @@
             "published_utc": "2026-04-05T18:45:17+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Hackers exploit React2Shell in automated credential theft campaign",
-            "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-react2shell-in-automated-credential-theft-campaign/",
-            "summary": "Hackers are running a large-scale campaign to steal credentials in an automated way after exploiting React2Shell (CVE-2025-55182) in vulnerable Next.j...",
-            "published_utc": "2026-04-05T14:17:23+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "The Hack That Exposed Syria’s Sweeping Security Failures",
             "link": "https://www.wired.com/story/inside-the-hack-that-exposed-syrias-security-failures/",
             "summary": "When Syrian government accounts were hijacked in March, the breach looked chaotic. But it revealed something more troubling: a state struggling with t...",
             "published_utc": "2026-04-05T09:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Axios npm hack used fake Teams error fix to hijack maintainer account",
-            "link": "https://www.bleepingcomputer.com/news/security/axios-npm-hack-used-fake-teams-error-fix-to-hijack-maintainer-account/",
-            "summary": "The maintainers of the popular Axios HTTP client have published a detailed post-mortem describing how one of its developers was targeted by a social e...",
-            "published_utc": "2026-04-04T20:30:42+00:00"
         },
         {
             "source": "WIRED Security",
@@ -562,20 +604,6 @@
             "published_utc": "2026-04-03T04:38:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Cloudflare’s new CMS is not a WordPress killer, it’s a WordPress alternative",
-            "link": "https://www.csoonline.com/article/4154115/cloudflares-new-cms-is-not-a-wordpress-killer-its-a-wordpress-alternative-2.html",
-            "summary": "",
-            "published_utc": "2026-04-03T01:20:30+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Cisco fixes critical IMC auth bypass present in many products",
-            "link": "https://www.csoonline.com/article/4154052/cisco-fixes-critical-imc-auth-bypass-present-in-many-products.html",
-            "summary": "",
-            "published_utc": "2026-04-02T22:26:37+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "‘Uncanny Valley’: Iran’s Threats on US Tech, Trump’s Plans for Midterms, and Polymarket’s Pop-up Flop",
             "link": "https://www.wired.com/story/uncanny-valley-podcast-iran-targets-us-tech-polymarket-pop-up-trump-midterms/",
@@ -630,13 +658,6 @@
             "link": "https://www.infosecurity-magazine.com/news/github-covert-multi-stage-malware/",
             "summary": "LNK files use GitHub C2, embedded decoders and PowerShell for persistence and data exfiltration",
             "published_utc": "2026-04-02T13:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "EvilTokens abuses Microsoft device code flow for account takeovers",
-            "link": "https://www.csoonline.com/article/4153742/eviltokens-abuses-microsoft-device-code-flow-for-account-takeovers.html",
-            "summary": "",
-            "published_utc": "2026-04-02T12:36:08+00:00"
         },
         {
             "source": "Schneier",
@@ -770,13 +791,6 @@
             "link": "https://www.infosecurity-magazine.com/news/teampcp-exploit-stolen-supply/",
             "summary": "TeamPCP is exploring ways to monetize the secrets harvested during supply chain attacks, with identified ties to the Lapsus$ and Vect ransomware gangs",
             "published_utc": "2026-03-31T12:15:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Inventors of Quantum Cryptography Win Turing Award",
-            "link": "https://www.schneier.com/blog/archives/2026/03/inventors-of-quantum-cryptography-win-turing-award.html",
-            "summary": "",
-            "published_utc": "2026-03-31T11:05:32+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1421,13 +1435,6 @@
             "link": "https://www.wired.com/story/models-are-applying-to-be-the-face-of-ai-scams/",
             "summary": "Dozens of Telegram channels reviewed by WIRED include job listings for “AI face models.” The (mostly) women who land these gigs are likely being used ...",
             "published_utc": "2026-03-16T09:00:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "A Hacker Accidentally Broke Into the FBI’s Epstein Files",
-            "link": "https://www.wired.com/story/security-news-this-week-a-hacker-accidentally-broke-into-the-fbis-epstein-files/",
-            "summary": "Plus: A porn-quitting app exposed the masturbation habits of hundreds of thousands of users, Russian hackers are trying to take over people’s Signal a...",
-            "published_utc": "2026-03-14T10:30:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2338,13 +2345,6 @@
             "link": "https://www.infosecurity-magazine.com/news/microsoft-six-zero-day-feb-2026/",
             "summary": "Six actively exploited zero-day bug have been patched by Microsoft",
             "published_utc": "2026-02-11T09:50:00+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Patch Tuesday, February 2026 Edition",
-            "link": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
-            "summary": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopp...",
-            "published_utc": "2026-02-10T21:49:53+00:00"
         },
         {
             "source": "InfosecurityMag",
