@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2026-04-07T13:25:50.691252+00:00",
+    "lastUpdatedUTC": "2026-04-07T15:10:00.674554+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "How I calibrated my subwoofer placement for peak impact in awkward room setups",
+            "link": "https://www.zdnet.com/article/best-subwoofer-placement-in-weird-rooms/",
+            "summary": "Adding a subwoofer to your home theater is exciting, but not every room is a perfect square designed for subwoofers.",
+            "published_utc": "2026-04-07T14:30:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Severe StrongBox Vulnerability Patched in Android",
+            "link": "https://www.securityweek.com/severe-strongbox-vulnerability-patched-in-android/",
+            "summary": "",
+            "published_utc": "2026-04-07T14:23:51+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Why Your Automated Pentesting Tool Just Hit a Wall",
+            "link": "https://www.bleepingcomputer.com/news/security/why-your-automated-pentesting-tool-just-hit-a-wall/",
+            "summary": "Automated pentesting tools deliver strong early results, then quickly plateau. Picus Security explains how the \"PoC cliff\" leaves major attack surface...",
+            "published_utc": "2026-04-07T14:01:11+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "GrafanaGhost Exploit Bypasses AI Guardrails for Silent Data Exfiltration",
+            "link": "https://www.infosecurity-magazine.com/news/grafanaghost-silent-data/",
+            "summary": "GrafanaGhost chains AI prompt injection and URL flaws to exfiltrate sensitive Grafana data",
+            "published_utc": "2026-04-07T14:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Asus' latest flagship laptop competes with the MacBook Air, but not how you'd think",
+            "link": "https://www.zdnet.com/article/asus-zenbook-a16-review/",
+            "summary": "Asus' 16-inch follow-up to last year's featherweight A14 takes a different approach, but whether it works depends on who you ask.",
+            "published_utc": "2026-04-07T14:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "GrafanaGhost: Attackers Can Abuse Grafana to Leak Enterprise Data",
+            "link": "https://www.securityweek.com/grafanaghost-attackers-can-abuse-grafana-to-leak-enterprise-data/",
+            "summary": "",
+            "published_utc": "2026-04-07T13:58:45+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Webinar Today: Why Automated Pentesting Alone Is Not Enough",
@@ -195,7 +237,7 @@
             "title": "I tested Gemini on Android Auto and now I can't stop talking to it: 5 tasks it nails",
             "link": "https://www.zdnet.com/article/gemini-on-android-auto-handles-simple-and-complex-tasks/",
             "summary": "I didn't see much benefit for Google's AI - until now. Here are my favorite ways to use the new Gemini integration in my car.",
-            "published_utc": "2026-04-06T17:55:44+00:00"
+            "published_utc": "2026-04-06T17:55:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -324,13 +366,6 @@
             "published_utc": "2026-04-06T11:40:56+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "North Korean Hackers Target High-Profile Node.js Maintainers",
-            "link": "https://www.securityweek.com/north-korean-hackers-target-high-profile-node-js-maintainers/",
-            "summary": "",
-            "published_utc": "2026-04-06T11:02:36+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Google Wants to Transition to Post-Quantum Cryptography by 2029",
             "link": "https://www.schneier.com/blog/archives/2026/04/google-wants-to-transition-to-post-quantum-cryptography-by-2029.html",
@@ -343,13 +378,6 @@
             "link": "https://www.csoonline.com/article/4154257/authentication-is-broken-heres-how-security-leaders-can-actually-fix-it.html",
             "summary": "",
             "published_utc": "2026-04-06T10:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Fortinet Rushes Emergency Fixes for Exploited Zero-Day",
-            "link": "https://www.securityweek.com/fortinet-rushes-emergency-fixes-for-exploited-zero-day/",
-            "summary": "",
-            "published_utc": "2026-04-06T09:37:28+00:00"
         },
         {
             "source": "CSO Online",
@@ -378,20 +406,6 @@
             "link": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
             "summary": "An elusive hacker who went by the handle \"UNKN\" and ran the early Russian ransomware groups GandCrab and REvil now has a name and a face. Authorities ...",
             "published_utc": "2026-04-06T02:07:17+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Why my Raspberry Pi boards suddenly cost as much as a laptop now - and I'm not surprised",
-            "link": "https://www.zdnet.com/article/raspberry-pi-price-increase-blame-ai-ram/",
-            "summary": "We live in a time when two 16GB Raspberry Pi 5 boards cost the same as a MacBook Neo. Here's how to save up during the ongoing AI boom.",
-            "published_utc": "2026-04-06T02:03:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "This Bluetooth tracker has effectively replaced my AirTag with its enhanced durability alone",
-            "link": "https://www.zdnet.com/article/ugreen-finder-pro-tag-review/",
-            "summary": "These Ugreen Finder Pro tags are some of the toughest I've tested.",
-            "published_utc": "2026-04-06T02:02:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -455,13 +469,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-jurassic-fish-chokes-on-squid.html",
             "summary": "",
             "published_utc": "2026-04-03T21:07:06+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "LinkedIn secretly scans for 6,000+ Chrome extensions, collects data",
-            "link": "https://www.bleepingcomputer.com/news/security/linkedin-secretly-scans-for-6-000-plus-chrome-extensions-collects-data/",
-            "summary": "A new report dubbed \"BrowserGate\" warns that Microsoft's LinkedIn is using hidden JavaScript scripts on its website to scan visitors' browsers for ins...",
-            "published_utc": "2026-04-03T20:40:22+00:00"
         },
         {
             "source": "CSO Online",
@@ -2765,13 +2772,6 @@
             "link": "https://www.infosecurity-magazine.com/news/peckbirdy-framework-tied-china/",
             "summary": "PeckBirdy command-and-control framework targeting gambling, government sectors in Asia since 2023 has been linked to China-aligned APTs",
             "published_utc": "2026-01-27T16:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Over 80% of Ethical Hackers Now Use AI",
-            "link": "https://www.infosecurity-magazine.com/news/over-80-of-ethical-hackers-now-use/",
-            "summary": "Bugcrowd study reveals 82% of security researchers now use AI, a big increase from 2023 figures",
-            "published_utc": "2026-01-27T14:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
