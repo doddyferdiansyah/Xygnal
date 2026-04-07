@@ -1,6 +1,69 @@
 {
-    "lastUpdatedUTC": "2026-04-07T15:10:00.674554+00:00",
+    "lastUpdatedUTC": "2026-04-07T17:01:17.437762+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "The New Rules of Engagement: Matching Agentic Attack Speed",
+            "link": "https://www.securityweek.com/the-new-rules-of-engagement-matching-agentic-attack-speed/",
+            "summary": "",
+            "published_utc": "2026-04-07T16:40:52+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Trent AI Emerges From Stealth With $13 Million in Funding",
+            "link": "https://www.securityweek.com/trent-ai-emerges-from-stealth-with-13-million-in-funding/",
+            "summary": "",
+            "published_utc": "2026-04-07T16:34:26+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Love window snapping on Linux? You should try a tiling window manager - here's why",
+            "link": "https://www.zdnet.com/article/what-is-a-tiling-window-manager/",
+            "summary": "Linux tiling window managers can supercharge your productivity in several ways. Here's how they work and six I recommend.",
+            "published_utc": "2026-04-07T16:31:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Why I returned to Enlightenment Linux after 30 years: Testing the new Elive beta",
+            "link": "https://www.zdnet.com/article/elive-linux/",
+            "summary": "This Debian-based distro brings back the old-school desktop environment but shrugs off the boring UI. I just wish I could've tried voice control.",
+            "published_utc": "2026-04-07T15:56:14+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Authorities disrupt router DNS hijacks used to steal Microsoft 365 logins",
+            "link": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-dns-hijacks-used-to-steal-microsoft-365-logins/",
+            "summary": "An international operation from law enforcement authorities in partnership with private companies has disrupted FrostArmada, an APT28 campaign hijacki...",
+            "published_utc": "2026-04-07T15:51:22+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Critical Flowise Vulnerability in Attacker Crosshairs",
+            "link": "https://www.securityweek.com/critical-flowise-vulnerability-in-attacker-crosshairs/",
+            "summary": "",
+            "published_utc": "2026-04-07T15:34:51+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Russian APT28 Hackers Hijack Routers to Steal Credentials, UK Security Agency Warns",
+            "link": "https://www.infosecurity-magazine.com/news/russia-apt28-hijack-routers-uk-ncsc/",
+            "summary": "Newly identified malicious campaigns are linked to virtual private servers modified by APT28 to operate as malicious DNS servers",
+            "published_utc": "2026-04-07T15:30:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I tried Google Photos' new AI Enhance tool: How it crops, relights, and fixes your shots - sometimes",
+            "link": "https://www.zdnet.com/article/google-photos-ai-enhance-tool-cropping-lighting-fixes-limitations/",
+            "summary": "Now rolling out to Android users globally, AI Enhance uses generative AI to improve your photos instantly. Here's how to use it, and where it falls sh...",
+            "published_utc": "2026-04-07T15:16:15+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "GPU Rowhammer Attack Enables Privilege Escalation and Full System Compromise",
+            "link": "https://www.infosecurity-magazine.com/news/gpu-based-rowhammer-attack/",
+            "summary": "GPUBreach uses GPU Rowhammer on GDDR6 to flip bits, corrupt page tables and escalate to system root",
+            "published_utc": "2026-04-07T15:05:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "How I calibrated my subwoofer placement for peak impact in awkward room setups",
@@ -147,13 +210,6 @@
             "link": "https://www.securityweek.com/white-house-seeks-to-slash-cisa-funding-by-707-million/",
             "summary": "",
             "published_utc": "2026-04-07T08:29:41+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Wynn Resorts Says 21,000 Employees Affected by ShinyHunters Hack",
-            "link": "https://www.securityweek.com/wynn-resorts-says-21000-employees-affected-by-shinyhunters-hack/",
-            "summary": "",
-            "published_utc": "2026-04-07T06:05:54+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -324,20 +380,6 @@
             "published_utc": "2026-04-06T15:33:33+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Google DeepMind Researchers Map Web Attacks Against AI Agents",
-            "link": "https://www.securityweek.com/google-deepmind-researchers-map-web-attacks-against-ai-agents/",
-            "summary": "",
-            "published_utc": "2026-04-06T15:32:54+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I found an Incogni rival that's even better at wiping my data from the web",
-            "link": "https://www.zdnet.com/article/privacybee-data-removal-review/",
-            "summary": "PrivacyBee is one of the most comprehensive data removal services I've tested, capable of removing personal information from hundreds of sites.",
-            "published_utc": "2026-04-06T14:30:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Why Simple Breach Monitoring is No Longer Enough",
             "link": "https://www.bleepingcomputer.com/news/security/why-simple-breach-monitoring-is-no-longer-enough/",
@@ -345,25 +387,11 @@
             "published_utc": "2026-04-06T14:02:12+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "How I set up Claude Code in iTerm2 to launch all my AI coding projects in one click",
-            "link": "https://www.zdnet.com/article/claude-code-iterm2-guide-to-my-ai-coding-environment/",
-            "summary": "Managing multiple Claude Code projects doesn't have to be chaotic. My iTerm2 setup dramatically reduces friction in my daily AI-assisted coding workfl...",
-            "published_utc": "2026-04-06T12:29:14+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "North Korean hackers abuse LNKs and GitHub repos in ongoing campaign",
             "link": "https://www.csoonline.com/article/4154471/north-korean-hackers-abuse-lnks-and-github-repos-in-ongoing-campaign.html",
             "summary": "",
             "published_utc": "2026-04-06T12:02:36+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Guardarian Users Targeted With Malicious Strapi NPM Packages",
-            "link": "https://www.securityweek.com/guardarian-users-targeted-with-malicious-strapi-npm-packages/",
-            "summary": "",
-            "published_utc": "2026-04-06T11:40:56+00:00"
         },
         {
             "source": "Schneier",
@@ -392,13 +420,6 @@
             "link": "https://www.csoonline.com/article/4154226/escaping-the-cots-trap.html",
             "summary": "",
             "published_utc": "2026-04-06T09:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I compared virtual RAM with real RAM on my Windows PC - here's what the numbers told me",
-            "link": "https://www.zdnet.com/article/is-virtual-ram-good-alternative-rising-ram-prices/",
-            "summary": "Virtual RAM can help improve PC performance when resources are scarce. But can it take over when physical RAM no longer cuts it?",
-            "published_utc": "2026-04-06T03:06:49+00:00"
         },
         {
             "source": "KrebsOnSecurity",
@@ -441,13 +462,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/axios-npm-hack-used-fake-teams-error-fix-to-hijack-maintainer-account/",
             "summary": "The maintainers of the popular Axios HTTP client have published a detailed post-mortem describing how one of its developers was targeted by a social e...",
             "published_utc": "2026-04-04T20:30:42+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Device code phishing attacks surge 37x as new kits spread online",
-            "link": "https://www.bleepingcomputer.com/news/security/device-code-phishing-attacks-surge-37x-as-new-kits-spread-online/",
-            "summary": "Device code phishing attacks that abuse the OAuth 2.0 Device Authorization Grant flow to hijack accounts have surged more than 37 times this year. [...]",
-            "published_utc": "2026-04-04T14:17:38+00:00"
         },
         {
             "source": "WIRED Security",
@@ -2758,20 +2772,6 @@
             "link": "https://www.welivesecurity.com/en/eset-research/love-actually-fake-dating-app-used-lure-targeted-spyware-campaign-pakistan/",
             "summary": "ESET researchers discover an Android spyware campaign targeting users in Pakistan via romance scam tactics, revealing links to a broader spy operation",
             "published_utc": "2026-01-28T09:59:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Pyodide Sandbox Escape Enables Remote Code Execution in Grist-Core",
-            "link": "https://www.infosecurity-magazine.com/news/pyodide-sandbox-escape-rce-grist/",
-            "summary": "Critical sandbox escape vulnerability in Grist-Core enables remote code execution via a malicious formula",
-            "published_utc": "2026-01-27T16:45:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "PeckBirdy Framework Tied to China-Aligned Cyber Campaigns",
-            "link": "https://www.infosecurity-magazine.com/news/peckbirdy-framework-tied-china/",
-            "summary": "PeckBirdy command-and-control framework targeting gambling, government sectors in Asia since 2023 has been linked to China-aligned APTs",
-            "published_utc": "2026-01-27T16:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
