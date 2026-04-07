@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2026-04-07T19:05:49.761266+00:00",
+    "lastUpdatedUTC": "2026-04-07T20:50:33.893236+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "FBI: Americans lost a record $21 billion to cybercrime last year",
+            "link": "https://www.bleepingcomputer.com/news/security/fbi-americans-lost-a-record-21-billion-to-cybercrime-last-year/",
+            "summary": "U.S. victims lost nearly $21 billion to cyber-enabled crimes last year, driven primarily by investment scams, business email compromise, tech support ...",
+            "published_utc": "2026-04-07T20:41:52+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Fortinet releases emergency hotfix for FortiClient EMS zero-day flaw",
+            "link": "https://www.csoonline.com/article/4155221/fortinet-releases-emergency-hotfix-for-forticlient-ems-zero-day-flaw.html",
+            "summary": "",
+            "published_utc": "2026-04-07T20:37:09+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "Iran-Linked Hackers Are Sabotaging US Energy and Water Infrastructure",
+            "link": "https://www.wired.com/story/iran-linked-hackers-are-sabotaging-us-energy-and-water-infrastructure/",
+            "summary": "As Trump threatens Iranian infrastructure, the US government warns that Iran has carried out its own digital attacks against US critical infrastructure.",
+            "published_utc": "2026-04-07T20:13:51+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Your AirPods are gross. This $6 tool will keep them sparkling clean",
+            "link": "https://www.zdnet.com/article/airpod-cleaner-tool-testimonial/",
+            "summary": "Yes, you should be cleaning your earbuds regularly. This cheap little tool makes it easy - and it costs about the same as a coffee.",
+            "published_utc": "2026-04-07T20:07:20+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Snowflake customers hit in data theft attacks after SaaS integrator breach",
+            "link": "https://www.bleepingcomputer.com/news/security/snowflake-customers-hit-in-data-theft-attacks-after-saas-integrator-breach/",
+            "summary": "Over a dozen companies have suffered data theft attacks after a SaaS integration provider was breached and authentication tokens stolen. [...]",
+            "published_utc": "2026-04-07T19:39:18+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "5 practical steps to strengthen attack resilience with attack surface management",
@@ -68,8 +103,8 @@
             "source": "ZDNet Security",
             "title": "Apple, Google, and Microsoft join Anthropic's Project Glasswing to defend world's most critical software",
             "link": "https://www.zdnet.com/article/project-glasswing-microsoft-google-apple-anthropic/",
-            "summary": "Is this AI's Manhattan Project? Twelve tech rivals are banding together and using Anthropic's unreleased Mythos model to find thousands of vulnerabili...",
-            "published_utc": "2026-04-07T18:00:42+00:00"
+            "summary": "Is this AI's Manhattan Project? 12 tech rivals are banding together and using Anthropic's unreleased Mythos model to find thousands of vulnerabilities...",
+            "published_utc": "2026-04-07T18:00:00+00:00"
         },
         {
             "source": "Schneier",
@@ -118,7 +153,7 @@
             "title": "Why I returned to Enlightenment Linux after 30 years: Testing the new Elive beta",
             "link": "https://www.zdnet.com/article/elive-linux/",
             "summary": "This Debian-based distro brings back the old-school desktop environment but shrugs off the boring UI. I just wish I could've tried voice control.",
-            "published_utc": "2026-04-07T15:56:14+00:00"
+            "published_utc": "2026-04-07T15:56:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -300,7 +335,7 @@
             "title": "I found Android Auto's hidden shortcut that automates any task in your car - and it's brilliant",
             "link": "https://www.zdnet.com/article/android-auto-custom-assistant-shortcuts-feature-tips/",
             "summary": "Android Auto's best feature is one you probably haven't discovered yet - and Custom Assistant takes only a minute to set up.",
-            "published_utc": "2026-04-07T01:00:38+00:00"
+            "published_utc": "2026-04-07T01:00:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -422,13 +457,6 @@
             "published_utc": "2026-04-06T16:20:57+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I've used every Samsung Galaxy S26 model - here's why the Ultra is frustratingly the best",
-            "link": "https://www.zdnet.com/article/samsung-galaxy-s26-ultra-review/",
-            "summary": "The Samsung Galaxy S26 Ultra is yet another iterative upgrade for the popular brand, but it still manages to stand out in a crowded market.",
-            "published_utc": "2026-04-06T16:05:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "CISA orders feds to patch exploited Fortinet EMS flaw by Friday",
             "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-fortinet-flaw-exploited-in-attacks-by-friday/",
@@ -483,20 +511,6 @@
             "link": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
             "summary": "An elusive hacker who went by the handle \"UNKN\" and ran the early Russian ransomware groups GandCrab and REvil now has a name and a face. Authorities ...",
             "published_utc": "2026-04-06T02:07:17+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Traffic violation scams switch to QR codes in new phishing texts",
-            "link": "https://www.bleepingcomputer.com/news/security/traffic-violation-scams-switch-to-qr-codes-in-new-phishing-texts/",
-            "summary": "Scammers are sending fake \"Notice of Default\" traffic violation text messages impersonating state courts across the U.S., pressuring recipients to sca...",
-            "published_utc": "2026-04-05T19:44:10+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "New FortiClient EMS flaw exploited in attacks, emergency patch released",
-            "link": "https://www.bleepingcomputer.com/news/security/new-fortinet-forticlient-ems-flaw-cve-2026-35616-exploited-in-attacks/",
-            "summary": "Fortinet has released an emergency weekend security update for a new critical FortiClient Enterprise Management Server (EMS) vulnerability that is act...",
-            "published_utc": "2026-04-05T18:45:17+00:00"
         },
         {
             "source": "WIRED Security",
@@ -595,13 +609,6 @@
             "link": "https://www.infosecurity-magazine.com/news/new-phishing-platform-credential/",
             "summary": "A large-scale credential theft campaign targeting senior executives has been linked to a previously unknown automated phishing platform called Venom",
             "published_utc": "2026-04-03T08:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Die besten XDR-Tools",
-            "link": "https://www.csoonline.com/article/3492511/extended-detection-and-response-losungendie-11-besten-xdr-tools.html",
-            "summary": "",
-            "published_utc": "2026-04-03T04:38:00+00:00"
         },
         {
             "source": "WIRED Security",
@@ -1428,13 +1435,6 @@
             "link": "https://www.infosecurity-magazine.com/news/companies-house-glitch-exposes/",
             "summary": "An issue with the Companies House website has put the personal and corporate information of millions at risk",
             "published_utc": "2026-03-16T10:30:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "Models Are Applying to Be the Face of AI Scams",
-            "link": "https://www.wired.com/story/models-are-applying-to-be-the-face-of-ai-scams/",
-            "summary": "Dozens of Telegram channels reviewed by WIRED include job listings for “AI face models.” The (mostly) women who land these gigs are likely being used ...",
-            "published_utc": "2026-03-16T09:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
