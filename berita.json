@@ -1,6 +1,55 @@
 {
-    "lastUpdatedUTC": "2026-04-08T15:12:22.946448+00:00",
+    "lastUpdatedUTC": "2026-04-08T17:04:57.650941+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "Home Depot's Spring Black Friday sale starts this week: Here's what to know",
+            "link": "https://www.zdnet.com/article/home-depot-spring-black-friday-sale-faq/",
+            "summary": "Home Depot is discounting everything from grills to patio furniture to outdoor power equipment. Here's everything to know before you shop.",
+            "published_utc": "2026-04-08T17:00:59+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "After two years of testing, wind power still can't replace solar for me - here's why",
+            "link": "https://www.zdnet.com/article/portable-wind-turbine-test-solar-backup-not-replacement/",
+            "summary": "My years of hands-on testing show that while solar energy is straightforward, portable wind turbines require ongoing maintenance to remain efficient.",
+            "published_utc": "2026-04-08T16:52:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The 10 most popular products ZDNET readers bought last month (including a tiny storage option)",
+            "link": "https://www.zdnet.com/article/most-popular-products-zdnet-readers-bought-last-month-2026/",
+            "summary": "From phone cases to USB-C gear, these are the top tech gadgets and useful items our readers actually purchased last month.",
+            "published_utc": "2026-04-08T16:49:10+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How a burner email can protect your inbox - setting one up one is easy and free",
+            "link": "https://www.zdnet.com/article/burner-email-address-spam-phishing/",
+            "summary": "Using your primary email address everywhere can be risky. A temporary and disposable burner email address offers a safer alternative.",
+            "published_utc": "2026-04-08T16:42:07+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Yael Nardi joins Minimus as Chief Business Officer to drive hyper-growth",
+            "link": "https://www.csoonline.com/article/4155832/yael-nardi-joins-minimus-as-chief-business-officer-to-drive-hyper-growth.html",
+            "summary": "",
+            "published_utc": "2026-04-08T15:44:53+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How I sync my smart thermostat with off-peak hour rates to reduce electricity costs",
+            "link": "https://www.zdnet.com/article/how-to-use-smart-thermostat-to-get-ahead-of-temperature-spikes/",
+            "summary": "It's easy to stay comfortable while saving money thanks to these helpful IFTTT automations.",
+            "published_utc": "2026-04-08T15:38:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Data Leakage Vulnerability Patched in OpenSSL",
+            "link": "https://www.securityweek.com/data-leakage-vulnerability-patched-in-openssl/",
+            "summary": "",
+            "published_utc": "2026-04-08T15:37:48+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "RCE Bug Lurked in Apache ActiveMQ Classic for 13 Years",
@@ -23,13 +72,6 @@
             "published_utc": "2026-04-08T14:00:10+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I tested a portable wind turbine for 2 years: Why it's my backup, not a solar replacement",
-            "link": "https://www.zdnet.com/article/portable-wind-turbine-test-solar-backup-not-replacement/",
-            "summary": "My years of hands-on testing show that while solar energy is straightforward, portable wind turbines require constant management to stay efficient.",
-            "published_utc": "2026-04-08T13:40:39+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "FBI: Cybercrime Losses Neared $21 Billion in 2025",
             "link": "https://www.securityweek.com/fbi-cybercrime-losses-neared-21-billion-in-2025/",
@@ -42,13 +84,6 @@
             "link": "https://www.zdnet.com/article/sonos-play-vs-sonos-move-2/",
             "summary": "Can't decide between the Sonos Play and Move 2? It's easy for me. One is far less expensive, has a 24-hour battery, and a IP67 rating.",
             "published_utc": "2026-04-08T13:28:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How I use my smart thermostat to get ahead of temperature spikes (and save on bills)",
-            "link": "https://www.zdnet.com/article/how-to-use-smart-thermostat-to-get-ahead-of-temperature-spikes/",
-            "summary": "It's easy to stay comfortable while saving money thanks to these helpful automations.",
-            "published_utc": "2026-04-08T13:00:00+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -394,27 +429,6 @@
             "published_utc": "2026-04-07T16:40:52+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Trent AI Emerges From Stealth With $13 Million in Funding",
-            "link": "https://www.securityweek.com/trent-ai-emerges-from-stealth-with-13-million-in-funding/",
-            "summary": "",
-            "published_utc": "2026-04-07T16:34:26+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Love window snapping on Linux? You should try a tiling window manager - here's why",
-            "link": "https://www.zdnet.com/article/what-is-a-tiling-window-manager/",
-            "summary": "Linux tiling window managers can supercharge your productivity in several ways. Here's how they work and six I recommend.",
-            "published_utc": "2026-04-07T16:31:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Why I returned to Enlightenment Linux after 30 years: Testing the new Elive beta",
-            "link": "https://www.zdnet.com/article/elive-linux/",
-            "summary": "This Debian-based distro brings back the old-school desktop environment but shrugs off the boring UI. I just wish I could've tried voice control.",
-            "published_utc": "2026-04-07T15:56:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Authorities disrupt router DNS hijacks used to steal Microsoft 365 logins",
             "link": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-dns-hijacks-used-to-steal-microsoft-365-logins/",
@@ -427,13 +441,6 @@
             "link": "https://www.infosecurity-magazine.com/news/russia-apt28-hijack-routers-uk-ncsc/",
             "summary": "Newly identified malicious campaigns are linked to virtual private servers modified by APT28 to operate as malicious DNS servers",
             "published_utc": "2026-04-07T15:30:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I tried Google Photos' new AI Enhance tool: How it crops, relights, and fixes your shots - sometimes",
-            "link": "https://www.zdnet.com/article/google-photos-ai-enhance-tool-cropping-lighting-fixes-limitations/",
-            "summary": "Now rolling out to Android users globally, AI Enhance uses generative AI to improve your photos instantly. Here's how to use it, and where it falls sh...",
-            "published_utc": "2026-04-07T15:16:15+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -595,13 +602,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/04/google-wants-to-transition-to-post-quantum-cryptography-by-2029.html",
             "summary": "",
             "published_utc": "2026-04-06T10:52:32+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Authentication is broken: Here’s how security leaders can actually fix it",
-            "link": "https://www.csoonline.com/article/4154257/authentication-is-broken-heres-how-security-leaders-can-actually-fix-it.html",
-            "summary": "",
-            "published_utc": "2026-04-06T10:00:00+00:00"
         },
         {
             "source": "KrebsOnSecurity",
