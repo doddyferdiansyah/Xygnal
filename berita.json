@@ -1,12 +1,75 @@
 {
-    "lastUpdatedUTC": "2026-04-08T09:03:57.226112+00:00",
+    "lastUpdatedUTC": "2026-04-08T10:58:41.116039+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "US Disrupts Russian Espionage Operation Involving Hacked Routers and DNS Hijacking",
+            "link": "https://www.securityweek.com/us-disrupts-russian-espionage-operation-involving-hacked-routers-and-dns-hijacking/",
+            "summary": "",
+            "published_utc": "2026-04-08T10:54:14+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Forest Blizzard leverages router compromises to launch AiTM attacks, target Outlook sessions",
+            "link": "https://www.csoonline.com/article/4155632/forest-blizzard-leverages-router-compromises-to-launch-aitm-attacks-target-outlook-sessions.html",
+            "summary": "",
+            "published_utc": "2026-04-08T10:50:18+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Why you shouldn't buy cheap DisplayPort cables - the 'Death Pin' can put your GPU at serious risk",
+            "link": "https://www.zdnet.com/article/dont-buy-cheap-displayport-cables-or-they-can-brick-your-pc/",
+            "summary": "The tiniest manufacturing mistake can cause huge issues with your PC. Here's how to prevent it from happening.",
+            "published_utc": "2026-04-08T10:30:39+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Python Supply-Chain Compromise",
+            "link": "https://www.schneier.com/blog/archives/2026/04/python-supply-chain-compromise.html",
+            "summary": "",
+            "published_utc": "2026-04-08T10:25:53+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "US Thwarts DNS Hijacking Network Controlled by Russian APT28 Hackers",
+            "link": "https://www.infosecurity-magazine.com/news/us-thwarts-dns-hijacking-network/",
+            "summary": "The FBI deployed a method to unplug US-based routers compromised by APT28 from the threat actor’s malicious network",
+            "published_utc": "2026-04-08T10:03:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "The zero-day timeline just collapsed. Here’s what security leaders do next",
+            "link": "https://www.csoonline.com/article/4155155/the-zero-day-timeline-just-collapsed-heres-what-security-leaders-do-next.html",
+            "summary": "",
+            "published_utc": "2026-04-08T10:00:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Microsoft’s new Agent Governance Toolkit targets top OWASP risks for AI agents",
+            "link": "https://www.csoonline.com/article/4155594/microsofts-new-agent-governance-toolkit-targets-top-owasp-risks-for-ai-agents-2.html",
+            "summary": "",
+            "published_utc": "2026-04-08T09:42:15+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Claude Discovers Apache ActiveMQ Bug Hidden for 13 Years",
+            "link": "https://www.infosecurity-magazine.com/news/claude-apache-activemq-bug-hidden/",
+            "summary": "Anthropic’s Claude AI has helped researchers find a vulnerability in Apache ActiveMQ Classic",
+            "published_utc": "2026-04-08T09:15:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "The best Windows laptops of 2026: Expert tested and reviewed",
             "link": "https://www.zdnet.com/article/best-windows-laptop/",
             "summary": "We've gone hands-on with dozens of Windows laptops, evaluating their performance, portability, and value. Here are our top picks.",
             "published_utc": "2026-04-08T09:01:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "The tabletop exercise grows up",
+            "link": "https://www.csoonline.com/article/4155146/the-tabletop-exercise-grows-up.html",
+            "summary": "",
+            "published_utc": "2026-04-08T09:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -331,13 +394,6 @@
             "published_utc": "2026-04-07T11:31:38+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Medusa Ransomware Fast to Exploit Vulnerabilities, Breached Systems",
-            "link": "https://www.securityweek.com/medusa-ransomware-fast-to-exploit-vulnerabilities-breached-systems/",
-            "summary": "",
-            "published_utc": "2026-04-07T10:52:33+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Microsoft says Medusa-linked Storm-1175 is speeding ransomware attacks",
             "link": "https://www.csoonline.com/article/4154934/microsoft-says-medusa-linked-storm-1175-is-speeding-ransomware-attacks.html",
@@ -478,13 +534,6 @@
             "published_utc": "2026-04-06T17:45:57+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I used a single power station to keep my off-grid cabin running - how it all worked out",
-            "link": "https://www.zdnet.com/article/bluetti-apex-300-power-station-review/",
-            "summary": "After testing dozens of power stations, the Bluetti Apex 300 is my top pick to transform my off-grid dream into a reality.",
-            "published_utc": "2026-04-06T17:35:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Microsoft links Medusa ransomware affiliate to zero-day attacks",
             "link": "https://www.bleepingcomputer.com/news/security/microsoft-links-medusa-ransomware-affiliate-to-zero-day-attacks/",
@@ -574,34 +623,6 @@
             "link": "https://www.csoonline.com/article/4154188/security-lapse-lets-researchers-see-react2shell-hackers-dashboard.html",
             "summary": "",
             "published_utc": "2026-04-03T19:10:56+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "A core infrastructure engineer pleads guilty to federal charges in insider attack",
-            "link": "https://www.csoonline.com/article/4154204/a-core-infrastructure-engineer-pleads-guilty-to-federal-charges-in-insider-attack.html",
-            "summary": "",
-            "published_utc": "2026-04-03T18:38:04+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Google patches fourth Chrome zero-day so far this year",
-            "link": "https://www.csoonline.com/article/4154235/google-patches-fourth-chrome-zero-day-so-far-this-year.html",
-            "summary": "",
-            "published_utc": "2026-04-03T17:29:30+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Internet Bug Bounty program hits pause on payouts",
-            "link": "https://www.csoonline.com/article/4154216/internet-bug-bounty-program-hits-pause-on-payouts-2.html",
-            "summary": "",
-            "published_utc": "2026-04-03T17:19:23+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Claude Code is still vulnerable to an attack Anthropic has already fixed",
-            "link": "https://www.csoonline.com/article/4154201/claude-code-is-still-vulnerable-to-an-attack-anthropic-has-already-fixed-2.html",
-            "summary": "",
-            "published_utc": "2026-04-03T16:57:06+00:00"
         },
         {
             "source": "Schneier",
@@ -728,13 +749,6 @@
             "link": "https://www.infosecurity-magazine.com/news/china-hackers-ta416-europe/",
             "summary": "Chinese state-backed group TA416 had suspended its cyber espionage operations in Europe since 2023, noted Proofpoint",
             "published_utc": "2026-04-01T12:05:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "A Taxonomy of Cognitive Security",
-            "link": "https://www.schneier.com/blog/archives/2026/04/a-taxonomy-of-cognitive-security.html",
-            "summary": "",
-            "published_utc": "2026-04-01T09:59:07+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2751,20 +2765,6 @@
             "link": "https://www.infosecurity-magazine.com/news/emojis-in-purerats-code/",
             "summary": "Researchers discover that PureRAT’s code now contains emojis – indicating it has been written by AI based-on comments ripped from social media.",
             "published_utc": "2026-01-28T12:10:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "AI Security Threats Loom as Enterprise Usage Jumps 91%",
-            "link": "https://www.infosecurity-magazine.com/news/ai-security-threats-loom-zscaler/",
-            "summary": "Zscaler analysts found critical vulnerabilities in 100% of enterprise AI systems, with 90% compromised in under 90 minutes",
-            "published_utc": "2026-01-28T11:45:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Researchers Uncover 454,000+ Malicious Open Source Packages",
-            "link": "https://www.infosecurity-magazine.com/news/454000-malicious-open-source/",
-            "summary": "Sonatype warns that open source threats became industrialized with a surge in malicious packages in 2025",
-            "published_utc": "2026-01-28T11:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
