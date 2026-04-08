@@ -1,6 +1,76 @@
 {
-    "lastUpdatedUTC": "2026-04-08T17:04:57.650941+00:00",
+    "lastUpdatedUTC": "2026-04-08T19:18:38.519368+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "New macOS stealer campaign uses Script Editor in ClickFix attack",
+            "link": "https://www.bleepingcomputer.com/news/security/new-macos-stealer-campaign-uses-script-editor-in-clickfix-attack/",
+            "summary": "A new campaign delivering the Atomic Stealer malware to macOS users abuses the Script Editor in a variation of the ClickFix attack that tricked users ...",
+            "published_utc": "2026-04-08T18:55:43+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "‘We Were Not Ready for This’: Lebanon's Emergency System Is Hanging by a Thread",
+            "link": "https://www.wired.com/story/we-were-not-ready-for-this-lebanons-emergency-system-is-hanging-by-a-thread/",
+            "summary": "In Lebanon, nearly 1 in 5 people has been displaced by Israeli attacks, leaving the government to manage a modern crisis without modern digital infras...",
+            "published_utc": "2026-04-08T18:43:39+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "CISA orders feds to patch exploited Ivanti EPMM flaw by Sunday",
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-ivanti-epmm-flaw-by-sunday/",
+            "summary": "CISA has given U.S. government agencies four days to secure their systems against a critical-severity vulnerability in Ivanti Endpoint Manager Mobile ...",
+            "published_utc": "2026-04-08T18:15:27+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Arelion employs NETSCOUT Arbor DDoS protection products",
+            "link": "https://www.csoonline.com/article/4155947/arelion-employs-netscout-arbor-ddos-protection-products.html",
+            "summary": "",
+            "published_utc": "2026-04-08T18:13:30+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "6 Winter 2026 G2 Leader Badges prove this DDoS protection stands out",
+            "link": "https://www.csoonline.com/article/4155941/6-winter-2026-g2-leader-badges-prove-this-ddos-protection-stands-out.html",
+            "summary": "",
+            "published_utc": "2026-04-08T17:57:09+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Android users can get up to $100 each from this class action suit - see if you're eligible",
+            "link": "https://www.zdnet.com/article/android-users-google-class-action-suit/",
+            "summary": "The suit alleges that Google sent data over cellular connections without your permission. Here's how to file for your share.",
+            "published_utc": "2026-04-08T17:55:38+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "E-books are more expensive now, too - 5 ways I find good free Kindle reads in 2026",
+            "link": "https://www.zdnet.com/article/how-to-get-free-books-on-kindle/",
+            "summary": "I have a growing library of free ebooks on my Kindle, and you can too. Here's how.",
+            "published_utc": "2026-04-08T17:48:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "How botnet-driven DDoS attacks evolved in 2H 2025",
+            "link": "https://www.csoonline.com/article/4155927/how-botnet-driven-ddos-attacks-evolved-in-2h-2025.html",
+            "summary": "",
+            "published_utc": "2026-04-08T17:42:52+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Amazon is ending support for 8 Kindle models next month: Is yours on the list?",
+            "link": "https://www.zdnet.com/article/amazon-ending-support-for-older-kindle-e-readers-in-may/",
+            "summary": "Starting in May, you won't be able to access the Kindle Store from your older device. Here are your best alternatives.",
+            "published_utc": "2026-04-08T17:27:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "13-year-old bug in ActiveMQ lets hackers remotely execute commands",
+            "link": "https://www.bleepingcomputer.com/news/security/13-year-old-bug-in-activemq-lets-hackers-remotely-execute-commands/",
+            "summary": "Security researchers discovered a remote code execution (RCE) vulnerability in Apache ActiveMQ Classic that has gone undetected for 13 years and could...",
+            "published_utc": "2026-04-08T17:26:40+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Home Depot's Spring Black Friday sale starts this week: Here's what to know",
@@ -366,13 +436,6 @@
             "published_utc": "2026-04-07T18:49:50+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I swapped my MacBook Air with a Snapdragon X Elite Extreme laptop - here's how they compared",
-            "link": "https://www.zdnet.com/article/asus-zenbook-a16-review/",
-            "summary": "Asus' 16-inch Zenbook A16 takes a fresh approach to ultraportability, but whether it works or not depends on who you ask.",
-            "published_utc": "2026-04-07T18:46:00+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "Anthropic Unveils ‘Claude Mythos’ – A Cybersecurity Breakthrough That Could Also Supercharge Attacks",
             "link": "https://www.securityweek.com/anthropic-unveils-claude-mythos-a-cybersecurity-breakthrough-that-could-also-supercharge-attacks/",
@@ -380,25 +443,11 @@
             "published_utc": "2026-04-07T18:39:56+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Google Chrome's vertical tabs are here: How to opt in and use the new Reading Mode",
-            "link": "https://www.zdnet.com/article/google-chrome-vertical-tabs/",
-            "summary": "Google's browser officially joins the vertical tab party. See what you've been missing.",
-            "published_utc": "2026-04-07T18:27:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "US warns of Iranian hackers targeting critical infrastructure",
             "link": "https://www.bleepingcomputer.com/news/security/us-warns-of-iranian-hackers-targeting-critical-infrastructure/",
             "summary": "Iranian-linked hackers are targeting Internet-exposed Rockwell/Allen-Bradley programmable logic controllers (PLCs) on the networks of U.S. critical in...",
             "published_utc": "2026-04-07T18:02:26+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Apple, Google, and Microsoft join Anthropic's Project Glasswing to defend world's most critical software",
-            "link": "https://www.zdnet.com/article/project-glasswing-microsoft-google-apple-anthropic/",
-            "summary": "Is this AI's Manhattan Project? 12 tech rivals are banding together and using Anthropic's unreleased Mythos model to find thousands of vulnerabilities...",
-            "published_utc": "2026-04-07T18:00:00+00:00"
         },
         {
             "source": "Schneier",
@@ -513,20 +562,6 @@
             "published_utc": "2026-04-07T09:26:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "The rise of proactive cyber: Why defense is no longer enough",
-            "link": "https://www.csoonline.com/article/4154228/the-rise-of-proactive-cyber-why-defense-is-no-longer-enough.html",
-            "summary": "",
-            "published_utc": "2026-04-07T09:01:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "The noisy tenants: Engineering fairness in multi-tenant SIEM solutions",
-            "link": "https://www.csoonline.com/article/4154546/the-noisy-tenants-engineering-fairness-in-multi-tenant-siem-solutions.html",
-            "summary": "",
-            "published_utc": "2026-04-07T09:00:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "As breakout time accelerates, prevention-first cybersecurity takes center stage",
             "link": "https://www.welivesecurity.com/en/business-security/breakout-time-accelerates-prevention-first-cybersecurity-center-stage/",
@@ -555,13 +590,6 @@
             "published_utc": "2026-04-06T19:19:27+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Microsoft fixes Classic Outlook bug causing email delivery issues",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-classic-outlook-bug-causing-email-delivery-issues/",
-            "summary": "Microsoft has resolved a known issue that was preventing some Classic Outlook users from sending emails via Outlook.com. [...]",
-            "published_utc": "2026-04-06T19:19:24+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "New Mexico’s Meta Ruling and Encryption",
             "link": "https://www.schneier.com/blog/archives/2026/04/new-mexicos-meta-ruling-and-encryption.html",
@@ -574,27 +602,6 @@
             "link": "https://www.wired.com/story/us-border-patrol-challenge-coins-nonprofits/",
             "summary": "Nonprofits run out of US Border Patrol stations are also selling other “operation”-themed coins that include a phrase popularized by the Proud Boys, p...",
             "published_utc": "2026-04-06T18:16:27+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft removes Support and Recovery Assistant from Windows",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-support-and-recovery-assistant-from-windows/",
-            "summary": "Microsoft has deprecated and removed the Support and Recovery Assistant (SaRA) command-line utility from all in-support versions of Windows updates st...",
-            "published_utc": "2026-04-06T17:45:57+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft links Medusa ransomware affiliate to zero-day attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/microsoft-links-medusa-ransomware-affiliate-to-zero-day-attacks/",
-            "summary": "Microsoft says that Storm-1175, a China-based financially motivated cybercriminal group known for deploying Medusa ransomware payloads, has been deplo...",
-            "published_utc": "2026-04-06T16:56:01+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "North Korean hackers abuse LNKs and GitHub repos in ongoing campaign",
-            "link": "https://www.csoonline.com/article/4154471/north-korean-hackers-abuse-lnks-and-github-repos-in-ongoing-campaign.html",
-            "summary": "",
-            "published_utc": "2026-04-06T12:02:36+00:00"
         },
         {
             "source": "Schneier",
@@ -1386,13 +1393,6 @@
             "link": "https://www.infosecurity-magazine.com/news/vidar-stealer-exploits-github/",
             "summary": "The Vidar 2.0 infostealers is deployed through fake free game cheats on GitHub and Reddit",
             "published_utc": "2026-03-18T11:15:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "Livestream Replay: The War Machine",
-            "link": "https://www.wired.com/story/livestream-the-war-machine/",
-            "summary": "A panel of WIRED experts dissected the defense tech industry’s impact on modern warfare.",
-            "published_utc": "2026-03-18T10:30:00+00:00"
         },
         {
             "source": "InfosecurityMag",
