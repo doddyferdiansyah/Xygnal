@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2026-04-08T10:58:41.116039+00:00",
+    "lastUpdatedUTC": "2026-04-08T11:58:58.843008+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Evasive Masjesu DDoS Botnet Targets IoT Devices",
+            "link": "https://www.securityweek.com/evasive-masjesu-ddos-botnet-targets-iot-devices/",
+            "summary": "",
+            "published_utc": "2026-04-08T11:49:44+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Anthropic Launches Project Glasswing to Use AI to Find and Fix Critical Software Vulnerabilities",
+            "link": "https://www.infosecurity-magazine.com/news/anthropic-launch-project-glasswing/",
+            "summary": "Anthropic launches Project Glasswing, using its Claude Mythos Preview AI to autonomously identify and fix undiscovered vulnerabilities in critical sof...",
+            "published_utc": "2026-04-08T11:30:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Hackers Targeting Ninja Forms Vulnerability That Exposes WordPress Sites to Takeover",
+            "link": "https://www.securityweek.com/hackers-targeting-critical-ninja-forms-bug-that-exposes-wordpress-sites-to-takeover/",
+            "summary": "",
+            "published_utc": "2026-04-08T11:20:23+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I found a 'DISM' command that reclaims Windows 11 system storage - but you'll have to use it wisely",
+            "link": "https://www.zdnet.com/article/windows-reserved-storage-setting-turn-off-and-why/",
+            "summary": "A feature called Reserved Storage retains a small amount of storage for updates - here's how to disable it, and when it makes the most sense to do so.",
+            "published_utc": "2026-04-08T11:16:43+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "LLM-generated passwords are indefensible. Your codebase may already prove it",
+            "link": "https://www.csoonline.com/article/4155166/llm-generated-passwords-are-indefensible-your-codebase-may-already-prove-it.html",
+            "summary": "",
+            "published_utc": "2026-04-08T11:00:00+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "US Disrupts Russian Espionage Operation Involving Hacked Routers and DNS Hijacking",
@@ -366,13 +401,6 @@
             "published_utc": "2026-04-07T13:58:45+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Webinar Today: Why Automated Pentesting Alone Is Not Enough",
-            "link": "https://www.securityweek.com/webinar-today-why-automated-pentesting-alone-is-not-enough/",
-            "summary": "",
-            "published_utc": "2026-04-07T13:19:29+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Zero‑click Grafana AI attack can enable enterprise data exfiltration",
             "link": "https://www.csoonline.com/article/4155004/zero%e2%80%91click-grafana-ai-attack-can-enable-enterprise-data-exfiltration.html",
@@ -385,13 +413,6 @@
             "link": "https://www.infosecurity-magazine.com/news/17bn-lost-to-cyber-fraud-warns-fbi/",
             "summary": "Cryptocurrency scams alone cost victims over $7 billion, while AI-enabled fraud threats are on the rise, says FBI",
             "published_utc": "2026-04-07T12:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "GPUBreach: Root Shell Access Achieved via GPU Rowhammer Attack",
-            "link": "https://www.securityweek.com/gpubreach-root-shell-access-achieved-via-gpu-rowhammer-attack/",
-            "summary": "",
-            "published_utc": "2026-04-07T11:31:38+00:00"
         },
         {
             "source": "CSO Online",
@@ -520,13 +541,6 @@
             "published_utc": "2026-04-06T18:16:27+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I tested Gemini on Android Auto and now I can't stop talking to it: 5 tasks it nails",
-            "link": "https://www.zdnet.com/article/gemini-on-android-auto-handles-simple-and-complex-tasks/",
-            "summary": "I didn't see much benefit for Google's AI - until now. Here are my favorite ways to use the new Gemini integration in my car.",
-            "published_utc": "2026-04-06T17:55:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Microsoft removes Support and Recovery Assistant from Windows",
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-support-and-recovery-assistant-from-windows/",
@@ -616,13 +630,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-jurassic-fish-chokes-on-squid.html",
             "summary": "",
             "published_utc": "2026-04-03T21:07:06+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Security lapse lets researchers view React2Shell hackers’ dashboard",
-            "link": "https://www.csoonline.com/article/4154188/security-lapse-lets-researchers-see-react2shell-hackers-dashboard.html",
-            "summary": "",
-            "published_utc": "2026-04-03T19:10:56+00:00"
         },
         {
             "source": "Schneier",
@@ -2758,13 +2765,6 @@
             "link": "https://www.infosecurity-magazine.com/news/n8n-sandbox-flaws-allow-rce/",
             "summary": "Two critical security flaws in n8n have exposed sandboxing vulnerabilities, enabling remote code execution for attackers",
             "published_utc": "2026-01-28T16:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Emojis in PureRAT’s Code Point to AI-Generated Malware Campaign",
-            "link": "https://www.infosecurity-magazine.com/news/emojis-in-purerats-code/",
-            "summary": "Researchers discover that PureRAT’s code now contains emojis – indicating it has been written by AI based-on comments ripped from social media.",
-            "published_utc": "2026-01-28T12:10:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
