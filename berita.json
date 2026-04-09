@@ -1,19 +1,82 @@
 {
-    "lastUpdatedUTC": "2026-04-09T12:00:40.588935+00:00",
+    "lastUpdatedUTC": "2026-04-09T14:07:09.459599+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "How I cut my power bill with IFTTT automation - in 4 simple steps",
+            "link": "https://www.zdnet.com/article/how-to-use-smart-thermostat-to-get-ahead-of-temperature-spikes/",
+            "summary": "I sync my smart thermostat with off-peak hour rates to reduce electricity costs. It's not as complicated as it sounds.",
+            "published_utc": "2026-04-09T13:53:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Is Modern Standby draining your Windows laptop battery overnight? Shut it down - here's why",
+            "link": "https://www.zdnet.com/article/sleep-vs-hibernate-does-modern-standby-save-battery-on-windows/",
+            "summary": "Putting your computer to sleep isn't always the best way to preserve its battery.",
+            "published_utc": "2026-04-09T13:45:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Apple Intelligence AI Guardrails Bypassed in New Attack",
+            "link": "https://www.securityweek.com/apple-intelligence-ai-guardrails-bypassed-in-new-attack/",
+            "summary": "",
+            "published_utc": "2026-04-09T13:43:07+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Can we Trust AI? No – But Eventually We Must",
+            "link": "https://www.securityweek.com/can-we-trust-ai-no-but-eventually-we-must/",
+            "summary": "",
+            "published_utc": "2026-04-09T13:30:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How to share your Kindle books with anyone (and the limits to know) - it's easy",
+            "link": "https://www.zdnet.com/article/how-to-loan-a-kindle-book/",
+            "summary": "Amazon lets you loan Kindle books with friends and family for a couple weeks at a time. Here's how it works.",
+            "published_utc": "2026-04-09T13:18:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "My top 5 Linux desktops of 2026 (so far) - and I've tried them all",
+            "link": "https://www.zdnet.com/article/top-linux-desktops-2026/",
+            "summary": "I've spent decades testing nearly every Linux desktop. Which one should you try today? I've narrowed your options down to five.",
+            "published_utc": "2026-04-09T12:36:19+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Weak at the seams",
+            "link": "https://www.csoonline.com/article/4156510/weak-at-the-seams-2.html",
+            "summary": "",
+            "published_utc": "2026-04-09T12:28:57+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Google API Keys in Android Apps Expose Gemini Endpoints to Unauthorized Access",
+            "link": "https://www.securityweek.com/google-api-keys-in-android-apps-expose-gemini-endpoints-to-unauthorized-access/",
+            "summary": "",
+            "published_utc": "2026-04-09T12:26:50+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Webinar: From noise to signal - What threat actors are targeting next",
+            "link": "https://www.bleepingcomputer.com/news/security/webinar-from-noise-to-signal-what-threat-actors-are-targeting-next/",
+            "summary": "Threat actors often signal their intentions before launching attacks, from dark web chatter to access-broker listings and credential requests. Join ou...",
+            "published_utc": "2026-04-09T12:20:28+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The best Home Depot Spring Black Friday deals 2026: Grills, lawnmowers, mulch, & more",
+            "link": "https://www.zdnet.com/article/best-home-depot-spring-black-friday-deals-2026/",
+            "summary": "Home Depot's spring sale is here, and brings discounts on brands like DeWalt, Traeger, Weber, LG, and many other top brands.",
+            "published_utc": "2026-04-09T12:00:54+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Palo Alto Networks, SonicWall Patch High-Severity Vulnerabilities",
             "link": "https://www.securityweek.com/palo-alto-networks-sonicwall-patch-high-severity-vulnerabilities/",
             "summary": "",
             "published_utc": "2026-04-09T11:58:52+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Weak at the seams",
-            "link": "https://www.csoonline.com/article/4155921/weak-at-the-seams.html",
-            "summary": "",
-            "published_utc": "2026-04-09T11:54:39+00:00"
         },
         {
             "source": "CSO Online",
@@ -185,13 +248,6 @@
         },
         {
             "source": "ZDNet Security",
-            "title": "Why I stopped using 'Modern Standby' on my Windows laptop to save battery overnight",
-            "link": "https://www.zdnet.com/article/sleep-vs-hibernate-does-modern-standby-save-battery-on-windows/",
-            "summary": "Putting your computer to sleep might not be the best way to preserve its battery. Here's why.",
-            "published_utc": "2026-04-09T01:00:47+00:00"
-        },
-        {
-            "source": "ZDNet Security",
             "title": "KDE Linux is the purest form of Plasma I've tested - but the install isn't for the meek",
             "link": "https://www.zdnet.com/article/kde-linux-distribution-review/",
             "summary": "Linux distros present KDE Plasma with a version customized for that particular OS. KDE Linux offers the purest version.",
@@ -241,13 +297,6 @@
         },
         {
             "source": "ZDNet Security",
-            "title": "Your Kindle's not obsolete, it just needs a jailbreak - and I'll show you how it's done",
-            "link": "https://www.zdnet.com/article/your-kindles-not-obsolete-it-needs-a-jailbreak-ill-show-you-how-its-done/",
-            "summary": "You can transform your old Kindle - even a bricked device - into the ultimate open-source reader. Here's how.",
-            "published_utc": "2026-04-08T19:24:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
             "title": "How to add EPUB, MOBI, and PDF files to your Kindle - follow my easy step-by-step",
             "link": "https://www.zdnet.com/article/how-to-add-epub-mobi-and-pdf-files-to-your-kindle-no-converting-required/",
             "summary": "Struggling to transfer ebooks to your Kindle? Here's the step-by-step process for moving EPUB, MOBI, and PDF files to both new and old Kindle devices ...",
@@ -258,6 +307,13 @@
             "title": "Got an old Kindle? How to resurrect your e-reader with new books",
             "link": "https://www.zdnet.com/article/old-kindle-how-to-resurrect-your-e-reader-with-new-books/",
             "summary": "I added new books to an ancient Kindle DX. Here's how you can breathe new life into your outdated e-reader.",
+            "published_utc": "2026-04-08T19:24:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Your Kindle's not obsolete, it just needs a jailbreak - and I'll show you how it's done",
+            "link": "https://www.zdnet.com/article/your-kindles-not-obsolete-it-needs-a-jailbreak-ill-show-you-how-its-done/",
+            "summary": "You can transform your old Kindle - even a bricked device - into the ultimate open-source reader. Here's how.",
             "published_utc": "2026-04-08T19:24:00+00:00"
         },
         {
@@ -331,34 +387,6 @@
             "published_utc": "2026-04-08T17:26:40+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Home Depot's Spring Black Friday sale starts this week: Here's what to know",
-            "link": "https://www.zdnet.com/article/home-depot-spring-black-friday-sale-faq/",
-            "summary": "Home Depot is discounting everything from grills to patio furniture to outdoor power equipment. Here's everything to know before you shop.",
-            "published_utc": "2026-04-08T17:00:59+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "After two years of testing, wind power still can't replace solar for me - here's why",
-            "link": "https://www.zdnet.com/article/portable-wind-turbine-test-solar-backup-not-replacement/",
-            "summary": "My years of hands-on testing show that while solar energy is straightforward, portable wind turbines require ongoing maintenance to remain efficient.",
-            "published_utc": "2026-04-08T16:52:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The 10 most popular products ZDNET readers bought last month (including a tiny storage option)",
-            "link": "https://www.zdnet.com/article/most-popular-products-zdnet-readers-bought-last-month-2026/",
-            "summary": "From phone cases to USB-C gear, these are the top tech gadgets and useful items our readers actually purchased last month.",
-            "published_utc": "2026-04-08T16:49:10+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How a burner email can protect your inbox - setting one up one is easy and free",
-            "link": "https://www.zdnet.com/article/burner-email-address-spam-phishing/",
-            "summary": "Using your primary email address everywhere can be risky. A temporary and disposable burner email address offers a safer alternative.",
-            "published_utc": "2026-04-08T16:42:07+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Google API Keys Quietly Gain Access to Gemini on Android Devices",
             "link": "https://www.infosecurity-magazine.com/news/google-api-keys-access-gemini/",
@@ -373,13 +401,6 @@
             "published_utc": "2026-04-08T15:44:53+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Data Leakage Vulnerability Patched in OpenSSL",
-            "link": "https://www.securityweek.com/data-leakage-vulnerability-patched-in-openssl/",
-            "summary": "",
-            "published_utc": "2026-04-08T15:37:48+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Critical Vulnerability in Ninja Forms Exposes WordPress Sites",
             "link": "https://www.infosecurity-magazine.com/news/flaw-ninja-forms-wordpress/",
@@ -387,25 +408,11 @@
             "published_utc": "2026-04-08T15:10:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "RCE Bug Lurked in Apache ActiveMQ Classic for 13 Years",
-            "link": "https://www.securityweek.com/rce-bug-lurked-in-apache-activemq-classic-for-13-years/",
-            "summary": "",
-            "published_utc": "2026-04-08T14:30:27+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Is a $30,000 GPU Good at Password Cracking?",
             "link": "https://www.bleepingcomputer.com/news/security/is-a-30-000-gpu-good-at-password-cracking/",
             "summary": "A $30,000 AI GPU doesn't outperform consumer GPUs at password cracking. Specops explains why attackers don't need exotic hardware to break weak passwo...",
             "published_utc": "2026-04-08T14:00:10+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "FBI: Cybercrime Losses Neared $21 Billion in 2025",
-            "link": "https://www.securityweek.com/fbi-cybercrime-losses-neared-21-billion-in-2025/",
-            "summary": "",
-            "published_utc": "2026-04-08T13:32:53+00:00"
         },
         {
             "source": "CSO Online",
@@ -555,25 +562,11 @@
             "published_utc": "2026-04-07T19:39:18+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "5 practical steps to strengthen attack resilience with attack surface management",
-            "link": "https://www.csoonline.com/article/4155177/5-practical-steps-to-strengthen-attack-resilience-with-attack-surface-management.html",
-            "summary": "",
-            "published_utc": "2026-04-07T19:04:02+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "Anthropic Teams Up With Its Rivals to Keep AI From Hacking Everything",
             "link": "https://www.wired.com/story/anthropic-mythos-preview-project-glasswing/",
             "summary": "The AI lab's Project Glasswing will bring together Apple, Google, and more than 45 other organizations. They'll use the new Claude Mythos Preview mode...",
             "published_utc": "2026-04-07T18:49:50+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "US warns of Iranian hackers targeting critical infrastructure",
-            "link": "https://www.bleepingcomputer.com/news/security/us-warns-of-iranian-hackers-targeting-critical-infrastructure/",
-            "summary": "Iranian-linked hackers are targeting Internet-exposed Rockwell/Allen-Bradley programmable logic controllers (PLCs) on the networks of U.S. critical in...",
-            "published_utc": "2026-04-07T18:02:26+00:00"
         },
         {
             "source": "Schneier",
@@ -3500,6 +3493,13 @@
             "link": "https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/",
             "summary": "Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed.",
             "published_utc": "2022-08-25T18:47:15+00:00"
+        },
+        {
+            "source": "Threatpost",
+            "title": "Twitter Whistleblower Complaint: The TL;DR Version",
+            "link": "https://threatpost.com/twitter-whistleblower-tldr-version/180472/",
+            "summary": "Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a n...",
+            "published_utc": "2022-08-24T14:17:04+00:00"
         }
     ]
 }
