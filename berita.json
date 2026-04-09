@@ -1,6 +1,55 @@
 {
-    "lastUpdatedUTC": "2026-04-09T11:00:29.926132+00:00",
+    "lastUpdatedUTC": "2026-04-09T12:00:40.588935+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Palo Alto Networks, SonicWall Patch High-Severity Vulnerabilities",
+            "link": "https://www.securityweek.com/palo-alto-networks-sonicwall-patch-high-severity-vulnerabilities/",
+            "summary": "",
+            "published_utc": "2026-04-09T11:58:52+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Weak at the seams",
+            "link": "https://www.csoonline.com/article/4155921/weak-at-the-seams.html",
+            "summary": "",
+            "published_utc": "2026-04-09T11:54:39+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "New ClickFix variant bypasses Apple safeguards with one‑click script execution",
+            "link": "https://www.csoonline.com/article/4156500/new-clickfix-variant-bypasses-apple-safeguards-with-one%e2%80%91click-script-execution.html",
+            "summary": "",
+            "published_utc": "2026-04-09T11:51:29+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I asked 5 data leaders about how they use AI to automate - and end integration nightmares",
+            "link": "https://www.zdnet.com/article/ai-data-leaders-automation-integration-workloads-pipelines/",
+            "summary": "Tech executives explain how they're moving beyond legacy Excel mapping to build AI data pipelines that cut integration workloads by up to 40%.",
+            "published_utc": "2026-04-09T11:49:42+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Atomic Stealer MacOS ClickFix Attack Bypasses Apple Security Warnings",
+            "link": "https://www.infosecurity-magazine.com/news/atomic-stealer-macos-clickfix/",
+            "summary": "macOS 26.4 update introduced security warnings into Terminal to prevent ClickFix attacks, so attackers have shifted to Script Editor instead",
+            "published_utc": "2026-04-09T11:20:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "It's not a BIOS bug: How swapping to a DisplayPort 2.1b cable may fix your PC's boot loops",
+            "link": "https://www.zdnet.com/article/dont-buy-cheap-displayport-cables-or-they-can-brick-your-pc/",
+            "summary": "The tiniest manufacturing mistake can cause huge issues with your PC. Here's how to prevent it from happening from the start.",
+            "published_utc": "2026-04-09T11:00:39+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "The Hidden ROI of Visibility: Better Decisions, Better Behavior, Better Security",
+            "link": "https://www.securityweek.com/the-hidden-roi-of-visibility-better-decisions-better-behavior-better-security/",
+            "summary": "",
+            "published_utc": "2026-04-09T11:00:00+00:00"
+        },
         {
             "source": "Schneier",
             "title": "On Microsoft’s Lousy Cloud Security",
@@ -9,11 +58,25 @@
             "published_utc": "2026-04-09T10:51:36+00:00"
         },
         {
+            "source": "InfosecurityMag",
+            "title": "Middle East Hack-for-Hire Operation Traced to South Asian Cyber Espionage Group",
+            "link": "https://www.infosecurity-magazine.com/news/middle-east-hack-operation-bitter/",
+            "summary": "A spear-phishing campaign which spread across the Middle East between 2023 and 2024 has now been linked to Bitter APT group",
+            "published_utc": "2026-04-09T10:45:00+00:00"
+        },
+        {
             "source": "BleepingComputer",
             "title": "Eurail says December data breach impacts 300,000 individuals",
             "link": "https://www.bleepingcomputer.com/news/security/eurail-says-december-data-breach-impacts-300-000-individuals/",
             "summary": "Eurail B.V., a European travel operator that provides digital passes covering 33 national railways, says attackers stole the personal information of o...",
             "published_utc": "2026-04-09T10:31:54+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The best business VoIP services in 2026: Expert tested and reviewed",
+            "link": "https://www.zdnet.com/article/best-business-voip-providers/",
+            "summary": "Navigate the VoIP landscape with ease and retire your old lines with our guide on the best VoIP providers of 2026.",
+            "published_utc": "2026-04-09T10:01:23+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -56,13 +119,6 @@
             "link": "https://www.zdnet.com/article/best-hisense-tv/",
             "summary": "Hisense has quickly become one of the more trusted names in mid-range TVs, and has recently started to offer truly premium-grade screens for high-end ...",
             "published_utc": "2026-04-09T09:00:40+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Weak at the seams",
-            "link": "https://www.csoonline.com/article/4155921/weak-at-the-seams.html",
-            "summary": "",
-            "published_utc": "2026-04-09T09:00:00+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -317,13 +373,6 @@
             "published_utc": "2026-04-08T15:44:53+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "How I sync my smart thermostat with off-peak hour rates to reduce electricity costs",
-            "link": "https://www.zdnet.com/article/how-to-use-smart-thermostat-to-get-ahead-of-temperature-spikes/",
-            "summary": "It's easy to stay comfortable while saving money thanks to these helpful IFTTT automations.",
-            "published_utc": "2026-04-08T15:38:00+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "Data Leakage Vulnerability Patched in OpenSSL",
             "link": "https://www.securityweek.com/data-leakage-vulnerability-patched-in-openssl/",
@@ -345,13 +394,6 @@
             "published_utc": "2026-04-08T14:30:27+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I tested the Suunto Spark earbuds for a month: Why air conduction audio is a winner",
-            "link": "https://www.zdnet.com/article/suunto-spark-review/",
-            "summary": "Suunto's new air conduction earbuds have replaced my bone conduction headphones during workouts, especially when I want a better audio experience.",
-            "published_utc": "2026-04-08T14:00:36+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Is a $30,000 GPU Good at Password Cracking?",
             "link": "https://www.bleepingcomputer.com/news/security/is-a-30-000-gpu-good-at-password-cracking/",
@@ -366,20 +408,6 @@
             "published_utc": "2026-04-08T13:32:53+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Sonos Play vs. Sonos Move 2: Why I'd go with the $200 cheaper Bluetooth speaker",
-            "link": "https://www.zdnet.com/article/sonos-play-vs-sonos-move-2/",
-            "summary": "Can't decide between the Sonos Play and Move 2? It's easy for me. One is far less expensive, has a 24-hour battery, and a IP67 rating.",
-            "published_utc": "2026-04-08T13:28:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Massachusetts Hospital Diverts Ambulances as Cyberattack Causes Disruption",
-            "link": "https://www.securityweek.com/massachusetts-hospital-diverts-ambulances-as-cyberattack-causes-disruption/",
-            "summary": "",
-            "published_utc": "2026-04-08T12:31:39+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Hackers exploit a critical Flowise flaw affecting thousands of AI workflows",
             "link": "https://www.csoonline.com/article/4155680/hackers-exploit-a-critical-flowise-flaw-affecting-thousands-of-ai-workflows.html",
@@ -392,13 +420,6 @@
             "link": "https://www.csoonline.com/article/4155665/iran%e2%80%91linked-plc-attacks-cause-real%e2%80%91world-disruption-at-critical-us-infra-sites.html",
             "summary": "",
             "published_utc": "2026-04-08T12:03:25+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Evasive Masjesu DDoS Botnet Targets IoT Devices",
-            "link": "https://www.securityweek.com/evasive-masjesu-ddos-botnet-targets-iot-devices/",
-            "summary": "",
-            "published_utc": "2026-04-08T11:49:44+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -539,13 +560,6 @@
             "link": "https://www.csoonline.com/article/4155177/5-practical-steps-to-strengthen-attack-resilience-with-attack-surface-management.html",
             "summary": "",
             "published_utc": "2026-04-07T19:04:02+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "5 steps to strengthen supply chain security and improve cyber resilience",
-            "link": "https://www.csoonline.com/article/4155175/5-steps-to-strengthen-supply-chain-security-and-improve-cyber-resilience.html",
-            "summary": "",
-            "published_utc": "2026-04-07T18:58:52+00:00"
         },
         {
             "source": "WIRED Security",
@@ -2758,20 +2772,6 @@
             "link": "https://www.infosecurity-magazine.com/news/fbi-takes-down-ramp-ransomware/",
             "summary": "The dark web forum administrator confirmed the takedown and said they had “no plans to rebuild”",
             "published_utc": "2026-01-29T13:05:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Ransomware Victim Numbers Rise, Despite Drop in Active Extortion Groups",
-            "link": "https://www.infosecurity-magazine.com/news/ransomware-numbers-rise-despite/",
-            "summary": "Ransomware victims surged in Q4 2025 despite fewer active extortion groups, with data leaks rising 50%, ReliaQuest researchers report",
-            "published_utc": "2026-01-29T13:01:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "US Data Breaches Hit Record High but Victim Numbers Decline",
-            "link": "https://www.infosecurity-magazine.com/news/us-data-breaches-record-high/",
-            "summary": "Non-profit ITRC says the number of data breaches increased 5% annually to reach a record total in 2025",
-            "published_utc": "2026-01-29T12:45:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
