@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2026-04-09T09:10:09.587128+00:00",
+    "lastUpdatedUTC": "2026-04-09T11:00:29.926132+00:00",
     "articles": [
+        {
+            "source": "Schneier",
+            "title": "On Microsoft’s Lousy Cloud Security",
+            "link": "https://www.schneier.com/blog/archives/2026/04/on-microsofts-lousy-cloud-security.html",
+            "summary": "",
+            "published_utc": "2026-04-09T10:51:36+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Eurail says December data breach impacts 300,000 individuals",
+            "link": "https://www.bleepingcomputer.com/news/security/eurail-says-december-data-breach-impacts-300-000-individuals/",
+            "summary": "Eurail B.V., a European travel operator that provides digital passes covering 33 national railways, says attackers stole the personal information of o...",
+            "published_utc": "2026-04-09T10:31:54+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Governance Gaps Emerge as AI Agents Drive 76% Increase in NHIs",
+            "link": "https://www.infosecurity-magazine.com/news/governance-gaps-agents-76-increase/",
+            "summary": "SANS Institute reveals that AI agents are behind a 76% surge in non-human identities",
+            "published_utc": "2026-04-09T10:00:00+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "Politicians Are Spending More Money on Security as They Increasingly Become Targets",
+            "link": "https://www.wired.com/story/political-campaign-security-spending/",
+            "summary": "Political candidates are purchasing more home alarms, bulletproof vests, and other protections amid rising fears of political violence.",
+            "published_utc": "2026-04-09T10:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Google Warns of New Campaign Targeting BPOs to Steal Corporate Data",
+            "link": "https://www.securityweek.com/google-warns-of-new-campaign-targeting-bpos-to-steal-corporate-data/",
+            "summary": "",
+            "published_utc": "2026-04-09T09:44:56+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers exploiting Acrobat Reader zero-day flaw since December",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-exploiting-acrobat-reader-zero-day-flaw-since-december/",
+            "summary": "Attackers have been exploiting a zero-day vulnerability in Adobe Reader using maliciously crafted PDF documents since at least December. [...]",
+            "published_utc": "2026-04-09T09:22:35+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "Patch windows collapse as time-to-exploit accelerates",
@@ -28,6 +70,13 @@
             "link": "https://www.securityweek.com/adobe-reader-zero-day-exploited-for-months-researcher/",
             "summary": "",
             "published_utc": "2026-04-09T08:44:51+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Google Warns of New Threat Group Targeting BPOs and Helpdesks",
+            "link": "https://www.infosecurity-magazine.com/news/google-warns-group-targeting-bpos/",
+            "summary": "Google’s threat intel team warns UNC6783, a new extortion group possibly linked to the “Raccoon” persona, is targeting BPOs and enterprises",
+            "published_utc": "2026-04-09T08:35:00+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -359,13 +408,6 @@
             "published_utc": "2026-04-08T11:30:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Hackers Targeting Ninja Forms Vulnerability That Exposes WordPress Sites to Takeover",
-            "link": "https://www.securityweek.com/hackers-targeting-critical-ninja-forms-bug-that-exposes-wordpress-sites-to-takeover/",
-            "summary": "",
-            "published_utc": "2026-04-08T11:20:23+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "LLM-generated passwords are indefensible. Your codebase may already prove it",
             "link": "https://www.csoonline.com/article/4155166/llm-generated-passwords-are-indefensible-your-codebase-may-already-prove-it.html",
@@ -532,20 +574,6 @@
             "link": "https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/",
             "summary": "Hackers linked to Russia's military intelligence units are using known flaws in older Internet routers to mass harvest authentication tokens from Micr...",
             "published_utc": "2026-04-07T17:02:44+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Max severity Flowise RCE vulnerability now exploited in attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/max-severity-flowise-rce-vulnerability-now-exploited-in-attacks/",
-            "summary": "Hackers are exploiting a maximum-severity vulnerability, tracked as CVE-2025-59528, in the open-source platform Flowise for building custom LLM apps a...",
-            "published_utc": "2026-04-07T17:02:05+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Authorities disrupt router DNS hijacks used to steal Microsoft 365 logins",
-            "link": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-dns-hijacks-used-to-steal-microsoft-365-logins/",
-            "summary": "An international operation from law enforcement authorities in partnership with private companies has disrupted FrostArmada, an APT28 campaign hijacki...",
-            "published_utc": "2026-04-07T15:51:22+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -756,13 +784,6 @@
             "link": "https://www.infosecurity-magazine.com/news/most-cni-firms-5m-downtime-ot/",
             "summary": "E2e-assure says 80% of critical infrastructure providers could face millions in downtime from cyber-attacks",
             "published_utc": "2026-04-02T08:30:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Is “Hackback” Official US Cybersecurity Strategy?",
-            "link": "https://www.schneier.com/blog/archives/2026/04/is-hackback-official-us-cybersecurity-strategy.html",
-            "summary": "",
-            "published_utc": "2026-04-01T16:57:35+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1386,13 +1407,6 @@
             "link": "https://www.infosecurity-magazine.com/news/crypto-scam-shieldguard-dismantled/",
             "summary": "ShieldGuard Chrome extension posed as a crypto security tool but stole wallets and drained user data",
             "published_utc": "2026-03-18T14:15:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "Hundreds of Millions of iPhones Can Be Hacked With a New Tool Found in the Wild",
-            "link": "https://www.wired.com/story/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/",
-            "summary": "A powerful iPhone-hacking technique known as DarkSword has been discovered in use by Russian hackers. It can take over devices running iOS 18 that sim...",
-            "published_utc": "2026-03-18T14:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2758,20 +2772,6 @@
             "link": "https://www.infosecurity-magazine.com/news/us-data-breaches-record-high/",
             "summary": "Non-profit ITRC says the number of data breaches increased 5% annually to reach a record total in 2025",
             "published_utc": "2026-01-29T12:45:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Number of Cybersecurity Pros Surges 194% in Four Years",
-            "link": "https://www.infosecurity-magazine.com/news/number-cybersecurity-pros-surges/",
-            "summary": "Cybersecurity is now the fifth fastest-growing occupation in the UK, says Socura",
-            "published_utc": "2026-01-29T09:45:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Cybersecurity Teams Embrace AI, Just Not at the Scale Marketing Suggests",
-            "link": "https://www.infosecurity-magazine.com/news/cybersecurity-teams-embrace-ai/",
-            "summary": "Despite the seemingly widespread adoption of AI for security operations, security leaders primarily use it for “relatively basic use cases,” said a Su...",
-            "published_utc": "2026-01-29T09:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
