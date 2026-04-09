@@ -1,6 +1,13 @@
 {
-    "lastUpdatedUTC": "2026-04-09T02:30:28.185633+00:00",
+    "lastUpdatedUTC": "2026-04-09T05:11:35.480542+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "So geht Post-Incident Review",
+            "link": "https://www.csoonline.com/article/4013155/so-geht-post-incident-review.html",
+            "summary": "",
+            "published_utc": "2026-04-09T03:35:00+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Shaky Ceasefire Unlikely to Stop Cyberattacks From Iran-Linked Hackers for Long",
@@ -191,8 +198,15 @@
             "published_utc": "2026-04-08T16:42:07+00:00"
         },
         {
+            "source": "InfosecurityMag",
+            "title": "Google API Keys Quietly Gain Access to Gemini on Android Devices",
+            "link": "https://www.infosecurity-magazine.com/news/google-api-keys-access-gemini/",
+            "summary": "Google API key flaw exposes mobile apps to Gemini AI access, private files and billing risks",
+            "published_utc": "2026-04-08T16:00:00+00:00"
+        },
+        {
             "source": "CSO Online",
-            "title": "Yael Nardi joins Minimus as Chief Business Officer to drive hyper-growth",
+            "title": "Yael Nardi joins Minimus as Chief Business Officer to drive  hyper-growth",
             "link": "https://www.csoonline.com/article/4155832/yael-nardi-joins-minimus-as-chief-business-officer-to-drive-hyper-growth.html",
             "summary": "",
             "published_utc": "2026-04-08T15:44:53+00:00"
@@ -210,6 +224,13 @@
             "link": "https://www.securityweek.com/data-leakage-vulnerability-patched-in-openssl/",
             "summary": "",
             "published_utc": "2026-04-08T15:37:48+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Critical Vulnerability in Ninja Forms Exposes WordPress Sites",
+            "link": "https://www.infosecurity-magazine.com/news/flaw-ninja-forms-wordpress/",
+            "summary": "Ninja Forms File Upload RCE via unauthenticated arbitrary file upload; update to 3.3.27 immediately",
+            "published_utc": "2026-04-08T15:10:00+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -546,13 +567,6 @@
             "link": "https://www.infosecurity-magazine.com/news/17bn-lost-to-cyber-fraud-warns-fbi/",
             "summary": "Cryptocurrency scams alone cost victims over $7 billion, while AI-enabled fraud threats are on the rise, says FBI",
             "published_utc": "2026-04-07T12:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Microsoft says Medusa-linked Storm-1175 is speeding ransomware attacks",
-            "link": "https://www.csoonline.com/article/4154934/microsoft-says-medusa-linked-storm-1175-is-speeding-ransomware-attacks.html",
-            "summary": "",
-            "published_utc": "2026-04-07T10:48:40+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2758,20 +2772,6 @@
             "link": "https://www.infosecurity-magazine.com/news/cybersecurity-teams-embrace-ai/",
             "summary": "Despite the seemingly widespread adoption of AI for security operations, security leaders primarily use it for “relatively basic use cases,” said a Su...",
             "published_utc": "2026-01-29T09:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Autonomous System Uncovers Long-Standing OpenSSL Flaws",
-            "link": "https://www.infosecurity-magazine.com/news/12-openssl-flaws/",
-            "summary": "A recent update has fixed 12 vulnerabilities in OpenSSL, some existing in the codebase for years",
-            "published_utc": "2026-01-28T16:45:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Critical and High Severity n8n Sandbox Flaws Allow RCE",
-            "link": "https://www.infosecurity-magazine.com/news/n8n-sandbox-flaws-allow-rce/",
-            "summary": "Two critical security flaws in n8n have exposed sandboxing vulnerabilities, enabling remote code execution for attackers",
-            "published_utc": "2026-01-28T16:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
