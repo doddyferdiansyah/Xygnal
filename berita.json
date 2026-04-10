@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-04-10T15:55:31.177475+00:00",
+    "lastUpdatedUTC": "2026-04-10T16:54:13.808023+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "YouTube Premium's price goes up to $15.99 in June - but you can save $32 with one change",
+            "link": "https://www.zdnet.com/article/youtube-premium-price-increase/",
+            "summary": "Depending on your plan, you'll have to shell out an extra $2 to $4 each month.",
+            "published_utc": "2026-04-10T16:48:50+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Your router may be vulnerable to Russian hackers, FBI warns: 5 steps to take now",
+            "link": "https://www.zdnet.com/article/router-vulnerable-russian-hackers-fbi-warning/",
+            "summary": "The FBI and NSA warn that Russian hackers are exploiting vulnerable routers, but there are ways you can take to protect yourself.",
+            "published_utc": "2026-04-10T16:41:14+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I walked 3,000 steps with my Apple Watch, Google Pixel, and Oura Ring - this tracker was most accurate",
+            "link": "https://www.zdnet.com/article/step-tracking-apple-google-oura-health-trackers-accuracy/",
+            "summary": "Just how accurate is that smartwatch or smart ring? I tested three health trackers' step counters to find out.",
+            "published_utc": "2026-04-10T16:29:00+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Nearly 4,000 US industrial devices exposed to Iranian cyberattacks",
@@ -59,7 +80,7 @@
         },
         {
             "source": "BleepingComputer",
-            "title": "Supply chain attack at CPUID pushes malware with CPU-Z/HWMonitor",
+            "title": "CPUID hacked to deliver malware via CPU-Z, HWMonitor downloads",
             "link": "https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/",
             "summary": "Hackers gained access to an API for the CPUID project and changed the download links on the official website to serve malicious executables for the po...",
             "published_utc": "2026-04-10T13:12:42+00:00"
@@ -331,13 +352,6 @@
             "published_utc": "2026-04-09T14:55:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "How I find free books for my Kindle in 2026 - that I actually want to read",
-            "link": "https://www.zdnet.com/article/how-to-get-free-books-on-kindle/",
-            "summary": "Amidst ebook price hikes, here's how I'm building my library of free ebooks on my Kindle - and you can, too.",
-            "published_utc": "2026-04-09T14:18:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "When attackers already have the keys, MFA is just another door to open",
             "link": "https://www.bleepingcomputer.com/news/security/when-attackers-already-have-the-keys-mfa-is-just-another-door-to-open/",
@@ -350,13 +364,6 @@
             "link": "https://www.infosecurity-magazine.com/news/bitcoin-depot-dollar36m-crypto/",
             "summary": "Bitcoin Depot has disclosed a cyber-attack that led to the theft of more than 50 Bitcoin, worth $3.66m, after hackers accessed its internal systems",
             "published_utc": "2026-04-09T14:01:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How I cut my power bill with IFTTT automation - in 4 simple steps",
-            "link": "https://www.zdnet.com/article/how-to-use-smart-thermostat-to-get-ahead-of-temperature-spikes/",
-            "summary": "I sync my smart thermostat with off-peak hour rates to reduce electricity costs. It's not as complicated as it sounds.",
-            "published_utc": "2026-04-09T13:53:00+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -3493,13 +3500,6 @@
             "link": "https://threatpost.com/reservation-links-prey-on-travelers/180462/",
             "summary": "Fake travel reservations are exacting more pain from the travel weary, already dealing with the misery of canceled flights and overbooked hotels.",
             "published_utc": "2022-08-22T13:59:06+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "iPhone Users Urged to Update to Patch 2 Zero-Days",
-            "link": "https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/",
-            "summary": "Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack.",
-            "published_utc": "2022-08-19T15:25:56+00:00"
         }
     ]
 }
