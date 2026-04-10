@@ -1,12 +1,61 @@
 {
-    "lastUpdatedUTC": "2026-04-10T11:51:56.161389+00:00",
+    "lastUpdatedUTC": "2026-04-10T13:15:11.687198+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Supply chain attack at CPUID pushes malware with CPU-Z/HWMonitor",
+            "link": "https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/",
+            "summary": "Hackers gained access to an API for the CPUID project and changed the download links on the official website to serve malicious executables for the po...",
+            "published_utc": "2026-04-10T13:12:42+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Industry Reactions to Iran Hacking ICS in Critical Infrastructure: Feedback Friday",
+            "link": "https://www.securityweek.com/industry-reactions-to-iran-hacking-ics-in-critical-infrastructure-feedback-friday/",
+            "summary": "",
+            "published_utc": "2026-04-10T12:41:08+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "AirDrop is coming to older Samsung phones - is yours supported? How to get it early",
+            "link": "https://www.zdnet.com/article/samsung-adopting-airdrop-compatibility/",
+            "summary": "The latest OneUI 8.5 beta lets Samsung phones, including the Galaxy S24 and S25, share files with Apple devices.",
+            "published_utc": "2026-04-10T12:36:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Just Three Ransomware Gangs Accounted for 40% of Attacks Last Month",
+            "link": "https://www.infosecurity-magazine.com/news/three-ransomware-gangs-40-percent/",
+            "summary": "Qilin, Akira and Dragonforce were responsible for 40% of 672 ransomware incidents reported in March, says Check Point",
+            "published_utc": "2026-04-10T12:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft: Canadian employees targeted in payroll pirate attacks",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-canadian-employees-targeted-in-payroll-pirate-attacks/",
+            "summary": "A financially motivated threat actor tracked as Storm-2755 is stealing Canadian employees' salary payments after hijacking their accounts in payroll p...",
+            "published_utc": "2026-04-10T11:56:14+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Orthanc DICOM Vulnerabilities Lead to Crashes, RCE",
+            "link": "https://www.securityweek.com/orthanc-dicom-vulnerabilities-lead-to-crashes-rce/",
+            "summary": "",
+            "published_utc": "2026-04-10T11:53:45+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "Claude uncovers a 13‑year‑old ActiveMQ RCE bug within minutes",
             "link": "https://www.csoonline.com/article/4157146/claude-uncovers-a-13%e2%80%91year%e2%80%91old-activemq-rce-bug-within-minutes.html",
             "summary": "",
             "published_utc": "2026-04-10T11:39:26+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Google Chrome Rolls Out Protection Against Infostealers Targeting Session Cookies",
+            "link": "https://www.infosecurity-magazine.com/news/google-chrome-protection/",
+            "summary": "Chrome’s Device Bound Session Credentials is designed to block infostealers from harvesting session cookie",
+            "published_utc": "2026-04-10T11:25:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -282,13 +331,6 @@
             "published_utc": "2026-04-09T13:18:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "My top 5 Linux desktops of 2026 (so far) - and I've tried them all",
-            "link": "https://www.zdnet.com/article/top-linux-desktops-2026/",
-            "summary": "I've spent decades testing nearly every Linux desktop. Which one should you try today? I've narrowed your options down to five.",
-            "published_utc": "2026-04-09T12:36:19+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Weak at the seams",
             "link": "https://www.csoonline.com/article/4156510/weak-at-the-seams-2.html",
@@ -310,13 +352,6 @@
             "published_utc": "2026-04-09T12:20:28+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Palo Alto Networks, SonicWall Patch High-Severity Vulnerabilities",
-            "link": "https://www.securityweek.com/palo-alto-networks-sonicwall-patch-high-severity-vulnerabilities/",
-            "summary": "",
-            "published_utc": "2026-04-09T11:58:52+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "New ClickFix variant bypasses Apple safeguards with one‑click script execution",
             "link": "https://www.csoonline.com/article/4156500/new-clickfix-variant-bypasses-apple-safeguards-with-one%e2%80%91click-script-execution.html",
@@ -329,13 +364,6 @@
             "link": "https://www.infosecurity-magazine.com/news/atomic-stealer-macos-clickfix/",
             "summary": "macOS 26.4 update introduced security warnings into Terminal to prevent ClickFix attacks, so attackers have shifted to Script Editor instead",
             "published_utc": "2026-04-09T11:20:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "The Hidden ROI of Visibility: Better Decisions, Better Behavior, Better Security",
-            "link": "https://www.securityweek.com/the-hidden-roi-of-visibility-better-decisions-better-behavior-better-security/",
-            "summary": "",
-            "published_utc": "2026-04-09T11:00:00+00:00"
         },
         {
             "source": "Schneier",
@@ -427,20 +455,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/hackers-use-pixel-large-svg-trick-to-hide-credit-card-stealer/",
             "summary": "A massive campaign impacting nearly 100 online stores using the Magento e-commerce platform hides credit card-stealing code in a pixel-sized Scalable ...",
             "published_utc": "2026-04-08T22:34:26+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Google: New UNC6783 hackers steal corporate Zendesk support tickets",
-            "link": "https://www.bleepingcomputer.com/news/security/google-new-unc6783-hackers-steal-corporate-zendesk-support-tickets/",
-            "summary": "A threat actor tracked as UNC6783 is compromising business process outsourcing (BPO) providers to gain access to high-value companies across multiple ...",
-            "published_utc": "2026-04-08T21:46:27+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "New macOS stealer campaign uses Script Editor in ClickFix attack",
-            "link": "https://www.bleepingcomputer.com/news/security/new-macos-stealer-campaign-uses-script-editor-in-clickfix-attack/",
-            "summary": "A new campaign delivering the Atomic Stealer malware to macOS users abuses the Script Editor in a variation of the ClickFix attack that tricked users ...",
-            "published_utc": "2026-04-08T18:55:43+00:00"
         },
         {
             "source": "WIRED Security",
@@ -2730,20 +2744,6 @@
             "link": "https://www.infosecurity-magazine.com/news/google-disrupts-proxy-networks/",
             "summary": "Google has taken coordinated action against the massive IPIDEA residential proxy network, enhancing customer protections and disrupting cybercrime ope...",
             "published_utc": "2026-01-29T17:15:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Operation Winter SHIELD: FBI Issues Call to Arms for Organizations to Improve Cybersecurity",
-            "link": "https://www.infosecurity-magazine.com/news/fbi-operation-winter-shield-cyber/",
-            "summary": "The FBI outlines ten actions which organizations can take to defend networks against cybercriminal and nation-state threats",
-            "published_utc": "2026-01-29T16:50:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "France Fines National Employment Agency €5m Over 2024 Data Breach",
-            "link": "https://www.infosecurity-magazine.com/news/france-finesemployment-agency-5m/",
-            "summary": "The French data protection regulator said that France Travail’s response to a 2024 data breach violated GDPR",
-            "published_utc": "2026-01-29T16:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
