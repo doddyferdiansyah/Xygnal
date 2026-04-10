@@ -1,6 +1,55 @@
 {
-    "lastUpdatedUTC": "2026-04-10T13:15:11.687198+00:00",
+    "lastUpdatedUTC": "2026-04-10T14:50:12.562902+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "In Other News: Cyberattack Stings Stryker, Windows Zero-Day, China Supercomputer Hack",
+            "link": "https://www.securityweek.com/in-other-news-cyberattack-stings-stryker-windows-zero-day-china-supercomputer-hack/",
+            "summary": "",
+            "published_utc": "2026-04-10T14:44:53+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Hacker Unknown now known, named on Europol’s most-wanted list",
+            "link": "https://www.csoonline.com/article/4157283/hacker-unknown-now-known-named-on-europols-most-wanted-list.html",
+            "summary": "",
+            "published_utc": "2026-04-10T14:42:26+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How I check, test, and charge my AA and AAA batteries - and sift out defective ones",
+            "link": "https://www.zdnet.com/article/olight-ostation-2-aa-battery-charger-review/",
+            "summary": "I've been a fan of Olight flashlights for many years. Now I'm a fan of its new pro-grade battery charger. Here's why.",
+            "published_utc": "2026-04-10T14:33:17+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Analysis of one billion CISA KEV remediation records exposes limits of human-scale security",
+            "link": "https://www.bleepingcomputer.com/news/security/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-scale-security/",
+            "summary": "Analysis of 1 billion CISA KEV remediation records reveal a breaking point for human-scale security. Qualys shows most critical flaws are exploited be...",
+            "published_utc": "2026-04-10T14:01:11+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "My favorite Android Auto find is these hidden shortcuts that are highly customizable",
+            "link": "https://www.zdnet.com/article/android-auto-custom-assistant-shortcuts-feature-tips/",
+            "summary": "Android Auto's best-kept secret lets you set custom assistant toggles that only take a minute to set up.",
+            "published_utc": "2026-04-10T14:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Juniper Networks Patches Dozens of Junos OS Vulnerabilities",
+            "link": "https://www.securityweek.com/juniper-networks-patches-dozens-of-junos-os-vulnerabilities/",
+            "summary": "",
+            "published_utc": "2026-04-10T13:44:17+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Hungarian government email passwords exposed ahead of election",
+            "link": "https://www.csoonline.com/article/4157215/hungarian-government-email-passwords-exposed-ahead-of-election.html",
+            "summary": "",
+            "published_utc": "2026-04-10T13:14:42+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Supply chain attack at CPUID pushes malware with CPU-Z/HWMonitor",
@@ -303,13 +352,6 @@
             "published_utc": "2026-04-09T13:53:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Is Modern Standby draining your Windows laptop battery overnight? Shut it down - here's why",
-            "link": "https://www.zdnet.com/article/sleep-vs-hibernate-does-modern-standby-save-battery-on-windows/",
-            "summary": "Putting your computer to sleep isn't always the best way to preserve its battery.",
-            "published_utc": "2026-04-09T13:45:00+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "Apple Intelligence AI Guardrails Bypassed in New Attack",
             "link": "https://www.securityweek.com/apple-intelligence-ai-guardrails-bypassed-in-new-attack/",
@@ -317,32 +359,11 @@
             "published_utc": "2026-04-09T13:43:07+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Can We Trust AI? No – But Eventually We Must",
-            "link": "https://www.securityweek.com/can-we-trust-ai-no-but-eventually-we-must/",
-            "summary": "",
-            "published_utc": "2026-04-09T13:30:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How to share your Kindle books with anyone (and the limits to know) - it's easy",
-            "link": "https://www.zdnet.com/article/how-to-loan-a-kindle-book/",
-            "summary": "Amazon lets you loan Kindle books with friends and family for a couple weeks at a time. Here's how it works.",
-            "published_utc": "2026-04-09T13:18:00+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Weak at the seams",
             "link": "https://www.csoonline.com/article/4156510/weak-at-the-seams-2.html",
             "summary": "",
             "published_utc": "2026-04-09T12:28:57+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Google API Keys in Android Apps Expose Gemini Endpoints to Unauthorized Access",
-            "link": "https://www.securityweek.com/google-api-keys-in-android-apps-expose-gemini-endpoints-to-unauthorized-access/",
-            "summary": "",
-            "published_utc": "2026-04-09T12:26:50+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -450,13 +471,6 @@
             "published_utc": "2026-04-09T01:01:13+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Hackers use pixel-large SVG trick to hide credit card stealer",
-            "link": "https://www.bleepingcomputer.com/news/security/hackers-use-pixel-large-svg-trick-to-hide-credit-card-stealer/",
-            "summary": "A massive campaign impacting nearly 100 online stores using the Magento e-commerce platform hides credit card-stealing code in a pixel-sized Scalable ...",
-            "published_utc": "2026-04-08T22:34:26+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "‘We Were Not Ready for This’: Lebanon's Emergency System Is Hanging by a Thread",
             "link": "https://www.wired.com/story/we-were-not-ready-for-this-lebanons-emergency-system-is-hanging-by-a-thread/",
@@ -513,25 +527,11 @@
             "published_utc": "2026-04-08T12:24:30+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Iran‑linked PLC attacks cause real‑world disruption at critical US infra sites",
-            "link": "https://www.csoonline.com/article/4155665/iran%e2%80%91linked-plc-attacks-cause-real%e2%80%91world-disruption-at-critical-us-infra-sites.html",
-            "summary": "",
-            "published_utc": "2026-04-08T12:03:25+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Anthropic Launches Project Glasswing to Use AI to Find and Fix Critical Software Vulnerabilities",
             "link": "https://www.infosecurity-magazine.com/news/anthropic-launch-project-glasswing/",
             "summary": "Anthropic launches Project Glasswing, using its Claude Mythos Preview AI to autonomously identify and fix undiscovered vulnerabilities in critical sof...",
             "published_utc": "2026-04-08T11:30:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "LLM-generated passwords are indefensible. Your codebase may already prove it",
-            "link": "https://www.csoonline.com/article/4155166/llm-generated-passwords-are-indefensible-your-codebase-may-already-prove-it.html",
-            "summary": "",
-            "published_utc": "2026-04-08T11:00:00+00:00"
         },
         {
             "source": "Schneier",
