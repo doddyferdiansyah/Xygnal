@@ -1,6 +1,34 @@
 {
-    "lastUpdatedUTC": "2026-04-10T07:44:43.379398+00:00",
+    "lastUpdatedUTC": "2026-04-10T09:12:28.422240+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "The cyber winners and losers in Trump’s 2027 budget",
+            "link": "https://www.csoonline.com/article/4156978/the-cyber-winners-and-losers-in-trumps-2027-budget.html",
+            "summary": "",
+            "published_utc": "2026-04-10T09:01:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The best HP laptops of 2026: Expert tested and reviewed",
+            "link": "https://www.zdnet.com/article/best-hp-laptops/",
+            "summary": "We've tested the best HP laptops, from ultraportables to the big screen options. These are our favorites in 2026.",
+            "published_utc": "2026-04-10T09:00:59+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "CMMC compliance in the age of AI",
+            "link": "https://www.csoonline.com/article/4156798/cmmc-compliance-in-the-age-of-ai.html",
+            "summary": "",
+            "published_utc": "2026-04-10T09:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Google Rolls Out Cookie Theft Protections in Chrome",
+            "link": "https://www.securityweek.com/google-rolls-out-cookie-theft-protections-in-chrome/",
+            "summary": "",
+            "published_utc": "2026-04-10T07:50:00+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Microsoft Finds Vulnerability Exposing Millions of Android Crypto Wallet Users",
@@ -133,13 +161,6 @@
             "link": "https://www.zdnet.com/article/best-android-tablet/",
             "summary": "There's more to tablets than iPads. ZDNET tested our favorite Android tablets from Samsung, TCL, and others.",
             "published_utc": "2026-04-09T14:55:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The best dedicated web hosting of 2026: Expert tested and reviewed",
-            "link": "https://www.zdnet.com/article/best-dedicated-web-hosting/",
-            "summary": "Discover my picks for the top dedicated web hosting providers, with detailed insights on performance, security, and reliability.",
-            "published_utc": "2026-04-09T14:45:57+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -338,13 +359,6 @@
             "published_utc": "2026-04-09T09:01:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "The best Hisense TVs of 2026: Expert tested and reviewed",
-            "link": "https://www.zdnet.com/article/best-hisense-tv/",
-            "summary": "Hisense has quickly become one of the more trusted names in mid-range TVs, and has recently started to offer truly premium-grade screens for high-end ...",
-            "published_utc": "2026-04-09T09:00:40+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "Adobe Reader Zero-Day Exploited for Months: Researcher",
             "link": "https://www.securityweek.com/adobe-reader-zero-day-exploited-for-months-researcher/",
@@ -378,13 +392,6 @@
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/",
             "summary": "Microsoft has suspended developer accounts used to maintain multiple high-profile open-source projects without proper notification and no way to quick...",
             "published_utc": "2026-04-09T06:46:26+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "$3.6 Million Stolen in Bitcoin Depot Hack",
-            "link": "https://www.securityweek.com/3-6-million-stolen-in-bitcoin-depot-hack/",
-            "summary": "",
-            "published_utc": "2026-04-09T06:41:40+00:00"
         },
         {
             "source": "CSO Online",
@@ -534,25 +541,11 @@
             "published_utc": "2026-04-08T10:00:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Microsoft’s new Agent Governance Toolkit targets top OWASP risks for AI agents",
-            "link": "https://www.csoonline.com/article/4155594/microsofts-new-agent-governance-toolkit-targets-top-owasp-risks-for-ai-agents-2.html",
-            "summary": "",
-            "published_utc": "2026-04-08T09:42:15+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Claude Discovers Apache ActiveMQ Bug Hidden for 13 Years",
             "link": "https://www.infosecurity-magazine.com/news/claude-apache-activemq-bug-hidden/",
             "summary": "Anthropic’s Claude AI has helped researchers find a vulnerability in Apache ActiveMQ Classic",
             "published_utc": "2026-04-08T09:15:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "The tabletop exercise grows up",
-            "link": "https://www.csoonline.com/article/4155146/the-tabletop-exercise-grows-up.html",
-            "summary": "",
-            "published_utc": "2026-04-08T09:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -3500,6 +3493,13 @@
             "link": "https://threatpost.com/twitter-whistleblower-tldr-version/180472/",
             "summary": "Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a n...",
             "published_utc": "2022-08-24T14:17:04+00:00"
+        },
+        {
+            "source": "Threatpost",
+            "title": "Firewall Bug Under Active Attack Triggers CISA Warning",
+            "link": "https://threatpost.com/firewall-bug-under-active-attack-cisa-warning/180467/",
+            "summary": "CISA is warning that Palo Alto Networks’ PAN-OS is under active attack and needs to be patched ASAP.",
+            "published_utc": "2022-08-23T13:19:58+00:00"
         }
     ]
 }
