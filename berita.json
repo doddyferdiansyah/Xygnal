@@ -1,6 +1,13 @@
 {
-    "lastUpdatedUTC": "2026-04-12T13:05:09.362904+00:00",
+    "lastUpdatedUTC": "2026-04-12T14:40:48.947624+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Critical Marimo pre-auth RCE flaw now under active exploitation",
+            "link": "https://www.bleepingcomputer.com/news/security/critical-marimo-pre-auth-rce-flaw-now-under-active-exploitation/",
+            "summary": "A critical pre-authentication remote code execution (RCE) vulnerability in Marimo is now under active exploitation, leveraged for credential theft. [...]",
+            "published_utc": "2026-04-12T14:20:31+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "30 years later, I returned to Enlightenment Linux to test the Elive beta - and it's much better",
@@ -490,13 +497,6 @@
             "link": "https://www.infosecurity-magazine.com/news/middle-east-hack-operation-bitter/",
             "summary": "A spear-phishing campaign which spread across the Middle East between 2023 and 2024 has now been linked to Bitter APT group",
             "published_utc": "2026-04-09T10:45:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Eurail says December data breach impacts 300,000 individuals",
-            "link": "https://www.bleepingcomputer.com/news/security/eurail-says-december-data-breach-impacts-300-000-individuals/",
-            "summary": "Eurail B.V., a European travel operator that provides digital passes covering 33 national railways, says attackers stole the personal information of o...",
-            "published_utc": "2026-04-09T10:31:54+00:00"
         },
         {
             "source": "InfosecurityMag",
