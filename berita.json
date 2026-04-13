@@ -1,12 +1,82 @@
 {
-    "lastUpdatedUTC": "2026-04-13T12:04:21.595983+00:00",
+    "lastUpdatedUTC": "2026-04-13T14:50:36.180783+00:00",
     "articles": [
         {
+            "source": "SecurityWeek",
+            "title": "Booking.com Says Hackers Accessed User Information",
+            "link": "https://www.securityweek.com/booking-com-says-hackers-accessed-user-information/",
+            "summary": "",
+            "published_utc": "2026-04-13T14:25:07+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "The silent “Storm”: New infostealer hijacks sessions, decrypts server-side",
+            "link": "https://www.bleepingcomputer.com/news/security/the-silent-storm-new-infostealer-hijacks-sessions-decrypts-server-side/",
+            "summary": "New \"Storm\" infostealer skips local decryption, sending browser data to attacker servers. Varonis shows how server-side decryption enables session hij...",
+            "published_utc": "2026-04-13T14:05:15+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "BrowserGate: Claims of LinkedIn ‘Spying’ Clash With Security Research Findings",
+            "link": "https://www.securityweek.com/browsergate-claims-of-linkedin-spying-clash-with-security-research-findings/",
+            "summary": "",
+            "published_utc": "2026-04-13T14:00:00+00:00"
+        },
+        {
             "source": "ZDNet Security",
-            "title": "I took 500 photos with the latest Samsung, Oppo, and Xiaomi phones - this one won the most",
+            "title": "I love AirTags, but this alternative slips right in my wallet and solves their biggest flaw",
+            "link": "https://www.zdnet.com/article/uag-metropolis-wallet-tracker-ios-android-review/",
+            "summary": "I carried the UAG Metropolis tracker loose in my back pocket for a week, and all that bending and flexing didn't faze it.",
+            "published_utc": "2026-04-13T13:59:48+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I camera-tested the Samsung Galaxy S26 Ultra with Oppo and Xiaomi - this model won it for me",
             "link": "https://www.zdnet.com/article/i-camera-tested-the-samsung-galaxy-s26-ultra-with-oppo-and-xiaomi/",
-            "summary": "Traveling overseas gave me the best opportunity to test the latest Android phone cameras. Here's who wins for me.",
-            "published_utc": "2026-04-13T12:03:00+00:00"
+            "summary": "Traveling overseas gave me the perfect opportunity to test the latest Android phone cameras. Here's who wins for me.",
+            "published_utc": "2026-04-13T13:57:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How I squeeze more power from my portable solar panels: 11 ways to get up to 30% extra",
+            "link": "https://www.zdnet.com/article/portable-solar-panels-how-to-get-more-power/",
+            "summary": "After years of testing portable solar panels, I've found that small adjustments to my setup can yield massive efficiency gains.",
+            "published_utc": "2026-04-13T13:35:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I see why Ubuntu 26.04 is more than just a performance bump for thrill-seeking gamers",
+            "link": "https://www.zdnet.com/article/ubuntu-26-04-performance/",
+            "summary": "I'm impressed with the latest release for its speed, replacement apps - and for what's missing.",
+            "published_utc": "2026-04-13T13:00:48+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Critical flaw in Marimo Python notebook exploited within 10 hours of disclosure",
+            "link": "https://www.csoonline.com/article/4157810/critical-flaw-in-marimo-python-notebook-exploited-within-10-hours-of-disclosure.html",
+            "summary": "",
+            "published_utc": "2026-04-13T12:34:45+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "OpenAI Impacted by North Korea-Linked Axios Supply Chain Hack",
+            "link": "https://www.securityweek.com/openai-impacted-by-north-korea-linked-axios-supply-chain-hack/",
+            "summary": "",
+            "published_utc": "2026-04-13T12:34:06+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "France is replacing 2.5 million Windows desktops with Linux - and I mapped out its new stack",
+            "link": "https://www.zdnet.com/article/france-leaves-windows-for-linux-desktop/",
+            "summary": "Officially, we don't know what France's forthcoming Linux desktop will look like, but this is what my sources and experience tell me to expect.",
+            "published_utc": "2026-04-13T12:23:57+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I bought an earwax camera for my toolkit and use it for everything but my ears",
+            "link": "https://www.zdnet.com/article/bebird-earsight-plus-d39r-earwax-removal-camera-review/",
+            "summary": "The Bebird Earsight Plus D39R earwax removal tool is a surprisingly powerful inspection camera, and a worthwhile investment.",
+            "published_utc": "2026-04-13T12:07:06+00:00"
         },
         {
             "source": "CSO Online",
@@ -35,6 +105,13 @@
             "link": "https://www.securityweek.com/cpuid-hacked-to-serve-trojanized-cpu-z-and-hwmonitor-downloads/",
             "summary": "",
             "published_utc": "2026-04-13T10:52:57+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "FBI Dismantles $20m Phishing Operation W3LL",
+            "link": "https://www.infosecurity-magazine.com/news/fbi-dismantles-phishing-operation/",
+            "summary": "The W3LL phishing kit has been associated with fraud attempts totaling $20m",
+            "published_utc": "2026-04-13T10:35:00+00:00"
         },
         {
             "source": "WIRED Security",
@@ -233,13 +310,6 @@
             "published_utc": "2026-04-10T19:50:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "This Ryobi yard essentials bundle packs a free power tool - how to get yours",
-            "link": "https://www.zdnet.com/article/ryobi-power-tool-bundle-deal-home-depot-spring-black-friday-2026/",
-            "summary": "Prep your lawn and garden with this Ryobi string trimmer and leaf blower bundle, plus choose an extra tool for absolutely free during Home Depot's sale.",
-            "published_utc": "2026-04-10T19:21:00+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Old Docker authorization bypass pops up despite previous patch",
             "link": "https://www.csoonline.com/article/4157405/old-docker-authorization-bypass-pops-up-despite-previous-patch.html",
@@ -247,39 +317,11 @@
             "published_utc": "2026-04-10T18:50:59+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I used this EcoFlow battery to run my 3,000-sq-ft home in a blackout - here's how it kept my AC on",
-            "link": "https://www.zdnet.com/article/ecoflow-delta-pro-ultra-x-review/",
-            "summary": "Many backup systems keep essentials online, but the EcoFlow Delta Pro Ulta X can run your house like normal without interruption.",
-            "published_utc": "2026-04-10T18:30:43+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "Anthropic’s Mythos Will Force a Cybersecurity Reckoning—Just Not the One You Think",
             "link": "https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/",
             "summary": "The new AI model is being heralded—and feared—as a hacker’s superweapon. Experts say its arrival is a wake-up call for developers who have long made s...",
             "published_utc": "2026-04-10T18:08:37+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Microsoft's Windows Insider Program is no longer a confusing mess",
-            "link": "https://www.zdnet.com/article/microsoft-windows-insider-program-simplified/",
-            "summary": "Did Microsoft finally fix its preview program for Windows 11? Here's what's changing - including one upgrade I didn't see coming.",
-            "published_utc": "2026-04-10T18:00:03+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Forget Shokz: I tried the Suunto Spark earbuds for a month, and they've sold me on air conduction",
-            "link": "https://www.zdnet.com/article/suunto-spark-review/",
-            "summary": "Suunto's new air-conduction earbuds have replaced my bone-conduction headphones during workouts - and they sound better, too.",
-            "published_utc": "2026-04-10T17:19:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "iOS 26.4 brings essential upgrades to your iPhone - including a vital security fix",
-            "link": "https://www.zdnet.com/article/apple-ios-26-4-new-features-siri/",
-            "summary": "But a new and improved Siri isn't coming until a few more months.",
-            "published_utc": "2026-04-10T17:04:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -331,13 +373,6 @@
             "published_utc": "2026-04-10T13:12:42+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Industry Reactions to Iran Hacking ICS in Critical Infrastructure: Feedback Friday",
-            "link": "https://www.securityweek.com/industry-reactions-to-iran-hacking-ics-in-critical-infrastructure-feedback-friday/",
-            "summary": "",
-            "published_utc": "2026-04-10T12:41:08+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Just Three Ransomware Gangs Accounted for 40% of Attacks Last Month",
             "link": "https://www.infosecurity-magazine.com/news/three-ransomware-gangs-40-percent/",
@@ -352,13 +387,6 @@
             "published_utc": "2026-04-10T11:56:14+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Orthanc DICOM Vulnerabilities Lead to Crashes, RCE",
-            "link": "https://www.securityweek.com/orthanc-dicom-vulnerabilities-lead-to-crashes-rce/",
-            "summary": "",
-            "published_utc": "2026-04-10T11:53:45+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Claude uncovers a 13‑year‑old ActiveMQ RCE bug within minutes",
             "link": "https://www.csoonline.com/article/4157146/claude-uncovers-a-13%e2%80%91year%e2%80%91old-activemq-rce-bug-within-minutes.html",
@@ -371,13 +399,6 @@
             "link": "https://www.infosecurity-magazine.com/news/google-chrome-protection/",
             "summary": "Chrome’s Device Bound Session Credentials is designed to block infostealers from harvesting session cookie",
             "published_utc": "2026-04-10T11:25:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Chrome 147 Patches 60 Vulnerabilities, Including Two Critical Flaws Worth $86,000",
-            "link": "https://www.securityweek.com/chrome-147-patches-60-vulnerabilities-including-two-critical-flaws-worth-86000/",
-            "summary": "",
-            "published_utc": "2026-04-10T10:44:45+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -506,13 +527,6 @@
             "published_utc": "2026-04-09T12:28:57+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Webinar: From noise to signal - What threat actors are targeting next",
-            "link": "https://www.bleepingcomputer.com/news/security/webinar-from-noise-to-signal-what-threat-actors-are-targeting-next/",
-            "summary": "Threat actors often signal their intentions before launching attacks, from dark web chatter to access-broker listings and credential requests. Join ou...",
-            "published_utc": "2026-04-09T12:20:28+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "New ClickFix variant bypasses Apple safeguards with one‑click script execution",
             "link": "https://www.csoonline.com/article/4156500/new-clickfix-variant-bypasses-apple-safeguards-with-one%e2%80%91click-script-execution.html",
@@ -574,13 +588,6 @@
             "link": "https://www.csoonline.com/article/4013155/so-geht-post-incident-review.html",
             "summary": "",
             "published_utc": "2026-04-09T03:35:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Questions raised about how LinkedIn uses the petabytes of data it collects",
-            "link": "https://www.csoonline.com/article/4156064/questions-raised-about-how-linkedin-uses-the-petabytes-of-data-it-collects.html",
-            "summary": "",
-            "published_utc": "2026-04-09T01:01:13+00:00"
         },
         {
             "source": "WIRED Security",
@@ -2751,13 +2758,6 @@
             "link": "https://www.infosecurity-magazine.com/news/labyrinth-chollima-dprk-three/",
             "summary": "CrowdStrike assessed that two new threat actor groups have spun off from North Korean Labyrinth Chollima hackers",
             "published_utc": "2026-01-30T15:40:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "New AI-Developed Malware Campaign Targets Iranian Protests",
-            "link": "https://www.infosecurity-magazine.com/news/ai-malware-redkitten-iranian/",
-            "summary": "The RedKitten campaign distributes lures designed to target people seeking information about missing persons or political dissidents in Iran",
-            "published_utc": "2026-01-30T11:55:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
