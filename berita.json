@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-04-13T16:14:41.791699+00:00",
+    "lastUpdatedUTC": "2026-04-13T18:03:11.999967+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "OpenAI rotates macOS certs after Axios attack hit code-signing workflow",
+            "link": "https://www.bleepingcomputer.com/news/security/openai-rotates-macos-certs-after-axios-attack-hit-code-signing-workflow/",
+            "summary": "OpenAI is rotating potentially exposed macOS code-signing certificates after a GitHub Actions workflow executed a malicious Axios package during a rec...",
+            "published_utc": "2026-04-13T17:39:10+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "New Booking.com data breach forces reservation PIN resets",
+            "link": "https://www.bleepingcomputer.com/news/security/new-bookingcom-data-breach-forces-reservation-pin-resets/",
+            "summary": "Booking.com has confirmed via a statement to BleepingComputer that it has detected unauthorized access to its systems that has exposed sensitive reser...",
+            "published_utc": "2026-04-13T17:30:10+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "On Anthropic’s Mythos Preview and Project Glasswing",
+            "link": "https://www.schneier.com/blog/archives/2026/04/on-anthropics-mythos-preview-and-project-glasswing.html",
+            "summary": "",
+            "published_utc": "2026-04-13T16:52:57+00:00"
+        },
         {
             "source": "WIRED Security",
             "title": "Meta Is Warned That Facial Recognition Glasses Will Arm Sexual Predators",
@@ -520,20 +541,6 @@
             "published_utc": "2026-04-09T18:43:46+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Google Chrome adds infostealer protection against session cookie theft",
-            "link": "https://www.bleepingcomputer.com/news/security/google-chrome-adds-infostealer-protection-against-session-cookie-theft/",
-            "summary": "Google has rolled out Device Bound Session Credentials (DBSC) protection in Chrome 146 for Windows, designed to block info-stealing malware from harve...",
-            "published_utc": "2026-04-09T18:33:29+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Smart Slider updates hijacked to push malicious WordPress, Joomla versions",
-            "link": "https://www.bleepingcomputer.com/news/security/smart-slider-updates-hijacked-to-push-malicious-wordpress-joomla-versions/",
-            "summary": "Hackers hijacked the update system for the Smart Slider 3 Pro plugin for WordPress and Joomla, and pushed a malicious version with multiple backdoors....",
-            "published_utc": "2026-04-09T16:15:26+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "STX RAT Targets Finance Sector With Advanced Stealth Tactics",
             "link": "https://www.infosecurity-magazine.com/news/stx-rat-targets-finance-sector/",
@@ -812,13 +819,6 @@
             "link": "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/",
             "summary": "Major AI labs are investigating a security incident that impacted Mercor, a leading data vendor. The incident could have exposed key data about how th...",
             "published_utc": "2026-04-03T21:28:14+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Friday Squid Blogging: Jurassic Fish Chokes on Squid",
-            "link": "https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-jurassic-fish-chokes-on-squid.html",
-            "summary": "",
-            "published_utc": "2026-04-03T21:07:06+00:00"
         },
         {
             "source": "WIRED Security",
