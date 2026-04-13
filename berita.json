@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2026-04-13T18:03:11.999967+00:00",
+    "lastUpdatedUTC": "2026-04-13T20:07:04.039153+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "'Job seekers have to be detectives': 3 signs that listing is a scam",
+            "link": "https://www.zdnet.com/article/job-scam-3-warning-signs-and-what-to-do/",
+            "summary": "In a tough job market, having a recruiter offer you a job might seem like a blessing - but make sure it's legit first.",
+            "published_utc": "2026-04-13T20:06:19+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Critical flaw in wolfSSL library enables forged certificate use",
+            "link": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-wolfssl-library-enables-forged-certificate-use/",
+            "summary": "A critical vulnerability in the wolfSSL SSL/TLS library can weaken security via improper verification of the hash algorithm or its size when checking ...",
+            "published_utc": "2026-04-13T19:56:03+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "FBI takedown of W3LL phishing service leads to developer arrest",
+            "link": "https://www.bleepingcomputer.com/news/security/fbi-takedown-of-w3ll-phishing-service-leads-to-developer-arrest/",
+            "summary": "The FBI Atlanta Field Office and Indonesian authorities have dismantled the \"W3LL\" global phishing platform, seizing infrastructure and arresting the ...",
+            "published_utc": "2026-04-13T18:55:50+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How the latest Netrunner distro delivers a Linux productivity powerhouse",
+            "link": "https://www.zdnet.com/article/new-netrunner-version-tweaked-kde-plasma-desktop/",
+            "summary": "Netrunner 23 is a perfect distribution for fans of the KDE Plasma desktop - and for just about anyone, really. Here's why.",
+            "published_utc": "2026-04-13T18:53:40+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "This Linux distro offers an easy DNS switcher - but there's more to it that I like",
+            "link": "https://www.zdnet.com/article/idealos-is-a-new-linux-distribution-geared-toward-daily-secure-use/",
+            "summary": "iDealOS is an MXLinux-based distribution that gives the normal Linux security a bit of a boost via DNS.",
+            "published_utc": "2026-04-13T18:21:36+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "OpenAI rotates macOS certs after Axios attack hit code-signing workflow",
@@ -111,7 +146,7 @@
             "title": "I see why Ubuntu 26.04 is more than just a performance bump for thrill-seeking gamers",
             "link": "https://www.zdnet.com/article/ubuntu-26-04-performance/",
             "summary": "I'm impressed with the latest release for its speed, replacement apps - and for what's missing.",
-            "published_utc": "2026-04-13T13:00:48+00:00"
+            "published_utc": "2026-04-13T13:00:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -132,7 +167,7 @@
             "title": "France is replacing 2.5 million Windows desktops with Linux - and I mapped out its new stack",
             "link": "https://www.zdnet.com/article/france-leaves-windows-for-linux-desktop/",
             "summary": "Officially, we don't know what France's forthcoming Linux desktop will look like, but this is what my sources and experience tell me to expect.",
-            "published_utc": "2026-04-13T12:23:57+00:00"
+            "published_utc": "2026-04-13T12:23:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -303,32 +338,11 @@
             "published_utc": "2026-04-12T07:45:26+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "After using Lenovo's new Yoga laptop, I'm wondering if Windows makers are running out of ideas",
-            "link": "https://www.zdnet.com/article/lenovo-yoga-7a-2-in-1-review/",
-            "summary": "Lenovo's Yoga 7a 2-in-1 is a versatile and well-built PC, though its mid-tier hardware makes it hard to recommend over rivals.",
-            "published_utc": "2026-04-12T01:00:49+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The $30 Google TV stick may be the budget Chromecast successor we've been waiting for",
-            "link": "https://www.zdnet.com/article/walmarts-4k-chromecast-replacement/",
-            "summary": "Walmart's next streaming device might be exactly what Chromecast fans have been longing for. Here's what's expected.",
-            "published_utc": "2026-04-12T00:00:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Over 20,000 crypto fraud victims identified in international crackdown",
             "link": "https://www.bleepingcomputer.com/news/security/police-identifies-20-000-victims-in-international-crypto-fraud-crackdown/",
             "summary": "An international law enforcement action led by the U.K.'s National Crime Agency (NCA) has identified over 20,000 victims of cryptocurrency fraud acros...",
             "published_utc": "2026-04-11T14:20:40+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I stopped guessing which AA batteries are dead - this charging station keeps them in check for me",
-            "link": "https://www.zdnet.com/article/olight-ostation-2-aa-battery-charger-review/",
-            "summary": "I've been a fan of Olight flashlights for many years. Now I'm a fan of its new Ostation 2 Pro battery charger. Here's why.",
-            "published_utc": "2026-04-11T12:00:42+00:00"
         },
         {
             "source": "WIRED Security",
@@ -518,20 +532,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/new-lucidrook-malware-used-in-targeted-attacks-on-ngos-universities/",
             "summary": "A new Lua-based malware, called LucidRook, is being used in spear-phishing campaigns targeting non-governmental organizations and universities in Taiw...",
             "published_utc": "2026-04-09T22:04:31+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "New VENOM phishing attacks steal senior executives' Microsoft logins",
-            "link": "https://www.bleepingcomputer.com/news/security/new-venom-phishing-attacks-steal-senior-executives-microsoft-logins/",
-            "summary": "Threat actors using a previously undocumented phishing-as-a-service (PhaaS) platform called \"VENOM\" are targeting credentials of C-suite executives ac...",
-            "published_utc": "2026-04-09T21:37:04+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Healthcare IT solutions provider ChipSoft hit by ransomware attack",
-            "link": "https://www.bleepingcomputer.com/news/security/healthcare-it-solutions-provider-chipsoft-hit-by-ransomware-attack/",
-            "summary": "Dutch healthcare software vendor ChipSoft has been impacted by a ransomware attack that forced the company to take offline its website and digital ser...",
-            "published_utc": "2026-04-09T19:46:44+00:00"
         },
         {
             "source": "CSO Online",
