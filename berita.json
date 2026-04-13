@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2026-04-13T14:50:36.180783+00:00",
+    "lastUpdatedUTC": "2026-04-13T16:14:41.791699+00:00",
     "articles": [
+        {
+            "source": "WIRED Security",
+            "title": "Meta Is Warned That Facial Recognition Glasses Will Arm Sexual Predators",
+            "link": "https://www.wired.com/story/meta-ray-ban-oakley-smart-glasses-no-face-recognition-civil-society/",
+            "summary": "More than 70 organizations, including the ACLU, EPIC, and Fight for the Future, say the AI smart glasses feature would endanger abuse victims, immigra...",
+            "published_utc": "2026-04-13T16:01:30+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Adobe rolls out emergency fix for Acrobat, Reader zero-day flaw",
+            "link": "https://www.bleepingcomputer.com/news/security/adobe-rolls-out-emergency-fix-for-acrobat-reader-zero-day-flaw/",
+            "summary": "Adobe has released an emergency security update for Acrobat Reader to fix a vulnerability, tracked as CVE-2026-34621, that has been exploited in zero-...",
+            "published_utc": "2026-04-13T15:37:05+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I tested Artix Linux: An enjoyable systemd-free distro for experienced users (and ChromeOS speeds)",
+            "link": "https://www.zdnet.com/article/artix-linux-distribution-review/",
+            "summary": "If you want a stable Linux distribution with a unique take, Artix is one of the fastest and most reliable I've tested.",
+            "published_utc": "2026-04-13T15:17:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Mailbox Rule Abuse Emerges as Stealthy Post-Compromise Threat",
+            "link": "https://www.infosecurity-magazine.com/news/mailbox-rule-abuse-stealthy-post/",
+            "summary": "Attackers are abusing Microsoft 365 mailbox rules to hide activity, exfiltrate data and retain access after account compromise, researchers warn",
+            "published_utc": "2026-04-13T15:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I spent two years testing wind power at home - here's why solar is still my preferred source",
+            "link": "https://www.zdnet.com/article/portable-wind-turbine-test-solar-backup-not-replacement/",
+            "summary": "My hands-on testing reveals the biggest caveats of using wind power, some of which are less obvious than others.",
+            "published_utc": "2026-04-13T14:54:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Mirax Android Trojan Turns Devices Into Residential Proxy Nodes",
+            "link": "https://www.infosecurity-magazine.com/news/mirax-trojan-devices-proxy-nodes/",
+            "summary": "Security researchers warn of Mirax, an emerging Android banking trojan using MaaS, remote access and residential proxies to target European users",
+            "published_utc": "2026-04-13T14:30:00+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Booking.com Says Hackers Accessed User Information",
@@ -303,13 +345,6 @@
             "published_utc": "2026-04-10T21:03:27+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "This handy electric screwdriver is now 50% off - here's where to snag the deal",
-            "link": "https://www.zdnet.com/article/fanttik-s1-pro-electric-screwdriver-deal/",
-            "summary": "Tackle small home repairs, DIY projects, and crafts with the Fanttik S1 Pro electric screwdriver.",
-            "published_utc": "2026-04-10T19:50:00+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Old Docker authorization bypass pops up despite previous patch",
             "link": "https://www.csoonline.com/article/4157405/old-docker-authorization-bypass-pops-up-despite-previous-patch.html",
@@ -504,13 +539,6 @@
             "link": "https://www.infosecurity-magazine.com/news/stx-rat-targets-finance-sector/",
             "summary": "STX RAT, a newly identified remote access trojan, attempted deployment in finance, showing advanced C2 and stealthy delivery methods",
             "published_utc": "2026-04-09T15:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "When attackers already have the keys, MFA is just another door to open",
-            "link": "https://www.bleepingcomputer.com/news/security/when-attackers-already-have-the-keys-mfa-is-just-another-door-to-open/",
-            "summary": "Stolen credentials turn authentication systems into the attack surface. Token shows how wearable biometric authentication verifies the user—not the se...",
-            "published_utc": "2026-04-09T14:02:12+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2746,20 +2774,6 @@
             "published_utc": "2026-02-02T10:00:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "Former Google Engineer Found Guilty of Stealing AI Secrets",
-            "link": "https://www.infosecurity-magazine.com/news/former-google-engineer-guilty/",
-            "summary": "Linwei Ding, a former Google engineer, has been found guilty of stealing trade secrets for China",
-            "published_utc": "2026-02-02T09:20:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Labyrinth Chollima Evolves into Three North Korean Hacking Groups",
-            "link": "https://www.infosecurity-magazine.com/news/labyrinth-chollima-dprk-three/",
-            "summary": "CrowdStrike assessed that two new threat actor groups have spun off from North Korean Labyrinth Chollima hackers",
-            "published_utc": "2026-01-30T15:40:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "DynoWiper update: Technical analysis and attribution",
             "link": "https://www.welivesecurity.com/en/eset-research/dynowiper-update-technical-analysis-attribution/",
@@ -2842,13 +2856,6 @@
             "link": "https://www.wired.com/story/5-features-that-boost-security-and-privacy-on-whatsapp/",
             "summary": "Meta’s end-to-end encrypted messaging app is used by billions of people. Here’s how to make sure you’re one of the most locked-down ones out there.",
             "published_utc": "2026-01-04T11:00:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "How to Protect Your iPhone or Android Device From Spyware",
-            "link": "https://www.wired.com/story/how-to-protect-your-iphone-or-android-device-from-spyware/",
-            "summary": "Being targeted by sophisticated spyware is relatively rare, but experts say that everyone needs to stay vigilant as this dangerous malware continues t...",
-            "published_utc": "2026-01-03T10:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
@@ -3493,13 +3500,6 @@
             "link": "https://threatpost.com/twitter-whistleblower-tldr-version/180472/",
             "summary": "Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a n...",
             "published_utc": "2022-08-24T14:17:04+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Firewall Bug Under Active Attack Triggers CISA Warning",
-            "link": "https://threatpost.com/firewall-bug-under-active-attack-cisa-warning/180467/",
-            "summary": "CISA is warning that Palo Alto Networks’ PAN-OS is under active attack and needs to be patched ASAP.",
-            "published_utc": "2022-08-23T13:19:58+00:00"
         }
     ]
 }
