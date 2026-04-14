@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2026-04-14T09:20:26.203967+00:00",
+    "lastUpdatedUTC": "2026-04-14T11:04:59.288037+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Triad Nexus Evades Sanctions to Fuel Cybercrime",
+            "link": "https://www.securityweek.com/triad-nexus-evades-sanctions-to-fuel-cybercrime/",
+            "summary": "",
+            "published_utc": "2026-04-14T10:53:32+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "How Hackers Are Thinking About AI",
+            "link": "https://www.schneier.com/blog/archives/2026/04/how-hackers-are-thinking-about-ai.html",
+            "summary": "",
+            "published_utc": "2026-04-14T10:49:50+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Google Adds Rust DNS Parser to Pixel Phones for Better Security",
+            "link": "https://www.securityweek.com/google-adds-rust-dns-parser-to-pixel-phones-for-better-security/",
+            "summary": "",
+            "published_utc": "2026-04-14T10:21:33+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Nightclub Giant RCI Hospitality Reports Data Breach",
+            "link": "https://www.securityweek.com/nightclub-giant-rci-hospitality-reports-data-breach/",
+            "summary": "",
+            "published_utc": "2026-04-14T09:35:06+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "AI Security Institute Advocates Security Best Practices After Mythos Test",
+            "link": "https://www.infosecurity-magazine.com/news/ai-security-institute-best/",
+            "summary": "The AISI has issued its judgement on Anthropic’s Mythos Preview model",
+            "published_utc": "2026-04-14T09:30:00+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "How AI is transforming threat detection",
@@ -324,13 +359,6 @@
             "published_utc": "2026-04-13T09:00:50+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Gmail Brings End-to-End Encryption to Android and iOS for Enterprise Users",
-            "link": "https://www.securityweek.com/gmail-brings-end-to-end-encryption-to-android-and-ios-for-enterprise-users/",
-            "summary": "",
-            "published_utc": "2026-04-13T08:31:33+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Operation Atlantic Seizes $12m in Crypto Losses",
             "link": "https://www.infosecurity-magazine.com/news/operation-atlantic-seizes-12m/",
@@ -378,13 +406,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/critical-marimo-pre-auth-rce-flaw-now-under-active-exploitation/",
             "summary": "A critical pre-authentication remote code execution (RCE) vulnerability in Marimo is now under active exploitation, leveraged for credential theft. [...]",
             "published_utc": "2026-04-12T14:20:31+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Adobe Patches Reader Zero-Day Exploited for Months",
-            "link": "https://www.securityweek.com/adobe-patches-reader-zero-day-exploited-for-months/",
-            "summary": "",
-            "published_utc": "2026-04-12T07:45:26+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -448,13 +469,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/nearly-4-000-us-industrial-devices-exposed-to-iranian-cyberattacks/",
             "summary": "The attack surface targeted by Iranian-linked hackers in cyberattacks against U.S. critical infrastructure networks includes thousands of Internet-exp...",
             "published_utc": "2026-04-10T15:52:45+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "In Other News: Cyberattack Stings Stryker, Windows Zero-Day, China Supercomputer Hack",
-            "link": "https://www.securityweek.com/in-other-news-cyberattack-stings-stryker-windows-zero-day-china-supercomputer-hack/",
-            "summary": "",
-            "published_utc": "2026-04-10T14:44:53+00:00"
         },
         {
             "source": "CSO Online",
@@ -791,13 +805,6 @@
             "link": "https://www.wired.com/story/us-border-patrol-challenge-coins-nonprofits/",
             "summary": "Nonprofits run out of US Border Patrol stations are also selling other “operation”-themed coins that include a phrase popularized by the Proud Boys, p...",
             "published_utc": "2026-04-06T18:16:27+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Google Wants to Transition to Post-Quantum Cryptography by 2029",
-            "link": "https://www.schneier.com/blog/archives/2026/04/google-wants-to-transition-to-post-quantum-cryptography-by-2029.html",
-            "summary": "",
-            "published_utc": "2026-04-06T10:52:32+00:00"
         },
         {
             "source": "KrebsOnSecurity",
@@ -2765,13 +2772,6 @@
             "link": "https://www.infosecurity-magazine.com/news/fancy-bear-exploits-office-flaw/",
             "summary": "Russia-linked hacking group Fancy Bear is exploiting a brand-new vulnerability in Microsoft Office, CERT-UA says",
             "published_utc": "2026-02-02T12:45:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Android RAT Uses Hugging Face to Host Malware",
-            "link": "https://www.infosecurity-magazine.com/news/android-rat-hugging-face-host/",
-            "summary": "Bitdefender has discovered a new Android malware campaign that uses Hugging Face",
-            "published_utc": "2026-02-02T10:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
