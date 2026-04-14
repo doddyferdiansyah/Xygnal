@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2026-04-14T11:04:59.288037+00:00",
+    "lastUpdatedUTC": "2026-04-14T13:44:35.747742+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "‘Mythos-Ready’ Security: CSA Urges CISOs to Prepare for Accelerated AI Threats",
+            "link": "https://www.securityweek.com/mythos-ready-security-csa-urges-cisos-to-prepare-for-accelerated-ai-threats/",
+            "summary": "",
+            "published_utc": "2026-04-14T12:53:55+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "After using these JBL headphones, I'm wondering if we're all too distracted by Sony and Bose",
+            "link": "https://www.zdnet.com/article/jbl-780-nc-review/",
+            "summary": "The JBL Live 780NC are a home run for midrange headphones, offering premium features in a sub-$300 package.",
+            "published_utc": "2026-04-14T12:50:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Europe’s Largest Gym Chain Says Data Breach Impacts 1 Million Members",
+            "link": "https://www.securityweek.com/europes-largest-gym-chain-says-data-breach-impacts-1-million-members/",
+            "summary": "",
+            "published_utc": "2026-04-14T12:43:30+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "China-linked cloud credential heist runs on typos and SMTP",
+            "link": "https://www.csoonline.com/article/4158396/china-linked-cloud-credential-heist-runs-on-typos-and-smtp.html",
+            "summary": "",
+            "published_utc": "2026-04-14T12:12:40+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "SAP Patches Critical ABAP Vulnerability",
+            "link": "https://www.securityweek.com/sap-patches-critical-abap-vulnerability/",
+            "summary": "",
+            "published_utc": "2026-04-14T11:21:12+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Triad Nexus Evades Sanctions to Fuel Cybercrime",
@@ -75,7 +110,7 @@
             "source": "ZDNet Security",
             "title": "I tested ChatGPT Plus vs. Gemini Pro to see which is better - and if it's worth switching",
             "link": "https://www.zdnet.com/article/chatgpt-plus-vs-gemini-pro/",
-            "summary": "Considering ditching ChatGPT Plus for Gemini Pro? I tested both on the same 10 tasks. Here's which came out on top.",
+            "summary": "Considering ditching ChatGPT Plus for Gemini Pro? I tested both on the same 10 tasks. Here's which AI came out on top.",
             "published_utc": "2026-04-14T02:00:00+00:00"
         },
         {
@@ -97,7 +132,7 @@
             "title": "The new rules for AI-assisted code in the Linux kernel: What every dev needs to know",
             "link": "https://www.zdnet.com/article/linus-torvalds-and-maintainers-finalize-ai-policy-for-linux-kernel-developers/",
             "summary": "Linus Torvalds and maintainers just finalized the Linux kernel's new AI policy - but it might not address the biggest challenge with AI-generated code...",
-            "published_utc": "2026-04-13T22:27:24+00:00"
+            "published_utc": "2026-04-13T22:27:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -289,25 +324,11 @@
             "published_utc": "2026-04-13T11:45:52+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "International Operation Targets Multimillion-Dollar Crypto Theft Schemes",
-            "link": "https://www.securityweek.com/international-operation-targets-multimillion-dollar-crypto-theft-schemes/",
-            "summary": "",
-            "published_utc": "2026-04-13T11:34:35+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "As an Android user, this MagSafe wallet is the clearest reason why Qi2 magnets shouldn't be ignored",
             "link": "https://www.zdnet.com/article/veger-x5-spotlight/",
             "summary": "The Veger X5 is a 5000mAh MagSafe charger, wallet, and device tracker with Find My built in. But there's more that it can do.",
             "published_utc": "2026-04-13T11:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "CPUID Hacked to Serve Trojanized CPU-Z and HWMonitor Downloads",
-            "link": "https://www.securityweek.com/cpuid-hacked-to-serve-trojanized-cpu-z-and-hwmonitor-downloads/",
-            "summary": "",
-            "published_utc": "2026-04-13T10:52:57+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -329,13 +350,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/04/ai-chatbots-and-trust.html",
             "summary": "",
             "published_utc": "2026-04-13T10:10:45+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Fake Claude Website Distributes PlugX RAT",
-            "link": "https://www.securityweek.com/fake-claude-website-distributes-plugx-rat/",
-            "summary": "",
-            "published_utc": "2026-04-13T09:52:50+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -392,13 +406,6 @@
             "link": "https://www.zdnet.com/article/lg-c6-vs-lg-c5/",
             "summary": "The LG C6 is a refreshed version of the brand's flagship OLED TV, but is it worth upgrading over the C5?",
             "published_utc": "2026-04-13T01:33:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How I disabled 'fast startup' on my Windows 11 laptop to stop overnight battery drain",
-            "link": "https://www.zdnet.com/article/sleep-vs-hibernate-does-modern-standby-save-battery-on-windows/",
-            "summary": "Putting your computer to sleep isn't always the best way to preserve its battery. Here's why.",
-            "published_utc": "2026-04-13T01:16:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -595,13 +602,6 @@
             "link": "https://www.infosecurity-magazine.com/news/bitcoin-depot-dollar36m-crypto/",
             "summary": "Bitcoin Depot has disclosed a cyber-attack that led to the theft of more than 50 Bitcoin, worth $3.66m, after hackers accessed its internal systems",
             "published_utc": "2026-04-09T14:01:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Weak at the seams",
-            "link": "https://www.csoonline.com/article/4156510/weak-at-the-seams-2.html",
-            "summary": "",
-            "published_utc": "2026-04-09T12:28:57+00:00"
         },
         {
             "source": "InfosecurityMag",
