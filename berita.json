@@ -1,6 +1,69 @@
 {
-    "lastUpdatedUTC": "2026-04-15T15:06:01.749008+00:00",
+    "lastUpdatedUTC": "2026-04-15T17:05:48.866259+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "Why Zorin OS 18.1 is simply the best Linux distro - for anyone",
+            "link": "https://www.zdnet.com/article/zorin-os-18-1-release-is-best-linux-distro-for-anyone/",
+            "summary": "Released today, the latest Zorin OS manages to improve upon previous versions - and that's quite an achievement.",
+            "published_utc": "2026-04-15T17:00:45+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Why Netgear just got the first FCC router ban exemption in the US",
+            "link": "https://www.zdnet.com/article/netgear-is-first-to-win-exemption-from-fcc-router-ban/",
+            "summary": "You can keep buying Netgear routers in the US for now. Here's why - and for how long.",
+            "published_utc": "2026-04-15T16:58:24+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Sweden Blames Pro-Russian Group for Cyberattack Last Year on Its Energy Infrastructure",
+            "link": "https://www.securityweek.com/sweden-blames-pro-russian-group-for-cyberattack-last-year-on-its-energy-infrastructure/",
+            "summary": "",
+            "published_utc": "2026-04-15T16:46:48+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Microsoft's latest Windows update now confirms if your PC is Secure Boot-protected - how it works",
+            "link": "https://www.zdnet.com/article/secure-boot-microsoft-april-windows-update/",
+            "summary": "Beyond fixing a host of security vulnerabilities, the latest Patch Tuesday will display your Secure Boot status to make sure you're fully protected.",
+            "published_utc": "2026-04-15T16:20:47+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft pays $2.3M for cloud and AI flaws at Zero Day Quest",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pays-23-million-for-cloud-and-ai-flaws-at-zero-day-quest/",
+            "summary": "Microsoft has awarded $2.3 million to security researchers after receiving nearly 700 submissions during this year's Zero Day Quest hacking contest. [...",
+            "published_utc": "2026-04-15T16:20:21+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "OpenAI Unveils GPT-5.4-Cyber for Improving Cyber Defense With AI",
+            "link": "https://www.infosecurity-magazine.com/news/openai-unveils-gpt-54-cyber-defense/",
+            "summary": "OpenAI’s new frontier model focused on cybersecurity comes following Anthropic’s launch of Claude Mythos Preview and Project Glasswing",
+            "published_utc": "2026-04-15T16:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Can this $70 Linux app make up for the lack of Photoshop? I tried it to find out",
+            "link": "https://www.zdnet.com/article/fogpanther-image-editor-linux-gimp-competitor/",
+            "summary": "For those who bemoan the lack of Photoshop on Linux, it's possible that a competitor to GIMP could fill that need… maybe.",
+            "published_utc": "2026-04-15T15:59:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "European Cybersecurity Agency ENISA Seeks Top-Tier Status in CVE Program",
+            "link": "https://www.infosecurity-magazine.com/news/enisa-europe-seeks-top-level-root/",
+            "summary": "The EU cybersecurity agency looks to become the third Top-Level Root CVE Numbering Authority, alongside CISA and MITRE",
+            "published_utc": "2026-04-15T15:31:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "You can use Linux 7.0 on these 7 distros today - here's what to expect",
+            "link": "https://www.zdnet.com/article/try-new-linux-7-0-kernel-on-these-distributions/",
+            "summary": "The latest Linux kernel boasts full Rust support and a greatly improved scheduler to speed up your work and your games.",
+            "published_utc": "2026-04-15T15:19:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "'Like handing out the blueprint to a bank vault': Why AI led one company to abandon open source",
@@ -28,6 +91,13 @@
             "link": "https://www.securityweek.com/exploited-vulnerability-exposes-nginx-servers-to-hacking/",
             "summary": "",
             "published_utc": "2026-04-15T14:45:58+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Signed Adware Operation Disables Antivirus Across 23,000 Hosts",
+            "link": "https://www.infosecurity-magazine.com/news/dragon-boss-adware-disables/",
+            "summary": "Huntress uncovers adware deploying AV-killing payloads via signed updates across 23,000 endpoints",
+            "published_utc": "2026-04-15T14:40:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -175,13 +245,6 @@
             "link": "https://www.wired.com/story/deepfake-nudify-schools-global-crisis/",
             "summary": "An analysis by WIRED and Indicator found nearly 90 schools and 600 students around the world impacted by AI-generated deepfake nude images—and the pro...",
             "published_utc": "2026-04-15T10:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Fortinet Patches Critical FortiSandbox Vulnerabilities",
-            "link": "https://www.securityweek.com/fortinet-patches-critical-fortisandbox-vulnerabilities/",
-            "summary": "",
-            "published_utc": "2026-04-15T09:37:24+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -359,13 +422,6 @@
             "published_utc": "2026-04-14T18:53:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "You can try Linux 7.0 now on these distros - here's what's new",
-            "link": "https://www.zdnet.com/article/try-new-linux-7-0-kernel-on-these-distributions/",
-            "summary": "The latest Linux kernel boasts full Rust support and a greatly improved scheduler to speed up your work and your games.",
-            "published_utc": "2026-04-14T18:22:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Microsoft releases Windows 10 KB5082200 extended security update",
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5082200-extended-security-update/",
@@ -378,13 +434,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/mcgraw-hill-confirms-data-breach-following-extortion-threat/",
             "summary": "Education company McGraw-Hill has confirmed in a statement to BleepingComputer that hackers exploited a Salesforce misconfiguration and accessed its i...",
             "published_utc": "2026-04-14T18:07:07+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I tested every 'allergy-friendly' smart home gadget - these 6 actually keep the pollen out",
-            "link": "https://www.zdnet.com/article/smart-home-tips-devices-for-spring-allergies/",
-            "summary": "Here's how my smart home became my best defense against brutal spring allergies - and pollen.",
-            "published_utc": "2026-04-14T18:00:38+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -401,25 +450,11 @@
             "published_utc": "2026-04-14T17:41:13+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Chrome's new 'Skills' update lets you save AI prompts now - for one-click reuse",
-            "link": "https://www.zdnet.com/article/google-chrome-save-reuse-ai-prompts-skills/",
-            "summary": "Google is launching the feature with a library of Skills for common tasks and everyday topics. Here's how it all works.",
-            "published_utc": "2026-04-14T17:00:03+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Fake Ledger Live app on Apple’s App Store stole $9.5M in crypto",
             "link": "https://www.bleepingcomputer.com/news/security/fake-ledger-live-app-on-apples-app-store-stole-95m-in-crypto/",
             "summary": "A malicious Ledger Live app for macOS available from Apple's App Store has drained approximately $9.5 million in cryptocurrency from 50 victims in jus...",
             "published_utc": "2026-04-14T16:37:01+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How to share audio from your Android phone to multiple earbuds (and why it's genius)",
-            "link": "https://www.zdnet.com/article/how-to-share-audio-from-android-phone-to-multiple-earbuds/",
-            "summary": "Android's Audio sharing lets two people listen on separate earbuds, if your devices support it.",
-            "published_utc": "2026-04-14T16:32:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -434,13 +469,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/04/upcoming-speaking-engagements-55.html",
             "summary": "",
             "published_utc": "2026-04-14T16:01:47+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How to use Google Messages' new Trash feature to recover texts you accidentally deleted",
-            "link": "https://www.zdnet.com/article/google-messages-finally-has-a-trash-feature-and-its-about-time/",
-            "summary": "Here's why I treasure Google Messages' new Trash - and how it works.",
-            "published_utc": "2026-04-14T16:00:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -532,13 +560,6 @@
             "link": "https://www.csoonline.com/article/4158117/anthropics-mythos-signals-a-structural-cybersecurity-shift.html",
             "summary": "",
             "published_utc": "2026-04-13T23:13:29+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "European Gym giant Basic-Fit data breach affects 1 million members",
-            "link": "https://www.bleepingcomputer.com/news/security/european-gym-giant-basic-fit-data-breach-affects-1-million-members/",
-            "summary": "Dutch fitness giant Basic-Fit announced that hackers breached its systems and gained access to information belonging to a million of its customers. [...]",
-            "published_utc": "2026-04-13T21:50:01+00:00"
         },
         {
             "source": "Schneier",
@@ -2753,27 +2774,6 @@
             "published_utc": "2026-02-03T16:30:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "SQL Injection Flaw Affects 40,000 WordPress Sites",
-            "link": "https://www.infosecurity-magazine.com/news/wordpress-sql-injection-flaw-40000/",
-            "summary": "40,000 WordPress sites are vulnerable to SQL injection in Quiz and Survey Master plugin",
-            "published_utc": "2026-02-03T16:15:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "DockerDash Exposes AI Supply Chain Weakness In Docker's Ask Gordon",
-            "link": "https://www.infosecurity-magazine.com/news/dockerdash-weakness-dockers-ask/",
-            "summary": "DockerDash vulnerability allows RCE and data exfiltration via unverified metadata in Ask Gordon",
-            "published_utc": "2026-02-03T15:15:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "UK ICO Launches Investigation into X Over AI Generated Non-Consensual Sexual Imagery",
-            "link": "https://www.infosecurity-magazine.com/news/ico-investigates-x-over-grok-ai/",
-            "summary": "UK Data Protection Watchdog has “serious concerns” over data privacy on Elon Musk’s social platform",
-            "published_utc": "2026-02-03T14:47:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "A slippery slope: Beware of Winter Olympics scams and other cyberthreats",
             "link": "https://www.welivesecurity.com/en/cybersecurity/slippery-slope-winter-olympics-scams-cyberthreats/",
@@ -3264,209 +3264,6 @@
             "published_utc": "2025-08-27T09:00:00+00:00"
         },
         {
-            "source": "NVD (NIST)",
-            "title": "CVE-2022-48193",
-            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-48193",
-            "summary": "Weak ciphers in Softing smartLink SW-HT before 1.30 are enabled during secure communication (SSL).",
-            "published_utc": "2023-11-06T20:15:07+00:00"
-        },
-        {
-            "source": "NVD (NIST)",
-            "title": "CVE-2023-45001",
-            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-45001",
-            "summary": "Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Castos Seriously Simple Stats allows SQL Injecti...",
-            "published_utc": "2023-11-06T09:15:08+00:00"
-        },
-        {
-            "source": "NVD (NIST)",
-            "title": "CVE-2023-28748",
-            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-28748",
-            "summary": "Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in biztechc Copy or Move Comments allows SQL Inject...",
-            "published_utc": "2023-11-06T09:15:07+00:00"
-        },
-        {
-            "source": "NVD (NIST)",
-            "title": "CVE-2021-4430",
-            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-4430",
-            "summary": "A vulnerability classified as problematic has been found in Ortus Solutions ColdBox Elixir 3.1.6. This affects an unknown part of the file src/default...",
-            "published_utc": "2023-11-06T08:15:21+00:00"
-        },
-        {
-            "source": "NVD (NIST)",
-            "title": "CVE-2023-32835",
-            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-32835",
-            "summary": "In keyinstall, there is a possible memory corruption due to type confusion. This could lead to local escalation of privilege with System execution pri...",
-            "published_utc": "2023-11-06T04:15:07+00:00"
-        },
-        {
-            "source": "NVD (NIST)",
-            "title": "CVE-2018-25093",
-            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2018-25093",
-            "summary": "A vulnerability was found in Vaerys-Dawn DiscordSailv2 up to 2.10.2. It has been rated as critical. Affected by this issue is some unknown functionali...",
-            "published_utc": "2023-11-06T01:15:08+00:00"
-        },
-        {
-            "source": "NVD (NIST)",
-            "title": "CVE-2017-20187",
-            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2017-20187",
-            "summary": "** UNSUPPPORTED WHEN ASSIGNED ** ** UNSUPPORTED WHEN ASSIGNED ** A vulnerability was found in Magnesium-PHP up to 0.3.0. It has been classified as pro...",
-            "published_utc": "2023-11-05T21:15:09+00:00"
-        },
-        {
-            "source": "NVD (NIST)",
-            "title": "CVE-2023-36677",
-            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-36677",
-            "summary": "Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Smartypants SP Project &amp; Document Manager al...",
-            "published_utc": "2023-11-03T23:15:08+00:00"
-        },
-        {
-            "source": "NVD (NIST)",
-            "title": "CVE-2022-3172",
-            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-3172",
-            "summary": "A security issue was discovered in kube-apiserver that allows an \naggregated API server to redirect client traffic to any URL.  This could\n lead to th...",
-            "published_utc": "2023-11-03T20:15:08+00:00"
-        },
-        {
-            "source": "NVD (NIST)",
-            "title": "CVE-2022-43554",
-            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-43554",
-            "summary": "Ivanti Avalanche Smart Device Service Missing Authentication Local Privilege Escalation Vulnerability",
-            "published_utc": "2023-11-03T20:15:08+00:00"
-        },
-        {
-            "source": "NVD (NIST)",
-            "title": "CVE-2022-44569",
-            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-44569",
-            "summary": "A locally authenticated attacker with low privileges can bypass authentication due to insecure inter-process communication.",
-            "published_utc": "2023-11-03T20:15:08+00:00"
-        },
-        {
-            "source": "NVD (NIST)",
-            "title": "CVE-2023-23368",
-            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-23368",
-            "summary": "An OS command injection vulnerability has been reported to affect several QNAP operating system versions. If exploited, the vulnerability could allow ...",
-            "published_utc": "2023-11-03T17:15:08+00:00"
-        },
-        {
-            "source": "NVD (NIST)",
-            "title": "CVE-2023-32121",
-            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-32121",
-            "summary": "Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Highfivery LLC Zero Spam for WordPress allows SQ...",
-            "published_utc": "2023-11-03T17:15:08+00:00"
-        },
-        {
-            "source": "NVD (NIST)",
-            "title": "CVE-2022-46808",
-            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-46808",
-            "summary": "Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Repute Infosystems ARMember armember-membership ...",
-            "published_utc": "2023-11-03T13:15:08+00:00"
-        },
-        {
-            "source": "NVD (NIST)",
-            "title": "CVE-2023-25960",
-            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-25960",
-            "summary": "Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Zendrop Zendrop &acirc;&euro;&ldquo; Global Drop...",
-            "published_utc": "2023-11-03T13:15:08+00:00"
-        },
-        {
-            "source": "NVD (NIST)",
-            "title": "CVE-2023-1476",
-            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-1476",
-            "summary": "A use-after-free flaw was found in the Linux kernel&acirc;&euro;&trade;s mm/mremap memory address space accounting source code. This issue occurs due ...",
-            "published_utc": "2023-11-03T09:15:13+00:00"
-        },
-        {
-            "source": "NVD (NIST)",
-            "title": "CVE-2023-41344",
-            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-41344",
-            "summary": "NCSIST ManageEngine Mobile Device Manager(MDM) APP's special function has a path traversal vulnerability. An unauthenticated remote attacker can explo...",
-            "published_utc": "2023-11-03T07:15:14+00:00"
-        },
-        {
-            "source": "NVD (NIST)",
-            "title": "CVE-2020-28407",
-            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28407",
-            "summary": "In swtpm before 0.4.2 and 0.5.x before 0.5.1, a local attacker may be able to overwrite arbitrary files via a symlink attack against a temporary file ...",
-            "published_utc": "2023-11-03T04:15:15+00:00"
-        },
-        {
-            "source": "NVD (NIST)",
-            "title": "CVE-2017-7252",
-            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2017-7252",
-            "summary": "bcrypt password hashing in Botan before 2.1.0 does not correctly handle passwords with a length between 57 and 72 characters, which makes it easier fo...",
-            "published_utc": "2023-11-03T01:15:07+00:00"
-        },
-        {
-            "source": "NVD (NIST)",
-            "title": "CVE-2023-36029",
-            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-36029",
-            "summary": "Microsoft Edge (Chromium-based) Spoofing Vulnerability",
-            "published_utc": "2023-11-03T01:15:07+00:00"
-        },
-        {
-            "source": "NVD (NIST)",
-            "title": "CVE-2023-42299",
-            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-42299",
-            "summary": "Buffer Overflow vulnerability in OpenImageIO oiio v.2.4.12.0 allows a remote attacker to execute arbitrary code and cause a denial of service via the ...",
-            "published_utc": "2023-11-02T22:15:09+00:00"
-        },
-        {
-            "source": "NVD (NIST)",
-            "title": "CVE-2023-39048",
-            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-39048",
-            "summary": "An information leak in Tokudaya.honten v13.6.1 allows attackers to obtain the channel access token and send crafted messages.",
-            "published_utc": "2023-11-02T22:15:08+00:00"
-        },
-        {
-            "source": "NVD (NIST)",
-            "title": "CVE-2023-45333",
-            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-45333",
-            "summary": "Online Food Ordering System v1.0 is vulnerable to multiple Unauthenticated SQL Injection vulnerabilities. The 'verified' parameter of the routers/add-...",
-            "published_utc": "2023-11-02T14:15:12+00:00"
-        },
-        {
-            "source": "NVD (NIST)",
-            "title": "CVE-2023-26452",
-            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-26452",
-            "summary": "Requests to cache an image and return its metadata could be abused to include SQL queries that would be executed unchecked. Exploiting this vulnerabil...",
-            "published_utc": "2023-11-02T14:15:10+00:00"
-        },
-        {
-            "source": "NVD (NIST)",
-            "title": "CVE-2023-46428 (hadsky)",
-            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-46428",
-            "summary": "An arbitrary file upload vulnerability in HadSky v7.12.10 allows attackers to execute arbitrary code via a crafted file.",
-            "published_utc": "2023-11-01T21:15:08+00:00"
-        },
-        {
-            "source": "NVD (NIST)",
-            "title": "CVE-2023-1192",
-            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-1192",
-            "summary": "A use-after-free flaw was found in smb2_is_status_io_timeout() in CIFS in the Linux Kernel. After CIFS transfers response data to a system call, there...",
-            "published_utc": "2023-11-01T20:15:08+00:00"
-        },
-        {
-            "source": "NVD (NIST)",
-            "title": "CVE-2023-5855",
-            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-5855",
-            "summary": "Use after free in Reading Mode in Google Chrome prior to 119.0.6045.105 allowed a remote attacker who convinced a user to engage in specific UI gestur...",
-            "published_utc": "2023-11-01T18:15:10+00:00"
-        },
-        {
-            "source": "NVD (NIST)",
-            "title": "CVE-2023-20213",
-            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-20213",
-            "summary": "A vulnerability in the CDP processing feature of Cisco ISE could allow an unauthenticated, adjacent attacker to cause a denial of service (DoS) condit...",
-            "published_utc": "2023-11-01T17:15:11+00:00"
-        },
-        {
-            "source": "NVD (NIST)",
-            "title": "CVE-2023-20005",
-            "link": "https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2023-20005",
-            "summary": "Multiple vulnerabilities in the web-based management interface of Cisco Firepower Management Center (FMC) Software could allow an unauthenticated, rem...",
-            "published_utc": "2023-11-01T17:15:10+00:00"
-        },
-        {
             "source": "Threatpost",
             "title": "Student Loan Breach Exposes 2.5M Records",
             "link": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
@@ -3500,6 +3297,41 @@
             "link": "https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/",
             "summary": "Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed.",
             "published_utc": "2022-08-25T18:47:15+00:00"
+        },
+        {
+            "source": "Threatpost",
+            "title": "Twitter Whistleblower Complaint: The TL;DR Version",
+            "link": "https://threatpost.com/twitter-whistleblower-tldr-version/180472/",
+            "summary": "Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a n...",
+            "published_utc": "2022-08-24T14:17:04+00:00"
+        },
+        {
+            "source": "Threatpost",
+            "title": "Firewall Bug Under Active Attack Triggers CISA Warning",
+            "link": "https://threatpost.com/firewall-bug-under-active-attack-cisa-warning/180467/",
+            "summary": "CISA is warning that Palo Alto Networks’ PAN-OS is under active attack and needs to be patched ASAP.",
+            "published_utc": "2022-08-23T13:19:58+00:00"
+        },
+        {
+            "source": "Threatpost",
+            "title": "Fake Reservation Links Prey on Weary Travelers",
+            "link": "https://threatpost.com/reservation-links-prey-on-travelers/180462/",
+            "summary": "Fake travel reservations are exacting more pain from the travel weary, already dealing with the misery of canceled flights and overbooked hotels.",
+            "published_utc": "2022-08-22T13:59:06+00:00"
+        },
+        {
+            "source": "Threatpost",
+            "title": "iPhone Users Urged to Update to Patch 2 Zero-Days",
+            "link": "https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/",
+            "summary": "Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack.",
+            "published_utc": "2022-08-19T15:25:56+00:00"
+        },
+        {
+            "source": "Threatpost",
+            "title": "Google Patches Chrome’s Fifth Zero-Day of the Year",
+            "link": "https://threatpost.com/google-patches-chromes-fifth-zero-day-of-the-year/180432/",
+            "summary": "An insufficient validation input flaw, one of 11 patched in an update this week, could allow for arbitrary code execution and is under active attack.",
+            "published_utc": "2022-08-18T14:31:38+00:00"
         }
     ]
 }
