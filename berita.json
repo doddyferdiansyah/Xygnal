@@ -1,6 +1,62 @@
 {
-    "lastUpdatedUTC": "2026-04-15T13:27:55.484222+00:00",
+    "lastUpdatedUTC": "2026-04-15T15:06:01.749008+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "'Like handing out the blueprint to a bank vault': Why AI led one company to abandon open source",
+            "link": "https://www.zdnet.com/article/ai-security-worries-force-company-to-abandon-open-source/",
+            "summary": "Cal is moving its flagship open-source program to a proprietary model because it can't cope with the dangers of AI hacking its open code.",
+            "published_utc": "2026-04-15T15:00:39+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "iPhone charging slowly? 6 quick fixes to try before blaming your battery",
+            "link": "https://www.zdnet.com/article/iphone-charging-slow-how-to-fix-speed-it-up/",
+            "summary": "The issue may be your setup, not your battery. Here's how to speed things up, and what to do if these tips don't work.",
+            "published_utc": "2026-04-15T14:55:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "CISA flags Windows Task Host vulnerability as exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-windows-task-host-vulnerability-as-exploited-in-attacks/",
+            "summary": "CISA warned U.S. government agencies to secure their systems against a Windows Task Host privilege escalation vulnerability that could allow attackers...",
+            "published_utc": "2026-04-15T14:51:05+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Exploited Vulnerability Exposes Nginx Servers to Hacking",
+            "link": "https://www.securityweek.com/exploited-vulnerability-exposes-nginx-servers-to-hacking/",
+            "summary": "",
+            "published_utc": "2026-04-15T14:45:58+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Roku TV vs. Fire Stick: Why I'm looking beyond streaming resolution when comparing the two",
+            "link": "https://www.zdnet.com/article/roku-tv-vs-fire-stick/",
+            "summary": "Roku and Amazon have released updated versions of their latest TV streaming sticks, but which one is best for you?",
+            "published_utc": "2026-04-15T14:37:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Rolling Networks: Securing the Transportation Sector",
+            "link": "https://www.bleepingcomputer.com/news/security/rolling-networks-securing-the-transportation-sector/",
+            "summary": "Modern trucks are rolling networks packed with sensors, connectivity, and attack surfaces, creating new cyber risks. NMFTA's Cybersecurity Conference ...",
+            "published_utc": "2026-04-15T14:00:10+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Capsule Security Emerges From Stealth With $7 Million in Funding",
+            "link": "https://www.securityweek.com/capsule-security-emerges-from-stealth-with-7-million-in-funding/",
+            "summary": "",
+            "published_utc": "2026-04-15T13:56:50+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "‘By Design’ Flaw in MCP Could Enable Widespread AI Supply Chain Attacks",
+            "link": "https://www.securityweek.com/by-design-flaw-in-mcp-could-enable-widespread-ai-supply-chain-attacks/",
+            "summary": "",
+            "published_utc": "2026-04-15T13:34:48+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "100 Chrome Extensions Steal User Data, Create Backdoor",
@@ -13,6 +69,13 @@
             "title": "CISO Conversations: Ross McKerchar, CISO at Sophos",
             "link": "https://www.securityweek.com/ciso-conversations-ross-mckerchar-ciso-at-sophos/",
             "summary": "",
+            "published_utc": "2026-04-15T13:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Critical Nginx-ui MCP Flaw Actively Exploited in the Wild",
+            "link": "https://www.infosecurity-magazine.com/news/nginx-ui-mcp-flaw-actively/",
+            "summary": "Critical nginx-ui MCP authentication bypass CVE-2026-33032 actively exploited with CVSS 9.8",
             "published_utc": "2026-04-15T13:00:00+00:00"
         },
         {
@@ -153,14 +216,7 @@
             "title": "Half of all US employees use AI at work now - and waste almost 8 hours a week doing it",
             "link": "https://www.zdnet.com/article/increasing-use-of-ai-is-causing-structural-workplace-changes-new-gallup-poll-finds/",
             "summary": "Companies on the front lines of AI adoption are also hiring and laying off more employees on average than those that aren't, Gallup found.",
-            "published_utc": "2026-04-15T08:00:33+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "ICS Patch Tuesday: 8 Industrial Giants Publish New Security Advisories",
-            "link": "https://www.securityweek.com/ics-patch-tuesday-8-industrial-giants-publish-new-security-advisories/",
-            "summary": "",
-            "published_utc": "2026-04-15T07:14:08+00:00"
+            "published_utc": "2026-04-15T08:00:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -195,7 +251,7 @@
             "title": "I used the 'Plus Five' rule to fix my iPhone's slow wireless charging - here's how it works",
             "link": "https://www.zdnet.com/article/plus-five-wireless-charging-rule-iphone-android-faster-speeds/",
             "summary": "Wireless charging is a helpful feature, but you may not be getting the optimal speed with your accessories. Here's what to check for.",
-            "published_utc": "2026-04-15T02:30:29+00:00"
+            "published_utc": "2026-04-15T02:30:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -307,14 +363,7 @@
             "title": "You can try Linux 7.0 now on these distros - here's what's new",
             "link": "https://www.zdnet.com/article/try-new-linux-7-0-kernel-on-these-distributions/",
             "summary": "The latest Linux kernel boasts full Rust support and a greatly improved scheduler to speed up your work and your games.",
-            "published_utc": "2026-04-14T18:22:20+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Microsoft Patches Exploited SharePoint Zero-Day and 160 Other Vulnerabilities",
-            "link": "https://www.securityweek.com/microsoft-patches-exploited-sharepoint-zero-day-and-160-other-vulnerabilities/",
-            "summary": "",
-            "published_utc": "2026-04-14T18:14:37+00:00"
+            "published_utc": "2026-04-14T18:22:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -359,13 +408,6 @@
             "published_utc": "2026-04-14T17:00:03+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Adobe Patches 55 Vulnerabilities Across 11 Products",
-            "link": "https://www.securityweek.com/adobe-patches-55-vulnerabilities-across-11-products/",
-            "summary": "",
-            "published_utc": "2026-04-14T16:48:03+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Fake Ledger Live app on Apple’s App Store stole $9.5M in crypto",
             "link": "https://www.bleepingcomputer.com/news/security/fake-ledger-live-app-on-apples-app-store-stole-95m-in-crypto/",
@@ -408,32 +450,11 @@
             "published_utc": "2026-04-14T15:53:50+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Why the Apple Watch's 20-minute calibration test is worth your time - especially if you're data curious",
-            "link": "https://www.zdnet.com/article/how-to-calibrate-your-apple-watch/",
-            "summary": "Want more accurate, personalized health data during your workouts? Here's how to calibrate your Apple Watch.",
-            "published_utc": "2026-04-14T15:30:00+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "The FCC Has a Fast Lane for Complaints About Trump’s Media Critics",
             "link": "https://www.wired.com/story/the-fcc-has-a-fast-lane-for-complaints-about-trumps-media-critics/",
             "summary": "Internal emails obtained by WIRED reveal how a conservative legal group with a direct line into FCC chairman Brendan Carr’s office built the case agai...",
             "published_utc": "2026-04-14T15:12:28+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I'm ready for a foldable iPhone, but only if Apple does this right",
-            "link": "https://www.zdnet.com/article/foldable-iphone-only-if-apple-does-this-right/",
-            "summary": "Multitasking on iPhones is currently limited. That will need to change for a foldable to succeed.",
-            "published_utc": "2026-04-14T14:46:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Meta is selling refurbished Ray-Bans for as low as $197 right now - but they're going fast",
-            "link": "https://www.zdnet.com/article/meta-ray-ban-refurbished-smart-glasses-selling-fast/",
-            "summary": "The models include Wayfarer, Headliner, and Skyler (all first generation), and you get a one-year warranty.",
-            "published_utc": "2026-04-14T14:18:12+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -518,20 +539,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/european-gym-giant-basic-fit-data-breach-affects-1-million-members/",
             "summary": "Dutch fitness giant Basic-Fit announced that hackers breached its systems and gained access to information belonging to a million of its customers. [...]",
             "published_utc": "2026-04-13T21:50:01+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Stolen Rockstar Games analytics data leaked by extortion gang",
-            "link": "https://www.bleepingcomputer.com/news/security/stolen-rockstar-games-analytics-data-leaked-by-extortion-gang/",
-            "summary": "Rockstar Games has suffered a data breach linked to a recent security incident at Anodot, with the ShinyHunters extortion gang now leaking the stolen ...",
-            "published_utc": "2026-04-13T20:08:10+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Critical flaw in wolfSSL library enables forged certificate use",
-            "link": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-wolfssl-library-enables-forged-certificate-use/",
-            "summary": "A critical vulnerability in the wolfSSL SSL/TLS library can weaken security via improper verification of the hash algorithm or its size when checking ...",
-            "published_utc": "2026-04-13T19:56:03+00:00"
         },
         {
             "source": "Schneier",
@@ -2765,13 +2772,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ico-investigates-x-over-grok-ai/",
             "summary": "UK Data Protection Watchdog has “serious concerns” over data privacy on Elon Musk’s social platform",
             "published_utc": "2026-02-03T14:47:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Researchers Warn of New “Vect” RaaS Variant",
-            "link": "https://www.infosecurity-magazine.com/news/researchers-warn-new-vect-raas/",
-            "summary": "A new ransomware-as-a-service operation dubbed “Vect” features custom malware",
-            "published_utc": "2026-02-03T14:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
