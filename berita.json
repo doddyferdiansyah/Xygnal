@@ -1,6 +1,69 @@
 {
-    "lastUpdatedUTC": "2026-04-15T11:01:55.475323+00:00",
+    "lastUpdatedUTC": "2026-04-15T13:27:55.484222+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "100 Chrome Extensions Steal User Data, Create Backdoor",
+            "link": "https://www.securityweek.com/100-chrome-extensions-steal-user-data-open-backdoor/",
+            "summary": "",
+            "published_utc": "2026-04-15T13:24:13+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "CISO Conversations: Ross McKerchar, CISO at Sophos",
+            "link": "https://www.securityweek.com/ciso-conversations-ross-mckerchar-ciso-at-sophos/",
+            "summary": "",
+            "published_utc": "2026-04-15T13:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Why your TV wowed you in the store but looks unnatural at home - and how to fix it ASAP",
+            "link": "https://www.zdnet.com/article/how-to-disable-tv-store-mode/",
+            "summary": "Does your TV have an overly bright, fake-looking picture? Your settings might be set for the store, not your living room.",
+            "published_utc": "2026-04-15T12:31:30+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "AI is getting better at your job, but you have time to adjust, according to MIT",
+            "link": "https://www.zdnet.com/article/new-mit-jobs-work-report-ai-impacts-2026/",
+            "summary": "AI may be 'minimally sufficient' at certain work tasks by 2029, according to new MIT research. An expert offers some advice on how to prepare.",
+            "published_utc": "2026-04-15T12:23:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Mirax RAT Targeting Android Users in Europe",
+            "link": "https://www.securityweek.com/mirax-rat-targeting-android-users-in-europe/",
+            "summary": "",
+            "published_utc": "2026-04-15T12:10:08+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Copilot and Agentforce fall to form-based prompt injection tricks",
+            "link": "https://www.csoonline.com/article/4159079/copilot-and-agentforce-fall-to-form-based-prompt-injection-tricks.html",
+            "summary": "",
+            "published_utc": "2026-04-15T12:09:36+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft: April updates trigger BitLocker key prompts on some servers",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-windows-servers-ask-for-bitlocker-key-after-april-updates/",
+            "summary": "Microsoft confirmed on Tuesday that some Windows Server 2025 devices will boot into BitLocker recovery after installing the April 2026 KB5082063 Windo...",
+            "published_utc": "2026-04-15T11:41:35+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Two Vulnerabilities Patched in Ivanti Neurons for ITSM",
+            "link": "https://www.securityweek.com/two-vulnerabilities-patched-in-ivanti-neurons-for-itsm/",
+            "summary": "",
+            "published_utc": "2026-04-15T11:38:21+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The best internal communication tools of 2026: Expert tested and reviewed",
+            "link": "https://www.zdnet.com/article/best-internal-communication-tools/",
+            "summary": "If your office works remotely in any way, you'll need reliable internal communication tools to keep information flowing smoothly and everyone on the s...",
+            "published_utc": "2026-04-15T11:01:14+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "$10 Domain Could Have Handed Hackers 25k Endpoints, Including in OT and Gov Networks",
@@ -17,7 +80,7 @@
         },
         {
             "source": "InfosecurityMag",
-            "title": "AI Companies To Play Bigger Role in CVE Program, Says CISA",
+            "title": "AI Companies to Play Bigger Role in CVE Program, Says CISA",
             "link": "https://www.infosecurity-magazine.com/news/ai-companies-to-play-bigger-role/",
             "summary": "At VulnCon, Lindsey Cerkovnik, head of vulnerability management at CISA, said AI companies should play a bigger role in vulnerability disclosures in t...",
             "published_utc": "2026-04-15T10:30:00+00:00"
@@ -387,20 +450,6 @@
             "published_utc": "2026-04-14T13:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "‘Mythos-Ready’ Security: CSA Urges CISOs to Prepare for Accelerated AI Threats",
-            "link": "https://www.securityweek.com/mythos-ready-security-csa-urges-cisos-to-prepare-for-accelerated-ai-threats/",
-            "summary": "",
-            "published_utc": "2026-04-14T12:53:55+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Europe’s Largest Gym Chain Says Data Breach Impacts 1 Million Members",
-            "link": "https://www.securityweek.com/europes-largest-gym-chain-says-data-breach-impacts-1-million-members/",
-            "summary": "",
-            "published_utc": "2026-04-14T12:43:30+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "China-linked cloud credential heist runs on typos and SMTP",
             "link": "https://www.csoonline.com/article/4158396/china-linked-cloud-credential-heist-runs-on-typos-and-smtp.html",
@@ -420,20 +469,6 @@
             "link": "https://www.infosecurity-magazine.com/news/chrome-extensions-expose-user-data/",
             "summary": "108 malicious Chrome extensions steal sessions, Google data, inject ads via single C2 infrastructure",
             "published_utc": "2026-04-14T11:30:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "SAP Patches Critical ABAP Vulnerability",
-            "link": "https://www.securityweek.com/sap-patches-critical-abap-vulnerability/",
-            "summary": "",
-            "published_utc": "2026-04-14T11:21:12+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Triad Nexus Evades Sanctions to Fuel Cybercrime",
-            "link": "https://www.securityweek.com/triad-nexus-evades-sanctions-to-fuel-cybercrime/",
-            "summary": "",
-            "published_utc": "2026-04-14T10:53:32+00:00"
         },
         {
             "source": "Schneier",
@@ -471,32 +506,11 @@
             "published_utc": "2026-04-14T07:04:21+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I carried this Bluetooth tracker card in my backpack for a week - and it withstood my clumsiness",
-            "link": "https://www.zdnet.com/article/uag-metropolis-wallet-tracker-ios-android-review/",
-            "summary": "The UAG Metropolis tracker is an AirTag wallet alternative that's highly functional, and all my bending and flexing haven't fazed it.",
-            "published_utc": "2026-04-14T02:00:53+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I tested ChatGPT Plus vs. Gemini Pro to see which is better - and if it's worth switching",
-            "link": "https://www.zdnet.com/article/chatgpt-plus-vs-gemini-pro/",
-            "summary": "Considering ditching ChatGPT Plus for Gemini Pro? I tested both on the same 10 tasks. Here's which AI came out on top.",
-            "published_utc": "2026-04-14T02:00:00+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Anthropic’s Mythos signals a structural cybersecurity shift",
             "link": "https://www.csoonline.com/article/4158117/anthropics-mythos-signals-a-structural-cybersecurity-shift.html",
             "summary": "",
             "published_utc": "2026-04-13T23:13:29+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The new rules for AI-assisted code in the Linux kernel: What every dev needs to know",
-            "link": "https://www.zdnet.com/article/linus-torvalds-and-maintainers-finalize-ai-policy-for-linux-kernel-developers/",
-            "summary": "Linus Torvalds and maintainers just finalized the Linux kernel's new AI policy - but it might not address the biggest challenge with AI-generated code...",
-            "published_utc": "2026-04-13T22:27:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -518,13 +532,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-wolfssl-library-enables-forged-certificate-use/",
             "summary": "A critical vulnerability in the wolfSSL SSL/TLS library can weaken security via improper verification of the hash algorithm or its size when checking ...",
             "published_utc": "2026-04-13T19:56:03+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "FBI takedown of W3LL phishing service leads to developer arrest",
-            "link": "https://www.bleepingcomputer.com/news/security/fbi-takedown-of-w3ll-phishing-service-leads-to-developer-arrest/",
-            "summary": "The FBI Atlanta Field Office and Indonesian authorities have dismantled the \"W3LL\" global phishing platform, seizing infrastructure and arresting the ...",
-            "published_utc": "2026-04-13T18:55:50+00:00"
         },
         {
             "source": "Schneier",
@@ -630,13 +637,6 @@
             "link": "https://www.wired.com/story/how-the-internet-broke-everyones-bullshit-detectors/",
             "summary": "From AI-generated images to restricted satellite data, the systems used to verify what’s real online are struggling to keep up.",
             "published_utc": "2026-04-11T09:30:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Google adds end-to-end Gmail encryption to Android, iOS devices for enterprises",
-            "link": "https://www.csoonline.com/article/4157458/google-adds-end-to-end-gmail-encryption-to-android-ios-devices-for-enterprises-3.html",
-            "summary": "",
-            "published_utc": "2026-04-10T22:23:37+00:00"
         },
         {
             "source": "Schneier",
