@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-04-15T21:53:54.225848+00:00",
+    "lastUpdatedUTC": "2026-04-15T22:42:57.802194+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Critical Nginx UI auth bypass flaw now actively exploited in the wild",
+            "link": "https://www.bleepingcomputer.com/news/security/critical-nginx-ui-auth-bypass-flaw-now-actively-exploited-in-the-wild/",
+            "summary": "A critical vulnerability in Nginx UI with Model Context Protocol (MCP) support is now being exploited in the wild for full server takeover without aut...",
+            "published_utc": "2026-04-15T22:35:09+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I tried Google's new desktop app for Windows, and I'll never search the old way again",
+            "link": "https://www.zdnet.com/article/i-tried-googles-new-desktop-app/",
+            "summary": "Now available to all, the app delivers a faster way to access tools like Gemini, Lens, and Search. See why it's totally worth a download.",
+            "published_utc": "2026-04-15T22:02:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "New AgingFly malware used in attacks on Ukraine govt, hospitals",
+            "link": "https://www.bleepingcomputer.com/news/security/new-agingfly-malware-used-in-attacks-on-ukraine-govt-hospitals/",
+            "summary": "A new malware family named 'AgingFly' has been identified in attacks against local governments and hospitals that steal authentication data from Chrom...",
+            "published_utc": "2026-04-15T21:57:17+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "Critical nginx UI tool vulnerability opens web servers to full compromise",
@@ -14,13 +35,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/wordpress-plugin-suite-hacked-to-push-malware-to-thousands-of-sites/",
             "summary": "More than 30 WordPress plugins in the EssentialPlugin package have been compromised with malicious code that allows unauthorized access to websites ru...",
             "published_utc": "2026-04-15T20:33:50+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I tried Google's new desktop app, and I'll never search the old way again",
-            "link": "https://www.zdnet.com/article/i-tried-googles-new-desktop-app/",
-            "summary": "Now available to all, the app delivers a faster way to access tools like Gemini, Lens, and Search. See why it's totally worth a download.",
-            "published_utc": "2026-04-15T18:25:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -181,13 +195,6 @@
             "title": "CISO Conversations: Ross McKerchar, CISO at Sophos",
             "link": "https://www.securityweek.com/ciso-conversations-ross-mckerchar-ciso-at-sophos/",
             "summary": "",
-            "published_utc": "2026-04-15T13:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Critical Nginx-ui MCP Flaw Actively Exploited in the Wild",
-            "link": "https://www.infosecurity-magazine.com/news/nginx-ui-mcp-flaw-actively/",
-            "summary": "Critical nginx-ui MCP authentication bypass CVE-2026-33032 actively exploited with CVSS 9.8",
             "published_utc": "2026-04-15T13:00:00+00:00"
         },
         {
@@ -462,20 +469,6 @@
             "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5083769-and-kb5082052-released/",
             "summary": "Microsoft has released Windows 11 KB5083769 and KB5082052 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, an...",
             "published_utc": "2026-04-14T17:46:31+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft April 2026 Patch Tuesday fixes 167 flaws, 2 zero-days",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-april-2026-patch-tuesday-fixes-167-flaws-2-zero-days/",
-            "summary": "Today is Microsoft's April 2026 Patch Tuesday with security updates for 167 flaws, including 2 zero-day vulnerabilities. [...]",
-            "published_utc": "2026-04-14T17:41:13+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Fake Ledger Live app on Apple’s App Store stole $9.5M in crypto",
-            "link": "https://www.bleepingcomputer.com/news/security/fake-ledger-live-app-on-apples-app-store-stole-95m-in-crypto/",
-            "summary": "A malicious Ledger Live app for macOS available from Apple's App Store has drained approximately $9.5 million in cryptocurrency from 50 victims in jus...",
-            "published_utc": "2026-04-14T16:37:01+00:00"
         },
         {
             "source": "CSO Online",
