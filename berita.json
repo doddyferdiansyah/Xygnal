@@ -1,6 +1,76 @@
 {
-    "lastUpdatedUTC": "2026-04-15T09:21:47.530519+00:00",
+    "lastUpdatedUTC": "2026-04-15T11:01:55.475323+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "$10 Domain Could Have Handed Hackers 25k Endpoints, Including in OT and Gov Networks",
+            "link": "https://www.securityweek.com/10-domain-could-have-handed-hackers-25k-endpoints-including-in-ot-and-gov-networks/",
+            "summary": "",
+            "published_utc": "2026-04-15T10:58:12+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Defense in Depth, Medieval Style",
+            "link": "https://www.schneier.com/blog/archives/2026/04/defense-in-depth-medieval-style.html",
+            "summary": "",
+            "published_utc": "2026-04-15T10:47:55+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "AI Companies To Play Bigger Role in CVE Program, Says CISA",
+            "link": "https://www.infosecurity-magazine.com/news/ai-companies-to-play-bigger-role/",
+            "summary": "At VulnCon, Lindsey Cerkovnik, head of vulnerability management at CISA, said AI companies should play a bigger role in vulnerability disclosures in t...",
+            "published_utc": "2026-04-15T10:30:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Trump Urges Extending Foreign Surveillance Program as Some Lawmakers Push for US Privacy Protections",
+            "link": "https://www.securityweek.com/trump-urges-extending-foreign-surveillance-program-as-some-lawmakers-push-for-us-privacy-protections/",
+            "summary": "",
+            "published_utc": "2026-04-15T10:25:56+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft fixes bug behind Windows Server 2025 automatic upgrades",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-behind-windows-server-2025-automatic-upgrades/",
+            "summary": "Microsoft has finally fixed a known issue that was causing systems running Windows Server 2019 and 2022 to \"unexpectedly\" upgrade to Windows Server 20...",
+            "published_utc": "2026-04-15T10:24:53+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "The deepfake dilemma: From financial fraud to reputational crisis",
+            "link": "https://www.csoonline.com/article/4158068/the-deepfake-dilemma-from-financial-fraud-to-reputational-crisis.html",
+            "summary": "",
+            "published_utc": "2026-04-15T10:00:00+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "The Deepfake Nudes Crisis in Schools Is Much Worse Than You Thought",
+            "link": "https://www.wired.com/story/deepfake-nudify-schools-global-crisis/",
+            "summary": "An analysis by WIRED and Indicator found nearly 90 schools and 600 students around the world impacted by AI-generated deepfake nude images—and the pro...",
+            "published_utc": "2026-04-15T10:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Fortinet Patches Critical FortiSandbox Vulnerabilities",
+            "link": "https://www.securityweek.com/fortinet-patches-critical-fortisandbox-vulnerabilities/",
+            "summary": "",
+            "published_utc": "2026-04-15T09:37:24+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Researchers Spot Surge in Brute-Force Attacks from Middle East",
+            "link": "https://www.infosecurity-magazine.com/news/researchers-surge-bruteforce/",
+            "summary": "Barracuda says 88% of brute-force attempts in Q1 were from the region",
+            "published_utc": "2026-04-15T09:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Microsoft Fixes Two Zero-Days in April Patch Tuesday",
+            "link": "https://www.infosecurity-magazine.com/news/microsoft-two-zerodays-april-patch/",
+            "summary": "Microsoft has patched two zero-day flaws and over 160 others",
+            "published_utc": "2026-04-15T09:10:00+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "7 biggest healthcare security threats",
@@ -373,20 +443,6 @@
             "published_utc": "2026-04-14T10:49:50+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Google Adds Rust DNS Parser to Pixel Phones for Better Security",
-            "link": "https://www.securityweek.com/google-adds-rust-dns-parser-to-pixel-phones-for-better-security/",
-            "summary": "",
-            "published_utc": "2026-04-14T10:21:33+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Nightclub Giant RCI Hospitality Reports Data Breach",
-            "link": "https://www.securityweek.com/nightclub-giant-rci-hospitality-reports-data-breach/",
-            "summary": "",
-            "published_utc": "2026-04-14T09:35:06+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "AI Security Institute Advocates Security Best Practices After Mythos Test",
             "link": "https://www.infosecurity-magazine.com/news/ai-security-institute-best/",
@@ -406,13 +462,6 @@
             "link": "https://www.csoonline.com/article/4158008/the-ai-inflection-point-what-security-leaders-must-do-now.html",
             "summary": "",
             "published_utc": "2026-04-14T09:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Organizations Warned of Exploited Windows, Adobe Acrobat Vulnerabilities",
-            "link": "https://www.securityweek.com/organizations-warned-of-exploited-windows-adobe-acrobat-vulnerabilities/",
-            "summary": "",
-            "published_utc": "2026-04-14T08:57:18+00:00"
         },
         {
             "source": "CSO Online",
@@ -476,13 +525,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/fbi-takedown-of-w3ll-phishing-service-leads-to-developer-arrest/",
             "summary": "The FBI Atlanta Field Office and Indonesian authorities have dismantled the \"W3LL\" global phishing platform, seizing infrastructure and arresting the ...",
             "published_utc": "2026-04-13T18:55:50+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "OpenAI rotates macOS certs after Axios attack hit code-signing workflow",
-            "link": "https://www.bleepingcomputer.com/news/security/openai-rotates-macos-certs-after-axios-attack-hit-code-signing-workflow/",
-            "summary": "OpenAI is rotating potentially exposed macOS code-signing certificates after a GitHub Actions workflow executed a malicious Axios package during a rec...",
-            "published_utc": "2026-04-13T17:39:10+00:00"
         },
         {
             "source": "Schneier",
@@ -602,13 +644,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-squid-overfishing-in-the-south-pacific.html",
             "summary": "",
             "published_utc": "2026-04-10T21:03:27+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Old Docker authorization bypass pops up despite previous patch",
-            "link": "https://www.csoonline.com/article/4157405/old-docker-authorization-bypass-pops-up-despite-previous-patch.html",
-            "summary": "",
-            "published_utc": "2026-04-10T18:50:59+00:00"
         },
         {
             "source": "WIRED Security",
@@ -826,13 +861,6 @@
             "link": "https://www.infosecurity-magazine.com/news/storm1175-medusa-attacks/",
             "summary": "Microsoft has released a new report about the Storm-1175 group and its connection to Medusa ransomware",
             "published_utc": "2026-04-07T10:02:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Hong Kong Police Can Force You to Reveal Your Encryption Keys",
-            "link": "https://www.schneier.com/blog/archives/2026/04/hong-kong-police-can-force-you-to-reveal-your-encryption-keys.html",
-            "summary": "",
-            "published_utc": "2026-04-07T09:45:33+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1393,13 +1421,6 @@
             "link": "https://www.wired.com/story/ice-is-paying-the-salaries-of-this-towns-entire-police-force/",
             "summary": "Under a Homeland Security program, police departments around the US are signing up to assist in immigration enforcement. The cops of Carroll, New Hamp...",
             "published_utc": "2026-03-24T09:00:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "A Mysterious Numbers Station Is Broadcasting Through the Iran War",
-            "link": "https://www.wired.com/story/a-mysterious-numbers-station-is-broadcasting-through-the-iran-war/",
-            "summary": "First heard as US and Israeli strikes on Iran began, the shortwave broadcast has since been traced to a US military base in Germany—but its purpose an...",
-            "published_utc": "2026-03-23T18:59:17+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2751,27 +2772,6 @@
             "link": "https://www.infosecurity-magazine.com/news/researchers-warn-new-vect-raas/",
             "summary": "A new ransomware-as-a-service operation dubbed “Vect” features custom malware",
             "published_utc": "2026-02-03T14:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Cybercrime Unit of Paris Prosecutors Raid Elon Musk’s X Offices in France",
-            "link": "https://www.infosecurity-magazine.com/news/paris-prosecutors-raid-elon-musk-x/",
-            "summary": "Elon Musk and X’s former CEO were summoned for voluntary interviews in Paris on April 20, 2026",
-            "published_utc": "2026-02-03T12:45:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "New Password-Stealing Phishing Campaign Targets Corporate Dropbox Credentials",
-            "link": "https://www.infosecurity-magazine.com/news/password-stealing-phishing-pdf/",
-            "summary": "Multi-stage attack begins with fake message relating to business requests and evades detection with link hidden in a PDF",
-            "published_utc": "2026-02-03T10:55:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Vibe-Coded Moltbook Exposes User Data, API Keys and More",
-            "link": "https://www.infosecurity-magazine.com/news/moltbook-exposes-user-data-api/",
-            "summary": "Wiz Security claims Moltbook misconfiguration allowed full read and write access",
-            "published_utc": "2026-02-03T10:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
