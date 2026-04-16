@@ -1,6 +1,62 @@
 {
-    "lastUpdatedUTC": "2026-04-16T09:21:35.097660+00:00",
+    "lastUpdatedUTC": "2026-04-16T11:05:02.193271+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "NIST Prioritizes NVD Enrichment for CVEs in CISA KEV, Critical Software",
+            "link": "https://www.securityweek.com/nist-prioritizes-nvd-enrichment-for-cves-in-cisa-kev-critical-software/",
+            "summary": "",
+            "published_utc": "2026-04-16T10:47:14+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Data breach at edtech giant McGraw Hill affects 13.5 million accounts",
+            "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-edtech-giant-mcgraw-hill-affects-135-million-accounts/",
+            "summary": "The ShinyHunters extortion group has leaked data from 13.5 million McGraw Hill user accounts, stolen after breaching the company's Salesforce environm...",
+            "published_utc": "2026-04-16T10:35:09+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Cisco Patches Critical Vulnerabilities in Webex, ISE",
+            "link": "https://www.securityweek.com/cisco-patches-critical-vulnerabilities-in-webex-ise/",
+            "summary": "",
+            "published_utc": "2026-04-16T10:04:31+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Insurance carriers quietly back away from covering AI outputs",
+            "link": "https://www.csoonline.com/article/4159292/insurance-carriers-quietly-back-away-from-covering-ai-outputs.html",
+            "summary": "",
+            "published_utc": "2026-04-16T10:01:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "This stroller turns into a carry on-suitcase, and I recommend it for traveling parents",
+            "link": "https://www.zdnet.com/article/ternx-stroller-suitcase-testimonial/",
+            "summary": "The TernX aims to make airport travel with a child easier. Here's how to decide if the high price tag is worth it for you.",
+            "published_utc": "2026-04-16T10:00:43+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Human Trust of AI Agents",
+            "link": "https://www.schneier.com/blog/archives/2026/04/human-trust-of-ai-agents.html",
+            "summary": "",
+            "published_utc": "2026-04-16T09:41:24+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Systemic Flaw in MCP Protocol Could Expose 150 Million Downloads",
+            "link": "https://www.infosecurity-magazine.com/news/systemic-flaw-mcp-expose-150/",
+            "summary": "Ox Security claims as many as 200,000 servers are exposed by newly discovered MCP vulnerability",
+            "published_utc": "2026-04-16T09:40:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Ransomware Hits Automotive Data Expert Autovista",
+            "link": "https://www.securityweek.com/ransomware-hits-automotive-data-expert-autovista/",
+            "summary": "",
+            "published_utc": "2026-04-16T09:30:16+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "The best small business VoIP providers of 2026: Expert tested and reviewed",
@@ -21,6 +77,13 @@
             "link": "https://www.csoonline.com/article/4158505/the-endless-ciso-reporting-line-debate-and-what-it-says-about-cybersecurity-leadership.html",
             "summary": "",
             "published_utc": "2026-04-16T09:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Automotive Ransomware Attacks Double in a Year",
+            "link": "https://www.infosecurity-magazine.com/news/automotive-ransomware-attacks/",
+            "summary": "Halcyon says ransomware now accounts for more than two-fifths of cyber-attacks targeting carmakers",
+            "published_utc": "2026-04-16T08:35:00+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -282,13 +345,6 @@
             "published_utc": "2026-04-15T12:23:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Mirax RAT Targeting Android Users in Europe",
-            "link": "https://www.securityweek.com/mirax-rat-targeting-android-users-in-europe/",
-            "summary": "",
-            "published_utc": "2026-04-15T12:10:08+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Copilot and Agentforce fall to form-based prompt injection tricks",
             "link": "https://www.csoonline.com/article/4159079/copilot-and-agentforce-fall-to-form-based-prompt-injection-tricks.html",
@@ -303,25 +359,11 @@
             "published_utc": "2026-04-15T11:41:35+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Two Vulnerabilities Patched in Ivanti Neurons for ITSM",
-            "link": "https://www.securityweek.com/two-vulnerabilities-patched-in-ivanti-neurons-for-itsm/",
-            "summary": "",
-            "published_utc": "2026-04-15T11:38:21+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "The best internal communication tools of 2026: Expert tested and reviewed",
             "link": "https://www.zdnet.com/article/best-internal-communication-tools/",
             "summary": "If your office works remotely in any way, you'll need reliable internal communication tools to keep information flowing smoothly and everyone on the s...",
             "published_utc": "2026-04-15T11:01:14+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "$10 Domain Could Have Handed Hackers 25k Endpoints, Including in OT and Gov Networks",
-            "link": "https://www.securityweek.com/10-domain-could-have-handed-hackers-25k-endpoints-including-in-ot-and-gov-networks/",
-            "summary": "",
-            "published_utc": "2026-04-15T10:58:12+00:00"
         },
         {
             "source": "Schneier",
@@ -385,13 +427,6 @@
             "link": "https://www.csoonline.com/article/4158064/the-need-for-a-board-level-definition-of-cyber-resilience.html",
             "summary": "",
             "published_utc": "2026-04-15T09:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Half of all US employees use AI at work now - and waste almost 8 hours a week doing it",
-            "link": "https://www.zdnet.com/article/increasing-use-of-ai-is-causing-structural-workplace-changes-new-gallup-poll-finds/",
-            "summary": "Companies on the front lines of AI adoption are also hiring and laying off more employees on average than those that aren't, Gallup found.",
-            "published_utc": "2026-04-15T08:00:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -476,13 +511,6 @@
             "link": "https://www.wired.com/story/telegram-is-still-hosting-a-sanctioned-21-billion-crypto-scammer-black-market/",
             "summary": "The UK designated Xinbi Guarantee as an enabler of crypto scammers and human trafficking weeks ago. Telegram is still hosting it in plain sight.",
             "published_utc": "2026-04-14T18:56:08+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft releases Windows 10 KB5082200 extended security update",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5082200-extended-security-update/",
-            "summary": "Microsoft has released the Windows 10 KB5082200 extended security update to fix the April 2026 Patch Tuesday vulnerabilities, including 2 zero-days. [...",
-            "published_utc": "2026-04-14T18:09:39+00:00"
         },
         {
             "source": "CSO Online",
@@ -602,13 +630,6 @@
             "link": "https://www.infosecurity-magazine.com/news/mirax-trojan-devices-proxy-nodes/",
             "summary": "Security researchers warn of Mirax, an emerging Android banking trojan using MaaS, remote access and residential proxies to target European users",
             "published_utc": "2026-04-13T14:30:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Critical flaw in Marimo Python notebook exploited within 10 hours of disclosure",
-            "link": "https://www.csoonline.com/article/4157810/critical-flaw-in-marimo-python-notebook-exploited-within-10-hours-of-disclosure.html",
-            "summary": "",
-            "published_utc": "2026-04-13T12:34:45+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -833,13 +854,6 @@
             "link": "https://www.wired.com/story/anthropic-mythos-preview-project-glasswing/",
             "summary": "The AI lab's Project Glasswing will bring together Apple, Google, and more than 45 other organizations. They'll use the new Claude Mythos Preview mode...",
             "published_utc": "2026-04-07T18:49:50+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Cybersecurity in the Age of Instant Software",
-            "link": "https://www.schneier.com/blog/archives/2026/04/cybersecurity-in-the-age-of-instant-software.html",
-            "summary": "",
-            "published_utc": "2026-04-07T17:07:52+00:00"
         },
         {
             "source": "KrebsOnSecurity",
@@ -2746,25 +2760,11 @@
             "published_utc": "2026-02-04T13:00:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "SolarWinds Web Help Desk Vulnerability Actively Exploited",
-            "link": "https://www.infosecurity-magazine.com/news/solarwinds-web-help-desk/",
-            "summary": "CISA has added a critical CVE in SolarWinds Web Help Desk to its KEV Catalog",
-            "published_utc": "2026-02-04T10:15:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "OfferUp scammers are out in force: Here’s what you should know",
             "link": "https://www.welivesecurity.com/en/scams/offerup-scammers-out-force-heres-what-you-should-know/",
             "summary": "The mobile marketplace app has a growing number of users, but not all of them are genuine. Watch out for these common scams.",
             "published_utc": "2026-02-04T10:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Hundreds of Malicious Crypto Trading Add-Ons Found in Moltbot/OpenClaw",
-            "link": "https://www.infosecurity-magazine.com/news/malicious-crypto-trading-skills/",
-            "summary": "A security researcher found 386 malicious ‘skills’ published on ClawHub, a skill repository for the popular OpenClaw AI assistant project",
-            "published_utc": "2026-02-03T16:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
