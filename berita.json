@@ -1,6 +1,62 @@
 {
-    "lastUpdatedUTC": "2026-04-16T15:27:23.434342+00:00",
+    "lastUpdatedUTC": "2026-04-16T17:16:55.331673+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "OpenAI's Codex Desktop can run your computer now - and has its own browser",
+            "link": "https://www.zdnet.com/article/openai-codex-desktop-update/",
+            "summary": "From coding tool to productivity powerhouse, Codex Desktop adds computer control, automation memory, and plugin support. But can it replace traditiona...",
+            "published_utc": "2026-04-16T17:01:02+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Government Can’t Win the Cyber War Without the Private Sector",
+            "link": "https://www.securityweek.com/government-cant-win-the-cyber-war-without-the-private-sector/",
+            "summary": "",
+            "published_utc": "2026-04-16T17:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers exploit Marimo flaw to deploy NKAbuse malware from Hugging Face",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-marimo-flaw-to-deploy-nkabuse-malware-from-hugging-face/",
+            "summary": "Hackers are exploiting a critical vulnerability in Marimo reactive Python notebook to deploy a new variant of NKAbuse malware hosted on Hugging Face S...",
+            "published_utc": "2026-04-16T16:58:06+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Want to build a startup that gets acquired? This founder shares 5 proven tips",
+            "link": "https://www.zdnet.com/article/snoop-founder-shares-startup-acquisition-proven-tips/",
+            "summary": "Jem Walters built and sold a fintech app called Snoop. Here are the choices he made and would do again for success.",
+            "published_utc": "2026-04-16T16:18:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Google to pay $135M settlement to Android phone users - how to claim your share if you qualify",
+            "link": "https://www.zdnet.com/article/android-users-google-class-action-suit/",
+            "summary": "The suit alleges that Google sent data over cellular connections without your permission. Here's how to file a settlement claim to get paid.",
+            "published_utc": "2026-04-16T16:10:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "US Nationals Jailed for Operating Fake Remote Worker Laptop Farms for North Korea",
+            "link": "https://www.infosecurity-magazine.com/news/us-nationals-jailed-north-korea/",
+            "summary": "US authorities jail two Americans for aiding North Korean laptop farm scams that infiltrated over 100 firms",
+            "published_utc": "2026-04-16T16:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "MacBook Neo vs. Surface: Why spiraling RAM prices are bruising Microsoft's PC business but not Apple's",
+            "link": "https://www.zdnet.com/article/macbook-neo-versus-microsoft-surface/",
+            "summary": "High memory and storage prices are crushing the market, and Microsoft's Surface is suffering the most. So why is Apple's newest MacBook immune?",
+            "published_utc": "2026-04-16T15:52:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "APK Malformation Found in Thousands of Android Malware Samples",
+            "link": "https://www.infosecurity-magazine.com/news/apk-malformation-android-malware/",
+            "summary": "APK malformation tactic now appears in over 3000 Android malware samples evading static analysis",
+            "published_utc": "2026-04-16T15:45:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Want to stand out on LinkedIn? Try this career strategist's top 3 tips for strengthening your profile",
@@ -255,13 +311,6 @@
         },
         {
             "source": "ZDNet Security",
-            "title": "The same Microsoft Surface I bought 4 months ago is 69% more expensive now - here's why",
-            "link": "https://www.zdnet.com/article/macbook-neo-versus-microsoft-surface/",
-            "summary": "High memory and storage prices are crushing the PC business, and Microsoft's Surface is suffering most of all. So why is the MacBook Neo immune?",
-            "published_utc": "2026-04-16T00:20:26+00:00"
-        },
-        {
-            "source": "ZDNet Security",
             "title": "I've been subscribed to a data removal service a month now - what I wish I knew sooner",
             "link": "https://www.zdnet.com/article/is-a-data-removal-service-worthwhile-2026/",
             "summary": "Data removal services automate the removal of your information from the web, but their biggest benefit lies elsewhere.",
@@ -331,13 +380,6 @@
             "published_utc": "2026-04-15T16:58:24+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Sweden Blames Pro-Russian Group for Cyberattack Last Year on Its Energy Infrastructure",
-            "link": "https://www.securityweek.com/sweden-blames-pro-russian-group-for-cyberattack-last-year-on-its-energy-infrastructure/",
-            "summary": "",
-            "published_utc": "2026-04-15T16:46:48+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Microsoft pays $2.3M for cloud and AI flaws at Zero Day Quest",
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pays-23-million-for-cloud-and-ai-flaws-at-zero-day-quest/",
@@ -359,32 +401,11 @@
             "published_utc": "2026-04-15T16:00:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Can this $70 Linux app make up for the lack of Photoshop? I tried it to find out",
-            "link": "https://www.zdnet.com/article/fogpanther-image-editor-linux-gimp-competitor/",
-            "summary": "For those who bemoan the lack of Photoshop on Linux, it's possible that a competitor to GIMP could fill that need… maybe.",
-            "published_utc": "2026-04-15T15:59:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "European Cybersecurity Agency ENISA Seeks Top-Tier Status in CVE Program",
             "link": "https://www.infosecurity-magazine.com/news/enisa-europe-seeks-top-level-root/",
             "summary": "The EU cybersecurity agency looks to become the third Top-Level Root CVE Numbering Authority, alongside CISA and MITRE",
             "published_utc": "2026-04-15T15:31:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "You can use Linux 7.0 on these 7 distros today - here's what to expect",
-            "link": "https://www.zdnet.com/article/try-new-linux-7-0-kernel-on-these-distributions/",
-            "summary": "The latest Linux kernel boasts full Rust support and a greatly improved scheduler to speed up your work and your games.",
-            "published_utc": "2026-04-15T15:19:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "'Like handing out the blueprint to a bank vault': Why AI led one company to abandon open source",
-            "link": "https://www.zdnet.com/article/ai-security-worries-force-company-to-abandon-open-source/",
-            "summary": "Cal is moving its flagship open-source program to a proprietary model because it can't cope with the dangers of AI hacking its open code.",
-            "published_utc": "2026-04-15T15:00:39+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -413,13 +434,6 @@
             "link": "https://www.csoonline.com/article/4159079/copilot-and-agentforce-fall-to-form-based-prompt-injection-tricks.html",
             "summary": "",
             "published_utc": "2026-04-15T12:09:36+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft: April updates trigger BitLocker key prompts on some servers",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-windows-servers-ask-for-bitlocker-key-after-april-updates/",
-            "summary": "Microsoft confirmed on Tuesday that some Windows Server 2025 devices will boot into BitLocker recovery after installing the April 2026 KB5082063 Windo...",
-            "published_utc": "2026-04-15T11:41:35+00:00"
         },
         {
             "source": "Schneier",
@@ -2744,20 +2758,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ai-voice-virtual-meeting-fraud/",
             "summary": "Pindrop warns of 1210% increase in AI-powered fraud last year",
             "published_utc": "2026-02-05T10:05:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Global SystemBC Botnet Found Active Across 10,000 Infected Systems",
-            "link": "https://www.infosecurity-magazine.com/news/global-systembc-botnet-10000/",
-            "summary": "SystemBC malware linked to 10,000 infected IPs, posing risks to sensitive government infrastructure",
-            "published_utc": "2026-02-04T16:15:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "New Technical Markers Reveal Expanding ShadowSyndicate Cybercriminal Infrastructure",
-            "link": "https://www.infosecurity-magazine.com/news/shadowsyndicate/",
-            "summary": "ShadowSyndicate cluster expands with new SSH fingerprints connecting servers to other ransomware ops",
-            "published_utc": "2026-02-04T15:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
