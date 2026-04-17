@@ -1,6 +1,34 @@
 {
-    "lastUpdatedUTC": "2026-04-17T05:29:28.043746+00:00",
+    "lastUpdatedUTC": "2026-04-17T07:50:12.481381+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Cursor AI Vulnerability Exposed Developer Devices",
+            "link": "https://www.securityweek.com/cursor-ai-vulnerability-exposed-developer-devices/",
+            "summary": "",
+            "published_utc": "2026-04-17T07:29:16+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Man gets 30 months for selling thousands of hacked DraftKings accounts",
+            "link": "https://www.bleepingcomputer.com/news/security/man-gets-30-months-for-selling-thousands-of-hacked-draftkings-accounts/",
+            "summary": "23-year-old Kamerin Stokes of Memphis, Tennessee, was sentenced to 30 months in prison for selling access to tens of thousands of hacked DraftKings ac...",
+            "published_utc": "2026-04-17T07:10:32+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "53 DDoS Domains Taken Down by Law Enforcement",
+            "link": "https://www.securityweek.com/53-ddos-domains-taken-down-by-law-enforcement/",
+            "summary": "",
+            "published_utc": "2026-04-17T06:40:21+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Recently leaked Windows zero-days now exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/recently-leaked-windows-zero-days-now-exploited-in-attacks/",
+            "summary": "Threat actors are exploiting three recently disclosed Windows security vulnerabilities in attacks aimed at gaining SYSTEM or elevated administrator pe...",
+            "published_utc": "2026-04-17T06:14:52+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "Positiv denken für Sicherheitsentscheider: 6 Mindsets, die Sie sofort ablegen sollten",
@@ -52,7 +80,7 @@
         },
         {
             "source": "CSO Online",
-            "title": "Cisco Systems issues three advisories for critical vulnerabilities in Webex, ISE",
+            "title": "Cisco Webex SSO flaw needs manual certificate update to fix",
             "link": "https://www.csoonline.com/article/4159827/cisco-systems-issues-three-advisories-for-critical-vulnerabilities-in-webex-ise.html",
             "summary": "",
             "published_utc": "2026-04-16T22:29:46+00:00"
@@ -289,6 +317,13 @@
             "published_utc": "2026-04-16T12:01:42+00:00"
         },
         {
+            "source": "WeLiveSecurity",
+            "title": "Supply chain dependencies: Have you checked your blind spot?",
+            "link": "https://www.welivesecurity.com/en/business-security/supply-chain-dependencies-have-you-checked-your-blind-spot/",
+            "summary": "Your biggest risk may be a vendor you trust. How can SMBs map their third-party blind spots and build operational resilience?",
+            "published_utc": "2026-04-16T12:00:00+00:00"
+        },
+        {
             "source": "CSO Online",
             "title": "Behind the Mythos hype, Glasswing has just one confirmed CVE",
             "link": "https://www.csoonline.com/article/4159617/behind-the-mythos-hype-glasswing-has-just-one-confirmed-cve.html",
@@ -359,13 +394,6 @@
             "published_utc": "2026-04-16T09:40:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Ransomware Hits Automotive Data Expert Autovista",
-            "link": "https://www.securityweek.com/ransomware-hits-automotive-data-expert-autovista/",
-            "summary": "",
-            "published_utc": "2026-04-16T09:30:16+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "The endless CISO reporting line debate — and what it says about cybersecurity leadership",
             "link": "https://www.csoonline.com/article/4158505/the-endless-ciso-reporting-line-debate-and-what-it-says-about-cybersecurity-leadership.html",
@@ -378,13 +406,6 @@
             "link": "https://www.infosecurity-magazine.com/news/automotive-ransomware-attacks/",
             "summary": "Halcyon says ransomware now accounts for more than two-fifths of cyber-attacks targeting carmakers",
             "published_utc": "2026-04-16T08:35:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Claude Code, Gemini CLI, GitHub Copilot Agents Vulnerable to Prompt Injection via Comments",
-            "link": "https://www.securityweek.com/claude-code-gemini-cli-github-copilot-agents-vulnerable-to-prompt-injection-via-comments/",
-            "summary": "",
-            "published_utc": "2026-04-16T08:33:54+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -427,20 +448,6 @@
             "link": "https://www.csoonline.com/article/4159248/critical-nginx-ui-tool-vulnerability-opens-web-servers-to-full-compromise.html",
             "summary": "",
             "published_utc": "2026-04-15T20:52:20+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "WordPress plugin suite hacked to push malware to thousands of sites",
-            "link": "https://www.bleepingcomputer.com/news/security/wordpress-plugin-suite-hacked-to-push-malware-to-thousands-of-sites/",
-            "summary": "More than 30 WordPress plugins in the EssentialPlugin package have been compromised with malicious code that allows unauthorized access to websites ru...",
-            "published_utc": "2026-04-15T20:33:50+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Signed software abused to deploy antivirus-killing scripts",
-            "link": "https://www.bleepingcomputer.com/news/security/signed-software-abused-to-deploy-antivirus-killing-scripts/",
-            "summary": "A digitally signed adware tool has deployed payloads running with SYSTEM privileges that disabled antivirus protections on thousands of endpoints, som...",
-            "published_utc": "2026-04-15T17:59:30+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -3248,13 +3255,6 @@
             "link": "https://www.welivesecurity.com/en/eset-research/ghostredirector-poisons-windows-servers-backdoors-side-potatoes/",
             "summary": "ESET researchers have identified a new threat actor targeting Windows servers with a passive C++ backdoor and a malicious IIS module that manipulates ...",
             "published_utc": "2025-09-04T08:55:00+00:00"
-        },
-        {
-            "source": "WeLiveSecurity",
-            "title": "Don’t let “back to school” become “back to (cyber)bullying”",
-            "link": "https://www.welivesecurity.com/en/kids-online/dont-let-back-to-school-become-back-to-bullying/",
-            "summary": "Cyberbullying is a fact of life in our digital-centric society, but there are ways to push back",
-            "published_utc": "2025-08-27T09:00:00+00:00"
         },
         {
             "source": "Threatpost",
