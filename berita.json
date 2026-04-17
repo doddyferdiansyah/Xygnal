@@ -1,12 +1,47 @@
 {
-    "lastUpdatedUTC": "2026-04-17T11:59:34.344950+00:00",
+    "lastUpdatedUTC": "2026-04-17T13:44:55.358057+00:00",
     "articles": [
         {
+            "source": "InfosecurityMag",
+            "title": "Commercial AI Models Show Rapid Gains in Vulnerability Research",
+            "link": "https://www.infosecurity-magazine.com/news/ai-models-rapid-gains/",
+            "summary": "AI models are making rapid gains in vulnerability research and exploit development, raising new cybersecurity risks, a Forescout study finds",
+            "published_utc": "2026-04-17T13:20:00+00:00"
+        },
+        {
             "source": "CSO Online",
-            "title": "Caught, Quarantined, Re-installed: RedSun turns Microsoft Defender on itself",
+            "title": "White House moves to give federal agencies access to Anthropic’s Claude Mythos",
+            "link": "https://www.csoonline.com/article/4160303/white-house-moves-to-give-federal-agencies-access-to-anthropics-claude-mythos.html",
+            "summary": "",
+            "published_utc": "2026-04-17T12:32:33+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Webinar: From phishing to fallout — Why MSPs must rethink both security and recovery",
+            "link": "https://www.bleepingcomputer.com/news/security/webinar-from-phishing-to-fallout-why-msps-must-rethink-both-security-and-recovery/",
+            "summary": "Cyberattacks are evolving faster than many MSP and corporate defenses can keep up, with phishing driving much of today's cybercrime. Join our upcoming...",
+            "published_utc": "2026-04-17T12:20:28+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "In Other News: Satellite Cybersecurity Act, $90K Chrome Flaw, Teen Hacker Arrested",
+            "link": "https://www.securityweek.com/in-other-news-satellite-cybersecurity-act-90k-chrome-flaw-teen-hacker-arrested/",
+            "summary": "",
+            "published_utc": "2026-04-17T12:00:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Another Microsoft Defender privilege escalation bug emerges days after patch",
             "link": "https://www.csoonline.com/article/4160275/caught-quarantined-re-installed-redsun-turns-microsoft-defender-on-itself.html",
             "summary": "",
             "published_utc": "2026-04-17T11:55:14+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "DDoS-For-Hire Services Disrupted by International Police Action in ‘Operation PowerOff’",
+            "link": "https://www.infosecurity-magazine.com/news/ddos-services-hit-by-police/",
+            "summary": "Coordinated action by FBI, Europol and others seizes infrastructure, makes arrests – and sends warning letters to known DDoS service users",
+            "published_utc": "2026-04-17T11:30:00+00:00"
         },
         {
             "source": "Schneier",
@@ -373,13 +408,6 @@
             "published_utc": "2026-04-16T12:43:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Data Breach at Tennessee Hospital Affects 337,000",
-            "link": "https://www.securityweek.com/data-breach-at-tennessee-hospital-affects-337000/",
-            "summary": "",
-            "published_utc": "2026-04-16T12:40:36+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Microsoft’s Windows Recall still allows silent data extraction",
             "link": "https://www.csoonline.com/article/4159643/microsofts-windows-recall-still-allows-silent-data-extraction.html",
@@ -455,13 +483,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/us-nationals-behind-north-korean-it-worker-laptop-farm-sent-to-prison/",
             "summary": "Two U.S. nationals have been sent to prison for helping North Korean remote information technology (IT) workers to pose as U.S. residents and get hire...",
             "published_utc": "2026-04-16T08:32:13+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft: April Windows Server 2025 update may fail to install",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-april-windows-server-2025-update-may-fail-to-install/",
-            "summary": "Microsoft is investigating an issue causing this month's KB5082063 security update to fail to install on some Windows Server 2025 systems. [...]",
-            "published_utc": "2026-04-16T07:37:44+00:00"
         },
         {
             "source": "CSO Online",
@@ -588,13 +609,6 @@
             "link": "https://www.csoonline.com/article/4158847/curity-looks-to-reinvent-iam-with-runtime-authorization-for-ai-agents.html",
             "summary": "",
             "published_utc": "2026-04-15T03:27:58+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "April Patch Tuesday roundup: Zero day vulnerabilities and critical bugs",
-            "link": "https://www.csoonline.com/article/4158706/april-patch-tuesday-roundup-zero-day-vulnerabilities-and-critical-bugs.html",
-            "summary": "",
-            "published_utc": "2026-04-15T01:27:54+00:00"
         },
         {
             "source": "KrebsOnSecurity",
@@ -2760,20 +2774,6 @@
             "published_utc": "2026-02-05T13:30:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "New Hacking Campaign Exploits Microsoft Windows WinRAR Vulnerability",
-            "link": "https://www.infosecurity-magazine.com/news/hacking-exploits-windows-winrar/",
-            "summary": "Researchers at Check Point link ‘Amarath-Dragon’ attacks to prolific Chinese cyber-espionage operation",
-            "published_utc": "2026-02-05T11:50:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "AI-Enabled Voice and Virtual Meeting Fraud Surges 1000%+",
-            "link": "https://www.infosecurity-magazine.com/news/ai-voice-virtual-meeting-fraud/",
-            "summary": "Pindrop warns of 1210% increase in AI-powered fraud last year",
-            "published_utc": "2026-02-05T10:05:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "OfferUp scammers are out in force: Here’s what you should know",
             "link": "https://www.welivesecurity.com/en/scams/offerup-scammers-out-force-heres-what-you-should-know/",
@@ -3262,6 +3262,76 @@
             "link": "https://www.welivesecurity.com/en/eset-research/ghostredirector-poisons-windows-servers-backdoors-side-potatoes/",
             "summary": "ESET researchers have identified a new threat actor targeting Windows servers with a passive C++ backdoor and a malicious IIS module that manipulates ...",
             "published_utc": "2025-09-04T08:55:00+00:00"
+        },
+        {
+            "source": "Threatpost",
+            "title": "Student Loan Breach Exposes 2.5M Records",
+            "link": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
+            "summary": "2.5 million people were affected, in a breach that could spell more trouble down the line.",
+            "published_utc": "2022-08-31T12:57:48+00:00"
+        },
+        {
+            "source": "Threatpost",
+            "title": "Watering Hole Attacks Push ScanBox Keylogger",
+            "link": "https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/",
+            "summary": "Researchers uncover a watering hole attack likely carried out by APT TA423, which attempts to plant the ScanBox JavaScript-based reconnaissance tool.",
+            "published_utc": "2022-08-30T16:00:43+00:00"
+        },
+        {
+            "source": "Threatpost",
+            "title": "Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms",
+            "link": "https://threatpost.com/0ktapus-victimize-130-firms/180487/",
+            "summary": "Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.",
+            "published_utc": "2022-08-29T14:56:19+00:00"
+        },
+        {
+            "source": "Threatpost",
+            "title": "Ransomware Attacks are on the Rise",
+            "link": "https://threatpost.com/ransomware-attacks-are-on-the-rise/180481/",
+            "summary": "Lockbit is by far this summer’s most prolific ransomware group, trailed by two offshoots of the Conti group.",
+            "published_utc": "2022-08-26T16:44:27+00:00"
+        },
+        {
+            "source": "Threatpost",
+            "title": "Cybercriminals Are Selling Access to Chinese Surveillance Cameras",
+            "link": "https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/",
+            "summary": "Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed.",
+            "published_utc": "2022-08-25T18:47:15+00:00"
+        },
+        {
+            "source": "Threatpost",
+            "title": "Twitter Whistleblower Complaint: The TL;DR Version",
+            "link": "https://threatpost.com/twitter-whistleblower-tldr-version/180472/",
+            "summary": "Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a n...",
+            "published_utc": "2022-08-24T14:17:04+00:00"
+        },
+        {
+            "source": "Threatpost",
+            "title": "Firewall Bug Under Active Attack Triggers CISA Warning",
+            "link": "https://threatpost.com/firewall-bug-under-active-attack-cisa-warning/180467/",
+            "summary": "CISA is warning that Palo Alto Networks’ PAN-OS is under active attack and needs to be patched ASAP.",
+            "published_utc": "2022-08-23T13:19:58+00:00"
+        },
+        {
+            "source": "Threatpost",
+            "title": "Fake Reservation Links Prey on Weary Travelers",
+            "link": "https://threatpost.com/reservation-links-prey-on-travelers/180462/",
+            "summary": "Fake travel reservations are exacting more pain from the travel weary, already dealing with the misery of canceled flights and overbooked hotels.",
+            "published_utc": "2022-08-22T13:59:06+00:00"
+        },
+        {
+            "source": "Threatpost",
+            "title": "iPhone Users Urged to Update to Patch 2 Zero-Days",
+            "link": "https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/",
+            "summary": "Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack.",
+            "published_utc": "2022-08-19T15:25:56+00:00"
+        },
+        {
+            "source": "Threatpost",
+            "title": "Google Patches Chrome’s Fifth Zero-Day of the Year",
+            "link": "https://threatpost.com/google-patches-chromes-fifth-zero-day-of-the-year/180432/",
+            "summary": "An insufficient validation input flaw, one of 11 patched in an update this week, could allow for arbitrary code execution and is under active attack.",
+            "published_utc": "2022-08-18T14:31:38+00:00"
         }
     ]
 }
