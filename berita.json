@@ -1,6 +1,13 @@
 {
-    "lastUpdatedUTC": "2026-04-18T14:41:06.903127+00:00",
+    "lastUpdatedUTC": "2026-04-18T15:38:26.779212+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Critical flaw in Protobuf library enables JavaScript code execution",
+            "link": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/",
+            "summary": "Proof-of-concept exploit code has been published for a critical remote code execution flaw in protobuf.js, a widely used JavaScript implementation of ...",
+            "published_utc": "2026-04-18T15:09:44+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Microsoft Teams right-click paste broken by Edge update bug",
@@ -441,13 +448,6 @@
             "link": "https://www.infosecurity-magazine.com/news/apk-malformation-android-malware/",
             "summary": "APK malformation tactic now appears in over 3000 Android malware samples evading static analysis",
             "published_utc": "2026-04-16T15:45:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Google expands Gemini AI use to fight malicious ads on its platform",
-            "link": "https://www.bleepingcomputer.com/news/google/google-expands-gemini-ai-use-to-fight-malicious-ads-on-its-platform/",
-            "summary": "Google says it is increasingly using its Gemini AI models to detect and block harmful ads on its advertising platforms, as scammers and threat actors ...",
-            "published_utc": "2026-04-16T15:24:14+00:00"
         },
         {
             "source": "InfosecurityMag",
