@@ -1,6 +1,55 @@
 {
-    "lastUpdatedUTC": "2026-04-20T14:52:21.571613+00:00",
+    "lastUpdatedUTC": "2026-04-20T16:11:35.722869+00:00",
     "articles": [
+        {
+            "source": "InfosecurityMag",
+            "title": "ZionSiphon Malware Targets Water Infrastructure Systems",
+            "link": "https://www.infosecurity-magazine.com/news/zionsiphon-malware-water/",
+            "summary": "ZionSiphon malware targets OT water systems with sabotage and ICS scanning capabilities",
+            "published_utc": "2026-04-20T16:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Serial-to-IP Converter Flaws Expose OT and Healthcare Systems to Hacking",
+            "link": "https://www.securityweek.com/serial-to-ip-converter-flaws-expose-ot-and-healthcare-systems-to-hacking/",
+            "summary": "",
+            "published_utc": "2026-04-20T15:42:22+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Apple's foldable iPhone hinges on one key feature for me - and it's not the hardware",
+            "link": "https://www.zdnet.com/article/foldable-iphone-multitasking-features-im-hoping-for/",
+            "summary": "Multitasking on iPhones is currently limited. That will need to change for Apple's most ambitious device yet to succeed.",
+            "published_utc": "2026-04-20T15:39:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "T-Mobile is practically giving away the Apple Watch Series 11 - here's how to get one",
+            "link": "https://www.zdnet.com/article/apple-watch-series-11-deal-tmobile/",
+            "summary": "Save $300 on the Series 11 with cellular data when you add a new watch line to your plan at T-Mobile. We'll break down the deal details.",
+            "published_utc": "2026-04-20T15:33:51+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft: Teams increasingly abused in helpdesk impersonation attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-increasingly-abused-in-helpdesk-impersonation-attacks/",
+            "summary": "Microsoft is warning of threat actors increasingly abusing external Microsoft Teams collaboration and relying on legitimate tools for access and later...",
+            "published_utc": "2026-04-20T15:11:24+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Formbook Malware Campaign Uses Multiple Obfuscation Techniques to Avoid Detection",
+            "link": "https://www.infosecurity-magazine.com/news/formbook-malware-multiple/",
+            "summary": "Formbook attacks use combination of DLL Side-Loading and Obfuscated JavaScript to stay hidden, researchers at WatchGuard have uncovered",
+            "published_utc": "2026-04-20T15:01:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I tested DJI's tiny 4K action camera for weeks - and now I'm ditching my GoPro for it",
+            "link": "https://www.zdnet.com/article/dji-osmo-nano-review/",
+            "summary": "The DJI Osmo Nano is tiny yet powerful, and it's everything I need for recording my adventures.",
+            "published_utc": "2026-04-20T14:53:00+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "The backup myth that is putting businesses at risk",
@@ -366,39 +415,11 @@
             "published_utc": "2026-04-17T18:28:13+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Prolonged AI use can be hazardous to your health and work: 4 ways to stay safe",
-            "link": "https://www.zdnet.com/article/why-prolonged-ai-use-risks-your-health-4-ways-to-stay-safe/",
-            "summary": "AI is a great tool for small, well-defined tasks, but maintain a healthy skepticism and avoid falling down a rabbit hole.",
-            "published_utc": "2026-04-17T18:06:37+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Verizon will give you a free iPad or Apple Watch with your next iPhone - how the deal works",
-            "link": "https://www.zdnet.com/article/verizon-ipad-apple-watch-deal/",
-            "summary": "The latest Verizon deal lets you choose either the A16 iPad or a recent Apple Watch model for free with select Unlimited mobile plans.",
-            "published_utc": "2026-04-17T17:22:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The best laptops of 2026: Expert tested and reviewed",
-            "link": "https://www.zdnet.com/article/best-laptop/",
-            "summary": "We've tested dozens of laptops over the last year, but there are some clear winners in each of our different categories. Here's our top picks so far f...",
-            "published_utc": "2026-04-17T17:00:39+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Grinex exchange blames \"Western intelligence\" for $13.7M crypto hack",
             "link": "https://www.bleepingcomputer.com/news/security/grinex-exchange-blames-western-intelligence-for-137m-crypto-hack/",
             "summary": "Kyrgyzstan-based cryptocurrency exchange Grinex has suspended its operations after suffering a $13.7 million hack attributed to Western intelligence a...",
             "published_utc": "2026-04-17T15:08:53+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "CoChat Launches AI Collaboration Platform to Combat Shadow AI",
-            "link": "https://www.securityweek.com/cochat-launches-ai-collaboration-platform-to-combat-shadow-ai/",
-            "summary": "",
-            "published_utc": "2026-04-17T15:00:00+00:00"
         },
         {
             "source": "WIRED Security",
@@ -427,13 +448,6 @@
             "link": "https://www.csoonline.com/article/4160303/white-house-moves-to-give-federal-agencies-access-to-anthropics-claude-mythos.html",
             "summary": "",
             "published_utc": "2026-04-17T12:32:33+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Webinar: From phishing to fallout — Why MSPs must rethink both security and recovery",
-            "link": "https://www.bleepingcomputer.com/news/security/webinar-from-phishing-to-fallout-why-msps-must-rethink-both-security-and-recovery/",
-            "summary": "Cyberattacks are evolving faster than many MSP and corporate defenses can keep up, with phishing driving much of today's cybercrime. Join our upcoming...",
-            "published_utc": "2026-04-17T12:20:28+00:00"
         },
         {
             "source": "CSO Online",
@@ -2758,20 +2772,6 @@
             "link": "https://www.infosecurity-magazine.com/news/us-agencies-scrap-end-of-support/",
             "summary": "CISA has issued a new directive requiring federal agencies to decommission all end of support edge devices within 12 months to reduce ongoing exploita...",
             "published_utc": "2026-02-09T09:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Chinese-Made Malware Kit Targets Chinese-Based Routers and Edge Devices",
-            "link": "https://www.infosecurity-magazine.com/news/china-malware-kit-targets-routers/",
-            "summary": "DKnife is a Chinese made malware framework that targets Chinese-based users",
-            "published_utc": "2026-02-06T17:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Substack Confirms Data Breach, \"Limited User Data\" Compromised",
-            "link": "https://www.infosecurity-magazine.com/news/substack-confirms-data-breach/",
-            "summary": "Substack did not specify the number of users affected by the data breach",
-            "published_utc": "2026-02-06T16:22:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
