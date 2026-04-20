@@ -1,6 +1,90 @@
 {
-    "lastUpdatedUTC": "2026-04-20T08:11:01.345454+00:00",
+    "lastUpdatedUTC": "2026-04-20T10:50:03.625100+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Senate Extends Surveillance Powers Until April 30 After Chaotic Votes in House",
+            "link": "https://www.securityweek.com/senate-extends-surveillance-powers-until-april-30-after-chaotic-votes-in-house/",
+            "summary": "",
+            "published_utc": "2026-04-20T10:32:13+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "CISOs reshape their roles as business risk strategists",
+            "link": "https://www.csoonline.com/article/4159317/cisos-reshape-their-roles-as-business-risk-strategists.html",
+            "summary": "",
+            "published_utc": "2026-04-20T10:01:00+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "The Weird, Twisting Tale of How China Spied on Alysa Liu and Her Dad",
+            "link": "https://www.wired.com/story/the-weird-twisting-tale-of-how-china-spied-on-alysa-liu-and-her-dad/",
+            "summary": "Years before the figure skater became an Olympic superstar, a Chinese operative tried to stalk her father and monitored other US residents deemed diss...",
+            "published_utc": "2026-04-20T10:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Half of the 6 Million Internet-Facing FTP Servers Lack Encryption",
+            "link": "https://www.securityweek.com/half-of-the-6-million-internet-facing-ftp-servers-lack-encryption/",
+            "summary": "",
+            "published_utc": "2026-04-20T09:41:04+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft pulls service update causing Teams launch failures",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-client-launch-failures-caused-by-service-update/",
+            "summary": "Microsoft has reverted a recent service update that was preventing some customers from launching the Microsoft Teams desktop client. [...]",
+            "published_utc": "2026-04-20T09:40:20+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Copilot & Agentforce offen für Prompt-Injection-Tricks",
+            "link": "https://www.csoonline.com/article/4160426/copilot-agentforce-offen-fur-prompt-injection-tricks.html",
+            "summary": "",
+            "published_utc": "2026-04-20T09:39:48+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Claude Mythos – ist der Hype gerechtfertigt?",
+            "link": "https://www.csoonline.com/article/4160754/claude-mythos-ist-der-hype-gerechtfertigt.html",
+            "summary": "",
+            "published_utc": "2026-04-20T09:38:01+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "NCSC Outlines Coordinated Plan to Boost NHS Cyber Resilience",
+            "link": "https://www.infosecurity-magazine.com/news/ncsc-plan-boost-nhs-cyber/",
+            "summary": "The National Cyber Security Centre has shared an update of its resilience-building efforts for the NHS",
+            "published_utc": "2026-04-20T09:30:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The best website builders for small businesses in 2026: Expert tested and reviewed",
+            "link": "https://www.zdnet.com/article/best-website-builders-for-small-businesses/",
+            "summary": "We've rounded up the top website builders for small businesses, from Webflow's design power to Hostinger's budget-friendly AI tools.",
+            "published_utc": "2026-04-20T09:00:47+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Crypto Exchange Grinex Blames Western Spies for $13m Theft",
+            "link": "https://www.infosecurity-magazine.com/news/crypto-exchange-grinex-western/",
+            "summary": "Russian crypto-exchange Grinex claims Western intelligence agencies were behind a $13m heist",
+            "published_utc": "2026-04-20T09:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft releases emergency updates to fix Windows Server issues",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-server-issues/",
+            "summary": "Microsoft has released out-of-band (OOB) updates to fix issues affecting Windows Server systems after installing the April 2026 security updates. [...]",
+            "published_utc": "2026-04-20T08:30:56+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Next.js Creator Vercel Hacked",
+            "link": "https://www.securityweek.com/next-js-creator-vercel-hacked/",
+            "summary": "",
+            "published_utc": "2026-04-20T08:30:13+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Hackers Fail to Exploit Flaw in Discontinued TP-Link Routers",
@@ -317,13 +401,6 @@
             "published_utc": "2026-04-17T11:01:03+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "The best WordPress hosting services of 2026: Expert tested and reviewed",
-            "link": "https://www.zdnet.com/article/best-wordpress-hosting/",
-            "summary": "We tested the best WordPress hosting services that make website management a breeze, with no coding experience required.",
-            "published_utc": "2026-04-17T11:00:46+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "Another DraftKings Hacker Sentenced to Prison",
             "link": "https://www.securityweek.com/another-draftkings-hacker-sentenced-to-prison/",
@@ -352,13 +429,6 @@
             "published_utc": "2026-04-17T10:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Recent Apache ActiveMQ Vulnerability Exploited in the Wild",
-            "link": "https://www.securityweek.com/recent-apache-activemq-vulnerability-exploited-in-the-wild/",
-            "summary": "",
-            "published_utc": "2026-04-17T09:50:22+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "CISA flags Apache ActiveMQ flaw as actively exploited in attacks",
             "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-apache-activemq-flaw-as-actively-exploited-in-attacks/",
@@ -366,25 +436,11 @@
             "published_utc": "2026-04-17T09:30:15+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Two North Korean IT Worker Scheme Facilitators Jailed in the US",
-            "link": "https://www.securityweek.com/two-north-korean-it-worker-scheme-facilitators-jailed-in-the-us/",
-            "summary": "",
-            "published_utc": "2026-04-17T09:21:02+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "That data breach alert might be a trap",
             "link": "https://www.welivesecurity.com/en/scams/data-breach-alert-might-be-trap/",
             "summary": "Ignoring a real breach notification invites risk, but falling for a bogus one could be even worse. Stop reacting on autopilot.",
             "published_utc": "2026-04-17T09:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "ZionSiphon Malware Targets ICS in Water Facilities",
-            "link": "https://www.securityweek.com/zionsiphon-malware-targets-ics-in-water-facilities/",
-            "summary": "",
-            "published_utc": "2026-04-17T08:30:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -401,13 +457,6 @@
             "published_utc": "2026-04-17T07:10:32+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Recently leaked Windows zero-days now exploited in attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/recently-leaked-windows-zero-days-now-exploited-in-attacks/",
-            "summary": "Threat actors are exploiting three recently disclosed Windows security vulnerabilities in attacks aimed at gaining SYSTEM or elevated administrator pe...",
-            "published_utc": "2026-04-17T06:14:52+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Positiv denken für Sicherheitsentscheider: 6 Mindsets, die Sie sofort ablegen sollten",
             "link": "https://www.csoonline.com/article/3493061/positiv-denken-fur-sicherheitsentscheider-6-mindsets-die-sie-sofort-ablegen-sollten.html",
@@ -420,13 +469,6 @@
             "link": "https://www.csoonline.com/article/4159827/cisco-systems-issues-three-advisories-for-critical-vulnerabilities-in-webex-ise.html",
             "summary": "",
             "published_utc": "2026-04-16T22:29:46+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Operation PowerOFF identifies 75k DDoS users, takes down 53 domains",
-            "link": "https://www.bleepingcomputer.com/news/security/operation-poweroff-identifies-75k-ddos-users-takes-down-53-domains/",
-            "summary": "The latest wave of \"Operation PowerOFF,\" on April 13, 2026, targeted the distributed denial-of-service (DDoS) ecosystem and its users across 21 countr...",
-            "published_utc": "2026-04-16T22:26:34+00:00"
         },
         {
             "source": "CSO Online",
@@ -597,13 +639,6 @@
             "published_utc": "2026-04-15T10:30:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "The deepfake dilemma: From financial fraud to reputational crisis",
-            "link": "https://www.csoonline.com/article/4158068/the-deepfake-dilemma-from-financial-fraud-to-reputational-crisis.html",
-            "summary": "",
-            "published_utc": "2026-04-15T10:00:00+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "The Deepfake Nudes Crisis in Schools Is Much Worse Than You Thought",
             "link": "https://www.wired.com/story/deepfake-nudify-schools-global-crisis/",
@@ -623,20 +658,6 @@
             "link": "https://www.infosecurity-magazine.com/news/microsoft-two-zerodays-april-patch/",
             "summary": "Microsoft has patched two zero-day flaws and over 160 others",
             "published_utc": "2026-04-15T09:10:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "7 biggest healthcare security threats",
-            "link": "https://www.csoonline.com/article/564832/biggest-healthcare-security-threats.html",
-            "summary": "",
-            "published_utc": "2026-04-15T09:01:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "The need for a board-level definition of cyber resilience",
-            "link": "https://www.csoonline.com/article/4158064/the-need-for-a-board-level-definition-of-cyber-resilience.html",
-            "summary": "",
-            "published_utc": "2026-04-15T09:00:00+00:00"
         },
         {
             "source": "KrebsOnSecurity",
@@ -1414,13 +1435,6 @@
             "link": "https://www.infosecurity-magazine.com/news/hackers-exploit-id-industrial-scale/",
             "summary": "Cybersecurity company’s annual report issues warning over a “mass-marketed impersonation crisis” over attackers abusing legitimate credentials",
             "published_utc": "2026-03-25T15:30:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "When Satellite Data Becomes a Weapon",
-            "link": "https://www.wired.com/story/when-satellite-data-becomes-a-weapon/",
-            "summary": "As war reshapes the Gulf, the satellite infrastructure the world relies on to see conflict clearly is being delayed, spoofed, and privately controlled...",
-            "published_utc": "2026-03-25T13:00:42+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2765,20 +2779,6 @@
             "link": "https://www.infosecurity-magazine.com/news/cyber-startup-programme/",
             "summary": "Infosecurity Europe 2026 will debut a new Cyber Startup Programme, featuring a dedicated show-floor zone for early-stage cybersecurity companies to sh...",
             "published_utc": "2026-02-06T08:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Malicious Commands in GitHub Codespaces Enable RCE",
-            "link": "https://www.infosecurity-magazine.com/news/malicious-commands-in-github/",
-            "summary": "Flaws in GitHub Codespaces allow RCE via crafted repositories or pull requests",
-            "published_utc": "2026-02-05T14:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Smartphones Now Involved in Nearly Every Police Investigation",
-            "link": "https://www.infosecurity-magazine.com/news/smartphones-involved-every-police/",
-            "summary": "Cellebrite data confirms digital evidence is now central to almost all cases",
-            "published_utc": "2026-02-05T13:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
