@@ -1,6 +1,69 @@
 {
-    "lastUpdatedUTC": "2026-04-21T17:04:37.739097+00:00",
+    "lastUpdatedUTC": "2026-04-21T19:15:13.994736+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "I got an early look at ChatGPT Images 2.0, and it's impressive - with one exception",
+            "link": "https://www.zdnet.com/article/chatgpt-images-2-hands-on-testing/",
+            "summary": "OpenAI's new ChatGPT Images 2.0 promises precision and design control. Here's how to try it for yourself.",
+            "published_utc": "2026-04-21T19:00:48+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I compared Thread, Zigbee, and Matter - here's the best smart home setup for you",
+            "link": "https://www.zdnet.com/article/thread-vs-zigbee-vs-matter/",
+            "summary": "All three are related to smart home connectivity, and it's important that you understand their differences.",
+            "published_utc": "2026-04-21T18:53:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "New Lotus data wiper used against Venezuelan energy, utility firms",
+            "link": "https://www.bleepingcomputer.com/news/security/new-lotus-data-wiper-used-against-venezuelan-energy-utility-firms/",
+            "summary": "A previously undocumented data-wiping malware dubbed Lotus was used last year in targeted attacks against energy and utilities organizations in Venezu...",
+            "published_utc": "2026-04-21T18:38:40+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "Mozilla Used Anthropic’s Mythos to Find and Fix 151 Bugs in Firefox",
+            "link": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/",
+            "summary": "The Firefox team doesn’t think emerging AI capabilities will upend cybersecurity long term, but they warn that software developers are likely in for a...",
+            "published_utc": "2026-04-21T18:30:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I saw Framework's new 'MacBook Pro for Linux' and it's the hardware enthusiasts deserve",
+            "link": "https://www.zdnet.com/article/framework-laptop-13-pro-macbook-pro-for-linux-users/",
+            "summary": "Six years of user feedback have led to the new Framework Laptop 13 Pro, a thin and light device that's both modular and premium.",
+            "published_utc": "2026-04-21T18:15:45+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Scaling agentic AI demands a strong data foundation - 4 steps to take first",
+            "link": "https://www.zdnet.com/article/scaling-agentic-ai-requires-strong-data-foundation/",
+            "summary": "McKinsey identifies four coordinated steps that connect strategy, technology, and people to build strong foundational data capabilities.",
+            "published_utc": "2026-04-21T18:01:59+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I powered my 3,000-sq-ft home with an EcoFlow battery in a blackout - here's how it kept my AC on",
+            "link": "https://www.zdnet.com/article/ecoflow-delta-pro-ultra-x-review/",
+            "summary": "The EcoFlow Delta Pro Ultra X is one of the few power stations that has kept my home running like normal without interruption.",
+            "published_utc": "2026-04-21T18:00:47+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "5 Apple products explain my optimism for John Ternus as the next CEO",
+            "link": "https://www.zdnet.com/article/5-apple-products-explain-my-optimism-for-john-ternus-as-the-next-ceo/",
+            "summary": "There's a lot to be excited about with Apple's next chief executive officer, even if you care more about software.",
+            "published_utc": "2026-04-21T17:30:40+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "This Motorola phone deal comes with free Bluetooth trackers and earbuds - how it works",
+            "link": "https://www.zdnet.com/article/motorola-moto-g-deal/",
+            "summary": "Motorola is offering a deal on its latest Moto G phone that includes a Moto Tag 4-pack and a pair of Moto Buds Plus earbuds, free. Here's what to know.",
+            "published_utc": "2026-04-21T17:29:25+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Verizon will give you Meta Ray-Bans for free with this Fios Internet deal - how to get yours",
@@ -282,20 +345,6 @@
             "published_utc": "2026-04-21T01:00:44+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Motorola Moto G (2026) review: Why I'd pick this $200 phone over competing models",
-            "link": "https://www.zdnet.com/article/motorola-moto-g-review/",
-            "summary": "The 2026 Moto G sticks to a proven formula, offering great performance at an affordable price.",
-            "published_utc": "2026-04-21T00:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "PrivacyBee review: An Incogni alternative that made data removal feel nearly effortless",
-            "link": "https://www.zdnet.com/article/privacybee-data-removal-review/",
-            "summary": "PrivacyBee is one of the most comprehensive data removal services I've tested, capable of removing personal information from hundreds of sites.",
-            "published_utc": "2026-04-20T23:00:39+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "KelpDAO suffers $290 million heist tied to Lazarus hackers",
             "link": "https://www.bleepingcomputer.com/news/security/kelpdao-suffers-290-million-heist-tied-to-lazarus-hackers/",
@@ -324,27 +373,6 @@
             "published_utc": "2026-04-20T18:22:31+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Google Pixel phones have a useful voicemail feature that's hidden by default - how to enable it",
-            "link": "https://www.zdnet.com/article/google-pixel-take-a-message-feature-how-to-use/",
-            "summary": "The latest 'Take A Message' feature is another useful tool for managing incoming calls when your phone is out of reach.",
-            "published_utc": "2026-04-20T18:03:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The new Roku City screensaver game has me hooked - and it's free to play",
-            "link": "https://www.zdnet.com/article/roku-city-dash-interactive-game/",
-            "summary": "The game showcases iconic landmarks, Easter eggs, and more.",
-            "published_utc": "2026-04-20T17:30:14+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "There's a right way to wear your Apple Watch - and it affects your data",
-            "link": "https://www.zdnet.com/article/why-you-should-wear-your-apple-watch-tighter/",
-            "summary": "An accurate sensor is no use if your smartwatch band is loose.",
-            "published_utc": "2026-04-20T16:28:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "ZionSiphon Malware Targets Water Infrastructure Systems",
             "link": "https://www.infosecurity-magazine.com/news/zionsiphon-malware-water/",
@@ -357,20 +385,6 @@
             "link": "https://www.securityweek.com/serial-to-ip-converter-flaws-expose-ot-and-healthcare-systems-to-hacking/",
             "summary": "",
             "published_utc": "2026-04-20T15:42:22+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Apple's foldable iPhone hinges on one key feature for me - and it's not the hardware",
-            "link": "https://www.zdnet.com/article/foldable-iphone-multitasking-features-im-hoping-for/",
-            "summary": "Multitasking on iPhones is currently limited. That will need to change for Apple's most ambitious device yet to succeed.",
-            "published_utc": "2026-04-20T15:39:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "T-Mobile is practically giving away the Apple Watch Series 11 - here's how to get one",
-            "link": "https://www.zdnet.com/article/apple-watch-series-11-deal-tmobile/",
-            "summary": "Save $300 on the Series 11 with cellular data when you add a new watch line to your plan at T-Mobile. We'll break down the deal details.",
-            "published_utc": "2026-04-20T15:33:51+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -455,13 +469,6 @@
             "link": "https://www.wired.com/story/the-weird-twisting-tale-of-how-china-spied-on-alysa-liu-and-her-dad/",
             "summary": "Years before the figure skater became an Olympic superstar, a Chinese operative tried to stalk her father and monitored other US residents deemed diss...",
             "published_utc": "2026-04-20T10:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft pulls service update causing Teams launch failures",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-client-launch-failures-caused-by-service-update/",
-            "summary": "Microsoft has reverted a recent service update that was preventing some customers from launching the Microsoft Teams desktop client. [...]",
-            "published_utc": "2026-04-20T09:40:20+00:00"
         },
         {
             "source": "CSO Online",
@@ -1442,13 +1449,6 @@
             "link": "https://www.infosecurity-magazine.com/news/critical-oracle-weblogic-rce/",
             "summary": "Attackers rapidly exploited a critical Oracle WebLogic RCE flaw the same day exploit code was released, according to a CloudSEK honeypot study",
             "published_utc": "2026-03-26T16:00:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "A $20 Billion Crypto Scam Market Faces a New Government Crackdown",
-            "link": "https://www.wired.com/story/20-billion-xinbi-guarantee-uk-sanctions/",
-            "summary": "The Telegram-based Xinbi Guarantee black market sells services that help prop up scam operations. British officials just hit the highly lucrative mark...",
-            "published_utc": "2026-03-26T15:15:53+00:00"
         },
         {
             "source": "InfosecurityMag",
