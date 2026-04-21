@@ -1,6 +1,13 @@
 {
-    "lastUpdatedUTC": "2026-04-21T19:15:13.994736+00:00",
+    "lastUpdatedUTC": "2026-04-21T20:54:55.887926+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "Thousands of Apache ActiveMQ instances still unpatched, weeks after an actively exploited hole discovered",
+            "link": "https://www.csoonline.com/article/4161532/thousands-of-apache-activemq-instances-still-unpatched-weeks-after-an-actively-exploited-hole-discovered.html",
+            "summary": "",
+            "published_utc": "2026-04-21T20:28:22+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "I got an early look at ChatGPT Images 2.0, and it's impressive - with one exception",
@@ -24,7 +31,7 @@
         },
         {
             "source": "WIRED Security",
-            "title": "Mozilla Used Anthropic’s Mythos to Find and Fix 151 Bugs in Firefox",
+            "title": "Mozilla Used Anthropic’s Mythos to Find and Fix 271 Bugs in Firefox",
             "link": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/",
             "summary": "The Firefox team doesn’t think emerging AI capabilities will upend cybersecurity long term, but they warn that software developers are likely in for a...",
             "published_utc": "2026-04-21T18:30:00+00:00"
@@ -153,7 +160,7 @@
             "title": "Moonshot AI's new Kimi K2.6 swarms your complex tasks with 1,000 collaborating agents",
             "link": "https://www.zdnet.com/article/moonshot-ai-kimi-k2-6-swarms-complex-tasks-collaborating-agents/",
             "summary": "Kimi K2.6's impressive new capabilities could redefine how developers approach complex, multi-step engineering workflows.",
-            "published_utc": "2026-04-21T13:59:56+00:00"
+            "published_utc": "2026-04-21T13:59:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -623,13 +630,6 @@
             "link": "https://www.csoonline.com/article/4159889/rce-by-design-mcp-architectural-choice-haunts-ai-agent-ecosystem.html",
             "summary": "",
             "published_utc": "2026-04-16T22:14:04+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "NIST cuts down CVE analysis amid vulnerability overload",
-            "link": "https://www.csoonline.com/article/4159882/nist-cuts-down-cve-analysis-amid-vulnerability-overload.html",
-            "summary": "",
-            "published_utc": "2026-04-16T21:58:08+00:00"
         },
         {
             "source": "WIRED Security",
