@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2026-04-21T07:53:57.808937+00:00",
+    "lastUpdatedUTC": "2026-04-21T09:41:16.639904+00:00",
     "articles": [
+        {
+            "source": "InfosecurityMag",
+            "title": "Vercel Confirms Cyber Incident After Sophisticated Attacker Exploits Third‑Party Tool",
+            "link": "https://www.infosecurity-magazine.com/news/vercel-cyber-incident-threat-actor/",
+            "summary": "Cloud app developer Vercel appears to have suffered a security breach",
+            "published_utc": "2026-04-21T09:10:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Top techniques attackers use to infiltrate your systems today",
+            "link": "https://www.csoonline.com/article/4161104/top-techniques-cyberattackers-use-to-infiltrate-your-systems-today.html",
+            "summary": "",
+            "published_utc": "2026-04-21T09:01:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The best mini gaming PCs of 2026: Expert tested and reviewed",
+            "link": "https://www.zdnet.com/article/best-mini-gaming-pcs/",
+            "summary": "A powerful gaming PC doesn't have to have a bulky, full-sized tower. And the best mini gaming PCs balance tiny form factors with big performance.",
+            "published_utc": "2026-04-21T09:00:47+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "NGate Android malware uses HandyPay NFC app to steal card data",
+            "link": "https://www.bleepingcomputer.com/news/security/ngate-android-malware-uses-handypay-nfc-app-to-steal-card-data/",
+            "summary": "A new variant of the NGate malware that steals NFC payment data is targeting Android users by hiding in a trojanized version of HandyPay, a legitimate...",
+            "published_utc": "2026-04-21T09:00:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "The thin gray line: Handala, CyberAv3ngers and Iran’s proxy ops",
+            "link": "https://www.csoonline.com/article/4160994/the-thin-gray-line-handala-cyberav3ngers-and-irans-proxy-ops.html",
+            "summary": "",
+            "published_utc": "2026-04-21T09:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "North Korean Blamed for $290m KelpDAO Crypto Heist",
+            "link": "https://www.infosecurity-magazine.com/news/north-korean-blamed-290m-kelpdao/",
+            "summary": "North Korea’s Lazarus Group is pegged for a $290m crypto theft at KelpDAO",
+            "published_utc": "2026-04-21T08:30:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Own a Sony TV? 3 quick settings I'd change to meaningfully improve the picture quality",
@@ -373,25 +415,11 @@
             "published_utc": "2026-04-19T13:00:39+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "This powerful Gemini setting made my AI results way more personal and accurate",
-            "link": "https://www.zdnet.com/article/gemini-personal-intelligence-hands-on/",
-            "summary": "I enabled Personal Intelligence, connected my Google apps, and now Gemini guesses what I want without me saying it.",
-            "published_utc": "2026-04-19T10:00:41+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Critical flaw in Protobuf library enables JavaScript code execution",
             "link": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/",
             "summary": "Proof-of-concept exploit code has been published for a critical remote code execution flaw in protobuf.js, a widely used JavaScript implementation of ...",
             "published_utc": "2026-04-18T15:09:44+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft Teams right-click paste broken by Edge update bug",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-right-click-paste-broken-by-edge-update-bug/",
-            "summary": "Microsoft is warning that a recent Microsoft Edge browser update introduced a bug that breaks right-click paste in chats in the Microsoft Teams deskto...",
-            "published_utc": "2026-04-18T14:11:21+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -604,25 +632,11 @@
             "published_utc": "2026-04-16T09:40:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "The endless CISO reporting line debate — and what it says about cybersecurity leadership",
-            "link": "https://www.csoonline.com/article/4158505/the-endless-ciso-reporting-line-debate-and-what-it-says-about-cybersecurity-leadership.html",
-            "summary": "",
-            "published_utc": "2026-04-16T09:00:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Automotive Ransomware Attacks Double in a Year",
             "link": "https://www.infosecurity-magazine.com/news/automotive-ransomware-attacks/",
             "summary": "Halcyon says ransomware now accounts for more than two-fifths of cyber-attacks targeting carmakers",
             "published_utc": "2026-04-16T08:35:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Was bei der Cloud-Konfiguration schiefläuft – und wie es besser geht",
-            "link": "https://www.csoonline.com/article/4107149/was-bei-der-cloud-konfiguration-schieflauft-und-wie-es-besser-geht.html",
-            "summary": "",
-            "published_utc": "2026-04-16T04:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2765,20 +2779,6 @@
             "link": "https://www.infosecurity-magazine.com/news/social-media-platforms-billions/",
             "summary": "Revolut claims social media sites make £3.8bn annually from scam ads targeting European users",
             "published_utc": "2026-02-09T10:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Researchers Find 40,000+ Exposed OpenClaw Instances",
-            "link": "https://www.infosecurity-magazine.com/news/researchers-40000-exposed-openclaw/",
-            "summary": "SecurityScorecard has identified over 40,000 OpenClaw deployments exposed to potential attack",
-            "published_utc": "2026-02-09T09:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "US Agencies Told to Scrap End of Support Edge Devices",
-            "link": "https://www.infosecurity-magazine.com/news/us-agencies-scrap-end-of-support/",
-            "summary": "CISA has issued a new directive requiring federal agencies to decommission all end of support edge devices within 12 months to reduce ongoing exploita...",
-            "published_utc": "2026-02-09T09:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
