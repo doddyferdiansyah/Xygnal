@@ -1,6 +1,76 @@
 {
-    "lastUpdatedUTC": "2026-04-21T11:08:32.194011+00:00",
+    "lastUpdatedUTC": "2026-04-21T13:44:53.356457+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "I tested Surfshark's new Dausos VPN protocol - here's how it compares to WireGuard",
+            "link": "https://www.zdnet.com/article/surfshark-dausos-vpn-protocol/",
+            "summary": "The latest protocol was built for 'better security and barrier-breaking speeds.' I tested its early-phase performance to see how it stacks up.",
+            "published_utc": "2026-04-21T13:30:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I've tested every Razr and Galaxy Flip: 3 reasons Motorola crushes Samsung at foldables",
+            "link": "https://www.zdnet.com/article/motorola-is-beating-samsung-at-making-flip-phones-and-im-not-surprised-at-all/",
+            "summary": "Here's why Motorola owns half the US foldable market, despite competition from Samsung and Google.",
+            "published_utc": "2026-04-21T13:03:19+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Unchecked AI Agents Cause Cybersecurity Incidents at Two Thirds of Firms",
+            "link": "https://www.infosecurity-magazine.com/news/unchecked-ai-agents-cause/",
+            "summary": "Data exposure, operational disruption and financial losses among issues faced by businesses struggling with the rapid rise of AI agents, warns Cloud S...",
+            "published_utc": "2026-04-21T13:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Unsecured Perforce Servers Expose Sensitive Data From Major Orgs",
+            "link": "https://www.securityweek.com/unsecured-perforce-servers-expose-sensitive-data-from-major-orgs/",
+            "summary": "",
+            "published_utc": "2026-04-21T12:37:49+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Azure SRE Agent flaw lets outsiders silently eavesdrop on enterprise cloud operations",
+            "link": "https://www.csoonline.com/article/4161389/azure-sre-agent-flaw-let-outsiders-silently-eavesdrop-on-enterprise-cloud-operations.html",
+            "summary": "",
+            "published_utc": "2026-04-21T12:35:31+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "CISA flags new SD-WAN flaw as actively exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-new-sd-wan-flaw-as-actively-exploited-in-attacks/",
+            "summary": "​CISA has given U.S. government agencies four days to secure their systems against another Catalyst SD-WAN Manager vulnerability it flagged as activel...",
+            "published_utc": "2026-04-21T12:30:50+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Prompt injection turned Google’s Antigravity file search into RCE",
+            "link": "https://www.csoonline.com/article/4161382/prompt-injection-turned-googles-antigravity-file-search-into-rce.html",
+            "summary": "",
+            "published_utc": "2026-04-21T12:16:12+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Progress Patches Multiple Vulnerabilities in MOVEit WAF, LoadMaster",
+            "link": "https://www.securityweek.com/progress-patches-multiple-vulnerabilities-in-moveit-waf-loadmaster/",
+            "summary": "",
+            "published_utc": "2026-04-21T12:14:26+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Organizations Warned of Exploited Cisco, Kentico, Zimbra Vulnerabilities",
+            "link": "https://www.securityweek.com/organizations-warned-of-exploited-cisco-kentico-zimbra-vulnerabilities/",
+            "summary": "",
+            "published_utc": "2026-04-21T11:19:45+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Actively exploited Apache ActiveMQ flaw impacts 6,400 servers",
+            "link": "https://www.bleepingcomputer.com/news/security/actively-exploited-apache-activemq-flaw-impacts-6-400-servers/",
+            "summary": "Nonprofit security organization Shadowserver found that over 6,400 Apache ActiveMQ servers exposed online are vulnerable to ongoing attacks exploiting...",
+            "published_utc": "2026-04-21T11:17:51+00:00"
+        },
         {
             "source": "Schneier",
             "title": "Mexican Surveillance Company",
@@ -140,13 +210,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/chinas-apple-app-store-infiltrated-by-crypto-stealing-wallet-apps/",
             "summary": "A set of 26 malicious apps on Apple App Store impersonate popular wallets, such as Metamask, Coinbase, Trust Wallet, and OneKey, to steal recovery or ...",
             "published_utc": "2026-04-20T21:52:54+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I speed-tested Surfshark's new 'heavenly' Dausos VPN protocol - how it compares to WireGuard",
-            "link": "https://www.zdnet.com/article/surfshark-dausos-vpn-protocol/",
-            "summary": "The new protocol was built for 'better security and barrier-breaking speeds.' I tested whether it can compete with WireGuard during its early phase.",
-            "published_utc": "2026-04-20T20:18:10+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -345,13 +408,6 @@
             "published_utc": "2026-04-20T10:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Half of the 6 Million Internet-Facing FTP Servers Lack Encryption",
-            "link": "https://www.securityweek.com/half-of-the-6-million-internet-facing-ftp-servers-lack-encryption/",
-            "summary": "",
-            "published_utc": "2026-04-20T09:41:04+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Microsoft pulls service update causing Teams launch failures",
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-client-launch-failures-caused-by-service-update/",
@@ -408,20 +464,6 @@
             "published_utc": "2026-04-20T08:30:56+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Next.js Creator Vercel Hacked",
-            "link": "https://www.securityweek.com/next-js-creator-vercel-hacked/",
-            "summary": "",
-            "published_utc": "2026-04-20T08:30:13+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Hackers Fail to Exploit Flaw in Discontinued TP-Link Routers",
-            "link": "https://www.securityweek.com/hackers-fail-to-exploit-flaw-in-discontinued-tp-link-routers/",
-            "summary": "",
-            "published_utc": "2026-04-20T07:50:01+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Für Cyberattacken gewappnet – Krisenkommunikation nach Plan",
             "link": "https://www.csoonline.com/article/3851504/fur-cyberattacken-gewappnet-krisenkommunikation-nach-plan.html",
@@ -429,32 +471,11 @@
             "published_utc": "2026-04-20T04:00:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I hid 4 Bluetooth trackers (including AirTags) to test their reliability - here's how Android rivals compared",
-            "link": "https://www.zdnet.com/article/retested-apple-airtags-after-five-years-how-they-compare/",
-            "summary": "AirTags were released in April 2021, and since then, it's never been easier to find your lost gear. Years later, here's how they hold up.",
-            "published_utc": "2026-04-19T23:00:43+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Vercel confirms breach as hackers claim to be selling stolen data",
             "link": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
             "summary": "Cloud development platform Vercel has disclosed a security incident after threat actors claimed to have breached its systems and are attempting to sel...",
             "published_utc": "2026-04-19T17:32:45+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Apple account change alerts abused to send phishing emails",
-            "link": "https://www.bleepingcomputer.com/news/security/apple-account-change-alerts-abused-to-send-phishing-emails/",
-            "summary": "Apple account change notifications are being abused to send fake iPhone purchase phishing scams within legitimate emails sent from Apple's servers, in...",
-            "published_utc": "2026-04-19T16:03:01+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "NIST to stop rating non-priority flaws due to volume increase",
-            "link": "https://www.bleepingcomputer.com/news/security/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase/",
-            "summary": "The National Institute of Standards and Technology will stop assigning severity scores to lower-priority vulnerabilities due to the growing workload f...",
-            "published_utc": "2026-04-19T14:17:43+00:00"
         },
         {
             "source": "WIRED Security",
@@ -611,25 +632,11 @@
             "published_utc": "2026-04-16T12:43:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Microsoft’s Windows Recall still allows silent data extraction",
-            "link": "https://www.csoonline.com/article/4159643/microsofts-windows-recall-still-allows-silent-data-extraction.html",
-            "summary": "",
-            "published_utc": "2026-04-16T12:18:13+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "Supply chain dependencies: Have you checked your blind spot?",
             "link": "https://www.welivesecurity.com/en/business-security/supply-chain-dependencies-have-you-checked-your-blind-spot/",
             "summary": "Your biggest risk may be a vendor you trust. How can SMBs map their third-party blind spots and build operational resilience?",
             "published_utc": "2026-04-16T12:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Behind the Mythos hype, Glasswing has just one confirmed CVE",
-            "link": "https://www.csoonline.com/article/4159617/behind-the-mythos-hype-glasswing-has-just-one-confirmed-cve.html",
-            "summary": "",
-            "published_utc": "2026-04-16T11:54:32+00:00"
         },
         {
             "source": "Schneier",
@@ -2772,13 +2779,6 @@
             "link": "https://www.infosecurity-magazine.com/news/bridgepay-confirms-ransomware/",
             "summary": "The services of Florida-based payments platform BridgePay are offline due to a ransomware attack",
             "published_utc": "2026-02-09T11:15:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Social Media Platforms Earn Billions from Scam Ads",
-            "link": "https://www.infosecurity-magazine.com/news/social-media-platforms-billions/",
-            "summary": "Revolut claims social media sites make £3.8bn annually from scam ads targeting European users",
-            "published_utc": "2026-02-09T10:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
