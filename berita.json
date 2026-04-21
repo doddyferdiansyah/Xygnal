@@ -1,6 +1,69 @@
 {
-    "lastUpdatedUTC": "2026-04-21T09:41:16.639904+00:00",
+    "lastUpdatedUTC": "2026-04-21T11:08:32.194011+00:00",
     "articles": [
+        {
+            "source": "Schneier",
+            "title": "Mexican Surveillance Company",
+            "link": "https://www.schneier.com/blog/archives/2026/04/mexican-surveillance-company.html",
+            "summary": "",
+            "published_utc": "2026-04-21T11:04:59+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Data Breaches at Healthcare Organizations in Illinois and Texas Affect 600,000",
+            "link": "https://www.securityweek.com/data-breaches-at-healthcare-organizations-in-illinois-and-texas-affect-600000/",
+            "summary": "",
+            "published_utc": "2026-04-21T11:02:29+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I found the easiest way to encrypt files on an Android phone - and it's free to do",
+            "link": "https://www.zdnet.com/article/how-to-easily-encrypt-files-on-android-with-openkeychain/",
+            "summary": "If you need to encrypt a file on your Android device so it can be safely shared with other users, this handy app gets the job done.",
+            "published_utc": "2026-04-21T11:00:51+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Former ransomware negotiator pleads guilty to BlackCat attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/former-ransomware-negotiator-pleads-guilty-to-blackcat-attacks/",
+            "summary": "41-year-old Angelo Martino, a former employee of cybersecurity incident response company DigitalMint, has pleaded guilty to targeting U.S. companies i...",
+            "published_utc": "2026-04-21T10:12:21+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "$290 Million Kelp DAO Crypto Heist Blamed on North Korea",
+            "link": "https://www.securityweek.com/290-million-kelp-dao-crypto-heist-blamed-on-north-korea/",
+            "summary": "",
+            "published_utc": "2026-04-21T10:02:09+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "T-Mobile will give you an iPhone 17 basically for free - here's how to get yours",
+            "link": "https://www.zdnet.com/article/free-apple-iphone-17-deal-t-mobile/",
+            "summary": "Here's how to pick an iPhone 17 series phone for free at T-Mobile.",
+            "published_utc": "2026-04-21T10:01:02+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Does Walmart price match? What to know about online and in-store price matching policies",
+            "link": "https://www.zdnet.com/article/does-walmart-price-match-faq/",
+            "summary": "Here's what you need to know about Walmart's price-matching policy.",
+            "published_utc": "2026-04-21T10:00:45+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Why identity is the driving force behind digital transformation",
+            "link": "https://www.csoonline.com/article/4161008/why-identity-is-the-driving-force-behind-digital-transformation.html",
+            "summary": "",
+            "published_utc": "2026-04-21T10:00:00+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "They Built a Legendary Privacy Tool. Now They’re Sworn Enemies",
+            "link": "https://www.wired.com/story/they-built-privacy-tool-grapheneos-now-sworn-enemies/",
+            "summary": "There’s a lot of love all over the world for GrapheneOS, the gold standard of mobile security. There’s very little love between the two guys at the ce...",
+            "published_utc": "2026-04-21T10:00:00+00:00"
+        },
         {
             "source": "InfosecurityMag",
             "title": "Vercel Confirms Cyber Incident After Sophisticated Attacker Exploits Third‑Party Tool",
@@ -91,13 +154,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/the-gentlemen-ransomware-now-uses-systembc-for-bot-powered-attacks/",
             "summary": "A SystemBC proxy malware botnet of more than 1,570 hosts, believed to be corporate victims, has been discovered following an investigation into a Gent...",
             "published_utc": "2026-04-20T20:02:37+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How to easily encrypt files on an Android phone - and the free app I use to do it",
-            "link": "https://www.zdnet.com/article/how-to-easily-encrypt-files-on-android-with-openkeychain/",
-            "summary": "If you need to encrypt a file on your Android device so it can be safely shared with other users, this handy app gets the job done.",
-            "published_utc": "2026-04-20T19:21:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -394,39 +450,11 @@
             "published_utc": "2026-04-19T16:03:01+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I stopped using my iPhone's hotspot after testing this 5G router - and that won't change",
-            "link": "https://www.zdnet.com/article/acer-connect-m6e-mobile-hotspot-review/",
-            "summary": "The Acer Connect M6E mobile hotspot delivers high-speed connectivity without draining your phone's battery. But is it worth it?",
-            "published_utc": "2026-04-19T16:00:49+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "NIST to stop rating non-priority flaws due to volume increase",
             "link": "https://www.bleepingcomputer.com/news/security/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase/",
             "summary": "The National Institute of Standards and Technology will stop assigning severity scores to lower-priority vulnerabilities due to the growing workload f...",
             "published_utc": "2026-04-19T14:17:43+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How I share audio from my Android phone to multiple earbuds (and why it's a big deal)",
-            "link": "https://www.zdnet.com/article/how-to-share-audio-from-android-phone-to-multiple-earbuds/",
-            "summary": "Android's Audio sharing lets two people listen on separate earbuds - so long as your devices support it.",
-            "published_utc": "2026-04-19T13:00:39+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Critical flaw in Protobuf library enables JavaScript code execution",
-            "link": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/",
-            "summary": "Proof-of-concept exploit code has been published for a critical remote code execution flaw in protobuf.js, a widely used JavaScript implementation of ...",
-            "published_utc": "2026-04-18T15:09:44+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Tycoon 2FA Loses Phishing Kit Crown Amid Surge in Attacks",
-            "link": "https://www.securityweek.com/tycoon-2fa-loses-phishing-kit-crown-amid-surge-in-attacks/",
-            "summary": "",
-            "published_utc": "2026-04-18T10:30:00+00:00"
         },
         {
             "source": "WIRED Security",
@@ -455,13 +483,6 @@
             "link": "https://www.csoonline.com/article/4160507/flawed-cisco-update-threatens-to-stop-aps-from-getting-further-patches-2.html",
             "summary": "",
             "published_utc": "2026-04-17T21:00:35+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "White House Chief of Staff to Meet With Anthropic CEO Over Its New AI Technology",
-            "link": "https://www.securityweek.com/white-house-chief-of-staff-to-meet-ith-anthropic-ceo-over-its-new-ai-technology/",
-            "summary": "",
-            "published_utc": "2026-04-17T19:00:00+00:00"
         },
         {
             "source": "WIRED Security",
@@ -609,13 +630,6 @@
             "link": "https://www.csoonline.com/article/4159617/behind-the-mythos-hype-glasswing-has-just-one-confirmed-cve.html",
             "summary": "",
             "published_utc": "2026-04-16T11:54:32+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Insurance carriers quietly back away from covering AI outputs",
-            "link": "https://www.csoonline.com/article/4159292/insurance-carriers-quietly-back-away-from-covering-ai-outputs.html",
-            "summary": "",
-            "published_utc": "2026-04-16T10:01:00+00:00"
         },
         {
             "source": "Schneier",
@@ -847,13 +861,6 @@
             "link": "https://www.wired.com/story/how-the-internet-broke-everyones-bullshit-detectors/",
             "summary": "From AI-generated images to restricted satellite data, the systems used to verify what’s real online are struggling to keep up.",
             "published_utc": "2026-04-11T09:30:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Friday Squid Blogging: Squid Overfishing in the South Pacific",
-            "link": "https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-squid-overfishing-in-the-south-pacific.html",
-            "summary": "",
-            "published_utc": "2026-04-10T21:03:27+00:00"
         },
         {
             "source": "WIRED Security",
@@ -1449,13 +1456,6 @@
             "link": "https://www.infosecurity-magazine.com/news/invoice-fraud-uk-construction/",
             "summary": "The National Crime Agency has warned construction firms about surging invoice fraud",
             "published_utc": "2026-03-26T10:07:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "Anduril Wants to Own the Future of War Tech. Mishaps, Delays, and Challenges Abound",
-            "link": "https://www.wired.com/story/andurils-real-war-is-with-itself/",
-            "summary": "From drones to missiles to submarines, the $30.5 billion defense startup wants to transform how the tools of war are made. It’s not all going as planned.",
-            "published_utc": "2026-03-26T10:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
