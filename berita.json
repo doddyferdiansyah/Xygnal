@@ -1,6 +1,34 @@
 {
-    "lastUpdatedUTC": "2026-04-22T07:50:35.744138+00:00",
+    "lastUpdatedUTC": "2026-04-22T09:22:32.947249+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "Anthropic bets on EPSS for the coming bug surge",
+            "link": "https://www.csoonline.com/article/4161626/anthropic-bets-on-epss-for-the-coming-bug-surge.html",
+            "summary": "",
+            "published_utc": "2026-04-22T09:01:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Oracle Patches 450 Vulnerabilities With April 2026 CPU",
+            "link": "https://www.securityweek.com/oracle-patches-450-vulnerabilities-with-april-2026-cpu/",
+            "summary": "",
+            "published_utc": "2026-04-22T08:41:10+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft releases emergency patches for critical ASP.NET flaw",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-security-updates-for-critical-aspnet-flaw/",
+            "summary": "Microsoft has released out-of-band (OOB) security updates to patch a critical ASP.NET Core privilege escalation vulnerability. [...]",
+            "published_utc": "2026-04-22T08:08:16+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "UK Faces a Cyber ‘Perfect Storm’ Driven by Tech Advances and Nation State Threats, NCSC Warns",
+            "link": "https://www.infosecurity-magazine.com/news/uk-faces-a-cyber-perfect-storm-ncsc/",
+            "summary": "The convergence of global tensions and rapid technological change is driving a new era of cyber risk, the NCSC warns",
+            "published_utc": "2026-04-22T08:07:00+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Over 1,300 Microsoft SharePoint servers vulnerable to spoofing attacks",
@@ -436,13 +464,6 @@
             "published_utc": "2026-04-20T15:01:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "The backup myth that is putting businesses at risk",
-            "link": "https://www.bleepingcomputer.com/news/security/the-backup-myth-that-is-putting-businesses-at-risk/",
-            "summary": "Backups protect data, but don't keep your business running during downtime. Datto shows why BCDR is essential to keep operations running during ransom...",
-            "published_utc": "2026-04-20T14:01:11+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Attackers Exploit DVR Command Injection Flaw to Deploy  Mirai-Based Botnet",
             "link": "https://www.infosecurity-magazine.com/news/mirai-variant-dvr-flaw-iot-botnet/",
@@ -469,13 +490,6 @@
             "link": "https://www.csoonline.com/article/4160853/hackers-exploit-vercels-trust-in-ai-integration.html",
             "summary": "",
             "published_utc": "2026-04-20T12:10:05+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Hackers Abuse QEMU for Defense Evasion",
-            "link": "https://www.securityweek.com/hackers-abuse-qemu-for-defense-evasion/",
-            "summary": "",
-            "published_utc": "2026-04-20T11:35:29+00:00"
         },
         {
             "source": "Schneier",
@@ -637,13 +651,6 @@
             "link": "https://www.csoonline.com/article/3493061/positiv-denken-fur-sicherheitsentscheider-6-mindsets-die-sie-sofort-ablegen-sollten.html",
             "summary": "",
             "published_utc": "2026-04-17T04:17:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Cisco Webex SSO flaw needs manual certificate update to fix",
-            "link": "https://www.csoonline.com/article/4159827/cisco-systems-issues-three-advisories-for-critical-vulnerabilities-in-webex-ise.html",
-            "summary": "",
-            "published_utc": "2026-04-16T22:29:46+00:00"
         },
         {
             "source": "WIRED Security",
@@ -2786,13 +2793,6 @@
             "link": "https://www.infosecurity-magazine.com/news/zeroclick-flaw-claude-dxt/",
             "summary": "Security researchers from LayerX identified a new flaw in 50 Claude Desktop Extensions that could lead to unauthorized remote code execution",
             "published_utc": "2026-02-09T17:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Two Connecticut Men Charged In Alleged $3m Gambling Fraud Scheme",
-            "link": "https://www.infosecurity-magazine.com/news/men-charged-gambling-fraud-scheme/",
-            "summary": "Two Connecticut men face federal charges for a $3m scheme targeting online gambling platforms",
-            "published_utc": "2026-02-09T16:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
