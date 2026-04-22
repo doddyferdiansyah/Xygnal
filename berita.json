@@ -1,6 +1,62 @@
 {
-    "lastUpdatedUTC": "2026-04-22T09:22:32.947249+00:00",
+    "lastUpdatedUTC": "2026-04-22T11:07:49.895332+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "This robot vacuum mops so well, it cleaned up the mess my Roomba left behind",
+            "link": "https://www.zdnet.com/article/ecovacs-deebot-x8-pro-omni-review-robot-vacuum-and-mop-2026/",
+            "summary": "Without a doubt, the Deebot X8 Pro Omni is one of the best robot vacuum and mop combinations I've ever tested.",
+            "published_utc": "2026-04-22T11:03:22+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "ICE Uses Graphite Spyware",
+            "link": "https://www.schneier.com/blog/archives/2026/04/ice-uses-graphite-spyware.html",
+            "summary": "",
+            "published_utc": "2026-04-22T11:02:25+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "We compared 10 robot vacuums for sand pickup - and one model was the clear favorite",
+            "link": "https://www.zdnet.com/article/best-pickup-performance-robot-vacuums-lab-tested/",
+            "summary": "ZDNET's latest Lab Award crowns the top robot vacuum that picked up the most sand in our testing.",
+            "published_utc": "2026-04-22T11:00:51+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "North Korean Hackers Use AppleScript, ClickFix in Fresh macOS Attacks",
+            "link": "https://www.securityweek.com/north-korean-hackers-use-applescript-clickfix-in-fresh-macos-attacks/",
+            "summary": "",
+            "published_utc": "2026-04-22T10:49:52+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft traces Universal Print issues to Graph API code change",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-graph-api-code-change-causes-universal-print-share-issues/",
+            "summary": "Microsoft says that an ongoing Universal Print sharing issue that prevents users from creating some printer shares is due to a Microsoft Graph API cod...",
+            "published_utc": "2026-04-22T10:15:09+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "New GoGra malware for Linux uses Microsoft Graph API for comms",
+            "link": "https://www.bleepingcomputer.com/news/security/new-gogra-malware-for-linux-uses-microsoft-graph-api-for-comms/",
+            "summary": "A Linux variant of the GoGra backdoor uses legitimate Microsoft infrastructure, relying on an Outlook inbox for stealthy payload delivery. [...]",
+            "published_utc": "2026-04-22T10:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Researchers Uncover ProxySmart Software Powering 90+ SIM Farms",
+            "link": "https://www.infosecurity-magazine.com/news/researchers-proxysmart-software-90/",
+            "summary": "Infrawatch says ProxySmart platform enables SIM farm activity at “industrial scale”",
+            "published_utc": "2026-04-22T10:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Google Antigravity in Crosshairs of Security Researchers, Cybercriminals",
+            "link": "https://www.securityweek.com/google-antigravity-in-crosshairs-of-security-researchers-cybercriminals/",
+            "summary": "",
+            "published_utc": "2026-04-22T09:53:05+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "Anthropic bets on EPSS for the coming bug surge",
@@ -338,20 +394,6 @@
             "published_utc": "2026-04-21T10:02:09+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "T-Mobile will give you an iPhone 17 basically for free - here's how to get yours",
-            "link": "https://www.zdnet.com/article/free-apple-iphone-17-deal-t-mobile/",
-            "summary": "Here's how to pick an iPhone 17 series phone for free at T-Mobile.",
-            "published_utc": "2026-04-21T10:01:02+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Does Walmart price match? What to know about online and in-store price matching policies",
-            "link": "https://www.zdnet.com/article/does-walmart-price-match-faq/",
-            "summary": "Here's what you need to know about Walmart's price-matching policy.",
-            "published_utc": "2026-04-21T10:00:45+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Why identity is the driving force behind digital transformation",
             "link": "https://www.csoonline.com/article/4161008/why-identity-is-the-driving-force-behind-digital-transformation.html",
@@ -429,32 +471,11 @@
             "published_utc": "2026-04-20T20:02:37+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Seiko USA website defaced as hacker claims customer data theft",
-            "link": "https://www.bleepingcomputer.com/news/security/seiko-usa-website-defaced-as-hacker-claims-customer-data-theft/",
-            "summary": "The Seiko USA website was defaced over the weekend, displaying a message from attackers claiming they stole its Shopify customer database and threaten...",
-            "published_utc": "2026-04-20T18:22:31+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "ZionSiphon Malware Targets Water Infrastructure Systems",
             "link": "https://www.infosecurity-magazine.com/news/zionsiphon-malware-water/",
             "summary": "ZionSiphon malware targets OT water systems with sabotage and ICS scanning capabilities",
             "published_utc": "2026-04-20T16:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Serial-to-IP Converter Flaws Expose OT and Healthcare Systems to Hacking",
-            "link": "https://www.securityweek.com/serial-to-ip-converter-flaws-expose-ot-and-healthcare-systems-to-hacking/",
-            "summary": "",
-            "published_utc": "2026-04-20T15:42:22+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft: Teams increasingly abused in helpdesk impersonation attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-increasingly-abused-in-helpdesk-impersonation-attacks/",
-            "summary": "Microsoft is warning of threat actors increasingly abusing external Microsoft Teams collaboration and relying on legitimate tools for access and later...",
-            "published_utc": "2026-04-20T15:11:24+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -476,13 +497,6 @@
             "link": "https://www.csoonline.com/article/4160858/attackers-abuse-microsoft-teams-to-impersonate-the-it-helpdesk-in-a-new-enterprise-intrusion-playbook.html",
             "summary": "",
             "published_utc": "2026-04-20T12:42:05+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "British Scattered Spider Hacker Pleads Guilty in the US",
-            "link": "https://www.securityweek.com/british-scattered-spider-hacker-pleads-guilty-in-the-us/",
-            "summary": "",
-            "published_utc": "2026-04-20T12:21:16+00:00"
         },
         {
             "source": "CSO Online",
@@ -889,13 +903,6 @@
             "link": "https://www.wired.com/story/crosswalk-city-hack-cybersecurity-lessons/",
             "summary": "Last April, a hacker hijacked crosswalk announcements to mimic Mark Zuckerberg and Elon Musk. Records obtained by WIRED reveal how unprepared local au...",
             "published_utc": "2026-04-13T10:30:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "AI Chatbots and Trust",
-            "link": "https://www.schneier.com/blog/archives/2026/04/ai-chatbots-and-trust.html",
-            "summary": "",
-            "published_utc": "2026-04-13T10:10:45+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2779,20 +2786,6 @@
             "link": "https://www.welivesecurity.com/en/scams/taxing-times-top-irs-scams-look-out-2026/",
             "summary": "It’s time to file your tax return. And cybercriminals are lurking to make an already stressful period even more edgy.",
             "published_utc": "2026-02-10T10:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "European Governments Breached in Zero-Day Attacks Targeting Ivanti",
-            "link": "https://www.infosecurity-magazine.com/news/european-governments-zeroday/",
-            "summary": "The European Commission and government agencies in Finland and the Netherlands have suffered potentially related breaches",
-            "published_utc": "2026-02-10T09:45:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "New Zero-Click Flaw in Claude Desktop Extensions, Anthropic Declines Fix",
-            "link": "https://www.infosecurity-magazine.com/news/zeroclick-flaw-claude-dxt/",
-            "summary": "Security researchers from LayerX identified a new flaw in 50 Claude Desktop Extensions that could lead to unauthorized remote code execution",
-            "published_utc": "2026-02-09T17:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
