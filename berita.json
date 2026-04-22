@@ -1,6 +1,13 @@
 {
-    "lastUpdatedUTC": "2026-04-22T02:42:19.237040+00:00",
+    "lastUpdatedUTC": "2026-04-22T05:27:29.393564+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "SBOM erklärt: Was ist eine Software Bill of Materials?",
+            "link": "https://www.csoonline.com/article/3491814/sbom-erklart-was-ist-eine-software-bill-of-materials.html",
+            "summary": "",
+            "published_utc": "2026-04-22T03:51:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "LG G6 vs. LG G5: I compared the latest OLED TV models, and it's a surprisingly tough choice",
@@ -352,6 +359,13 @@
             "published_utc": "2026-04-21T09:00:00+00:00"
         },
         {
+            "source": "WeLiveSecurity",
+            "title": "New NGate variant hides in a trojanized NFC payment app",
+            "link": "https://www.welivesecurity.com/en/eset-research/new-ngate-variant-hides-in-a-trojanized-nfc-payment-app/",
+            "summary": "ESET researchers discover another iteration of NGate malware, this time possibly developed with the assistance of AI",
+            "published_utc": "2026-04-21T08:55:00+00:00"
+        },
+        {
             "source": "InfosecurityMag",
             "title": "North Korean Blamed for $290m KelpDAO Crypto Heist",
             "link": "https://www.infosecurity-magazine.com/news/north-korean-blamed-290m-kelpdao/",
@@ -507,9 +521,9 @@
         },
         {
             "source": "WeLiveSecurity",
-            "title": "What the ransom note won't say",
+            "title": "What the ransom note won’t say",
             "link": "https://www.welivesecurity.com/en/ransomware/what-ransom-note-doesnt-say/",
-            "summary": "An attack is what you see, but a business operation is what you're up against",
+            "summary": "An attack is what you see, but a business operation is what you’re up against",
             "published_utc": "2026-04-20T09:00:00+00:00"
         },
         {
@@ -623,13 +637,6 @@
             "link": "https://www.csoonline.com/article/4159827/cisco-systems-issues-three-advisories-for-critical-vulnerabilities-in-webex-ise.html",
             "summary": "",
             "published_utc": "2026-04-16T22:29:46+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "RCE by design: MCP architectural choice haunts AI agent ecosystem",
-            "link": "https://www.csoonline.com/article/4159889/rce-by-design-mcp-architectural-choice-haunts-ai-agent-ecosystem.html",
-            "summary": "",
-            "published_utc": "2026-04-16T22:14:04+00:00"
         },
         {
             "source": "WIRED Security",
@@ -3255,13 +3262,6 @@
             "link": "https://www.welivesecurity.com/en/business-security/preventing-business-disruption-building-cyber-resilience-mdr/",
             "summary": "Given the serious financial and reputational risks of incidents that grind business to a halt, organizations need to prioritize a prevention-first cyb...",
             "published_utc": "2025-09-09T09:00:00+00:00"
-        },
-        {
-            "source": "WeLiveSecurity",
-            "title": "Under lock and key: Safeguarding business data with encryption",
-            "link": "https://www.welivesecurity.com/en/business-security/under-lock-key-safeguarding-business-data-encryption/",
-            "summary": "As the attack surface expands and the threat landscape grows more complex, it’s time to consider whether your data protection strategy is fit for purpose",
-            "published_utc": "2025-09-05T08:53:00+00:00"
         },
         {
             "source": "Threatpost",
