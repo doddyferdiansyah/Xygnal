@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2026-04-22T17:04:01.904543+00:00",
+    "lastUpdatedUTC": "2026-04-22T19:16:25.053403+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Kyber ransomware gang toys with post-quantum encryption on Windows",
+            "link": "https://www.bleepingcomputer.com/news/security/kyber-ransomware-gang-toys-with-post-quantum-encryption-on-windows/",
+            "summary": "A new Kyber ransomware operation is targeting Windows systems and VMware ESXi endpoints in recent attacks, with one variant implementing Kyber1024 pos...",
+            "published_utc": "2026-04-22T18:52:29+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The shadowy SIM farms behind those incessant scam texts - and how to stay safe",
+            "link": "https://www.zdnet.com/article/the-sim-farms-behind-scam-texts-how-to-stay-safe/",
+            "summary": "These fraud factories operate quietly to support large-scale scamming and phishing. Here's how they work and what to do if you're targeted.",
+            "published_utc": "2026-04-22T18:50:42+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Microsoft issues out-of-band patch for critical security flaw in update to ASP.NET Core",
+            "link": "https://www.csoonline.com/article/4162178/microsoft-issues-out-of-band-patch-for-critical-security-flaw-in-update-to-asp-net-core.html",
+            "summary": "",
+            "published_utc": "2026-04-22T18:37:28+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Don't wait to buy a MacBook Neo for school - here's why",
+            "link": "https://www.zdnet.com/article/macbook-neo-for-back-to-school-buy-now/",
+            "summary": "The MacBook Neo has been so popular that it's selling out on Apple's website.",
+            "published_utc": "2026-04-22T18:07:11+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The best earbuds of 2026: Expert tested and reviewed",
+            "link": "https://www.zdnet.com/article/best-earbuds/",
+            "summary": "For your workouts, cool-downs, days in the office, and everything in between, we picked the five best earbuds for your day-to-day from brands like App...",
+            "published_utc": "2026-04-22T18:00:39+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Google brings Auto Browse and Skills to Chrome Enterprise - and a new 'Gemini Summary'",
+            "link": "https://www.zdnet.com/article/google-chrome-enterprise-update-auto-browse-skills-gemini-summary/",
+            "summary": "Chrome Enterprise is turning into more of an AI workspace, with task automation, one-click workflows, and new IT security controls.",
+            "published_utc": "2026-04-22T17:30:03+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "New Firefox update patches a whopping 271 bugs, thanks to Claude Mythos",
@@ -205,6 +247,13 @@
             "published_utc": "2026-04-22T11:00:51+00:00"
         },
         {
+            "source": "InfosecurityMag",
+            "title": "Former Ransomware Negotiator Pleads Guilty to Working For BlackCat Cyber Gang",
+            "link": "https://www.infosecurity-magazine.com/news/former-ransomware-negotiator/",
+            "summary": "A former ransomware negotiator has pleaded guilty to abusing his position by working with noted cybercrime group BlackCat",
+            "published_utc": "2026-04-22T11:00:00+00:00"
+        },
+        {
             "source": "SecurityWeek",
             "title": "North Korean Hackers Use AppleScript, ClickFix in Fresh macOS Attacks",
             "link": "https://www.securityweek.com/north-korean-hackers-use-applescript-clickfix-in-fresh-macos-attacks/",
@@ -324,20 +373,6 @@
             "published_utc": "2026-04-21T20:28:22+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I got an early look at ChatGPT Images 2.0, and it's impressive - with one exception",
-            "link": "https://www.zdnet.com/article/chatgpt-images-2-hands-on-testing/",
-            "summary": "OpenAI's new ChatGPT Images 2.0 promises precision and design control. Here's how to try it for yourself.",
-            "published_utc": "2026-04-21T19:00:48+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I compared Thread, Zigbee, and Matter - here's the best smart home setup for you",
-            "link": "https://www.zdnet.com/article/thread-vs-zigbee-vs-matter/",
-            "summary": "All three are related to smart home connectivity, and it's important that you understand their differences.",
-            "published_utc": "2026-04-21T18:53:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "New Lotus data wiper used against Venezuelan energy, utility firms",
             "link": "https://www.bleepingcomputer.com/news/security/new-lotus-data-wiper-used-against-venezuelan-energy-utility-firms/",
@@ -350,20 +385,6 @@
             "link": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/",
             "summary": "The Firefox team doesn’t think emerging AI capabilities will upend cybersecurity long term, but they warn that software developers are likely in for a...",
             "published_utc": "2026-04-21T18:30:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Scaling agentic AI demands a strong data foundation - 4 steps to take first",
-            "link": "https://www.zdnet.com/article/scaling-agentic-ai-requires-strong-data-foundation/",
-            "summary": "McKinsey identifies four coordinated steps that connect strategy, technology, and people to build strong foundational data capabilities.",
-            "published_utc": "2026-04-21T18:01:59+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I powered my 3,000-sq-ft home with an EcoFlow battery in a blackout - here's how it kept my AC on",
-            "link": "https://www.zdnet.com/article/ecoflow-delta-pro-ultra-x-review/",
-            "summary": "The EcoFlow Delta Pro Ultra X is one of the few power stations that has kept my home running like normal without interruption.",
-            "published_utc": "2026-04-21T18:00:47+00:00"
         },
         {
             "source": "WIRED Security",
@@ -455,13 +476,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/04/mexican-surveillance-company.html",
             "summary": "",
             "published_utc": "2026-04-21T11:04:59+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Former ransomware negotiator pleads guilty to BlackCat attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/former-ransomware-negotiator-pleads-guilty-to-blackcat-attacks/",
-            "summary": "41-year-old Angelo Martino, a former employee of cybersecurity incident response company DigitalMint, has pleaded guilty to targeting U.S. companies i...",
-            "published_utc": "2026-04-21T10:12:21+00:00"
         },
         {
             "source": "CSO Online",
@@ -679,13 +693,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/04/mythos-and-cybersecurity.html",
             "summary": "",
             "published_utc": "2026-04-17T11:02:37+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Palo Alto’s Helmut Reisinger sees a cyber sea change ahead as AI advances",
-            "link": "https://www.csoonline.com/article/4159305/helmut-reisinger-palo-alto-networks-anthropics-groundbreaking-mythos-model-represents-a-radical-shift-in-cybersecurity.html",
-            "summary": "",
-            "published_utc": "2026-04-17T10:01:00+00:00"
         },
         {
             "source": "WIRED Security",
