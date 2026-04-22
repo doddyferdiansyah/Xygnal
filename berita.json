@@ -1,6 +1,13 @@
 {
-    "lastUpdatedUTC": "2026-04-22T20:56:50.852889+00:00",
+    "lastUpdatedUTC": "2026-04-22T21:54:20.003458+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Apple fixes iOS bug that retained deleted notification data",
+            "link": "https://www.bleepingcomputer.com/news/security/apple-fixes-ios-bug-that-retained-deleted-notification-data/",
+            "summary": "Apple has released out-of-band security updates for iPhone and iPad devices to fix a Notification Services flaw that could allow notifications marked ...",
+            "published_utc": "2026-04-22T20:58:58+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "New Mirai campaign exploits RCE flaw in EoL D-Link routers",
@@ -455,13 +462,6 @@
             "link": "https://www.csoonline.com/article/4161389/azure-sre-agent-flaw-let-outsiders-silently-eavesdrop-on-enterprise-cloud-operations.html",
             "summary": "",
             "published_utc": "2026-04-21T12:35:31+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "CISA flags new SD-WAN flaw as actively exploited in attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-new-sd-wan-flaw-as-actively-exploited-in-attacks/",
-            "summary": "​CISA has given U.S. government agencies four days to secure their systems against another Catalyst SD-WAN Manager vulnerability it flagged as activel...",
-            "published_utc": "2026-04-21T12:30:50+00:00"
         },
         {
             "source": "CSO Online",
