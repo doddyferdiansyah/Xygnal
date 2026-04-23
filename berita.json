@@ -1,6 +1,55 @@
 {
-    "lastUpdatedUTC": "2026-04-23T15:54:59.503979+00:00",
+    "lastUpdatedUTC": "2026-04-23T17:22:12.934215+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "Want free e-books? Stuff Your Kindle Day has 150+ titles discounted - today only",
+            "link": "https://www.zdnet.com/article/stuff-your-kindle-day-2026-free-ebook-sale/",
+            "summary": "This popular sale lets you download free e-books on any e-reader (not just Kindle) and keep them forever.",
+            "published_utc": "2026-04-23T16:57:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Why I recommend this $450 Samsung phone over competing models by Google and OnePlus",
+            "link": "https://www.zdnet.com/article/samsung-galaxy-a37-review/",
+            "summary": "The Galaxy A37 punches above its weight thanks to its upgraded cameras. But it also faces stiff competition in the midrange market.",
+            "published_utc": "2026-04-23T16:56:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Google Favors General‑Purpose Gemini Models Over Cybersecurity‑Specific AI",
+            "link": "https://www.infosecurity-magazine.com/news/google-gemini-over-cyber-specific/",
+            "summary": "Google Cloud’s COO advocated for combining general-purpose frontier large language models with task-specific AI agents",
+            "published_utc": "2026-04-23T16:40:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Apple just fixed an iOS flaw exploited by the FBI - here's what happened",
+            "link": "https://www.zdnet.com/article/apple-just-fixed-an-ios-flaw-exploited-by-the-fbi-heres-what-happened/",
+            "summary": "The latest iOS 26.4.2 update resolves a vulnerability that allowed the FBI to retrieve deleted text messages from a user's Signal app.",
+            "published_utc": "2026-04-23T16:29:19+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How to easily encrypt your files on an Android phone - for free",
+            "link": "https://www.zdnet.com/article/how-to-easily-encrypt-files-on-android-with-openkeychain/",
+            "summary": "If you need to encrypt a file on your Android device so it can be safely shared with other users, this handy app gets the job done.",
+            "published_utc": "2026-04-23T16:14:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "My favorite MagSafe car charger easily handles bumpy roads (and it's on sale)",
+            "link": "https://www.zdnet.com/article/scosche-magicmount-charge-pro-in-car-charger-review/",
+            "summary": "The Scosche MagicMount Charge Pro is rock solid and delivers on its promise of fast charging.",
+            "published_utc": "2026-04-23T16:08:21+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "New Checkmarx supply-chain breach affects KICS analysis tool",
+            "link": "https://www.bleepingcomputer.com/news/security/new-checkmarx-supply-chain-breach-affects-kics-analysis-tool/",
+            "summary": "Hackers have compromised Docker images, VSCode and Open VSX extensions for the Checkmarx KICS analysis tool to harvest sensitive data from developer e...",
+            "published_utc": "2026-04-23T16:05:12+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "5 easy ways you wouldn't think to automate your home - but you really should",
@@ -105,13 +154,6 @@
             "link": "https://www.csoonline.com/article/4162560/google-gets-agent-ready-for-the-mythos-age.html",
             "summary": "",
             "published_utc": "2026-04-23T12:12:23+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I switched to Samsung's $450 Galaxy phone from my OnePlus, and didn't regret it",
-            "link": "https://www.zdnet.com/article/samsung-galaxy-a37-review/",
-            "summary": "The Galaxy A37 punches above its weight thanks to its upgraded cameras. But whether it's an upgrade or not depends on you.",
-            "published_utc": "2026-04-23T12:11:04+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -310,27 +352,6 @@
             "published_utc": "2026-04-22T18:37:28+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Google brings Auto Browse and Skills to Chrome Enterprise - and a new 'Gemini Summary'",
-            "link": "https://www.zdnet.com/article/google-chrome-enterprise-update-auto-browse-skills-gemini-summary/",
-            "summary": "Chrome Enterprise is turning into more of an AI workspace, with task automation, one-click workflows, and new IT security controls.",
-            "published_utc": "2026-04-22T17:30:03+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "New Firefox update patches a whopping 271 bugs with help from Claude Mythos",
-            "link": "https://www.zdnet.com/article/firefox-new-features-271-security-bug-fixes/",
-            "summary": "Firefox 150 enhances split view, tab sharing, and other helpful features and patches 271 security vulnerabilities - update now.",
-            "published_utc": "2026-04-22T16:52:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "After testing this Garmin rival, I won't use a smartwatch without a built-in flashlight again",
-            "link": "https://www.zdnet.com/article/polar-street-x-review/",
-            "summary": "The Polar Street X raises the bar for smartwatches with integrated LED flashlights at a low entry price.",
-            "published_utc": "2026-04-22T16:38:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "MacOS Native Tools Enable Stealthy Enterprise Attacks",
             "link": "https://www.infosecurity-magazine.com/news/macos-lotl-techniques-enterprise/",
@@ -357,13 +378,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ncsc-silentglass-a-plugin-stop/",
             "summary": "The UK’s cybersecurity agency said the devices will be available for purchase by organizations around the world",
             "published_utc": "2026-04-22T15:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "5 gifts your mom will actually like for Mother's Day",
-            "link": "https://www.zdnet.com/article/mothers-day-gift-guide-2026/",
-            "summary": "Mother's Day is just a couple of weeks away, and we've found the best useful gadgets and cozy items that our moms on staff approve.",
-            "published_utc": "2026-04-22T14:31:52+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -441,13 +455,6 @@
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-graph-api-code-change-causes-universal-print-share-issues/",
             "summary": "Microsoft says that an ongoing Universal Print sharing issue that prevents users from creating some printer shares is due to a Microsoft Graph API cod...",
             "published_utc": "2026-04-22T10:15:09+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "New GoGra malware for Linux uses Microsoft Graph API for comms",
-            "link": "https://www.bleepingcomputer.com/news/security/new-gogra-malware-for-linux-uses-microsoft-graph-api-for-comms/",
-            "summary": "A Linux variant of the GoGra backdoor uses legitimate Microsoft infrastructure, relying on an Outlook inbox for stealthy payload delivery. [...]",
-            "published_utc": "2026-04-22T10:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2758,13 +2765,6 @@
             "link": "https://www.welivesecurity.com/en/ransomware/naming-shaming-ransomware-groups-tighten-screws-victims/",
             "summary": "When corporate data is exposed on a dedicated leak site, the consequences linger long after the attack fades from the news cycle",
             "published_utc": "2026-02-12T10:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Time to Exploit Plummets as N-Day Flaws Dominate",
-            "link": "https://www.infosecurity-magazine.com/news/time-exploit-plummets-nday-flaws/",
-            "summary": "Flashpoint warns of a dramatic drop in the average time between vulnerability disclosure and exploitation",
-            "published_utc": "2026-02-12T09:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
