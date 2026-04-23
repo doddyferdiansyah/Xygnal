@@ -1,6 +1,13 @@
 {
-    "lastUpdatedUTC": "2026-04-23T20:54:40.603244+00:00",
+    "lastUpdatedUTC": "2026-04-23T21:48:01.179717+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers exploit file upload bug in Breeze Cache WordPress plugin",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin/",
+            "summary": "Hackers are actively exploiting a critical vulnerability in the Breeze Cache plugin for WordPress that allows uploading arbitrary files on the server ...",
+            "published_utc": "2026-04-23T21:33:45+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "3 practical ways AI threat detection improves enterprise cyber resilience",
@@ -441,13 +448,6 @@
             "link": "https://www.infosecurity-magazine.com/news/silent-subject-phishing-campaigns/",
             "summary": "Null subject phishing campaigns bypass filters and target VIPs with QR code and RMM abuse",
             "published_utc": "2026-04-22T13:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "New npm supply-chain attack self-spreads to steal auth tokens",
-            "link": "https://www.bleepingcomputer.com/news/security/new-npm-supply-chain-attack-self-spreads-to-steal-auth-tokens/",
-            "summary": "A new supply chain attack targeting the Node Package Manager (npm) ecosystem is stealing developer credentials and attempting to spread through packag...",
-            "published_utc": "2026-04-22T12:57:42+00:00"
         },
         {
             "source": "SecurityWeek",
