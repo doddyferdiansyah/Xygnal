@@ -1,6 +1,83 @@
 {
-    "lastUpdatedUTC": "2026-04-23T11:11:21.197065+00:00",
+    "lastUpdatedUTC": "2026-04-23T13:47:07.470309+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft: Some Teams users can’t join meetings after Edge update",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-teams-users-cant-join-meetings-after-edge-update/",
+            "summary": "Microsoft confirmed that a recent Microsoft Edge browser update introduced a bug that prevents Windows users from joining Teams meetings. [...]",
+            "published_utc": "2026-04-23T13:18:10+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "98% of IT leaders want digital sovereignty: Now SUSE is operationalizing it for companies everywhere",
+            "link": "https://www.zdnet.com/article/suse-bets-its-future-on-digital-sovereignty/",
+            "summary": "I've followed SUSE for decades. Here's how it's helping organizations control data and avoid lock-in.",
+            "published_utc": "2026-04-23T13:15:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Offer customers passkeys by default, UK’s NCSC tells enterprises",
+            "link": "https://www.csoonline.com/article/4162596/offer-customers-passkeys-by-default-uks-ncsc-tells-enterprises-2.html",
+            "summary": "",
+            "published_utc": "2026-04-23T13:08:39+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Apple Fixes iOS Notification Bug Exposing Deleted Messages",
+            "link": "https://www.infosecurity-magazine.com/news/apple-ios-notification-bug-deleted/",
+            "summary": "Apple patches iOS flaw that retained deleted notifications, exposing message data",
+            "published_utc": "2026-04-23T13:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Chinese Cybersecurity Firm’s AI Hacking Claims Draw Comparisons to Claude Mythos",
+            "link": "https://www.securityweek.com/chinese-cybersecurity-firms-ai-hacking-claims-draw-comparisons-to-claude-mythos/",
+            "summary": "",
+            "published_utc": "2026-04-23T12:36:45+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "UK warns of Chinese hackers using proxy networks to evade detection",
+            "link": "https://www.bleepingcomputer.com/news/security/uk-warns-of-chinese-hackers-using-botnets-of-hijacked-consumer-devices-to-evade-detection/",
+            "summary": "The United Kingdom's National Cyber Security Centre (NCSC-UK) and international partners warned that China-nexus hackers are increasingly using large-...",
+            "published_utc": "2026-04-23T12:28:39+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Google gets agent-ready for the Mythos age",
+            "link": "https://www.csoonline.com/article/4162560/google-gets-agent-ready-for-the-mythos-age.html",
+            "summary": "",
+            "published_utc": "2026-04-23T12:12:23+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I switched to Samsung's $450 Galaxy phone from my OnePlus, and didn't regret it",
+            "link": "https://www.zdnet.com/article/samsung-galaxy-a37-review/",
+            "summary": "The Galaxy A37 punches above its weight thanks to its upgraded cameras. But whether it's an upgrade or not depends on you.",
+            "published_utc": "2026-04-23T12:11:04+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "New GopherWhisper APT group abuses Outlook, Slack, Discord for comms",
+            "link": "https://www.bleepingcomputer.com/news/security/new-gopherwhisper-apt-group-abuses-outlook-slack-discord-for-comms/",
+            "summary": "A previously undocumented state-backed threat actor named GopherWhisper is using a Go-based custom toolkit and legitimate services like Microsoft 365 ...",
+            "published_utc": "2026-04-23T12:06:18+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Google Introduces Unique AI Agent Identities in New Gemini Enterprise Platform",
+            "link": "https://www.infosecurity-magazine.com/news/google-ai-agent-identities-gemini/",
+            "summary": "Google Cloud will attribute a unique cryptographic ID every AI agent that will be tied to “traceable and auditable” authorization policies",
+            "published_utc": "2026-04-23T12:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Rilian Raises $17.5 Million for AI-Native Security Orchestration",
+            "link": "https://www.securityweek.com/rilian-raises-17-5-million-for-ai-native-security-orchestration/",
+            "summary": "",
+            "published_utc": "2026-04-23T11:45:30+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "The Behavioral Shift: Why Trusted Relationships Are the Newest Attack Surface",
@@ -331,39 +408,11 @@
             "published_utc": "2026-04-22T12:10:28+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "How Google just revamped Gemini Enterprise for the agentic era - here's what's new",
-            "link": "https://www.zdnet.com/article/google-cloud-next-enterprise-agent-platform-ai/",
-            "summary": "Meet Gemini Enterprise Agent Platform, the new developer tool for managing fleets of agents at scale.",
-            "published_utc": "2026-04-22T12:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Mirai Botnet Targets Flaw in Discontinued D-Link Routers",
-            "link": "https://www.securityweek.com/mirai-botnet-targets-flaw-in-discontinued-d-link-routers/",
-            "summary": "",
-            "published_utc": "2026-04-22T11:44:07+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "NFC tap-to-pay gets tapped by hackers",
             "link": "https://www.csoonline.com/article/4161983/nfc-tap-to-pay-gets-tapped-by-hackers.html",
             "summary": "",
             "published_utc": "2026-04-22T11:40:10+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Are SBOMs Failing? Supply Chain Attacks Rise as Security Teams Struggle With SBOM Data",
-            "link": "https://www.securityweek.com/are-sboms-failing-supply-chain-attacks-rise-as-security-teams-struggle-with-sbom-data/",
-            "summary": "",
-            "published_utc": "2026-04-22T11:30:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The best robot vacuums for 2026: Expert and lab tested",
-            "link": "https://www.zdnet.com/article/best-robot-vacuum/",
-            "summary": "I tested the best robot vacuums from brands like Ecovacs, Roborock, Mova, and more in lab and home settings - here are the top ones.",
-            "published_utc": "2026-04-22T11:06:10+00:00"
         },
         {
             "source": "Schneier",
@@ -436,25 +485,11 @@
             "published_utc": "2026-04-22T03:51:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "French govt agency confirms breach as hacker offers to sell data",
-            "link": "https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/",
-            "summary": "France Titres, the government agency in France for issuing and managing administrative documents has disclosed a data breach after a threat actor clai...",
-            "published_utc": "2026-04-21T21:46:04+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Thousands of Apache ActiveMQ instances still unpatched, weeks after an actively exploited hole discovered",
             "link": "https://www.csoonline.com/article/4161532/thousands-of-apache-activemq-instances-still-unpatched-weeks-after-an-actively-exploited-hole-discovered.html",
             "summary": "",
             "published_utc": "2026-04-21T20:28:22+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "New Lotus data wiper used against Venezuelan energy, utility firms",
-            "link": "https://www.bleepingcomputer.com/news/security/new-lotus-data-wiper-used-against-venezuelan-energy-utility-firms/",
-            "summary": "A previously undocumented data-wiping malware dubbed Lotus was used last year in targeted attacks against energy and utilities organizations in Venezu...",
-            "published_utc": "2026-04-21T18:38:40+00:00"
         },
         {
             "source": "WIRED Security",
@@ -483,13 +518,6 @@
             "link": "https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/",
             "summary": "A 24-year-old British national and senior member of the cybercrime group \"Scattered Spider\" has pleaded guilty to wire fraud conspiracy and aggravated...",
             "published_utc": "2026-04-21T14:53:59+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Stopping Fraud at Each Stage of the Customer Journey Without Adding Friction",
-            "link": "https://www.bleepingcomputer.com/news/security/stopping-fraud-at-each-stage-of-the-customer-journey-without-adding-friction/",
-            "summary": "Fraud prevention and user experience don't have to be a tradeoff. IPQS shows how combining identity, device, and network signals stops fraud without a...",
-            "published_utc": "2026-04-21T14:02:12+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -630,20 +658,6 @@
             "link": "https://www.wired.com/story/the-weird-twisting-tale-of-how-china-spied-on-alysa-liu-and-her-dad/",
             "summary": "Years before the figure skater became an Olympic superstar, a Chinese operative tried to stalk her father and monitored other US residents deemed diss...",
             "published_utc": "2026-04-20T10:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Copilot & Agentforce offen für Prompt-Injection-Tricks",
-            "link": "https://www.csoonline.com/article/4160426/copilot-agentforce-offen-fur-prompt-injection-tricks.html",
-            "summary": "",
-            "published_utc": "2026-04-20T09:39:48+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Claude Mythos – ist der Hype gerechtfertigt?",
-            "link": "https://www.csoonline.com/article/4160754/claude-mythos-ist-der-hype-gerechtfertigt.html",
-            "summary": "",
-            "published_utc": "2026-04-20T09:38:01+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2758,20 +2772,6 @@
             "link": "https://www.infosecurity-magazine.com/news/time-exploit-plummets-nday-flaws/",
             "summary": "Flashpoint warns of a dramatic drop in the average time between vulnerability disclosure and exploitation",
             "published_utc": "2026-02-12T09:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "North Korean Hackers Use Deepfake Video Calls to Target Crypto Firms",
-            "link": "https://www.infosecurity-magazine.com/news/north-korea-hackers-deepfake-crypto/",
-            "summary": "Campaign combines stolen Telegram accounts, fake Zoom calls and ClickFix attacks to deploy infostealer malware",
-            "published_utc": "2026-02-11T16:35:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "US Court Hands Crypto Scammer 20 Years in $73m Case",
-            "link": "https://www.infosecurity-magazine.com/news/court-hands-crypto-scammer-20-years/",
-            "summary": "A federal court has sentenced crypto-scammer Daren Li to 20 years in absentia",
-            "published_utc": "2026-02-11T12:05:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
