@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2026-04-24T13:59:12.810247+00:00",
+    "lastUpdatedUTC": "2026-04-24T15:16:34.749092+00:00",
     "articles": [
+        {
+            "source": "WIRED Security",
+            "title": "The Latest Push to Extend Key US Spy Powers Is Still a Mess",
+            "link": "https://www.wired.com/story/the-latest-push-to-extend-key-us-spy-powers-is-still-a-mess/",
+            "summary": "A US surveillance program that lets the FBI view Americans' communications without a warrant is up for renewal. A new bill aims to address mounting la...",
+            "published_utc": "2026-04-24T15:10:03+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Pre-Stuxnet Sabotage Malware ‘Fast16’ Linked to US-Iran Cyber Tensions",
+            "link": "https://www.securityweek.com/pre-stuxnet-sabotage-malware-fast16-linked-to-us-iran-cyber-tensions/",
+            "summary": "",
+            "published_utc": "2026-04-24T14:57:18+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The Microsoft Surface Pro is nearly 40% off at Best Buy - and we highly recommend it",
+            "link": "https://www.zdnet.com/article/microsoft-surface-pro-best-buy-deal/",
+            "summary": "The Microsoft Surface Pro is a powerful 2-in-1 laptop, and right now at Best Buy, you can save $800 on the 13-inch version.",
+            "published_utc": "2026-04-24T14:50:50+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "In Other News: Unauthorized Mythos Access, Plankey CISA Nomination Ends, New Display Security Device",
+            "link": "https://www.securityweek.com/in-other-news-unauthorized-mythos-access-plankey-cisa-nomination-ends-new-display-security-device/",
+            "summary": "",
+            "published_utc": "2026-04-24T14:31:51+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "DORA and operational resilience: Credential management as a financial risk control",
+            "link": "https://www.bleepingcomputer.com/news/security/dora-and-operational-resilience-credential-management-as-a-financial-risk-control/",
+            "summary": "Article 9 of DORA makes authentication and access control a legal obligation for EU financial entities. Here is what the regulation requires, and what...",
+            "published_utc": "2026-04-24T14:10:20+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Over 10,000 Zimbra servers vulnerable to ongoing XSS attacks",
@@ -289,13 +324,6 @@
             "published_utc": "2026-04-23T16:14:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "My favorite MagSafe car charger easily handles bumpy roads (and it's on sale)",
-            "link": "https://www.zdnet.com/article/scosche-magicmount-charge-pro-in-car-charger-review/",
-            "summary": "The Scosche MagicMount Charge Pro is rock solid and delivers on its promise of fast charging.",
-            "published_utc": "2026-04-23T16:08:21+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "New Checkmarx supply-chain breach affects KICS analysis tool",
             "link": "https://www.bleepingcomputer.com/news/security/new-checkmarx-supply-chain-breach-affects-kics-analysis-tool/",
@@ -345,13 +373,6 @@
             "published_utc": "2026-04-23T13:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Chinese Cybersecurity Firm’s AI Hacking Claims Draw Comparisons to Claude Mythos",
-            "link": "https://www.securityweek.com/chinese-cybersecurity-firms-ai-hacking-claims-draw-comparisons-to-claude-mythos/",
-            "summary": "",
-            "published_utc": "2026-04-23T12:36:45+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "UK warns of Chinese hackers using proxy networks to evade detection",
             "link": "https://www.bleepingcomputer.com/news/security/uk-warns-of-chinese-hackers-using-botnets-of-hijacked-consumer-devices-to-evade-detection/",
@@ -378,13 +399,6 @@
             "link": "https://www.infosecurity-magazine.com/news/google-ai-agent-identities-gemini/",
             "summary": "Google Cloud will attribute a unique cryptographic ID every AI agent that will be tied to “traceable and auditable” authorization policies",
             "published_utc": "2026-04-23T12:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Rilian Raises $17.5 Million for AI-Native Security Orchestration",
-            "link": "https://www.securityweek.com/rilian-raises-17-5-million-for-ai-native-security-orchestration/",
-            "summary": "",
-            "published_utc": "2026-04-23T11:45:30+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -476,13 +490,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/new-mirai-campaign-exploits-rce-flaw-in-eol-d-link-routers/",
             "summary": "A new Mirai-based malware campaign is actively exploiting CVE-2025-29635, a high-severity command-injection vulnerability affecting D-Link DIR-823X ro...",
             "published_utc": "2026-04-22T20:04:46+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Kyber ransomware gang toys with post-quantum encryption on Windows",
-            "link": "https://www.bleepingcomputer.com/news/security/kyber-ransomware-gang-toys-with-post-quantum-encryption-on-windows/",
-            "summary": "A new Kyber ransomware operation is targeting Windows systems and VMware ESXi endpoints in recent attacks, with one variant implementing Kyber1024 pos...",
-            "published_utc": "2026-04-22T18:52:29+00:00"
         },
         {
             "source": "CSO Online",
@@ -1442,13 +1449,6 @@
             "link": "https://www.infosecurity-magazine.com/news/phantom-project-infostealer-nov-25/",
             "summary": "Phantom Stealer .NET harvests browser credentials, cookies, cards, sessions, as stealer-as-a-service",
             "published_utc": "2026-03-31T14:00:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "The Broken System That Keeps Shipping Crews Stranded in the Strait of Hormuz",
-            "link": "https://www.wired.com/story/legal-loopholes-leave-shipping-crews-stranded-in-the-strait-of-hormuz/",
-            "summary": "Vessels are increasingly being abandoned during the war on Iran, revealing a hidden failure in the global systems that keep goods—and people—moving.",
-            "published_utc": "2026-03-31T13:38:52+00:00"
         },
         {
             "source": "InfosecurityMag",
