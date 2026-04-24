@@ -1,6 +1,55 @@
 {
-    "lastUpdatedUTC": "2026-04-24T11:58:29.247576+00:00",
+    "lastUpdatedUTC": "2026-04-24T13:59:12.810247+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Over 10,000 Zimbra servers vulnerable to ongoing XSS attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-says-zimbra-flaw-now-exploited-over-10k-servers-vulnerable/",
+            "summary": "Over 10,000 Zimbra Collaboration Suite (ZCS) instances exposed online are vulnerable to ongoing attacks exploiting a cross-site scripting (XSS) securi...",
+            "published_utc": "2026-04-24T13:35:33+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "UK Biobank Data Breach: Health Data of 500,000 Listed for Sale in China",
+            "link": "https://www.infosecurity-magazine.com/news/uk-biobank-data-beach-health-data/",
+            "summary": "UK government Minister confirms that breached health records of UK Biobank volunteers were up for sale on Chinese ecommerce platforms before being rem...",
+            "published_utc": "2026-04-24T13:25:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I tried ChatGPT Images 2.0: A fun, huge leap - and surprisingly useful for real work",
+            "link": "https://www.zdnet.com/article/chatgpt-images-2-0-hands-on-test-fun-huge-useful-leap/",
+            "summary": "My ChatGPT Images 2.0 results were impressive, but occassionally wrong. Here's how it handles branding, text, and infographics.",
+            "published_utc": "2026-04-24T13:19:02+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Why Cybersecurity Must Rethink Defense in the Age of Autonomous Agents",
+            "link": "https://www.securityweek.com/why-cybersecurity-must-rethink-defense-in-the-age-of-autonomous-agents/",
+            "summary": "",
+            "published_utc": "2026-04-24T12:34:53+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Locked Shields 2026: 41 Nations Strengthen Cyber Resilience in World’s Biggest Exercise",
+            "link": "https://www.securityweek.com/locked-shields-2026-41-nations-strengthen-cyber-resilience-in-worlds-biggest-exercise/",
+            "summary": "",
+            "published_utc": "2026-04-24T12:32:08+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I put GPT-5.5 through a 10-round test: It scored 93/100, losing points only for exuberance",
+            "link": "https://www.zdnet.com/article/i-put-openai-gpt-5-5-through-a-10-round-test/",
+            "summary": "OpenAI's latest model delivers powerful results but sometimes ignores simple directions, creating a tension between intelligence and control.",
+            "published_utc": "2026-04-24T12:21:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "AI Rush is Reviving Old Cybersecurity Mistakes, Mandiant VP Warns",
+            "link": "https://www.infosecurity-magazine.com/news/ai-old-cybersecurity-mistakes/",
+            "summary": "AI tools are not just creating new vulnerabilities, they are reviving old security failures, warned Jurgen Kutscher, VP of Mandiant Consulting",
+            "published_utc": "2026-04-24T12:10:00+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Microsoft now lets admins uninstall Copilot on enterprise devices",
@@ -254,13 +303,6 @@
             "published_utc": "2026-04-23T16:05:12+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "5 easy ways you wouldn't think to automate your home - but you really should",
-            "link": "https://www.zdnet.com/article/easy-ways-to-automate-home-you-didnt-think-about/",
-            "summary": "I automated several everyday gadgets, and now my home runs so much smoother.",
-            "published_utc": "2026-04-23T15:21:00+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "Cloudsmith Raises $72 Million in Series C Funding",
             "link": "https://www.securityweek.com/cloudsmith-raises-72-million-in-series-c-funding/",
@@ -345,13 +387,6 @@
             "published_utc": "2026-04-23T11:45:30+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "The Behavioral Shift: Why Trusted Relationships Are the Newest Attack Surface",
-            "link": "https://www.securityweek.com/the-behavioral-shift-why-trusted-relationships-are-the-newest-attack-surface/",
-            "summary": "",
-            "published_utc": "2026-04-23T11:06:44+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "CISA orders feds to patch BlueHammer flaw exploited as zero-day",
             "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-microsoft-defender-flaw-exploited-in-zero-day-attacks/",
@@ -364,13 +399,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/04/fbi-extracts-deleted-signal-messages-from-iphone-notification-database.html",
             "summary": "",
             "published_utc": "2026-04-23T11:05:42+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Luxury Cosmetics Giant Rituals Discloses Data Breach",
-            "link": "https://www.securityweek.com/luxury-cosmetics-giant-rituals-discloses-data-breach/",
-            "summary": "",
-            "published_utc": "2026-04-23T11:04:51+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -476,13 +504,6 @@
             "link": "https://www.wired.com/story/ai-tools-are-helping-mediocre-north-korean-hackers-steal-millions/",
             "summary": "One group of hackers used AI for everything from vibe coding their malware to creating fake company websites—and stole as much as $12 million in three...",
             "published_utc": "2026-04-22T16:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Spain dismantles major $4.7M manga piracy platform, arrests four",
-            "link": "https://www.bleepingcomputer.com/news/security/spain-dismantles-major-47m-manga-piracy-platform-arrests-four/",
-            "summary": "The Spanish police have dismantled the largest Spanish-language manga piracy platform, operating since 2014, with millions of monthly users from aroun...",
-            "published_utc": "2026-04-22T15:06:34+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2765,20 +2786,6 @@
             "link": "https://www.infosecurity-magazine.com/news/fake-ai-assistants-google-chrome/",
             "summary": "Hundreds of thousands of users have downloaded malicious AI extensions masquerading as ChatGPT, Gemini, Grok and others, warn cybersecurity researcher...",
             "published_utc": "2026-02-13T11:25:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "World Leaks Ransomware Group Adds Stealthy, Custom Malware ‘RustyRocket’ to Attacks",
-            "link": "https://www.infosecurity-magazine.com/news/world-leaks-ransomware-rustyrocket/",
-            "summary": "Accenture Cybersecurity warns over difficult to detect, “sophisticated toolset” being deployed as part of extortion campaigns",
-            "published_utc": "2026-02-12T13:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Nation-State Hackers Embrace Gemini AI for Malicious Campaigns, Google Finds",
-            "link": "https://www.infosecurity-magazine.com/news/nation-state-hackers-gemini-ai/",
-            "summary": "Google researchers found that government-backed hackers now use AI throughout the whole attack lifecycle",
-            "published_utc": "2026-02-12T12:45:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
