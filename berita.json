@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2026-04-24T17:54:33.132605+00:00",
+    "lastUpdatedUTC": "2026-04-24T18:55:21.573961+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "Scattered Spider co-conspirator pleads guilty",
+            "link": "https://www.csoonline.com/article/4163328/scattered-spider-co-conspirator-pleads-guilty.html",
+            "summary": "",
+            "published_utc": "2026-04-24T18:27:15+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "New BlackFile extortion group linked to surge of vishing attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/new-blackfile-extortion-gang-targets-retail-and-hospitality-orgs/",
+            "summary": "A new financially motivated hacking group tracked as BlackFile has been linked to a wave of data theft and extortion attacks against retail and hospit...",
+            "published_utc": "2026-04-24T18:26:27+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "FCC's router ban expands to portable hotspots - 4 things this means for you",
+            "link": "https://www.zdnet.com/article/fccs-router-ban-expands-to-portable-hotspots-4-things-this-means-for-you/",
+            "summary": "It may get more difficult to upgrade your hotspot - and you'll have other things to worry about, too.",
+            "published_utc": "2026-04-24T18:17:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "CISA last in line for access to Anthropic Mythos",
+            "link": "https://www.csoonline.com/article/4163316/cisa-last-in-line-for-access-to-anthropic-mythos-3.html",
+            "summary": "",
+            "published_utc": "2026-04-24T18:16:23+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft to roll out Entra passkeys on Windows in late April",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-roll-out-entra-passkeys-on-windows-in-late-april/",
+            "summary": "Microsoft will roll out passkey support for phishing-resistant passwordless authentication to Microsoft Entra‑protected resources from Windows devices...",
+            "published_utc": "2026-04-24T18:13:55+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "I'm automating these 5 unexpected home devices - and life has been so much easier",
@@ -317,13 +352,6 @@
             "published_utc": "2026-04-23T18:00:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Want free e-books? Stuff Your Kindle Day has 150+ titles discounted - today only",
-            "link": "https://www.zdnet.com/article/stuff-your-kindle-day-2026-free-ebook-sale/",
-            "summary": "This popular sale lets you download free e-books on any e-reader (not just Kindle) and keep them forever.",
-            "published_utc": "2026-04-23T16:57:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Google Favors General-Purpose Gemini Models Over Cybersecurity‑Specific AI",
             "link": "https://www.infosecurity-magazine.com/news/google-gemini-over-cyber-specific/",
@@ -408,13 +436,6 @@
             "published_utc": "2026-04-23T12:00:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "CISA orders feds to patch BlueHammer flaw exploited as zero-day",
-            "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-microsoft-defender-flaw-exploited-in-zero-day-attacks/",
-            "summary": "CISA has ordered U.S. federal agencies to patch a Microsoft Defender privilege escalation flaw (dubbed BlueHammer) that has been exploited in zero-day...",
-            "published_utc": "2026-04-23T11:05:57+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "FBI Extracts Deleted Signal Messages from iPhone Notification Database",
             "link": "https://www.schneier.com/blog/archives/2026/04/fbi-extracts-deleted-signal-messages-from-iphone-notification-database.html",
@@ -483,13 +504,6 @@
             "link": "https://www.csoonline.com/article/4162257/malicious-pgserve-automagik-developer-tools-found-in-npm-registry-2.html",
             "summary": "",
             "published_utc": "2026-04-23T00:28:28+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Apple fixes bug that let the FBI recover deleted Signal messages",
-            "link": "https://www.bleepingcomputer.com/news/security/apple-fixes-ios-bug-that-retained-deleted-notification-data/",
-            "summary": "Apple has released out-of-band security updates for iPhone and iPad devices to fix a Notification Services flaw that could allow notifications marked ...",
-            "published_utc": "2026-04-22T20:58:58+00:00"
         },
         {
             "source": "CSO Online",
@@ -653,13 +667,6 @@
             "published_utc": "2026-04-21T11:04:59+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Why identity is the driving force behind digital transformation",
-            "link": "https://www.csoonline.com/article/4161008/why-identity-is-the-driving-force-behind-digital-transformation.html",
-            "summary": "",
-            "published_utc": "2026-04-21T10:00:00+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "They Built a Legendary Privacy Tool. Now They’re Sworn Enemies",
             "link": "https://www.wired.com/story/they-built-privacy-tool-grapheneos-now-sworn-enemies/",
@@ -672,13 +679,6 @@
             "link": "https://www.infosecurity-magazine.com/news/vercel-cyber-incident-threat-actor/",
             "summary": "Cloud app developer Vercel appears to have suffered a security breach",
             "published_utc": "2026-04-21T09:10:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Top techniques attackers use to infiltrate your systems today",
-            "link": "https://www.csoonline.com/article/4161104/top-techniques-cyberattackers-use-to-infiltrate-your-systems-today.html",
-            "summary": "",
-            "published_utc": "2026-04-21T09:01:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
