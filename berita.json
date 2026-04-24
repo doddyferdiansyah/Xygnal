@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-04-24T16:59:07.217223+00:00",
+    "lastUpdatedUTC": "2026-04-24T17:54:33.132605+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "I'm automating these 5 unexpected home devices - and life has been so much easier",
+            "link": "https://www.zdnet.com/article/5-home-objects-appliances-to-automate/",
+            "summary": "I automated several everyday gadgets, and now my home runs so much more smoothly.",
+            "published_utc": "2026-04-24T17:32:30+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "New ‘Pack2TheRoot’ flaw gives hackers root Linux access",
+            "link": "https://www.bleepingcomputer.com/news/security/new-pack2theroot-flaw-gives-hackers-root-linux-access/",
+            "summary": "A new vulnerability dubbed Pack2TheRoot could be exploited in the PackageKit daemon to allow local Linux users to install or remove system packages an...",
+            "published_utc": "2026-04-24T17:28:46+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How I used Claude AI to plan an entire hiking trip to the Adirondacks in 30 minutes - for free",
+            "link": "https://www.zdnet.com/article/claude-ai-connectors-hands-on-planning-a-trip/",
+            "summary": "Using Claude's interactive connections to third-party services such as TripAdvisor and AllTrails, I mapped a summer hiking trip, including trails, hot...",
+            "published_utc": "2026-04-24T17:22:25+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "The 4 streaming services I swear by - and my bill is just $40 a month",
@@ -303,25 +324,11 @@
             "published_utc": "2026-04-23T16:57:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Why I recommend this $450 Samsung phone over competing models by Google and OnePlus",
-            "link": "https://www.zdnet.com/article/samsung-galaxy-a37-review/",
-            "summary": "The Galaxy A37 punches above its weight thanks to its upgraded cameras. But it also faces stiff competition in the midrange market.",
-            "published_utc": "2026-04-23T16:56:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Google Favors General-Purpose Gemini Models Over Cybersecurity‑Specific AI",
             "link": "https://www.infosecurity-magazine.com/news/google-gemini-over-cyber-specific/",
             "summary": "Google Cloud’s COO advocated for combining general-purpose frontier large language models with task-specific AI agents",
             "published_utc": "2026-04-23T16:40:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Apple just fixed an iOS flaw exploited by the FBI - here's what happened",
-            "link": "https://www.zdnet.com/article/apple-just-fixed-an-ios-flaw-exploited-by-the-fbi-heres-what-happened/",
-            "summary": "The latest iOS 26.4.2 update resolves a vulnerability that allowed the FBI to retrieve deleted text messages from a user's Signal app.",
-            "published_utc": "2026-04-23T16:29:19+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -483,13 +490,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/apple-fixes-ios-bug-that-retained-deleted-notification-data/",
             "summary": "Apple has released out-of-band security updates for iPhone and iPad devices to fix a Notification Services flaw that could allow notifications marked ...",
             "published_utc": "2026-04-22T20:58:58+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "New Mirai campaign exploits RCE flaw in EoL D-Link routers",
-            "link": "https://www.bleepingcomputer.com/news/security/new-mirai-campaign-exploits-rce-flaw-in-eol-d-link-routers/",
-            "summary": "A new Mirai-based malware campaign is actively exploiting CVE-2025-29635, a high-severity command-injection vulnerability affecting D-Link DIR-823X ro...",
-            "published_utc": "2026-04-22T20:04:46+00:00"
         },
         {
             "source": "CSO Online",
