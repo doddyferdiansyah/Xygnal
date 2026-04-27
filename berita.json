@@ -1,6 +1,62 @@
 {
-    "lastUpdatedUTC": "2026-04-27T13:57:54.040140+00:00",
+    "lastUpdatedUTC": "2026-04-27T15:53:04.285580+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "PyPI package with 1.1M monthly downloads hacked to push infostealer",
+            "link": "https://www.bleepingcomputer.com/news/security/pypi-package-with-11m-monthly-downloads-hacked-to-push-infostealer/",
+            "summary": "An attacker pushed a malicious version of the popular elementary-data package Python Package Index (PyPI) to steal sensitive developer data and crypto...",
+            "published_utc": "2026-04-27T15:17:37+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "6 MacOS settings I immediately change on every new Mac - and why",
+            "link": "https://www.zdnet.com/article/macos-settings-i-change-on-new-mac-why/",
+            "summary": "Out of the box, MacOS is pretty user-friendly and flexible. Still, I make these tweaks right away to make it even better.",
+            "published_utc": "2026-04-27T15:07:28+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "US Sanctions Target Cambodian Scam Network Leaders",
+            "link": "https://www.infosecurity-magazine.com/news/us-sanctions-cambodian-scam-network/",
+            "summary": "US sanctions target Cambodian scam networks tied to crypto fraud and trafficking",
+            "published_utc": "2026-04-27T15:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I used a $4 timer to reboot my router, and it actually made my internet faster",
+            "link": "https://www.zdnet.com/article/router-rebooter-review/",
+            "summary": "I've tried so many different ways to reboot my router, and it turns out the best solution costs barely anything.",
+            "published_utc": "2026-04-27T14:45:40+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Home security giant ADT data breach affects 5.5 million people",
+            "link": "https://www.bleepingcomputer.com/news/security/home-security-giant-adt-data-breach-affects-55-million-people/",
+            "summary": "The ShinyHunters extortion group stole the personal information of 5.5 million individuals after breaching the systems of home security giant ADT earl...",
+            "published_utc": "2026-04-27T14:43:11+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I tested ChatGPT Images 2.0 vs. Gemini Nano Banana to see which is better - this model wins",
+            "link": "https://www.zdnet.com/article/chatgpt-images-2-0-vs-gemini-nano-banana/",
+            "summary": "I put ChatGPT Images 2.0 and Gemini Nano Banana through nine image-generation tests. The winner was clear.",
+            "published_utc": "2026-04-27T14:26:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Webinar: Spotting cyberattacks before they begin",
+            "link": "https://www.bleepingcomputer.com/news/security/webinar-spotting-cyberattacks-before-they-begin/",
+            "summary": "On Thursday, April 30 at 2:00 PM ET, BleepingComputer will host a live webinar with threat intelligence company Flare and threat intelligence research...",
+            "published_utc": "2026-04-27T14:25:35+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Utilities Tech Supplier Itron Discloses Cyber-Attack, Operations Unaffected",
+            "link": "https://www.infosecurity-magazine.com/news/utilities-tech-supplier-itron/",
+            "summary": "Itron confirmed a cyber incident but does not believe it is likely to have a material impact on the company",
+            "published_utc": "2026-04-27T14:00:00+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Medtronic confirms breach after hackers claim 9 million records theft",
@@ -310,13 +366,6 @@
             "published_utc": "2026-04-25T10:30:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Zorin OS vs. Solus: I tested two great Linux distros for beginners to find out which is best",
-            "link": "https://www.zdnet.com/article/solus-vs-zorin-best-distro-depends-on-your-linux-priorities/",
-            "summary": "After Zorin OS 18.1 took my breath away, I wondered how well the latest Solus Linux would fare against it. My comparison proved very interesting indeed.",
-            "published_utc": "2026-04-25T10:00:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "ADT confirms data breach after ShinyHunters leak threat",
             "link": "https://www.bleepingcomputer.com/news/security/adt-confirms-data-breach-after-shinyhunters-leak-threat/",
@@ -352,13 +401,6 @@
             "published_utc": "2026-04-24T20:08:26+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Get Spotify's student discount and Hulu for just $6 a month - here's how",
-            "link": "https://www.zdnet.com/article/how-to-get-a-spotify-premium-student-discount/",
-            "summary": "If you're a college student, Spotify has an exclusive bundle that can save you cash on music and streaming. Here's how to get it.",
-            "published_utc": "2026-04-24T19:06:02+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Scattered Spider co-conspirator pleads guilty",
             "link": "https://www.csoonline.com/article/4163328/scattered-spider-co-conspirator-pleads-guilty.html",
@@ -371,13 +413,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/new-blackfile-extortion-gang-targets-retail-and-hospitality-orgs/",
             "summary": "A new financially motivated hacking group tracked as BlackFile has been linked to a wave of data theft and extortion attacks against retail and hospit...",
             "published_utc": "2026-04-24T18:26:27+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "FCC's router ban expands to portable hotspots - 4 things this means for you",
-            "link": "https://www.zdnet.com/article/fccs-router-ban-expands-to-portable-hotspots-4-things-this-means-for-you/",
-            "summary": "It may get more difficult to upgrade your hotspot - and you'll have other things to worry about, too.",
-            "published_utc": "2026-04-24T18:17:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -394,13 +429,6 @@
             "published_utc": "2026-04-24T18:13:55+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "New ‘Pack2TheRoot’ flaw gives hackers root Linux access",
-            "link": "https://www.bleepingcomputer.com/news/security/new-pack2theroot-flaw-gives-hackers-root-linux-access/",
-            "summary": "A new vulnerability dubbed Pack2TheRoot could be exploited in the PackageKit daemon to allow local Linux users to install or remove system packages an...",
-            "published_utc": "2026-04-24T17:28:46+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "The Latest Push to Extend Key US Spy Powers Is Still a Mess",
             "link": "https://www.wired.com/story/the-latest-push-to-extend-key-us-spy-powers-is-still-a-mess/",
@@ -413,20 +441,6 @@
             "link": "https://www.securityweek.com/pre-stuxnet-sabotage-malware-fast16-linked-to-us-iran-cyber-tensions/",
             "summary": "",
             "published_utc": "2026-04-24T14:57:18+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "DORA and operational resilience: Credential management as a financial risk control",
-            "link": "https://www.bleepingcomputer.com/news/security/dora-and-operational-resilience-credential-management-as-a-financial-risk-control/",
-            "summary": "Article 9 of DORA makes authentication and access control a legal obligation for EU financial entities. Here is what the regulation requires, and what...",
-            "published_utc": "2026-04-24T14:10:20+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Over 10,000 Zimbra servers vulnerable to ongoing XSS attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/cisa-says-zimbra-flaw-now-exploited-over-10k-servers-vulnerable/",
-            "summary": "Over 10,000 Zimbra Collaboration Suite (ZCS) instances exposed online are vulnerable to ongoing attacks exploiting a cross-site scripting (XSS) securi...",
-            "published_utc": "2026-04-24T13:35:33+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2779,20 +2793,6 @@
             "link": "https://www.infosecurity-magazine.com/news/oysterloader-new-c2-infrastructure/",
             "summary": "OysterLoader malware evolves into 2026, refining C2 infrastructure, obfuscation & infection stages",
             "published_utc": "2026-02-16T16:15:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Operation DoppelBrand Weaponizes Trusted Brands For Credential Theft",
-            "link": "https://www.infosecurity-magazine.com/news/operation-doppelbrand-trusted/",
-            "summary": "New phishing campaign dubbed Operation DoppelBrand targeted major financial firms like Wells Fargo",
-            "published_utc": "2026-02-16T15:45:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Google Warns of In the Wild Exploit as It Patches New Chrome Zero Day",
-            "link": "https://www.infosecurity-magazine.com/news/google-patches-new-in-wild-chrome/",
-            "summary": "A high severity vulnerability in Google Chrome and allows remote attackers to execute code",
-            "published_utc": "2026-02-16T11:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
