@@ -1,6 +1,55 @@
 {
-    "lastUpdatedUTC": "2026-04-28T06:30:02.147509+00:00",
+    "lastUpdatedUTC": "2026-04-28T09:22:35.450537+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "What CISOs need to get right as identity enters the agentic era",
+            "link": "https://www.csoonline.com/article/4163365/what-cisos-need-to-get-right-as-identity-enters-the-agentic-era.html",
+            "summary": "",
+            "published_utc": "2026-04-28T09:01:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Stopping AiTM attacks: The defenses that actually work after authentication succeeds",
+            "link": "https://www.csoonline.com/article/4163886/stopping-aitm-attacks-the-defenses-that-actually-work-after-authentication-succeeds.html",
+            "summary": "",
+            "published_utc": "2026-04-28T09:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft asks iPhone users to reauthenticate after Outlook outage",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-iphone-users-to-re-enter-credentials-after-outlook-outage/",
+            "summary": "After addressing a widespread outage that affected Outlook.com users worldwide on Monday, Microsoft has asked iPhone users to re-enter their credentia...",
+            "published_utc": "2026-04-28T08:37:12+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "No Metrics Are Better Than Bad Metrics in the SOC, Says NCSC",
+            "link": "https://www.infosecurity-magazine.com/news/no-metrics-better-bad-metrics-soc/",
+            "summary": "The National Cyber Security Centre has warned against measuring SOCs with ticket-based metrics",
+            "published_utc": "2026-04-28T08:30:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Spectrum Security Emerges From Stealth Mode With $19 Million",
+            "link": "https://www.securityweek.com/spectrum-security-emerges-from-stealth-mode-with-19-million/",
+            "summary": "",
+            "published_utc": "2026-04-28T08:25:41+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "North Korean Hackers Target Crypto Firms with ClickFix and AI-Made Zoom Lures",
+            "link": "https://www.infosecurity-magazine.com/news/bluenoroff-dprk-hackers-target/",
+            "summary": "Arctic Wolf attributed this large-scale spear-phishing campaign to BlueNoroff, a financially motivated subgroup of the Lazarus Group",
+            "published_utc": "2026-04-28T08:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Medtronic Hack Confirmed After ShinyHunters Threatens Data Leak",
+            "link": "https://www.securityweek.com/medtronic-hack-confirmed-after-shinyhunters-threatens-data-leak/",
+            "summary": "",
+            "published_utc": "2026-04-28T06:35:19+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "EDR-Software – ein Kaufratgeber",
@@ -401,20 +450,6 @@
             "published_utc": "2026-04-25T17:07:13+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Threat actor uses Microsoft Teams to deploy new “Snow” malware",
-            "link": "https://www.bleepingcomputer.com/news/security/threat-actor-uses-microsoft-teams-to-deploy-new-snow-malware/",
-            "summary": "A threat group tracked as UNC6692 uses social engineering to deploy a new, custom malware suite named 'Snow' which includes a browser extension, a tun...",
-            "published_utc": "2026-04-25T15:07:44+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "China-Linked APT GopherWhisper Abuses Legitimate Services in Government Attacks",
-            "link": "https://www.securityweek.com/china-linked-apt-gopherwhisper-abuses-legitimate-services-in-government-attacks/",
-            "summary": "",
-            "published_utc": "2026-04-25T10:50:00+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "Discord Sleuths Gained Unauthorized Access to Anthropic’s Mythos",
             "link": "https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/",
@@ -455,13 +490,6 @@
             "link": "https://www.wired.com/story/the-latest-push-to-extend-key-us-spy-powers-is-still-a-mess/",
             "summary": "A US surveillance program that lets the FBI view Americans’ communications without a warrant is up for renewal. A new bill aims to address mounting la...",
             "published_utc": "2026-04-24T15:10:03+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Pre-Stuxnet Sabotage Malware ‘Fast16’ Linked to US-Iran Cyber Tensions",
-            "link": "https://www.securityweek.com/pre-stuxnet-sabotage-malware-fast16-linked-to-us-iran-cyber-tensions/",
-            "summary": "",
-            "published_utc": "2026-04-24T14:57:18+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -623,20 +651,6 @@
             "link": "https://www.csoonline.com/article/4162289/riddled-with-flaws-serial-to-ethernet-converters-endanger-critical-infrastructure.html",
             "summary": "",
             "published_utc": "2026-04-23T03:07:17+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Claude Mythos signals a new era in AI-driven security, finding 271 flaws in Firefox",
-            "link": "https://www.csoonline.com/article/4162259/claude-mythos-signals-a-new-era-in-ai-driven-security-finding-271-flaws-in-firefox.html",
-            "summary": "",
-            "published_utc": "2026-04-23T01:26:07+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Malicious pgserve, automagik developer tools found in npm registry",
-            "link": "https://www.csoonline.com/article/4162257/malicious-pgserve-automagik-developer-tools-found-in-npm-registry-2.html",
-            "summary": "",
-            "published_utc": "2026-04-23T00:28:28+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2779,20 +2793,6 @@
             "link": "https://www.infosecurity-magazine.com/news/vulnerabilities-password-managers/",
             "summary": "Security researchers have challenged end-to-end encryption claims from popular commercial password managers",
             "published_utc": "2026-02-16T17:15:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "SMEs Wrong to Assume They Won’t Be Hit by Cyber-Attacks, NCSC Boss Warns",
-            "link": "https://www.infosecurity-magazine.com/news/sme-cyber-attack-threat-ncsc/",
-            "summary": "NCSC’s Richard Horne has warned that cybercriminals do not care about business size and called for SMEs to act now to secure their organizations",
-            "published_utc": "2026-02-16T16:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "OysterLoader Evolves With New C2 Infrastructure and Obfuscation",
-            "link": "https://www.infosecurity-magazine.com/news/oysterloader-new-c2-infrastructure/",
-            "summary": "OysterLoader malware evolves into 2026, refining C2 infrastructure, obfuscation & infection stages",
-            "published_utc": "2026-02-16T16:15:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
