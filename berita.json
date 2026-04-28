@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2026-04-28T09:22:35.450537+00:00",
+    "lastUpdatedUTC": "2026-04-28T11:46:29.214507+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "No Patch for New PhantomRPC Privilege Escalation Technique in Windows",
+            "link": "https://www.securityweek.com/no-patch-for-new-phantomrpc-privilege-escalation-technique-in-windows/",
+            "summary": "",
+            "published_utc": "2026-04-28T11:31:02+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "What Anthropic’s Mythos Means for the Future of Cybersecurity",
+            "link": "https://www.schneier.com/blog/archives/2026/04/what-anthropics-mythos-means-for-the-future-of-cybersecurity.html",
+            "summary": "",
+            "published_utc": "2026-04-28T11:06:44+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Germany Suspects Russia Is Behind Signal Phishing That Targeted Top Officials",
+            "link": "https://www.securityweek.com/germany-suspects-russia-is-behind-signal-phishing-that-targeted-top-officials/",
+            "summary": "",
+            "published_utc": "2026-04-28T10:54:57+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Securing RAG pipelines in enterprise SaaS",
+            "link": "https://www.csoonline.com/article/4163888/securing-rag-pipelines-in-enterprise-saas.html",
+            "summary": "",
+            "published_utc": "2026-04-28T10:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft: New Remote Desktop warnings may display incorrectly",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-remote-desktop-warnings-may-display-incorrectly/",
+            "summary": "Microsoft has confirmed a new issue causing newly introduced Windows security warnings to display incorrectly when opening Remote Desktop (.rdp) files...",
+            "published_utc": "2026-04-28T09:51:26+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "What CISOs need to get right as identity enters the agentic era",
@@ -366,13 +401,6 @@
             "published_utc": "2026-04-27T10:00:37+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "US Launches Sweeping Crackdown on Southeast Asia Cyberscams and Sanctions Cambodian Senator",
-            "link": "https://www.securityweek.com/us-launches-sweeping-crackdown-on-southeast-asia-cyberscams-and-sanctions-cambodian-senator/",
-            "summary": "",
-            "published_utc": "2026-04-27T09:39:33+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Researchers Identify Fast16 Sabotage Malware That Pre-Dates Stuxnet",
             "link": "https://www.infosecurity-magazine.com/news/fast16-sabotage-malware-winds/",
@@ -392,13 +420,6 @@
             "link": "https://www.csoonline.com/article/4163299/the-manager-of-agents-how-ai-evolves-the-soc-analyst-role.html",
             "summary": "",
             "published_utc": "2026-04-27T09:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Firefox Vulnerability Allows Tor User Fingerprinting",
-            "link": "https://www.securityweek.com/firefox-vulnerability-allows-tor-user-fingerprinting/",
-            "summary": "",
-            "published_utc": "2026-04-27T08:39:28+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -441,13 +462,6 @@
             "link": "https://www.wired.com/story/california-engineer-identified-in-suspected-shooting-at-white-house-correspondents-dinner/",
             "summary": "A 31-year-old engineer and self-described indie game developer is suspected of firing shots at the annual event attended by President Donald Trump, hi...",
             "published_utc": "2026-04-26T03:26:42+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft rolls out revamped Windows Insider Program",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-revamped-windows-insider-program/",
-            "summary": "Microsoft says it's rolling out a revamped Windows Insider Program experience as part of the broader plans to address performance and reliability conc...",
-            "published_utc": "2026-04-25T17:07:13+00:00"
         },
         {
             "source": "WIRED Security",
@@ -644,13 +658,6 @@
             "link": "https://www.csoonline.com/article/3970431/cnapp-kaufratgeber.html",
             "summary": "",
             "published_utc": "2026-04-23T04:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Riddled with flaws, serial-to-Ethernet converters endanger critical infrastructure",
-            "link": "https://www.csoonline.com/article/4162289/riddled-with-flaws-serial-to-ethernet-converters-endanger-critical-infrastructure.html",
-            "summary": "",
-            "published_utc": "2026-04-23T03:07:17+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -945,13 +952,6 @@
             "link": "https://www.welivesecurity.com/en/business-security/supply-chain-dependencies-have-you-checked-your-blind-spot/",
             "summary": "Your biggest risk may be a vendor you trust. How can SMBs map their third-party blind spots and build operational resilience?",
             "published_utc": "2026-04-16T12:00:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Human Trust of AI Agents",
-            "link": "https://www.schneier.com/blog/archives/2026/04/human-trust-of-ai-agents.html",
-            "summary": "",
-            "published_utc": "2026-04-16T09:41:24+00:00"
         },
         {
             "source": "InfosecurityMag",
