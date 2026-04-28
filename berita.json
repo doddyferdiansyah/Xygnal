@@ -1,6 +1,97 @@
 {
-    "lastUpdatedUTC": "2026-04-28T11:46:29.214507+00:00",
+    "lastUpdatedUTC": "2026-04-28T14:10:57.279168+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Alleged Chinese State Hacker Extradited to US",
+            "link": "https://www.securityweek.com/alleged-chinese-state-hacker-extradited-to-us/",
+            "summary": "",
+            "published_utc": "2026-04-28T13:36:12+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Why virtual desktops are so useful - and my top 4 tips for beginners",
+            "link": "https://www.zdnet.com/article/what-are-virtual-desktops-useful-beginner-tips/",
+            "summary": "Is your PC desktop too cluttered? Virtual desktops can help you organize apps and reduce distractions. Here's how.",
+            "published_utc": "2026-04-28T13:33:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft to deprecate legacy TLS in Exchange Online starting July",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-legacy-tls-in-exchange-online-starting-july/",
+            "summary": "Microsoft says it will start blocking legacy TLS connections for POP and IMAP email clients in Exchange Online starting in July 2026. [...]",
+            "published_utc": "2026-04-28T13:18:36+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "This Bluetti power station with wheels has spoiled the way I charge my tools and devices",
+            "link": "https://www.zdnet.com/article/bluetti-elite-400-review/",
+            "summary": "The Bluetti Elite 400 has something that you don't see on many portable stations, and it can power just about anything.",
+            "published_utc": "2026-04-28T13:02:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Ransomware Turf War as 0APT and KryBit Groups Trade Blows",
+            "link": "https://www.infosecurity-magazine.com/news/ransomware-turf-war-0apt-krybit/",
+            "summary": "Ransomware groups 0APT and KryBit have doxxed each other online",
+            "published_utc": "2026-04-28T13:00:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Critical Cursor bug could turn routine Git into RCE",
+            "link": "https://www.csoonline.com/article/4164250/critical-cursor-bug-could-turn-routine-git-into-rce.html",
+            "summary": "",
+            "published_utc": "2026-04-28T13:00:00+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "The Race Is on to Keep AI Agents From Running Wild With Your Credit Cards",
+            "link": "https://www.wired.com/story/the-race-is-on-to-keep-ai-agents-from-running-wild-with-your-credit-cards/",
+            "summary": "AI agents may soon be buying your stuff for you. The FIDO Alliance has teamed up with Google and Mastercard to try to ensure that shopping in the near...",
+            "published_utc": "2026-04-28T13:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Inside an OPSEC Playbook: How Threat Actors Evade Detection",
+            "link": "https://www.bleepingcomputer.com/news/security/inside-an-opsec-playbook-how-threat-actors-evade-detection/",
+            "summary": "Threat actors are now publishing structured OPSEC playbooks to stay undetected. Flare reveals how these guides outline layered infrastructure, identit...",
+            "published_utc": "2026-04-28T12:50:58+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Dozens of Open VSX Extension Clones Linked to GlassWorm Malware",
+            "link": "https://www.securityweek.com/dozens-of-open-vsx-extension-clones-linked-to-glassworm-malware/",
+            "summary": "",
+            "published_utc": "2026-04-28T12:40:24+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Chinese National Extradited Over Silk Typhoon Cyber Campaign",
+            "link": "https://www.infosecurity-magazine.com/news/chinese-national-extradited-silk/",
+            "summary": "Extradition links alleged MSS-directed hacker to  Silk Typhoon and COVID-19 espionage",
+            "published_utc": "2026-04-28T12:30:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How to turn on Data Saver mode on your Android phone - and why it's critical to do so",
+            "link": "https://www.zdnet.com/article/how-to-enable-android-data-saver-mode-why-important/",
+            "summary": "Android makes it easy for me to take control of my data use. Here's how.",
+            "published_utc": "2026-04-28T12:28:03+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Sevii Launches Cyber Swarm Defense to Make Agentic AI Security Costs Predictable",
+            "link": "https://www.securityweek.com/sevii-launches-cyber-swarm-defense-to-make-agentic-ai-security-costs-predictable/",
+            "summary": "",
+            "published_utc": "2026-04-28T12:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Electric Motorcycles and Scooters Face Hacking Risks to Security and Rider Safety",
+            "link": "https://www.securityweek.com/electric-motorcycles-and-scooters-face-hacking-risks-to-security-and-rider-safety/",
+            "summary": "",
+            "published_utc": "2026-04-28T11:57:20+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "No Patch for New PhantomRPC Privilege Escalation Technique in Windows",
@@ -111,14 +202,14 @@
             "title": "This hidden TV feature tracks your viewing - here's how to turn it off (no matter what brand)",
             "link": "https://www.zdnet.com/article/how-to-disable-acr-tv/",
             "summary": "Samsung, LG, and Sony TVs can pose privacy risks - here's how to avoid a major one.",
-            "published_utc": "2026-04-28T01:01:11+00:00"
+            "published_utc": "2026-04-28T01:01:00+00:00"
         },
         {
             "source": "ZDNet Security",
             "title": "77% of IT managers say their AI agents are out of control - 5 ways to rein in yours",
             "link": "https://www.zdnet.com/article/it-managers-say-ai-agents-are-out-of-control/",
             "summary": "The unchecked proliferation of AI agents is leading to a large volume of unsanctioned AI applications.",
-            "published_utc": "2026-04-28T01:00:47+00:00"
+            "published_utc": "2026-04-28T01:00:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -175,13 +266,6 @@
             "link": "https://www.wired.com/story/cole-allen-charged-with-attempting-to-assassinate-trump/",
             "summary": "The suspected shooter at Saturday night’s White House Correspondents’ Dinner faces three felony charges. He remains in custody following Monday’s hear...",
             "published_utc": "2026-04-27T19:07:34+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I tried this Bluetti power station with wheels - now every other charger feels outdated",
-            "link": "https://www.zdnet.com/article/bluetti-elite-400-review/",
-            "summary": "The Bluetti Elite 400 has something that you don't see on many power stations, and it can charge just about anything.",
-            "published_utc": "2026-04-27T18:14:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -310,20 +394,6 @@
             "published_utc": "2026-04-27T12:29:18+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Malicious AI Prompt Injection Attacks Increasing, but Sophistication Still Low: Google",
-            "link": "https://www.securityweek.com/malicious-ai-prompt-injection-attacks-increasing-but-sophistication-still-low-google/",
-            "summary": "",
-            "published_utc": "2026-04-27T12:08:19+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft says Outlook.com outage is causing sign‑in failures",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-outlookcom-outage-is-causing-sign-in-failures/",
-            "summary": "Microsoft is investigating an ongoing Outlook.com outage that is causing intermittent signing issues and preventing customers from accessing their mai...",
-            "published_utc": "2026-04-27T12:03:46+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "Get a month of 5G Home Internet on T-Mobile and $300 cash back - here's how",
             "link": "https://www.zdnet.com/article/t-mobile-5g-home-internet-deal-april-2026/",
@@ -343,13 +413,6 @@
             "link": "https://www.infosecurity-magazine.com/news/cybersecurity-pros-feel/",
             "summary": "A new report by global technology recruitment firm, Harvey Nash, found that three quarters of cybersecurity staff are pessimistic on pay and half are ...",
             "published_utc": "2026-04-27T11:40:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Energy and Water Management Firm Itron Hacked",
-            "link": "https://www.securityweek.com/energy-and-water-management-firm-itron-hacked/",
-            "summary": "",
-            "published_utc": "2026-04-27T11:18:59+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -378,20 +441,6 @@
             "link": "https://www.zdnet.com/article/nex-playground-deal/",
             "summary": "Nex Playground is a small cube that gets your kids up and moving with games they'll love - and it's on sale for the lowest price of the year.",
             "published_utc": "2026-04-27T11:00:56+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "UNC6692 Uses Email Bombing, Social Engineering to Deploy ‘Snow’ Malware",
-            "link": "https://www.securityweek.com/unc6692-uses-email-bombing-social-engineering-to-deploy-snow-malware/",
-            "summary": "",
-            "published_utc": "2026-04-27T10:44:55+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Easily Exploitable ‘Pack2TheRoot’ Linux Vulnerability Leads to Root Access",
-            "link": "https://www.securityweek.com/easily-exploitable-pack2theroot-linux-vulnerability-leads-to-root-access/",
-            "summary": "",
-            "published_utc": "2026-04-27T10:10:14+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -434,27 +483,6 @@
             "link": "https://www.csoonline.com/article/3825034/4-wege-aus-der-security-akronymholle.html",
             "summary": "",
             "published_utc": "2026-04-27T04:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "My new favorite AirTag alternative fits perfectly in my wallet - and is seriously durable",
-            "link": "https://www.zdnet.com/article/uag-metropolis-wallet-tracker-ios-android-review/",
-            "summary": "The UAG Metropolis tracker is an AirTag wallet alternative that's highly functional, and all my bending and flexing haven't fazed it.",
-            "published_utc": "2026-04-27T00:01:17+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Nearly half of cybersecurity pros want to quit - here's why",
-            "link": "https://www.zdnet.com/article/nearly-half-of-cybersecurity-pros-want-to-quit-heres-why/",
-            "summary": "Research suggests security specialists around the globe are unhappy, but there is hope.",
-            "published_utc": "2026-04-26T23:01:43+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "American utility firm Itron discloses breach of internal IT network",
-            "link": "https://www.bleepingcomputer.com/news/security/american-utility-firm-itron-discloses-breach-of-internal-it-network/",
-            "summary": "Itron, Inc. has disclosed, via an 8-K filing with the U.S. Securities and Exchange Commission (SEC), a cybersecurity incident in which an unauthorized...",
-            "published_utc": "2026-04-26T14:22:34+00:00"
         },
         {
             "source": "WIRED Security",
@@ -651,13 +679,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ncsc-backs-passkeys-new-era-of/",
             "summary": "The UK’s NCSC has fully backed passkeys as consumers’ first choice for login, citing progress with FIDO and successful use across the NHS",
             "published_utc": "2026-04-23T08:45:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "CNAPP – ein Kaufratgeber",
-            "link": "https://www.csoonline.com/article/3970431/cnapp-kaufratgeber.html",
-            "summary": "",
-            "published_utc": "2026-04-23T04:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1442,13 +1463,6 @@
             "link": "https://www.infosecurity-magazine.com/news/github-covert-multi-stage-malware/",
             "summary": "LNK files use GitHub C2, embedded decoders and PowerShell for persistence and data exfiltration",
             "published_utc": "2026-04-02T13:00:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "Unmasking the Paramilitary Agents Behind Trump’s Violent Immigration Crackdown",
-            "link": "https://www.wired.com/story/border-patrol-bortac-borstar-use-of-force-midway-blitz/",
-            "summary": "A WIRED analysis of DHS records identified dozens of specialized federal agents who used force against US civilians during the largest known deploymen...",
-            "published_utc": "2026-04-02T10:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2779,20 +2793,6 @@
             "link": "https://www.welivesecurity.com/en/kids-online/children-selfies-online/",
             "summary": "When it comes to our children’s digital lives, prohibition rarely works. It’s our responsibility to help them build a healthy relationship with tech.",
             "published_utc": "2026-02-17T10:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Infostealer Targets OpenClaw to Loot Victim’s Digital Life",
-            "link": "https://www.infosecurity-magazine.com/news/infostealer-targets-openclaw/",
-            "summary": "Hudson Rock has warned OpenClaw users that infostealers are targeting their configuration files",
-            "published_utc": "2026-02-17T09:35:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Vulnerabilities in Password Managers Allow Hackers to View and Change Passwords",
-            "link": "https://www.infosecurity-magazine.com/news/vulnerabilities-password-managers/",
-            "summary": "Security researchers have challenged end-to-end encryption claims from popular commercial password managers",
-            "published_utc": "2026-02-16T17:15:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
