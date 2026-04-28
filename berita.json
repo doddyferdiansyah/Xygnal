@@ -1,6 +1,20 @@
 {
-    "lastUpdatedUTC": "2026-04-28T20:17:22.046543+00:00",
+    "lastUpdatedUTC": "2026-04-28T21:59:23.138553+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Broken VECT 2.0 ransomware acts as a data wiper for large files",
+            "link": "https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/",
+            "summary": "Researchers are warning that the VECT 2.0 ransomware has a problem in the way it handles encryption nonces that leads to permanently destroying larger...",
+            "published_utc": "2026-04-28T21:25:57+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers are exploiting a critical LiteLLM pre-auth SQLi flaw",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-a-critical-litellm-pre-auth-sqli-flaw/",
+            "summary": "Hackers are targeting sensitive information stored in the LiteLLM open-source large-language model (LLM) gateway by exploiting a critical vulnerabilit...",
+            "published_utc": "2026-04-28T21:07:23+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Over 80% of US government agencies already use AI agents - and it's only the beginning",
@@ -413,20 +427,6 @@
             "link": "https://www.infosecurity-magazine.com/news/us-sanctions-cambodian-scam-network/",
             "summary": "US sanctions target Cambodian scam networks tied to crypto fraud and trafficking",
             "published_utc": "2026-04-27T15:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Home security giant ADT data breach affects 5.5 million people",
-            "link": "https://www.bleepingcomputer.com/news/security/home-security-giant-adt-data-breach-affects-55-million-people/",
-            "summary": "The ShinyHunters extortion group stole the personal information of 5.5 million individuals after breaching the systems of home security giant ADT earl...",
-            "published_utc": "2026-04-27T14:43:11+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Webinar: Spotting cyberattacks before they begin",
-            "link": "https://www.bleepingcomputer.com/news/security/webinar-spotting-cyberattacks-before-they-begin/",
-            "summary": "On Thursday, April 30 at 2:00 PM ET, BleepingComputer will host a live webinar with threat intelligence company Flare and threat intelligence research...",
-            "published_utc": "2026-04-27T14:25:35+00:00"
         },
         {
             "source": "InfosecurityMag",
