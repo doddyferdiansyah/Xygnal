@@ -1,6 +1,76 @@
 {
-    "lastUpdatedUTC": "2026-04-29T09:09:32.127322+00:00",
+    "lastUpdatedUTC": "2026-04-29T11:38:42.761870+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Checkmarx Confirms Data Stolen in Supply Chain Attack",
+            "link": "https://www.securityweek.com/checkmarx-confirms-data-stolen-in-supply-chain-attack/",
+            "summary": "",
+            "published_utc": "2026-04-29T11:03:03+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Critical Flaw Turns Vect Ransomware into Data Destroying Wiper",
+            "link": "https://www.infosecurity-magazine.com/news/critical-flaw-vect-ransomware-data/",
+            "summary": "The Vect 2.0 ransomware wipes large files instead of merely encrypting them, making recovery impossible – even for the attackers",
+            "published_utc": "2026-04-29T10:45:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Iranian Cyber Group Handala Targets US Troops in Bahrain",
+            "link": "https://www.securityweek.com/iranian-cyber-group-handala-targets-us-troops-in-bahrain/",
+            "summary": "",
+            "published_utc": "2026-04-29T10:35:36+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "CISA orders feds to patch Windows flaw exploited as zero-day",
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-flaw-exploited-in-zero-day-attacks/",
+            "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to secure their Windows systems against a vulnerability ...",
+            "published_utc": "2026-04-29T10:29:31+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Claude Mythos Has Found 271 Zero-Days in Firefox",
+            "link": "https://www.schneier.com/blog/archives/2026/04/claude-mythos-has-found-271-zero-days-in-firefox.html",
+            "summary": "",
+            "published_utc": "2026-04-29T10:12:17+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "A Quarter of Healthcare Organizations Report Medical Device Cyber-Attacks",
+            "link": "https://www.infosecurity-magazine.com/news/quarter-healthcare-medical-device/",
+            "summary": "RunSafe report reveals most attacks on medical devices disrupt patient care",
+            "published_utc": "2026-04-29T10:05:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The best VPN services for iPhone in 2026: Expert tested and reviewed",
+            "link": "https://www.zdnet.com/article/best-iphone-vpn/",
+            "summary": "Your iPhone content and web activities say a lot about you. Use one of our top tried-and-tested VPNs to keep your information private and to boost you...",
+            "published_utc": "2026-04-29T10:01:28+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Amazon Prime Day 2026 is likely coming earlier. Here's everything to know so far",
+            "link": "https://www.zdnet.com/article/amazon-prime-day-2026-faq/",
+            "summary": "Amazon's summer Prime Day event is on its way, but it may not be in July. Here's what you need to know right now.",
+            "published_utc": "2026-04-29T10:01:01+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "38 Vulnerabilities Found in OpenEMR Medical Software",
+            "link": "https://www.securityweek.com/38-vulnerabilities-found-in-openemr-medical-software/",
+            "summary": "",
+            "published_utc": "2026-04-29T09:54:17+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Chrome 147, Firefox 150 Security Updates Rolling Out",
+            "link": "https://www.securityweek.com/chrome-147-firefox-150-security-updates-rolling-out/",
+            "summary": "",
+            "published_utc": "2026-04-29T09:24:29+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "The best Apple TV VPNs of 2026: Expert tested and reviewed",
@@ -198,13 +268,6 @@
             "published_utc": "2026-04-28T14:35:24+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Alleged Chinese State Hacker Extradited to US",
-            "link": "https://www.securityweek.com/alleged-chinese-state-hacker-extradited-to-us/",
-            "summary": "",
-            "published_utc": "2026-04-28T13:36:12+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "Why virtual desktops are so useful - and my top 4 tips for beginners",
             "link": "https://www.zdnet.com/article/what-are-virtual-desktops-useful-beginner-tips/",
@@ -254,13 +317,6 @@
             "published_utc": "2026-04-28T12:50:58+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Dozens of Open VSX Extension Clones Linked to GlassWorm Malware",
-            "link": "https://www.securityweek.com/dozens-of-open-vsx-extension-clones-linked-to-glassworm-malware/",
-            "summary": "",
-            "published_utc": "2026-04-28T12:40:24+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Chinese National Extradited Over Silk Typhoon Cyber Campaign",
             "link": "https://www.infosecurity-magazine.com/news/chinese-national-extradited-silk/",
@@ -273,20 +329,6 @@
             "link": "https://www.zdnet.com/article/how-to-enable-android-data-saver-mode-why-important/",
             "summary": "Android makes it easy for me to take control of my data use. Here's how.",
             "published_utc": "2026-04-28T12:28:03+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Sevii Launches Cyber Swarm Defense to Make Agentic AI Security Costs Predictable",
-            "link": "https://www.securityweek.com/sevii-launches-cyber-swarm-defense-to-make-agentic-ai-security-costs-predictable/",
-            "summary": "",
-            "published_utc": "2026-04-28T12:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Electric Motorcycles and Scooters Face Hacking Risks to Security and Rider Safety",
-            "link": "https://www.securityweek.com/electric-motorcycles-and-scooters-face-hacking-risks-to-security-and-rider-safety/",
-            "summary": "",
-            "published_utc": "2026-04-28T11:57:20+00:00"
         },
         {
             "source": "Schneier",
@@ -422,32 +464,11 @@
             "published_utc": "2026-04-27T19:28:53+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "T-Mobile will give you $200 for switching to them - seriously",
-            "link": "https://www.zdnet.com/article/tmobile-gift-card-deal/",
-            "summary": "Get a $200 prepaid Mastercard when you bring your device and old number to T-Mobile. We break down the deal.",
-            "published_utc": "2026-04-27T19:12:21+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "Cole Allen Charged With Attempting to Assassinate Trump",
             "link": "https://www.wired.com/story/cole-allen-charged-with-attempting-to-assassinate-trump/",
             "summary": "The suspected shooter at Saturday night’s White House Correspondents’ Dinner faces three felony charges. He remains in custody following Monday’s hear...",
             "published_utc": "2026-04-27T19:07:34+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Samsung Wallet just got a travel feature that I hope Google Wallet copies ASAP",
-            "link": "https://www.zdnet.com/article/samsung-wallet-new-trips-travel-feature/",
-            "summary": "This is a pretty big perk for Galaxy users since there's nothing like it built into Android.",
-            "published_utc": "2026-04-27T16:54:23+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "FTC: Americans lost over $2.1 billion to social media scams in 2025",
-            "link": "https://www.bleepingcomputer.com/news/security/ftc-americans-lost-over-21-billion-to-social-media-scams-in-2025/",
-            "summary": "The U.S. Federal Trade Commission (FTC) warned of a massive increase in losses from social media scams since 2020, exceeding $2.1 billion in 2025. [...]",
-            "published_utc": "2026-04-27T16:27:53+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -924,13 +945,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ddos-services-hit-by-police/",
             "summary": "Coordinated action by FBI, Europol and others seizes infrastructure, makes arrests – and sends warning letters to known DDoS service users",
             "published_utc": "2026-04-17T11:30:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Mythos and Cybersecurity",
-            "link": "https://www.schneier.com/blog/archives/2026/04/mythos-and-cybersecurity.html",
-            "summary": "",
-            "published_utc": "2026-04-17T11:02:37+00:00"
         },
         {
             "source": "WIRED Security",
@@ -2772,20 +2786,6 @@
             "link": "https://www.infosecurity-magazine.com/news/apple-rcs-encryption-memory/",
             "summary": "iOS 26.4 Beta adds end-to-end encryption for RCS messaging and enhanced Memory Integrity Enforcement",
             "published_utc": "2026-02-17T15:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Low-Skilled Cybercriminals Use AI to Perform \"Vibe Extortion\" Attacks",
-            "link": "https://www.infosecurity-magazine.com/news/cybercriminals-ai-vibe-extortion/",
-            "summary": "Unit 42 researchers observed a low-skilled threat actor using an LLM to script a professional extortion strategy, complete with deadlines and pressure...",
-            "published_utc": "2026-02-17T13:45:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Over-Privileged AI Drives 4.5 Times Higher Incident Rates",
-            "link": "https://www.infosecurity-magazine.com/news/overprivileged-ai-45-times-higher/",
-            "summary": "Teleport study reveals that organizations running over-privileged AI have a 76% incident rate",
-            "published_utc": "2026-02-17T13:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
