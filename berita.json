@@ -1,6 +1,55 @@
 {
-    "lastUpdatedUTC": "2026-04-29T11:38:42.761870+00:00",
+    "lastUpdatedUTC": "2026-04-29T14:00:47.864352+00:00",
     "articles": [
+        {
+            "source": "InfosecurityMag",
+            "title": "Malicious npm Dependency Linked to AI Assisted Commit Targets Crypto Wallets",
+            "link": "https://www.infosecurity-magazine.com/news/ai-npm-dependency-targets-crypto/",
+            "summary": "Researchers uncover a malicious npm dependency linked to an AI‑assisted code commit that steals sensitive data and exposes crypto wallets",
+            "published_utc": "2026-04-29T14:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Learning from the Vercel breach: Shadow AI & OAuth sprawl",
+            "link": "https://www.bleepingcomputer.com/news/security/learning-from-the-vercel-breach-shadow-ai-and-oauth-sprawl/",
+            "summary": "A single third-party OAuth integration can become a direct path into your environment. Push explains how the Vercel breach shows a compromised OAuth a...",
+            "published_utc": "2026-04-29T13:05:14+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Fresh LiteLLM Vulnerability Exploited Shortly After Disclosure",
+            "link": "https://www.securityweek.com/fresh-litellm-vulnerability-exploited-shortly-after-disclosure/",
+            "summary": "",
+            "published_utc": "2026-04-29T13:04:05+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Researchers Track 2.9 Billion Compromised Credentials",
+            "link": "https://www.infosecurity-magazine.com/news/29-billion-compromised-credentials/",
+            "summary": "KELA claims infostealers remained the primary access vector for attacks in 2025",
+            "published_utc": "2026-04-29T13:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "GitHub fixes RCE flaw that gave access to millions of private repos",
+            "link": "https://www.bleepingcomputer.com/news/security/github-fixes-rce-flaw-that-gave-access-to-millions-of-private-repos/",
+            "summary": "In early March, GitHub patched a critical remote code execution vulnerability (CVE-2026-3854) that could have allowed attackers to access millions of ...",
+            "published_utc": "2026-04-29T12:41:17+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "5 ways your Windows updates are about to get a lot less painful",
+            "link": "https://www.zdnet.com/article/your-windows-update-experience-is-about-to-get-less-painful/",
+            "summary": "Microsoft wants to fix 'pain points' in Windows 11 PCs. The first batch of changes, targeting the Windows Update experience, is hitting Insider previe...",
+            "published_utc": "2026-04-29T12:09:04+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Hundreds of Internet-Facing VNC Servers Expose ICS/OT",
+            "link": "https://www.securityweek.com/hundreds-of-internet-facing-vnc-servers-expose-ics-ot/",
+            "summary": "",
+            "published_utc": "2026-04-29T12:03:40+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Checkmarx Confirms Data Stolen in Supply Chain Attack",
@@ -153,7 +202,7 @@
             "title": "Microsoft finally open sources DOS 1.0 - and it's so much more than the code",
             "link": "https://www.zdnet.com/article/microsoft-open-sources-dos-1-0-much-more-than-the-code/",
             "summary": "Want a blast from the past? Microsoft just open-sourced its very first operating system, offering a rare insight into the PC's earliest days.",
-            "published_utc": "2026-04-28T18:45:10+00:00"
+            "published_utc": "2026-04-28T18:45:00+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -233,13 +282,6 @@
             "published_utc": "2026-04-28T15:30:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Webinar Today: A Step-by-Step Approach to AI Governance",
-            "link": "https://www.securityweek.com/webinar-today-a-step-by-step-approach-to-ai-governance/",
-            "summary": "",
-            "published_utc": "2026-04-28T15:29:45+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "I earned nearly $700 by shopping with the Rakuten plugin - 6 tips from a shopping expert",
             "link": "https://www.zdnet.com/article/how-to-use-rakuten-faq/",
@@ -252,13 +294,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/checkmarx-confirms-lapsus-hackers-leaked-its-stolen-github-data/",
             "summary": "Application security company Checkmarx has confirmed that the LAPSUS$ threat group leaked data stolen from its private GitHub repository. [...]",
             "published_utc": "2026-04-28T14:50:40+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Robinhood Vulnerability Exploited for Phishing Attacks",
-            "link": "https://www.securityweek.com/robinhood-vulnerability-exploited-for-phishing-attacks/",
-            "summary": "",
-            "published_utc": "2026-04-28T14:49:51+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -436,32 +471,11 @@
             "published_utc": "2026-04-27T21:41:01+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Canada arrests three for operating “SMS blaster” device in Toronto",
-            "link": "https://www.bleepingcomputer.com/news/security/canada-arrests-three-for-operating-sms-blaster-device-in-toronto/",
-            "summary": "Canadian authorities have arrested three men for operating an \"SMS blaster\" device that pretends to be a cellular tower to send phishing texts to near...",
-            "published_utc": "2026-04-27T20:00:31+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Alleged Silk Typhoon hacker extradited to US for cyberespionage",
-            "link": "https://www.bleepingcomputer.com/news/security/alleged-silk-typhoon-hacker-extradited-to-us-for-cyberespionage/",
-            "summary": "A Chinese national accused of carrying out cyberespionage operations for China's intelligence services has been extradited from Italy to the United St...",
-            "published_utc": "2026-04-27T19:56:03+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "GitHub Copilot shifts to usage-based pricing June 1 - why that's no surprise",
             "link": "https://www.zdnet.com/article/github-copilot-shifts-to-usage-based-pricing/",
             "summary": "Under the new approach, if you run out of credits, you can't use the service. GitHub plans to preview the new billing in early May.",
             "published_utc": "2026-04-27T19:33:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "This LG portable projector comes with a free soundbar - and we highly recommend it",
-            "link": "https://www.zdnet.com/article/lg-cinebeam-q-and-soundbar-deal/",
-            "summary": "The CineBeam Q is a high-quality portable projector, and with this deal and a free LG S40T soundbar, you can make it a permanent addition to your home...",
-            "published_utc": "2026-04-27T19:28:53+00:00"
         },
         {
             "source": "WIRED Security",
@@ -651,13 +665,6 @@
             "link": "https://www.wired.com/story/fast16-malware-stuxnet-precursor-iran-nuclear-attack/",
             "summary": "Researchers have finally cracked Fast16, mysterious code capable of silently tampering with calculation and simulation software. It was created in 200...",
             "published_utc": "2026-04-23T22:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "3 practical ways AI threat detection improves enterprise cyber resilience",
-            "link": "https://www.csoonline.com/article/4162799/3-practical-ways-ai-threat-detection-improves-enterprise-cyber-resilience.html",
-            "summary": "",
-            "published_utc": "2026-04-23T20:37:19+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2772,20 +2779,6 @@
             "link": "https://www.infosecurity-magazine.com/news/chinese-apt-exploits-dell-zeroday/",
             "summary": "Mandiant reveals campaign featuring exploit of a CVSS 10.0 CVE in Dell RecoverPoint for Virtual Machines",
             "published_utc": "2026-02-18T10:10:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Android 17 Beta Introduces Secure-By-Default Architecture",
-            "link": "https://www.infosecurity-magazine.com/news/android-17-beta-secure-default/",
-            "summary": "Android 17 Beta introduces privacy, security updates and a new Canary channel for improved development",
-            "published_utc": "2026-02-17T16:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Apple Expands RCS Encryption and Memory Protections in iOS 26.4",
-            "link": "https://www.infosecurity-magazine.com/news/apple-rcs-encryption-memory/",
-            "summary": "iOS 26.4 Beta adds end-to-end encryption for RCS messaging and enhanced Memory Integrity Enforcement",
-            "published_utc": "2026-02-17T15:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
