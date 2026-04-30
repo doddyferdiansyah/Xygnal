@@ -1,6 +1,62 @@
 {
-    "lastUpdatedUTC": "2026-04-30T11:37:52.156607+00:00",
+    "lastUpdatedUTC": "2026-04-30T13:59:25.659453+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "New Linux ‘Copy Fail’ flaw gives hackers root on major distros",
+            "link": "https://www.bleepingcomputer.com/news/security/new-linux-copy-fail-flaw-gives-hackers-root-on-major-distros/",
+            "summary": "An exploit has been published for a local privilege escalation vulnerability dubbed \"Copy Fail\" that impacts Linux kernels released since 2017, allowi...",
+            "published_utc": "2026-04-30T13:54:47+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "UK: Education Sector Faces Surge in Cyber Breaches Despite Stable National Threat Levels",
+            "link": "https://www.infosecurity-magazine.com/news/uk-education-sector-faces-surge-in/",
+            "summary": "The British public education sector has faced the nation’s most dramatic increase in cyber breach prevalence over the past year",
+            "published_utc": "2026-04-30T13:30:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Samsung Galaxy vs. Google Pixel: My take after testing dozens of phones from both brands",
+            "link": "https://www.zdnet.com/article/samsung-galaxy-vs-google-pixel-phones/",
+            "summary": "Samsung and Google make some of the best Android phones, but they're very different. Here's when to choose a Galaxy or a Pixel.",
+            "published_utc": "2026-04-30T13:06:27+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Critical Gemini CLI Flaw Enabled Host Code Execution, Supply Chain Attacks",
+            "link": "https://www.securityweek.com/critical-gemini-cli-flaw-enabled-host-code-execution-supply-chain-attacks/",
+            "summary": "",
+            "published_utc": "2026-04-30T12:34:05+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I stopped this common charging habit that was quietly killing my iPhone's battery",
+            "link": "https://www.zdnet.com/article/stopped-common-charging-habit-killing-iphone-battery/",
+            "summary": "By charging my iPhone in this one spot, I was damaging my battery and shortening its lifespan. Here's what I do now to avoid it.",
+            "published_utc": "2026-04-30T12:20:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Dismantle implicit trust in OT networks, CISA tells critical infrastructure operators",
+            "link": "https://www.csoonline.com/article/4165486/dismantle-implicit-trust-in-ot-networks-cisa-tells-critical-infrastructure-operators.html",
+            "summary": "",
+            "published_utc": "2026-04-30T12:10:14+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "EnOcean SmartServer Flaws Expose Buildings to Remote Hacking",
+            "link": "https://www.securityweek.com/enocean-smartserver-flaws-expose-buildings-to-remote-hacking/",
+            "summary": "",
+            "published_utc": "2026-04-30T11:57:31+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Critical cPanel and WHM bug exploited as a zero-day, PoC now available",
+            "link": "https://www.bleepingcomputer.com/news/security/critical-cpanel-and-whm-bug-exploited-as-a-zero-day-poc-now-available/",
+            "summary": "The critical CVE-2026-41940 authentication bypass vulnerability in cPanel, WHM, and WP Squared is being actively exploited in the wild and has been le...",
+            "published_utc": "2026-04-30T11:40:31+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "Max-severity RCE flaw found in Google Gemini CLI",
@@ -45,9 +101,9 @@
         },
         {
             "source": "WIRED Security",
-            "title": "Exposed Data Illustrates the Nightmare Scenario for a Stalkerware Victim",
+            "title": "90,000 Screenshots of One Celebrity's Phone Were Exposed Online",
             "link": "https://www.wired.com/story/exposed-data-illustrates-the-nightmare-scenario-for-a-stalkerware-victim/",
-            "summary": "Extremely sensitive personal data from a European celebrity that appears to have been compiled using spyware was publicly accessible until a researche...",
+            "summary": "Spyware appears to have captured everything from intimate photos to private messages from the smartphone of European celebrity. They were publicly acc...",
             "published_utc": "2026-04-30T10:00:00+00:00"
         },
         {
@@ -111,7 +167,7 @@
             "title": "Privacy in the AI era is possible, says Proton's CEO, but one thing keeps him up at night",
             "link": "https://www.zdnet.com/article/proton-ceo-andy-yen-interview-ai-privacy-security-semafor/",
             "summary": "At Semafor World Economy, I spoke with Andy Yen about mass surveillance, protecting children, local AI, and the one thing Proton can't save users from.",
-            "published_utc": "2026-04-30T02:00:35+00:00"
+            "published_utc": "2026-04-30T02:00:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -310,6 +366,13 @@
             "published_utc": "2026-04-29T12:03:40+00:00"
         },
         {
+            "source": "CSO Online",
+            "title": "Critical GitHub RCE bug exposed millions of repositories",
+            "link": "https://www.csoonline.com/article/4164925/critical-github-rce-bug-exposed-millions-of-repositories.html",
+            "summary": "",
+            "published_utc": "2026-04-29T11:48:49+00:00"
+        },
+        {
             "source": "SecurityWeek",
             "title": "Checkmarx Confirms Data Stolen in Supply Chain Attack",
             "link": "https://www.securityweek.com/checkmarx-confirms-data-stolen-in-supply-chain-attack/",
@@ -352,25 +415,11 @@
             "published_utc": "2026-04-29T10:05:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Amazon Prime Day 2026 is likely coming earlier. Here's everything to know so far",
-            "link": "https://www.zdnet.com/article/amazon-prime-day-2026-faq/",
-            "summary": "Amazon's summer Prime Day event is on its way, but it may not be in July. Here's what you need to know right now.",
-            "published_utc": "2026-04-29T10:01:01+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "38 Vulnerabilities Found in OpenEMR Medical Software",
             "link": "https://www.securityweek.com/38-vulnerabilities-found-in-openemr-medical-software/",
             "summary": "",
             "published_utc": "2026-04-29T09:54:17+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Chrome 147, Firefox 150 Security Updates Rolling Out",
-            "link": "https://www.securityweek.com/chrome-147-firefox-150-security-updates-rolling-out/",
-            "summary": "",
-            "published_utc": "2026-04-29T09:24:29+00:00"
         },
         {
             "source": "CSO Online",
@@ -392,13 +441,6 @@
             "link": "https://www.csoonline.com/article/4143208/what-it-takes-to-win-that-cso-role.html",
             "summary": "",
             "published_utc": "2026-04-29T08:30:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Critical GitHub Vulnerability Exposed Millions of Repositories",
-            "link": "https://www.securityweek.com/critical-github-vulnerability-exposed-millions-of-repositories/",
-            "summary": "",
-            "published_utc": "2026-04-29T06:27:49+00:00"
         },
         {
             "source": "CSO Online",
@@ -429,25 +471,11 @@
             "published_utc": "2026-04-28T21:07:23+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Video service Vimeo confirms Anodot breach exposed user data",
-            "link": "https://www.bleepingcomputer.com/news/security/video-service-vimeo-confirms-anodot-breach-exposed-user-data/",
-            "summary": "Vimeo has disclosed that data belonging to some of its customers and users has been accessed without authorization following the recent breach at the ...",
-            "published_utc": "2026-04-28T19:04:22+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "Why Sharing a Screenshot Can Get You Jailed in the UAE",
             "link": "https://www.wired.com/story/why-sharing-a-screenshot-can-get-you-jailed-in-the-uae/",
             "summary": "The war in Iran has drawn attention to arrests in the United Arab Emirates over online content, but the legal framework behind that enforcement has ex...",
             "published_utc": "2026-04-28T17:49:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "US reportedly charges Scattered Spider hacker arrested in Finland",
-            "link": "https://www.bleepingcomputer.com/news/security/us-reportedly-charges-scattered-spider-hacker-arrested-in-finland/",
-            "summary": "A 19-year-old dual United States and Estonian citizen arrested in Finland earlier this month faces federal charges in the U.S. alleging he was a proli...",
-            "published_utc": "2026-04-28T15:39:52+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -602,13 +630,6 @@
             "link": "https://www.csoonline.com/article/4163355/ai-is-reshaping-devsecops-to-bring-security-closer-to-the-code.html",
             "summary": "",
             "published_utc": "2026-04-27T09:01:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "The ‘manager of agents’: How AI evolves the SOC analyst role",
-            "link": "https://www.csoonline.com/article/4163299/the-manager-of-agents-how-ai-evolves-the-soc-analyst-role.html",
-            "summary": "",
-            "published_utc": "2026-04-27T09:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2758,13 +2779,6 @@
             "link": "https://www.welivesecurity.com/en/scams/poshmark-safe-buy-sell-scammed/",
             "summary": "Like any other marketplace, the social commerce platform has its share of red flags. It pays to know what to look for so you can shop or sell without ...",
             "published_utc": "2026-02-19T07:21:48+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Cryptojacking Campaign Exploits Driver to Boost Monero Mining",
-            "link": "https://www.infosecurity-magazine.com/news/cryptojacking-driver-boost-monero/",
-            "summary": "Cryptojacking campaign used pirated software to deploy a persistent XMRig miner with stealth tactics",
-            "published_utc": "2026-02-18T16:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
