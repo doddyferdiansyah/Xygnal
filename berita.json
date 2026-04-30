@@ -1,6 +1,62 @@
 {
-    "lastUpdatedUTC": "2026-04-30T09:11:40.652467+00:00",
+    "lastUpdatedUTC": "2026-04-30T11:37:52.156607+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "Max-severity RCE flaw found in Google Gemini CLI",
+            "link": "https://www.csoonline.com/article/4165470/max-severity-rce-flaw-found-in-google-gemini-cli.html",
+            "summary": "",
+            "published_utc": "2026-04-30T11:31:34+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Police dismantles 9 crypto scam centers, arrests 276 suspects",
+            "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-9-crypto-investment-scam-centers-arrests-276-suspects/",
+            "summary": "A joint international operation involving U.S. and Chinese authorities arrested at least 276 suspects and shut down nine cryptocurrency investment fra...",
+            "published_utc": "2026-04-30T11:21:02+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Critical cPanel & WHM Vulnerability Exploited as Zero-Day for Months",
+            "link": "https://www.securityweek.com/critical-cpanel-whm-vulnerability-exploited-as-zero-day-for-months/",
+            "summary": "",
+            "published_utc": "2026-04-30T11:10:30+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Fast16 Malware",
+            "link": "https://www.schneier.com/blog/archives/2026/04/fast16-malware.html",
+            "summary": "",
+            "published_utc": "2026-04-30T10:22:02+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "‘Copy Fail’ Logic Flaw in Linux Kernel Enables System Takeover",
+            "link": "https://www.securityweek.com/copy-fail-logic-flaw-in-linux-kernel-enables-system-takeover/",
+            "summary": "",
+            "published_utc": "2026-04-30T10:06:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Europol Busts Albanian Scam Call Centers in Major Online Fraud Case",
+            "link": "https://www.infosecurity-magazine.com/news/europol-albanian-scam-call-centers/",
+            "summary": "European police arrested 10 suspects after dismantling Albanian scam call centers linked to a €50m ($58m) online investment fraud operation",
+            "published_utc": "2026-04-30T10:00:00+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "Exposed Data Illustrates the Nightmare Scenario for a Stalkerware Victim",
+            "link": "https://www.wired.com/story/exposed-data-illustrates-the-nightmare-scenario-for-a-stalkerware-victim/",
+            "summary": "Extremely sensitive personal data from a European celebrity that appears to have been compiled using spyware was publicly accessible until a researche...",
+            "published_utc": "2026-04-30T10:00:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "SAP npm package attack highlights risks in developer tools and CI/CD pipelines",
+            "link": "https://www.csoonline.com/article/4165420/sap-npm-package-attack-highlights-risks-in-developer-tools-and-ci-cd-pipelines.html",
+            "summary": "",
+            "published_utc": "2026-04-30T09:58:51+00:00"
+        },
         {
             "source": "InfosecurityMag",
             "title": "Cyber is the Number One Global “People Risk,” Says Marsh",
@@ -380,25 +436,11 @@
             "published_utc": "2026-04-28T19:04:22+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Cyber Insurance Data Gives CISOs New Ammo for Budget Talks",
-            "link": "https://www.securityweek.com/cyber-insurance-data-gives-cisos-new-ammo-for-budget-talks/",
-            "summary": "",
-            "published_utc": "2026-04-28T18:32:11+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "Why Sharing a Screenshot Can Get You Jailed in the UAE",
             "link": "https://www.wired.com/story/why-sharing-a-screenshot-can-get-you-jailed-in-the-uae/",
             "summary": "The war in Iran has drawn attention to arrests in the United Arab Emirates over online content, but the legal framework behind that enforcement has ex...",
             "published_utc": "2026-04-28T17:49:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Vimeo Confirms User and Customer Data Breach",
-            "link": "https://www.securityweek.com/vimeo-confirms-user-and-customer-data-breach/",
-            "summary": "",
-            "published_utc": "2026-04-28T17:11:55+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -413,13 +455,6 @@
             "link": "https://www.infosecurity-magazine.com/news/medtronic-data-breach-shinyhunters/",
             "summary": "Medtronic confirms IT breach as ShinyHunters claims millions of records accesseda",
             "published_utc": "2026-04-28T15:30:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Checkmarx confirms LAPSUS$ hackers leaked its stolen GitHub data",
-            "link": "https://www.bleepingcomputer.com/news/security/checkmarx-confirms-lapsus-hackers-leaked-its-stolen-github-data/",
-            "summary": "Application security company Checkmarx has confirmed that the LAPSUS$ threat group leaked data stolen from its private GitHub repository. [...]",
-            "published_utc": "2026-04-28T14:50:40+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -583,13 +618,6 @@
             "published_utc": "2026-04-27T08:15:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "4 Wege aus der Security-Akronymhölle",
-            "link": "https://www.csoonline.com/article/3825034/4-wege-aus-der-security-akronymholle.html",
-            "summary": "",
-            "published_utc": "2026-04-27T04:00:00+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "California Engineer Identified in Suspected Shooting at White House Correspondents’ Dinner",
             "link": "https://www.wired.com/story/california-engineer-identified-in-suspected-shooting-at-white-house-correspondents-dinner/",
@@ -609,13 +637,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-how-squid-survived-extinction-events.html",
             "summary": "",
             "published_utc": "2026-04-24T21:03:23+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "New US House privacy bills raise hard questions about enterprise data collection",
-            "link": "https://www.csoonline.com/article/4163345/new-us-house-privacy-bills-raise-hard-questions-about-enterprise-data-collection.html",
-            "summary": "",
-            "published_utc": "2026-04-24T20:08:30+00:00"
         },
         {
             "source": "WIRED Security",
@@ -924,13 +945,6 @@
             "link": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/",
             "summary": "Plus: Major data breaches at a gym chain and hotel giant, a disruptive DDoS attack against Bluesky, dubious ICE hires, and more.",
             "published_utc": "2026-04-18T10:30:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Friday Squid Blogging: New Giant Squid Video",
-            "link": "https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-new-giant-squid-video-2.html",
-            "summary": "",
-            "published_utc": "2026-04-17T21:05:07+00:00"
         },
         {
             "source": "WIRED Security",
@@ -1449,13 +1463,6 @@
             "link": "https://www.infosecurity-magazine.com/news/new-phishing-platform-credential/",
             "summary": "A large-scale credential theft campaign targeting senior executives has been linked to a previously unknown automated phishing platform called Venom",
             "published_utc": "2026-04-03T08:00:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "‘Uncanny Valley’: Iran’s Threats on US Tech, Trump’s Plans for Midterms, and Polymarket’s Pop-up Flop",
-            "link": "https://www.wired.com/story/uncanny-valley-podcast-iran-targets-us-tech-polymarket-pop-up-trump-midterms/",
-            "summary": "In this episode, we discuss Iran’s threats to target US tech firms, gear up for the midterm elections, and get a scene report from the Polymarket pop-...",
-            "published_utc": "2026-04-02T21:04:22+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2758,13 +2765,6 @@
             "link": "https://www.infosecurity-magazine.com/news/cryptojacking-driver-boost-monero/",
             "summary": "Cryptojacking campaign used pirated software to deploy a persistent XMRig miner with stealth tactics",
             "published_utc": "2026-02-18T16:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "AI Assistants Used as Covert Command-and-Control Relays",
-            "link": "https://www.infosecurity-magazine.com/news/ai-assistants-covert-c2-relays/",
-            "summary": "AIs like Grok and Microsoft Copilot can be exploited as covert C2 channels for malware communication",
-            "published_utc": "2026-02-18T15:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
