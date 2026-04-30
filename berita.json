@@ -1,6 +1,76 @@
 {
-    "lastUpdatedUTC": "2026-04-30T13:59:25.659453+00:00",
+    "lastUpdatedUTC": "2026-04-30T15:50:48.903810+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "April KB5083769 Windows 11 update causes backup software failures",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/april-kb5083769-windows-11-update-causes-backup-software-failures/",
+            "summary": "The April 2026 KB5083769 security update breaks third-party backup applications from multiple vendors on systems running Windows 11 24H2 and 25H2. [...]",
+            "published_utc": "2026-04-30T15:23:03+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "T-Mobile will give you the latest Apple Watch SE for free - how to qualify for the deal",
+            "link": "https://www.zdnet.com/article/apple-watch-se-3-tmobile-deal/",
+            "summary": "The carrier is offering the new Apple Watch SE 3 at no retail cost when you add a line.",
+            "published_utc": "2026-04-30T15:01:12+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Deep#Door Python Backdoor Evades Detection On Windows",
+            "link": "https://www.infosecurity-magazine.com/news/deepdoor-python-backdoor-windows/",
+            "summary": "Deep#Door Python RAT uses tunneling and obfuscation to evade detection and steal credentials",
+            "published_utc": "2026-04-30T15:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "SonicWall Urges Immediate Patching of Firewall Vulnerabilities",
+            "link": "https://www.securityweek.com/sonicwall-urges-immediate-patching-of-firewall-vulnerabilities/",
+            "summary": "",
+            "published_utc": "2026-04-30T14:52:20+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "SAP NPM Packages Targeted in Supply Chain Attack",
+            "link": "https://www.securityweek.com/sap-npm-packages-targeted-in-supply-chain-attack/",
+            "summary": "",
+            "published_utc": "2026-04-30T14:27:36+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I asked ChatGPT Images 2.0 to redesign my app UIs - and wow",
+            "link": "https://www.zdnet.com/article/i-asked-chatgpt-to-redesign-my-apps-wow-results/",
+            "summary": "ChatGPT analyzed two of my apps, flagged issues, and generated new mockups. It's a game-changer.",
+            "published_utc": "2026-04-30T14:18:00+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
+            "link": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
+            "summary": "A Brazilian tech firm that specializes in protecting networks from distributed denial-of-service (DDoS) attacks has been enabling a botnet responsible...",
+            "published_utc": "2026-04-30T14:04:26+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "What Happens in the First 24 Hours After a New Asset Goes Live",
+            "link": "https://www.bleepingcomputer.com/news/security/what-happens-in-the-first-24-hours-after-a-new-asset-goes-live/",
+            "summary": "When a new asset goes live, attackers start scanning within minutes. Sprocket Security shows how automated attacks move from discovery to compromise i...",
+            "published_utc": "2026-04-30T14:02:12+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "CISA and Partners Publish Zero Trust Guidance For OT Security",
+            "link": "https://www.infosecurity-magazine.com/news/zero-trust-guidance-operational/",
+            "summary": "A new CISA‑led guide explains how zero‑trust security can be applied to operational technology, balancing cyber defence with safety and system availab...",
+            "published_utc": "2026-04-30T14:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I fixed my Wi-Fi dead zones at home with these 6 simple changes",
+            "link": "https://www.zdnet.com/article/how-i-fix-home-wifi-dead-zones/",
+            "summary": "I struggled with Wi-Fi dead spots for years. Here's what finally worked.",
+            "published_utc": "2026-04-30T13:59:37+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "New Linux ‘Copy Fail’ flaw gives hackers root on major distros",
@@ -20,7 +90,7 @@
             "title": "Samsung Galaxy vs. Google Pixel: My take after testing dozens of phones from both brands",
             "link": "https://www.zdnet.com/article/samsung-galaxy-vs-google-pixel-phones/",
             "summary": "Samsung and Google make some of the best Android phones, but they're very different. Here's when to choose a Galaxy or a Pixel.",
-            "published_utc": "2026-04-30T13:06:27+00:00"
+            "published_utc": "2026-04-30T13:06:00+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -303,13 +373,6 @@
             "published_utc": "2026-04-29T14:47:25+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I've used Android Auto for years, and these 5 changes solved my biggest issues",
-            "link": "https://www.zdnet.com/article/ive-been-driving-with-android-auto-for-years-5-settings-to-change/",
-            "summary": "These simple adjustments can make a big difference to your Android road experience.",
-            "published_utc": "2026-04-29T14:45:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "European police dismantles €50 million crypto investment fraud ring",
             "link": "https://www.bleepingcomputer.com/news/security/european-police-dismantles-50-million-crypto-investment-fraud-ring/",
@@ -352,13 +415,6 @@
             "published_utc": "2026-04-29T12:41:17+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "5 ways your Windows updates are about to get a lot less painful",
-            "link": "https://www.zdnet.com/article/your-windows-update-experience-is-about-to-get-less-painful/",
-            "summary": "Microsoft wants to fix 'pain points' in Windows 11 PCs. The first batch of changes, targeting the Windows Update experience, is hitting Insider previe...",
-            "published_utc": "2026-04-29T12:09:04+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "Hundreds of Internet-Facing VNC Servers Expose ICS/OT",
             "link": "https://www.securityweek.com/hundreds-of-internet-facing-vnc-servers-expose-ics-ot/",
@@ -387,13 +443,6 @@
             "published_utc": "2026-04-29T10:45:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Iranian Cyber Group Handala Targets US Troops in Bahrain",
-            "link": "https://www.securityweek.com/iranian-cyber-group-handala-targets-us-troops-in-bahrain/",
-            "summary": "",
-            "published_utc": "2026-04-29T10:35:36+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "CISA orders feds to patch Windows flaw exploited as zero-day",
             "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-flaw-exploited-in-zero-day-attacks/",
@@ -413,13 +462,6 @@
             "link": "https://www.infosecurity-magazine.com/news/quarter-healthcare-medical-device/",
             "summary": "RunSafe report reveals most attacks on medical devices disrupt patient care",
             "published_utc": "2026-04-29T10:05:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "38 Vulnerabilities Found in OpenEMR Medical Software",
-            "link": "https://www.securityweek.com/38-vulnerabilities-found-in-openemr-medical-software/",
-            "summary": "",
-            "published_utc": "2026-04-29T09:54:17+00:00"
         },
         {
             "source": "CSO Online",
@@ -455,20 +497,6 @@
             "link": "https://www.csoonline.com/article/4164524/more-fake-extensions-linked-to-glassworm-found-in-open-vsx-code-marketplace.html",
             "summary": "",
             "published_utc": "2026-04-29T00:48:56+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Broken VECT 2.0 ransomware acts as a data wiper for large files",
-            "link": "https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/",
-            "summary": "Researchers are warning that the VECT 2.0 ransomware has a problem in the way it handles encryption nonces that leads to permanently destroying larger...",
-            "published_utc": "2026-04-28T21:25:57+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Hackers are exploiting a critical LiteLLM pre-auth SQLi flaw",
-            "link": "https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-a-critical-litellm-pre-auth-sqli-flaw/",
-            "summary": "Hackers are targeting sensitive information stored in the LiteLLM open-source large-language model (LLM) gateway by exploiting a critical vulnerabilit...",
-            "published_utc": "2026-04-28T21:07:23+00:00"
         },
         {
             "source": "WIRED Security",
@@ -2508,13 +2536,6 @@
             "published_utc": "2026-03-02T10:45:00+00:00"
         },
         {
-            "source": "KrebsOnSecurity",
-            "title": "Who is the Kimwolf Botmaster “Dort”?",
-            "link": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/",
-            "summary": "In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's lar...",
-            "published_utc": "2026-02-28T12:01:57+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "North Korea's APT37 Expands Toolkit to Breach Air-Gapped Networks",
             "link": "https://www.infosecurity-magazine.com/news/north-korea-apt37-expands-toolkit/",
@@ -2746,25 +2767,11 @@
             "published_utc": "2026-02-19T12:00:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "Flaws in Popular Software Development App Extensions Allow Data Exfiltration",
-            "link": "https://www.infosecurity-magazine.com/news/vulnerabilities-vs-code-cursor/",
-            "summary": "Four serious new vulnerabilities affect Microsoft Visual Studio Code, Cursor and Windsurf extensions, three of which remain unpatched",
-            "published_utc": "2026-02-19T10:45:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "PromptSpy ushers in the era of Android threats using GenAI",
             "link": "https://www.welivesecurity.com/en/eset-research/promptspy-ushers-in-era-android-threats-using-genai/",
             "summary": "ESET researchers discover PromptSpy, the first known Android malware to abuse generative AI in its execution flow",
             "published_utc": "2026-02-19T10:30:20+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Researchers Reveal Six New OpenClaw Vulnerabilities",
-            "link": "https://www.infosecurity-magazine.com/news/researchers-six-new-openclaw/",
-            "summary": "Endor Labs has published details of six new vulnerabilities in popular AI assistant OpenClaw",
-            "published_utc": "2026-02-19T10:00:00+00:00"
         },
         {
             "source": "WIRED Security",
