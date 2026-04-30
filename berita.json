@@ -1,6 +1,55 @@
 {
-    "lastUpdatedUTC": "2026-04-30T17:22:55.909866+00:00",
+    "lastUpdatedUTC": "2026-04-30T19:24:47.809104+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "New Bluekit phishing service includes an AI assistant, 40 templates",
+            "link": "https://www.bleepingcomputer.com/news/security/new-bluekit-phishing-service-includes-an-ai-assistant-40-templates/",
+            "summary": "A new phishing kit named Bluekit offers more than 40 templates targeting popular services and includes basic AI features for generating campaign draft...",
+            "published_utc": "2026-04-30T18:58:50+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Anthropic Unveils Claude Security to Counter AI-Powered Exploit Surge",
+            "link": "https://www.securityweek.com/anthropic-unveils-claude-security-to-counter-ai-powered-exploit-surge/",
+            "summary": "",
+            "published_utc": "2026-04-30T18:57:55+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "AI Fuels ‘Industrial’ Cybercrime as Time-to-Exploit Shrinks to Hours",
+            "link": "https://www.securityweek.com/ai-fuels-industrial-cybercrime-as-time-to-exploit-shrinks-to-hours/",
+            "summary": "",
+            "published_utc": "2026-04-30T18:54:15+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Thousands of readers bought these 10 useful tools and gadgets (No. 5 gets weird)",
+            "link": "https://www.zdnet.com/article/most-popular-products-from-our-readers-2026/",
+            "summary": "From Bluetooth trackers to (checks notes) a smart insect bite healer, these are the top gadgets our readers have actually purchased in 2026 so far.",
+            "published_utc": "2026-04-30T17:51:53+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Romanian leader of online swatting ring gets 4 years in prison",
+            "link": "https://www.bleepingcomputer.com/news/security/romanian-leader-of-online-swatting-ring-gets-4-years-in-prison/",
+            "summary": "A Romanian national who led an online swatting ring that targeted more than 75 public officials, multiple journalists, and four religious institutions...",
+            "published_utc": "2026-04-30T17:45:12+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "After testing this Linux laptop, I understand why MacBooks are the superior choice",
+            "link": "https://www.zdnet.com/article/tuxedo-infinitybook-max-15-review/",
+            "summary": "The new Tuxedo InfinityBook Max 15 is an impressive Linux laptop for everyday use, with a few concerns.",
+            "published_utc": "2026-04-30T17:30:52+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "OpenAI Rolls Out ‘Advanced’ Security Mode for At-Risk Accounts",
+            "link": "https://www.wired.com/story/openai-chatgpt-codex-advanced-account-security/",
+            "summary": "OpenAI is rolling out Advanced Account Security for people concerned that their ChatGPT or Codex accounts could be potential targets of phishing attacks.",
+            "published_utc": "2026-04-30T17:30:39+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Motorola Razr Ultra (2026) vs. Samsung Galaxy Z Flip 7: I tried both, and there's a clear winner",
@@ -352,25 +401,11 @@
             "published_utc": "2026-04-29T16:03:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "The best VPN for small businesses in 2026: Expert tested and reviewed",
-            "link": "https://www.zdnet.com/article/best-vpn-for-small-businesses/",
-            "summary": "Looking for the best VPN for your small business? I tested Surfshark, Proton VPN, and more to find the top picks.",
-            "published_utc": "2026-04-29T15:52:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "cPanel, WHM emergency update fixes critical auth bypass bug",
             "link": "https://www.bleepingcomputer.com/news/security/cpanel-whm-emergency-update-fixes-critical-auth-bypass-bug/",
             "summary": "A critical vulnerability affecting all but the latest versions of cPanel and the WebHost Manager (WHM) dashboard could be exploited to obtain access t...",
             "published_utc": "2026-04-29T15:51:44+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "After years of Linux, I tried GhostBSD and found it incredibly stable - and nearly unbreakable",
-            "link": "https://www.zdnet.com/article/i-tried-ghostbsd-found-it-incredibly-stable-nearly-unbreakable/",
-            "summary": "This FreeBSD-based OS is for Linux users who want a reliable, Unix-like experience. Here's why.",
-            "published_utc": "2026-04-29T15:49:10+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -415,20 +450,6 @@
             "published_utc": "2026-04-29T13:00:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "GitHub fixes RCE flaw that gave access to millions of private repos",
-            "link": "https://www.bleepingcomputer.com/news/security/github-fixes-rce-flaw-that-gave-access-to-millions-of-private-repos/",
-            "summary": "In early March, GitHub patched a critical remote code execution vulnerability (CVE-2026-3854) that could have allowed attackers to access millions of ...",
-            "published_utc": "2026-04-29T12:41:17+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Hundreds of Internet-Facing VNC Servers Expose ICS/OT",
-            "link": "https://www.securityweek.com/hundreds-of-internet-facing-vnc-servers-expose-ics-ot/",
-            "summary": "",
-            "published_utc": "2026-04-29T12:03:40+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Critical GitHub RCE bug exposed millions of repositories",
             "link": "https://www.csoonline.com/article/4164925/critical-github-rce-bug-exposed-millions-of-repositories.html",
@@ -436,25 +457,11 @@
             "published_utc": "2026-04-29T11:48:49+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Checkmarx Confirms Data Stolen in Supply Chain Attack",
-            "link": "https://www.securityweek.com/checkmarx-confirms-data-stolen-in-supply-chain-attack/",
-            "summary": "",
-            "published_utc": "2026-04-29T11:03:03+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Critical Flaw Turns Vect Ransomware into Data Destroying Wiper",
             "link": "https://www.infosecurity-magazine.com/news/critical-flaw-vect-ransomware-data/",
             "summary": "The Vect 2.0 ransomware wipes large files instead of merely encrypting them, making recovery impossible – even for the attackers",
             "published_utc": "2026-04-29T10:45:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "CISA orders feds to patch Windows flaw exploited as zero-day",
-            "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-flaw-exploited-in-zero-day-attacks/",
-            "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to secure their Windows systems against a vulnerability ...",
-            "published_utc": "2026-04-29T10:29:31+00:00"
         },
         {
             "source": "Schneier",
@@ -1498,13 +1505,6 @@
             "link": "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/",
             "summary": "Major AI labs are investigating a security incident that impacted Mercor, a leading data vendor. The incident could have exposed key data about how th...",
             "published_utc": "2026-04-03T21:28:14+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "CBP Facility Codes Sure Seem to Have Leaked Via Online Flashcards",
-            "link": "https://www.wired.com/story/cbp-facility-codes-sure-seem-to-have-leaked-via-online-flashcards/",
-            "summary": "The Quizlet flashcards, which WIRED found through basic Google searches, seem to include sensitive information about gate security at Customs and Bord...",
-            "published_utc": "2026-04-03T09:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
