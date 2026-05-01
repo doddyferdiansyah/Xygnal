@@ -1,6 +1,34 @@
 {
-    "lastUpdatedUTC": "2026-05-01T13:21:46.125160+00:00",
+    "lastUpdatedUTC": "2026-05-01T14:57:17.548198+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Google Adjusts Bug Bounties: Chrome Payouts Drop as Android Rewards Rise Amid AI Surge",
+            "link": "https://www.securityweek.com/google-adjusts-bug-bounties-chrome-payouts-drop-as-android-rewards-rise-amid-ai-surge/",
+            "summary": "",
+            "published_utc": "2026-05-01T14:26:14+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Criminal IP and Securonix ThreatQ Collaborate to Enhance Threat Intelligence Operations",
+            "link": "https://www.bleepingcomputer.com/news/security/criminal-ip-and-securonix-threatq-collaborate-to-enhance-threat-intelligence-operations/",
+            "summary": "Raw threat intel isn't enough without real-world context. Criminal IP has partnered with Securonix to integrate exposure-based intelligence into Threa...",
+            "published_utc": "2026-05-01T14:02:12+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Eero Signal keeps your business online during internet outages",
+            "link": "https://www.zdnet.com/article/eero-signal-keeps-your-business-online-during-internet-outages/",
+            "summary": "A cellular backup device that connects to your Eero mesh Wi-Fi system, Eero Signal provides backup internet when your primary wired connection goes do...",
+            "published_utc": "2026-05-01T13:35:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "After using the $1,900 Motorola Razr Fold again, I'm doubling down on my buying advice",
+            "link": "https://www.zdnet.com/article/motorola-razr-fold-hands-on/",
+            "summary": "The latest foldable features key advantages over the Samsung Galaxy Z Fold 7 and Pixel 10 Pro Fold, but you should wait before buying one.",
+            "published_utc": "2026-05-01T13:30:45+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "How I scan documents with my Android phone and turn them into PDFs for free - it's easy",
@@ -345,20 +373,6 @@
             "published_utc": "2026-04-30T14:52:20+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "SAP NPM Packages Targeted in Supply Chain Attack",
-            "link": "https://www.securityweek.com/sap-npm-packages-targeted-in-supply-chain-attack/",
-            "summary": "",
-            "published_utc": "2026-04-30T14:27:36+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I asked ChatGPT Images 2.0 to redesign my app UIs - and wow",
-            "link": "https://www.zdnet.com/article/i-asked-chatgpt-to-redesign-my-apps-wow-results/",
-            "summary": "ChatGPT analyzed two of my apps, flagged issues, and generated new mockups. It's a game-changer.",
-            "published_utc": "2026-04-30T14:18:00+00:00"
-        },
-        {
             "source": "KrebsOnSecurity",
             "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
             "link": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
@@ -392,13 +406,6 @@
             "link": "https://www.infosecurity-magazine.com/news/uk-education-sector-faces-surge-in/",
             "summary": "The British public education sector has faced the nation’s most dramatic increase in cyber breach prevalence over the past year",
             "published_utc": "2026-04-30T13:30:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Samsung Galaxy vs. Google Pixel: My take after testing dozens of phones from both brands",
-            "link": "https://www.zdnet.com/article/samsung-galaxy-vs-google-pixel-phones/",
-            "summary": "Samsung and Google make some of the best Android phones, but they're very different. Here's when to choose a Galaxy or a Pixel.",
-            "published_utc": "2026-04-30T13:06:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -511,13 +518,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years/",
             "summary": "The Quick Page/Post Redirect plugin, installed on more than 70,000 WordPress sites, had a backdoor added five years ago that allows injecting arbitrar...",
             "published_utc": "2026-04-29T22:13:15+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Hackers exploit RCE flaws in Qinglong task scheduler for cryptomining",
-            "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-rce-flaws-in-qinglong-task-scheduler-for-cryptomining/",
-            "summary": "Hackers are exploiting two authentication bypass vulnerabilities in the Qinglong open-source task scheduling tool to deploy cryptominers on developers...",
-            "published_utc": "2026-04-29T20:50:35+00:00"
         },
         {
             "source": "InfosecurityMag",
