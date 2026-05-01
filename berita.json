@@ -1,6 +1,83 @@
 {
-    "lastUpdatedUTC": "2026-05-01T11:07:42.713446+00:00",
+    "lastUpdatedUTC": "2026-05-01T13:21:46.125160+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "How I scan documents with my Android phone and turn them into PDFs for free - it's easy",
+            "link": "https://www.zdnet.com/article/how-to-scan-documents-and-turn-into-pdfs-on-android/",
+            "summary": "Need to make a PDF from your Android phone? You can use Google's free tool to scan and create documents in seconds. Here's how.",
+            "published_utc": "2026-05-01T13:09:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft fixes Remote Desktop warnings displaying incorrectly",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-warnings-displaying-incorrectly/",
+            "summary": "Microsoft has fixed a known issue causing newly introduced Windows security warnings to display incorrectly when opening Remote Desktop (.rdp) files. ...",
+            "published_utc": "2026-05-01T12:46:48+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I used Photoshop's new AI tool to rotate objects in 3D, and it's pure magic",
+            "link": "https://www.zdnet.com/article/adobe-photoshop-new-3d-object-rotation-tool-hands-on/",
+            "summary": "Adobe's AI-enabled Rotate Object tool can do some really cool things, but human skill is still crucial for success.",
+            "published_utc": "2026-05-01T12:41:34+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I replaced my dad's aging Lenovo desktop with this Dell model - and don't regret it",
+            "link": "https://www.zdnet.com/article/dell-24-inch-aio-2026-review/",
+            "summary": "Dell's 24-inch AiO is a compact, easy-to-use desktop with reliable performance and great speakers, but it comes with some expected limitations.",
+            "published_utc": "2026-05-01T12:01:06+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Anthropic Rolls Out Claude Security for AI Vulnerability Scanning",
+            "link": "https://www.infosecurity-magazine.com/news/anthropic-claude-security-for-ai/",
+            "summary": "Claude Security enters public beta, giving enterprises AI driven code scanning with no API integration or custom agents required",
+            "published_utc": "2026-05-01T12:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Two US Security Experts Sentenced to Prison for Helping Ransomware Gang",
+            "link": "https://www.securityweek.com/two-us-security-experts-sentenced-to-prison-for-helping-ransomware-gang/",
+            "summary": "",
+            "published_utc": "2026-05-01T11:37:03+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "My home Wi-Fi was full of dead zones - here are 6 solutions that actually worked",
+            "link": "https://www.zdnet.com/article/how-i-fix-home-wifi-dead-zones/",
+            "summary": "I struggled with Wi-Fi dead spots throughout my home for years. Here's what helped connect the dots.",
+            "published_utc": "2026-05-01T11:30:41+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Two American Cybersecurity Workers Jailed for BlackCat Ransomware Attacks",
+            "link": "https://www.infosecurity-magazine.com/news/cybersecurity-workers-jailed/",
+            "summary": "The cybersecurity workers used their knowledge and skills to conduct ransomware attacks for notorious gang, rather than protect victims against them",
+            "published_utc": "2026-05-01T11:30:00+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "A Ransomware Negotiator Was Working for a Ransomware Gang",
+            "link": "https://www.schneier.com/blog/archives/2026/05/a-ransomware-negotiator-was-working-for-a-ransomware-gang.html",
+            "summary": "",
+            "published_utc": "2026-05-01T11:18:43+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft now lets admins choose pre-installed Store apps to uninstall",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-choose-pre-installed-store-apps-to-uninstall/",
+            "summary": "Microsoft has updated a Windows 11 in-box app removal policy introduced in October to include a dynamic list that lets IT admins choose which preinsta...",
+            "published_utc": "2026-05-01T11:10:07+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Sophisticated Deep#Door Backdoor Enables Espionage, Disruption",
+            "link": "https://www.securityweek.com/sophisticated-deepdoor-backdoor-enables-espionage-disruption/",
+            "summary": "",
+            "published_utc": "2026-05-01T11:08:50+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Best AirPods of 2026: Expert tested and reviewed",
@@ -142,13 +219,6 @@
             "published_utc": "2026-05-01T01:14:26+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "My dad needed a new desktop PC - here's why this Dell was the smartest choice",
-            "link": "https://www.zdnet.com/article/dell-24-inch-aio-2026-review/",
-            "summary": "Dell's new 24-inch AiO is a compact, easy-to-use desktop with reliable performance and great speakers, but some expected limitations.",
-            "published_utc": "2026-05-01T00:31:15+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Bank regulator sounds warning over cybersecurity threat posed by AI models",
             "link": "https://www.csoonline.com/article/4165751/bank-regulator-sounds-warning-over-cybersecurity-threat-posed-by-ai-models.html",
@@ -233,6 +303,13 @@
             "published_utc": "2026-04-30T16:32:18+00:00"
         },
         {
+            "source": "InfosecurityMag",
+            "title": "Three Arrested for Hacking Over 610,000 Roblox Accounts",
+            "link": "https://www.infosecurity-magazine.com/news/three-arrested-over-roblox-hacking/",
+            "summary": "Suspects accused of distributing malware and selling access to stolen Roblox accounts on Russian marketplaces",
+            "published_utc": "2026-04-30T16:00:00+00:00"
+        },
+        {
             "source": "ZDNet Security",
             "title": "Sony vs. Bose: My buying advice after listening to flagship headphones from both brands",
             "link": "https://www.zdnet.com/article/sony-vs-bose-headphones-2026/",
@@ -303,13 +380,6 @@
             "published_utc": "2026-04-30T14:00:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I fixed my Wi-Fi dead zones at home with these 6 simple changes",
-            "link": "https://www.zdnet.com/article/how-i-fix-home-wifi-dead-zones/",
-            "summary": "I struggled with Wi-Fi dead spots for years. Here's what finally worked.",
-            "published_utc": "2026-04-30T13:59:37+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "New Linux ‘Copy Fail’ flaw gives hackers root on major distros",
             "link": "https://www.bleepingcomputer.com/news/security/new-linux-copy-fail-flaw-gives-hackers-root-on-major-distros/",
@@ -331,32 +401,11 @@
             "published_utc": "2026-04-30T13:06:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Critical Gemini CLI Flaw Enabled Host Code Execution, Supply Chain Attacks",
-            "link": "https://www.securityweek.com/critical-gemini-cli-flaw-enabled-host-code-execution-supply-chain-attacks/",
-            "summary": "",
-            "published_utc": "2026-04-30T12:34:05+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I stopped this common charging habit that was quietly killing my iPhone's battery",
-            "link": "https://www.zdnet.com/article/stopped-common-charging-habit-killing-iphone-battery/",
-            "summary": "By charging my iPhone in this one spot, I was damaging my battery and shortening its lifespan. Here's what I do now to avoid it.",
-            "published_utc": "2026-04-30T12:20:00+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Dismantle implicit trust in OT networks, CISA tells critical infrastructure operators",
             "link": "https://www.csoonline.com/article/4165486/dismantle-implicit-trust-in-ot-networks-cisa-tells-critical-infrastructure-operators.html",
             "summary": "",
             "published_utc": "2026-04-30T12:10:14+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "EnOcean SmartServer Flaws Expose Buildings to Remote Hacking",
-            "link": "https://www.securityweek.com/enocean-smartserver-flaws-expose-buildings-to-remote-hacking/",
-            "summary": "",
-            "published_utc": "2026-04-30T11:57:31+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -415,13 +464,6 @@
             "published_utc": "2026-04-30T09:10:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "The best cloud phone systems of 2026: Expert tested and reviewed",
-            "link": "https://www.zdnet.com/article/best-cloud-phone-systems/",
-            "summary": "I tested the best cloud phone systems hands-on, compared pricing, AI features, and real user feedback to help you pick the right one for your team.",
-            "published_utc": "2026-04-30T09:01:00+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Stopping the quiet drift toward excessive agency with re-permissioning",
             "link": "https://www.csoonline.com/article/4165067/stopping-the-quiet-drift-toward-excessive-agency-with-re-permissioning.html",
@@ -476,20 +518,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-rce-flaws-in-qinglong-task-scheduler-for-cryptomining/",
             "summary": "Hackers are exploiting two authentication bypass vulnerabilities in the Qinglong open-source task scheduling tool to deploy cryptominers on developers...",
             "published_utc": "2026-04-29T20:50:35+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Hackers arrested for hijacking and selling 610,000 Roblox accounts",
-            "link": "https://www.bleepingcomputer.com/news/security/hackers-arrested-for-hijacking-and-selling-610-000-roblox-accounts/",
-            "summary": "The Ukrainian police have arrested three individuals who hacked more than 610,000 Roblox gaming accounts and sold them for a profit of $225,000. [...]",
-            "published_utc": "2026-04-29T18:32:15+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "cPanel, WHM emergency update fixes critical auth bypass bug",
-            "link": "https://www.bleepingcomputer.com/news/security/cpanel-whm-emergency-update-fixes-critical-auth-bypass-bug/",
-            "summary": "A critical vulnerability affecting all but the latest versions of cPanel and the WebHost Manager (WHM) dashboard could be exploited to obtain access t...",
-            "published_utc": "2026-04-29T15:51:44+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -973,13 +1001,6 @@
             "link": "https://www.infosecurity-magazine.com/news/mirai-variant-dvr-flaw-iot-botnet/",
             "summary": "FortiGuard Labs has identified a Mirai-based Nexcorium campaign actively exploiting CVE-2024-3721 in TBK DVR devices",
             "published_utc": "2026-04-20T13:01:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Is “Satoshi Nakamoto” Really Adam Back?",
-            "link": "https://www.schneier.com/blog/archives/2026/04/is-satoshi-nakamoto-really-adam-back.html",
-            "summary": "",
-            "published_utc": "2026-04-20T11:07:25+00:00"
         },
         {
             "source": "WIRED Security",
@@ -2744,20 +2765,6 @@
             "link": "https://www.infosecurity-magazine.com/news/android-malware-hijacks-google/",
             "summary": "A new Android malware implant using Google Gemini to perform persistence tasks was discovered on VirusTotal and analyzed by ESET",
             "published_utc": "2026-02-20T11:35:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Remcos RAT Expands Real-Time Surveillance Capabilities",
-            "link": "https://www.infosecurity-magazine.com/news/remcos-rat-expands-real-time/",
-            "summary": "New Remcos RAT variant enhances real-time surveillance and evasion techniques to compromise Windows",
-            "published_utc": "2026-02-19T16:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Industrial-Scale Fake Coretax Apps Drive $2m Fraud in Indonesia",
-            "link": "https://www.infosecurity-magazine.com/news/fake-coretax-apps-fraud-indonesia/",
-            "summary": "Fraud campaign exploiting Indonesia’s Coretax resulted in $1.5m to $2m in losses via malicious apps",
-            "published_utc": "2026-02-19T15:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
