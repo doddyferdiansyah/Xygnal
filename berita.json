@@ -1,6 +1,13 @@
 {
-    "lastUpdatedUTC": "2026-05-02T13:15:43.465378+00:00",
+    "lastUpdatedUTC": "2026-05-02T14:49:54.248822+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "ConsentFix v3 attacks target Azure with automated OAuth abuse",
+            "link": "https://www.bleepingcomputer.com/news/security/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse/",
+            "summary": "A new attack type, dubbed ConsentFix v3, has been circulating on hacker forums, building on the previous technique by adding automation and scaling po...",
+            "published_utc": "2026-05-02T14:32:25+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "New Bluekit Phishing Kit Features AI Assistant",
@@ -448,13 +455,6 @@
             "link": "https://www.infosecurity-magazine.com/news/zero-trust-guidance-operational/",
             "summary": "A new CISA‑led guide explains how zero‑trust security can be applied to operational technology, balancing cyber defence with safety and system availab...",
             "published_utc": "2026-04-30T14:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "New Linux ‘Copy Fail’ flaw gives hackers root on major distros",
-            "link": "https://www.bleepingcomputer.com/news/security/new-linux-copy-fail-flaw-gives-hackers-root-on-major-distros/",
-            "summary": "An exploit has been published for a local privilege escalation vulnerability dubbed \"Copy Fail\" that impacts Linux kernels released since 2017, allowi...",
-            "published_utc": "2026-04-30T13:54:47+00:00"
         },
         {
             "source": "InfosecurityMag",
