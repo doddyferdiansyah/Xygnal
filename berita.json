@@ -1,6 +1,13 @@
 {
-    "lastUpdatedUTC": "2026-05-02T21:42:00.103392+00:00",
+    "lastUpdatedUTC": "2026-05-02T22:43:09.511221+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Critrical cPanel flaw mass-exploited in \"Sorry\" ransomware attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/",
+            "summary": "A new disclosed cPanel flaw tracked as CVE-2026-41940 is being mass-exploited to breach websites and encrypt data in \"Sorry\" ransomware attacks. [...]",
+            "published_utc": "2026-05-02T21:54:00+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "ConsentFix v3 attacks target Azure with automated OAuth abuse",
@@ -441,13 +448,6 @@
             "link": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
             "summary": "A Brazilian tech firm that specializes in protecting networks from distributed denial-of-service (DDoS) attacks has been enabling a botnet responsible...",
             "published_utc": "2026-04-30T14:04:26+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "What Happens in the First 24 Hours After a New Asset Goes Live",
-            "link": "https://www.bleepingcomputer.com/news/security/what-happens-in-the-first-24-hours-after-a-new-asset-goes-live/",
-            "summary": "When a new asset goes live, attackers start scanning within minutes. Sprocket Security shows how automated attacks move from discovery to compromise i...",
-            "published_utc": "2026-04-30T14:02:12+00:00"
         },
         {
             "source": "InfosecurityMag",
