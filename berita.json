@@ -1,6 +1,62 @@
 {
-    "lastUpdatedUTC": "2026-05-04T09:21:19.786885+00:00",
+    "lastUpdatedUTC": "2026-05-04T11:50:01.468091+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "Security agencies draw red lines around agentic AI deployments",
+            "link": "https://www.csoonline.com/article/4166479/security-agencies-draw-red-lines-around-agentic-ai-deployments.html",
+            "summary": "",
+            "published_utc": "2026-05-04T11:45:17+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Google Pixel vs. Samsung Galaxy: I've tested both brands extensively, and there's a clear winner",
+            "link": "https://www.zdnet.com/article/samsung-galaxy-vs-google-pixel/",
+            "summary": "Samsung and Google make some of the best Android phones, making it sometimes difficult to pick between the two. Here's my advice if you're split.",
+            "published_utc": "2026-05-04T11:30:49+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "CISA says ‘Copy Fail’ flaw now exploited to root Linux systems",
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-says-copy-fail-flaw-now-exploited-to-root-linux-systems/",
+            "summary": "CISA has warned that threat actors have started exploiting the \"Copy Fail\" Linux security vulnerability in the wild, one day after Theori researchers ...",
+            "published_utc": "2026-05-04T11:28:15+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Google Maps vs. Waze: I've driven with the two best navigation apps, and one is much better",
+            "link": "https://www.zdnet.com/article/google-maps-vs-waze-compared-2026/",
+            "summary": "Waze is great for quick reroutes and real-time alerts, while Google Maps offers deeper Gemini integration and more features. Here's my pick.",
+            "published_utc": "2026-05-04T11:00:59+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Exploitation of ‘Copy Fail’ Linux Vulnerability Begins",
+            "link": "https://www.securityweek.com/exploitation-of-copy-fail-linux-vulnerability-begins/",
+            "summary": "",
+            "published_utc": "2026-05-04T10:42:33+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft confirms April Windows updates cause backup failures",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-backup-failures-caused-by-vulnerable-driver-block/",
+            "summary": "Microsoft has confirmed that the April 2026 security updates are causing failures in third-party backup applications using the psmounterex.sys driver....",
+            "published_utc": "2026-05-04T10:40:11+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Hacking Polymarket",
+            "link": "https://www.schneier.com/blog/archives/2026/05/hacking-polymarket.html",
+            "summary": "",
+            "published_utc": "2026-05-04T09:46:31+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "OpenAI Rolls Out Advanced Security for ChatGPT Accounts",
+            "link": "https://www.securityweek.com/openai-rolls-out-advanced-security-for-chatgpt-accounts/",
+            "summary": "",
+            "published_utc": "2026-05-04T09:29:30+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "The fake IT worker problem CISOs can’t ignore",
@@ -275,13 +331,6 @@
             "published_utc": "2026-05-01T15:01:27+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Mini LED vs. OLED: I've tested dozens of TV with both display types, and this one's better",
-            "link": "https://www.zdnet.com/article/mini-led-vs-oled-tv/",
-            "summary": "OLED is the king of TV tech, but the latest developments in Mini-LED put it in close second. I've broken down the differences to help you decide.",
-            "published_utc": "2026-05-01T15:00:44+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "Google Adjusts Bug Bounties: Chrome Payouts Drop as Android Rewards Rise Amid AI Surge",
             "link": "https://www.securityweek.com/google-adjusts-bug-bounties-chrome-payouts-drop-as-android-rewards-rise-amid-ai-surge/",
@@ -294,13 +343,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/criminal-ip-and-securonix-threatq-collaborate-to-enhance-threat-intelligence-operations/",
             "summary": "Raw threat intel isn't enough without real-world context. Criminal IP has partnered with Securonix to integrate exposure-based intelligence into Threa...",
             "published_utc": "2026-05-01T14:02:12+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Eero Signal keeps your business online during internet outages",
-            "link": "https://www.zdnet.com/article/eero-signal-keeps-your-business-online-during-internet-outages/",
-            "summary": "A cellular backup device that connects to your Eero mesh Wi-Fi system, Eero Signal provides backup internet when your primary wired connection goes do...",
-            "published_utc": "2026-05-01T13:35:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -359,13 +401,6 @@
             "published_utc": "2026-05-01T10:45:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Cisco Releases Open Source Tool for AI Model Provenance",
-            "link": "https://www.securityweek.com/cisco-releases-open-source-tool-for-ai-model-provenance/",
-            "summary": "",
-            "published_utc": "2026-05-01T10:18:39+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Windows 11 KB5083631 update released with 34 changes and fixes",
             "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5083631-update-released-with-34-changes-and-fixes/",
@@ -401,20 +436,6 @@
             "published_utc": "2026-05-01T09:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Hugging Face, ClawHub Abused for Malware Distribution",
-            "link": "https://www.securityweek.com/hugging-face-clawhub-abused-for-malware-distribution/",
-            "summary": "",
-            "published_utc": "2026-05-01T08:41:57+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "US ransomware negotiators get 4 years in prison over BlackCat attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiators-get-4-years-in-prison-over-blackcat-attacks/",
-            "summary": "Two former employees of cybersecurity incident response companies Sygnia and DigitalMint were sentenced to four years in prison each for targeting U.S...",
-            "published_utc": "2026-05-01T07:47:11+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "4 ways to prepare your SOC for agentic AI",
             "link": "https://www.csoonline.com/article/4140208/4-ways-to-prepare-your-soc-for-agentic-ai.html",
@@ -434,20 +455,6 @@
             "link": "https://www.csoonline.com/article/4165751/bank-regulator-sounds-warning-over-cybersecurity-threat-posed-by-ai-models.html",
             "summary": "",
             "published_utc": "2026-04-30T23:36:42+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "New Bluekit phishing service includes an AI assistant, 40 templates",
-            "link": "https://www.bleepingcomputer.com/news/security/new-bluekit-phishing-service-includes-an-ai-assistant-40-templates/",
-            "summary": "A new phishing kit named Bluekit offers more than 40 templates targeting popular services and includes basic AI features for generating campaign draft...",
-            "published_utc": "2026-04-30T18:58:50+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "OpenAI Rolls Out ‘Advanced’ Security Mode for At-Risk Accounts",
-            "link": "https://www.wired.com/story/openai-chatgpt-codex-advanced-account-security/",
-            "summary": "OpenAI is rolling out Advanced Account Security for people concerned that their ChatGPT or Codex accounts could be potential targets of phishing attacks.",
-            "published_utc": "2026-04-30T17:30:39+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -588,13 +595,6 @@
             "link": "https://www.infosecurity-magazine.com/news/29-billion-compromised-credentials/",
             "summary": "KELA claims infostealers remained the primary access vector for attacks in 2025",
             "published_utc": "2026-04-29T13:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Critical GitHub RCE bug exposed millions of repositories",
-            "link": "https://www.csoonline.com/article/4164925/critical-github-rce-bug-exposed-millions-of-repositories.html",
-            "summary": "",
-            "published_utc": "2026-04-29T11:48:49+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -959,13 +959,6 @@
             "link": "https://www.infosecurity-magazine.com/news/unchecked-ai-agents-cause/",
             "summary": "Data exposure, operational disruption and financial losses among issues faced by businesses struggling with the rapid rise of AI agents, warns Cloud S...",
             "published_utc": "2026-04-21T13:00:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Mexican Surveillance Company",
-            "link": "https://www.schneier.com/blog/archives/2026/04/mexican-surveillance-company.html",
-            "summary": "",
-            "published_utc": "2026-04-21T11:04:59+00:00"
         },
         {
             "source": "WIRED Security",
