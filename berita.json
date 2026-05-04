@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2026-05-04T18:15:34.600928+00:00",
+    "lastUpdatedUTC": "2026-05-04T20:16:27.847934+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "Verizon will give you a free Samsung Galaxy S26, watch, and tablet right now - how to qualify",
+            "link": "https://www.zdnet.com/article/samsung-galaxy-s26-verizon-deal/",
+            "summary": "The latest add-a-line deal gets you a free Galaxy S26, Galaxy Watch 8, and Galaxy Tab S10 FE Tablet at Verizon.",
+            "published_utc": "2026-05-04T20:04:58+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Amazon SES increasingly abused in phishing to evade detection",
+            "link": "https://www.bleepingcomputer.com/news/security/amazon-ses-increasingly-abused-in-phishing-to-evade-detection/",
+            "summary": "The Amazon Simple Email Service (SES) is being increasingly abused to send convincing phishing emails that can bypass standard security filters and re...",
+            "published_utc": "2026-05-04T20:03:28+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Cisco Moves to Acquire Astrix Security to Tackle Non-Human Identity Risks",
+            "link": "https://www.securityweek.com/cisco-moves-to-acquire-astrix-security-to-tackle-non-human-identity-risks/",
+            "summary": "",
+            "published_utc": "2026-05-04T19:00:26+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The future of IT service delivery is built on AI and automation",
+            "link": "https://www.zdnet.com/article/the-future-of-it-service-delivery-is-built-on-ai-and-automation/",
+            "summary": "IT teams and Managed Service Providers are under pressure to deliver faster service in an increasingly complex threat landscape. They can no longer do...",
+            "published_utc": "2026-05-04T18:39:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I tested Google Maps vs. Apple Maps to find the best navigation app - and this one wins",
+            "link": "https://www.zdnet.com/article/google-maps-vs-apple-maps/",
+            "summary": "Apple Maps has improved over the years, but how does it compare to Google Maps today? Here's which one is best.",
+            "published_utc": "2026-05-04T18:36:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I found an AirTag alternative that's twice as durable and works with Android phones",
+            "link": "https://www.zdnet.com/article/ugreen-finder-pro-tag-review/",
+            "summary": "The latest Ugreen Finder Pro tags are some of the toughest trackers I've tested.",
+            "published_utc": "2026-05-04T18:30:41+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "MacBook Neo vs. iPad Air: How I'm choosing between Apple's $599 laptop and tablet",
@@ -20,7 +62,7 @@
             "title": "Your ChatGPT account just got more secure, but you have to opt in - here's how",
             "link": "https://www.zdnet.com/article/chatgpt-advanced-account-security/",
             "summary": "OpenAI adds a feature called Advanced Account Security with four opt-in settings designed to safeguard your account and personal data.",
-            "published_utc": "2026-05-04T17:38:28+00:00"
+            "published_utc": "2026-05-04T17:38:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -174,7 +216,7 @@
             "title": "Google Maps vs. Waze: I've driven with the two best navigation apps, and one is much better",
             "link": "https://www.zdnet.com/article/google-maps-vs-waze-compared-2026/",
             "summary": "Waze is great for quick reroutes and real-time alerts, while Google Maps offers deeper Gemini integration and more features. Here's my pick.",
-            "published_utc": "2026-05-04T11:00:59+00:00"
+            "published_utc": "2026-05-04T11:00:00+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -261,25 +303,11 @@
             "published_utc": "2026-05-03T22:16:27+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I compared this premium Linux laptop to my MacBook Pro - it won in surprising ways",
-            "link": "https://www.zdnet.com/article/tuxedo-infinitybook-max-15-review/",
-            "summary": "The latest Tuxedo InfinityBook Max 15 is an impressive Linux machine for everyday use, but it's not necessarily the best option for professionals.",
-            "published_utc": "2026-05-03T19:00:46+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Microsoft Defender wrongly flags DigiCert certs as Trojan:Win32/Cerdigent.A!dha",
             "link": "https://www.bleepingcomputer.com/news/security/microsoft-defender-wrongly-flags-digicert-certs-as-trojan-win32-cerdigentadha/",
             "summary": "Microsoft Defender is detecting legitimate DigiCert root certificates as Trojan:Win32/Cerdigent.A!dha, resulting in widespread false-positive alerts, ...",
             "published_utc": "2026-05-03T18:11:25+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I tested ChatGPT and Perplexity AI as my CarPlay voice assistants - both made Siri look bad",
-            "link": "https://www.zdnet.com/article/chatgpt-perplexity-ai-carplay-voice-assistant/",
-            "summary": "Both ChatGPT and Perplexity can answer questions and provide help that's well beyond Siri's capabilities. But which one is better when driving?",
-            "published_utc": "2026-05-03T17:00:45+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -294,20 +322,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/telegram-mini-apps-abused-for-crypto-scams-android-malware-delivery/",
             "summary": "Cybersecurity researchers have uncovered a large-scale fraud operation that uses Telegram's Mini App feature to run crypto scams, impersonate well-kno...",
             "published_utc": "2026-05-03T14:11:21+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I setup a $4 router reboot timer, and it's made my internet reliably faster",
-            "link": "https://www.zdnet.com/article/router-rebooter-review/",
-            "summary": "I've tried so many methods to reboot my router, but the best solution costs barely anything.",
-            "published_utc": "2026-05-03T14:00:39+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I upgraded my Bluetooth speakers instead of replacing them - 5 creative ways",
-            "link": "https://www.zdnet.com/article/5-ways-to-upgrade-bluetooth-speakers-instead-of-replacing-them/",
-            "summary": "You don't have to shell out hundreds (or thousands) of dollars on smart speakers for a robust home entertainment setup.",
-            "published_utc": "2026-05-03T13:00:45+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -371,20 +385,6 @@
             "link": "https://www.csoonline.com/article/4166080/windows-shell-spoofing-vulnerability-puts-sensitive-data-at-risk.html",
             "summary": "",
             "published_utc": "2026-05-01T20:01:51+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "15-year-old detained over French govt agency data breach",
-            "link": "https://www.bleepingcomputer.com/news/security/15-year-old-detained-over-french-govt-agency-data-breach/",
-            "summary": "French authorities have detained a 15-year-old suspected of selling data stolen in a cyberattack on France Titres (ANTS), the country's agency for iss...",
-            "published_utc": "2026-05-01T17:52:06+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "In Other News: Scattered Spider Hacker Arrested, SOC Effectiveness Metrics, NSA Tool Vulnerability",
-            "link": "https://www.securityweek.com/in-other-news-scattered-spider-hacker-arrested-soc-effectiveness-metrics-nsa-tool-vulnerability/",
-            "summary": "",
-            "published_utc": "2026-05-01T15:01:27+00:00"
         },
         {
             "source": "InfosecurityMag",
