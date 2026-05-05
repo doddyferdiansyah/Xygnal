@@ -1,6 +1,97 @@
 {
-    "lastUpdatedUTC": "2026-05-05T08:12:05.764229+00:00",
+    "lastUpdatedUTC": "2026-05-05T10:47:38.590631+00:00",
     "articles": [
+        {
+            "source": "Schneier",
+            "title": "DarkSword Malware",
+            "link": "https://www.schneier.com/blog/archives/2026/05/darksword-malware.html",
+            "summary": "",
+            "published_utc": "2026-05-05T10:42:03+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Karakurt extortion gang ‘cold case’ negotiator gets 8.5 years in prison",
+            "link": "https://www.bleepingcomputer.com/news/security/karakurt-extortion-gang-negotiator-sentenced-to-85-years-in-prison/",
+            "summary": "A Latvian national extradited to the United States was sentenced to 8.5 years in prison for his \"cold case\" negotiator role in the Russian Karakurt ra...",
+            "published_utc": "2026-05-05T10:13:17+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "CloudZ malware abuses Microsoft Phone Link to steal SMS and OTPs",
+            "link": "https://www.bleepingcomputer.com/news/security/cloudz-malware-abuses-microsoft-phone-link-to-steal-sms-and-otps/",
+            "summary": "A new version of the CloudZ remote access tool (RAT) is deploying a previously unseen malicious plugin called Pheno that hijacks the Microsoft Phone L...",
+            "published_utc": "2026-05-05T10:03:52+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Trojan abuses Microsoft Phone Link app to steal your passwords",
+            "link": "https://www.zdnet.com/article/trojan-abuses-microsoft-phone-link-app-to-steal-passwords/",
+            "summary": "Cross-device syncing isn't always a safe practice. Here's everything you need to know about this threat.",
+            "published_utc": "2026-05-05T10:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "NCSC Warns of an AI-Fuelled “Vulnerability Patch Wave”",
+            "link": "https://www.infosecurity-magazine.com/news/ncsc-warns-aifuelled-vulnerability/",
+            "summary": "The UK's National Cyber Security Centre is urging organizations to prepare for glut of new software updates",
+            "published_utc": "2026-05-05T09:40:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "MetInfo, Weaver E-cology Vulnerabilities in Attackers’ Crosshairs",
+            "link": "https://www.securityweek.com/metinfo-weaver-e-cology-vulnerabilities-in-attackers-crosshairs/",
+            "summary": "",
+            "published_utc": "2026-05-05T09:27:14+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "ScarCruft hackers push BirdCall Android malware via game platform",
+            "link": "https://www.bleepingcomputer.com/news/security/scarcruft-hackers-push-birdcall-android-malware-via-game-platform/",
+            "summary": "The North Korean hacker group APT37 has been delivering an Android version of a backdoor called BirdCall in a supply-chain attack through a video game...",
+            "published_utc": "2026-05-05T09:04:13+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "WhatsApp Discloses File Spoofing, Arbitrary URL Scheme Vulnerabilities",
+            "link": "https://www.securityweek.com/whatsapp-discloses-file-spoofing-arbitrary-url-scheme-vulnerabilities/",
+            "summary": "",
+            "published_utc": "2026-05-05T09:01:14+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "CISOs step up to the security workforce challenge",
+            "link": "https://www.csoonline.com/article/4166157/cisos-step-up-to-the-security-workforce-challenge.html",
+            "summary": "",
+            "published_utc": "2026-05-05T09:01:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The best mobile antivirus software of 2026: Expert tested and reviewed",
+            "link": "https://www.zdnet.com/article/best-mobile-antivirus-software/",
+            "summary": "My hands-on guide to the best mobile antivirus apps covers top picks like Bitdefender, Sophos, and more for Android and iOS.",
+            "published_utc": "2026-05-05T09:00:59+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "What you'll pay for AI agents will be wildly variable and unpredictable",
+            "link": "https://www.zdnet.com/article/your-cost-for-ai-agents-will-be-wildly-variable-and-unpredictable/",
+            "summary": "A test of leading AI agents found vastly different amounts of tokens consumed with no transparency and no guarantees of success.",
+            "published_utc": "2026-05-05T09:00:43+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Why most zero-trust architectures fail at the traffic layer",
+            "link": "https://www.csoonline.com/article/4166689/why-most-zero-trust-architectures-fail-at-the-traffic-layer-2.html",
+            "summary": "",
+            "published_utc": "2026-05-05T09:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Trellix Reveals Unauthorized Access to Source Code",
+            "link": "https://www.infosecurity-magazine.com/news/trellix-reveals-unauthorized/",
+            "summary": "Security vendor Trellix has suffered a breach involving unauthorized access",
+            "published_utc": "2026-05-05T08:55:00+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "10 Anzeichen für einen schlechten CSO",
@@ -184,32 +275,11 @@
             "published_utc": "2026-05-04T14:10:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "The rise and risks of agent management platforms",
-            "link": "https://www.zdnet.com/article/the-rise-and-risks-of-agent-management-platforms/",
-            "summary": "Agent management platforms offer orchestration and operational discipline to growing networks of agents.",
-            "published_utc": "2026-05-04T14:09:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Give your 'human-level agents' a proper head start with these 3 best practices",
-            "link": "https://www.zdnet.com/article/doing-these-three-things-at-the-beginning-of-agentic-ai-will-make-everything-smoother/",
-            "summary": "Focusing on governance, evaluation, and starting small can increase your AI agents' prospects for making it into production",
-            "published_utc": "2026-05-04T14:08:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "They don’t hack, they borrow: How fraudsters target credit unions",
             "link": "https://www.bleepingcomputer.com/news/security/they-dont-hack-they-borrow-how-fraudsters-target-credit-unions/",
             "summary": "Fraudsters aren't hacking credit unions, they are exploiting normal business processes. Flare reveals how structured loan fraud methods use stolen ide...",
             "published_utc": "2026-05-04T13:42:51+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The 5 myths of the agentic coding apocalypse",
-            "link": "https://www.zdnet.com/article/agentic-coding-apocalypse/",
-            "summary": "Agentic AI promises faster coding, but hidden risks in testing, security, and maintenance could derail projects unless developers rethink how they man...",
-            "published_utc": "2026-05-04T13:41:00+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -345,13 +415,6 @@
             "published_utc": "2026-05-03T18:11:25+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "US Military Reaches Deals With 7 Tech Companies to Use Their AI on Classified Systems",
-            "link": "https://www.securityweek.com/us-military-reaches-deals-with-7-tech-companies-to-use-their-ai-on-classified-systems/",
-            "summary": "",
-            "published_utc": "2026-05-03T16:21:36+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Telegram Mini Apps abused for crypto scams, Android malware delivery",
             "link": "https://www.bleepingcomputer.com/news/security/telegram-mini-apps-abused-for-crypto-scams-android-malware-delivery/",
@@ -359,39 +422,11 @@
             "published_utc": "2026-05-03T14:11:21+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Critrical cPanel flaw mass-exploited in \"Sorry\" ransomware attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/",
-            "summary": "A new disclosed cPanel flaw tracked as CVE-2026-41940 is being mass-exploited to breach websites and encrypt data in \"Sorry\" ransomware attacks. [...]",
-            "published_utc": "2026-05-02T21:54:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "ConsentFix v3 attacks target Azure with automated OAuth abuse",
-            "link": "https://www.bleepingcomputer.com/news/security/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse/",
-            "summary": "A new attack type, dubbed ConsentFix v3, has been circulating on hacker forums, building on the previous technique by adding automation and scaling po...",
-            "published_utc": "2026-05-02T14:32:25+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "New Bluekit Phishing Kit Features AI Assistant",
-            "link": "https://www.securityweek.com/new-bluekit-phishing-kit-features-ai-assistant/",
-            "summary": "",
-            "published_utc": "2026-05-02T10:50:00+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "Disneyland Now Uses Face Recognition on Visitors",
             "link": "https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/",
             "summary": "Plus: The NSA tests Anthropic’s Mythos Preview to find vulnerabilities, a Finnish teen is charged over the Scattered Spider hacking spree, and more.",
             "published_utc": "2026-05-02T10:30:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft tests modern Windows Run, says it's faster than legacy dialog",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-modern-windows-run-says-its-faster-than-legacy-dialog/",
-            "summary": "Microsoft has confirmed that Windows 11 is getting a new modern Run dialog with dark mode support and faster performance in a new preview build. [...]",
-            "published_utc": "2026-05-02T00:18:05+00:00"
         },
         {
             "source": "CSO Online",
@@ -574,20 +609,6 @@
             "link": "https://www.infosecurity-magazine.com/news/cyber-number-one-global-people/",
             "summary": "Marsh’s 2026 People Risks survey finds cyber‑related challenges dominate, as cyber‑threat literacy tops risks and cyber and AI skills shortages rise",
             "published_utc": "2026-04-30T09:10:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Stopping the quiet drift toward excessive agency with re-permissioning",
-            "link": "https://www.csoonline.com/article/4165067/stopping-the-quiet-drift-toward-excessive-agency-with-re-permissioning.html",
-            "summary": "",
-            "published_utc": "2026-04-30T09:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "ODNI to CISOs on threat assessments: You’re on your own",
-            "link": "https://www.csoonline.com/article/4165221/odni-to-cisos-on-threat-assessments-youre-on-your-own.html",
-            "summary": "",
-            "published_utc": "2026-04-30T09:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
@@ -910,13 +931,6 @@
             "link": "https://www.infosecurity-magazine.com/news/silent-subject-phishing-campaigns/",
             "summary": "Null subject phishing campaigns bypass filters and target VIPs with QR code and RMM abuse",
             "published_utc": "2026-04-22T13:00:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "ICE Uses Graphite Spyware",
-            "link": "https://www.schneier.com/blog/archives/2026/04/ice-uses-graphite-spyware.html",
-            "summary": "",
-            "published_utc": "2026-04-22T11:02:25+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2739,25 +2753,11 @@
             "published_utc": "2026-02-23T11:30:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "Jackpotting Surge Costs Banks Over $20m, Warns FBI",
-            "link": "https://www.infosecurity-magazine.com/news/jackpotting-surge-costs-banks-20m/",
-            "summary": "A new FBI Flash alert claims $20m was lost to ATM jackpotting attacks in 2025 alone",
-            "published_utc": "2026-02-23T10:30:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "Faking it on the phone: How to tell if a voice call is AI or not",
             "link": "https://www.welivesecurity.com/en/business-security/faking-it-phone-how-tell-voice-call-ai/",
             "summary": "Can you believe your ears? Increasingly, the answer is no. Here’s what’s at stake for your business, and how to beat the deepfakers.",
             "published_utc": "2026-02-23T10:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "University of Mississippi Medical Center Still Offline After Ransomware Attack",
-            "link": "https://www.infosecurity-magazine.com/news/university-mississippi-medical/",
-            "summary": "University of Mississippi Medical Center is still scrambling to respond to a ransomware attack last Thursday",
-            "published_utc": "2026-02-23T08:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
