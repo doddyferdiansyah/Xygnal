@@ -1,6 +1,125 @@
 {
-    "lastUpdatedUTC": "2026-05-05T12:03:54.737004+00:00",
+    "lastUpdatedUTC": "2026-05-05T17:25:22.833152+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "CISA pushes critical infrastructure operators to prepare to work in isolation",
+            "link": "https://www.csoonline.com/article/4167389/cisa-pushes-critical-infrastructure-operators-to-prepare-to-work-in-isolation.html",
+            "summary": "",
+            "published_utc": "2026-05-05T17:20:27+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "60Hz vs. 120Hz vs. 165Hz: I've tested dozens of TVs, and here's what's best for your home",
+            "link": "https://www.zdnet.com/article/what-refresh-rate-is-best-for-your-tv/",
+            "summary": "The latest TVs are pushing the boundaries of what screens can visualize, but how much is too much? I break down the reasons to go higher or lower on r...",
+            "published_utc": "2026-05-05T17:00:38+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Why this 16-inch gaming laptop is a smarter buy than a desktop in 2026",
+            "link": "https://www.zdnet.com/article/dell-alienware-16-area-51-review/",
+            "summary": "Dell's Alienware 16 Area-51 is a powerhouse gaming laptop with a luxurious mechanical keyboard and matte OLED display.",
+            "published_utc": "2026-05-05T16:07:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "These 5 critical Windows Defender settings are off by default - turn them on ASAP",
+            "link": "https://www.zdnet.com/article/critical-windows-defender-settings-off-by-defaullt-how-to-enable/",
+            "summary": "Windows Defender has several security settings, including some you need to switch on to get the utmost protection. Here's why.",
+            "published_utc": "2026-05-05T16:03:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Microsoft Flags Mass Phishing Campaign Using Fake Compliance Emails",
+            "link": "https://www.infosecurity-magazine.com/news/microsoft-phishing-fake-compliance/",
+            "summary": "Microsoft researchers warn of a large-scale phishing campaign using fake compliance emails to steal credentials, targeting 35,000 users across 13,000 ...",
+            "published_utc": "2026-05-05T16:00:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Oracle will patch more often to counter AI cybersecurity threat",
+            "link": "https://www.csoonline.com/article/4167335/oracle-will-patch-more-often-to-counter-ai-cybersecurity-threat.html",
+            "summary": "",
+            "published_utc": "2026-05-05T15:26:35+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "North Korean APT Targets Yanbian Gamers via Trojanized Platform",
+            "link": "https://www.infosecurity-magazine.com/news/scarcruft-birdcall-android-yanbian/",
+            "summary": "ESET warns that North Korean hackers compromised a Yanbian gaming site in a supply‑chain attack, trojanizing Windows and Android software to spy on users",
+            "published_utc": "2026-05-05T15:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "This critical Linux vulnerability is putting millions of systems at risk - how to protect yours",
+            "link": "https://www.zdnet.com/article/critical-copy-fail-vulnerability-affecting-linux-systems-how-to-mitigate/",
+            "summary": "Don't ignore the Copy Fail Linux vulnerability. It's serious, but protecting yourself from it is easy.",
+            "published_utc": "2026-05-05T14:47:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Microsoft Warns of Sophisticated Phishing Campaign Targeting US Organizations",
+            "link": "https://www.securityweek.com/microsoft-warns-of-sophisticated-phishing-campaign-targeting-us-organizations/",
+            "summary": "",
+            "published_utc": "2026-05-05T14:45:04+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "FTC to ban data broker Kochava from selling Americans’ location data",
+            "link": "https://www.bleepingcomputer.com/news/security/ftc-to-ban-data-broker-kochava-from-selling-americans-location-data/",
+            "summary": "The FTC will ban data broker Kochava and its subsidiary, Collective Data Solutions (CDS), from selling location data without consumers' explicit conse...",
+            "published_utc": "2026-05-05T14:39:53+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "The EOL Blind Spot in Your CVE Feed: What SCA Tools Don't Check.",
+            "link": "https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-dont-check/",
+            "summary": "Critical vulnerabilities can exist in open source software your scanners don't check. HeroDevs reveals how EOL software creates blind spots in CVE fee...",
+            "published_utc": "2026-05-05T14:00:10+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Fake SSA Emails Drive Venomous#Helper Phishing Campaign",
+            "link": "https://www.infosecurity-magazine.com/news/ssa-emails-venomous-helper-phishing/",
+            "summary": "Venomous#Helper attackers impersonate the US Social Security Administration to deploy signed RMM software and maintain persistent access across US net...",
+            "published_utc": "2026-05-05T14:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I've tested dozens of Sony headphones - these 4 tweaks get me the best sound quality",
+            "link": "https://www.zdnet.com/article/best-sony-headphones-settings/",
+            "summary": "Sony's headphones and earbuds are full of hidden but useful features. Here are the ones I can always rely on.",
+            "published_utc": "2026-05-05T13:30:47+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Hacker Conversations: Joey Melo on Hacking AI",
+            "link": "https://www.securityweek.com/hacker-conversations-joey-melo-on-hacking-ai/",
+            "summary": "",
+            "published_utc": "2026-05-05T13:30:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Vimeo data breach exposes personal information of 119,000 people",
+            "link": "https://www.bleepingcomputer.com/news/security/vimeo-data-breach-exposes-personal-information-of-119-000-people/",
+            "summary": "The ShinyHunters extortion gang stole personal information belonging to over 119,000 people after hacking the Vimeo online video platform in April, ac...",
+            "published_utc": "2026-05-05T13:03:46+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Critical Bug Could Expose 300,000 Ollama Deployments to Information Theft",
+            "link": "https://www.securityweek.com/critical-bug-could-expose-300000-ollama-deployments-to-information-theft/",
+            "summary": "",
+            "published_utc": "2026-05-05T12:39:36+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How I'm backing up my Samsung Messages before the service ends in July - local and cloud options",
+            "link": "https://www.zdnet.com/article/how-to-back-up-samsung-messages-local-and-cloud-options/",
+            "summary": "You texts don't have to disappear with the app. Here's how to keep them - before they're gone for good.",
+            "published_utc": "2026-05-05T12:16:34+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Bose's new home theater system is optimized for your various TV setups - but can it beat Sony?",
@@ -139,7 +258,7 @@
             "title": "What you'll pay for AI agents will be wildly variable and unpredictable",
             "link": "https://www.zdnet.com/article/your-cost-for-ai-agents-will-be-wildly-variable-and-unpredictable/",
             "summary": "A test of leading AI agents found vastly different amounts of tokens consumed with no transparency and no guarantees of success.",
-            "published_utc": "2026-05-05T09:00:43+00:00"
+            "published_utc": "2026-05-05T09:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -208,7 +327,7 @@
             "source": "BleepingComputer",
             "title": "Amazon SES increasingly abused in phishing to evade detection",
             "link": "https://www.bleepingcomputer.com/news/security/amazon-ses-increasingly-abused-in-phishing-to-evade-detection/",
-            "summary": "The Amazon Simple Email Service (SES) is being increasingly abused to send convincing phishing emails that can bypass standard security filters and re...",
+            "summary": "The Amazon Simple Email Service (SES) is being increasingly abused, a cybersecurity company's telemetry data shows, to send convincing phishing emails...",
             "published_utc": "2026-05-04T20:03:28+00:00"
         },
         {
@@ -247,27 +366,6 @@
             "published_utc": "2026-05-04T17:51:28+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Your ChatGPT account just got more secure, but you have to opt in - here's how",
-            "link": "https://www.zdnet.com/article/chatgpt-advanced-account-security/",
-            "summary": "OpenAI adds a feature called Advanced Account Security with four opt-in settings designed to safeguard your account and personal data.",
-            "published_utc": "2026-05-04T17:38:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Whatever you do, don't buy cheap DisplayPort cables for your PC - here's why",
-            "link": "https://www.zdnet.com/article/dont-buy-cheap-displayport-cables-or-they-can-brick-your-pc/",
-            "summary": "The smallest manufacturing error can cause big issues with your PC. Here's how to prevent it from happening in the first place.",
-            "published_utc": "2026-05-04T17:32:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Miss Windows XP or 7? Then I have a free, open-source alternative for you",
-            "link": "https://www.zdnet.com/article/reactos-will-soon-be-much-easier-to-install/",
-            "summary": "If you're looking for a Windows alternative, but aren't ready for Linux, the open-source ReactOS is now as easy to install as Windows.",
-            "published_utc": "2026-05-04T17:28:10+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "Trellix Source Code Repository Breached",
             "link": "https://www.securityweek.com/trellix-source-code-repository-breached/",
@@ -282,25 +380,11 @@
             "published_utc": "2026-05-04T17:15:27+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "5 MacOS command line tools I swear by over their GUI counterparts",
-            "link": "https://www.zdnet.com/article/macos-command-line-utilities-that-are-far-more-useful-than-you-think/",
-            "summary": "If you want to get as efficient as possible in MacOS, maybe it's time to give a few terminal apps a try.",
-            "published_utc": "2026-05-04T16:47:44+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Trellix discloses data breach after source code repository hack",
             "link": "https://www.bleepingcomputer.com/news/security/trellix-discloses-data-breach-after-source-code-repository-hack/",
             "summary": "Cybersecurity firm Trellix disclosed a data breach after attackers gained access to \"a portion\" of its source code repository. [...]",
             "published_utc": "2026-05-04T16:25:07+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Hundreds of readers bought these headphones this year (and they're not from Bose, Sony, or Apple)",
-            "link": "https://www.zdnet.com/article/most-popular-headphones-from-our-readers-2026/",
-            "summary": "I spend all year testing the latest headphones and earbuds, and the ones our readers loved the most were not what I expected.",
-            "published_utc": "2026-05-04T16:00:48+00:00"
         },
         {
             "source": "WIRED Security",
@@ -310,32 +394,11 @@
             "published_utc": "2026-05-04T14:45:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "How this travel company's AI rollout drove a 73% satisfaction boost: A 5-step playbook for your business",
-            "link": "https://www.zdnet.com/article/ai-rollout-playbook-for-businesses-to-drive-user-satisfaction/",
-            "summary": "Too many AI explorations get stuck at the starting gate. Here's how to ensure your agents reach the finishing line.",
-            "published_utc": "2026-05-04T14:12:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "They don’t hack, they borrow: How fraudsters target credit unions",
             "link": "https://www.bleepingcomputer.com/news/security/they-dont-hack-they-borrow-how-fraudsters-target-credit-unions/",
             "summary": "Fraudsters aren't hacking credit unions, they are exploiting normal business processes. Flare reveals how structured loan fraud methods use stolen ide...",
             "published_utc": "2026-05-04T13:42:51+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Cybersecurity M&A Roundup: 33 Deals Announced in April 2026",
-            "link": "https://www.securityweek.com/cybersecurity-ma-roundup-33-deals-announced-in-april-2026/",
-            "summary": "",
-            "published_utc": "2026-05-04T13:02:28+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "DigiCert Revokes Certificates After Support Portal Hack",
-            "link": "https://www.securityweek.com/digicert-revokes-certificates-after-support-portal-hack/",
-            "summary": "",
-            "published_utc": "2026-05-04T12:46:53+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -373,20 +436,6 @@
             "published_utc": "2026-05-04T11:28:15+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Exploitation of ‘Copy Fail’ Linux Vulnerability Begins",
-            "link": "https://www.securityweek.com/exploitation-of-copy-fail-linux-vulnerability-begins/",
-            "summary": "",
-            "published_utc": "2026-05-04T10:42:33+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft confirms April Windows updates cause backup failures",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-backup-failures-caused-by-vulnerable-driver-block/",
-            "summary": "Microsoft has confirmed that the April 2026 security updates are causing failures in third-party backup applications using the psmounterex.sys driver....",
-            "published_utc": "2026-05-04T10:40:11+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Hacking Polymarket",
             "link": "https://www.schneier.com/blog/archives/2026/05/hacking-polymarket.html",
@@ -420,20 +469,6 @@
             "link": "https://www.csoonline.com/article/3493123/was-ist-ein-botnet.html",
             "summary": "",
             "published_utc": "2026-05-04T04:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Instructure confirms data breach, ShinyHunters claims attack",
-            "link": "https://www.bleepingcomputer.com/news/security/instructure-confirms-data-breach-shinyhunters-claims-attack/",
-            "summary": "Educational tech giant Instructure has confirmed that data was stolen in a cyberattack, with the ShinyHunters extortion gang claiming responsibility. ...",
-            "published_utc": "2026-05-03T22:16:27+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft Defender wrongly flags DigiCert certs as Trojan:Win32/Cerdigent.A!dha",
-            "link": "https://www.bleepingcomputer.com/news/security/microsoft-defender-wrongly-flags-digicert-certs-as-trojan-win32-cerdigentadha/",
-            "summary": "Microsoft Defender is detecting legitimate DigiCert root certificates as Trojan:Win32/Cerdigent.A!dha, resulting in widespread false-positive alerts, ...",
-            "published_utc": "2026-05-03T18:11:25+00:00"
         },
         {
             "source": "WIRED Security",
@@ -581,20 +616,6 @@
             "link": "https://www.infosecurity-magazine.com/news/uk-education-sector-faces-surge-in/",
             "summary": "The British public education sector has faced the nation’s most dramatic increase in cyber breach prevalence over the past year",
             "published_utc": "2026-04-30T13:30:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Dismantle implicit trust in OT networks, CISA tells critical infrastructure operators",
-            "link": "https://www.csoonline.com/article/4165486/dismantle-implicit-trust-in-ot-networks-cisa-tells-critical-infrastructure-operators.html",
-            "summary": "",
-            "published_utc": "2026-04-30T12:10:14+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Max-severity RCE flaw found in Google Gemini CLI",
-            "link": "https://www.csoonline.com/article/4165470/max-severity-rce-flaw-found-in-google-gemini-cli.html",
-            "summary": "",
-            "published_utc": "2026-04-30T11:31:34+00:00"
         },
         {
             "source": "Schneier",
@@ -2737,27 +2758,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ai-powered-cyberattacks-up/",
             "summary": "CrowdStrike Global Threat Report warns how adversaries are leveraging AI to make campaigns more efficient and more effective",
             "published_utc": "2026-02-24T10:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Shai-Hulud-Like Worm Targets Developers via npm and AI Tools",
-            "link": "https://www.infosecurity-magazine.com/news/shai-hulud-like-worm-devs-npm-ai/",
-            "summary": "Supply chain worm mimicking Shai-Hulud malware spread via malicious npm packages, targeting AI tools has been identified by security researchers",
-            "published_utc": "2026-02-23T16:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Fraud Investigation Reveals Sophisticated Python Malware",
-            "link": "https://www.infosecurity-magazine.com/news/fraud-investigation-python-malware/",
-            "summary": "Sophisticated Python malware uncovered in fraud probe shows obfuscation, disposable infrastructure",
-            "published_utc": "2026-02-23T15:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Russian Cyber Threat Actor Uses GenAI to Compromise Fortinet Firewalls",
-            "link": "https://www.infosecurity-magazine.com/news/russian-threat-actor-genai/",
-            "summary": "A low-skilled Russian-speaking attacker has used GenAI tools to help deploy a successful attack workflow targeting FortiGate instances",
-            "published_utc": "2026-02-23T12:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
