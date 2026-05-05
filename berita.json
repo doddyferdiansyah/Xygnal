@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-05-05T19:22:23.872252+00:00",
+    "lastUpdatedUTC": "2026-05-05T21:04:30.026201+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "This weird Pixel feature is one of my favorite tools - too bad Google may remove it soon",
+            "link": "https://www.zdnet.com/article/google-removing-pixel-thermometer/",
+            "summary": "Leaks hint that the next Pixel lineup will lose the thermometer for \"Pixel Glow\" LEDs",
+            "published_utc": "2026-05-05T20:45:17+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Edge browser leaves passwords exposed in plain text, says researcher",
+            "link": "https://www.csoonline.com/article/4167437/edge-browser-leaves-passwords-exposed-in-plain-text-says-researcher-2.html",
+            "summary": "",
+            "published_utc": "2026-05-05T19:57:24+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "CISA mulls new three-day remediation deadline for critical flaws",
+            "link": "https://www.csoonline.com/article/4167422/cisa-mulls-new-three-day-remediation-deadline-for-critical-flaws.html",
+            "summary": "",
+            "published_utc": "2026-05-05T19:33:36+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "DAEMON Tools trojanized in supply-chain attack to deploy backdoor",
@@ -353,9 +374,9 @@
         },
         {
             "source": "BleepingComputer",
-            "title": "Amazon SES increasingly abused in phishing to evade detection",
-            "link": "https://www.bleepingcomputer.com/news/security/amazon-ses-increasingly-abused-in-phishing-to-evade-detection/",
-            "summary": "The Amazon Simple Email Service (SES) is being increasingly abused, a cybersecurity company's telemetry data shows, to send convincing phishing emails...",
+            "title": "Researchers report Amazon SES abused in phishing to evade detection",
+            "link": "https://www.bleepingcomputer.com/news/security/researchers-report-amazon-ses-abused-in-phishing-to-evade-detection/",
+            "summary": "Cybersecurity firm Kaspersky reports that the Amazon Simple Email Service (SES) is being increasingly abused to send convincing phishing emails that c...",
             "published_utc": "2026-05-04T20:03:28+00:00"
         },
         {
@@ -371,13 +392,6 @@
             "link": "https://www.zdnet.com/article/the-future-of-it-service-delivery-is-built-on-ai-and-automation/",
             "summary": "IT teams and Managed Service Providers are under pressure to deliver faster service in an increasingly complex threat landscape. They can no longer do...",
             "published_utc": "2026-05-04T18:39:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I found an AirTag alternative that's twice as durable and works with Android phones",
-            "link": "https://www.zdnet.com/article/ugreen-finder-pro-tag-review/",
-            "summary": "The latest Ugreen Finder Pro tags are some of the toughest trackers I've tested.",
-            "published_utc": "2026-05-04T18:30:41+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -560,20 +574,6 @@
             "link": "https://www.csoonline.com/article/4140208/4-ways-to-prepare-your-soc-for-agentic-ai.html",
             "summary": "",
             "published_utc": "2026-05-01T07:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "‘Trivial’ exploit can give attackers root access to Linux kernel",
-            "link": "https://www.csoonline.com/article/4165824/trivial-exploit-can-give-attackers-root-access-to-linux-kernel.html",
-            "summary": "",
-            "published_utc": "2026-05-01T01:14:26+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Bank regulator sounds warning over cybersecurity threat posed by AI models",
-            "link": "https://www.csoonline.com/article/4165751/bank-regulator-sounds-warning-over-cybersecurity-threat-posed-by-ai-models.html",
-            "summary": "",
-            "published_utc": "2026-04-30T23:36:42+00:00"
         },
         {
             "source": "WIRED Security",
