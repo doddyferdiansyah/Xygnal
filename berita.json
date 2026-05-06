@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2026-05-06T16:40:56.434638+00:00",
+    "lastUpdatedUTC": "2026-05-06T18:17:40.645271+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "New Cisco DoS flaw requires manual reboot to revive devices",
+            "link": "https://www.bleepingcomputer.com/news/security/new-cisco-dos-flaw-requires-manual-reboot-to-revive-devices/",
+            "summary": "Cisco patched a Crosswork Network Controller and Network Services Orchestrator denial-of-service vulnerability that requires manually rebooting target...",
+            "published_utc": "2026-05-06T18:06:21+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Why Chrome may have quietly downloaded a 4GB file to your PC - and how to get rid of it",
+            "link": "https://www.zdnet.com/article/google-may-have-downloaded-a-4gb-chrome-file-to-your-pc-heres-why/",
+            "summary": "The file, which appears to be related to Google's on-device AI model, is harmless enough. Here's why some users may still be concerned.",
+            "published_utc": "2026-05-06T17:54:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Why Edge stores your passwords in plaintext, according to Microsoft",
+            "link": "https://www.zdnet.com/article/microsoft-edge-passwords-ram-plaintext/",
+            "summary": "The behavior is by design, says Microsoft. But is this still a security risk?",
+            "published_utc": "2026-05-06T17:36:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I tested 5G signals of AT&T, T-Mobile, and Verizon in rural America - here's how your carrier did",
+            "link": "https://www.zdnet.com/article/5g-in-rural-america-google-pixel/",
+            "summary": "I've tried using 5G in cities and on interstates. Now, I'm going through small towns with three Samsung phones in hand.",
+            "published_utc": "2026-05-06T17:30:50+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Iranian state-backed spies pose as ransomware slingers in false flag attacks",
+            "link": "https://www.csoonline.com/article/4167985/iranian-state-backed-spies-pose-as-ransomware-slingers-in-false-flag-attacks.html",
+            "summary": "",
+            "published_utc": "2026-05-06T16:45:57+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "DAEMON Tools devs confirm breach, release malware-free version",
+            "link": "https://www.bleepingcomputer.com/news/security/daemon-tools-devs-confirm-breach-release-malware-free-version/",
+            "summary": "Disc Soft Limited, the maker of DAEMON Tools Lite, confirmed that the software had been trojanized in a supply chain attack and released a new, malwar...",
+            "published_utc": "2026-05-06T16:43:30+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Your Claude agents can 'dream' now - how Anthropic's new feature works",
@@ -23,6 +65,13 @@
             "published_utc": "2026-05-06T15:49:12+00:00"
         },
         {
+            "source": "InfosecurityMag",
+            "title": "CloudZ Malware Abuses Phone Link to Steal SMS OTPs",
+            "link": "https://www.infosecurity-magazine.com/news/cloudz-rat-pheno-phone-link-otp/",
+            "summary": "Cisco Talos uncovers CloudZ RAT and Pheno plugin abusing Microsoft Phone Link to intercept SMS OTPs",
+            "published_utc": "2026-05-06T15:00:00+00:00"
+        },
+        {
             "source": "SecurityWeek",
             "title": "Autonomous Offensive Security Firm XBOW Raises $35 Million",
             "link": "https://www.securityweek.com/autonomous-offensive-security-firm-xbow-raises-35-million/",
@@ -42,13 +91,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/why-ransomware-attacks-succeed-even-when-backups-exist/",
             "summary": "Backups don't fail because they're missing, they fail because attackers destroy them first. Acronis explains how ransomware targets backup systems bef...",
             "published_utc": "2026-05-06T14:04:14+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I tested 5G across rural America during a 3-day roadtrip - and it didn't go well",
-            "link": "https://www.zdnet.com/article/testing-5g-in-rural-america-on-roadtrip-results/",
-            "summary": "I've tried using 5G in cities and on interstates. Now, I'm going through small towns. Here's what I found.",
-            "published_utc": "2026-05-06T13:55:06+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -143,7 +185,7 @@
         },
         {
             "source": "SecurityWeek",
-            "title": "CISA: Critical Infrastructure Must Master Isolation, Recovery",
+            "title": "CISA Launches ‘CI Fortify’ to Prepare Critical Infrastructure for Geopolitical Cyber Conflict",
             "link": "https://www.securityweek.com/cisa-critical-infrastructure-must-master-isolation-recovery/",
             "summary": "",
             "published_utc": "2026-05-06T10:15:34+00:00"
@@ -338,20 +380,6 @@
             "published_utc": "2026-05-05T17:00:38+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Why this 16-inch gaming laptop is a smarter buy than a desktop in 2026",
-            "link": "https://www.zdnet.com/article/dell-alienware-16-area-51-review/",
-            "summary": "Dell's Alienware 16 Area-51 is a powerhouse gaming laptop with a luxurious mechanical keyboard and matte OLED display.",
-            "published_utc": "2026-05-05T16:07:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "These 5 critical Windows Defender settings are off by default - turn them on ASAP",
-            "link": "https://www.zdnet.com/article/critical-windows-defender-settings-off-by-defaullt-how-to-enable/",
-            "summary": "Windows Defender has several security settings, including some you need to switch on to get the utmost protection. Here's why.",
-            "published_utc": "2026-05-05T16:03:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Microsoft Flags Mass Phishing Campaign Using Fake Compliance Emails",
             "link": "https://www.infosecurity-magazine.com/news/microsoft-phishing-fake-compliance/",
@@ -450,25 +478,11 @@
             "published_utc": "2026-05-05T10:13:17+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "CloudZ malware abuses Microsoft Phone Link to steal SMS and OTPs",
-            "link": "https://www.bleepingcomputer.com/news/security/cloudz-malware-abuses-microsoft-phone-link-to-steal-sms-and-otps/",
-            "summary": "A new version of the CloudZ remote access tool (RAT) is deploying a previously unseen malicious plugin called Pheno that hijacks the Microsoft Phone L...",
-            "published_utc": "2026-05-05T10:03:52+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "NCSC Warns of an AI-Fuelled “Vulnerability Patch Wave”",
             "link": "https://www.infosecurity-magazine.com/news/ncsc-warns-aifuelled-vulnerability/",
             "summary": "The UK's National Cyber Security Centre is urging organizations to prepare for glut of new software updates",
             "published_utc": "2026-05-05T09:40:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "ScarCruft hackers push BirdCall Android malware via game platform",
-            "link": "https://www.bleepingcomputer.com/news/security/scarcruft-hackers-push-birdcall-android-malware-via-game-platform/",
-            "summary": "The North Korean hacker group APT37 has been delivering an Android version of a backdoor called BirdCall in a supply-chain attack through a video game...",
-            "published_utc": "2026-05-05T09:04:13+00:00"
         },
         {
             "source": "CSO Online",
@@ -581,13 +595,6 @@
             "link": "https://www.wired.com/story/dangerous-new-linux-exploit-gives-attackers-root-access-to-countless-computers/",
             "summary": "The exploit, dubbed CopyFail and tracked as CVE-2026-31431, allows hackers to take over PCs and data center servers. The Linux vulnerabilities have be...",
             "published_utc": "2026-05-01T20:30:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Windows shell spoofing vulnerability puts sensitive data at risk",
-            "link": "https://www.csoonline.com/article/4166080/windows-shell-spoofing-vulnerability-puts-sensitive-data-at-risk.html",
-            "summary": "",
-            "published_utc": "2026-05-01T20:01:51+00:00"
         },
         {
             "source": "InfosecurityMag",
