@@ -1,6 +1,90 @@
 {
-    "lastUpdatedUTC": "2026-05-06T11:48:34.630017+00:00",
+    "lastUpdatedUTC": "2026-05-06T14:15:59.440347+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Why ransomware attacks succeed even when backups exist",
+            "link": "https://www.bleepingcomputer.com/news/security/why-ransomware-attacks-succeed-even-when-backups-exist/",
+            "summary": "Backups don't fail because they're missing, they fail because attackers destroy them first. Acronis explains how ransomware targets backup systems bef...",
+            "published_utc": "2026-05-06T14:04:14+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I tested 5G across rural America during a 3-day roadtrip - and it didn't go well",
+            "link": "https://www.zdnet.com/article/testing-5g-in-rural-america-on-roadtrip-results/",
+            "summary": "I've tried using 5G in cities and on interstates. Now, I'm going through small towns. Here's what I found.",
+            "published_utc": "2026-05-06T13:55:06+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Herd Security Raises $3 Million for AI-Powered Training Platform",
+            "link": "https://www.securityweek.com/herd-security-raises-3-million-for-ai-powered-training-platform/",
+            "summary": "",
+            "published_utc": "2026-05-06T13:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "CISA Urges Critical Infrastructure Providers to Make Plans to Remain Operational if hit by Cyber-Attack",
+            "link": "https://www.infosecurity-magazine.com/news/cisa-ci-fortify-isolation-recovery/",
+            "summary": "CISA’s CI Fortify initiative aim for critical infrastructure operators to build isolation & recovery",
+            "published_utc": "2026-05-06T13:15:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "MuddyWater hackers use Chaos ransomware as a decoy in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/muddywater-hackers-use-chaos-ransomware-as-a-decoy-in-attacks/",
+            "summary": "The MuddyWater Iranian hackers disguised their operations as a Chaos ransomware attack, relying on  Microsoft Teams social engineering to gain access ...",
+            "published_utc": "2026-05-06T13:02:52+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "This useful Pixel phone sensor is one of my favorite tools - but Google may replace it soon",
+            "link": "https://www.zdnet.com/article/google-removing-pixel-thermometer/",
+            "summary": "Leaks hint that the next Pixel lineup will lose the thermometer in favor of 'Pixel Glow' LEDs.",
+            "published_utc": "2026-05-06T13:00:45+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Google's AI Overviews will show you advice from other people now",
+            "link": "https://www.zdnet.com/article/googles-ai-overviews-update-shows-advice-from-other-people/",
+            "summary": "Google is updating AI Overviews with five new features, including an improved way to preview and explore sources.",
+            "published_utc": "2026-05-06T13:00:02+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Iranian APT Intrusion Masquerades as Chaos Ransomware Attack",
+            "link": "https://www.securityweek.com/iranian-apt-intrusion-masquerades-as-chaos-ransomware-attack/",
+            "summary": "",
+            "published_utc": "2026-05-06T13:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Iran-Linked APT Posed as Chaos Ransomware Member in Espionage Campaign",
+            "link": "https://www.infosecurity-magazine.com/news/iran-linked-apt-chaos-ransomware/",
+            "summary": "Rapid7 reveals an Iranian false flag operation masquerading as a Chaos ransomware attack",
+            "published_utc": "2026-05-06T13:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Webinar: Why network incidents escalate and how to fix response gaps",
+            "link": "https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-escalate-and-how-to-fix-response-gaps/",
+            "summary": "Most network incidents don't escalate due to a lack of alerts; they escalate when response breaks down. This webinar explores how to fix gaps in triag...",
+            "published_utc": "2026-05-06T12:56:32+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I tested ReMarkable's 'cheap' Paper Pure tablet, and it hardly feels like a downgrade",
+            "link": "https://www.zdnet.com/article/remarkable-paper-pure-review/",
+            "summary": "The Paper Pure pairs an accessible design with modest hardware while retaining ReMarkable's niche functionality.",
+            "published_utc": "2026-05-06T12:00:38+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Romanian Man Extradited to US for Role in Hacking Scheme 17 Years Ago",
+            "link": "https://www.securityweek.com/romanian-extradited-to-us-for-role-in-hacking-scheme-17-years-ago/",
+            "summary": "",
+            "published_utc": "2026-05-06T11:57:40+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "New malware turns Linux systems into P2P attack networks",
@@ -154,13 +238,6 @@
             "link": "https://www.csoonline.com/article/4167465/supply-chain-attacks-take-aim-at-your-ai-coding-agents.html",
             "summary": "",
             "published_utc": "2026-05-05T21:18:33+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "This weird Pixel feature is one of my favorite tools - too bad Google may remove it soon",
-            "link": "https://www.zdnet.com/article/google-removing-pixel-thermometer/",
-            "summary": "Leaks hint that the next Pixel lineup will lose the thermometer for \"Pixel Glow\" LEDs",
-            "published_utc": "2026-05-05T20:45:17+00:00"
         },
         {
             "source": "CSO Online",
@@ -317,25 +394,11 @@
             "published_utc": "2026-05-05T13:03:46+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Critical Bug Could Expose 300,000 Ollama Deployments to Information Theft",
-            "link": "https://www.securityweek.com/critical-bug-could-expose-300000-ollama-deployments-to-information-theft/",
-            "summary": "",
-            "published_utc": "2026-05-05T12:39:36+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "Bose's new home theater system is optimized for your various TV setups - but can it beat Sony?",
             "link": "https://www.zdnet.com/article/bose-lifestyle-ultra-lineup-announcement/",
             "summary": "Bose's Lifestyle Ultra lineup consists of three new products, and software is both one of their greatest benefits and a major drawback.",
             "published_utc": "2026-05-05T12:00:48+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Critical Remote Code Execution Vulnerability Patched in Android",
-            "link": "https://www.securityweek.com/critical-remote-code-execution-vulnerability-patched-in-android-2/",
-            "summary": "",
-            "published_utc": "2026-05-05T11:58:44+00:00"
         },
         {
             "source": "CSO Online",
@@ -352,13 +415,6 @@
             "published_utc": "2026-05-05T11:24:48+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Critical, High-Severity Vulnerabilities Patched in Apache MINA, HTTP Server",
-            "link": "https://www.securityweek.com/critical-high-severity-vulnerabilities-patched-in-apache-mina-http-server/",
-            "summary": "",
-            "published_utc": "2026-05-05T11:19:59+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "AI Adoption Outpaces Safety Policies, Leaving Organizations Exposed to Cyber Risk",
             "link": "https://www.infosecurity-magazine.com/news/ai-adoption-outpaces-safety-policy/",
@@ -371,13 +427,6 @@
             "link": "https://www.csoonline.com/article/4167092/stealthy-malware-abuses-microsoft-phone-link-to-siphon-sms-otps-from-enterprise-pcs.html",
             "summary": "",
             "published_utc": "2026-05-05T11:05:45+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Google Maps vs. Apple Maps: I've tried two of the best navigation apps - and this one wins",
-            "link": "https://www.zdnet.com/article/google-maps-vs-apple-maps/",
-            "summary": "Apple Maps has improved over the years, but how does it compare to Google Maps today? Here's how I'm evaluating the two.",
-            "published_utc": "2026-05-05T11:00:49+00:00"
         },
         {
             "source": "Schneier",
@@ -401,13 +450,6 @@
             "published_utc": "2026-05-05T10:03:52+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Trojan abuses Microsoft Phone Link app to steal your passwords",
-            "link": "https://www.zdnet.com/article/trojan-abuses-microsoft-phone-link-app-to-steal-passwords/",
-            "summary": "Cross-device syncing isn't always safe. Here's everything you need to know about this threat.",
-            "published_utc": "2026-05-05T10:00:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "NCSC Warns of an AI-Fuelled “Vulnerability Patch Wave”",
             "link": "https://www.infosecurity-magazine.com/news/ncsc-warns-aifuelled-vulnerability/",
@@ -427,13 +469,6 @@
             "link": "https://www.csoonline.com/article/4166157/cisos-step-up-to-the-security-workforce-challenge.html",
             "summary": "",
             "published_utc": "2026-05-05T09:01:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The best mobile antivirus software of 2026: Expert tested and reviewed",
-            "link": "https://www.zdnet.com/article/best-mobile-antivirus-software/",
-            "summary": "My hands-on guide to the best mobile antivirus apps covers top picks like Bitdefender, Sophos, and more for Android and iOS.",
-            "published_utc": "2026-05-05T09:00:59+00:00"
         },
         {
             "source": "WeLiveSecurity",
@@ -462,27 +497,6 @@
             "link": "https://www.csoonline.com/article/4166824/anthropic-mythos-spurs-white-house-to-weigh-pre-release-reviews-for-high-risk-ai-models.html",
             "summary": "",
             "published_utc": "2026-05-05T00:24:55+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Weaver E-cology critical bug exploited in attacks since March",
-            "link": "https://www.bleepingcomputer.com/news/security/weaver-e-cology-critical-bug-exploited-in-attacks-since-march/",
-            "summary": "Hackers have been exploiting a critical vulnerability (CVE-2026-22679) in the Weaver E-cology office automation since mid-March to run discovery comma...",
-            "published_utc": "2026-05-04T22:12:57+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Researchers report Amazon SES abused in phishing to evade detection",
-            "link": "https://www.bleepingcomputer.com/news/security/researchers-report-amazon-ses-abused-in-phishing-to-evade-detection/",
-            "summary": "Cybersecurity firm Kaspersky reports that the Amazon Simple Email Service (SES) is being increasingly abused to send convincing phishing emails that c...",
-            "published_utc": "2026-05-04T20:03:28+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Backdoored PyTorch Lightning package drops credential stealer",
-            "link": "https://www.bleepingcomputer.com/news/security/backdoored-pytorch-lightning-package-drops-credential-stealer/",
-            "summary": "A malicious version of the PyTorch Lightning package published on the Python Package Index (PyPI) delivers a credential-stealing payload targeting bro...",
-            "published_utc": "2026-05-04T17:15:27+00:00"
         },
         {
             "source": "WIRED Security",
@@ -2751,20 +2765,6 @@
             "link": "https://www.infosecurity-magazine.com/news/north-korean-lazarus-group-medusa/",
             "summary": "Ransomware Medusa linked to North Korean hackers targets US healthcare amid ongoing attacks",
             "published_utc": "2026-02-24T14:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "AI Accelerates Attacker Breakout Time to Just Four Minutes",
-            "link": "https://www.infosecurity-magazine.com/news/ai-accelerates-attack-breakout/",
-            "summary": "ReliaQuest claims AI has reduced breakout and exfiltration time to under 10 minutes",
-            "published_utc": "2026-02-24T13:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Chinese AI Firms Hit Claude with Distillation Attacks, Anthropic Warns",
-            "link": "https://www.infosecurity-magazine.com/news/chinese-ai-claude-distillation/",
-            "summary": "Anthropic accused DeepSeek, Moonshot and MiniMax of illicitly using Claude to steal some of the AI model’s capabilities",
-            "published_utc": "2026-02-24T11:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
