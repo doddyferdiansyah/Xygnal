@@ -1,6 +1,69 @@
 {
-    "lastUpdatedUTC": "2026-05-07T09:33:53.070052+00:00",
+    "lastUpdatedUTC": "2026-05-07T11:48:39.651076+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Cisco Patches High-Severity Vulnerabilities in Enterprise Products",
+            "link": "https://www.securityweek.com/cisco-patches-high-severity-vulnerabilities-in-enterprise-products/",
+            "summary": "",
+            "published_utc": "2026-05-07T11:24:01+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Critical Palo Alto Networks software bug hits exposed firewalls",
+            "link": "https://www.csoonline.com/article/4168343/critical-palo-alto-networks-software-bug-hits-exposed-firewalls.html",
+            "summary": "",
+            "published_utc": "2026-05-07T11:13:36+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Smart Glasses for the Authorities",
+            "link": "https://www.schneier.com/blog/archives/2026/05/smart-glasses-for-the-authorities.html",
+            "summary": "",
+            "published_utc": "2026-05-07T11:07:07+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "Thousands of Vibe-Coded Apps Expose Corporate and Personal Data on the Open Web",
+            "link": "https://www.wired.com/story/thousands-of-vibe-coded-apps-expose-corporate-and-personal-data-on-the-open-web/",
+            "summary": "Companies like Lovable, Base44, Replit, and Netlify use AI to let anyone build a web app in seconds—and in thousands of cases, spill highly sensitive ...",
+            "published_utc": "2026-05-07T11:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Palo Alto Networks firewall zero-day exploited for nearly a month",
+            "link": "https://www.bleepingcomputer.com/news/security/pan-os-firewall-rce-zero-day-exploited-in-attacks-since-april-9/",
+            "summary": "Palo Alto Networks warned customers that suspected state-sponsored hackers have been exploiting a critical-severity PAN-OS firewall zero-day vulnerabi...",
+            "published_utc": "2026-05-07T10:57:59+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Gemini CLI Vulnerability Could Have Led to Code Execution, Supply Chain Attack",
+            "link": "https://www.securityweek.com/gemini-cli-vulnerability-could-have-led-to-code-execution-supply-chain-attack/",
+            "summary": "",
+            "published_utc": "2026-05-07T10:39:34+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Best travel VPNs of 2026: Expert tested and reviewed",
+            "link": "https://www.zdnet.com/article/best-travel-vpn/",
+            "summary": "If you want to avoid missing your favorite show on your next vacation, check out our favorite travel VPNs of 2026.",
+            "published_utc": "2026-05-07T10:30:37+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Fake Claude AI website delivers new 'Beagle' Windows malware",
+            "link": "https://www.bleepingcomputer.com/news/security/fake-claude-ai-website-delivers-new-beagle-windows-malware/",
+            "summary": "A fake version for the Claude AI website offers a malicious Claude-Pro Relay download that pushes a previously undocumented backdoor for Windows named...",
+            "published_utc": "2026-05-07T10:02:35+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "10 secret Netflix codes I use to find hidden movies - try them now",
+            "link": "https://www.zdnet.com/article/netflix-codes-how-to-find-hidden-movies-free/",
+            "summary": "Netflix codes make it easy to find buried genres and micro-categories. Here's how to use them - and my favorite ones.",
+            "published_utc": "2026-05-07T10:00:39+00:00"
+        },
         {
             "source": "InfosecurityMag",
             "title": "Daemon Tools Developer Confirms Software Was Trojanized",
@@ -331,13 +394,6 @@
             "published_utc": "2026-05-06T09:01:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "The best 40-inch TVs of 2026: Expert tested and reviewed",
-            "link": "https://www.zdnet.com/article/best-40-inch-tv/",
-            "summary": "We tested and compared the best 40-inch class TVs from brands like Samsung, Hisense, and more to help you find the right fit for your space.",
-            "published_utc": "2026-05-06T09:00:40+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Train like you fight: Why cyber operations teams need no-notice drills",
             "link": "https://www.csoonline.com/article/4167391/train-like-you-fight-why-cyber-operations-teams-need-no-notice-drills.html",
@@ -357,27 +413,6 @@
             "link": "https://www.securityweek.com/government-scientific-entities-hit-via-daemon-tools-supply-chain-attack/",
             "summary": "",
             "published_utc": "2026-05-06T08:33:40+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Oracle Debuts Monthly Critical Security Patch Updates",
-            "link": "https://www.securityweek.com/oracle-debuts-monthly-critical-security-patch-updates/",
-            "summary": "",
-            "published_utc": "2026-05-06T06:32:17+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Palo Alto Networks to Patch Zero-Day Exploited to Hack Firewalls",
-            "link": "https://www.securityweek.com/palo-alto-networks-to-patch-zero-day-exploited-to-hack-firewalls/",
-            "summary": "",
-            "published_utc": "2026-05-06T04:46:23+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Your job search is getting riskier, says LinkedIn - 9 ways to tell real listings from scams",
-            "link": "https://www.zdnet.com/article/linkedin-red-flags-job-search-scams/",
-            "summary": "One in three job recruiters has been impersonated by scammers, according to a new LinkedIn survey. Here's what to look out for and how to stay safe in...",
-            "published_utc": "2026-05-06T04:01:45+00:00"
         },
         {
             "source": "CSO Online",
@@ -471,25 +506,11 @@
             "published_utc": "2026-05-05T14:39:53+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "The EOL Blind Spot in Your CVE Feed: What SCA Tools Miss",
-            "link": "https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-miss/",
-            "summary": "Critical vulnerabilities can exist in open source software your scanners don't check. HeroDevs reveals how EOL software creates blind spots in CVE fee...",
-            "published_utc": "2026-05-05T14:00:10+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Fake SSA Emails Drive Venomous#Helper Phishing Campaign",
             "link": "https://www.infosecurity-magazine.com/news/ssa-emails-venomous-helper-phishing/",
             "summary": "Venomous#Helper attackers impersonate the US Social Security Administration to deploy signed RMM software and maintain persistent access across US net...",
             "published_utc": "2026-05-05T14:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Vimeo data breach exposes personal information of 119,000 people",
-            "link": "https://www.bleepingcomputer.com/news/security/vimeo-data-breach-exposes-personal-information-of-119-000-people/",
-            "summary": "The ShinyHunters extortion gang stole personal information belonging to over 119,000 people after hacking the Vimeo online video platform in April, ac...",
-            "published_utc": "2026-05-05T13:03:46+00:00"
         },
         {
             "source": "CSO Online",
@@ -567,13 +588,6 @@
             "link": "https://www.csoonline.com/article/4166698/the-winter-games-effect-when-gold-meets-ddos.html",
             "summary": "",
             "published_utc": "2026-05-04T18:56:48+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "How orphaned applications are quietly fueling your shadow IT problem",
-            "link": "https://www.csoonline.com/article/4166641/how-orphaned-applications-are-quietly-fueling-your-shadow-it-problem.html",
-            "summary": "",
-            "published_utc": "2026-05-04T16:52:37+00:00"
         },
         {
             "source": "WIRED Security",
@@ -917,13 +931,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ai-old-cybersecurity-mistakes/",
             "summary": "AI tools are not just creating new vulnerabilities, they are reviving old security failures, warned Jurgen Kutscher, VP of Mandiant Consulting",
             "published_utc": "2026-04-24T12:10:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Hiding Bluetooth Trackers in Mail",
-            "link": "https://www.schneier.com/blog/archives/2026/04/hiding-bluetooth-trackers-in-mail.html",
-            "summary": "",
-            "published_utc": "2026-04-24T11:01:03+00:00"
         },
         {
             "source": "WeLiveSecurity",
@@ -1575,13 +1582,6 @@
             "link": "https://www.wired.com/story/men-are-buying-hacking-tools-to-use-against-their-wives-and-friends/",
             "summary": "In Telegram groups, men are sharing thousands of nonconsensual images of women and girls, buying spyware, and engaging in doxing and sexual abuse.",
             "published_utc": "2026-04-08T07:00:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "Iran-Linked Hackers Are Sabotaging US Energy and Water Infrastructure",
-            "link": "https://www.wired.com/story/iran-linked-hackers-are-sabotaging-us-energy-and-water-infrastructure/",
-            "summary": "As Trump threatens Iranian infrastructure, the US government warns that Iran has carried out its own digital attacks against US critical infrastructure.",
-            "published_utc": "2026-04-07T20:13:51+00:00"
         },
         {
             "source": "KrebsOnSecurity",
