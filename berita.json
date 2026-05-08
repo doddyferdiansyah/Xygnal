@@ -1,6 +1,55 @@
 {
-    "lastUpdatedUTC": "2026-05-07T23:06:58.145212+00:00",
+    "lastUpdatedUTC": "2026-05-08T03:19:17.581289+00:00",
     "articles": [
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Canvas Breach Disrupts Schools & Colleges Nationwide",
+            "link": "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/",
+            "summary": "An ongoing data extortion attack targeting the widely-used education technology platform Canvas disrupted classes and coursework at school districts a...",
+            "published_utc": "2026-05-08T02:58:46+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Palo Alto Networks firewall flaw has been exploited for several weeks",
+            "link": "https://www.csoonline.com/article/4168343/critical-palo-alto-networks-software-bug-hits-exposed-firewalls.html",
+            "summary": "",
+            "published_utc": "2026-05-08T01:19:01+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Become a millionaire by bug hunting on Android",
+            "link": "https://www.csoonline.com/article/4168634/now-you-can-earn-millions-by-finding-bugs-in-android.html",
+            "summary": "",
+            "published_utc": "2026-05-08T01:13:04+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "After using Lenovo's $2,600 Yoga, I'm taking premium Windows laptops seriously again",
+            "link": "https://www.zdnet.com/article/lenovo-pro-9i-aura-edition-review/",
+            "summary": "Lenovo's Pro 9i Aura Edition is a powerful laptop that fields strong, sustained performance, a vivid display, and a robust cooling system.",
+            "published_utc": "2026-05-08T01:01:01+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Roku apps loading slow? 9 quick fixes I try before blaming my Wi-Fi",
+            "link": "https://www.zdnet.com/article/roku-apps-loading-slowly-how-to-fix-clear-cache/",
+            "summary": "If your Roku is lagging, with apps struggling to open, it might not be your Wi-Fi. Here's what I do to fix performance.",
+            "published_utc": "2026-05-08T01:00:44+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Google Maps vs. Apple Maps: I compared two of the best navigation apps - here's my pick",
+            "link": "https://www.zdnet.com/article/google-maps-vs-apple-maps-2026/",
+            "summary": "Apple Maps has improved over the years, but how does it compare to Google Maps today? Here's the verdict after extended use.",
+            "published_utc": "2026-05-08T00:43:04+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "13 new critical holes in JavaScript sandbox allow execution of arbitrary code",
+            "link": "https://www.csoonline.com/article/4168568/13-new-critical-holes-in-javascript-sandbox-allow-execution-of-arbitrary-code.html",
+            "summary": "",
+            "published_utc": "2026-05-08T00:13:41+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Canvas login portals hacked in mass ShinyHunters extortion campaign",
@@ -91,13 +140,6 @@
             "link": "https://www.zdnet.com/article/hundreds-of-readers-bought-this-e-ink-tablet-and-i-highly-recommend-it/",
             "summary": "ZDNET readers love this E Ink tablet, thanks to its paper-to-pen writing experience and versatile uses.",
             "published_utc": "2026-05-07T17:04:27+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "This Lenovo laptop might be its most competitive Dell XPS rival yet - my test results prove it",
-            "link": "https://www.zdnet.com/article/lenovo-pro-9i-aura-edition-review/",
-            "summary": "Lenovo's Pro 9i Aura Edition is a powerful laptop that boasts strong sustained performance, a vivid display, and a robust cooling system.",
-            "published_utc": "2026-05-07T16:26:00+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -415,13 +457,6 @@
             "published_utc": "2026-05-06T17:36:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I tested 5G signals of AT&T, T-Mobile, and Verizon in rural America - here's how your carrier did",
-            "link": "https://www.zdnet.com/article/5g-in-rural-america-google-pixel/",
-            "summary": "I've tried using 5G in cities and on interstates. Now, I'm going through small towns with three Samsung phones in hand.",
-            "published_utc": "2026-05-06T17:30:50+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Iranian state-backed spies pose as ransomware slingers in false flag attacks",
             "link": "https://www.csoonline.com/article/4167985/iranian-state-backed-spies-pose-as-ransomware-slingers-in-false-flag-attacks.html",
@@ -434,13 +469,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/daemon-tools-devs-confirm-breach-release-malware-free-version/",
             "summary": "Disc Soft Limited, the maker of DAEMON Tools Lite, confirmed that the software had been trojanized in a supply chain attack and released a new, malwar...",
             "published_utc": "2026-05-06T16:43:30+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Your Claude agents can 'dream' now - how Anthropic's new feature works",
-            "link": "https://www.zdnet.com/article/your-claude-agents-can-dream-now-how-anthropics-new-feature-works/",
-            "summary": "The naming choice for Anthropic's latest update is yet another instance of the company humanizing its products.",
-            "published_utc": "2026-05-06T16:15:00+00:00"
         },
         {
             "source": "WIRED Security",
@@ -569,25 +597,11 @@
             "published_utc": "2026-05-05T14:00:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "AI finds 20-year-old bugs in PostgreSQL and MariaDB",
-            "link": "https://www.csoonline.com/article/4167137/ai-finds-20-year-old-bugs-in-postgresql-and-mariadb.html",
-            "summary": "",
-            "published_utc": "2026-05-05T11:53:47+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "AI Adoption Outpaces Safety Policies, Leaving Organizations Exposed to Cyber Risk",
             "link": "https://www.infosecurity-magazine.com/news/ai-adoption-outpaces-safety-policy/",
             "summary": "ISACA report warns that while AI has become the norm, many organizations are yet to formally apply safety or security policies around its use",
             "published_utc": "2026-05-05T11:10:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Stealthy malware abuses Microsoft Phone Link to siphon SMS OTPs from enterprise PCs",
-            "link": "https://www.csoonline.com/article/4167092/stealthy-malware-abuses-microsoft-phone-link-to-siphon-sms-otps-from-enterprise-pcs.html",
-            "summary": "",
-            "published_utc": "2026-05-05T11:05:45+00:00"
         },
         {
             "source": "Schneier",
@@ -602,13 +616,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ncsc-warns-aifuelled-vulnerability/",
             "summary": "The UK's National Cyber Security Centre is urging organizations to prepare for glut of new software updates",
             "published_utc": "2026-05-05T09:40:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "CISOs step up to the security workforce challenge",
-            "link": "https://www.csoonline.com/article/4166157/cisos-step-up-to-the-security-workforce-challenge.html",
-            "summary": "",
-            "published_utc": "2026-05-05T09:01:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
@@ -2499,13 +2506,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ghanaian-pleads-guilty-100m/",
             "summary": "Derrick Van Yeboah admitted he stole over $10m in romance scams as part of crime gang",
             "published_utc": "2026-03-09T10:00:00+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "How AI Assistants are Moving the Security Goalposts",
-            "link": "https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/",
-            "summary": "AI-based assistants or \"agents\" -- autonomous programs that have access to the user's computer, files, online services and can automate virtually any ...",
-            "published_utc": "2026-03-08T23:35:42+00:00"
         },
         {
             "source": "InfosecurityMag",
