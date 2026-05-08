@@ -1,6 +1,55 @@
 {
-    "lastUpdatedUTC": "2026-05-08T07:49:49.336880+00:00",
+    "lastUpdatedUTC": "2026-05-08T09:23:53.125819+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "Pen tests show AI security flaws far more severe than legacy software bugs",
+            "link": "https://www.csoonline.com/article/4166185/pen-tests-show-ai-security-flaws-far-more-severe-than-legacy-software-bugs.html",
+            "summary": "",
+            "published_utc": "2026-05-08T09:01:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "PCPJack Campaign Boots TeamPCP Off Compromised Machines",
+            "link": "https://www.infosecurity-magazine.com/news/pcpjack-campaign-boots-teampcp-off/",
+            "summary": "SentinelOne believes the PCPJack campaign may be the brainchild of a former TeamPCP member",
+            "published_utc": "2026-05-08T09:00:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Your refresh plan has a CVE blind spot",
+            "link": "https://www.csoonline.com/article/4168484/your-refresh-plan-has-a-cve-blind-spot.html",
+            "summary": "",
+            "published_utc": "2026-05-08T09:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Former govt contractor convicted for wiping dozens of federal databases",
+            "link": "https://www.bleepingcomputer.com/news/security/former-govt-contractor-convicted-for-wiping-dozens-of-federal-databases/",
+            "summary": "A 34-year-old Virginia man was found guilty of conspiring to destroy dozens of government databases after getting fired from his job as a federal cont...",
+            "published_utc": "2026-05-08T08:45:04+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "‘PCPJack’ Worm Removes TeamPCP Infections, Steals Credentials",
+            "link": "https://www.securityweek.com/pcpjack-worm-removes-teampcp-infections-steals-credentials/",
+            "summary": "",
+            "published_utc": "2026-05-08T08:32:34+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "Meet Rassvet, Russia’s Answer to Starlink",
+            "link": "https://www.wired.com/story/meet-rassvet-russias-answer-to-starlink/",
+            "summary": "With the launch of the first 16 satellites, Russia begins construction of a network for satellite internet that aims to cover the entire country by 20...",
+            "published_utc": "2026-05-08T08:30:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Ransomware Group Takes Credit for Trellix Hack",
+            "link": "https://www.securityweek.com/ransomware-group-takes-credit-for-trellix-hack/",
+            "summary": "",
+            "published_utc": "2026-05-08T07:58:04+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "New Linux 'Dirty Frag' zero-day gives root on all major distros",
@@ -254,25 +303,11 @@
             "published_utc": "2026-05-07T13:45:48+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Vendor Says Daemon Tools Supply Chain Attack Contained",
-            "link": "https://www.securityweek.com/vendor-says-daemon-tools-supply-chain-attack-contained/",
-            "summary": "",
-            "published_utc": "2026-05-07T13:21:02+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Fake Claude AI Site Drops Beagle Backdoor on Windows Users",
             "link": "https://www.infosecurity-magazine.com/news/fake-claude-site-beagle-backdoor/",
             "summary": "Sophos finds fake Claude site spreading DonutLoader and a new Beagle backdoor via DLL sideloading",
             "published_utc": "2026-05-07T13:15:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "AI Coding Agents Could Fuel Next Supply Chain Crisis",
-            "link": "https://www.securityweek.com/ai-coding-agents-could-fuel-next-supply-chain-crisis/",
-            "summary": "",
-            "published_utc": "2026-05-07T13:00:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -366,6 +401,13 @@
             "published_utc": "2026-05-07T09:00:00+00:00"
         },
         {
+            "source": "WeLiveSecurity",
+            "title": "Fake call logs, real payments: How CallPhantom tricks Android users",
+            "link": "https://www.welivesecurity.com/en/eset-research/fake-call-logs-real-payments-how-callphantom-tricks-android-users/",
+            "summary": "ESET researchers uncovered fraudulent apps on Google Play that claim to provide the call history “for any number” and had been downloaded more than se...",
+            "published_utc": "2026-05-07T08:51:19+00:00"
+        },
+        {
             "source": "InfosecurityMag",
             "title": "Researchers Spot Uptick in Use of Vercel for Phishing Campaigns",
             "link": "https://www.infosecurity-magazine.com/news/researchers-spot-uptick-vercel/",
@@ -377,6 +419,13 @@
             "title": "Ten years later, has the GDPR fulfilled its purpose?",
             "link": "https://www.csoonline.com/article/4167584/ten-years-later-has-the-gdpr-fulfilled-its-purpose.html",
             "summary": "",
+            "published_utc": "2026-05-07T07:00:00+00:00"
+        },
+        {
+            "source": "WeLiveSecurity",
+            "title": "Fixing the password problem is as easy as 123456",
+            "link": "https://www.welivesecurity.com/en/cybersecurity/fixing-password-problem-as-easy-as-123456/",
+            "summary": "How come it’s still possible to ‘secure’ an online account with a six-digit string?",
             "published_utc": "2026-05-07T07:00:00+00:00"
         },
         {
@@ -448,13 +497,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts/",
             "summary": "A critical vulnerability in the popular Node.js sandboxing library vm2 allows escaping the sandbox and executing arbitrary code on the host system. [...]",
             "published_utc": "2026-05-06T18:38:38+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "New Cisco DoS flaw requires manual reboot to revive devices",
-            "link": "https://www.bleepingcomputer.com/news/security/new-cisco-dos-flaw-requires-manual-reboot-to-revive-devices/",
-            "summary": "Cisco patched a Crosswork Network Controller and Network Services Orchestrator denial-of-service vulnerability that requires manually rebooting target...",
-            "published_utc": "2026-05-06T18:06:21+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -569,25 +611,11 @@
             "published_utc": "2026-05-05T19:33:36+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "CISA pushes critical infrastructure operators to prepare to work in isolation",
-            "link": "https://www.csoonline.com/article/4167389/cisa-pushes-critical-infrastructure-operators-to-prepare-to-work-in-isolation.html",
-            "summary": "",
-            "published_utc": "2026-05-05T17:20:27+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Microsoft Flags Mass Phishing Campaign Using Fake Compliance Emails",
             "link": "https://www.infosecurity-magazine.com/news/microsoft-phishing-fake-compliance/",
             "summary": "Microsoft researchers warn of a large-scale phishing campaign using fake compliance emails to steal credentials, targeting 35,000 users across 13,000 ...",
             "published_utc": "2026-05-05T16:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Oracle will patch more often to counter AI cybersecurity threat",
-            "link": "https://www.csoonline.com/article/4167335/oracle-will-patch-more-often-to-counter-ai-cybersecurity-threat.html",
-            "summary": "",
-            "published_utc": "2026-05-05T15:26:35+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1560,13 +1588,6 @@
             "title": "Governance Gaps Emerge as AI Agents Drive 76% Increase in NHIs",
             "link": "https://www.infosecurity-magazine.com/news/governance-gaps-agents-76-increase/",
             "summary": "SANS Institute reveals that AI agents are behind a 76% surge in non-human identities",
-            "published_utc": "2026-04-09T10:00:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "Politicians Are Spending More Money on Security as They Increasingly Become Targets",
-            "link": "https://www.wired.com/story/political-campaign-security-spending/",
-            "summary": "Political candidates are purchasing more home alarms, bulletproof vests, and other protections amid rising fears of political violence.",
             "published_utc": "2026-04-09T10:00:00+00:00"
         },
         {
@@ -2760,13 +2781,6 @@
             "published_utc": "2026-02-26T12:09:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "Global Cyber Agencies Urge Immediate Patching of Cisco SD-WAN Zero Day",
-            "link": "https://www.infosecurity-magazine.com/news/immediate-patch-cisco-catalyst/",
-            "summary": "The US and allies are urging Cisco Catalyst SD-WAN customers to hunt for signs of exploitation",
-            "published_utc": "2026-02-26T09:30:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "Faking it on the phone: How to tell if a voice call is AI or not",
             "link": "https://www.welivesecurity.com/en/business-security/faking-it-phone-how-tell-voice-call-ai/",
@@ -3248,20 +3262,6 @@
             "link": "https://www.welivesecurity.com/en/malware/svg-files-spreading-malware/",
             "summary": "What you see is not always what you get as cybercriminals increasingly weaponize SVG files as delivery vectors for stealthy malware",
             "published_utc": "2025-09-22T10:24:45+00:00"
-        },
-        {
-            "source": "WeLiveSecurity",
-            "title": "Gamaredon X Turla collab",
-            "link": "https://www.welivesecurity.com/en/eset-research/gamaredon-x-turla-collab/",
-            "summary": "Notorious APT group Turla collaborates with Gamaredon, both FSB-associated groups, to compromise high‑profile targets in Ukraine",
-            "published_utc": "2025-09-19T08:55:00+00:00"
-        },
-        {
-            "source": "WeLiveSecurity",
-            "title": "Small businesses, big targets: Protecting your business against ransomware",
-            "link": "https://www.welivesecurity.com/en/business-security/small-businesses-big-targets-protecting-business-ransomware/",
-            "summary": "Long known to be a sweet spot for cybercriminals, small businesses are more likely to be victimized by ransomware than large enterprises",
-            "published_utc": "2025-09-18T09:00:00+00:00"
         },
         {
             "source": "Threatpost",
