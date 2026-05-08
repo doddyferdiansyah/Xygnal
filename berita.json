@@ -1,6 +1,20 @@
 {
-    "lastUpdatedUTC": "2026-05-08T13:51:48.749214+00:00",
+    "lastUpdatedUTC": "2026-05-08T15:23:45.708161+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "In Other News: Train Hacker Arrested, PamDOORa Linux Backdoor, New CISA Director Frontrunner",
+            "link": "https://www.securityweek.com/in-other-news-train-hacker-arrested-pamdoora-linux-backdoor-new-cisa-director-frontrunner/",
+            "summary": "",
+            "published_utc": "2026-05-08T14:30:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Why More Analysts Won’t Solve Your SOC’s Alert Problem",
+            "link": "https://www.bleepingcomputer.com/news/security/why-more-analysts-wont-solve-your-socs-alert-problem/",
+            "summary": "Attackers move faster than overwhelmed SOC teams can realistically investigate alerts. Prophet Security breaks down how AI can help analysts investiga...",
+            "published_utc": "2026-05-08T14:02:12+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Trellix source code breach claimed by RansomHouse hackers",
@@ -124,7 +138,7 @@
             "source": "BleepingComputer",
             "title": "New Linux 'Dirty Frag' zero-day gives root on all major distros",
             "link": "https://www.bleepingcomputer.com/news/security/new-linux-dirty-frag-zero-day-with-poc-exploit-gives-root-privileges/",
-            "summary": "A new Linux zero-day vulnerability, named Dirty Frag, allows local attackers to gain root privileges on most major Linux distributions with a single c...",
+            "summary": "A new Linux zero-day exploit, named Dirty Frag, allows local attackers to gain root privileges on most major Linux distributions with a single command...",
             "published_utc": "2026-05-08T07:45:24+00:00"
         },
         {
@@ -303,13 +317,6 @@
             "published_utc": "2026-05-07T15:20:51+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Boost Security Raises $4 Million for SDLC Defense Platform",
-            "link": "https://www.securityweek.com/boost-security-raises-4-million-for-sdlc-defense-platform/",
-            "summary": "",
-            "published_utc": "2026-05-07T14:51:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Legacy Security Tools Are Failing Data Protection, Capital One Software Report Finds",
             "link": "https://www.infosecurity-magazine.com/news/legacy-security-tools-are-failing/",
@@ -406,13 +413,6 @@
             "link": "https://www.wired.com/story/thousands-of-vibe-coded-apps-expose-corporate-and-personal-data-on-the-open-web/",
             "summary": "Companies like Lovable, Base44, Replit, and Netlify use AI to let anyone build a web app in seconds—and in thousands of cases, spill highly sensitive ...",
             "published_utc": "2026-05-07T11:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Palo Alto Networks firewall zero-day exploited for nearly a month",
-            "link": "https://www.bleepingcomputer.com/news/security/pan-os-firewall-rce-zero-day-exploited-in-attacks-since-april-9/",
-            "summary": "Palo Alto Networks warned customers that suspected state-sponsored hackers have been exploiting a critical-severity PAN-OS firewall zero-day vulnerabi...",
-            "published_utc": "2026-05-07T10:57:59+00:00"
         },
         {
             "source": "ZDNet Security",
