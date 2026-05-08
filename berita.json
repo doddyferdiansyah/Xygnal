@@ -1,6 +1,20 @@
 {
-    "lastUpdatedUTC": "2026-05-08T05:57:35.180180+00:00",
+    "lastUpdatedUTC": "2026-05-08T07:49:49.336880+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "New Linux 'Dirty Frag' zero-day gives root on all major distros",
+            "link": "https://www.bleepingcomputer.com/news/security/new-linux-dirty-frag-zero-day-with-poc-exploit-gives-root-privileges/",
+            "summary": "A new Linux zero-day vulnerability, named Dirty Frag, allows local attackers to gain root privileges on most major Linux distributions with a single c...",
+            "published_utc": "2026-05-08T07:45:24+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Vulnerability in Claude Extension for Chrome Exposes AI Agent to Takeover",
+            "link": "https://www.securityweek.com/vulnerability-in-claude-extension-for-chrome-exposes-ai-agent-to-takeover/",
+            "summary": "",
+            "published_utc": "2026-05-08T06:53:36+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Ivanti Patches EPMM Zero-Day Exploited in Targeted Attacks",
@@ -289,13 +303,6 @@
             "published_utc": "2026-05-07T12:00:08+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Webinar Today: Securing Identity Across Humans, Machines and AI",
-            "link": "https://www.securityweek.com/webinar-today-securing-identity-across-humans-machines-and-ai/",
-            "summary": "",
-            "published_utc": "2026-05-07T12:00:00+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Critical Palo Alto Networks software bug hits exposed firewalls",
             "link": "https://www.csoonline.com/article/4168343/critical-palo-alto-networks-software-bug-hits-exposed-firewalls.html",
@@ -469,13 +476,6 @@
             "link": "https://www.csoonline.com/article/4167985/iranian-state-backed-spies-pose-as-ransomware-slingers-in-false-flag-attacks.html",
             "summary": "",
             "published_utc": "2026-05-06T16:45:57+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "DAEMON Tools devs confirm breach, release malware-free version",
-            "link": "https://www.bleepingcomputer.com/news/security/daemon-tools-devs-confirm-breach-release-malware-free-version/",
-            "summary": "Disc Soft Limited, the maker of DAEMON Tools Lite, confirmed that the software had been trojanized in a supply chain attack and released a new, malwar...",
-            "published_utc": "2026-05-06T16:43:30+00:00"
         },
         {
             "source": "WIRED Security",
