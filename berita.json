@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2026-05-08T11:17:51.951321+00:00",
+    "lastUpdatedUTC": "2026-05-08T13:51:48.749214+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Trellix source code breach claimed by RansomHouse hackers",
+            "link": "https://www.bleepingcomputer.com/news/security/trellix-source-code-breach-claimed-by-ransomhouse-hackers/",
+            "summary": "The attack on the Trellix source code repository disclosed last week has been claimed by the RansomHouse threat group, which leaked a small set of ima...",
+            "published_utc": "2026-05-08T13:23:23+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Dell vs. Lenovo: I've tested dozens of laptops from both brands, and here's my pick",
+            "link": "https://www.zdnet.com/article/lenovo-vs-dell-laptops/",
+            "summary": "Dell and Lenovo specialize in PCs, laptops, and other computing products, but which one is better? This guide will help you make the right choice for ...",
+            "published_utc": "2026-05-08T13:20:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "CISA gives feds four days to patch Ivanti flaw exploited as zero-day",
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-four-days-to-patch-ivanti-flaw-exploited-as-zero-day/",
+            "summary": "CISA has given U.S. federal agencies four days to secure their networks against a high-severity vulnerability in Ivanti Endpoint Manager Mobile (EPMM)...",
+            "published_utc": "2026-05-08T12:16:32+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Polish Security Agency Reports ICS Breaches at Five Water Treatment Plants",
+            "link": "https://www.securityweek.com/polish-security-agency-reports-ics-breaches-at-five-water-treatment-plants/",
+            "summary": "",
+            "published_utc": "2026-05-08T11:46:06+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Claude in Chrome is taking orders from the wrong extensions",
+            "link": "https://www.csoonline.com/article/4168867/claude-in-chrome-is-taking-orders-from-the-wrong-extensions.html",
+            "summary": "",
+            "published_utc": "2026-05-08T11:31:27+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "AI Firm Braintrust Prompts API Key Rotation After Data Breach",
@@ -282,13 +317,6 @@
             "published_utc": "2026-05-07T14:50:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Claude Code OAuth Tokens Can Be Stolen Through Stealthy MCP Hijacking",
-            "link": "https://www.securityweek.com/claude-code-oauth-tokens-can-be-stolen-through-stealthy-mcp-hijacking/",
-            "summary": "",
-            "published_utc": "2026-05-07T14:33:06+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Cline Kanban Flaw Lets Websites Hijack AI Coding Agents",
             "link": "https://www.infosecurity-magazine.com/news/cline-kanban-websocket-hijack-ai/",
@@ -394,13 +422,6 @@
             "published_utc": "2026-05-07T10:30:37+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Fake Claude AI website delivers new 'Beagle' Windows malware",
-            "link": "https://www.bleepingcomputer.com/news/security/fake-claude-ai-website-delivers-new-beagle-windows-malware/",
-            "summary": "A fake version for the Claude AI website offers a malicious Claude-Pro Relay download that pushes a previously undocumented backdoor for Windows named...",
-            "published_utc": "2026-05-07T10:02:35+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Daemon Tools Developer Confirms Software Was Trojanized",
             "link": "https://www.infosecurity-magazine.com/news/daemon-tools-confirms-software/",
@@ -478,13 +499,6 @@
             "published_utc": "2026-05-07T01:00:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Hackers abuse Google ads for GoDaddy ManageWP login phishing",
-            "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-for-godaddy-managewp-login-phishing/",
-            "summary": "A phishing campaign delivered through Google sponsored search results is targeting credentials for ManageWP, GoDaddy's platform for managing fleets of...",
-            "published_utc": "2026-05-06T21:36:06+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "A Kid With a Fake Mustache Tricked an Online Age-Verification Tool",
             "link": "https://www.wired.com/story/a-kid-with-a-fake-mustache-tricked-an-online-age-verification-tool/",
@@ -518,13 +532,6 @@
             "link": "https://www.zdnet.com/article/google-may-have-downloaded-a-4gb-chrome-file-to-your-pc-heres-why/",
             "summary": "The file, which appears to be related to Google's on-device AI model, is harmless enough. Here's why some users may still be concerned.",
             "published_utc": "2026-05-06T17:54:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Why Edge stores your passwords in plaintext, according to Microsoft",
-            "link": "https://www.zdnet.com/article/microsoft-edge-passwords-ram-plaintext/",
-            "summary": "The behavior is by design, says Microsoft. But is this still a security risk?",
-            "published_utc": "2026-05-06T17:36:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -609,13 +616,6 @@
             "link": "https://www.csoonline.com/article/4167465/supply-chain-attacks-take-aim-at-your-ai-coding-agents.html",
             "summary": "",
             "published_utc": "2026-05-05T21:18:33+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Edge browser leaves passwords exposed in plain text, says researcher",
-            "link": "https://www.csoonline.com/article/4167437/edge-browser-leaves-passwords-exposed-in-plain-text-says-researcher-2.html",
-            "summary": "",
-            "published_utc": "2026-05-05T19:57:24+00:00"
         },
         {
             "source": "InfosecurityMag",
