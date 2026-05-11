@@ -1,6 +1,111 @@
 {
-    "lastUpdatedUTC": "2026-05-11T07:42:37.266854+00:00",
+    "lastUpdatedUTC": "2026-05-11T11:23:20.735178+00:00",
     "articles": [
+        {
+            "source": "Schneier",
+            "title": "LLMs and Text-in-Text Steganography",
+            "link": "https://www.schneier.com/blog/archives/2026/05/llms-and-text-in-text-steganography.html",
+            "summary": "",
+            "published_utc": "2026-05-11T11:04:29+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "US: FCC Relaxes Foreign-Made Router Ban to Allow for Security Updates",
+            "link": "https://www.infosecurity-magazine.com/news/us-fcc-relaxes-foreign-router-ban/",
+            "summary": "The same extension applies to security updates shipped to US-based users of foreign-made drones",
+            "published_utc": "2026-05-11T11:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "SailPoint Discloses GitHub Repository Hack",
+            "link": "https://www.securityweek.com/sailpoint-discloses-github-repository-hack/",
+            "summary": "",
+            "published_utc": "2026-05-11T10:52:23+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Fitbit Air vs. Whoop: I compared Google's screenless fitness tracker to the industry best",
+            "link": "https://www.zdnet.com/article/whoop-vs-fitbit-air-google/",
+            "summary": "Taking on Whoop, Google has unveiled the Fitbit Air. Here's which one is better, by the numbers.",
+            "published_utc": "2026-05-11T10:49:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "ShinyHunters Escalates Canvas Extortion with School by School Ransom Campaign",
+            "link": "https://www.infosecurity-magazine.com/news/shinyhunters-escalates-canvas/",
+            "summary": "ShinyHunters has escalated its Canvas extortion campaign, defacing hundreds of school login pages and threatening to leak stolen data unless instituti...",
+            "published_utc": "2026-05-11T10:05:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How I tweaked my Sonos speakers to upgrade their audio performance - easy and free",
+            "link": "https://www.zdnet.com/article/how-i-customized-my-sonos-speaker-for-better-audio/",
+            "summary": "If you've left your Sonos system's audio settings untouched, you're missing out on untapped audio potential.",
+            "published_utc": "2026-05-11T10:00:37+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "AI security is repeating endpoint security’s biggest mistake",
+            "link": "https://www.csoonline.com/article/4168991/ai-security-is-repeating-endpoint-securitys-biggest-mistake.html",
+            "summary": "",
+            "published_utc": "2026-05-11T10:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Checkmarx Jenkins AST Plugin Compromised in Supply Chain Attack",
+            "link": "https://www.securityweek.com/checkmarx-jenkins-ast-plugin-compromised-in-supply-chain-attack/",
+            "summary": "",
+            "published_utc": "2026-05-11T09:34:55+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "TrickMo Android banker adopts TON blockchain for covert comms",
+            "link": "https://www.bleepingcomputer.com/news/security/trickmo-android-banker-adopts-ton-blockchain-for-covert-comms/",
+            "summary": "A new variant of the TrickMo Android banking malware, delivered in campaigns targeting users across Europe, introduces new commands and uses The Open ...",
+            "published_utc": "2026-05-11T09:03:02+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "8 guiding principles for reskilling the SOC for agentic AI",
+            "link": "https://www.csoonline.com/article/4168681/8-guiding-principles-for-reskilling-the-soc-for-agentic-ai.html",
+            "summary": "",
+            "published_utc": "2026-05-11T09:01:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Zara Data Breach Impacts Nearly 200,000 Customers",
+            "link": "https://www.infosecurity-magazine.com/news/zara-data-breach-impacts-200000/",
+            "summary": "ShinyHunters gets away with emails and other data on 200,000 Zara customers",
+            "published_utc": "2026-05-11T09:00:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "1,800+ MCP servers exposed without authentication: How zero trust can secure the AI agent revolution",
+            "link": "https://www.csoonline.com/article/4168979/1800-mcp-servers-exposed-without-authentication-how-zero-trust-can-secure-the-ai-agent-revolution.html",
+            "summary": "",
+            "published_utc": "2026-05-11T09:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Canvas System Is Online After a Cyberattack Disrupted Thousands of Schools",
+            "link": "https://www.securityweek.com/canvas-system-is-online-after-a-cyberattack-disrupted-thousands-of-schools/",
+            "summary": "",
+            "published_utc": "2026-05-11T08:35:13+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "New ‘Dirty Frag’ Linux Vulnerability Possibly Exploited in Attacks",
+            "link": "https://www.securityweek.com/new-dirty-frag-linux-vulnerability-possibly-exploited-in-attacks/",
+            "summary": "",
+            "published_utc": "2026-05-11T08:15:28+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Police Shut Relaunched Crimenetwork Dark Web Marketplace",
+            "link": "https://www.infosecurity-magazine.com/news/police-shut-crimenetwork-may-2025/",
+            "summary": "Spanish police have arrested the suspected administrator of German dark web marketplace Crimenetwork",
+            "published_utc": "2026-05-11T08:15:00+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Resurrected ‘Crimenetwork’ Marketplace Taken Down, Administrator Arrested",
@@ -49,13 +154,6 @@
             "link": "https://www.zdnet.com/article/5g-in-rural-america-google-pixel/",
             "summary": "I've tested 5G in cities and on interstates. Now, I'm going through small towns with three Samsung phones in hand.",
             "published_utc": "2026-05-10T11:01:55+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How I customized my Sonos speaker to make my home theater sound truly immersive",
-            "link": "https://www.zdnet.com/article/how-i-customized-my-sonos-speaker-for-better-audio/",
-            "summary": "If you've left your Sonos system's audio settings untouched, you're missing out. Here's what you need to know about them.",
-            "published_utc": "2026-05-10T11:01:41+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -296,13 +394,6 @@
             "published_utc": "2026-05-08T08:45:04+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "‘PCPJack’ Worm Removes TeamPCP Infections, Steals Credentials",
-            "link": "https://www.securityweek.com/pcpjack-worm-removes-teampcp-infections-steals-credentials/",
-            "summary": "",
-            "published_utc": "2026-05-08T08:32:34+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "Meet Rassvet, Russia’s Answer to Starlink",
             "link": "https://www.wired.com/story/meet-rassvet-russias-answer-to-starlink/",
@@ -310,32 +401,11 @@
             "published_utc": "2026-05-08T08:30:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Ransomware Group Takes Credit for Trellix Hack",
-            "link": "https://www.securityweek.com/ransomware-group-takes-credit-for-trellix-hack/",
-            "summary": "",
-            "published_utc": "2026-05-08T07:58:04+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "New Linux 'Dirty Frag' zero-day gives root on all major distros",
             "link": "https://www.bleepingcomputer.com/news/security/new-linux-dirty-frag-zero-day-with-poc-exploit-gives-root-privileges/",
             "summary": "A new Linux zero-day exploit, named Dirty Frag, allows local attackers to gain root privileges on most major Linux distributions with a single command...",
             "published_utc": "2026-05-08T07:45:24+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Vulnerability in Claude Extension for Chrome Exposes AI Agent to Takeover",
-            "link": "https://www.securityweek.com/vulnerability-in-claude-extension-for-chrome-exposes-ai-agent-to-takeover/",
-            "summary": "",
-            "published_utc": "2026-05-08T06:53:36+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Ivanti Patches EPMM Zero-Day Exploited in Targeted Attacks",
-            "link": "https://www.securityweek.com/ivanti-patches-epmm-zero-day-exploited-in-targeted-attacks/",
-            "summary": "",
-            "published_utc": "2026-05-08T05:41:30+00:00"
         },
         {
             "source": "WIRED Security",
@@ -436,22 +506,8 @@
             "published_utc": "2026-05-07T18:35:50+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Australia warns of ClickFix attacks pushing Vidar Stealer malware",
-            "link": "https://www.bleepingcomputer.com/news/security/australia-warns-of-clickfix-attacks-pushing-vidar-stealer-malware/",
-            "summary": "The Australian Cyber Security Center (ACSC) is warning organizations of an ongoing malware campaign using the ClickFix social engineering technique to...",
-            "published_utc": "2026-05-07T18:00:59+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "ReMarkable Paper Pure vs. Amazon Kindle Scribe: I've written on both E Ink tablets - this one wins",
-            "link": "https://www.zdnet.com/article/remarkable-paper-pure-vs-amazon-kindle-scribe/",
-            "summary": "I compared two of the best black-and-white e-readers on the market; they look similar but have very different use cases.",
-            "published_utc": "2026-05-07T18:00:51+00:00"
-        },
-        {
             "source": "InfosecurityMag",
-            "title": "Legacy Security Tools Are Failing Data Protection, Capital One Software Report Finds",
+            "title": "Legacy Security Tools Failing Data Protection, Capital One Software Report Finds",
             "link": "https://www.infosecurity-magazine.com/news/legacy-security-tools-are-failing/",
             "summary": "Traditional network security tools are undermining data protection, with Forrester and Capital One Software research warning AI adoption is impossible...",
             "published_utc": "2026-05-07T14:50:00+00:00"
@@ -611,32 +667,11 @@
             "published_utc": "2026-05-06T10:36:59+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Poisoned truth: The quiet security threat inside enterprise AI",
-            "link": "https://www.csoonline.com/article/4166171/poisoned-truth-the-quiet-security-threat-inside-enterprise-ai.html",
-            "summary": "",
-            "published_utc": "2026-05-06T09:01:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Train like you fight: Why cyber operations teams need no-notice drills",
-            "link": "https://www.csoonline.com/article/4167391/train-like-you-fight-why-cyber-operations-teams-need-no-notice-drills.html",
-            "summary": "",
-            "published_utc": "2026-05-06T09:00:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "One in Eight Workers Has Sold Their Corporate Logins",
             "link": "https://www.infosecurity-magazine.com/news/one-eight-workers-sold-corporate/",
             "summary": "Cifas says that 13% of employees admit selling company credentials to a former colleague",
             "published_utc": "2026-05-06T08:40:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Die besten DAST- & SAST-Tools",
-            "link": "https://www.csoonline.com/article/3493611/dynamic-static-application-security-testing-die-besten-dast-sast-tools.html",
-            "summary": "",
-            "published_utc": "2026-05-06T04:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -917,13 +952,6 @@
             "link": "https://www.infosecurity-magazine.com/news/chinese-national-extradited-silk/",
             "summary": "Extradition links alleged MSS-directed hacker to  Silk Typhoon and COVID-19 espionage",
             "published_utc": "2026-04-28T12:30:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "What Anthropic’s Mythos Means for the Future of Cybersecurity",
-            "link": "https://www.schneier.com/blog/archives/2026/04/what-anthropics-mythos-means-for-the-future-of-cybersecurity.html",
-            "summary": "",
-            "published_utc": "2026-04-28T11:06:44+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2751,34 +2779,6 @@
             "link": "https://www.welivesecurity.com/en/mobile-security/mobile-app-permissions-still-matter-more-think/",
             "summary": "Start using a new app and you’ll often be asked to grant it permissions. But blindly accepting them could expose you to serious privacy and security r...",
             "published_utc": "2026-02-27T10:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Aeternum Botnet Shifts Command Control to Polygon Blockchain",
-            "link": "https://www.infosecurity-magazine.com/news/aeternum-botnet-c2-polygon/",
-            "summary": "New botnet Aeternum shifted C2 operations to Polygon blockchain, complicating takedown efforts",
-            "published_utc": "2026-02-26T16:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Darktrace Flags 32 Million Phishing Emails in 2025 as Identity Attacks Intensify",
-            "link": "https://www.infosecurity-magazine.com/news/32m-phishing-emails-detected-2025/",
-            "summary": "2025 saw 32M phishing emails, with identity threats surpassing vulnerabilities",
-            "published_utc": "2026-02-26T15:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Exploitable Vulnerabilities Present in 87% of Organizations",
-            "link": "https://www.infosecurity-magazine.com/news/exploitable-vulnerabilities-in-87/",
-            "summary": "Datadog report reveals two-fifths of services are affected by exploitable bugs",
-            "published_utc": "2026-02-26T14:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "UK's Data Watchdog Gets a Makeover to Match Growing Demands",
-            "link": "https://www.infosecurity-magazine.com/news/uk-data-watchdog-ico-makeover/",
-            "summary": "The UK’s Information Commissioner's Office is about to ditch single-leader model for CEO and board in a major shake-up",
-            "published_utc": "2026-02-26T14:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
