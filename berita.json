@@ -1,6 +1,139 @@
 {
-    "lastUpdatedUTC": "2026-05-11T11:23:20.735178+00:00",
+    "lastUpdatedUTC": "2026-05-11T14:56:00.832526+00:00",
     "articles": [
+        {
+            "source": "InfosecurityMag",
+            "title": "Rushed Patches Follow Broken Embargo on New Linux Kernel Vulnerabilities",
+            "link": "https://www.infosecurity-magazine.com/news/dirty-frag-linux-kernel/",
+            "summary": "Two new high-severity vulnerabilities, dubbed ’Dirty Frag’ when chained, have been found in the Linux kernel, affecting most Linux distributions",
+            "published_utc": "2026-05-11T14:30:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Build Application Firewalls Aim to Stop the Next Supply Chain Attack",
+            "link": "https://www.securityweek.com/build-application-firewalls-aim-to-stop-the-next-supply-chain-attack/",
+            "summary": "",
+            "published_utc": "2026-05-11T14:06:01+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Fake Claude Code Page Pushes PowerShell Stealer at Devs",
+            "link": "https://www.infosecurity-magazine.com/news/fake-claude-code-installer/",
+            "summary": "Ontinue uncovers fake Claude Code installer pushing PowerShell stealer abusing Chrome's IElevator2",
+            "published_utc": "2026-05-11T14:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Why Changing Passwords Doesn’t End an Active Directory Breach",
+            "link": "https://www.bleepingcomputer.com/news/security/why-changing-passwords-doesnt-end-an-active-directory-breach/",
+            "summary": "Resetting a password doesn't always remove attackers from Active Directory. Specops Software explains how cached credentials and Kerberos tickets can ...",
+            "published_utc": "2026-05-11T13:53:56+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I automated my home's most unexpected electronics - here are 5 ingenious results",
+            "link": "https://www.zdnet.com/article/5-home-objects-appliances-to-automate/",
+            "summary": "I paired several everyday gadgets with a smart plug, and now my home runs so much more smoothly.",
+            "published_utc": "2026-05-11T13:30:41+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I jailbroke my old Kindle to install KOReader - but there's a better way to extend its life",
+            "link": "https://www.zdnet.com/article/how-i-jailbroke-my-old-kindle-2026/",
+            "summary": "With Amazon ending support for some Kindles, here are two ways to breathe new life into oudated models.",
+            "published_utc": "2026-05-11T13:24:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Lyrie.ai Joins First Batch of Anthropic’s Cyber Verification Program",
+            "link": "https://www.csoonline.com/article/4169442/lyrie-ai-joins-first-batch-of-anthropics-cyber-verification-program-2.html",
+            "summary": "",
+            "published_utc": "2026-05-11T13:17:12+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Google Detects First AI-Generated Zero-Day Exploit",
+            "link": "https://www.securityweek.com/google-detects-first-ai-generated-zero-day-exploit/",
+            "summary": "",
+            "published_utc": "2026-05-11T13:04:21+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Google: Hackers used AI to develop zero-day exploit for web admin tool",
+            "link": "https://www.bleepingcomputer.com/news/security/google-hackers-used-ai-to-develop-zero-day-exploit-for-web-admin-tool/",
+            "summary": "Researchers at Google Threat Intelligence Group (GTIG) say that a zero-day exploit targeting a popular open-source web administration tool was likely ...",
+            "published_utc": "2026-05-11T13:02:30+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Hackers Observed Using AI to Develop Zero-Day for the First Time",
+            "link": "https://www.infosecurity-magazine.com/news/hackers-using-ai-zero-day-first/",
+            "summary": "Google Threat Intelligence Group details how cybercriminals attempted to launch a campaign based around an AI-developed Zero-Day targeting open-source...",
+            "published_utc": "2026-05-11T13:00:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Google discovers weaponized zero-day exploits created with AI",
+            "link": "https://www.csoonline.com/article/4169046/google-discovers-weaponized-zero-day-exploits-created-with-ai.html",
+            "summary": "",
+            "published_utc": "2026-05-11T13:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I tested whether Gemini, ChatGPT, and Claude can analyze videos - this one wins",
+            "link": "https://www.zdnet.com/article/can-gemini-chatgpt-claude-analyze-video-this-one-wins-test/",
+            "summary": "Can AI really watch video, or does it just fake it? I tested my favorite AI tools on YouTube clips and local files to find the winner.",
+            "published_utc": "2026-05-11T12:34:46+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Webinar this week: Prevention alone is not enough against modern attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/webinar-this-week-prevention-alone-is-not-enough-against-modern-attacks/",
+            "summary": "This upcoming webinar explores how organizations need to combine security, backups, and recovery planning to reduce the impact of modern cyberattacks....",
+            "published_utc": "2026-05-11T12:30:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Malicious Hugging Face model masquerading as OpenAI release hits 244K downloads",
+            "link": "https://www.csoonline.com/article/4169407/malicious-hugging-face-model-masquerading-as-openai-release-hits-244k-downloads.html",
+            "summary": "",
+            "published_utc": "2026-05-11T12:14:20+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "New ‘Dirty Frag’ exploit targets Linux kernel for root access",
+            "link": "https://www.csoonline.com/article/4169399/new-dirty-frag-exploit-targets-linux-kernel-for-root-access.html",
+            "summary": "",
+            "published_utc": "2026-05-11T12:01:42+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Samsung Galaxy Z Flip 7 vs. Motorola Razr Ultra: I've used both, and this phone is my pick",
+            "link": "https://www.zdnet.com/article/samsung-galaxy-z-flip-7-vs-motorola-razr-ultra-2026/",
+            "summary": "While Samsung focuses on durability and AI, the new Motorola phone is all about the design. Here's which one is better overall.",
+            "published_utc": "2026-05-11T12:00:36+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Skoda Data Breach Hits Online Shop Customers",
+            "link": "https://www.securityweek.com/skoda-data-breach-hits-online-shop-customers/",
+            "summary": "",
+            "published_utc": "2026-05-11T11:54:27+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Windows rivals to MacBook Neo are here - but I'm more excited for Google's response",
+            "link": "https://www.zdnet.com/article/windows-rivals-to-macbook-neo-google-chromebook-response/",
+            "summary": "Budget PCs have a ways to go if they really want to compete with the MacBook Neo. But Google's computing line could have a leg up.",
+            "published_utc": "2026-05-11T11:30:42+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Cloudflare Lays Off 1,100 Employees in AI-Driven Restructuring",
+            "link": "https://www.securityweek.com/cloudflare-lays-off-1100-employees-in-ai-driven-restructuring/",
+            "summary": "",
+            "published_utc": "2026-05-11T11:25:02+00:00"
+        },
         {
             "source": "Schneier",
             "title": "LLMs and Text-in-Text Steganography",
@@ -262,13 +395,6 @@
         },
         {
             "source": "ZDNet Security",
-            "title": "Windows rivals to MacBook Neo are arriving - but can you handle their shortcomings?",
-            "link": "https://www.zdnet.com/article/windows-rivals-to-macbook-neo-arrive-can-you-handle-shortcomings/",
-            "summary": "Budget PCs have a ways to go if they really want to compete with the MacBook Neo. But Chromebooks could have a leg up.",
-            "published_utc": "2026-05-08T17:00:41+00:00"
-        },
-        {
-            "source": "ZDNet Security",
             "title": "Flying soon? American Airlines has new portable battery rules - what to know before you go",
             "link": "https://www.zdnet.com/article/american-airlines-new-battery-rules/",
             "summary": "American isn't the first carrier to enforce tighter restrictions on portable power in-flight. Here's what's already changed - and why.",
@@ -280,13 +406,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/",
             "summary": "NVIDIA has confirmed in a statement for BleepingComputer that GeForce NOW user information has been exposed in a data breach. [...]",
             "published_utc": "2026-05-08T16:18:31+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "In Other News: Train Hacker Arrested, PamDOORa Linux Backdoor, New CISA Director Frontrunner",
-            "link": "https://www.securityweek.com/in-other-news-train-hacker-arrested-pamdoora-linux-backdoor-new-cisa-director-frontrunner/",
-            "summary": "",
-            "published_utc": "2026-05-08T14:30:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -303,25 +422,11 @@
             "published_utc": "2026-05-08T13:23:23+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Dell vs. Lenovo: I've tested dozens of laptops from both brands, and here's my pick",
-            "link": "https://www.zdnet.com/article/lenovo-vs-dell-laptops/",
-            "summary": "Dell and Lenovo specialize in PCs, laptops, and other computing products, but which one is better? This guide will help you make the right choice for ...",
-            "published_utc": "2026-05-08T13:20:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "CISA gives feds four days to patch Ivanti flaw exploited as zero-day",
             "link": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-four-days-to-patch-ivanti-flaw-exploited-as-zero-day/",
             "summary": "CISA has given U.S. federal agencies four days to secure their networks against a high-severity vulnerability in Ivanti Endpoint Manager Mobile (EPMM)...",
             "published_utc": "2026-05-08T12:16:32+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Polish Security Agency Reports ICS Breaches at Five Water Treatment Plants",
-            "link": "https://www.securityweek.com/polish-security-agency-reports-ics-breaches-at-five-water-treatment-plants/",
-            "summary": "",
-            "published_utc": "2026-05-08T11:46:06+00:00"
         },
         {
             "source": "CSO Online",
@@ -331,25 +436,11 @@
             "published_utc": "2026-05-08T11:31:27+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "AI Firm Braintrust Prompts API Key Rotation After Data Breach",
-            "link": "https://www.securityweek.com/ai-firm-braintrust-prompts-api-key-rotation-after-data-breach/",
-            "summary": "",
-            "published_utc": "2026-05-08T11:14:01+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Australian Cyber Security Centre Issues Alert Over ClickFix Attacks",
             "link": "https://www.infosecurity-magazine.com/news/australian-cyber-security-centre/",
             "summary": "ACSC warns over a campaign targeting organizations which uses ClickFix to deliver Vidar infostealer malware",
             "published_utc": "2026-05-08T11:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Cyberattack Hits Canvas System Used by Thousands of Schools as Finals Loom",
-            "link": "https://www.securityweek.com/cyberattack-hits-canvas-system-used-by-thousands-of-schools-as-finals-loom/",
-            "summary": "",
-            "published_utc": "2026-05-08T10:43:57+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -436,39 +527,11 @@
             "published_utc": "2026-05-08T01:13:04+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "After using Lenovo's $2,600 Yoga, I'm taking premium Windows laptops seriously again",
-            "link": "https://www.zdnet.com/article/lenovo-pro-9i-aura-edition-review/",
-            "summary": "Lenovo's Pro 9i Aura Edition is a powerful laptop that fields strong, sustained performance, a vivid display, and a robust cooling system.",
-            "published_utc": "2026-05-08T01:01:01+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Google Maps vs. Apple Maps: I compared two of the best navigation apps - here's my pick",
-            "link": "https://www.zdnet.com/article/google-maps-vs-apple-maps-2026/",
-            "summary": "Apple Maps has improved over the years, but how does it compare to Google Maps today? Here's the verdict after extended use.",
-            "published_utc": "2026-05-08T00:43:04+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "13 new critical holes in JavaScript sandbox allow execution of arbitrary code",
             "link": "https://www.csoonline.com/article/4168568/13-new-critical-holes-in-javascript-sandbox-allow-execution-of-arbitrary-code.html",
             "summary": "",
             "published_utc": "2026-05-08T00:13:41+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Canvas login portals hacked in mass ShinyHunters extortion campaign",
-            "link": "https://www.bleepingcomputer.com/news/security/canvas-login-portals-hacked-in-mass-shinyhunters-extortion-campaign/",
-            "summary": "The ShinyHunters extortion gang has breached education technology giant Instructure again, this time exploiting another vulnerability to deface Canvas...",
-            "published_utc": "2026-05-07T22:36:54+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "New TCLBanker malware self-spreads over WhatsApp and Outlook",
-            "link": "https://www.bleepingcomputer.com/news/security/new-tclbanker-malware-self-spreads-over-whatsapp-and-outlook/",
-            "summary": "A new trojan named TCLBanker, which targets 59 banking, fintech, and cryptocurrency platforms, uses a trojanized MSI installer for Logitech AI Prompt ...",
-            "published_utc": "2026-05-07T22:06:52+00:00"
         },
         {
             "source": "CSO Online",
@@ -490,20 +553,6 @@
             "link": "https://www.wired.com/story/you-can-disable-gemini-in-chrome-if-its-freaking-you-out/",
             "summary": "Chrome users were caught off guard by a 4-GB Google AI model baked into Chrome, sparking privacy concerns. The good news: You can easily uninstall it....",
             "published_utc": "2026-05-07T20:31:57+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I started clearing my Roku cache, and it fixed my biggest TV complaint",
-            "link": "https://www.zdnet.com/article/clearing-roku-cache-fixes-biggest-issues/",
-            "summary": "Clearing my Roku cache takes less than a minute. When I remember to do it, my system runs like new.",
-            "published_utc": "2026-05-07T18:44:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "New PCPJack worm steals credentials, cleans TeamPCP infections",
-            "link": "https://www.bleepingcomputer.com/news/security/new-pcpjack-worm-steals-credentials-cleans-teampcp-infections/",
-            "summary": "A new malware framework called PCPJack is stealing credentials from exposed cloud infrastructure while actively removing TeamPCP's access to the syste...",
-            "published_utc": "2026-05-07T18:35:50+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -590,13 +639,6 @@
             "published_utc": "2026-05-07T08:30:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Ten years later, has the GDPR fulfilled its purpose?",
-            "link": "https://www.csoonline.com/article/4167584/ten-years-later-has-the-gdpr-fulfilled-its-purpose.html",
-            "summary": "",
-            "published_utc": "2026-05-07T07:00:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "Fixing the password problem is as easy as 123456",
             "link": "https://www.welivesecurity.com/en/cybersecurity/fixing-password-problem-as-easy-as-123456/",
@@ -604,25 +646,11 @@
             "published_utc": "2026-05-07T07:00:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "US government agency to safety test frontier AI models before release",
-            "link": "https://www.csoonline.com/article/4168135/us-government-agency-to-safety-test-frontier-ai-models-before-release-2.html",
-            "summary": "",
-            "published_utc": "2026-05-07T02:46:38+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "A Kid With a Fake Mustache Tricked an Online Age-Verification Tool",
             "link": "https://www.wired.com/story/a-kid-with-a-fake-mustache-tricked-an-online-age-verification-tool/",
             "summary": "To stop children from bypassing its age checks, Meta is revamping its age-verification tools with an AI system that analyzes images and videos for “vi...",
             "published_utc": "2026-05-06T21:24:18+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Iranian state-backed spies pose as ransomware slingers in false flag attacks",
-            "link": "https://www.csoonline.com/article/4167985/iranian-state-backed-spies-pose-as-ransomware-slingers-in-false-flag-attacks.html",
-            "summary": "",
-            "published_utc": "2026-05-06T16:45:57+00:00"
         },
         {
             "source": "WIRED Security",
@@ -651,13 +679,6 @@
             "link": "https://www.infosecurity-magazine.com/news/iran-linked-apt-chaos-ransomware/",
             "summary": "Rapid7 reveals an Iranian false flag operation masquerading as a Chaos ransomware attack",
             "published_utc": "2026-05-06T13:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "New malware turns Linux systems into P2P attack networks",
-            "link": "https://www.csoonline.com/article/4167854/new-malware-turns-linux-systems-into-p2p-attack-networks.html",
-            "summary": "",
-            "published_utc": "2026-05-06T11:41:06+00:00"
         },
         {
             "source": "Schneier",
@@ -2751,27 +2772,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ransomware-payments-decline-1/",
             "summary": "Chainalysis reveals a big surge in median ransomware payment size in 2025 despite overall drop in criminal revenue",
             "published_utc": "2026-03-02T10:45:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "North Korea's APT37 Expands Toolkit to Breach Air-Gapped Networks",
-            "link": "https://www.infosecurity-magazine.com/news/north-korea-apt37-expands-toolkit/",
-            "summary": "The security researchers from Zscaler ThreatLabz have also discovered five new tools deployed by the North Korean hacking group",
-            "published_utc": "2026-02-27T14:15:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "UK Vulnerability Monitoring Service Cuts Unresolved Security Flaws by 75%",
-            "link": "https://www.infosecurity-magazine.com/news/uk-vuln-monitoring-service-cuts/",
-            "summary": "The UK government says its new Vulnerability Monitoring Service has cut unresolved security flaws by 75% and reduced cyber-attack fix times from nearl...",
-            "published_utc": "2026-02-27T11:45:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "‘Project Compass’ Cracks Down on ‘The Com’: 30 Members of Notorious Cybercrime Gang Arrested",
-            "link": "https://www.infosecurity-magazine.com/news/project-compass-com-arrests/",
-            "summary": "International law enforcement operation led by Europol targets network of teenagers and young adults involved in ransomware attacks, extortion and oth...",
-            "published_utc": "2026-02-27T11:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
