@@ -1,6 +1,34 @@
 {
-    "lastUpdatedUTC": "2026-05-11T21:18:38.109712+00:00",
+    "lastUpdatedUTC": "2026-05-11T22:55:34.553286+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "GM agrees to $12.75M California settlement over sale of drivers’ data",
+            "link": "https://www.bleepingcomputer.com/news/legal/gm-agrees-to-1275m-california-settlement-over-sale-of-drivers-data/",
+            "summary": "California Attorney General Rob Bonta announced a proposed $12.75 million settlement agreement with General Motors (GM) over allegations that the comp...",
+            "published_utc": "2026-05-11T22:40:34+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Official CheckMarx Jenkins package compromised with infostealer",
+            "link": "https://www.bleepingcomputer.com/news/security/official-checkmarx-jenkins-package-compromised-with-infostealer/",
+            "summary": "Checkmarx warned over the weekend that a rogue version of its Jenkins Application Security Testing (AST) plugin had been published on the Jenkins Mark...",
+            "published_utc": "2026-05-11T22:03:06+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "New GhostLock tool abuses Windows API to block file access",
+            "link": "https://www.bleepingcomputer.com/news/security/new-ghostlock-tool-abuses-windows-api-to-block-file-access/",
+            "summary": "A security researcher has released a proof-of-concept tool named GhostLock that demonstrates how a legitimate Windows file API can be abused in attack...",
+            "published_utc": "2026-05-11T22:02:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Microsoft is boosting the launch time of key Windows apps and features - here's how",
+            "link": "https://www.zdnet.com/article/microsoft-speed-launch-time-windows-11-apps-features/",
+            "summary": "Currently in early testing mode, the new Low Latency Profile will boost the speed of Windows 11 apps, menus, flyouts, and more.",
+            "published_utc": "2026-05-11T21:25:24+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Can hackers break encrypted USB drives? I tried to find out",
@@ -55,7 +83,7 @@
             "title": "The patching treadmill: Why traditional application security is no longer enough",
             "link": "https://www.zdnet.com/article/the-patching-treadmill-why-traditional-application-security-is-no-longer-enough/",
             "summary": "Find-and-fix security once made sense, but AI-assisted development, continuous deployment, and exploding vulnerability backlogs are changing the rules...",
-            "published_utc": "2026-05-11T15:29:53+00:00"
+            "published_utc": "2026-05-11T15:29:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -69,14 +97,14 @@
             "title": "Beyond the cleanup job: Redefining application security for the modern enterprise",
             "link": "https://www.zdnet.com/article/beyond-the-cleanup-job-redefining-application-security-for-the-modern-enterprise/",
             "summary": "Secure-by-design is no longer just a developer concern. Enterprise leaders must treat application security as a board-level responsibility, with accou...",
-            "published_utc": "2026-05-11T15:24:47+00:00"
+            "published_utc": "2026-05-11T15:24:00+00:00"
         },
         {
             "source": "ZDNet Security",
             "title": "Stopping bugs before they ship: The shift to preventative security",
             "link": "https://www.zdnet.com/article/stopping-bugs-before-they-ship-the-shift-to-preventative-security/",
             "summary": "Secure software starts before coding begins. Threat modeling, safer defaults, dependency hygiene, and developer workflow guardrails can help prevent v...",
-            "published_utc": "2026-05-11T15:17:07+00:00"
+            "published_utc": "2026-05-11T15:17:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -373,13 +401,6 @@
             "published_utc": "2026-05-10T11:01:55+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I use these 10 secret Netflix codes to find hidden movies - here's how to enter them",
-            "link": "https://www.zdnet.com/article/netflix-codes-how-to-find-hidden-movies-free/",
-            "summary": "Netflix codes let you access movies in buried genres and micro-categories - for free. Here's how, plus my favorites.",
-            "published_utc": "2026-05-10T10:00:39+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "JDownloader site hacked to replace installers with Python RAT malware",
             "link": "https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/",
@@ -443,13 +464,6 @@
             "published_utc": "2026-05-08T13:23:23+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "CISA gives feds four days to patch Ivanti flaw exploited as zero-day",
-            "link": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-four-days-to-patch-ivanti-flaw-exploited-as-zero-day/",
-            "summary": "CISA has given U.S. federal agencies four days to secure their networks against a high-severity vulnerability in Ivanti Endpoint Manager Mobile (EPMM)...",
-            "published_utc": "2026-05-08T12:16:32+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Claude in Chrome is taking orders from the wrong extensions",
             "link": "https://www.csoonline.com/article/4168867/claude-in-chrome-is-taking-orders-from-the-wrong-extensions.html",
@@ -462,13 +476,6 @@
             "link": "https://www.infosecurity-magazine.com/news/australian-cyber-security-centre/",
             "summary": "ACSC warns over a campaign targeting organizations which uses ClickFix to deliver Vidar infostealer malware",
             "published_utc": "2026-05-08T11:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Zara data breach exposed personal information of 197,000 people",
-            "link": "https://www.bleepingcomputer.com/news/security/zara-data-breach-exposed-personal-information-of-197-000-people/",
-            "summary": "Hackers who gained access to the databases of Spanish fast-fashion retailer Zara stole data belonging to more than 197,000 customers, according to dat...",
-            "published_utc": "2026-05-08T10:42:22+00:00"
         },
         {
             "source": "CSO Online",
@@ -497,13 +504,6 @@
             "link": "https://www.csoonline.com/article/4168484/your-refresh-plan-has-a-cve-blind-spot.html",
             "summary": "",
             "published_utc": "2026-05-08T09:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Former govt contractor convicted for wiping dozens of federal databases",
-            "link": "https://www.bleepingcomputer.com/news/security/former-govt-contractor-convicted-for-wiping-dozens-of-federal-databases/",
-            "summary": "A 34-year-old Virginia man was found guilty of conspiring to destroy dozens of government databases after getting fired from his job as a federal cont...",
-            "published_utc": "2026-05-08T08:45:04+00:00"
         },
         {
             "source": "WIRED Security",
