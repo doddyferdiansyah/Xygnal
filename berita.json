@@ -1,6 +1,69 @@
 {
-    "lastUpdatedUTC": "2026-05-12T09:42:00.937805+00:00",
+    "lastUpdatedUTC": "2026-05-12T11:57:54.077760+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "Fake Claude Code takes the IElevator to your browser secrets",
+            "link": "https://www.csoonline.com/article/4169992/fake-claude-code-takes-the-ielevator-to-your-browser-secrets.html",
+            "summary": "",
+            "published_utc": "2026-05-12T11:32:37+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Shai Hulud attack ships signed malicious TanStack, Mistral npm packages",
+            "link": "https://www.bleepingcomputer.com/news/security/shai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages/",
+            "summary": "Hundreds of packages across npm and PyPI have been compromised in a new Shai-Hulud supply-chain campaign delivering credential-stealing malware target...",
+            "published_utc": "2026-05-12T11:29:36+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Claude Mythos Finds Only One Curl Vulnerability; Experts Divided on What It Really Means",
+            "link": "https://www.securityweek.com/claude-mythos-finds-only-one-curl-vulnerability-experts-divided-on-what-it-really-means/",
+            "summary": "",
+            "published_utc": "2026-05-12T11:15:51+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Copy.Fail Linux Vulnerability",
+            "link": "https://www.schneier.com/blog/archives/2026/05/copy-fail-linux-vulnerability.html",
+            "summary": "",
+            "published_utc": "2026-05-12T11:06:12+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "SAP fixes critical vulnerabilities in Commerce Cloud and S/4HANA",
+            "link": "https://www.bleepingcomputer.com/news/security/sap-fixes-critical-vulnerabilities-in-commerce-cloud-and-s-4hana/",
+            "summary": "SAP has released the May 2026 security updates addressing 15 vulnerabilities across multiple products, including two critical flaws in the Commerce Cl...",
+            "published_utc": "2026-05-12T11:04:55+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Is The SOC Obsolete, And We Just Haven’t Admitted It Yet?",
+            "link": "https://www.securityweek.com/is-the-soc-obsolete-and-we-just-havent-admitted-it-yet/",
+            "summary": "",
+            "published_utc": "2026-05-12T11:00:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "cPanel flaw exposes enterprises to hosting supply-chain risks",
+            "link": "https://www.csoonline.com/article/4169957/cpanel-flaw-exposes-enterprises-to-hosting-supply-chain-risks.html",
+            "summary": "",
+            "published_utc": "2026-05-12T10:26:03+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "TanStack, Mistral AI, UiPath Hit in Fresh Supply Chain Attack",
+            "link": "https://www.securityweek.com/tanstack-mistral-ai-uipath-hit-in-fresh-supply-chain-attack/",
+            "summary": "",
+            "published_utc": "2026-05-12T10:10:33+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Developer workstations are the new beachhead",
+            "link": "https://www.csoonline.com/article/4169635/developer-workstations-are-the-new-beachhead.html",
+            "summary": "",
+            "published_utc": "2026-05-12T10:00:00+00:00"
+        },
         {
             "source": "InfosecurityMag",
             "title": "Malicious Hugging Face Repository Typosquats OpenAI",
@@ -422,32 +485,11 @@
             "published_utc": "2026-05-11T08:55:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Canvas System Is Online After a Cyberattack Disrupted Thousands of Schools",
-            "link": "https://www.securityweek.com/canvas-system-is-online-after-a-cyberattack-disrupted-thousands-of-schools/",
-            "summary": "",
-            "published_utc": "2026-05-11T08:35:13+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "New ‘Dirty Frag’ Linux Vulnerability Possibly Exploited in Attacks",
-            "link": "https://www.securityweek.com/new-dirty-frag-linux-vulnerability-possibly-exploited-in-attacks/",
-            "summary": "",
-            "published_utc": "2026-05-11T08:15:28+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Police Shut Relaunched Crimenetwork Dark Web Marketplace",
             "link": "https://www.infosecurity-magazine.com/news/police-shut-crimenetwork-may-2025/",
             "summary": "Spanish police have arrested the suspected administrator of German dark web marketplace Crimenetwork",
             "published_utc": "2026-05-11T08:15:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Resurrected ‘Crimenetwork’ Marketplace Taken Down, Administrator Arrested",
-            "link": "https://www.securityweek.com/resurrected-crimenetwork-marketplace-taken-down-administrator-arrested/",
-            "summary": "",
-            "published_utc": "2026-05-11T07:25:12+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -506,20 +548,6 @@
             "published_utc": "2026-05-08T17:49:01+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "NVIDIA confirms GeForce NOW data breach affecting Armenian users",
-            "link": "https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/",
-            "summary": "NVIDIA has confirmed in a statement for BleepingComputer that GeForce NOW user information has been exposed in a data breach. [...]",
-            "published_utc": "2026-05-08T16:18:31+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Why More Analysts Won’t Solve Your SOC’s Alert Problem",
-            "link": "https://www.bleepingcomputer.com/news/security/why-more-analysts-wont-solve-your-socs-alert-problem/",
-            "summary": "Attackers move faster than overwhelmed SOC teams can realistically investigate alerts. Prophet Security breaks down how AI can help analysts investiga...",
-            "published_utc": "2026-05-08T14:02:12+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Claude in Chrome is taking orders from the wrong extensions",
             "link": "https://www.csoonline.com/article/4168867/claude-in-chrome-is-taking-orders-from-the-wrong-extensions.html",
@@ -555,13 +583,6 @@
             "published_utc": "2026-05-08T09:00:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Your refresh plan has a CVE blind spot",
-            "link": "https://www.csoonline.com/article/4168484/your-refresh-plan-has-a-cve-blind-spot.html",
-            "summary": "",
-            "published_utc": "2026-05-08T09:00:00+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "Meet Rassvet, Russia’s Answer to Starlink",
             "link": "https://www.wired.com/story/meet-rassvet-russias-answer-to-starlink/",
@@ -581,20 +602,6 @@
             "link": "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/",
             "summary": "An ongoing data extortion attack targeting the widely-used education technology platform Canvas disrupted classes and coursework at school districts a...",
             "published_utc": "2026-05-08T02:58:46+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Palo Alto Networks firewall flaw has been exploited for several weeks",
-            "link": "https://www.csoonline.com/article/4168343/critical-palo-alto-networks-software-bug-hits-exposed-firewalls.html",
-            "summary": "",
-            "published_utc": "2026-05-08T01:19:01+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Become a millionaire by bug hunting on Android",
-            "link": "https://www.csoonline.com/article/4168634/now-you-can-earn-millions-by-finding-bugs-in-android.html",
-            "summary": "",
-            "published_utc": "2026-05-08T01:13:04+00:00"
         },
         {
             "source": "WIRED Security",
@@ -952,13 +959,6 @@
             "link": "https://www.infosecurity-magazine.com/news/critical-flaw-vect-ransomware-data/",
             "summary": "The Vect 2.0 ransomware wipes large files instead of merely encrypting them, making recovery impossible – even for the attackers",
             "published_utc": "2026-04-29T10:45:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Claude Mythos Has Found 271 Zero-Days in Firefox",
-            "link": "https://www.schneier.com/blog/archives/2026/04/claude-mythos-has-found-271-zero-days-in-firefox.html",
-            "summary": "",
-            "published_utc": "2026-04-29T10:12:17+00:00"
         },
         {
             "source": "InfosecurityMag",
