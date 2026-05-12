@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2026-05-12T06:44:32.805361+00:00",
+    "lastUpdatedUTC": "2026-05-12T09:42:00.937805+00:00",
     "articles": [
+        {
+            "source": "InfosecurityMag",
+            "title": "Malicious Hugging Face Repository Typosquats OpenAI",
+            "link": "https://www.infosecurity-magazine.com/news/malicious-hugging-face-repo/",
+            "summary": "HiddenLayer reveals infostealer malware in a Hugging Face repository",
+            "published_utc": "2026-05-12T09:30:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Instructure reaches 'agreement' with ShinyHunters to stop data leak",
+            "link": "https://www.bleepingcomputer.com/news/security/instructure-reaches-agreement-with-shinyhunters-to-stop-data-leak/",
+            "summary": "Instructure, the edtech giant behind the widely popular Canvas learning management system (LMS), has reached an \"agreement\" with the ShinyHunters exto...",
+            "published_utc": "2026-05-12T09:23:56+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "CISOs step into the AI spotlight",
+            "link": "https://www.csoonline.com/article/4168684/cisos-step-into-the-ai-spotlight.html",
+            "summary": "",
+            "published_utc": "2026-05-12T09:01:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Linux Mint vs. Elementary OS: I compared both distros, and here's my advice",
+            "link": "https://www.zdnet.com/article/elementary-os-vs-linux-mint-which-is-right-for-you/",
+            "summary": "If you're looking for a user-friendly Linux distribution, your destination could depend on your starting point.",
+            "published_utc": "2026-05-12T09:00:37+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Why patching SLAs should be the floor, not the strategy",
+            "link": "https://www.csoonline.com/article/4169623/why-patching-slas-should-be-the-floor-not-the-strategy.html",
+            "summary": "",
+            "published_utc": "2026-05-12T09:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "South Staffordshire Water Fined £1m After Data Breach",
+            "link": "https://www.infosecurity-magazine.com/news/south-staffordshire-water-fined-1m/",
+            "summary": "The ICO has fined South Staffordshire Water nearly £1m for a series of data protection failings",
+            "published_utc": "2026-05-12T08:30:00+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "Cybersicherheitsvorschriften: So erfüllen Sie Ihre Compliance-Anforderungen",
@@ -331,13 +373,6 @@
             "published_utc": "2026-05-11T10:05:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "How I tweaked my Sonos speakers to upgrade their audio performance - easy and free",
-            "link": "https://www.zdnet.com/article/how-i-customized-my-sonos-speaker-for-better-audio/",
-            "summary": "If you've left your Sonos system's audio settings untouched, you're missing out on untapped audio potential.",
-            "published_utc": "2026-05-11T10:00:37+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "AI security is repeating endpoint security’s biggest mistake",
             "link": "https://www.csoonline.com/article/4168991/ai-security-is-repeating-endpoint-securitys-biggest-mistake.html",
@@ -485,13 +520,6 @@
             "published_utc": "2026-05-08T14:02:12+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Trellix source code breach claimed by RansomHouse hackers",
-            "link": "https://www.bleepingcomputer.com/news/security/trellix-source-code-breach-claimed-by-ransomhouse-hackers/",
-            "summary": "The attack on the Trellix source code repository disclosed last week has been claimed by the RansomHouse threat group, which leaked a small set of ima...",
-            "published_utc": "2026-05-08T13:23:23+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Claude in Chrome is taking orders from the wrong extensions",
             "link": "https://www.csoonline.com/article/4168867/claude-in-chrome-is-taking-orders-from-the-wrong-extensions.html",
@@ -567,20 +595,6 @@
             "link": "https://www.csoonline.com/article/4168634/now-you-can-earn-millions-by-finding-bugs-in-android.html",
             "summary": "",
             "published_utc": "2026-05-08T01:13:04+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "13 new critical holes in JavaScript sandbox allow execution of arbitrary code",
-            "link": "https://www.csoonline.com/article/4168568/13-new-critical-holes-in-javascript-sandbox-allow-execution-of-arbitrary-code.html",
-            "summary": "",
-            "published_utc": "2026-05-08T00:13:41+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Ollama vulnerability highlights danger of AI frameworks with unrestricted access",
-            "link": "https://www.csoonline.com/article/4168584/ollama-vulnerability-highlights-danger-of-ai-frameworks-with-unrestricted-access.html",
-            "summary": "",
-            "published_utc": "2026-05-07T21:14:16+00:00"
         },
         {
             "source": "WIRED Security",
@@ -2765,20 +2779,6 @@
             "link": "https://www.infosecurity-magazine.com/news/iran-cyber-attacks-global-google/",
             "summary": "John Hultquist suggests “aggressive” Iranian cyber attackers will target the US and its Gulf allies with plausibly deniable ransomware attacks, hackti...",
             "published_utc": "2026-03-02T15:45:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Hybrid Middle East Conflict Triggers Surge in Global Cyber Activity",
-            "link": "https://www.infosecurity-magazine.com/news/middle-east-conflict-surge-global/",
-            "summary": "Military strikes in the Middle East escalate cyber ops, raising spillover risks globally for firms",
-            "published_utc": "2026-03-02T15:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "ClawJacked Bug Enables Covert AI Agent Hijacking",
-            "link": "https://www.infosecurity-magazine.com/news/clawjacked-bug-covert-ai-agent/",
-            "summary": "Oasis Security reveals how a new ClawJacked vulnerability could allow attackers to silently take over a victim’s OpenClaw agent",
-            "published_utc": "2026-03-02T11:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
