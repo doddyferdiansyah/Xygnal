@@ -1,6 +1,139 @@
 {
-    "lastUpdatedUTC": "2026-05-13T12:06:02.289444+00:00",
+    "lastUpdatedUTC": "2026-05-13T15:44:23.728654+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft fixes BitLocker recovery issue only for Windows 11 users",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-issue-only-for-windows-11-users/",
+            "summary": "Microsoft has addressed a known issue causing some Windows 11 systems to boot into BitLocker recovery after installing the April 2026 Windows security...",
+            "published_utc": "2026-05-13T15:42:46+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Your TV's RS-232 port is a powerful automation tool - how to unlock it (and what it can do)",
+            "link": "https://www.zdnet.com/article/what-is-the-tvs-rss232-serial-port-and-what-it-can-do/",
+            "summary": "The RS-232 serial port on your smart TV isn't just for professional diagnostics. Here's how to unlock it for more advanced programming.",
+            "published_utc": "2026-05-13T15:00:38+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Sweet Security Launches Agentic AI Red Teaming to Counter ‘Mythos Moment’",
+            "link": "https://www.securityweek.com/sweet-security-launches-agentic-ai-red-teaming-to-counter-mythos-moment/",
+            "summary": "",
+            "published_utc": "2026-05-13T14:50:20+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft fixes Windows Autopatch bug installing restricted drivers",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-autopatch-bug-installing-restricted-drivers/",
+            "summary": "Microsoft has fixed a Windows Autopatch bug that caused driver updates restricted by administrative policies to be deployed on some Autopatch-managed ...",
+            "published_utc": "2026-05-13T14:36:09+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Canvas Owner Reaches Agreement With Cybercriminals After Ransomware Attack",
+            "link": "https://www.infosecurity-magazine.com/news/canvas-cybercriminals-agreement/",
+            "summary": "Instructure says it reached an agreement with ShinyHunters over the Canvas breach data",
+            "published_utc": "2026-05-13T14:30:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "CachyOS vs. MX Linux: Are you seeking speed or stability in your distro?",
+            "link": "https://www.zdnet.com/article/cachyos-vs-mx-linux-which-is-right-for-you/",
+            "summary": "Both CachyOS and MX Linux sit atop the Distrowatch Page Hit Ranking list, but they are quite different distributions. Which one of these should you ch...",
+            "published_utc": "2026-05-13T14:18:48+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Avada Builder Flaws Expose One Million WordPress Sites",
+            "link": "https://www.infosecurity-magazine.com/news/avada-builder-flaws-one-million/",
+            "summary": "Avada Builder flaws allowed file read and SQL injection on one million WordPress sites",
+            "published_utc": "2026-05-13T14:00:00+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "WhatsApp Adds Meta AI Chats That Are Built to Be Fully Private",
+            "link": "https://www.wired.com/story/whatsapp-incognito-chat-meta-ai/",
+            "summary": "The company says its new Incognito Chat allows you to use its AI chatbot without anyone else—including Meta—being able to access your conversations.",
+            "published_utc": "2026-05-13T14:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "What is digital transformation? Everything you need to know about how technology is changing business",
+            "link": "https://www.zdnet.com/article/what-is-digital-transformation/",
+            "summary": "Digital transformation: Here's why it matters, what the big trends are, how it impacts you - and why it will never end.",
+            "published_utc": "2026-05-13T13:41:13+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Red Hat Desktop vs. Fedora Hummingbird: Which AI development Linux path is right for you?",
+            "link": "https://www.zdnet.com/article/red-hat-desktop-vs-fedora-hummingbird-ai-linux/",
+            "summary": "Red Hat Desktop is for secure, production-style AI development, while Fedora Hummingbird is for AI agent experimentation.",
+            "published_utc": "2026-05-13T13:34:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "What happens when China’s AI catches up to Mythos?",
+            "link": "https://www.csoonline.com/article/4170818/what-happens-when-chinas-ai-catches-up-to-mythos.html",
+            "summary": "",
+            "published_utc": "2026-05-13T13:32:35+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Webinar Today: ROI for Cyber-Physical Security Programs",
+            "link": "https://www.securityweek.com/webinar-today-roi-for-cyber-physical-security-programs/",
+            "summary": "",
+            "published_utc": "2026-05-13T13:30:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Foxconn confirms cyberattack claimed by Nitrogen ransomware gang",
+            "link": "https://www.bleepingcomputer.com/news/security/electronics-giant-foxconn-confirms-cyberattack-on-north-american-factories/",
+            "summary": "Foxconn, the world's largest electronics manufacturer, says some of its North American factories are now working to resume normal operations after a c...",
+            "published_utc": "2026-05-13T12:49:54+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "73 Seconds to Breach, 24 Hours to Patch: The Case for Autonomous Validation",
+            "link": "https://www.bleepingcomputer.com/news/security/73-seconds-to-breach-24-hours-to-patch-the-case-for-autonomous-validation/",
+            "summary": "Attackers can compromise systems in minutes while patching and response still take hours or days. Picus Security breaks down why autonomous validation...",
+            "published_utc": "2026-05-13T12:30:38+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Ransomware: Over Half of CISOs Would Consider Paying Ransom to Hackers",
+            "link": "https://www.infosecurity-magazine.com/news/ransomware-over-half-cisos-would/",
+            "summary": "Survey of cybersecurity leaders suggests that majority would strongly consider paying cybercriminals, if that’s what it took to help restore encrypted...",
+            "published_utc": "2026-05-13T12:30:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Microsoft’s new AI system finds 16 Windows flaws, including four critical RCEs",
+            "link": "https://www.csoonline.com/article/4170785/microsofts-new-ai-system-finds-16-windows-flaws-including-four-critical-rces.html",
+            "summary": "",
+            "published_utc": "2026-05-13T12:23:38+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How to learn Claude Code for free with Anthropic's AI courses - one took me just 20 minutes",
+            "link": "https://www.zdnet.com/article/how-to-learn-claude-code-with-free-anthropic-ai-courses-online/",
+            "summary": "With Anthropic's free course library, you can train online and learn about Claude, Claude Code, AI agents, and MCP.",
+            "published_utc": "2026-05-13T12:17:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Government to Scrutinize Instructure Over Canvas Disruption, Data Breach",
+            "link": "https://www.securityweek.com/government-to-scrutinize-instructure-on-canvas-disruption-data-breach/",
+            "summary": "",
+            "published_utc": "2026-05-13T12:13:14+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Palo Alto bets on identity security for autonomous AI with Idira launch",
+            "link": "https://www.csoonline.com/article/4170761/palo-alto-bets-on-identity-security-for-autonomous-ai-with-idira-launch.html",
+            "summary": "",
+            "published_utc": "2026-05-13T12:08:16+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Microsoft says some users can't install Office on Windows 365 devices",
@@ -124,8 +257,8 @@
             "source": "ZDNet Security",
             "title": "Fedora Kinoite vs. Silverblue: My verdict after testing both immutable Linux distros",
             "link": "https://www.zdnet.com/article/fedora-vs-kinoite/",
-            "summary": "Fedora offers two different takes on an immutable option, each of which might be similar on the inside, but on the outside, they couldn't be different.",
-            "published_utc": "2026-05-13T02:30:44+00:00"
+            "summary": "Fedora offers two different takes on an immutable option, each of which might be similar on the inside, but on the outside, they couldn't be more diff...",
+            "published_utc": "2026-05-13T02:30:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -261,13 +394,6 @@
             "published_utc": "2026-05-12T18:07:39+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Exaforce Raises $125 Million for Agentic SOC Platform",
-            "link": "https://www.securityweek.com/exaforce-raises-125-million-for-agentic-soc-platform/",
-            "summary": "",
-            "published_utc": "2026-05-12T17:23:00+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Mistral AI SDK, TanStack Router hit in npm software supply chain attack",
             "link": "https://www.csoonline.com/article/4170284/mistral-ai-sdk-tanstack-router-hit-in-npm-software-supply-chain-attack.html",
@@ -324,20 +450,6 @@
             "published_utc": "2026-05-12T17:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Adobe Patches 52 Vulnerabilities in 10 Products",
-            "link": "https://www.securityweek.com/adobe-patches-52-vulnerabilities-in-10-products/",
-            "summary": "",
-            "published_utc": "2026-05-12T16:47:21+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "White Circle Raises $11 Million for AI Control Platform",
-            "link": "https://www.securityweek.com/white-circle-raises-11-million-for-ai-control-platform/",
-            "summary": "",
-            "published_utc": "2026-05-12T15:40:21+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "How to get Amazon Prime for 50% off: The two ways to qualify in 2026",
             "link": "https://www.zdnet.com/article/who-qualifies-for-discounted-amazon-prime-faq/",
@@ -366,13 +478,6 @@
             "published_utc": "2026-05-12T14:45:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I've tested dozens of power stations - here's how I'm preparing for summer blackouts",
-            "link": "https://www.zdnet.com/article/how-to-prepare-for-summer-blackouts-calculate-power-needs/",
-            "summary": "Summer blackouts are on the horizon, but don't wait for your lights to go out. Prep a backup plan ASAP. Here's how I'm doing it.",
-            "published_utc": "2026-05-12T13:08:00+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "OpenAI introduces Daybreak cyber platform, takes on Anthropic Mythos",
             "link": "https://www.csoonline.com/article/4170029/openai-introduces-daybreak-cyber-platform-takes-on-anthropic-mythos.html",
@@ -385,13 +490,6 @@
             "link": "https://www.infosecurity-magazine.com/news/apple-google-rcs-end-to-end/",
             "summary": "Apple begins rolling out end-to-end encrypted RCS messaging between iPhone and Android in iOS 26.5",
             "published_utc": "2026-05-12T13:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Why business architects are poised to lead the corporate AI revolution",
-            "link": "https://www.zdnet.com/article/why-business-architects-are-poised-to-lead-the-corporate-ai-revolution/",
-            "summary": "Business architects and other like-minded roles elevate human skills by developing deep domain knowledge.",
-            "published_utc": "2026-05-12T12:08:25+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -408,25 +506,11 @@
             "published_utc": "2026-05-12T11:32:37+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Shai Hulud attack ships signed malicious TanStack, Mistral npm packages",
-            "link": "https://www.bleepingcomputer.com/news/security/shai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages/",
-            "summary": "Hundreds of packages across npm and PyPI have been compromised in a new Shai-Hulud supply-chain campaign delivering credential-stealing malware target...",
-            "published_utc": "2026-05-12T11:29:36+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Copy.Fail Linux Vulnerability",
             "link": "https://www.schneier.com/blog/archives/2026/05/copy-fail-linux-vulnerability.html",
             "summary": "",
             "published_utc": "2026-05-12T11:06:12+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "SAP fixes critical vulnerabilities in Commerce Cloud and S/4HANA",
-            "link": "https://www.bleepingcomputer.com/news/security/sap-fixes-critical-vulnerabilities-in-commerce-cloud-and-s-4hana/",
-            "summary": "SAP has released the May 2026 security updates addressing 15 vulnerabilities across multiple products, including two critical flaws in the Commerce Cl...",
-            "published_utc": "2026-05-12T11:04:55+00:00"
         },
         {
             "source": "CSO Online",
@@ -448,13 +532,6 @@
             "link": "https://www.infosecurity-magazine.com/news/malicious-hugging-face-repo/",
             "summary": "HiddenLayer reveals infostealer malware in a Hugging Face repository",
             "published_utc": "2026-05-12T09:30:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Instructure reaches 'agreement' with ShinyHunters to stop data leak",
-            "link": "https://www.bleepingcomputer.com/news/security/instructure-reaches-agreement-with-shinyhunters-to-stop-data-leak/",
-            "summary": "Instructure, the edtech giant behind the widely popular Canvas learning management system (LMS), has reached an \"agreement\" with the ShinyHunters exto...",
-            "published_utc": "2026-05-12T09:23:56+00:00"
         },
         {
             "source": "CSO Online",
@@ -492,39 +569,11 @@
             "published_utc": "2026-05-12T03:00:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Best Buy is selling this 4TB WD Black SSD for 65% off right now - and I'm seriously tempted",
-            "link": "https://www.zdnet.com/article/wd-black-sn850x-4tb-best-buy-deal/",
-            "summary": "The cost of SSDs, RAM, and other PC components has skyrocketed, but Best Buy is offering an impressive 65% discount on the 4TB WD Black SN850X.",
-            "published_utc": "2026-05-12T02:04:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Windows 11's new Low Latency Profile may give your PC the speed boost it deserves",
-            "link": "https://www.zdnet.com/article/microsoft-speed-launch-time-windows-11-apps-features/",
-            "summary": "Currently in early testing mode, Low Latency Profile is expected to boost the speed of Windows 11 apps, menus, flyouts, and more.",
-            "published_utc": "2026-05-12T02:01:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Microsoft PowerToys now lets you control your monitor from the taskbar - here's how",
-            "link": "https://www.zdnet.com/article/microsoft-powertoys-control-your-windows-monitor-from-the-taskbar/",
-            "summary": "Instead of pressing buttons on your monitor or hunting through your Windows settings, here's how you can now adjust your display directly from the sys...",
-            "published_utc": "2026-05-12T02:00:41+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Linux kernel maintainers suggest a ‘kill switch’ to protect systems until a zero-day vulnerability is patched",
             "link": "https://www.csoonline.com/article/4169659/linux-kernel-maintainers-suggest-a-kill-switch-to-protect-systems-until-a-zero-day-vulnerability-is-patched.html",
             "summary": "",
             "published_utc": "2026-05-12T00:47:09+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "GM agrees to $12.75M California settlement over sale of drivers’ data",
-            "link": "https://www.bleepingcomputer.com/news/legal/gm-agrees-to-1275m-california-settlement-over-sale-of-drivers-data/",
-            "summary": "California Attorney General Rob Bonta announced a proposed $12.75 million settlement agreement with General Motors (GM) over allegations that the comp...",
-            "published_utc": "2026-05-11T22:40:34+00:00"
         },
         {
             "source": "CSO Online",
@@ -555,32 +604,11 @@
             "published_utc": "2026-05-11T14:00:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Lyrie.ai Joins First Batch of Anthropic’s Cyber Verification Program",
-            "link": "https://www.csoonline.com/article/4169442/lyrie-ai-joins-first-batch-of-anthropics-cyber-verification-program-2.html",
-            "summary": "",
-            "published_utc": "2026-05-11T13:17:12+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Hackers Observed Using AI to Develop Zero-Day for the First Time",
             "link": "https://www.infosecurity-magazine.com/news/hackers-using-ai-zero-day-first/",
             "summary": "Google Threat Intelligence Group details how cybercriminals attempted to launch a campaign based around an AI-developed Zero-Day targeting open-source...",
             "published_utc": "2026-05-11T13:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Google discovers weaponized zero-day exploits created with AI",
-            "link": "https://www.csoonline.com/article/4169046/google-discovers-weaponized-zero-day-exploits-created-with-ai.html",
-            "summary": "",
-            "published_utc": "2026-05-11T13:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Malicious Hugging Face model masquerading as OpenAI release hits 244K downloads",
-            "link": "https://www.csoonline.com/article/4169407/malicious-hugging-face-model-masquerading-as-openai-release-hits-244k-downloads.html",
-            "summary": "",
-            "published_utc": "2026-05-11T12:14:20+00:00"
         },
         {
             "source": "Schneier",
@@ -1617,13 +1645,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ai-security-institute-best/",
             "summary": "The AISI has issued its judgement on Anthropic’s Mythos Preview model",
             "published_utc": "2026-04-14T09:30:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "Meta Is Warned That Facial Recognition Glasses Will Arm Sexual Predators",
-            "link": "https://www.wired.com/story/meta-ray-ban-oakley-smart-glasses-no-face-recognition-civil-society/",
-            "summary": "More than 70 organizations, including the ACLU, EPIC, and Fight for the Future, say the AI smart glasses feature would endanger abuse victims, immigra...",
-            "published_utc": "2026-04-13T16:01:30+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2746,32 +2767,11 @@
             "published_utc": "2026-03-04T15:00:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "Multi-Stage \"BadPaw\" Malware Campaign Targets Ukraine",
-            "link": "https://www.infosecurity-magazine.com/news/badpaw-malware-targets-ukraine/",
-            "summary": "Malware campaign uses Ukrainian email service for credibility, deploying \"BadPaw\" to execute attacks",
-            "published_utc": "2026-03-04T14:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Calls for Global Digital Estate Standard as Posthumous Deepfake Fraud Risk Grows",
-            "link": "https://www.infosecurity-magazine.com/news/digital-estate-post-death-deepfake/",
-            "summary": "The OpenID Foundation warns that fragmented policies on posthumous digital accounts could open the door for fraudsters to exploit AI deepfakes",
-            "published_utc": "2026-03-04T10:45:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "Protecting education: How MDR can tip the balance in favor of schools",
             "link": "https://www.welivesecurity.com/en/business-security/protecting-education-how-mdr-can-tip-balance-favor-schools/",
             "summary": "The education sector is notoriously short on cash, but rich in assets for threat actors to target. How can managed detection and response (MDR) help l...",
             "published_utc": "2026-03-04T10:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Israel: RedAlert Spyware Campaign Exploits Wartime Panic With Trojanized App",
-            "link": "https://www.infosecurity-magazine.com/news/redalert-israel-spyware-campaign/",
-            "summary": "Espionage campaign exploits Israel-Iran conflict, distributing a trojanized Red Alert app via SMS",
-            "published_utc": "2026-03-03T16:15:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
