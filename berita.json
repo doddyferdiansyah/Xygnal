@@ -1,6 +1,62 @@
 {
-    "lastUpdatedUTC": "2026-05-14T15:20:22.254302+00:00",
+    "lastUpdatedUTC": "2026-05-14T17:52:13.593985+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "Anthropic's Mythos is evolving faster than expected, reports AI safety agency",
+            "link": "https://www.zdnet.com/article/uk-ai-safety-institute-updates-its-testing-on-mythos/",
+            "summary": "Only a month after its initial release, Anthropic's storied Mythos model is breaking new testing boundaries.",
+            "published_utc": "2026-05-14T17:32:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I'm no Copilot fan, but these 6 new AI skills turned Edge into my favorite mobile browser",
+            "link": "https://www.zdnet.com/article/microsoft-edge-ai-copilot-new-skills/",
+            "summary": "With Edge's mobile app, you can now request summaries of multiple tabs, turn pages into podcasts, and tap into your browsing history and past chats.",
+            "published_utc": "2026-05-14T16:49:59+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Meta's Ray-Ban (Gen 2) smart glasses are on sale - for the first time ever",
+            "link": "https://www.zdnet.com/article/meta-ray-ban-gen-2-smart-glasses-deal/",
+            "summary": "The second-gen smart glasses are 15% off, while the Oakley Meta HSTN glasses are 20% off - perfect gifts for dad.",
+            "published_utc": "2026-05-14T16:33:38+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Upcoming Speaking Engagements",
+            "link": "https://www.schneier.com/blog/archives/2026/05/upcoming-speaking-engagements-56.html",
+            "summary": "",
+            "published_utc": "2026-05-14T16:01:06+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Kindle Scribe vs. ReMarkable Paper Pure: Why I'm not writing off Amazon's E Ink tablet just yet",
+            "link": "https://www.zdnet.com/article/remarkable-paper-pure-vs-amazon-kindle-scribe/",
+            "summary": "I compared two of the best black-and-white e-readers on the market; they look similar but have very different feature sets.",
+            "published_utc": "2026-05-14T16:00:47+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "18-year-old NGINX vulnerability allows DoS, potential RCE",
+            "link": "https://www.bleepingcomputer.com/news/security/18-year-old-nginx-vulnerability-allows-dos-potential-rce/",
+            "summary": "An 18-year-old flaw in the NGINX open-source web server, discovered using an autonomous scanning system, can be exploited for denial of service and, u...",
+            "published_utc": "2026-05-14T15:43:41+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I found the best early Memorial Day Apple deals: Save hundreds on iPad, Apple Watch, and more",
+            "link": "https://www.zdnet.com/article/best-apple-deals-memorial-day-2026/",
+            "summary": "Summer is almost here, and you can already find deals on all things Apple with these early Memorial Day weekend sales.",
+            "published_utc": "2026-05-14T15:26:28+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Cyber-Enabled Cargo Crime: How Cybercrime Tradecraft is Used to Steal Freight",
+            "link": "https://www.bleepingcomputer.com/news/security/cyber-enabled-cargo-crime-how-cybercrime-tradecraft-is-used-to-steal-freight/",
+            "summary": "Cargo theft now starts with phishing emails and stolen credentials, not hijackings, to reroute and steal freight from supply chains. NMFTA outlines ho...",
+            "published_utc": "2026-05-14T15:21:32+00:00"
+        },
         {
             "source": "InfosecurityMag",
             "title": "Mustang Panda Linked to Updated FDMTP Backdoor in Asia-Pacific Espionage Campaign",
@@ -303,20 +359,6 @@
             "published_utc": "2026-05-13T20:09:59+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "My new favorite Android file manager is way better than Google's default - and it's free",
-            "link": "https://www.zdnet.com/article/this-android-file-manager-is-the-best-ive-tried/",
-            "summary": "Material Files is free to use and has no in-app purchases. Here's what makes it so perfect.",
-            "published_utc": "2026-05-13T20:00:39+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Best Buy is selling last year's LG OLED TV for 50% off - and I can vouch for it",
-            "link": "https://www.zdnet.com/article/lg-b5-77-inch-oled-best-buy-deal/",
-            "summary": "The LG B5 is a more affordable OLED option that offers the same signature picture quality as its flagship sibling at a fraction of the price.",
-            "published_utc": "2026-05-13T19:37:00+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "DHS Plans Experiment Running ‘Reconnaissance’ Drones Along the US-Canada Border",
             "link": "https://www.wired.com/story/dhs-plans-experiment-running-reconnaissance-drones-along-the-us-canada-border/",
@@ -324,32 +366,11 @@
             "published_utc": "2026-05-13T19:03:19+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Googlebook looks promising, but one big laptop brand is conspicuously absent",
-            "link": "https://www.zdnet.com/article/googlebook-looks-promising-but-one-big-question-remains-unanswered/",
-            "summary": "Google announced that five major laptop brands will release new Googlebooks, but the one I most expected to see was notably absent.",
-            "published_utc": "2026-05-13T18:40:06+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Windows BitLocker zero-day gives access to protected drives, PoC released",
             "link": "https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/",
             "summary": "A cybersecurity researcher has published proof-of-concept (PoC) exploits for two unpatched Microsoft Windows vulnerabilities named YellowKey and Green...",
             "published_utc": "2026-05-13T16:37:49+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "T-Mobile will give you $400 just for switching - here's how to qualify",
-            "link": "https://www.zdnet.com/article/t-mobile-gift-card-deal/",
-            "summary": "Get a $300 or $400 prepaid Mastercard when you bring your device and old number to T-Mobile. We break down the deal.",
-            "published_utc": "2026-05-13T16:17:38+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Get Audible for 30 days totally free - here's how",
-            "link": "https://www.zdnet.com/article/audible-free-trial-deal/",
-            "summary": "I recently signed up for Audible's free trial deal, and I'm glad I did. Here's what to know.",
-            "published_utc": "2026-05-13T15:53:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -436,13 +457,6 @@
             "published_utc": "2026-05-13T12:08:16+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Microsoft says some users can't install Office on Windows 365 devices",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-install-office-on-windows-365-devices/",
-            "summary": "Microsoft says some customers are experiencing issues downloading and installing Office on their Windows 365 devices. [...]",
-            "published_utc": "2026-05-13T11:53:54+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "ClickFix finds a backup plan in PySoxy proxy chains",
             "link": "https://www.csoonline.com/article/4170747/clickfix-finds-a-backup-plan-in-pysoxy-proxy-chains.html",
@@ -511,13 +525,6 @@
             "link": "https://www.csoonline.com/article/4170340/may-patch-tuesday-roundup-critical-holes-in-windows-netlogon-dns-and-sap-s-4hana.html",
             "summary": "",
             "published_utc": "2026-05-13T00:54:31+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "US govt seeks Instructure testimony on massive Canvas cyberattack",
-            "link": "https://www.bleepingcomputer.com/news/security/us-govt-seeks-instructure-testimony-on-massive-canvas-cyberattack/",
-            "summary": "The U.S. House Committee on Homeland Security is calling on Instructure executives to testify about two cyberattacks by the ShinyHunters extortion gro...",
-            "published_utc": "2026-05-12T23:09:55+00:00"
         },
         {
             "source": "WIRED Security",
@@ -952,13 +959,6 @@
             "link": "https://www.infosecurity-magazine.com/news/small-defense-firms-lack-network/",
             "summary": "Team Cymru’s Stephen Campbell warned that small US defense contractors are not well prepared to face cyber intrusions through edge devices",
             "published_utc": "2026-05-04T12:00:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Hacking Polymarket",
-            "link": "https://www.schneier.com/blog/archives/2026/05/hacking-polymarket.html",
-            "summary": "",
-            "published_utc": "2026-05-04T09:46:31+00:00"
         },
         {
             "source": "InfosecurityMag",
