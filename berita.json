@@ -1,6 +1,34 @@
 {
-    "lastUpdatedUTC": "2026-05-14T19:47:22.497351+00:00",
+    "lastUpdatedUTC": "2026-05-14T21:11:13.830368+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers exploit auth bypass flaw in Burst Statistics WordPress plugin",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-flaw-in-burst-statistics-wordpress-plugin/",
+            "summary": "Hackers are leveraging a critical authentication bypass vulnerability in the WordPress plugin Burst Statistics to obtain admin-level access to website...",
+            "published_utc": "2026-05-14T21:07:17+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "This 4TB WD Black SSD is almost $1,200 off at Best Buy - and I don't expect it to last",
+            "link": "https://www.zdnet.com/article/wd-black-sn850x-4tb-best-buy-deal/",
+            "summary": "In the era of rising SSD prices, you can save 65% on the 4TB WD Black SN850X SSD at Best Buy now.",
+            "published_utc": "2026-05-14T21:02:17+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Meet Fragnesia, the third Linux kernel vulnerability in a month",
+            "link": "https://www.csoonline.com/article/4171403/meet-fragnesia-the-third-linux-kernel-vulnerability-in-a-month.html",
+            "summary": "",
+            "published_utc": "2026-05-14T20:29:38+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Cisco warns of new critical SD-WAN flaw exploited in zero-day attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-critical-sd-wan-flaw-exploited-in-zero-day-attacks/",
+            "summary": "Cisco is warning that a critical Catalyst SD-WAN Controller authentication bypass flaw, tracked as CVE-2026-20182, was actively exploited in zero-day ...",
+            "published_utc": "2026-05-14T20:09:56+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "You can buy Meta smart glasses for up to 20% off right now - Ray-Bans included",
@@ -199,13 +227,6 @@
         },
         {
             "source": "ZDNet Security",
-            "title": "This 4TB WD Black SSD is 65% off at Best Buy - a rare deal",
-            "link": "https://www.zdnet.com/article/wd-black-sn850x-4tb-best-buy-deal/",
-            "summary": "In the era of rising SSD prices, you can save almost $1,200 on the 4TB WD Black SN850X SSD at Best Buy now.",
-            "published_utc": "2026-05-14T11:00:51+00:00"
-        },
-        {
-            "source": "ZDNet Security",
             "title": "The best microSD cards of 2026: Expert tested and reviewed",
             "link": "https://www.zdnet.com/article/best-microsd-card/",
             "summary": "We put the best microSD cards from brands like SanDisk, Lexar, and ProGrade to the test to find the best microSD cards on the market today.",
@@ -268,17 +289,17 @@
             "published_utc": "2026-05-14T09:01:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "10 Google Maps settings I immediately change on every new phone - and why",
-            "link": "https://www.zdnet.com/article/google-maps-settings-i-immediately-change-on-new-phone/",
-            "summary": "Google Maps is great right after install, but I like to tighten my privacy and enable a few features to make it better.",
-            "published_utc": "2026-05-14T09:00:38+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "ICO Publishes Five-Step Plan to Counter Emerging AI-Powered Attacks",
             "link": "https://www.infosecurity-magazine.com/news/ico-steps-in-advice-handling-ai/",
             "summary": "The Information Commissioner’s Office has released new guidance on how to mitigate the risk of AI-powered attacks",
+            "published_utc": "2026-05-14T09:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "10 Google Maps settings I immediately change on every new phone - and why",
+            "link": "https://www.zdnet.com/article/google-maps-settings-i-immediately-change-on-new-phone/",
+            "summary": "Google Maps is great right after install, but I like to tighten my privacy and enable a few features to make it better.",
             "published_utc": "2026-05-14T09:00:00+00:00"
         },
         {
@@ -392,20 +413,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-security-alone-wont-stop-modern-attacks/",
             "summary": "Tomorrow's webinar examines why prevention alone is no longer enough against modern cyberattacks. The session explores how organizations combine secur...",
             "published_utc": "2026-05-13T15:45:56+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft fixes BitLocker recovery issue only for Windows 11 users",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-issue-only-for-windows-11-users/",
-            "summary": "Microsoft has addressed a known issue causing some Windows 11 systems to boot into BitLocker recovery after installing the April 2026 Windows security...",
-            "published_utc": "2026-05-13T15:42:46+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft fixes Windows Autopatch bug installing restricted drivers",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-autopatch-bug-installing-restricted-drivers/",
-            "summary": "Microsoft has fixed a Windows Autopatch bug that caused driver updates restricted by administrative policies to be deployed on some Autopatch-managed ...",
-            "published_utc": "2026-05-13T14:36:09+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -623,13 +630,6 @@
             "link": "https://www.infosecurity-magazine.com/news/malicious-hugging-face-repo/",
             "summary": "HiddenLayer reveals infostealer malware in a Hugging Face repository",
             "published_utc": "2026-05-12T09:30:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "CISOs step into the AI spotlight",
-            "link": "https://www.csoonline.com/article/4168684/cisos-step-into-the-ai-spotlight.html",
-            "summary": "",
-            "published_utc": "2026-05-12T09:01:00+00:00"
         },
         {
             "source": "InfosecurityMag",
