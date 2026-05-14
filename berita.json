@@ -1,6 +1,97 @@
 {
-    "lastUpdatedUTC": "2026-05-14T12:25:38.196339+00:00",
+    "lastUpdatedUTC": "2026-05-14T15:20:22.254302+00:00",
     "articles": [
+        {
+            "source": "InfosecurityMag",
+            "title": "Mustang Panda Linked to Updated FDMTP Backdoor in Asia-Pacific Espionage Campaign",
+            "link": "https://www.infosecurity-magazine.com/news/mustang-panda-fdmtp-backdoor-apj/",
+            "summary": "Mustang Panda campaign deploys updated FDMTP backdoor against Asia-Pacific and Japan networks",
+            "published_utc": "2026-05-14T15:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Enhancing Data Center Security Without Sacrificing Performance",
+            "link": "https://www.securityweek.com/enhancing-data-center-security-without-sacrificing-performance/",
+            "summary": "",
+            "published_utc": "2026-05-14T14:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "6 ways I use Fedora 44 beyond the basics - and why it's ready for anything",
+            "link": "https://www.zdnet.com/article/fedora-44-uses-beyond-basics-why-ready-for-anything/",
+            "summary": "Fedora 44 is fast, stable, and surprisingly flexible. It can do much more than you might expect.",
+            "published_utc": "2026-05-14T13:45:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "New Linux Kernel Vulnerability Fragnesia Allows Root Privilege Escalation",
+            "link": "https://www.securityweek.com/new-linux-kernel-vulnerability-fragnesia-allows-root-privilege-escalation/",
+            "summary": "",
+            "published_utc": "2026-05-14T13:44:46+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I started following the 60-60 rule for headphones, and my ears will thank me later",
+            "link": "https://www.zdnet.com/article/what-is-60-60-rule-headphones-and-why-its-important/",
+            "summary": "Wearing headphones every day has a greater effect on your ears than you might think. But your devices likely have features to help.",
+            "published_utc": "2026-05-14T13:30:37+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Google Launches Android Spyware Forensics Tool for High-Risk Users",
+            "link": "https://www.infosecurity-magazine.com/news/google-launches-android-spyware/",
+            "summary": "Google’s Android Advanced Protection Mode is getting a new feature allowing trusted security experts to investigate potential spyware infections",
+            "published_utc": "2026-05-14T13:30:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I compared Samsung, Motorola, and Google's premium foldable phones - and I'd buy this one",
+            "link": "https://www.zdnet.com/article/samsung-galaxy-z-fold-7-vs-google-pixel-10-pro-fold-vs-motorola-razr-fold/",
+            "summary": "The Motorola Razr Fold faces tough competition from the Samsung Galaxy Z Fold 7 and Google Pixel 10 Pro Fold, but still manages to stand out.",
+            "published_utc": "2026-05-14T13:00:54+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I replaced my slab phone with Motorola's $1,900 Razr Fold - and it's got me hooked",
+            "link": "https://www.zdnet.com/article/motorola-razr-fold-review/",
+            "summary": "The new Razr Fold is one of my favorite phones I've used in 2026, thanks to its stunning displays, stellar cameras, and top-tier hardware.",
+            "published_utc": "2026-05-14T13:00:42+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Mythos Proves Potent in Vulnerability Discovery, Less Convincing Elsewhere",
+            "link": "https://www.securityweek.com/mythos-proves-potent-in-vulnerability-discovery-less-convincing-elsewhere/",
+            "summary": "",
+            "published_utc": "2026-05-14T13:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "New Fragnesia Flaw Hands Linux Local Users Root Access",
+            "link": "https://www.infosecurity-magazine.com/news/fragnesia-linux-kernel-lpe-root/",
+            "summary": "New Fragnesia kernel flaw lets unprivileged local users escalate to root on Linux systems",
+            "published_utc": "2026-05-14T13:00:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "FlowerStorm phishing gang adopts virtual-machine obfuscation to evade email defenses",
+            "link": "https://www.csoonline.com/article/4171221/flowerstorm-phishing-gang-adopts-virtual-machine-obfuscation-to-evade-email-defenses.html",
+            "summary": "",
+            "published_utc": "2026-05-14T13:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Akamai to Acquire AI and Browser Security Firm LayerX for $205 Million",
+            "link": "https://www.securityweek.com/akamai-to-acquire-ai-and-browser-security-firm-layerx-for-205-million/",
+            "summary": "",
+            "published_utc": "2026-05-14T12:55:38+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The third major Linux kernel flaw in two weeks has been found - thanks to AI",
+            "link": "https://www.zdnet.com/article/third-major-linux-kernel-flaw-in-two-weeks-found-by-ai/",
+            "summary": "AI is exposing Linux security holes faster than developers can patch them. Fragnesia is the latest. Here's what we know about it.",
+            "published_utc": "2026-05-14T12:27:22+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "KongTuke hackers now use Microsoft Teams for corporate breaches",
@@ -150,13 +241,6 @@
         },
         {
             "source": "ZDNet Security",
-            "title": "I'm following the 60-60 rule for headphone listening, and my future self will thank me for it",
-            "link": "https://www.zdnet.com/article/what-is-60-60-rule-headphones-and-why-its-important/",
-            "summary": "Wearing headphones every day has a greater effect on your ears than you might think. But your devices likely have features to help.",
-            "published_utc": "2026-05-14T01:30:41+00:00"
-        },
-        {
-            "source": "ZDNet Security",
             "title": "You may qualify for Amazon Prime at 50% off without even knowing - here's how",
             "link": "https://www.zdnet.com/article/who-qualifies-for-discounted-amazon-prime-faq/",
             "summary": "There are a couple of lesser-known ways to get Amazon Prime at a discount right now. I break down the details.",
@@ -247,13 +331,6 @@
             "published_utc": "2026-05-13T18:40:06+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Foxconn Confirms North American Factories Hit by Cyberattack",
-            "link": "https://www.securityweek.com/foxconn-confirms-north-american-factories-hit-by-cyberattack/",
-            "summary": "",
-            "published_utc": "2026-05-13T17:13:36+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Windows BitLocker zero-day gives access to protected drives, PoC released",
             "link": "https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/",
@@ -266,13 +343,6 @@
             "link": "https://www.zdnet.com/article/t-mobile-gift-card-deal/",
             "summary": "Get a $300 or $400 prepaid Mastercard when you bring your device and old number to T-Mobile. We break down the deal.",
             "published_utc": "2026-05-13T16:17:38+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Microsoft, Palo Alto Networks Find Many Vulnerabilities by Using AI on Their Own Code",
-            "link": "https://www.securityweek.com/microsoft-palo-alto-networks-find-many-vulnerabilities-by-using-ai-on-their-own-code/",
-            "summary": "",
-            "published_utc": "2026-05-13T16:01:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -296,20 +366,6 @@
             "published_utc": "2026-05-13T15:42:46+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Your TV's RS-232 port is a powerful automation tool - how to unlock it (and what it can do)",
-            "link": "https://www.zdnet.com/article/what-is-the-tvs-rss232-serial-port-and-what-it-can-do/",
-            "summary": "The RS-232 serial port on your smart TV isn't just for professional diagnostics. Here's how to unlock it for more advanced programming.",
-            "published_utc": "2026-05-13T15:00:38+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Sweet Security Launches Agentic AI Red Teaming to Counter ‘Mythos Moment’",
-            "link": "https://www.securityweek.com/sweet-security-launches-agentic-ai-red-teaming-to-counter-mythos-moment/",
-            "summary": "",
-            "published_utc": "2026-05-13T14:50:20+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Microsoft fixes Windows Autopatch bug installing restricted drivers",
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-autopatch-bug-installing-restricted-drivers/",
@@ -322,13 +378,6 @@
             "link": "https://www.infosecurity-magazine.com/news/canvas-cybercriminals-agreement/",
             "summary": "Instructure says it reached an agreement with ShinyHunters over the Canvas breach data",
             "published_utc": "2026-05-13T14:30:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "CachyOS vs. MX Linux: Are you seeking speed or stability in your distro?",
-            "link": "https://www.zdnet.com/article/cachyos-vs-mx-linux-which-is-right-for-you/",
-            "summary": "Both CachyOS and MX Linux sit atop the Distrowatch Page Hit Ranking list, but they are quite different distributions. Which one of these should you ch...",
-            "published_utc": "2026-05-13T14:18:48+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -345,32 +394,11 @@
             "published_utc": "2026-05-13T14:00:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "What is digital transformation? Everything you need to know about how technology is changing business",
-            "link": "https://www.zdnet.com/article/what-is-digital-transformation/",
-            "summary": "Digital transformation: Here's why it matters, what the big trends are, how it impacts you - and why it will never end.",
-            "published_utc": "2026-05-13T13:41:13+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Red Hat Desktop vs. Fedora Hummingbird: Which AI development Linux path is right for you?",
-            "link": "https://www.zdnet.com/article/red-hat-desktop-vs-fedora-hummingbird-ai-linux/",
-            "summary": "Red Hat Desktop is for secure, production-style AI development, while Fedora Hummingbird is for AI agent experimentation.",
-            "published_utc": "2026-05-13T13:34:00+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "What happens when China’s AI catches up to Mythos?",
             "link": "https://www.csoonline.com/article/4170818/what-happens-when-chinas-ai-catches-up-to-mythos.html",
             "summary": "",
             "published_utc": "2026-05-13T13:32:35+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Webinar Today: ROI for Cyber-Physical Security Programs",
-            "link": "https://www.securityweek.com/webinar-today-roi-for-cyber-physical-security-programs/",
-            "summary": "",
-            "published_utc": "2026-05-13T13:30:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -595,13 +623,6 @@
             "link": "https://www.csoonline.com/article/4168684/cisos-step-into-the-ai-spotlight.html",
             "summary": "",
             "published_utc": "2026-05-12T09:01:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Why patching SLAs should be the floor, not the strategy",
-            "link": "https://www.csoonline.com/article/4169623/why-patching-slas-should-be-the-floor-not-the-strategy.html",
-            "summary": "",
-            "published_utc": "2026-05-12T09:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2732,32 +2753,11 @@
             "published_utc": "2026-03-05T11:00:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "Cisco Issues Patches for 48 Vulnerabilities in Enterprise Networking Products",
-            "link": "https://www.infosecurity-magazine.com/news/cisco-issues-patches-48/",
-            "summary": "Two of the 48 Cisco vulnerabilities, affecting Secure Firewall Management Center, are maximum-severity flaws",
-            "published_utc": "2026-03-05T10:30:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "How SMBs use threat research and MDR to build a defensive edge",
             "link": "https://www.welivesecurity.com/en/business-security/how-smbs-use-threat-research-mdr-build-defensive-edge/",
             "summary": "We speak to Director of ESET Threat Research Jean-Ian Boutin about where solutions that blend advanced technology with human expertise provide the mos...",
             "published_utc": "2026-03-05T10:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Europol Operation Seizes LeakBase Data Breach Site",
-            "link": "https://www.infosecurity-magazine.com/news/europol-seizes-leakbase-data/",
-            "summary": "A global operation has resulted in the takedown of popular cybercrime forum LeakBase",
-            "published_utc": "2026-03-05T09:45:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Coalition of Western Countries Launches 6G Cybersecurity Guidelines",
-            "link": "https://www.infosecurity-magazine.com/news/gcot-6g-cybersecurity-guidelines/",
-            "summary": "A coalition of seven Western nations has launched guidelines to help integrate security-by-design principles into future 6G standards",
-            "published_utc": "2026-03-04T16:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
