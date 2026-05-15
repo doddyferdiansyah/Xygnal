@@ -1,6 +1,76 @@
 {
-    "lastUpdatedUTC": "2026-05-15T10:25:13.720861+00:00",
+    "lastUpdatedUTC": "2026-05-15T12:54:13.191911+00:00",
     "articles": [
+        {
+            "source": "InfosecurityMag",
+            "title": "Microsoft Reports Severe Zero-Day Flaw in On-Prem Exchange Servers",
+            "link": "https://www.infosecurity-magazine.com/news/microsoft-zeroday-exchange-servers/",
+            "summary": "The zero-day vulnerability affects on-premises installations for all versions of Exchange Server 2016, 2019 and Subscription Edition",
+            "published_utc": "2026-05-15T12:35:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "This new Claude skill saves you from bad contracts - and costs less than a lawyer",
+            "link": "https://www.zdnet.com/article/claude-small-business-contract-review-ai-no-lawyer/",
+            "summary": "I tested Claude for Small Business, which has 31 skills, and the contract review tool is amazing.",
+            "published_utc": "2026-05-15T12:31:53+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft to automatically roll back faulty Windows drivers",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-automatically-roll-back-faulty-windows-drivers/",
+            "summary": "Microsoft is introducing a new capability that will allow it to remotely roll back problematic Windows drivers delivered through Windows Update. [...]",
+            "published_utc": "2026-05-15T12:29:48+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I tested Bose's Lifestyle Ultra soundbar, and it raised the 'too much bass' debate in my home",
+            "link": "https://www.zdnet.com/article/bose-lifestyle-ultra-soundbar-review/",
+            "summary": "Bose's premium soundbar debuts with improvements under the hood, but it's reinventing itself in an already crowded field.",
+            "published_utc": "2026-05-15T12:01:05+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I tested Bose's new smart speaker beside my Sonos Era 100 - it was better in several ways",
+            "link": "https://www.zdnet.com/article/bose-lifestyle-ultra-speaker-review/",
+            "summary": "Months after sunsetting the SoundTouch lineup, Bose's Lifestyle Ultra proves that it can still make versatile and great-sounding speaker.",
+            "published_utc": "2026-05-15T12:00:50+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Cisco warns of an actively exploited SD-WAN flaw with max severity",
+            "link": "https://www.csoonline.com/article/4171694/cisco-warns-of-an-actively-exploited-sd-wan-flaw-with-max-severity.html",
+            "summary": "",
+            "published_utc": "2026-05-15T11:43:23+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "My 4 favorite Android Auto settings are seriously useful - but hidden by default",
+            "link": "https://www.zdnet.com/article/android-auto-hidden-developer-settings-my-favorites/",
+            "summary": "These developer settings can completely change how your Android Auto looks and operates. They're not difficult to access, and it only takes a minute.",
+            "published_utc": "2026-05-15T11:30:50+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "American Lending Center Data Breach Affects 123,000 Individuals",
+            "link": "https://www.securityweek.com/american-lending-center-data-breach-affects-123000-individuals/",
+            "summary": "",
+            "published_utc": "2026-05-15T11:06:55+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Bypassing On-Camera Age-Verification Checks",
+            "link": "https://www.schneier.com/blog/archives/2026/05/bypassing-on-camera-age-verification-checks.html",
+            "summary": "",
+            "published_utc": "2026-05-15T11:06:32+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "OpenAI Hit by TanStack Supply Chain Attack",
+            "link": "https://www.securityweek.com/openai-hit-by-tanstack-supply-chain-attack/",
+            "summary": "",
+            "published_utc": "2026-05-15T10:37:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Your Sonos smart speaker has an underutilized automation feature - 5 helpful ways I use mine",
@@ -296,25 +366,11 @@
             "published_utc": "2026-05-14T12:55:38+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "The third major Linux kernel flaw in two weeks has been found - thanks to AI",
-            "link": "https://www.zdnet.com/article/third-major-linux-kernel-flaw-in-two-weeks-found-by-ai/",
-            "summary": "AI is exposing Linux security holes faster than developers can patch them. Fragnesia is the latest. Here's what we know about it.",
-            "published_utc": "2026-05-14T12:27:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "KongTuke hackers now use Microsoft Teams for corporate breaches",
             "link": "https://www.bleepingcomputer.com/news/security/kongtuke-hackers-now-use-microsoft-teams-for-corporate-breaches/",
             "summary": "Initial access broker KongTuke has moved to Microsoft Teams for social engineering attacks, taking as little as five minutes to gain persistent access...",
             "published_utc": "2026-05-14T12:12:40+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Chinese APTs Expand Targets, Update Backdoors in Recent Campaigns",
-            "link": "https://www.securityweek.com/chinese-apts-expand-targets-update-backdoors-in-recent-campaigns/",
-            "summary": "",
-            "published_utc": "2026-05-14T12:11:15+00:00"
         },
         {
             "source": "CSO Online",
@@ -324,13 +380,6 @@
             "published_utc": "2026-05-14T11:35:58+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "G7 Countries Release AI SBOM Guidance",
-            "link": "https://www.securityweek.com/g7-countries-release-ai-sbom-guidance/",
-            "summary": "",
-            "published_utc": "2026-05-14T11:15:05+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "How Dangerous Is Anthropic’s Mythos AI?",
             "link": "https://www.schneier.com/blog/archives/2026/05/how-dangerous-is-anthropics-mythos-ai.html",
@@ -338,39 +387,11 @@
             "published_utc": "2026-05-14T11:04:27+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "The best microSD cards of 2026: Expert tested and reviewed",
-            "link": "https://www.zdnet.com/article/best-microsd-card/",
-            "summary": "We put the best microSD cards from brands like SanDisk, Lexar, and ProGrade to the test to find the best microSD cards on the market today.",
-            "published_utc": "2026-05-14T11:00:38+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "This 8TB SanDisk SSD is selling for 62% off at Best buy - and I highly recommend it",
-            "link": "https://www.zdnet.com/article/sandisk-desk-drive-ssd-best-buy-deal/",
-            "summary": "The price of SSDs has massively increased, but you can now save nearly 62% on the 8TB SanDisk Desk Drive external SSD from Best Buy.",
-            "published_utc": "2026-05-14T10:55:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "F5 Patches Over 50 Vulnerabilities",
-            "link": "https://www.securityweek.com/f5-patches-over-50-vulnerabilities/",
-            "summary": "",
-            "published_utc": "2026-05-14T10:47:58+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Dell confirms its SupportAssist software causes Windows BSOD crashes",
             "link": "https://www.bleepingcomputer.com/news/software/dell-confirms-its-supportassist-software-causes-windows-bsod-crashes/",
             "summary": "Dell confirmed that its SupportAssist software is causing blue-screen crashes on some Windows systems following a wave of user reports about random re...",
             "published_utc": "2026-05-14T10:03:39+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The best secure browsers for privacy in 2026: Expert tested",
-            "link": "https://www.zdnet.com/article/best-browser-for-privacy/",
-            "summary": "Worried about your online activities from being tracked, or your browsing habits being sold? Make the switch to one of our favorite secure browsers.",
-            "published_utc": "2026-05-14T10:00:38+00:00"
         },
         {
             "source": "WIRED Security",
@@ -448,13 +469,6 @@
             "link": "https://www.csoonline.com/article/4170993/fortinet-fixes-two-critical-rce-flaws-in-fortiauthenticator-and-fortisandbox.html",
             "summary": "",
             "published_utc": "2026-05-13T20:51:06+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "New critical Exim mailer flaw allows remote code execution",
-            "link": "https://www.bleepingcomputer.com/news/security/new-critical-exim-mailer-flaw-allows-remote-code-execution/",
-            "summary": "A critical vulnerability affecting certain configurations of the Exim open-source mail transfer agent could be exploited by an unauthenticated remote ...",
-            "published_utc": "2026-05-13T20:23:50+00:00"
         },
         {
             "source": "WIRED Security",
@@ -602,13 +616,6 @@
             "link": "https://www.wired.com/story/iran-is-using-tiny-mosquito-boats-to-shut-down-the-strait-of-hormuz/",
             "summary": "Iran’s traditional naval fleet has been almost completely destroyed by US-Israeli raids. But Iran’s military has put a fleet of small vessels on the w...",
             "published_utc": "2026-05-12T19:06:26+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Mistral AI SDK, TanStack Router hit in npm software supply chain attack",
-            "link": "https://www.csoonline.com/article/4170284/mistral-ai-sdk-tanstack-router-hit-in-npm-software-supply-chain-attack.html",
-            "summary": "",
-            "published_utc": "2026-05-12T17:14:47+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -938,13 +945,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ai-adoption-outpaces-safety-policy/",
             "summary": "ISACA report warns that while AI has become the norm, many organizations are yet to formally apply safety or security policies around its use",
             "published_utc": "2026-05-05T11:10:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "DarkSword Malware",
-            "link": "https://www.schneier.com/blog/archives/2026/05/darksword-malware.html",
-            "summary": "",
-            "published_utc": "2026-05-05T10:42:03+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2758,13 +2758,6 @@
             "link": "https://www.infosecurity-magazine.com/news/contextcrush-ai-development-tools/",
             "summary": "Critical flaw \"ContextCrush\" in Context7 MCP Server could allow malicious instructions into AI tools",
             "published_utc": "2026-03-05T14:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Coruna Exploit Kit Targets Older iPhones in Multi-Stage Campaigns",
-            "link": "https://www.infosecurity-magazine.com/news/coruna-exploit-older-iphones/",
-            "summary": "Exploit kit \"Coruna\" targets iPhones running iOS 13.0 to 17.2.1, focusing on financial data theft",
-            "published_utc": "2026-03-05T12:15:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
