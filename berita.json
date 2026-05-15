@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2026-05-15T12:54:13.191911+00:00",
+    "lastUpdatedUTC": "2026-05-15T15:14:54.197223+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "In Other News: Big Tech vs Canada Encryption Bill, Cisco’s Free AI Security Spec, Audi App Flaws",
+            "link": "https://www.securityweek.com/in-other-news-big-tech-vs-canada-encryption-bill-ciscos-free-ai-security-spec-audi-app-flaws/",
+            "summary": "",
+            "published_utc": "2026-05-15T14:52:16+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft backpedals: Edge to stop loading passwords into memory",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-to-stop-loading-cleartext-passwords-in-memory-on-startup/",
+            "summary": "Microsoft is updating the Edge web browser to ensure it no longer loads saved passwords into process memory in clear text at startup after previously ...",
+            "published_utc": "2026-05-15T14:49:39+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Gremlin Stealer Evolves into Modular Threat with Advanced Evasion Capabilities",
+            "link": "https://www.infosecurity-magazine.com/news/gremlin-stealer-evolves-into/",
+            "summary": "A new Gremlin stealer variant has evolved into a modular toolkit with advanced evasion and data theft capabilities, according to new Unit 42 research",
+            "published_utc": "2026-05-15T14:19:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Inside the REMUS Infostealer: Session Theft, MaaS, and Rapid Evolution",
+            "link": "https://www.bleepingcomputer.com/news/security/inside-the-remus-infostealer-session-theft-maas-and-rapid-evolution/",
+            "summary": "Stolen browser sessions and authentication tokens are becoming more valuable than stolen passwords. Flare explains how the REMUS infostealer evolved a...",
+            "published_utc": "2026-05-15T14:02:12+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Samsung vs. Motorola in 2026: I've tested enough phones from both to know my winner",
+            "link": "https://www.zdnet.com/article/samsung-vs-motorola-phones/",
+            "summary": "Samsung and Motorola both make strong Android phones, but the better choice depends on your budget and more. Here's which one I'd choose and why.",
+            "published_utc": "2026-05-15T13:26:16+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Bose Lifestyle Ultra Speaker vs. Sonos Era 100: I compared both models, and here's the winner",
+            "link": "https://www.zdnet.com/article/bose-lifestyle-ultra-speaker-vs-sonos-era-100-i-compared-both-models-and-heres-the-winner/",
+            "summary": "Smart speakers are all the rage, and Bose's newcomer is a worthy competitor to the established Sonos.",
+            "published_utc": "2026-05-15T13:00:00+00:00"
+        },
         {
             "source": "InfosecurityMag",
             "title": "Microsoft Reports Severe Zero-Day Flaw in On-Prem Exchange Servers",
@@ -289,13 +331,6 @@
             "published_utc": "2026-05-14T15:43:41+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I found the best early Memorial Day Apple deals: Save hundreds on iPad, Apple Watch, and more",
-            "link": "https://www.zdnet.com/article/best-apple-deals-memorial-day-2026/",
-            "summary": "Summer is almost here, and you can already find deals on all things Apple with these early Memorial Day weekend sales.",
-            "published_utc": "2026-05-14T15:26:28+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Cyber-Enabled Cargo Crime: How Cybercrime Tradecraft is Used to Steal Freight",
             "link": "https://www.bleepingcomputer.com/news/security/cyber-enabled-cargo-crime-how-cybercrime-tradecraft-is-used-to-steal-freight/",
@@ -315,13 +350,6 @@
             "link": "https://www.securityweek.com/enhancing-data-center-security-without-sacrificing-performance/",
             "summary": "",
             "published_utc": "2026-05-14T14:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "6 ways I use Fedora 44 beyond the basics - and why it's ready for anything",
-            "link": "https://www.zdnet.com/article/fedora-44-uses-beyond-basics-why-ready-for-anything/",
-            "summary": "Fedora 44 is fast, stable, and surprisingly flexible. It can do much more than you might expect.",
-            "published_utc": "2026-05-14T13:45:00+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -357,13 +385,6 @@
             "link": "https://www.csoonline.com/article/4171221/flowerstorm-phishing-gang-adopts-virtual-machine-obfuscation-to-evade-email-defenses.html",
             "summary": "",
             "published_utc": "2026-05-14T13:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Akamai to Acquire AI and Browser Security Firm LayerX for $205 Million",
-            "link": "https://www.securityweek.com/akamai-to-acquire-ai-and-browser-security-firm-layerx-for-205-million/",
-            "summary": "",
-            "published_utc": "2026-05-14T12:55:38+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -448,20 +469,6 @@
             "link": "https://www.csoonline.com/article/4170987/fired-employee-sought-ai-help-to-hide-deletion-of-hosting-firms-customer-data.html",
             "summary": "",
             "published_utc": "2026-05-13T23:21:27+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "West Pharmaceutical says hackers stole data, encrypted systems",
-            "link": "https://www.bleepingcomputer.com/news/security/west-pharmaceutical-says-hackers-stole-data-encrypted-systems/",
-            "summary": "West Pharmaceutical Services disclosed that it was the target of a cyberattack that resulted in data exfiltration and system encryption. [...]",
-            "published_utc": "2026-05-13T22:23:31+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Iranian hackers targeted major South Korean electronics maker",
-            "link": "https://www.bleepingcomputer.com/news/security/iranian-hackers-targeted-major-south-korean-electronics-maker/",
-            "summary": "The Iran-linked hacking group MuddyWater (a.k.a. Seedworm, Static Kitten) launched a broad cyber-espionage campaign targeting at least nine high-profi...",
-            "published_utc": "2026-05-13T21:59:33+00:00"
         },
         {
             "source": "CSO Online",
@@ -2751,13 +2758,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ai-insider-risk-critical-business/",
             "summary": "Malicious insiders are using misusing AI for nefarious gain, while employees cutting corners also creates risk, warns Mimecast",
             "published_utc": "2026-03-05T16:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "ContextCrush Flaw Exposes AI Development Tools to Attacks",
-            "link": "https://www.infosecurity-magazine.com/news/contextcrush-ai-development-tools/",
-            "summary": "Critical flaw \"ContextCrush\" in Context7 MCP Server could allow malicious instructions into AI tools",
-            "published_utc": "2026-03-05T14:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
