@@ -1,6 +1,20 @@
 {
-    "lastUpdatedUTC": "2026-05-15T04:51:15.891112+00:00",
+    "lastUpdatedUTC": "2026-05-15T07:53:07.263945+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Chrome 148 Update Patches Critical Vulnerabilities",
+            "link": "https://www.securityweek.com/chrome-148-update-patches-critical-vulnerabilities/",
+            "summary": "",
+            "published_utc": "2026-05-15T07:25:15+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Cisco Patches Another SD-WAN Zero-Day, the Sixth Exploited in 2026",
+            "link": "https://www.securityweek.com/cisco-patches-another-sd-wan-zero-day-the-sixth-exploited-in-2026/",
+            "summary": "",
+            "published_utc": "2026-05-15T06:28:46+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Can anything replace my laptop? I tested 5 remote work setups to find the best alternative",
@@ -345,11 +359,11 @@
             "published_utc": "2026-05-14T08:55:46+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "High-Severity Vulnerability Patched in VMware Fusion",
-            "link": "https://www.securityweek.com/high-severity-vulnerability-patched-in-vmware-fusion/",
-            "summary": "",
-            "published_utc": "2026-05-14T08:42:25+00:00"
+            "source": "WeLiveSecurity",
+            "title": "FrostyNeighbor: Fresh mischief and digital shenanigans",
+            "link": "https://www.welivesecurity.com/en/eset-research/frostyneighbor-fresh-mischief-digital-shenanigans/",
+            "summary": "ESET researchers uncovered new activities attributed to FrostyNeighbor, updating its compromise chain to support the group’s continual cyberespionage ...",
+            "published_utc": "2026-05-14T08:50:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -357,13 +371,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/",
             "summary": "Linux distros are rolling out patches for a new high-severity kernel privilege escalation vulnerability (known as Fragnasia and tracked as CVE-2026-46...",
             "published_utc": "2026-05-14T07:34:19+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Researcher Drops YellowKey, GreenPlasma Windows Zero-Days",
-            "link": "https://www.securityweek.com/researcher-drops-yellowkey-greenplasma-windows-zero-days/",
-            "summary": "",
-            "published_utc": "2026-05-14T07:27:42+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -3241,13 +3248,6 @@
             "link": "https://www.welivesecurity.com/en/kids-online/roblox-executors-fun-games-someone-gets-hacked/",
             "summary": "You could be getting more than you bargained for when you download that cheat tool promising quick wins",
             "published_utc": "2025-09-26T09:00:00+00:00"
-        },
-        {
-            "source": "WeLiveSecurity",
-            "title": "DeceptiveDevelopment: From primitive crypto theft to sophisticated AI-based deception",
-            "link": "https://www.welivesecurity.com/en/eset-research/deceptivedevelopment-from-primitive-crypto-theft-to-sophisticated-ai-based-deception/",
-            "summary": "Malware operators collaborate with covert North Korean IT workers, posing a threat to both headhunters and job seekers",
-            "published_utc": "2025-09-25T08:59:34+00:00"
         },
         {
             "source": "Threatpost",
