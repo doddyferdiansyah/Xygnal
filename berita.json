@@ -1,6 +1,13 @@
 {
-    "lastUpdatedUTC": "2026-05-16T20:50:53.823522+00:00",
+    "lastUpdatedUTC": "2026-05-16T21:51:32.792661+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft rejects critical Azure vulnerability report, no CVE issued",
+            "link": "https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/",
+            "summary": "A security researcher claims Microsoft quietly fixed an Azure Backup for AKS vulnerability after rejecting his report, and without issuing a CVE. Micr...",
+            "published_utc": "2026-05-16T20:55:44+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Russian hackers turn Kazuar backdoor into modular P2P botnet",
@@ -399,13 +406,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/05/upcoming-speaking-engagements-56.html",
             "summary": "",
             "published_utc": "2026-05-14T16:01:06+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "18-year-old NGINX vulnerability allows DoS, potential RCE",
-            "link": "https://www.bleepingcomputer.com/news/security/18-year-old-nginx-vulnerability-allows-dos-potential-rce/",
-            "summary": "An 18-year-old flaw in the NGINX open-source web server, discovered using an autonomous scanning system, can be exploited for denial of service and, u...",
-            "published_utc": "2026-05-14T15:43:41+00:00"
         },
         {
             "source": "InfosecurityMag",
