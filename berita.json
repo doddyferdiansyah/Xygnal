@@ -1,6 +1,13 @@
 {
-    "lastUpdatedUTC": "2026-05-17T21:56:57.002663+00:00",
+    "lastUpdatedUTC": "2026-05-17T22:56:43.614954+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "New Windows 'MiniPlasma' zero-day exploit gives SYSTEM access, PoC released",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/",
+            "summary": "A cybersecurity researcher has released a proof-of-concept exploit for a Windows privilege escalation zero-day dubbed \"MiniPlasma\" that lets attackers...",
+            "published_utc": "2026-05-17T22:30:08+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Tycoon2FA hijacks Microsoft 365 accounts via device-code phishing",
@@ -385,13 +392,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-critical-sd-wan-flaw-exploited-in-zero-day-attacks/",
             "summary": "Cisco is warning that a critical Catalyst SD-WAN Controller authentication bypass flaw, tracked as CVE-2026-20182, was actively exploited in zero-day ...",
             "published_utc": "2026-05-14T20:09:56+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "OpenAI confirms security breach in TanStack supply chain attack",
-            "link": "https://www.bleepingcomputer.com/news/security/openai-confirms-security-breach-in-tanstack-supply-chain-attack/",
-            "summary": "OpenAI says two employees' devices were breached in the recent TanStack supply chain attack that impacted hundreds of npm and PyPI packages, causing t...",
-            "published_utc": "2026-05-14T19:07:24+00:00"
         },
         {
             "source": "Schneier",
