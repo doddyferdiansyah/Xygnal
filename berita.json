@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-05-18T21:13:02.521835+00:00",
+    "lastUpdatedUTC": "2026-05-18T23:03:05.637074+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "Microsoft surprises with its first server Linux distribution: Azure Linux 4.0",
+            "link": "https://www.zdnet.com/article/microsoft-releases-its-first-server-linux-distribution-azure-linux-4-0/",
+            "summary": "You'll be able to run this Linux distro on both Azure and your desktop using Windows Subsystem for Linux. Here's what we know about it so far.",
+            "published_utc": "2026-05-18T22:53:57+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "INTERPOL ‘Operation Ramz’ seizes 53 malware, phishing servers",
+            "link": "https://www.bleepingcomputer.com/news/security/interpol-operation-ramz-seizes-53-malware-phishing-servers/",
+            "summary": "More than 200 individuals were arrested for cybercrime activities during INTERPOL's Operation Ramz, which focused on the Middle East and North Africa....",
+            "published_utc": "2026-05-18T22:15:30+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "SHub macOS infostealer variant spoofs Apple security updates",
+            "link": "https://www.bleepingcomputer.com/news/security/shub-macos-infostealer-variant-spoofs-apple-security-updates/",
+            "summary": "A new variant of the 'SHub' macOS infostealer uses AppleScript to show a fake security update message and installs a backdoor. [...]",
+            "published_utc": "2026-05-18T21:42:20+00:00"
+        },
         {
             "source": "KrebsOnSecurity",
             "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
@@ -352,13 +373,6 @@
             "published_utc": "2026-05-17T10:00:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "The best NAS devices of 2026: Expert tested and reviewed",
-            "link": "https://www.zdnet.com/article/best-network-attached-storage/",
-            "summary": "The best NAS storage devices of 2026 offer effortless storage solutions for home and professional use. These are our favorites including hardware we u...",
-            "published_utc": "2026-05-17T09:00:47+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Microsoft rejects critical Azure vulnerability report, no CVE issued",
             "link": "https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/",
@@ -420,20 +434,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/pwn2own-day-two-hackers-demo-microsoft-exchange-windows-11-red-had-enterprise-linux-zero-days/",
             "summary": "​During the second day of Pwn2Own Berlin 2026, competitors collected $385,750 in cash awards after exploiting 15 unique zero-day vulnerabilities in mu...",
             "published_utc": "2026-05-15T17:47:25+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Popular node-ipc npm package compromised to steal credentials",
-            "link": "https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/",
-            "summary": "Hackers have injected credential-stealing malware into newly published versions of node-ipc, a popular inter-process communication package, in a new s...",
-            "published_utc": "2026-05-15T17:10:42+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Avada Builder WordPress plugin flaws allow site credential theft",
-            "link": "https://www.bleepingcomputer.com/news/security/avada-builder-wordpress-plugin-flaws-allow-site-credential-theft/",
-            "summary": "Two vulnerabilities in the Avada Builder plugin for WordPress, with an estimated one million active installations, allow hackers to read arbitrary fil...",
-            "published_utc": "2026-05-15T15:56:56+00:00"
         },
         {
             "source": "SecurityWeek",
