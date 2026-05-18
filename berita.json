@@ -1,6 +1,90 @@
 {
-    "lastUpdatedUTC": "2026-05-18T05:06:27.273523+00:00",
+    "lastUpdatedUTC": "2026-05-18T10:06:39.698031+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "Save 20% on Corsair gaming gear right now - here's how",
+            "link": "https://www.zdnet.com/article/corsair-gaming-peripheral-deal/",
+            "summary": "Corsair's latest sale makes premium peripherals more affordable.",
+            "published_utc": "2026-05-18T10:00:44+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "First Shai-Hulud Worm Clones Emerge",
+            "link": "https://www.securityweek.com/first-shai-hulud-worm-clones-emerge/",
+            "summary": "",
+            "published_utc": "2026-05-18T09:45:15+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Security Researchers Find 47 Zero-Days at Pwn2Own Berlin",
+            "link": "https://www.infosecurity-magazine.com/news/security-researchers-47-zerodays/",
+            "summary": "The research community was awarded $1.3m as it found dozens of novel vulnerabilities at Pwn2Own Berlin",
+            "published_utc": "2026-05-18T09:45:00+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "An ICE Firearms Trainer Was Involved in At Least 4 Deadly Shootings",
+            "link": "https://www.wired.com/story/an-ice-firearms-trainer-was-involved-in-at-least-4-deadly-shootings/",
+            "summary": "David Norman, a former Phoenix police officer who’s described himself as “a fucking savage,” now runs a company that provided training to Homeland Sec...",
+            "published_utc": "2026-05-18T09:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Bank of England, FCA and Treasury Raise Alarm Over Frontier AI",
+            "link": "https://www.infosecurity-magazine.com/news/bank-england-fca-treasury-alarm/",
+            "summary": "The UK’s financial authorities have set expectations for the sector on cybersecurity and operational resilience",
+            "published_utc": "2026-05-18T09:00:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Why the best security investment a board can make in 2026 isn’t another tool",
+            "link": "https://www.csoonline.com/article/4171883/why-the-best-security-investment-a-board-can-make-in-2026-isnt-another-tool.html",
+            "summary": "",
+            "published_utc": "2026-05-18T09:00:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "AI coding is fueling a secrets-sprawl crisis few CISOs are containing",
+            "link": "https://www.csoonline.com/article/4171954/ai-coding-is-fueling-a-secrets-sprawl-crisis-few-cisos-are-containing.html",
+            "summary": "",
+            "published_utc": "2026-05-18T09:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Grafana Confirms Breach After Hackers Claim They Stole Data",
+            "link": "https://www.securityweek.com/grafana-confirms-breach-after-hackers-claim-they-stole-data/",
+            "summary": "",
+            "published_utc": "2026-05-18T08:34:59+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft confirms Windows 11 security update install issues",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5089549-windows-11-security-update-install-issues/",
+            "summary": "Microsoft has confirmed that the May 2026 Windows 11 security update (KB5089549) fails to install on some systems and triggers 0x800f0922 errors. [...]",
+            "published_utc": "2026-05-18T08:33:14+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Exploitation of Critical NGINX Vulnerability Begins",
+            "link": "https://www.securityweek.com/exploitation-of-critical-nginx-vulnerability-begins/",
+            "summary": "",
+            "published_utc": "2026-05-18T07:27:42+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Exploit available for new DirtyDecrypt Linux root escalation flaw",
+            "link": "https://www.bleepingcomputer.com/news/security/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw/",
+            "summary": "A recently patched local privilege escalation vulnerability in the Linux kernel's rxgk module now has a proof-of-concept exploit that allows attackers...",
+            "published_utc": "2026-05-18T07:18:33+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers earn $1,298,250 for 47 zero-days at Pwn2Own Berlin 2026",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-earn-1-298-250-for-47-zero-days-at-pwn2own-berlin-2026/",
+            "summary": "The Pwn2Own Berlin 2026 hacking contest has concluded, with security researchers collecting $1,298,250 in rewards after exploiting 47 zero-day flaws. ...",
+            "published_utc": "2026-05-18T05:33:20+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Hackers Earn $1.3 Million at Pwn2Own Berlin 2026",
@@ -303,13 +387,6 @@
             "published_utc": "2026-05-15T10:00:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Amazon Prime Day 2026 is coming in June: Everything to know about dates, deals, and what to expect",
-            "link": "https://www.zdnet.com/article/amazon-prime-day-2026-everything-you-need-to-know/",
-            "summary": "Amazon Prime Day 2026 is moving to June. Here's everything we know about the surprise move - including the latest on the confirmed shift, expected dat...",
-            "published_utc": "2026-05-15T10:00:00+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "TeamPCP Ups the Game, Releases Shai-Hulud Worm’s Source Code",
             "link": "https://www.securityweek.com/teampcp-ups-the-game-releases-shai-hulud-worms-source-code/",
@@ -352,20 +429,6 @@
             "published_utc": "2026-05-15T08:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Chrome 148 Update Patches Critical Vulnerabilities",
-            "link": "https://www.securityweek.com/chrome-148-update-patches-critical-vulnerabilities/",
-            "summary": "",
-            "published_utc": "2026-05-15T07:25:15+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Cisco Patches Another SD-WAN Zero-Day, the Sixth Exploited in 2026",
-            "link": "https://www.securityweek.com/cisco-patches-another-sd-wan-zero-day-the-sixth-exploited-in-2026/",
-            "summary": "",
-            "published_utc": "2026-05-15T06:28:46+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "AI agent finds 18-year-old remote code execution flaw in Nginx",
             "link": "https://www.csoonline.com/article/4171437/ai-agent-finds-18-year-old-remote-code-execution-flaw-in-nginx.html",
@@ -373,32 +436,11 @@
             "published_utc": "2026-05-14T23:06:50+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "TeamPCP hackers advertise Mistral AI code repos for sale",
-            "link": "https://www.bleepingcomputer.com/news/security/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale/",
-            "summary": "The TeamPCP hacker group is threatening to leak source code from the Mistral AI project unless a buyer is found for the data. [...]",
-            "published_utc": "2026-05-14T22:50:36+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Hackers exploit auth bypass flaw in Burst Statistics WordPress plugin",
-            "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-flaw-in-burst-statistics-wordpress-plugin/",
-            "summary": "Hackers are leveraging a critical authentication bypass vulnerability in the WordPress plugin Burst Statistics to obtain admin-level access to website...",
-            "published_utc": "2026-05-14T21:07:17+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Meet Fragnesia, the third Linux kernel vulnerability in a month",
             "link": "https://www.csoonline.com/article/4171403/meet-fragnesia-the-third-linux-kernel-vulnerability-in-a-month.html",
             "summary": "",
             "published_utc": "2026-05-14T20:29:38+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Cisco warns of new critical SD-WAN flaw exploited in zero-day attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-critical-sd-wan-flaw-exploited-in-zero-day-attacks/",
-            "summary": "Cisco is warning that a critical Catalyst SD-WAN Controller authentication bypass flaw, tracked as CVE-2026-20182, was actively exploited in zero-day ...",
-            "published_utc": "2026-05-14T20:09:56+00:00"
         },
         {
             "source": "Schneier",
@@ -413,13 +455,6 @@
             "link": "https://www.infosecurity-magazine.com/news/mustang-panda-fdmtp-backdoor-apj/",
             "summary": "Mustang Panda campaign deploys updated FDMTP backdoor against Asia-Pacific and Japan networks",
             "published_utc": "2026-05-14T15:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Enhancing Data Center Security Without Sacrificing Performance",
-            "link": "https://www.securityweek.com/enhancing-data-center-security-without-sacrificing-performance/",
-            "summary": "",
-            "published_utc": "2026-05-14T14:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -597,25 +632,11 @@
             "published_utc": "2026-05-13T09:05:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "2026 CSO Award winners showcase business-enabling cyber innovation",
-            "link": "https://www.csoonline.com/article/4168687/2026-cso-award-winners-showcase-business-enabling-cyber-innovation.html",
-            "summary": "",
-            "published_utc": "2026-05-13T09:01:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Microsoft Fixes 17 Critical Flaws in May Patch Tuesday",
             "link": "https://www.infosecurity-magazine.com/news/microsoft-17-critical-flaws-may/",
             "summary": "Microsoft has patched 120 vulnerabilities in this month’s security update round",
             "published_utc": "2026-05-13T08:15:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Google entdeckt erstmals KI-basierten Zero-Day-Exploit",
-            "link": "https://www.csoonline.com/article/4170601/google-entdeckt-erstmals-ki-basierten-zero-day-exploit.html",
-            "summary": "",
-            "published_utc": "2026-05-13T08:06:03+00:00"
         },
         {
             "source": "WIRED Security",
@@ -1652,13 +1673,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ai-companies-to-play-bigger-role/",
             "summary": "At VulnCon, Lindsey Cerkovnik, head of vulnerability management at CISA, said AI companies should play a bigger role in vulnerability disclosures in t...",
             "published_utc": "2026-04-15T10:30:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "The Deepfake Nudes Crisis in Schools Is Much Worse Than You Thought",
-            "link": "https://www.wired.com/story/deepfake-nudify-schools-global-crisis/",
-            "summary": "An analysis by WIRED and Indicator found nearly 90 schools and 600 students around the world impacted by AI-generated deepfake nude images—and the pro...",
-            "published_utc": "2026-04-15T10:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2739,25 +2753,11 @@
             "published_utc": "2026-03-06T15:15:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "Zero‑Day Attacks on Enterprise Software Reach Record High, Google Warns",
-            "link": "https://www.infosecurity-magazine.com/news/zero-day-enterprise-record-high/",
-            "summary": "Almost a quarter of the zero days detected by Google in 2025 targeted security and networking appliances",
-            "published_utc": "2026-03-06T12:29:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "What cybersecurity actually does for your business",
             "link": "https://www.welivesecurity.com/en/business-security/what-cybersecurity-actually-does-for-your-business/",
             "summary": "The ability to continue operating safely in an unsafe environment where competitors cannot is a competitive advantage that is rarely measured or discu...",
             "published_utc": "2026-03-06T10:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "AI-Driven Insider Risk Now a “Critical Business Threat,” Report Warns",
-            "link": "https://www.infosecurity-magazine.com/news/ai-insider-risk-critical-business/",
-            "summary": "Malicious insiders are using misusing AI for nefarious gain, while employees cutting corners also creates risk, warns Mimecast",
-            "published_utc": "2026-03-05T16:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
