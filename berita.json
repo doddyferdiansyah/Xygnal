@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2026-05-18T14:30:14.084834+00:00",
+    "lastUpdatedUTC": "2026-05-18T17:29:47.292076+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Leaked Shai-Hulud malware fuels new npm infostealer campaign",
+            "link": "https://www.bleepingcomputer.com/news/security/leaked-shai-hulud-malware-fuels-new-npm-infostealer-campaign/",
+            "summary": "The Shai-Hulud malware leaked last week is now used in new attacks on the Node Package Manager (npm) index, as infected packages emerged over the week...",
+            "published_utc": "2026-05-18T17:28:02+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "AI cyberattackers are getting better faster",
+            "link": "https://www.csoonline.com/article/4172519/ai-cyberattackers-are-getting-better-faster.html",
+            "summary": "",
+            "published_utc": "2026-05-18T16:36:35+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I asked Codex AI to customize my Hyprland desktop - it worked, but beginners beware",
+            "link": "https://www.zdnet.com/article/codex-to-customize-my-hyprland-desktop/",
+            "summary": "Hyrpland is a fantastic Linux window manager, but it can be complicated to configure. I asked Codex to write a .conf file - here's how that went.",
+            "published_utc": "2026-05-18T16:13:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Microsoft is finally bringing the movable taskbar to Windows 11 - here's who can try it now",
+            "link": "https://www.zdnet.com/article/microsoft-windows-11-taskbar-moves-to-any-screen-edge/",
+            "summary": "Thanks to an update rolling out to Windows 11 insiders, you'll be able to move the taskbar to the top, bottom, left, or right. Start menu changes are ...",
+            "published_utc": "2026-05-18T15:16:30+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Microsoft Edge just stopped storing your passwords in plaintext - but you'll need the latest update",
+            "link": "https://www.zdnet.com/article/microsoft-edge-passwords-ram-plaintext/",
+            "summary": "Though Microsoft claimed that storing plaintext passwords in memory was by design, the company has changed the behavior to better protect your passwords.",
+            "published_utc": "2026-05-18T14:52:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How to check your Windows PC for expiring security certificates - a big one ends in June",
+            "link": "https://www.zdnet.com/article/secure-boot-certificate-updates-2026/",
+            "summary": "A critical Windows expiration date is coming next month for more than a billion PCs - and even some Linux distros are affected. Is your PC ready?",
+            "published_utc": "2026-05-18T14:45:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Best Buy and Amazon just dropped prices on SSDs ahead of Memorial Day - I found the best deals",
@@ -359,32 +401,11 @@
             "published_utc": "2026-05-15T17:10:42+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I found the best early Memorial Day phone deals: Save big on Samsung, Google, Apple and more",
-            "link": "https://www.zdnet.com/article/best-early-memorial-day-phones-deals-2026/",
-            "summary": "For Memorial Day, I've rounded up the best smartphone deals. Discounts are already live, so now is a great time to save.",
-            "published_utc": "2026-05-15T17:10:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Switch to plug-in solar? My advice after testing the DIY energy tech at home",
-            "link": "https://www.zdnet.com/article/switch-to-plug-in-solar-my-advice-on-diy-energy-tech/",
-            "summary": "One big hurdle to harvesting power with this new solar technology is government red tape. Here's where you can and can't take advantage of plug-in sol...",
-            "published_utc": "2026-05-15T16:31:08+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Avada Builder WordPress plugin flaws allow site credential theft",
             "link": "https://www.bleepingcomputer.com/news/security/avada-builder-wordpress-plugin-flaws-allow-site-credential-theft/",
             "summary": "Two vulnerabilities in the Avada Builder plugin for WordPress, with an estimated one million active installations, allow hackers to read arbitrary fil...",
             "published_utc": "2026-05-15T15:56:56+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I found the best early Memorial Day outdoor deals: Lawn mowers, power banks, and more",
-            "link": "https://www.zdnet.com/article/best-early-memorial-day-2026-outdoor-deals/",
-            "summary": "You can already find great Memorial Day deals on everything you need to upgrade your outdoor space.",
-            "published_utc": "2026-05-15T15:23:00+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -408,25 +429,11 @@
             "published_utc": "2026-05-15T14:19:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Inside the REMUS Infostealer: Session Theft, MaaS, and Rapid Evolution",
-            "link": "https://www.bleepingcomputer.com/news/security/inside-the-remus-infostealer-session-theft-maas-and-rapid-evolution/",
-            "summary": "Stolen browser sessions and authentication tokens are becoming more valuable than stolen passwords. Flare explains how the REMUS infostealer evolved a...",
-            "published_utc": "2026-05-15T14:02:12+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Microsoft Reports Severe Zero-Day Flaw in On-Prem Exchange Servers",
             "link": "https://www.infosecurity-magazine.com/news/microsoft-zeroday-exchange-servers/",
             "summary": "The zero-day vulnerability affects on-premises installations for all versions of Exchange Server 2016, 2019 and Subscription Edition",
             "published_utc": "2026-05-15T12:35:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "This new Claude skill saves you from bad contracts - and costs less than a lawyer",
-            "link": "https://www.zdnet.com/article/claude-small-business-contract-review-ai-no-lawyer/",
-            "summary": "I tested Claude for Small Business, which has 31 skills, and the contract review tool is amazing.",
-            "published_utc": "2026-05-15T12:31:53+00:00"
         },
         {
             "source": "CSO Online",
@@ -637,13 +644,6 @@
             "link": "https://www.csoonline.com/article/4170785/microsofts-new-ai-system-finds-16-windows-flaws-including-four-critical-rces.html",
             "summary": "",
             "published_utc": "2026-05-13T12:23:38+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Palo Alto Networks bets on identity security for autonomous AI with Idira launch",
-            "link": "https://www.csoonline.com/article/4170761/palo-alto-bets-on-identity-security-for-autonomous-ai-with-idira-launch.html",
-            "summary": "",
-            "published_utc": "2026-05-13T12:08:16+00:00"
         },
         {
             "source": "Schneier",
