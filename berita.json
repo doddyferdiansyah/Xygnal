@@ -1,6 +1,20 @@
 {
-    "lastUpdatedUTC": "2026-05-19T20:44:45.407026+00:00",
+    "lastUpdatedUTC": "2026-05-19T22:17:12.021299+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Cybercrime service disrupted for abusing Microsoft platform to sign malware",
+            "link": "https://www.bleepingcomputer.com/news/security/cybercrime-service-disrupted-for-abusing-microsoft-platform-to-sign-malware/",
+            "summary": "Microsoft says it has disrupted a malware-signing-as-a-service (MSaaS) operation that abused the company's Artifact Signing service to generate fraudu...",
+            "published_utc": "2026-05-19T21:47:31+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Contractor’s public GitHub account exposed GovCloud and CISA credentials",
+            "link": "https://www.csoonline.com/article/4173305/contractors-public-github-account-exposed-govcloud-and-cisa-credentials.html",
+            "summary": "",
+            "published_utc": "2026-05-19T20:57:46+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Discord rolls out end-to-end encryption on voice, video calls",
@@ -408,13 +422,6 @@
             "published_utc": "2026-05-18T14:00:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Grafana says stolen GitHub token let hackers steal codebase",
-            "link": "https://www.bleepingcomputer.com/news/security/grafana-says-stolen-github-token-let-hackers-steal-codebase/",
-            "summary": "Grafana Labs disclosed that hackers have downloaded its source code after breaching its GitHub environment using a stolen access token. [...]",
-            "published_utc": "2026-05-18T13:46:26+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "The Infosecurity Europe Cyber Startup Competition: Meet the Finalists",
             "link": "https://www.infosecurity-magazine.com/news/infosec-europe-cyber-startup/",
@@ -630,13 +637,6 @@
             "link": "https://www.csoonline.com/article/4171221/flowerstorm-phishing-gang-adopts-virtual-machine-obfuscation-to-evade-email-defenses.html",
             "summary": "",
             "published_utc": "2026-05-14T13:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "PraisonAI vulnerability gets scanned within 4 hours of disclosure",
-            "link": "https://www.csoonline.com/article/4171215/praisonai-vulnerability-gets-scanned-within-4-hours-of-disclosure.html",
-            "summary": "",
-            "published_utc": "2026-05-14T11:35:58+00:00"
         },
         {
             "source": "Schneier",
