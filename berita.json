@@ -1,26 +1,61 @@
 {
-    "lastUpdatedUTC": "2026-05-19T18:06:35.934268+00:00",
+    "lastUpdatedUTC": "2026-05-19T20:44:45.407026+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Discord rolls out end-to-end encryption on voice, video calls",
+            "link": "https://www.bleepingcomputer.com/news/security/discord-rolls-out-end-to-end-encryption-on-voice-video-calls/",
+            "summary": "Discord announced that all voice and video calls through the communication platform are now protected by default with end-to-end encryption (E2EE). [...]",
+            "published_utc": "2026-05-19T20:37:45+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "FBI: Americans lost over $388 million to scams using crypto ATMs in 2025",
+            "link": "https://www.bleepingcomputer.com/news/security/fbi-americans-lost-over-388-million-to-scams-using-crypto-atms-in-2025/",
+            "summary": "The FBI says Americans have lost over $388 million last year to scams using cryptocurrency kiosks, also known as crypto ATMs or Bitcoin ATMs. [...]",
+            "published_utc": "2026-05-19T19:45:39+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Kubuntu vs. Fedora KDE: Which KDE Plasma distro is right for you?",
+            "link": "https://www.zdnet.com/article/kubuntu-vs-fedora-kde-which-kde-plasma-distro-is-right-for-you/",
+            "summary": "These two Linux distributions take different approaches to the desktop. One may have an edge for new users.",
+            "published_utc": "2026-05-19T19:38:26+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft Self-Service Password Reset abused in Azure data theft attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/microsoft-self-service-password-reset-abused-in-azure-data-theft-attacks/",
+            "summary": "A threat actor targeting Microsoft 365 and Azure production environments is stealing data in attacks that abuse legitimate applications and administra...",
+            "published_utc": "2026-05-19T19:35:32+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "AntV data visualization tool the latest to be hit by ongoing npm supply chain attacks",
+            "link": "https://www.csoonline.com/article/4173291/antv-data-visualization-tool-the-latest-to-be-hit-by-ongoing-npm-supply-chain-attacks-2.html",
+            "summary": "",
+            "published_utc": "2026-05-19T19:19:05+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "6 reasons why Firefox is the better browser for most users",
+            "link": "https://www.zdnet.com/article/6-reasons-why-firefox-is-the-better-browser-for-most-users/",
+            "summary": "Still using Chrome, Edge, or Safari? Firefox is alive and well - and offering a fast, customizable, bloat-free, private, secure browsing experience fr...",
+            "published_utc": "2026-05-19T19:00:48+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Google I/O 2026 live: Our takes on Gemini 3.5, Spark, Android XR, and more",
+            "link": "https://www.zdnet.com/article/google-io-05-19-2026-live-blog/",
+            "summary": "We're reporting live from Mountain View at Google's annual developer conference today. Stay tuned for the latest updates.",
+            "published_utc": "2026-05-19T18:54:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "OpenAI's new image watermarks make it easier to spot AI fakes - here's how",
             "link": "https://www.zdnet.com/article/openai-image-watermarks-help-spot-ai-fakes/",
             "summary": "Older metadata could be stripped out. OpenAI's new approach hides signals in the pixels themselves.",
             "published_utc": "2026-05-19T17:45:36+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Google's new Omni AI tool will let you video clone yourself - I'm intrigued (and concerned)",
-            "link": "https://www.zdnet.com/article/google-omni-ai-tool-video-gemini/",
-            "summary": "Google Gemini Omni aims to do for AI video what Nano Banana did for images - combining realism, style control, avatars, and natural-language editing i...",
-            "published_utc": "2026-05-19T17:45:07+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Google overhauls its AI plans - which one should you now choose?",
-            "link": "https://www.zdnet.com/article/google-new-ai-plans-which-should-you-choose-2026/",
-            "summary": "The new AI Ultra plan runs $100 a month, while the top-tier Ultra subscription has been cut from $250 to $200. But the AI Plus and Pro plans also get ...",
-            "published_utc": "2026-05-19T17:45:04+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -31,10 +66,17 @@
         },
         {
             "source": "ZDNet Security",
-            "title": "Google I/O 2026 live: Biggest updates on Android, Gemini AI, XR, and more we're seeing",
-            "link": "https://www.zdnet.com/article/google-io-05-19-2026-live-blog/",
-            "summary": "We're reporting live from Mountain View at Google's annual developer conference today. Stay tuned for the latest updates.",
-            "published_utc": "2026-05-19T17:26:00+00:00"
+            "title": "Google's new Omni AI tool will let you video clone yourself - I'm intrigued (and concerned)",
+            "link": "https://www.zdnet.com/article/google-omni-ai-tool-video-gemini/",
+            "summary": "Google Gemini Omni aims to do for AI video what Nano Banana did for images - combining realism, style control, avatars, and natural-language editing i...",
+            "published_utc": "2026-05-19T17:45:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Google overhauls its AI plans - which one should you now choose?",
+            "link": "https://www.zdnet.com/article/google-new-ai-plans-which-should-you-choose-2026/",
+            "summary": "The new AI Ultra plan runs $100 a month, while the top-tier Ultra subscription has been cut from $250 to $200. But the AI Plus and Pro plans also get ...",
+            "published_utc": "2026-05-19T17:45:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -338,25 +380,11 @@
             "published_utc": "2026-05-18T20:07:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "How to upgrade your 'incompatible' Windows 10 PC to Windows 11 - for free",
-            "link": "https://www.zdnet.com/article/how-to-upgrade-your-incompatible-windows-10-pc-to-windows-11/",
-            "summary": "Microsoft really doesn't want customers to upgrade older PCs to Windows 11, but there are workarounds for all but the oldest devices. Extended securit...",
-            "published_utc": "2026-05-18T19:11:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "5 Steps to Managing Shadow AI Tools Without Slowing Down Employees",
             "link": "https://www.bleepingcomputer.com/news/security/5-steps-to-managing-shadow-ai-tools-without-slowing-down-employees/",
             "summary": "Many employees already use shadow AI tools at work without security review. Adaptive Security breaks down how teams can build practical AI governance ...",
             "published_utc": "2026-05-18T18:45:35+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I found the best early Memorial Day Walmart deals: Apple, Dyson, and more on sale",
-            "link": "https://www.zdnet.com/article/best-early-memorial-day-walmart-deals/",
-            "summary": "Memorial Day is almost here, and Walmart has already slashed prices on top tech.",
-            "published_utc": "2026-05-18T18:44:53+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -415,13 +443,6 @@
             "published_utc": "2026-05-18T12:04:14+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Microsoft testing adjustable taskbar, Start menu in Windows 11",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-finally-gets-a-resizable-taskbar-and-start-menu/",
-            "summary": "Microsoft has finally brought back the resizable taskbar and Start menu to Windows 11 in the latest preview version rolling out to Insiders in the Exp...",
-            "published_utc": "2026-05-18T11:14:28+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Zero-Day Exploit Against Windows BitLocker",
             "link": "https://www.schneier.com/blog/archives/2026/05/zero-day-exploit-against-windows-bitlocker.html",
@@ -469,20 +490,6 @@
             "link": "https://www.csoonline.com/article/4171954/ai-coding-is-fueling-a-secrets-sprawl-crisis-few-cisos-are-containing.html",
             "summary": "",
             "published_utc": "2026-05-18T09:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft confirms Windows 11 security update install issues",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5089549-windows-11-security-update-install-issues/",
-            "summary": "Microsoft has confirmed that the May 2026 Windows 11 security update (KB5089549) fails to install on some systems and triggers 0x800f0922 errors. [...]",
-            "published_utc": "2026-05-18T08:33:14+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Exploit available for new DirtyDecrypt Linux root escalation flaw",
-            "link": "https://www.bleepingcomputer.com/news/security/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw/",
-            "summary": "A recently patched local privilege escalation vulnerability in the Linux kernel's rxgk module now has a proof-of-concept exploit that allows attackers...",
-            "published_utc": "2026-05-18T07:18:33+00:00"
         },
         {
             "source": "WIRED Security",
@@ -651,13 +658,6 @@
             "link": "https://www.infosecurity-magazine.com/news/most-organizations-ai-agents/",
             "summary": "Semperis study finds 74% of organizations believe AI will increase attacks on identity infrastructure",
             "published_utc": "2026-05-14T09:20:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "What CISOs need to land a board role",
-            "link": "https://www.csoonline.com/article/4168690/what-cisos-need-to-land-a-board-role.html",
-            "summary": "",
-            "published_utc": "2026-05-14T09:01:00+00:00"
         },
         {
             "source": "InfosecurityMag",
