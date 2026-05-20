@@ -1,6 +1,69 @@
 {
-    "lastUpdatedUTC": "2026-05-20T05:05:31.028164+00:00",
+    "lastUpdatedUTC": "2026-05-20T09:36:32.006817+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "GitHub Confirms Hack Impacting 3,800 Internal Repositories",
+            "link": "https://www.securityweek.com/github-confirms-hack-impacting-3800-internal-repositories/",
+            "summary": "",
+            "published_utc": "2026-05-20T09:28:53+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Why some security fixes never reach your vulnerability dashboard",
+            "link": "https://www.csoonline.com/article/4173425/why-some-security-fixes-never-reach-your-vulnerability-dashboard.html",
+            "summary": "",
+            "published_utc": "2026-05-20T09:00:00+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "Data Brokers’ and AI Firms’ Opt-Out Forms Are Built to Fail, Report Finds",
+            "link": "https://www.wired.com/story/data-brokers-and-ai-firms-opt-out-forms-are-built-to-fail-report-finds/",
+            "summary": "A new study finds AI companies, defense firms, and dating apps are among 38 data collectors allegedly using manipulative design to confuse users while...",
+            "published_utc": "2026-05-20T09:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "This E ink tablet is the best annotator I've tested - but there's a steep learning curve",
+            "link": "https://www.zdnet.com/article/boox-go-10-3-gen-2-lumi-review/",
+            "summary": "Boox's Gen-2 Go 10.3 tablet is made for power users seeking a customizable Android tablet with a backlight.",
+            "published_utc": "2026-05-20T08:30:39+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+            "link": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+            "summary": "GitHub has confirmed that roughly 3,800 internal repositories were breached after one of its employees installed a malicious VS Code extension. [...]",
+            "published_utc": "2026-05-20T08:14:08+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "4 Android Auto settings I always turn on for a safer ride",
+            "link": "https://www.zdnet.com/article/4-android-auto-settings-i-always-turn-on-for-a-safer-ride/",
+            "summary": "Using Android Auto can be as dangerous as using your phone while driving. Fortunately, these built-in safety features make your daily drive a little s...",
+            "published_utc": "2026-05-20T08:00:35+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft shares mitigation for YellowKey Windows zero-day",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-mitigation-for-yellowkey-windows-zero-day/",
+            "summary": "Microsoft has shared mitigations for YellowKey, a recently disclosed Windows BitLocker zero-day vulnerability that grants access to protected drives. ...",
+            "published_utc": "2026-05-20T07:31:15+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "GitHub investigates internal repositories breach claimed by TeamPCP",
+            "link": "https://www.bleepingcomputer.com/news/security/github-investigates-internal-repositories-breach-claimed-by-teampcp/",
+            "summary": "GitHub is investigating a breach of its internal repositories after the TeamPCP hacker group claimed to have accessed approximately 4,000 repositories...",
+            "published_utc": "2026-05-20T05:08:42+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Everything we saw at Google I/O: Gemini 3.5, Android XR glasses, Spark, and more",
+            "link": "https://www.zdnet.com/article/google-io-05-19-2026-live-blog/",
+            "summary": "Here's everything we saw in Mountain View at Google's annual developer conference.",
+            "published_utc": "2026-05-20T05:05:00+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "Microsoft disrupts malware code-signing service used by ransomware gangs",
@@ -28,13 +91,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/max-severity-flaw-in-chromadb-for-ai-apps-allows-server-hijacking/",
             "summary": "A max-severity vulnerability in the latest Python FastAPI version of the ChromaDB project allows unauthenticated attackers to run arbitrary code on ex...",
             "published_utc": "2026-05-19T22:25:49+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Google I/O 2026 live: Our takes on Gemini 3.5, Spark, Android XR, and more",
-            "link": "https://www.zdnet.com/article/google-io-05-19-2026-live-blog/",
-            "summary": "We're reporting live from Mountain View at Google's annual developer conference today. Stay tuned for the latest updates.",
-            "published_utc": "2026-05-19T22:17:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -101,13 +157,6 @@
         },
         {
             "source": "ZDNet Security",
-            "title": "Google overhauls its AI plans - which one should you now choose?",
-            "link": "https://www.zdnet.com/article/google-new-ai-plans-which-should-you-choose-2026/",
-            "summary": "The new AI Ultra plan runs $100 a month, while the top-tier Ultra subscription has been cut from $250 to $200. But the AI Plus and Pro plans also get ...",
-            "published_utc": "2026-05-19T17:45:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
             "title": "Google's new AI Search box is here - along with agents and 5 more upgrades",
             "link": "https://www.zdnet.com/article/google-ai-search-box-with-agents-more-upgrades/",
             "summary": "Google now has information agents that work in the background and agentic coding tools that let you build apps directly in Search.",
@@ -118,6 +167,13 @@
             "title": "Google's new Omni AI tool will let you video clone yourself - I'm intrigued (and concerned)",
             "link": "https://www.zdnet.com/article/google-omni-ai-tool-video-gemini/",
             "summary": "Google Gemini Omni aims to do for AI video what Nano Banana did for images - combining realism, style control, avatars, and natural-language editing i...",
+            "published_utc": "2026-05-19T17:45:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Google overhauls its AI plans - which one should you now choose?",
+            "link": "https://www.zdnet.com/article/google-new-ai-plans-which-should-you-choose-2026/",
+            "summary": "The new AI Ultra plan runs $100 a month, while the top-tier Ultra subscription has been cut from $250 to $200. But the AI Plus and Pro plans also get ...",
             "published_utc": "2026-05-19T17:45:00+00:00"
         },
         {
@@ -352,18 +408,18 @@
             "published_utc": "2026-05-19T09:00:00+00:00"
         },
         {
+            "source": "WeLiveSecurity",
+            "title": "The quest for greater tech independence",
+            "link": "https://www.welivesecurity.com/en/cybersecurity/quest-greater-tech-independence/",
+            "summary": "A complete decoupling from US technology is neither realistic nor necessary, but the changing environment does require nations and companies to reasse...",
+            "published_utc": "2026-05-19T08:50:00+00:00"
+        },
+        {
             "source": "InfosecurityMag",
             "title": "Hackers Bypass Security Tools to Target Users Directly",
             "link": "https://www.infosecurity-magazine.com/news/hackers-bypass-security-tools/",
             "summary": "Bridewell report calls out emergence of “fix-style” attacks",
             "published_utc": "2026-05-19T08:20:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Critical Vulnerability Exposes Industrial Robot Fleets to Hacking",
-            "link": "https://www.securityweek.com/critical-vulnerability-exposes-industrial-robot-fleets-to-hacking/",
-            "summary": "",
-            "published_utc": "2026-05-19T06:18:51+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -373,27 +429,6 @@
             "published_utc": "2026-05-19T01:00:18+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Microsoft surprises with its first server Linux distribution: Azure Linux 4.0",
-            "link": "https://www.zdnet.com/article/microsoft-releases-its-first-server-linux-distribution-azure-linux-4-0/",
-            "summary": "You'll be able to run this Linux distro on both Azure and your desktop using Windows Subsystem for Linux. Here's what we know about it so far.",
-            "published_utc": "2026-05-18T22:53:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "INTERPOL ‘Operation Ramz’ seizes 53 malware, phishing servers",
-            "link": "https://www.bleepingcomputer.com/news/security/interpol-operation-ramz-seizes-53-malware-phishing-servers/",
-            "summary": "More than 200 individuals were arrested for cybercrime activities during INTERPOL's Operation Ramz, which focused on the Middle East and North Africa....",
-            "published_utc": "2026-05-18T22:15:30+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "SHub macOS infostealer variant spoofs Apple security updates",
-            "link": "https://www.bleepingcomputer.com/news/security/shub-macos-infostealer-variant-spoofs-apple-security-updates/",
-            "summary": "A new variant of the 'SHub' macOS infostealer uses AppleScript to show a fake security update message and installs a backdoor. [...]",
-            "published_utc": "2026-05-18T21:42:20+00:00"
-        },
-        {
             "source": "KrebsOnSecurity",
             "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
             "link": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
@@ -401,25 +436,11 @@
             "published_utc": "2026-05-18T20:48:21+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Cloud attacks are getting faster and deadlier - 4 ways to secure your business",
-            "link": "https://www.zdnet.com/article/google-cloud-threat-report-third-party-software-ai-attacks/",
-            "summary": "Google's latest threat report warns that third-party tools are now prime targets for attackers - and businesses have only days to prepare defenses.",
-            "published_utc": "2026-05-18T20:13:00+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Microsoft May security patch fails for some due to boot partition size glitch",
             "link": "https://www.csoonline.com/article/4172591/microsoft-may-security-patch-fails-for-some-due-to-boot-partition-size-glitch.html",
             "summary": "",
             "published_utc": "2026-05-18T20:11:03+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "5 Steps to Managing Shadow AI Tools Without Slowing Down Employees",
-            "link": "https://www.bleepingcomputer.com/news/security/5-steps-to-managing-shadow-ai-tools-without-slowing-down-employees/",
-            "summary": "Many employees already use shadow AI tools at work without security review. Adaptive Security breaks down how teams can build practical AI governance ...",
-            "published_utc": "2026-05-18T18:45:35+00:00"
         },
         {
             "source": "CSO Online",
@@ -602,13 +623,6 @@
             "link": "https://www.csoonline.com/article/4171437/ai-agent-finds-18-year-old-remote-code-execution-flaw-in-nginx.html",
             "summary": "",
             "published_utc": "2026-05-14T23:06:50+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Meet Fragnesia, the third Linux kernel vulnerability in a month",
-            "link": "https://www.csoonline.com/article/4171403/meet-fragnesia-the-third-linux-kernel-vulnerability-in-a-month.html",
-            "summary": "",
-            "published_utc": "2026-05-14T20:29:38+00:00"
         },
         {
             "source": "Schneier",
@@ -1652,13 +1666,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ddos-services-hit-by-police/",
             "summary": "Coordinated action by FBI, Europol and others seizes infrastructure, makes arrests – and sends warning letters to known DDoS service users",
             "published_utc": "2026-04-17T11:30:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "The Shocking Secrets of Madison Square Garden’s Surveillance Machine",
-            "link": "https://www.wired.com/story/madison-square-garden-jim-dolan-surveillance-machine/",
-            "summary": "Famously vengeful Knicks owner Jim Dolan has long spied on people at his iconic arenas. WIRED goes deep inside the operation that allegedly tracked a ...",
-            "published_utc": "2026-04-17T10:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
@@ -2751,13 +2758,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ericsson-breach-exposes-data-15k/",
             "summary": "Ericsson data breach affects 15k employees/customers after third-party service provider compromise",
             "published_utc": "2026-03-10T15:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Russian Hackers Target WhatsApp and Signal Accounts of Global Military and Government Officials",
-            "link": "https://www.infosecurity-magazine.com/news/russian-hackers-target-military/",
-            "summary": "Dutch intelligence reveals Russian state hackers are trying to hijack the Signal and WhatsApp accounts of key targets",
-            "published_utc": "2026-03-10T10:45:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
