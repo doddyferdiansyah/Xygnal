@@ -1,6 +1,146 @@
 {
-    "lastUpdatedUTC": "2026-05-20T12:25:38.943090+00:00",
+    "lastUpdatedUTC": "2026-05-20T16:25:53.569512+00:00",
     "articles": [
+        {
+            "source": "WIRED Security",
+            "title": "Madison Square Garden Bans Lawyer Representing New York Cop Injured at a Boxing Match",
+            "link": "https://www.wired.com/story/msg-bans-lawyer-representing-new-york-cop-injured-at-a-boxing-match/",
+            "summary": "Attorney John Scola is representing a police officer who is suing over injuries allegedly sustained while working security at an MSG property in 2025.",
+            "published_utc": "2026-05-20T16:24:52+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "5 Memorial Day deals that are worth your time (including a Costco membership discount)",
+            "link": "https://www.zdnet.com/article/my-favorite-deals-memorial-day-2026/",
+            "summary": "Memorial Day sales are here. I'm a shopping editor, and these are my favorite offers I've seen so far.",
+            "published_utc": "2026-05-20T16:00:44+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Google says AI agents spending your money is a 'more fun' way to shop",
+            "link": "https://www.zdnet.com/article/google-says-ai-agents-spending-your-money-is-a-more-fun-way-to-shop/",
+            "summary": "Google's new Universal Cart consolidates products from multiple retailers into one place.",
+            "published_utc": "2026-05-20T15:58:23+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "GitHub admits major source code leak after 3,800 internal repositories breached",
+            "link": "https://www.csoonline.com/article/4174747/github-admits-major-source-code-leak-after-3800-internal-repositories-breached-2.html",
+            "summary": "",
+            "published_utc": "2026-05-20T15:47:03+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Grafana breach caused by missed token rotation after TanStack attack",
+            "link": "https://www.bleepingcomputer.com/news/security/grafana-breach-caused-by-missed-token-rotation-after-tanstack-attack/",
+            "summary": "The Grafana data breach was caused by a single GitHub workflow token that slipped through the rotation process following the TanStack npm supply-chain...",
+            "published_utc": "2026-05-20T15:46:37+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Quantum Bridge Raises $8 Million for Quantum-Safe Key Distribution Solution",
+            "link": "https://www.securityweek.com/quantum-bridge-raises-8-million-for-quantum-safe-key-distribution-solution/",
+            "summary": "",
+            "published_utc": "2026-05-20T15:45:07+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Microsoft Rolls Out Mitigations for ‘YellowKey’ BitLocker Bypass",
+            "link": "https://www.securityweek.com/microsoft-rolls-out-mitigations-for-yellowkey-bitlocker-bypass/",
+            "summary": "",
+            "published_utc": "2026-05-20T15:39:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Android Malware Campaign Used Hundreds of Fake Apps to Silently Charge Users",
+            "link": "https://www.infosecurity-magazine.com/news/android-carrier-billing-fraud-four/",
+            "summary": "Premium Deception campaign uses 250 Android apps to silently sign victims up to paid services",
+            "published_utc": "2026-05-20T15:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Mini Shai-Hulud Hits Hundreds of npm Packages in AntV Ecosystem",
+            "link": "https://www.infosecurity-magazine.com/news/antv-npm-mini-shai-hulud-largest/",
+            "summary": "Mini Shai-Hulud worm hits Alibaba AntV ecosystem in largest npm supply chain wave to date",
+            "published_utc": "2026-05-20T15:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Ubuntu Core 26 offers an immutable Linux you can trust through 2041",
+            "link": "https://www.zdnet.com/article/ubuntu-core-26-canonicals-minimal-immutable-operating-system-arrives/",
+            "summary": "If your company wants to sell IoT or edge gear in the EU, Canonical's minimal, immutable distro is worth a serious look.",
+            "published_utc": "2026-05-20T14:43:42+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "AI-Powered App Attacks Are Faster, More Frequent and Harder to Stop",
+            "link": "https://www.securityweek.com/ai-powered-app-attacks-are-faster-more-frequent-and-harder-to-stop/",
+            "summary": "",
+            "published_utc": "2026-05-20T14:37:36+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "51% of professionals say AI workslop lowers their productivity - stop it in 2 steps",
+            "link": "https://www.zdnet.com/article/workslop-can-kill-your-productivity-heres-how-to-turn-ai-into-a-competitive-advantage/",
+            "summary": "Professionals are concerned about the low quality of AI output. Preventing workslop requires two crucial steps.",
+            "published_utc": "2026-05-20T14:37:33+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "On AI Security",
+            "link": "https://www.schneier.com/blog/archives/2026/05/on-ai-security.html",
+            "summary": "",
+            "published_utc": "2026-05-20T14:21:20+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Identity Alone Isn't Enough: Why Device Security Has to Share the Load",
+            "link": "https://www.bleepingcomputer.com/news/security/identity-alone-isnt-enough-why-device-security-has-to-share-the-load/",
+            "summary": "Identity checks alone can't stop attackers using stolen session tokens and compromised devices. Specops Software outlines why Zero Trust strategies in...",
+            "published_utc": "2026-05-20T14:02:12+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "1Password Teams With OpenAI to Stop AI Coding Agents From Leaking Credentials",
+            "link": "https://www.securityweek.com/1password-teams-with-openai-to-stop-ai-coding-agents-from-leaking-credentials/",
+            "summary": "",
+            "published_utc": "2026-05-20T13:34:54+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I wore Google's Android XR glasses again - and my limit-testing should scare Meta and Apple",
+            "link": "https://www.zdnet.com/article/i-wore-google-android-xr-glasses-io-2026-meta-apple/",
+            "summary": "My latest demos of the Android XR reference glasses and Project Aura show even more promise for Google's wearable lineup.",
+            "published_utc": "2026-05-20T13:32:03+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "11 cheap gadgets we've found to be highly useful (and they're on sale)",
+            "link": "https://www.zdnet.com/article/cheap-gadgets-memorial-day-2026/",
+            "summary": "Memorial Day weekend sales are here, but I'd buy these inexpensive gadgets any time of year. Here's why.",
+            "published_utc": "2026-05-20T13:17:32+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Mobile phishing is a bigger threat than email now - how to stay protected",
+            "link": "https://www.zdnet.com/article/mobile-phishing-is-a-bigger-threat-than-email-now/",
+            "summary": "Verizon's latest DBIR shows attackers are turning to texts and calls as email defenses improve. Here's what businesses should do now.",
+            "published_utc": "2026-05-20T13:09:24+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Anthropic Silently Patches Claude Code Sandbox Bypass",
+            "link": "https://www.securityweek.com/anthropic-silently-patches-claude-code-sandbox-bypass/",
+            "summary": "",
+            "published_utc": "2026-05-20T13:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Drupal critical update to fix bug with high exploitation risk",
+            "link": "https://www.bleepingcomputer.com/news/security/drupal-critical-update-to-fix-bug-with-high-exploitation-risk/",
+            "summary": "Drupal has announced a \"core security release\" scheduled for later today, warning that threat actors might develop exploits within hours of the update...",
+            "published_utc": "2026-05-20T12:52:29+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "TCL vs. Hisense: I've tested both TV brands for nearly a decade, and here's my pick",
@@ -128,6 +268,13 @@
             "published_utc": "2026-05-20T09:00:00+00:00"
         },
         {
+            "source": "InfosecurityMag",
+            "title": "Verizon DBIR: Vulnerability Exploits Overtake Credentials as Top Access Vector",
+            "link": "https://www.infosecurity-magazine.com/news/verizon-dbir-exploits-top-access/",
+            "summary": "Verizon DBIR finds 31% of data breaches began with software flaws last year",
+            "published_utc": "2026-05-20T08:40:00+00:00"
+        },
+        {
             "source": "ZDNet Security",
             "title": "This E ink tablet is the best annotator I've tested - but there's a steep learning curve",
             "link": "https://www.zdnet.com/article/boox-go-10-3-gen-2-lumi-review/",
@@ -175,13 +322,6 @@
             "link": "https://www.csoonline.com/article/4173417/microsoft-disrupts-malware-code-signing-service-used-by-ransomware-gangs.html",
             "summary": "",
             "published_utc": "2026-05-20T00:45:54+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Verizon DBIR 2026: Vulnerability Exploitation Overtakes Credential Theft as Top Breach Vector",
-            "link": "https://www.securityweek.com/verizon-dbir-2026-vulnerability-exploitation-overtakes-credential-theft-as-top-breach-vector/",
-            "summary": "",
-            "published_utc": "2026-05-20T00:04:48+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -254,27 +394,6 @@
             "published_utc": "2026-05-19T17:45:36+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Google's new AI Search box is here - along with agents and 5 more upgrades",
-            "link": "https://www.zdnet.com/article/google-ai-search-box-with-agents-more-upgrades/",
-            "summary": "Google now has information agents that work in the background and agentic coding tools that let you build apps directly in Search.",
-            "published_utc": "2026-05-19T17:45:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Google's new Omni AI tool will let you video clone yourself - I'm intrigued (and concerned)",
-            "link": "https://www.zdnet.com/article/google-omni-ai-tool-video-gemini/",
-            "summary": "Google Gemini Omni aims to do for AI video what Nano Banana did for images - combining realism, style control, avatars, and natural-language editing i...",
-            "published_utc": "2026-05-19T17:45:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Google overhauls its AI plans - which one should you now choose?",
-            "link": "https://www.zdnet.com/article/google-new-ai-plans-which-should-you-choose-2026/",
-            "summary": "The new AI Ultra plan runs $100 a month, while the top-tier Ultra subscription has been cut from $250 to $200. But the AI Plus and Pro plans also get ...",
-            "published_utc": "2026-05-19T17:45:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Microsoft plans to improve Windows 11 driver quality in 2026",
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-plans-to-improve-windows-11-driver-quality-in-2026/",
@@ -282,39 +401,11 @@
             "published_utc": "2026-05-19T16:22:30+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Drupal to Patch Highly Critical Vulnerability at Risk of Quick Exploitation",
-            "link": "https://www.securityweek.com/drupal-to-patch-highly-critical-vulnerability-at-risk-of-quick-exploitation/",
-            "summary": "",
-            "published_utc": "2026-05-19T16:22:18+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Microsoft blames macOS update for undismissible Teams location prompts",
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-undismissible-teams-location-prompts-on-macos-update/",
             "summary": "Microsoft has confirmed user reports that the Teams team collaboration app is displaying non-dismissible location prompts on some macOS systems. [...]",
             "published_utc": "2026-05-19T16:10:47+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Microsoft Disrupts Malware-Signing Service Run by ‘Fox Tempest’",
-            "link": "https://www.securityweek.com/microsoft-disrupts-malware-signing-service-run-by-fox-tempest/",
-            "summary": "",
-            "published_utc": "2026-05-19T16:06:22+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "ZDNET Big Guessing Game: Official contest rules",
-            "link": "https://www.zdnet.com/article/zdnet-big-guessing-game-apple-edition-official-contest-rules/",
-            "summary": "Read the full official rules for the 2026 ZDNET Big Guessing Game.",
-            "published_utc": "2026-05-19T16:02:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I tested Sony's new premium headphones, and they define practical luxury for me",
-            "link": "https://www.zdnet.com/article/sony-1000-x-the-collexion-review/",
-            "summary": "Sony debuts a special edition pair of 1000X-series headphones, striking a balance between modern style and function.",
-            "published_utc": "2026-05-19T16:00:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -331,46 +422,11 @@
             "published_utc": "2026-05-19T15:00:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Apple, Sony, and Bose headphones are all on sale for Memorial Day - I found the best deals",
-            "link": "https://www.zdnet.com/article/best-memorial-day-headphones-deals-2026/",
-            "summary": "Memorial Day deals on headphones are already live. These are my favorite options so far.",
-            "published_utc": "2026-05-19T14:56:24+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "6 Android Auto apps I wish I found sooner, because they make every drive easier",
-            "link": "https://www.zdnet.com/article/6-android-auto-apps-i-wish-i-found-sooner/",
-            "summary": "If you're only using Android Auto for basic navigation and music, you're missing out.",
-            "published_utc": "2026-05-19T14:46:51+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "New Shai-Hulud malware wave compromises 600 npm packages",
             "link": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-malware-wave-compromises-600-npm-packages/",
             "summary": "Threat actors earlier today published more than 600 malicious packages to the Node Package Manager (npm) index as part of a new Shai-Hulud supply-chai...",
             "published_utc": "2026-05-19T14:30:22+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "7-Eleven confirms data breach claimed by the ShinyHunters gang",
-            "link": "https://www.bleepingcomputer.com/news/security/7-eleven-confirms-data-breach-claimed-by-the-shinyhunters-gang/",
-            "summary": "Convenience store chain giant 7-Eleven confirmed that its systems were breached in a cyberattack claimed by the ShinyHunters extortion group last mont...",
-            "published_utc": "2026-05-19T14:16:41+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Critical Microsoft Vulnerabilities Doubled: From Exposure to Escalation",
-            "link": "https://www.bleepingcomputer.com/news/security/critical-microsoft-vulnerabilities-doubled-from-exposure-to-escalation/",
-            "summary": "Microsoft's total vulnerability count stayed steady in 2025, but critical flaws surged year over year. BeyondTrust breaks down why attackers are incre...",
-            "published_utc": "2026-05-19T14:00:10+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Legacy Windows Tool MSHTA Fuels Surge in Silent Malware Attacks",
-            "link": "https://www.securityweek.com/legacy-windows-tool-mshta-fuels-surge-in-silent-malware-attacks/",
-            "summary": "",
-            "published_utc": "2026-05-19T13:00:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -380,25 +436,11 @@
             "published_utc": "2026-05-19T13:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Unpatched ChromaDB Vulnerability Can Lead to Server Takeover",
-            "link": "https://www.securityweek.com/unpatched-chromadb-vulnerability-can-lead-to-server-takeover/",
-            "summary": "",
-            "published_utc": "2026-05-19T12:54:21+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "AI Raises the Bar on Vulnerability Awareness and Secure-by-Design Software",
             "link": "https://www.infosecurity-magazine.com/news/ai-raises-vulnerability-awareness/",
             "summary": "AI-powered vulnerability scanning leaves no excuse for unpatched bugs as the EU Cyber Resilience Act pushes firms toward secure-by-design software",
             "published_utc": "2026-05-19T12:30:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Webinar: The hidden bottlenecks in network incident response",
-            "link": "https://www.bleepingcomputer.com/news/security/webinar-the-hidden-bottlenecks-in-network-incident-response/",
-            "summary": "IT teams are increasingly overwhelmed by alerts from disconnected systems, forcing responders to manually coordinate investigations during network inc...",
-            "published_utc": "2026-05-19T12:14:22+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -616,13 +658,6 @@
             "link": "https://www.csoonline.com/article/4168696/eus-cyber-resiliency-act-will-put-it-leaders-to-the-test.html",
             "summary": "",
             "published_utc": "2026-05-15T09:01:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "The economics of ransomware 3.0",
-            "link": "https://www.csoonline.com/article/4171407/the-economics-of-ransomware-3-0.html",
-            "summary": "",
-            "published_utc": "2026-05-15T09:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
@@ -910,13 +945,6 @@
             "link": "https://www.wired.com/story/security-news-this-week-hackable-robot-lawnmower-unlocks-a-new-nightmare/",
             "summary": "Plus: Meta officially kills encrypted Instagram DMs, the Trump administration targets “violent left wing extremists,” leaked documents reveal Russia's...",
             "published_utc": "2026-05-09T10:30:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Friday Squid Blogging: Giant Squid Live in the Waters of Western Australia",
-            "link": "https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-giant-squid-live-in-the-waters-of-western-australia.html",
-            "summary": "",
-            "published_utc": "2026-05-08T21:03:28+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1659,13 +1687,6 @@
             "link": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/",
             "summary": "Plus: Major data breaches at a gym chain and hotel giant, a disruptive DDoS attack against Bluesky, dubious ICE hires, and more.",
             "published_utc": "2026-04-18T10:30:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "Republican Mutiny Sinks Trump's Push to Extend Warrantless Surveillance",
-            "link": "https://www.wired.com/story/republican-mutiny-sinks-trumps-push-to-extend-warrantless-surveillance/",
-            "summary": "A post-midnight revolt in the House sank the White House's efforts to extend Section 702—a spy program the FBI has used to look into members of Congre...",
-            "published_utc": "2026-04-17T14:07:02+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2737,20 +2758,6 @@
             "link": "https://www.infosecurity-magazine.com/news/cyberattacks-uk-firms-increase/",
             "summary": "Check Point data shows attack volumes are growing much faster in the UK than worldwide",
             "published_utc": "2026-03-11T10:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Microsoft Fixes Two Publicly Disclosed Zero-Days",
-            "link": "https://www.infosecurity-magazine.com/news/microsoft-fixes-two-publicly/",
-            "summary": "March Patch Tuesday sees Microsoft release updates for 79 flaws",
-            "published_utc": "2026-03-11T09:20:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "OpenAI's Promptfoo Deal Plugs Agentic AI Testing Gap",
-            "link": "https://www.infosecurity-magazine.com/news/openai-promptfoo-deal-agentic-ai/",
-            "summary": "OpenAI’s latest acquisition addresses a security need Jamieson O’Reilly, security advisor at OpenClaw, raised during an exclusive interview with Infos...",
-            "published_utc": "2026-03-10T17:15:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
