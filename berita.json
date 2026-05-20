@@ -1,6 +1,20 @@
 {
-    "lastUpdatedUTC": "2026-05-20T19:26:01.039544+00:00",
+    "lastUpdatedUTC": "2026-05-20T21:55:57.957227+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Ukraine identifies infostealer operator tied to 28,000 stolen accounts",
+            "link": "https://www.bleepingcomputer.com/news/security/ukraine-identifies-infostealer-operator-tied-to-28-000-stolen-accounts/",
+            "summary": "The Ukrainian cyberpolice, working in conjunction with U.S. law enforcement, has identified an 18-year-old man from Odesa suspected of running an info...",
+            "published_utc": "2026-05-20T21:36:24+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers bypass SonicWall VPN MFA due to incomplete patching",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-bypass-sonicwall-vpn-mfa-due-to-incomplete-patching/",
+            "summary": "Threat actors brute-forced VPN credentials and bypassed multi-factor authentication (MFA) on SonicWall Gen6 SSL-VPN appliances to deploy tools used in...",
+            "published_utc": "2026-05-20T21:19:17+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Linus Torvalds admits he has a 'love-hate relationship with AI'",
@@ -401,13 +415,6 @@
             "published_utc": "2026-05-19T16:22:30+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Microsoft blames macOS update for undismissible Teams location prompts",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-undismissible-teams-location-prompts-on-macos-update/",
-            "summary": "Microsoft has confirmed user reports that the Teams team collaboration app is displaying non-dismissible location prompts on some macOS systems. [...]",
-            "published_utc": "2026-05-19T16:10:47+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "GitHub scales back bug bounties, reminds users security is their responsibility too",
             "link": "https://www.csoonline.com/article/4173224/github-scales-back-bug-bounties-reminds-users-security-is-their-responsibility-too.html",
@@ -420,13 +427,6 @@
             "link": "https://www.infosecurity-magazine.com/news/microsoft-takes-down-fox-tempest/",
             "summary": "Microsoft’s Digital Crimes Unit has taken down the infrastructure of Fox Tempest, a prolific cybercrime-enabling threat group",
             "published_utc": "2026-05-19T15:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "New Shai-Hulud malware wave compromises 600 npm packages",
-            "link": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-malware-wave-compromises-600-npm-packages/",
-            "summary": "Threat actors earlier today published more than 600 malicious packages to the Node Package Manager (npm) index as part of a new Shai-Hulud supply-chai...",
-            "published_utc": "2026-05-19T14:30:22+00:00"
         },
         {
             "source": "CSO Online",
