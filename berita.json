@@ -1,6 +1,34 @@
 {
-    "lastUpdatedUTC": "2026-05-21T03:53:21.718603+00:00",
+    "lastUpdatedUTC": "2026-05-21T07:55:33.000476+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft warns of new Defender zero-days exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-defender-zero-days-exploited-in-attacks/",
+            "summary": "On Wednesday, Microsoft started rolling out security patches for two Defender vulnerabilities that have been exploited in zero-day attacks. [...]",
+            "published_utc": "2026-05-21T07:49:48+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "AI becoming an SOC imperative for curtailing emerging cyber threats",
+            "link": "https://www.csoonline.com/article/4175349/ai-becoming-an-soc-imperative-for-curtailing-emerging-cyber-threats.html",
+            "summary": "",
+            "published_utc": "2026-05-21T07:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "GitHub links repo breach to TanStack npm supply-chain attack",
+            "link": "https://www.bleepingcomputer.com/news/security/github-links-repo-breach-to-tanstack-npm-supply-chain-attack/",
+            "summary": "GitHub says the hackers who breached 3,800 internal repositories gained access via a malicious version of the Nx Console VS Code extension, compromise...",
+            "published_utc": "2026-05-21T06:54:01+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "The EU Is Going Through a Trump-Fueled Breakup With Big Tech",
+            "link": "https://www.wired.com/story/the-eu-is-going-through-a-trump-fueled-breakup-with-big-tech/",
+            "summary": "France is already moving on from Zoom and Microsoft Teams in favor of homegrown alternatives. Other countries are quickly following suit.",
+            "published_utc": "2026-05-21T06:00:00+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "Microsoft is working on a patch for ‘YellowKey’ attack on Bitlocker, offers temporary fix",
@@ -345,6 +373,13 @@
             "published_utc": "2026-05-20T08:40:00+00:00"
         },
         {
+            "source": "WeLiveSecurity",
+            "title": "Webworm: New burrowing techniques",
+            "link": "https://www.welivesecurity.com/en/eset-research/webworm-new-burrowing-techniques/",
+            "summary": "ESET researchers describe new tools and techniques that the Webworm APT group recently added to its arsenal",
+            "published_utc": "2026-05-20T08:40:00+00:00"
+        },
+        {
             "source": "BleepingComputer",
             "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
             "link": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
@@ -415,25 +450,11 @@
             "published_utc": "2026-05-19T19:45:39+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Microsoft Self-Service Password Reset abused in Azure data theft attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/microsoft-self-service-password-reset-abused-in-azure-data-theft-attacks/",
-            "summary": "A threat actor targeting Microsoft 365 and Azure production environments is stealing data in attacks that abuse legitimate applications and administra...",
-            "published_utc": "2026-05-19T19:35:32+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "AntV data visualization tool the latest to be hit by ongoing npm supply chain attacks",
             "link": "https://www.csoonline.com/article/4173291/antv-data-visualization-tool-the-latest-to-be-hit-by-ongoing-npm-supply-chain-attacks-2.html",
             "summary": "",
             "published_utc": "2026-05-19T19:19:05+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft plans to improve Windows 11 driver quality in 2026",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-plans-to-improve-windows-11-driver-quality-in-2026/",
-            "summary": "Microsoft plans to raise the quality bar of Windows 11 drivers, as drivers \"sit at the heart of every Windows experience\" and connect the OS to the \"s...",
-            "published_utc": "2026-05-19T16:22:30+00:00"
         },
         {
             "source": "CSO Online",
@@ -651,13 +672,6 @@
             "link": "https://www.infosecurity-magazine.com/news/microsoft-zeroday-exchange-servers/",
             "summary": "The zero-day vulnerability affects on-premises installations for all versions of Exchange Server 2016, 2019 and Subscription Edition",
             "published_utc": "2026-05-15T12:35:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Cisco warns of an actively exploited SD-WAN flaw with max severity",
-            "link": "https://www.csoonline.com/article/4171694/cisco-warns-of-an-actively-exploited-sd-wan-flaw-with-max-severity.html",
-            "summary": "",
-            "published_utc": "2026-05-15T11:43:23+00:00"
         },
         {
             "source": "Schneier",
@@ -2935,13 +2949,6 @@
             "published_utc": "2026-01-08T10:00:00+00:00"
         },
         {
-            "source": "WIRED Security",
-            "title": "8 WhatsApp Features to Boost Your Security and Privacy",
-            "link": "https://www.wired.com/story/5-features-that-boost-security-and-privacy-on-whatsapp/",
-            "summary": "Meta’s end-to-end encrypted messaging app is used by billions of people. Here’s how to make sure you’re one of the most locked-down ones out there.",
-            "published_utc": "2026-01-04T11:00:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "A brush with online fraud: What are brushing scams and how do I stay safe?",
             "link": "https://www.welivesecurity.com/en/scams/brush-online-fraud-what-are-brushing-scams-how-do-i-stay-safe/",
@@ -3248,13 +3255,6 @@
             "link": "https://www.welivesecurity.com/en/eset-research/new-spyware-campaigns-target-privacy-conscious-android-users-uae/",
             "summary": "ESET researchers have discovered campaigns distributing spyware disguised as Android Signal and ToTok apps, targeting users in the United Arab Emirates",
             "published_utc": "2025-10-02T08:55:00+00:00"
-        },
-        {
-            "source": "WeLiveSecurity",
-            "title": "Cybersecurity Awareness Month 2025: Knowledge is power",
-            "link": "https://www.welivesecurity.com/en/videos/cybersecurity-awareness-month-2025-knowledge-power/",
-            "summary": "We're kicking off the month with a focus on the human element: the first line of defense, but also the path of least resistance for many cybercriminals",
-            "published_utc": "2025-10-01T14:49:17+00:00"
         },
         {
             "source": "Threatpost",
