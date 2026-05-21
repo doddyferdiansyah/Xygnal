@@ -1,6 +1,153 @@
 {
-    "lastUpdatedUTC": "2026-05-21T11:27:41.605399+00:00",
+    "lastUpdatedUTC": "2026-05-21T15:30:36.115899+00:00",
     "articles": [
+        {
+            "source": "InfosecurityMag",
+            "title": "Cybercriminal VPN Dismantled in Europol Crackdown",
+            "link": "https://www.infosecurity-magazine.com/news/first-vpn-takedown-europol/",
+            "summary": "First VPN, a service used by ransomware actors and fraudsters, was dismantled by Europol",
+            "published_utc": "2026-05-21T15:30:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Microsoft won't send you SMS texts for login anymore - why it's pushing passkeys instead",
+            "link": "https://www.zdnet.com/article/microsoft-ditches-sms-texts-for-passkey-authentication/",
+            "summary": "Text messages are a weak, vulnerable way to authenticate account logins. Soon, you'll have to switch to one of these safer, more secure methods.",
+            "published_utc": "2026-05-21T15:20:36+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Apple blocked over $11 billion in App Store fraud in 6 years",
+            "link": "https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/",
+            "summary": "Apple revealed that it blocked over $11 billion in fraudulent App Store transactions over the last six years, more than $2.2 billion in potentially fr...",
+            "published_utc": "2026-05-21T15:11:08+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "GitHub Breach Traced to Malicious 'Nx Console' VS Code Extension",
+            "link": "https://www.infosecurity-magazine.com/news/github-breach-nx-console-vs-code/",
+            "summary": "A threat actor compromised an Nx developer and posed as a legitimate maintainer to publish a malicious extension on Visual Studio Marketplace",
+            "published_utc": "2026-05-21T14:45:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I found the 10 best early Memorial Day Apple deals: Save hundreds on iPad, Apple Watch, and more",
+            "link": "https://www.zdnet.com/article/best-apple-deals-memorial-day-2026/",
+            "summary": "Summer is almost here, and you can already find deals on all things Apple with these early Memorial Day weekend sales.",
+            "published_utc": "2026-05-21T14:43:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The best early Memorial Day laptop deals: Save on Apple, Dell, Lenovo, and more",
+            "link": "https://www.zdnet.com/article/best-early-memorial-day-laptop-deals-2026/",
+            "summary": "I've rounded up the best laptop deals live right now ahead of the holiday weekend.",
+            "published_utc": "2026-05-21T14:30:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I found the best early Memorial Day Walmart deals: Apple, Dyson, and more on sale",
+            "link": "https://www.zdnet.com/article/best-early-memorial-day-walmart-deals/",
+            "summary": "Memorial Day is almost here, and Walmart has already slashed prices on top tech.",
+            "published_utc": "2026-05-21T14:27:08+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "6 pet deals you don't want to miss this Memorial Day weekend, including robot litter boxes",
+            "link": "https://www.zdnet.com/article/pet-deals-memorial-day-2026/",
+            "summary": "I have two cats. These are the pet tech products I own and recommend or plan to buy while these Memorial Day deals last.",
+            "published_utc": "2026-05-21T14:10:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I tested a portable battery with graphene heat dissipation - and cracked it open for proof",
+            "link": "https://www.zdnet.com/article/momax-q-mag-x-magsafe-power-bank-review/",
+            "summary": "The Momax Q.Mag X is one of the best magnetic wireless battery packs I've tested.",
+            "published_utc": "2026-05-21T14:00:41+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Inside a Crypto Drainer: How to Spot it Before it Empties Your Wallet",
+            "link": "https://www.bleepingcomputer.com/news/security/inside-a-crypto-drainer-how-to-spot-it-before-it-empties-your-wallet/",
+            "summary": "Modern crypto drainers don't hack wallets. They trick users into approving malicious transactions.  Flare explores how the Lucifer DaaS platform scale...",
+            "published_utc": "2026-05-21T14:00:10+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Chinese hackers target telcos with new Linux, Windows malware",
+            "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-target-telcos-with-new-linux-windows-malware/",
+            "summary": "A Chinese cyber-espionage campaign has been targeting telecommunications providers with newly discovered Linux and Windows malware dubbed Showboat and...",
+            "published_utc": "2026-05-21T14:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Max severity Cisco Secure Workload flaw gives Site Admin privileges",
+            "link": "https://www.bleepingcomputer.com/news/security/cisco-max-severity-secure-workload-flaw-gives-hackers-site-admin-privileges/",
+            "summary": "Cisco has released security updates to address a maximum-severity vulnerability in Secure Workload that allows attackers to gain Site Admin privileges...",
+            "published_utc": "2026-05-21T13:58:33+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Google's AI features just got more confusing",
+            "link": "https://www.zdnet.com/article/googles-ai-gemini-features-just-got-more-confusing/",
+            "summary": "Google's new Gemini features sound useful, if you can remember their names and where to find them.",
+            "published_utc": "2026-05-21T13:51:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Is Google's AI Ultra plan worth $100/month? I compared it to Plus and Pro tiers",
+            "link": "https://www.zdnet.com/article/google-ai-ultra-plan-vs-plus-and-pro/",
+            "summary": "The new AI Ultra plan runs $100 a month, while the top-tier Ultra subscription has been cut from $250 to $200. But the AI Plus and Pro plans also get ...",
+            "published_utc": "2026-05-21T13:21:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Police seize “First VPN” service used in ransomware, data theft attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/police-seize-first-vpn-service-used-in-ransomware-data-theft-attacks/",
+            "summary": "A virtual private network service called 'First VPN,' used in ransomware and data theft attacks, has been taken offline in a joint international law e...",
+            "published_utc": "2026-05-21T13:09:51+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I tested Motorola's $1,500 Razr Ultra, and it's so close to being my dream flip phone",
+            "link": "https://www.zdnet.com/article/motorola-2026-razr-ultra-review/",
+            "summary": "The 2026 Razr Ultra delivers major hardware upgrades while maintaining the same stylish design it's known for. Too bad it's overpriced.",
+            "published_utc": "2026-05-21T13:00:43+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Three-Quarters of Firms Knowingly Ship Vulnerable Code",
+            "link": "https://www.infosecurity-magazine.com/news/threequarters-knowingly-ship/",
+            "summary": "AI risks threaten to permeate supply chains through unvetted code and unaudited suppliers",
+            "published_utc": "2026-05-21T13:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The Flipper One is a full-on Linux cyberdeck that solves my biggest Raspberry Pi problem",
+            "link": "https://www.zdnet.com/article/flipper-one-cyberdesk-raspberry-pi-alternative/",
+            "summary": "If you love your Flipper Zero, you're really going to flip over the new Flipper One.",
+            "published_utc": "2026-05-21T12:53:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Cisco Patches Critical Vulnerability in Secure Workload",
+            "link": "https://www.securityweek.com/cisco-patches-critical-vulnerability-in-secure-workload/",
+            "summary": "",
+            "published_utc": "2026-05-21T12:04:13+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Nine-Year-Old Linux Kernel Flaw Leaks SSH Keys and Password Hashes",
+            "link": "https://www.infosecurity-magazine.com/news/linux-kernel-ptrace-flaw-ssh-keys/",
+            "summary": "Qualys finds nine-year-old Linux ptrace flaw exposing SSH keys and password hashes locally",
+            "published_utc": "2026-05-21T12:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Ocean Emerges From Stealth With $28M for Agentic Email Security Platform",
+            "link": "https://www.securityweek.com/ocean-emerges-from-stealth-with-28m-for-agentic-email-security-platform/",
+            "summary": "",
+            "published_utc": "2026-05-21T11:45:51+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Apple Rejected 2 Million App Store Submissions in 2025 for Security and Fraud Prevention",
@@ -45,17 +192,17 @@
         },
         {
             "source": "ZDNet Security",
-            "title": "Every preorder offer on the new Fitbit Air - where to save and score free accessories",
-            "link": "https://www.zdnet.com/article/fitbit-air-preorder-deals-2026/",
-            "summary": "The new Fitbit Air is available to preorder now. Here's where and how you can snag deals before it's released next week.",
-            "published_utc": "2026-05-21T10:01:05+00:00"
-        },
-        {
-            "source": "ZDNet Security",
             "title": "We never travel without these useful gadgets - here's why",
             "link": "https://www.zdnet.com/article/travel-gadgets-guide-memorial-day-2026/",
             "summary": "Traveling soon? Scoop up these nifty gadgets ahead of summer travels - and some are on sale for Memorial Day.",
             "published_utc": "2026-05-21T10:01:03+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Every preorder offer on the new Fitbit Air - where to save and score free accessories",
+            "link": "https://www.zdnet.com/article/fitbit-air-preorder-deals-memorial-day-2026/",
+            "summary": "The new Fitbit Air is available to preorder now. Here's where and how you can snag deals before it's released next week.",
+            "published_utc": "2026-05-21T10:01:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -212,13 +359,6 @@
             "published_utc": "2026-05-20T16:00:44+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Google says AI agents spending your money is a 'more fun' way to shop",
-            "link": "https://www.zdnet.com/article/google-says-ai-agents-spending-your-money-is-a-more-fun-way-to-shop/",
-            "summary": "Google's new Universal Cart consolidates products from multiple retailers into one place.",
-            "published_utc": "2026-05-20T15:58:23+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "GitHub admits major source code leak after 3,800 internal repositories breached",
             "link": "https://www.csoonline.com/article/4174747/github-admits-major-source-code-leak-after-3800-internal-repositories-breached-2.html",
@@ -261,27 +401,6 @@
             "published_utc": "2026-05-20T15:00:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Ubuntu Core 26 offers an immutable Linux you can trust through 2041",
-            "link": "https://www.zdnet.com/article/ubuntu-core-26-canonicals-minimal-immutable-operating-system-arrives/",
-            "summary": "If your company wants to sell IoT or edge gear in the EU, Canonical's minimal, immutable distro is worth a serious look.",
-            "published_utc": "2026-05-20T14:43:42+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "AI-Powered App Attacks Are Faster, More Frequent and Harder to Stop",
-            "link": "https://www.securityweek.com/ai-powered-app-attacks-are-faster-more-frequent-and-harder-to-stop/",
-            "summary": "",
-            "published_utc": "2026-05-20T14:37:36+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "51% of professionals say AI workslop lowers their productivity - stop it in 2 steps",
-            "link": "https://www.zdnet.com/article/workslop-can-kill-your-productivity-heres-how-to-turn-ai-into-a-competitive-advantage/",
-            "summary": "Professionals are concerned about the low quality of AI output. Preventing workslop requires two crucial steps.",
-            "published_utc": "2026-05-20T14:37:33+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "On AI Security",
             "link": "https://www.schneier.com/blog/archives/2026/05/on-ai-security.html",
@@ -296,46 +415,11 @@
             "published_utc": "2026-05-20T14:02:12+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "1Password Teams With OpenAI to Stop AI Coding Agents From Leaking Credentials",
-            "link": "https://www.securityweek.com/1password-teams-with-openai-to-stop-ai-coding-agents-from-leaking-credentials/",
-            "summary": "",
-            "published_utc": "2026-05-20T13:34:54+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I wore Google's Android XR glasses again - and my limit-testing should scare Meta and Apple",
-            "link": "https://www.zdnet.com/article/i-wore-google-android-xr-glasses-io-2026-meta-apple/",
-            "summary": "My latest demos of the Android XR reference glasses and Project Aura show even more promise for Google's wearable lineup.",
-            "published_utc": "2026-05-20T13:32:03+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "11 cheap gadgets we've found to be highly useful (and they're on sale)",
-            "link": "https://www.zdnet.com/article/cheap-gadgets-memorial-day-2026/",
-            "summary": "Memorial Day weekend sales are here, but I'd buy these inexpensive gadgets any time of year. Here's why.",
-            "published_utc": "2026-05-20T13:17:32+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Mobile phishing is a bigger threat than email now - how to stay protected",
-            "link": "https://www.zdnet.com/article/mobile-phishing-is-a-bigger-threat-than-email-now/",
-            "summary": "Verizon's latest DBIR shows attackers are turning to texts and calls as email defenses improve. Here's what businesses should do now.",
-            "published_utc": "2026-05-20T13:09:24+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Drupal critical update to fix bug with high exploitation risk",
             "link": "https://www.bleepingcomputer.com/news/security/drupal-critical-update-to-fix-bug-with-high-exploitation-risk/",
             "summary": "Drupal has announced a \"core security release\" scheduled for later today, warning that threat actors might develop exploits within hours of the update...",
             "published_utc": "2026-05-20T12:52:29+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "TCL vs. Hisense: I've tested both TV brands for nearly a decade, and here's my pick",
-            "link": "https://www.zdnet.com/article/tcl-vs-hisense/",
-            "summary": "I compared popular models from two of the most upstart TV brands, and this one stands out to me.",
-            "published_utc": "2026-05-20T12:00:42+00:00"
         },
         {
             "source": "CSO Online",
@@ -345,32 +429,11 @@
             "published_utc": "2026-05-20T11:49:23+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I tested KDE Plasma 6.7 beta, and it's easily my new Linux desktop of choice",
-            "link": "https://www.zdnet.com/article/i-tested-kde-plasma-6-7-beta/",
-            "summary": "I took a look at how KDE Plasma 6.7 is coming along, I have to admit: I was blown away.",
-            "published_utc": "2026-05-20T11:30:34+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "China-Linked Webworm APT Evolves Tactics, Expands to European Targets",
             "link": "https://www.infosecurity-magazine.com/news/webworm-apt-evolves-tactics/",
             "summary": "China-linked Webworm APT expands beyond Asia, targeting European government organizations and refining its cyber espionage tactics, according to ESET ...",
             "published_utc": "2026-05-20T11:30:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Best travel VPNs of 2026: Expert tested and reviewed",
-            "link": "https://www.zdnet.com/article/best-travel-vpn/",
-            "summary": "If you want to avoid missing your favorite show on your next vacation, check out our favorite travel VPNs of 2026.",
-            "published_utc": "2026-05-20T11:07:52+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Best VPN services 2026: Expert tested and recommended",
-            "link": "https://www.zdnet.com/article/best-vpn/",
-            "summary": "Looking for a solution that improves your online privacy, helps you avoid censorship, and bypasses age verification checks? We've tested and ranked th...",
-            "published_utc": "2026-05-20T11:07:22+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -422,20 +485,6 @@
             "published_utc": "2026-05-20T08:14:08+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Microsoft shares mitigation for YellowKey Windows zero-day",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-mitigation-for-yellowkey-windows-zero-day/",
-            "summary": "Microsoft has shared mitigations for YellowKey, a recently disclosed Windows BitLocker zero-day vulnerability that grants access to protected drives. ...",
-            "published_utc": "2026-05-20T07:31:15+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "GitHub investigates internal repositories breach claimed by TeamPCP",
-            "link": "https://www.bleepingcomputer.com/news/security/github-investigates-internal-repositories-breach-claimed-by-teampcp/",
-            "summary": "GitHub is investigating a breach of its internal repositories after the TeamPCP hacker group claimed to have accessed approximately 4,000 repositories...",
-            "published_utc": "2026-05-20T05:08:42+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Microsoft disrupts malware code-signing service used by ransomware gangs",
             "link": "https://www.csoonline.com/article/4173417/microsoft-disrupts-malware-code-signing-service-used-by-ransomware-gangs.html",
@@ -443,32 +492,11 @@
             "published_utc": "2026-05-20T00:45:54+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Max-severity flaw in ChromaDB for AI apps allows server hijacking",
-            "link": "https://www.bleepingcomputer.com/news/security/max-severity-flaw-in-chromadb-for-ai-apps-allows-server-hijacking/",
-            "summary": "A max-severity vulnerability in the latest Python FastAPI version of the ChromaDB project allows unauthenticated attackers to run arbitrary code on ex...",
-            "published_utc": "2026-05-19T22:25:49+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Cybercrime service disrupted for abusing Microsoft platform to sign malware",
-            "link": "https://www.bleepingcomputer.com/news/security/cybercrime-service-disrupted-for-abusing-microsoft-platform-to-sign-malware/",
-            "summary": "Microsoft says it has disrupted a malware-signing-as-a-service (MSaaS) operation that abused the company's Artifact Signing service to generate fraudu...",
-            "published_utc": "2026-05-19T21:47:31+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Contractor’s public GitHub account exposed GovCloud and CISA credentials",
             "link": "https://www.csoonline.com/article/4173305/contractors-public-github-account-exposed-govcloud-and-cisa-credentials.html",
             "summary": "",
             "published_utc": "2026-05-19T20:57:46+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Discord rolls out end-to-end encryption on voice, video calls",
-            "link": "https://www.bleepingcomputer.com/news/security/discord-rolls-out-end-to-end-encryption-on-voice-video-calls/",
-            "summary": "Discord announced that all voice and video calls through the communication platform are now protected by default with end-to-end encryption (E2EE). [...]",
-            "published_utc": "2026-05-19T20:37:45+00:00"
         },
         {
             "source": "CSO Online",
@@ -2744,34 +2772,6 @@
             "link": "https://www.infosecurity-magazine.com/news/infosecurity-europe-2026-keynote/",
             "summary": "Infosecurity Europe 2026 reveals its keynote line-up, featuring Jason Fox, Shlomo Kramer, Cynthia Kaiser and more, with sessions on AI, cloud security...",
             "published_utc": "2026-03-11T16:20:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Researchers Uncover ‘LeakyLooker’ Vulnerabilities in Google Looker Studio",
-            "link": "https://www.infosecurity-magazine.com/news/google-looker-studios-security-gaps/",
-            "summary": "LeakyLooker flaws in Google Looker Studio let attackers run cross-tenant SQL attacks on cloud data",
-            "published_utc": "2026-03-11T16:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Compromised WordPress Sites Deliver ClickFix Attacks in Global Infostealer Campaign",
-            "link": "https://www.infosecurity-magazine.com/news/wordpress-clickfix-infostealer/",
-            "summary": "Over 250 legitimate websites, including news outlets and  a US Senate candidate’s official webpage, been compromised to infect visitors with infosteal...",
-            "published_utc": "2026-03-11T14:45:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "BlackSanta EDR-Killer Targets HR Teams in CV-Themed Campaign",
-            "link": "https://www.infosecurity-magazine.com/news/blacksanta-edr-killer-targets-hr/",
-            "summary": "BlackSanta malware targets HR staff with fake resumes, kills EDR and steals system data",
-            "published_utc": "2026-03-11T14:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Researchers Discover Major Security Gaps in LLM Guardrails",
-            "link": "https://www.infosecurity-magazine.com/news/major-security-gaps-llm-guardrails/",
-            "summary": "Palo Alto Networks’ Unit 42 has developed a successful attack to bypass safety guardrails in popular generative AI tools",
-            "published_utc": "2026-03-11T13:35:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
