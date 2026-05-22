@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2026-05-22T05:01:26.120403+00:00",
+    "lastUpdatedUTC": "2026-05-22T09:27:59.972770+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "‘First VPN’ Cybercrime Service Disrupted, Administrator Arrested",
+            "link": "https://www.securityweek.com/first-vpn-cybercrime-service-disrupted-administrator-arrested/",
+            "summary": "",
+            "published_utc": "2026-05-22T09:24:22+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "US and Canada arrest and charge suspected Kimwolf botnet admin",
+            "link": "https://www.bleepingcomputer.com/news/security/us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin/",
+            "summary": "U.S. and Canadian authorities arrested and charged a Canadian man with operating the KimWolf distributed denial-of-service (DDoS) botnet, which infect...",
+            "published_utc": "2026-05-22T09:01:20+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Identity as the primary attack surface: What modern breaches are really exploiting",
+            "link": "https://www.csoonline.com/article/4175323/identity-as-the-primary-attack-surface-what-modern-breaches-are-really-exploiting.html",
+            "summary": "",
+            "published_utc": "2026-05-22T09:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "TrendAI Patches Apex One Zero-Day Exploited in the Wild",
+            "link": "https://www.securityweek.com/trendai-patches-apex-one-zero-day-exploited-in-the-wild/",
+            "summary": "",
+            "published_utc": "2026-05-22T08:19:24+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Grafana Says Codebase and Other Data Stolen via TanStack Supply Chain Attack",
+            "link": "https://www.securityweek.com/grafana-says-codebase-and-other-data-stolen-via-tanstack-supply-chain-attack/",
+            "summary": "",
+            "published_utc": "2026-05-22T07:49:38+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Google folds CodeMender into agent ecosystem amid push for AI-led AppSec",
+            "link": "https://www.csoonline.com/article/4176164/google-folds-codemender-into-agent-ecosystem-amid-push-for-ai-led-appsec.html",
+            "summary": "",
+            "published_utc": "2026-05-22T07:37:27+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "This is the power backup setup I trust after years of testing - solar panels included",
@@ -324,13 +366,6 @@
             "published_utc": "2026-05-21T09:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Supply Chain Security Crisis: Too Many Vulnerabilities, Too Little Visibility",
-            "link": "https://www.securityweek.com/supply-chain-security-crisis-too-many-vulnerabilities-too-little-visibility/",
-            "summary": "",
-            "published_utc": "2026-05-21T08:14:53+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Grafana Labs Says Code Breach Stemmed from TanStack Attack",
             "link": "https://www.infosecurity-magazine.com/news/grafana-labs-code-breach-tanstack/",
@@ -422,20 +457,6 @@
             "published_utc": "2026-05-20T15:46:37+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Quantum Bridge Raises $8 Million for Quantum-Safe Key Distribution Solution",
-            "link": "https://www.securityweek.com/quantum-bridge-raises-8-million-for-quantum-safe-key-distribution-solution/",
-            "summary": "",
-            "published_utc": "2026-05-20T15:45:07+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Microsoft Rolls Out Mitigations for ‘YellowKey’ BitLocker Bypass",
-            "link": "https://www.securityweek.com/microsoft-rolls-out-mitigations-for-yellowkey-bitlocker-bypass/",
-            "summary": "",
-            "published_utc": "2026-05-20T15:39:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Android Malware Campaign Used Hundreds of Fake Apps to Silently Charge Users",
             "link": "https://www.infosecurity-magazine.com/news/android-carrier-billing-fraud-four/",
@@ -483,13 +504,6 @@
             "link": "https://www.infosecurity-magazine.com/news/webworm-apt-evolves-tactics/",
             "summary": "China-linked Webworm APT expands beyond Asia, targeting European government organizations and refining its cyber espionage tactics, according to ESET ...",
             "published_utc": "2026-05-20T11:30:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Exploit released for new PinTheft Arch Linux root escalation flaw",
-            "link": "https://www.bleepingcomputer.com/news/linux/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw/",
-            "summary": "PinTheft, a recently patched Linux privilege escalation vulnerability, now has a publicly available proof-of-concept (PoC) exploit that allows local a...",
-            "published_utc": "2026-05-20T10:52:31+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -665,20 +679,6 @@
             "link": "https://www.infosecurity-magazine.com/news/infosec-europe-cyber-startup/",
             "summary": "New for 2026, the Infosecurity Europe Startup competition will see five finalists pitch their ideas in front of a live audience, including senior indu...",
             "published_utc": "2026-05-18T13:30:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "New image-based prompt injection attack targets multimodal AI models",
-            "link": "https://www.csoonline.com/article/4172330/new-image-based-prompt-injection-attack-targets-multimodal-ai-models.html",
-            "summary": "",
-            "published_utc": "2026-05-18T12:57:46+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "‘Patched’ Windows bug resurfaces 6 years later as working SYSTEM-level exploit",
-            "link": "https://www.csoonline.com/article/4172320/patched-windows-bug-resurfaces-6-years-later-as-working-system-level-exploit.html",
-            "summary": "",
-            "published_utc": "2026-05-18T12:04:14+00:00"
         },
         {
             "source": "Schneier",
