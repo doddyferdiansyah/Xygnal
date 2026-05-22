@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2026-05-22T09:27:59.972770+00:00",
+    "lastUpdatedUTC": "2026-05-22T12:20:32.517057+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Canadian Man Arrested for Operating Kimwolf Botnet",
+            "link": "https://www.securityweek.com/canadian-man-arrested-for-operating-kimwolf-botnet/",
+            "summary": "",
+            "published_utc": "2026-05-22T12:11:03+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Ubiquiti patches three max severity UniFi OS vulnerabilities",
+            "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-unifi-os-vulnerabilities/",
+            "summary": "Ubiquiti has released security updates to patch three maximum severity vulnerabilities in Unify OS that can be exploited by remote attackers without p...",
+            "published_utc": "2026-05-22T12:00:42+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Fake Gemini and Claude Code Sites Spread Infostealers Through SEO Poisoning",
+            "link": "https://www.infosecurity-magazine.com/news/gemini-claude-infostealers-seo/",
+            "summary": "The infostealer payload in this campaign collect a vast amount of data, from collaboration authentication keys to cryptocurrency wallets",
+            "published_utc": "2026-05-22T11:30:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Thinking about plug-in solar? It may be coming to your state soon",
+            "link": "https://www.zdnet.com/article/plug-in-solar-backyard-solar-legislation-2026/",
+            "summary": "Here's what you should know if you have plug-in solar on your mind, especially if you're in the US.",
+            "published_utc": "2026-05-22T11:00:47+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Apple Blocked $2.2bn in App Store Fraud in the Last Year",
+            "link": "https://www.infosecurity-magazine.com/news/apple-blocked-2bn-app-store-fraud/",
+            "summary": "Total figure for fraudulent transactions Apple has blocked since 2020 now stands at over $11bn",
+            "published_utc": "2026-05-22T10:30:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Why your AI strategy stops where the PLC starts: Hard lessons from the OT frontlines",
+            "link": "https://www.csoonline.com/article/4175776/why-your-ai-strategy-stops-where-the-plc-starts-hard-lessons-from-the-ot-frontlines.html",
+            "summary": "",
+            "published_utc": "2026-05-22T10:00:00+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "‘First VPN’ Cybercrime Service Disrupted, Administrator Arrested",
@@ -247,13 +289,6 @@
             "published_utc": "2026-05-21T14:43:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "The best early Memorial Day laptop deals: Save on Apple, Dell, Lenovo, and more",
-            "link": "https://www.zdnet.com/article/best-early-memorial-day-laptop-deals-2026/",
-            "summary": "I've rounded up the best laptop deals live right now ahead of the holiday weekend.",
-            "published_utc": "2026-05-21T14:30:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Inside a Crypto Drainer: How to Spot it Before it Empties Your Wallet",
             "link": "https://www.bleepingcomputer.com/news/security/inside-a-crypto-drainer-how-to-spot-it-before-it-empties-your-wallet/",
@@ -350,13 +385,6 @@
             "link": "https://www.securityweek.com/microsoft-patches-exploited-undefend-and-redsun-defender-zero-days/",
             "summary": "",
             "published_utc": "2026-05-21T09:52:05+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Google’s Surge in Chrome Vulnerability Discoveries Likely Driven by AI",
-            "link": "https://www.securityweek.com/googles-surge-in-chrome-vulnerability-discoveries-likely-driven-by-ai/",
-            "summary": "",
-            "published_utc": "2026-05-21T09:37:08+00:00"
         },
         {
             "source": "WIRED Security",
@@ -483,13 +511,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/identity-alone-isnt-enough-why-device-security-has-to-share-the-load/",
             "summary": "Identity checks alone can't stop attackers using stolen session tokens and compromised devices. Specops Software outlines why Zero Trust strategies in...",
             "published_utc": "2026-05-20T14:02:12+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Drupal critical update to fix bug with high exploitation risk",
-            "link": "https://www.bleepingcomputer.com/news/security/drupal-critical-update-to-fix-bug-with-high-exploitation-risk/",
-            "summary": "Drupal has announced a \"core security release\" scheduled for later today, warning that threat actors might develop exploits within hours of the update...",
-            "published_utc": "2026-05-20T12:52:29+00:00"
         },
         {
             "source": "CSO Online",
@@ -658,13 +679,6 @@
             "link": "https://www.csoonline.com/article/4172591/microsoft-may-security-patch-fails-for-some-due-to-boot-partition-size-glitch.html",
             "summary": "",
             "published_utc": "2026-05-18T20:11:03+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "AI cyberattackers are getting better faster",
-            "link": "https://www.csoonline.com/article/4172519/ai-cyberattackers-are-getting-better-faster.html",
-            "summary": "",
-            "published_utc": "2026-05-18T16:36:35+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2765,20 +2779,6 @@
             "link": "https://www.infosecurity-magazine.com/news/iran-massive-wiper-attack-medtech/",
             "summary": "The pro-Iran Handala group claims to have wiped 200,000 systems in destructive wiper malware attack on US firm Stryker",
             "published_utc": "2026-03-12T09:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "France: National Cybersecurity Agency Reports Ransomware Attack Drop in 2025",
-            "link": "https://www.infosecurity-magazine.com/news/france-anssi-ransomware-attack/",
-            "summary": "French small and medium businesses remained the organizations most targeted by ransomware in 2025",
-            "published_utc": "2026-03-11T16:50:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Infosecurity Europe Announces 2026 Keynote Line Up",
-            "link": "https://www.infosecurity-magazine.com/news/infosecurity-europe-2026-keynote/",
-            "summary": "Infosecurity Europe 2026 reveals its keynote line-up, featuring Jason Fox, Shlomo Kramer, Cynthia Kaiser and more, with sessions on AI, cloud security...",
-            "published_utc": "2026-03-11T16:20:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
