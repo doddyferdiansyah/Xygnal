@@ -1,6 +1,97 @@
 {
-    "lastUpdatedUTC": "2026-05-25T08:57:42.606562+00:00",
+    "lastUpdatedUTC": "2026-05-25T12:37:09.563134+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "AI security needs a shift from models to systems, researchers argue",
+            "link": "https://www.csoonline.com/article/4176725/ai-security-needs-a-shift-from-models-to-systems-researchers-argue.html",
+            "summary": "",
+            "published_utc": "2026-05-25T12:32:34+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Oncology Institute Discloses Data Breach",
+            "link": "https://www.securityweek.com/oncology-institute-discloses-third-party-data-breach/",
+            "summary": "",
+            "published_utc": "2026-05-25T12:17:02+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "As AI speeds coding, CVE Lite CLI keeps security deliberately AI-free",
+            "link": "https://www.csoonline.com/article/4176701/as-ai-speeds-coding-cve-lite-cli-keeps-security-deliberately-ai-free.html",
+            "summary": "",
+            "published_utc": "2026-05-25T11:42:51+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "266,000 Affected by Data Breach at Radiology Associates of Richmond",
+            "link": "https://www.securityweek.com/266000-affected-by-data-breach-at-radiology-associates-of-richmond/",
+            "summary": "",
+            "published_utc": "2026-05-25T11:17:07+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Considering plug-in solar at home? How to know if it's legal in your state - and actually worth it",
+            "link": "https://www.zdnet.com/article/plug-in-solar-backyard-solar-legislation-2026/",
+            "summary": "Here's what you should know if you have plug-in solar on your mind, especially if you're in the US.",
+            "published_utc": "2026-05-25T11:01:50+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I tested 100x zoom on the Galaxy S26 Ultra, Pixel 10 Pro, and Razr Fold - here's who won",
+            "link": "https://www.zdnet.com/article/100x-zoom-test-galaxy-s26-ultra-pixel-10-pro-razr-fold-which-won/",
+            "summary": "One is slipping behind its competitors in the super resolution zoom category, while another shocked me.",
+            "published_utc": "2026-05-25T11:01:37+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Anthropic: Mythos Detected 23,000 Potential Vulnerabilities Across 1,000 OSS Projects",
+            "link": "https://www.securityweek.com/anthropic-mythos-detected-23000-potential-vulnerabilities-across-1000-oss-projects/",
+            "summary": "",
+            "published_utc": "2026-05-25T10:58:07+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Laravel-Lang Packages Poisoned for Malware Delivery",
+            "link": "https://www.securityweek.com/laravel-lang-packages-poisoned-for-malware-delivery/",
+            "summary": "",
+            "published_utc": "2026-05-25T10:41:07+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "The AI Era Is Creating a Bug Hunting Arms Race",
+            "link": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/",
+            "summary": "As attackers ramp up their AI exploit development, the search for software vulnerabilities is changing rapidly.",
+            "published_utc": "2026-05-25T10:30:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "DocketWise Data Breach Impacts 143,000",
+            "link": "https://www.securityweek.com/docketwise-data-breach-impacts-143000/",
+            "summary": "",
+            "published_utc": "2026-05-25T09:37:27+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "FBI Warns 'Kali365' Phishing Kit Hijacks Microsoft 365 OAuth Tokens",
+            "link": "https://www.infosecurity-magazine.com/news/fbi-kali365-phishing-kit-m365/",
+            "summary": "The Kali365 phishing-as-a-service platform lowers the barrier of entry for cybercriminals, said the FBI",
+            "published_utc": "2026-05-25T09:30:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I saw the future of Android Auto, and now Google has me dreading my own car",
+            "link": "https://www.zdnet.com/article/google-io-android-auto-demo/",
+            "summary": "The most recent showcase of Android Auto highlighted key improvements to the user interface, map design, Gemini features, and more.",
+            "published_utc": "2026-05-25T09:00:39+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Fake Streams, Counterfeit Merch and Other Scams: How Fraudsters Target F1 Fans",
+            "link": "https://www.infosecurity-magazine.com/news/how-fraudsters-target-f1-fans/",
+            "summary": "From fake F1 streams to counterfeit merch, fraudsters are exploiting fans online and the Bitdefender Cybersecurity Grand Prix Fan Threat Index details...",
+            "published_utc": "2026-05-25T09:00:00+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Over 5,500 GitHub Repositories Infected in ‘Megalodon’ Supply Chain Attack",
@@ -184,25 +275,11 @@
             "published_utc": "2026-05-22T20:48:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Yes, you need a smart bird feeder in your life - and this one's on sale for Memorial Day",
-            "link": "https://www.zdnet.com/article/birdfy-smart-feeder-memorial-day-deals-2026/",
-            "summary": "Offering insight into which birds are visiting your feeder this summer, the Birdfy smart feeder is 35% off for Memorial Day weekend.",
-            "published_utc": "2026-05-22T18:01:00+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "FBI warns of Kali Oauth stealers",
             "link": "https://www.csoonline.com/article/4176464/fbi-warns-of-kali-oauth-stealers.html",
             "summary": "",
             "published_utc": "2026-05-22T17:51:17+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "These are my favorite gadgets to add ambiance to your home, and they're all on sale",
-            "link": "https://www.zdnet.com/article/memorial-day-home-deals-2026/",
-            "summary": "Looking to add more coziness to your home's interior? These are my go-to products and devices.",
-            "published_utc": "2026-05-22T17:46:09+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -231,13 +308,6 @@
             "link": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
             "summary": "Lawmakers in both houses of Congress are demanding answers from the U.S. Cybersecurity &#038; Infrastructure Security Agency (CISA) after KrebsOnSecur...",
             "published_utc": "2026-05-22T16:34:24+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "5 iPad accessories I'll never regret buying (including a $35 Apple Pencil alternative)",
-            "link": "https://www.zdnet.com/article/my-favorite-ipad-air-accessories/",
-            "summary": "I've been using an iPad Air M2 for over two years, and these are my go-to essentials to get the most out of the tablet.",
-            "published_utc": "2026-05-22T16:20:03+00:00"
         },
         {
             "source": "CSO Online",
@@ -324,13 +394,6 @@
             "published_utc": "2026-05-22T10:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "‘First VPN’ Cybercrime Service Disrupted, Administrator Arrested",
-            "link": "https://www.securityweek.com/first-vpn-cybercrime-service-disrupted-administrator-arrested/",
-            "summary": "",
-            "published_utc": "2026-05-22T09:24:22+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "US and Canada arrest and charge suspected Kimwolf botnet admin",
             "link": "https://www.bleepingcomputer.com/news/security/us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin/",
@@ -350,13 +413,6 @@
             "link": "https://www.welivesecurity.com/en/cybersecurity/foul-play-fake-fifa-world-cup-websites-tickets/",
             "summary": "Watch out for bogus World Cup websites that mimic official ticket and merchandise flows to steal money and personal data",
             "published_utc": "2026-05-22T08:50:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Grafana Says Codebase and Other Data Stolen via TanStack Supply Chain Attack",
-            "link": "https://www.securityweek.com/grafana-says-codebase-and-other-data-stolen-via-tanstack-supply-chain-attack/",
-            "summary": "",
-            "published_utc": "2026-05-22T07:49:38+00:00"
         },
         {
             "source": "CSO Online",
@@ -464,25 +520,11 @@
             "published_utc": "2026-05-21T13:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Cisco Patches Critical Vulnerability in Secure Workload",
-            "link": "https://www.securityweek.com/cisco-patches-critical-vulnerability-in-secure-workload/",
-            "summary": "",
-            "published_utc": "2026-05-21T12:04:13+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Nine-Year-Old Linux Kernel Flaw Leaks SSH Keys and Password Hashes",
             "link": "https://www.infosecurity-magazine.com/news/linux-kernel-ptrace-flaw-ssh-keys/",
             "summary": "Qualys finds nine-year-old Linux ptrace flaw exposing SSH keys and password hashes locally",
             "published_utc": "2026-05-21T12:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Ocean Emerges From Stealth With $28M for Agentic Email Security Platform",
-            "link": "https://www.securityweek.com/ocean-emerges-from-stealth-with-28m-for-agentic-email-security-platform/",
-            "summary": "",
-            "published_utc": "2026-05-21T11:45:51+00:00"
         },
         {
             "source": "CSO Online",
@@ -630,20 +672,6 @@
             "link": "https://www.welivesecurity.com/en/eset-research/webworm-new-burrowing-techniques/",
             "summary": "ESET researchers describe new tools and techniques that the Webworm APT group recently added to its arsenal",
             "published_utc": "2026-05-20T08:40:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Microsoft disrupts malware code-signing service used by ransomware gangs",
-            "link": "https://www.csoonline.com/article/4173417/microsoft-disrupts-malware-code-signing-service-used-by-ransomware-gangs.html",
-            "summary": "",
-            "published_utc": "2026-05-20T00:45:54+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Contractor’s public GitHub account exposed GovCloud and CISA credentials",
-            "link": "https://www.csoonline.com/article/4173305/contractors-public-github-account-exposed-govcloud-and-cisa-credentials.html",
-            "summary": "",
-            "published_utc": "2026-05-19T20:57:46+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1673,13 +1701,6 @@
             "link": "https://www.infosecurity-magazine.com/news/uk-faces-a-cyber-perfect-storm-ncsc/",
             "summary": "The convergence of global tensions and rapid technological change is driving a new era of cyber risk, the NCSC warns",
             "published_utc": "2026-04-22T08:07:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "Mozilla Used Anthropic’s Mythos to Find and Fix 271 Bugs in Firefox",
-            "link": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/",
-            "summary": "The Firefox team doesn’t think emerging AI capabilities will upend cybersecurity long term, but they warn that software developers are likely in for a...",
-            "published_utc": "2026-04-21T18:30:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2765,20 +2786,6 @@
             "link": "https://www.infosecurity-magazine.com/news/cisa-cisco-sd-wan-flaws-directive/",
             "summary": "CISA issued urgent directive as attackers exploit Cisco SD-WAN flaw granting admin access to networks",
             "published_utc": "2026-03-12T12:45:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Police Scotland Fined After Sharing Victim’s Phone Data",
-            "link": "https://www.infosecurity-magazine.com/news/police-scotland-fined-sharing/",
-            "summary": "The ICO has fined Police Scotland after it shared the entire contents of a victim’s phone with her alleged attacker",
-            "published_utc": "2026-03-12T10:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Iran Claims Massive Cyber-Attack on MedTech Firm Stryker",
-            "link": "https://www.infosecurity-magazine.com/news/iran-massive-wiper-attack-medtech/",
-            "summary": "The pro-Iran Handala group claims to have wiped 200,000 systems in destructive wiper malware attack on US firm Stryker",
-            "published_utc": "2026-03-12T09:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
