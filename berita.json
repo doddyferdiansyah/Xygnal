@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2026-05-26T15:34:04.780541+00:00",
+    "lastUpdatedUTC": "2026-05-26T18:27:06.899811+00:00",
     "articles": [
+        {
+            "source": "WIRED Security",
+            "title": "Internet Starts to Return in Iran After 3-Month Blackout",
+            "link": "https://www.wired.com/story/internet-in-iran-starts-to-return-after-3-month-blackout/",
+            "summary": "Some internet connectivity is returning in Iran after nearly 90 days offline, web monitoring groups say. But it isn’t clear if the reconnection is per...",
+            "published_utc": "2026-05-26T17:31:25+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I built my own Wi-Fi router with a Raspberry Pi for Starlink and solar control - here's how",
+            "link": "https://www.zdnet.com/article/how-i-built-my-own-wifi-router-with-raspberry-pi/",
+            "summary": "This custom Wi-Fi router works off-grid with Starlink and can control my solar power station. Here's how I went about it.",
+            "published_utc": "2026-05-26T17:30:45+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I've used Chrome, Edge, and Safari for years - here's why Firefox is the better browser for most people",
+            "link": "https://www.zdnet.com/article/6-reasons-why-firefox-is-the-better-browser-for-most-users/",
+            "summary": "Firefox is alive and well - and offering a fast, customizable, bloat-free, private, secure browsing experience from developers who actually listen to ...",
+            "published_utc": "2026-05-26T17:00:46+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I quit ChatGPT for a free, private, and local AI called Ollama - here's why",
+            "link": "https://www.zdnet.com/article/reasons-to-use-ollama-instead-of-chatgpt/",
+            "summary": "Save your money, your privacy, and the planet. This installable AI offers several benefits you won't find with more traditional models like ChatGPT.",
+            "published_utc": "2026-05-26T16:05:21+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I compared the 100x zoom cameras on Samsung, Google, and Motorola phones - this model won",
+            "link": "https://www.zdnet.com/article/100x-zoom-test-galaxy-s26-ultra-pixel-10-pro-razr-fold-which-won/",
+            "summary": "One is slipping behind its competitors in the super-resolution zoom category, while another shocked me.",
+            "published_utc": "2026-05-26T15:38:00+00:00"
+        },
         {
             "source": "Schneier",
             "title": "Identifying People Using Wi-Fi Routers",
@@ -83,14 +118,7 @@
             "title": "I wore Google's Fitbit Air for a week, and it gives the Whoop a serious run for its money",
             "link": "https://www.zdnet.com/article/google-fitbit-air-review/",
             "summary": "The hottest health-tracking device is hidden inside a slick fitness band.",
-            "published_utc": "2026-05-26T13:00:45+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How I easily built my own Wi-Fi router with a Raspberry Pi - for Starlink and solar control",
-            "link": "https://www.zdnet.com/article/how-i-easily-built-my-own-wi-fi-router-with-a-raspberry-pi-for-starlink-and-solar-control/",
-            "summary": "This custom Wi-Fi router works off-grid with Starlink and can control my solar power station. Here's why I went the DIY route - and how.",
-            "published_utc": "2026-05-26T12:47:43+00:00"
+            "published_utc": "2026-05-26T13:00:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -310,27 +338,6 @@
             "published_utc": "2026-05-26T01:00:45+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Best Buy discounted this Lenovo gaming laptop almost 50% for Memorial Day",
-            "link": "https://www.zdnet.com/article/lenovo-legion-pro-5-deal-memorial-day-2026/",
-            "summary": "Upgrade your gaming laptop with the Lenovo Legion Pro 5, and save some serious cash in the process.",
-            "published_utc": "2026-05-26T00:34:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "After wearing Sennheiser's Momentum 5, I'll never doubt the company's competitive edge again",
-            "link": "https://www.zdnet.com/article/sennheiser-momentum-5-review/",
-            "summary": "The Sennheiser Momentum 5 returns with several new features, but one major upgrade is what should catch your attention the most.",
-            "published_utc": "2026-05-25T22:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "This Alienware laptop is a gaming powerhouse, and it's $650 off right now",
-            "link": "https://www.zdnet.com/article/alienware-16-area51-memorial-day-deals-2026/",
-            "summary": "The Alienware 16 Area-51 is one of the most powerful gaming laptops on the market right now, and multiple configurations are on sale for Memorial Day.",
-            "published_utc": "2026-05-25T21:55:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Anthropic’s restricted Claude Mythos model may be coming to Claude Code",
             "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-restricted-claude-mythos-model-may-be-coming-to-claude-code/",
@@ -367,7 +374,7 @@
         },
         {
             "source": "WIRED Security",
-            "title": "The AI Era Is Creating a Bug Hunting Arms Race",
+            "title": "The AI Era Is Creating a Bug-Hunting Arms Race",
             "link": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/",
             "summary": "As attackers ramp up their AI exploit development, the search for software vulnerabilities is changing rapidly.",
             "published_utc": "2026-05-25T10:30:00+00:00"
@@ -1624,13 +1631,6 @@
             "link": "https://www.infosecurity-magazine.com/news/npm-supply-chain-worm-canister/",
             "summary": "Malicious npm packages spread via worm-like propagation and steal developer credentials",
             "published_utc": "2026-04-24T08:10:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "Newly Deciphered Sabotage Malware May Have Targeted Iran’s Nuclear Program—and Predates Stuxnet",
-            "link": "https://www.wired.com/story/fast16-malware-stuxnet-precursor-iran-nuclear-attack/",
-            "summary": "Researchers have finally cracked Fast16, mysterious code capable of silently tampering with calculation and simulation software. It was created in 200...",
-            "published_utc": "2026-04-23T22:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
