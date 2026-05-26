@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-05-26T03:41:13.634596+00:00",
+    "lastUpdatedUTC": "2026-05-26T07:50:34.112846+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft: Domain Controller lookup may fail on Windows Server 2016",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-domain-controller-lookup-may-fail-on-windows-server-2016/",
+            "summary": "Microsoft has confirmed a new known issue affecting Windows Server 2016 systems that causes domain controller lookups to fail after installing the KB5...",
+            "published_utc": "2026-05-26T07:41:25+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "7-Eleven data breach exposes personal information of 185,000 people",
+            "link": "https://www.bleepingcomputer.com/news/security/7-eleven-data-breach-exposes-personal-information-of-185-000-people/",
+            "summary": "The ShinyHunters extortion gang stole the personal information of over 183,000 people after hacking the systems of convenience store chain giant 7-Ele...",
+            "published_utc": "2026-05-26T07:01:12+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Vulnerabilities have become cyber attackers’ No. 1 door to the enterprise",
+            "link": "https://www.csoonline.com/article/4176086/vulnerabilities-have-become-cyber-attackers-no-1-door-to-the-enterprise.html",
+            "summary": "",
+            "published_utc": "2026-05-26T07:00:00+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "Security experts caution MFA alone can no longer stop threat actors",
@@ -506,25 +527,11 @@
             "published_utc": "2026-05-21T15:30:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Apple blocked over $11 billion in App Store fraud in 6 years",
-            "link": "https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/",
-            "summary": "Apple revealed that it blocked over $11 billion in fraudulent App Store transactions over the last six years, more than $2.2 billion in potentially fr...",
-            "published_utc": "2026-05-21T15:11:08+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "GitHub Breach Traced to Malicious 'Nx Console' VS Code Extension",
             "link": "https://www.infosecurity-magazine.com/news/github-breach-nx-console-vs-code/",
             "summary": "A threat actor compromised an Nx developer and posed as a legitimate maintainer to publish a malicious extension on Visual Studio Marketplace",
             "published_utc": "2026-05-21T14:45:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Inside a Crypto Drainer: How to Spot it Before it Empties Your Wallet",
-            "link": "https://www.bleepingcomputer.com/news/security/inside-a-crypto-drainer-how-to-spot-it-before-it-empties-your-wallet/",
-            "summary": "Modern crypto drainers don't hack wallets. They trick users into approving malicious transactions.  Flare explores how the Lucifer DaaS platform scale...",
-            "published_utc": "2026-05-21T14:00:10+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -602,13 +609,6 @@
             "link": "https://www.wired.com/story/msg-bans-lawyer-representing-new-york-cop-injured-at-a-boxing-match/",
             "summary": "Attorney John Scola is representing a police officer who is suing over injuries allegedly sustained while working security at an MSG property in 2025.",
             "published_utc": "2026-05-20T16:24:52+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "GitHub admits major source code leak after 3,800 internal repositories breached",
-            "link": "https://www.csoonline.com/article/4174747/github-admits-major-source-code-leak-after-3800-internal-repositories-breached-2.html",
-            "summary": "",
-            "published_utc": "2026-05-20T15:47:03+00:00"
         },
         {
             "source": "InfosecurityMag",
