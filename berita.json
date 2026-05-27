@@ -1,12 +1,138 @@
 {
-    "lastUpdatedUTC": "2026-05-27T12:53:52.242218+00:00",
+    "lastUpdatedUTC": "2026-05-27T16:38:16.181604+00:00",
     "articles": [
         {
             "source": "ZDNet Security",
-            "title": "My eye doctor got my computer prescription wrong, and AI helped me fix it",
+            "title": "Sony Bravia 9 II vs. Sony Bravia 9: I compared the True RGB TV to standard Mini LED - this model wins",
+            "link": "https://www.zdnet.com/article/sony-bravia-9-ii-vs-sony-bravia-9/",
+            "summary": "Sony just announced the new Bravia 9 II True RGB TV. But is it worth upgrading from the older Bravia 9 Mini LED?",
+            "published_utc": "2026-05-27T16:19:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I listened to Sony's new modular Bravia theater system, and 'Dune' never sounded so real",
+            "link": "https://www.zdnet.com/article/sony-bravia-trio-hands-on/",
+            "summary": "The Sony Bravia Theater Trio might look unassuming, but you shouldn't judge a book by its cover.",
+            "published_utc": "2026-05-27T16:00:50+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "AI is an arms race, and the US wants $9 billion in Nvidia superchips to keep up",
+            "link": "https://www.zdnet.com/article/heres-why-the-government-wants-to-spend-9-billion-on-ai-superchips/",
+            "summary": "The government is playing catch-up, but Nvidia has a lifeline.",
+            "published_utc": "2026-05-27T15:39:15+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "My new favorite Windows app made my PC safer and more reliable - and it's free",
+            "link": "https://www.zdnet.com/article/how-to-use-unigetui-to-install-and-manage-windows-apps/",
+            "summary": "Downloading executable installer files from random websites is the best way to put malware on your Windows PC. Stop doing that! UniGetUI makes it easy...",
+            "published_utc": "2026-05-27T15:36:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Why the future of AI is on-premises - business advice from Dell Tech World 2026",
+            "link": "https://www.zdnet.com/article/dell-tech-world-2026-why-the-future-of-ai-is-moving-on-premises/",
+            "summary": "With rising costs, sovereignty requirements, and agent adoption, Dell's latest conference focused on how enterprises can transition AI workloads to a ...",
+            "published_utc": "2026-05-27T14:51:30+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Acer vs. Asus: I've tested dozens of laptops from both brands, and this one's better",
+            "link": "https://www.zdnet.com/article/acer-vs-asus-laptops/",
+            "summary": "Acer and Asus both have solid options, but they excel in different areas. Let's break down the major differences.",
+            "published_utc": "2026-05-27T14:48:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "FastAPI-based AI tools exposed to authentication bypass by flaw in Starlette framework",
+            "link": "https://www.csoonline.com/article/4177711/fastapi-based-ai-tools-exposed-to-authentication-bypass-by-flaw-in-starlette-framework.html",
+            "summary": "",
+            "published_utc": "2026-05-27T14:46:10+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Vulnerability in Popular Conference Software Granted Attackers a 100% Talk Acceptance Rate",
+            "link": "https://www.securityweek.com/vulnerability-in-popular-conference-software-granted-attackers-a-100-talk-acceptance-rate/",
+            "summary": "",
+            "published_utc": "2026-05-27T14:30:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Fitbit Air vs. Whoop: I've worn both trackers for health and fitness, and this model wins",
+            "link": "https://www.zdnet.com/article/whoop-vs-fitbit-air-google/",
+            "summary": "How does the new Fitbit Air stack up against the tried-and-true Whoop band? I've broken down the key differences.",
+            "published_utc": "2026-05-27T14:30:00+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "FBI’s 2025 Internet Crime Report",
+            "link": "https://www.schneier.com/blog/archives/2026/05/fbis-2025-internet-crime-report.html",
+            "summary": "",
+            "published_utc": "2026-05-27T14:02:44+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Own a Hisense TV? I'd change these 12 settings to noticeably improve the picture quality",
+            "link": "https://www.zdnet.com/article/best-hisense-tv-settings-to-change-better-picture-quality/",
+            "summary": "You might think your Hisense TV already looks great, but you can easily get more out of it by tweaking just a few menu options.",
+            "published_utc": "2026-05-27T14:00:19+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Can you enforce strong Active Directory password rules without frustrating users?",
+            "link": "https://www.bleepingcomputer.com/news/security/can-you-enforce-strong-active-directory-password-rules-without-frustrating-users/",
+            "summary": "Strong Active Directory passwords don't have to come at the expense of usability. Specops Software explains how passphrases, breached password protect...",
+            "published_utc": "2026-05-27T14:00:10+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "CrowdStrike, Google Take Down Glassworm Botnet",
+            "link": "https://www.infosecurity-magazine.com/news/crowdstrike-google-takedown/",
+            "summary": "Operators of the malicious Glassworm botnet have been targeting software developers since at least early 2025",
+            "published_utc": "2026-05-27T14:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Rust will save Linux from AI, says Greg Kroah-Hartman",
+            "link": "https://www.zdnet.com/article/rust-will-save-linux-from-ai-says-greg-kroah-hartman/",
+            "summary": "Now that doesn't mean Linux stable kernel maintainer Greg Kroah-Hartman thinks Rust is magic.",
+            "published_utc": "2026-05-27T13:34:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Infosecurity Europe: Why Burnout in Cybersecurity Demands Risk-Based Response",
+            "link": "https://www.infosecurity-magazine.com/news/why-burnout-cybersecurity-risk/",
+            "summary": "Cybermindz warns that cybersecurity burnout is a growing risk, urging organizations to move beyond wellness initiatives and adopt a measurable, risk-b...",
+            "published_utc": "2026-05-27T13:30:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Glassworm botnet disrupted after resilient C2 infrastructure takedown",
+            "link": "https://www.bleepingcomputer.com/news/security/glassworm-botnet-disrupted-after-resilient-c2-infrastructure-takedown/",
+            "summary": "The Glassworm botnet targeting developers in software supply-chain attacks has been disrupted after researchers took down its resilient command-and-co...",
+            "published_utc": "2026-05-27T13:28:42+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "SecurityWeek to Host AI Risk Summit August 11-12 at the Ritz-Carlton, Half Moon Bay",
+            "link": "https://www.securityweek.com/securityweek-to-host-ai-risk-summit-august-11-12-at-the-ritz-carlton-half-moon-bay/",
+            "summary": "",
+            "published_utc": "2026-05-27T13:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "All Major LLMs Exposed to Multi-Turn Manipulation, Warn Researchers",
+            "link": "https://www.infosecurity-magazine.com/news/all-major-llms-exposed-to-multi/",
+            "summary": "",
+            "published_utc": "2026-05-27T13:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "When my eye doctor got my glasses prescription wrong, AI helped me fix it",
             "link": "https://www.zdnet.com/article/eye-doctor-ai-prescription/",
             "summary": "An eye exam produced a good distance prescription and a terrible computer prescription. Here's how AI helped decode the numbers and expose the mismatch.",
-            "published_utc": "2026-05-27T12:44:21+00:00"
+            "published_utc": "2026-05-27T12:44:00+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -142,20 +268,6 @@
             "published_utc": "2026-05-27T07:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "CISA Urges Immediate Patching of Exploited LiteSpeed cPanel Plugin Zero-Day",
-            "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-litespeed-cpanel-plugin-zero-day/",
-            "summary": "",
-            "published_utc": "2026-05-27T06:55:44+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Anthropic Releases New Claude Sandbox, Security Guidance Plugin",
-            "link": "https://www.securityweek.com/anthropic-releases-new-claude-sandbox-security-guidance-plugin/",
-            "summary": "",
-            "published_utc": "2026-05-27T06:43:08+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "I've tried so many Linux email clients - why Aerion just replaced Geary as my top pick",
             "link": "https://www.zdnet.com/article/aerion-my-new-favorite-email-client/",
@@ -233,13 +345,6 @@
             "published_utc": "2026-05-26T18:28:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "One of the most user-friendly Linux distros I've ever used is also one of the most secure",
-            "link": "https://www.zdnet.com/article/aurora-linux-immutable-distro-review/",
-            "summary": "Immutable Linux is the best path toward a truly secure operating system, and Aurora Linux might be the finest option for new users.",
-            "published_utc": "2026-05-26T18:27:00+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "Internet Starts to Return in Iran After 3-Month Blackout",
             "link": "https://www.wired.com/story/internet-in-iran-starts-to-return-after-3-month-blackout/",
@@ -247,46 +352,11 @@
             "published_utc": "2026-05-26T17:31:25+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I built my own Wi-Fi router with a Raspberry Pi for Starlink and solar control - here's how",
-            "link": "https://www.zdnet.com/article/how-i-built-my-own-wifi-router-with-raspberry-pi/",
-            "summary": "This custom Wi-Fi router works off-grid with Starlink and can control my solar power station. Here's how I went about it.",
-            "published_utc": "2026-05-26T17:30:45+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I've used Chrome, Edge, and Safari for years - here's why Firefox is the better browser for most people",
-            "link": "https://www.zdnet.com/article/6-reasons-why-firefox-is-the-better-browser-for-most-users/",
-            "summary": "Firefox is alive and well - and offering a fast, customizable, bloat-free, private, secure browsing experience from developers who actually listen to ...",
-            "published_utc": "2026-05-26T17:00:46+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I quit ChatGPT for a free, private, and local AI called Ollama - here's why",
-            "link": "https://www.zdnet.com/article/reasons-to-use-ollama-instead-of-chatgpt/",
-            "summary": "Save your money, your privacy, and the planet. This installable AI offers several benefits you won't find with more traditional models like ChatGPT.",
-            "published_utc": "2026-05-26T16:05:21+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I compared the 100x zoom cameras on Samsung, Google, and Motorola phones - this model won",
-            "link": "https://www.zdnet.com/article/100x-zoom-test-galaxy-s26-ultra-pixel-10-pro-razr-fold-which-won/",
-            "summary": "One is slipping behind its competitors in the super-resolution zoom category, while another shocked me.",
-            "published_utc": "2026-05-26T15:38:00+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Identifying People Using Wi-Fi Routers",
             "link": "https://www.schneier.com/blog/archives/2026/05/identifying-people-using-wi-fi-routers.html",
             "summary": "",
             "published_utc": "2026-05-26T15:02:06+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I found the best Memorial Day Apple deals still available: Save on iPad, Apple Watch, and more",
-            "link": "https://www.zdnet.com/article/best-apple-deals-memorial-day-2026/",
-            "summary": "Summer is almost here, and you can find deals on all things Apple with these lingering Memorial Day sales.",
-            "published_utc": "2026-05-26T14:58:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -315,27 +385,6 @@
             "link": "https://www.infosecurity-magazine.com/news/btmob-android-rat-maas-builder/",
             "summary": "BTMOB Android RAT sold as a service with a no-code builder for fast, regional phishing lures",
             "published_utc": "2026-05-26T14:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Last chance on Memorial Day laptop deals: Save on Apple, Dell, Lenovo, and more",
-            "link": "https://www.zdnet.com/article/best-memorial-day-laptop-deals-2026/",
-            "summary": "In the market for a new laptop? I've rounded up the best laptop deals still live following Memorial Day weekend.",
-            "published_utc": "2026-05-26T13:39:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How I make my solar panels last long enough to pay for themselves",
-            "link": "https://www.zdnet.com/article/how-to-make-solar-panels-last-long-to-pay-for-themselves/",
-            "summary": "You need to maintain your solar panels if you want them to last. Here are my top care tips, plus how to test for faulty ones.",
-            "published_utc": "2026-05-26T13:28:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Avoid these 8 solar mistakes that cut your power output in half - I learned the hard way",
-            "link": "https://www.zdnet.com/article/avoid-solar-mistakes-that-cut-power-output-by-half-learned-hard-way/",
-            "summary": "Solar power can definitely save you money, but it requires a different mindset than with typical grid AC. Here's why.",
-            "published_utc": "2026-05-26T13:17:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -450,13 +499,6 @@
             "published_utc": "2026-05-25T13:21:49+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "FBI warns of Kali365 phishing service targeting Microsoft 365 accounts",
-            "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-kali365-phishing-service-targeting-microsoft-365-accounts/",
-            "summary": "The FBI is warning about the Kali365 phishing-as-a-service platform (PhaaS) that is used to hijack Microsoft 365 accounts by abusing OAuth device code...",
-            "published_utc": "2026-05-25T12:45:54+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "AI security needs a shift from models to systems, researchers argue",
             "link": "https://www.csoonline.com/article/4176725/ai-security-needs-a-shift-from-models-to-systems-researchers-argue.html",
@@ -497,13 +539,6 @@
             "link": "https://www.csoonline.com/article/4176472/to-pay-or-not-to-pay-58-of-cisos-say-they-would-pay-the-ransom-for-their-data.html",
             "summary": "",
             "published_utc": "2026-05-25T07:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign",
-            "link": "https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/",
-            "summary": "A large-scale campaign is exploiting a critical SQL injection vulnerability (CVE-2026-26980) in Ghost CMS to inject malicious JavaScript code that tri...",
-            "published_utc": "2026-05-24T14:12:32+00:00"
         },
         {
             "source": "WIRED Security",
@@ -602,13 +637,6 @@
             "link": "https://www.csoonline.com/article/4176164/google-folds-codemender-into-agent-ecosystem-amid-push-for-ai-led-appsec.html",
             "summary": "",
             "published_utc": "2026-05-22T07:37:27+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Critical vulnerability in Cisco Secure Workload rated at maximum severity",
-            "link": "https://www.csoonline.com/article/4175913/critical-vulnerability-in-cisco-secure-workload-rated-at-maximum-severity.html",
-            "summary": "",
-            "published_utc": "2026-05-21T22:39:20+00:00"
         },
         {
             "source": "KrebsOnSecurity",
@@ -917,13 +945,6 @@
             "link": "https://www.infosecurity-magazine.com/news/china-hackers-tencshell-malware/",
             "summary": "A suspected China-linked threat actor targeted the Indian branch of a global manufacturer leveraging an open source offensive toolkit",
             "published_utc": "2026-05-15T08:00:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Upcoming Speaking Engagements",
-            "link": "https://www.schneier.com/blog/archives/2026/05/upcoming-speaking-engagements-56.html",
-            "summary": "",
-            "published_utc": "2026-05-14T16:01:06+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2758,27 +2779,6 @@
             "link": "https://www.infosecurity-magazine.com/news/uk-cyber-monitoring-centre-us/",
             "summary": "The US Cyber Monitoring Center should be operational in 2027, said the UK CMC leadership",
             "published_utc": "2026-03-17T10:15:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Researchers Warn of Global Surge in Fake Shipment Tracking Scams",
-            "link": "https://www.infosecurity-magazine.com/news/global-surge-fake-shipment/",
-            "summary": "Some of these campaigns are linked to Darcula, a Chinese-language phishing-as-a-service platform",
-            "published_utc": "2026-03-16T14:45:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "CrackArmor Flaws Expose Linux Systems to Privilege Escalation",
-            "link": "https://www.infosecurity-magazine.com/news/crackarmor-linux-privilege/",
-            "summary": "CrackArmor AppArmor flaws let local Linux users gain root, break containers and enable DoS attacks",
-            "published_utc": "2026-03-16T14:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Security Flaw in AWS Bedrock Code Interpreter Raises Alarms",
-            "link": "https://www.infosecurity-magazine.com/news/security-flaw-aws-bedrock/",
-            "summary": "DNS-based attack in AWS Bedrock AgentCore lets AI sandboxes exfiltrate cloud data",
-            "published_utc": "2026-03-16T13:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
