@@ -1,6 +1,76 @@
 {
-    "lastUpdatedUTC": "2026-05-27T09:53:21.714919+00:00",
+    "lastUpdatedUTC": "2026-05-27T12:53:52.242218+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "My eye doctor got my computer prescription wrong, and AI helped me fix it",
+            "link": "https://www.zdnet.com/article/eye-doctor-ai-prescription/",
+            "summary": "An eye exam produced a good distance prescription and a terrible computer prescription. Here's how AI helped decode the numbers and expose the mismatch.",
+            "published_utc": "2026-05-27T12:44:21+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "RevEng.AI Raises $15 Million to Hunt for Flaws and Backdoors in Software Binaries",
+            "link": "https://www.securityweek.com/reveng-ai-raises-15-million-to-hunt-for-flaws-and-backdoors-in-software-binaries/",
+            "summary": "",
+            "published_utc": "2026-05-27T11:52:55+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "FBI warns of in-person data theft attacks from extortion gang",
+            "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-silent-ransom-group-in-person-data-theft-attacks/",
+            "summary": "The FBI warned on Tuesday that the Silent Ransom Group (SRG) extortion gang is now targeting U.S.-based law firms in in-person data theft attacks. [...]",
+            "published_utc": "2026-05-27T11:51:12+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Romanian Hacker Sentenced to Prison in US for Selling Access to State Network",
+            "link": "https://www.securityweek.com/romanian-hacker-sentenced-to-prison-in-us-for-selling-access-to-state-network/",
+            "summary": "",
+            "published_utc": "2026-05-27T11:37:19+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Thousands of Fake FIFA Domains Target World Cup Fans",
+            "link": "https://www.infosecurity-magazine.com/news/ghost-stadium-fifa-world-cup-fraud/",
+            "summary": "Group-IB uncovered Ghost Stadium phishing and 4300 fake FIFA World Cup domains targeting fans",
+            "published_utc": "2026-05-27T11:28:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Lastwall Raises $11.5 Million for Quantum-Resilient Identity Platform",
+            "link": "https://www.securityweek.com/lastwall-raises-11-5-million-for-quantum-resilient-identity-platform/",
+            "summary": "",
+            "published_utc": "2026-05-27T11:01:13+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "The Credential Crisis: How Stolen Credentials Defeat Modern Security",
+            "link": "https://www.securityweek.com/the-credential-crisis-how-stolen-credentials-defeat-modern-security/",
+            "summary": "",
+            "published_utc": "2026-05-27T10:30:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "‘SymJack’ Attack Turns AI Coding Agents Into Supply Chain Attack Delivery Systems",
+            "link": "https://www.securityweek.com/symjack-attack-turns-ai-coding-agents-into-supply-chain-attack-delivery-systems/",
+            "summary": "",
+            "published_utc": "2026-05-27T10:15:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "GlassWorm Botnet Disrupted",
+            "link": "https://www.securityweek.com/glassworm-botnet-disrupted/",
+            "summary": "",
+            "published_utc": "2026-05-27T10:10:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "CISA gives feds 4 days to patch actively exploited cPanel plugin flaw",
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-4-days-to-patch-actively-exploited-cpanel-plugin-flaw/",
+            "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has given U.S. federal agencies four days to secure their servers against a critical ...",
+            "published_utc": "2026-05-27T10:06:17+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "LA Metro Cyberattack Linked to Iranian State-Sponsored Hackers",
@@ -240,13 +310,6 @@
             "published_utc": "2026-05-26T14:01:11+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "AppOmni’s Marlin AI Brings Autonomous Investigation to SaaS Security",
-            "link": "https://www.securityweek.com/appomnis-marlin-ai-brings-autonomous-investigation-to-saas-security/",
-            "summary": "",
-            "published_utc": "2026-05-26T14:00:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "BTMOB Android RAT Spreads Through No-Code Builder Tooling",
             "link": "https://www.infosecurity-magazine.com/news/btmob-android-rat-maas-builder/",
@@ -266,13 +329,6 @@
             "link": "https://www.zdnet.com/article/how-to-make-solar-panels-last-long-to-pay-for-themselves/",
             "summary": "You need to maintain your solar panels if you want them to last. Here are my top care tips, plus how to test for faulty ones.",
             "published_utc": "2026-05-26T13:28:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Iranian APT Targets Aviation, Software Companies With Updated Tools",
-            "link": "https://www.securityweek.com/iranian-apt-targets-aviation-software-companies-with-updated-tools/",
-            "summary": "",
-            "published_utc": "2026-05-26T13:26:17+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -296,46 +352,11 @@
             "published_utc": "2026-05-26T12:16:24+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Is graphene heat dissipation in portable batteries legit? I cracked one open to find out",
-            "link": "https://www.zdnet.com/article/momax-q-mag-x-magsafe-power-bank-review/",
-            "summary": "The Momax Q.Mag X is one of the more reliable magnetic wireless battery packs I've tested, thanks to its enhanced heat management.",
-            "published_utc": "2026-05-26T12:00:39+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "185,000 Likely Impacted by 7-Eleven Data Breach",
-            "link": "https://www.securityweek.com/185000-likely-impacted-by-7-eleven-data-breach/",
-            "summary": "",
-            "published_utc": "2026-05-26T11:59:40+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Anthropic Expands Claude’s Enterprise Security Governance With 28 New Integrations",
-            "link": "https://www.securityweek.com/anthropic-expands-claudes-enterprise-security-reach-with-28-new-integrations/",
-            "summary": "",
-            "published_utc": "2026-05-26T11:44:53+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "TrapDoor malware campaign puts developer workstations in CISO spotlight",
             "link": "https://www.csoonline.com/article/4177019/trapdoor-malware-campaign-puts-developer-workstations-in-ciso-spotlight.html",
             "summary": "",
             "published_utc": "2026-05-26T11:34:29+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Hackers Exploited KnowledgeDeliver Zero-Day for Web Shell Deployment",
-            "link": "https://www.securityweek.com/hackers-exploited-knowledgedeliver-zero-day-for-web-shell-deployment/",
-            "summary": "",
-            "published_utc": "2026-05-26T11:14:31+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Watch on Demand: Threat Detection & Incident Response Summit – All Sessions Available",
-            "link": "https://www.securityweek.com/watch-on-demand-threat-detection-incident-response-summit-all-sessions-available/",
-            "summary": "",
-            "published_utc": "2026-05-26T11:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -483,20 +504,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/",
             "summary": "A large-scale campaign is exploiting a critical SQL injection vulnerability (CVE-2026-26980) in Ghost CMS to inject malicious JavaScript code that tri...",
             "published_utc": "2026-05-24T14:12:32+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Laravel Lang packages hijacked to deploy credential-stealing malware",
-            "link": "https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/",
-            "summary": "A supply chain attack targeting the Laravel Lang localization packages has exposed developers to a sophisticated credential-stealing malware campaign ...",
-            "published_utc": "2026-05-23T20:48:23+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Italy disrupts CINEMAGOAL piracy app that stole streaming auth codes",
-            "link": "https://www.bleepingcomputer.com/news/legal/italy-disrupts-cinemagoal-piracy-app-that-stole-streaming-auth-codes/",
-            "summary": "Italian authorities have dismantled a piracy ecosystem centered around the CINEMAGOAL app that provided access to various streaming platforms, includi...",
-            "published_utc": "2026-05-23T14:23:44+00:00"
         },
         {
             "source": "WIRED Security",
@@ -2772,13 +2779,6 @@
             "link": "https://www.infosecurity-magazine.com/news/security-flaw-aws-bedrock/",
             "summary": "DNS-based attack in AWS Bedrock AgentCore lets AI sandboxes exfiltrate cloud data",
             "published_utc": "2026-03-16T13:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "FBI Calls for Help to Track Steam Malware Campaign",
-            "link": "https://www.infosecurity-magazine.com/news/fbi-calls-help-track-steam-malware/",
-            "summary": "The FBI wants to hear from gamers who have downloaded Steam titles containing malware",
-            "published_utc": "2026-03-16T11:15:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
