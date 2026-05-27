@@ -1,6 +1,90 @@
 {
-    "lastUpdatedUTC": "2026-05-27T05:16:22.823024+00:00",
+    "lastUpdatedUTC": "2026-05-27T09:53:21.714919+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "LA Metro Cyberattack Linked to Iranian State-Sponsored Hackers",
+            "link": "https://www.securityweek.com/la-metro-cyberattack-linked-to-iranian-state-sponsored-hackers/",
+            "summary": "",
+            "published_utc": "2026-05-27T09:33:45+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "68% of UK Firms Plan to Increase Cyber Spending as AI Risks Rise",
+            "link": "https://www.infosecurity-magazine.com/news/uk-firms-cyber-spending-ai-risks/",
+            "summary": "UK firms plan higher cyber spending as AI adoption raises security concerns",
+            "published_utc": "2026-05-27T09:30:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Dutch police arrests suspect linked to Ajax football club hack",
+            "link": "https://www.bleepingcomputer.com/news/security/dutch-police-arrests-suspect-linked-to-ajax-football-club-hack/",
+            "summary": "The Dutch National Police arrested a 35-year-old man suspected of hacking the professional football club Ajax Amsterdam (AFC Ajax) earlier this year. ...",
+            "published_utc": "2026-05-27T09:09:03+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "The NSA, ‘Mythos’ and the quiet emergence of AI cyber doctrine",
+            "link": "https://www.csoonline.com/article/4176737/the-nsa-mythos-and-the-quiet-emergence-of-ai-cyber-doctrine.html",
+            "summary": "",
+            "published_utc": "2026-05-27T09:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Windows 11 KB5089573 update released with performance improvements",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089573-update-released-with-performance-improvements/",
+            "summary": "Microsoft has released the KB5089573 preview cumulative update for Windows 11 versions 25H2 and 24H2, which comes with 30 changes, including performan...",
+            "published_utc": "2026-05-27T08:33:46+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "FBI: Hackers Sending Operatives in Person to Insert USB Drives and Steal Data",
+            "link": "https://www.securityweek.com/fbi-hackers-sending-operatives-in-person-to-insert-usb-drives-and-steal-data/",
+            "summary": "",
+            "published_utc": "2026-05-27T08:33:34+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Does Android Auto make your phone overheat? Try these 8 ways to cool it down",
+            "link": "https://www.zdnet.com/article/how-to-cool-down-phone-overheating-android-auto/",
+            "summary": "Android Auto uses a lot of resources, which can make your phone hot. Here's how to help.",
+            "published_utc": "2026-05-27T08:00:59+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "These 4 Android Auto settings made my daily commute less distracting - where to find them",
+            "link": "https://www.zdnet.com/article/4-android-auto-settings-i-always-turn-on-for-a-safer-ride/",
+            "summary": "Using Android Auto can be as dangerous as using your phone while driving. Fortunately, these built-in safety features can make your rides much safer.",
+            "published_utc": "2026-05-27T08:00:43+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "PureLogs Variant Steals Data via Purchase Order Lures",
+            "link": "https://www.infosecurity-magazine.com/news/purelogs-phishing-purchase-order/",
+            "summary": "FortiGuard Labs detailed a PureLogs campaign using JavaScript, PowerShell and process hollowing",
+            "published_utc": "2026-05-27T08:00:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "DSPM buyer’s guide: Top 10 data security posture management tools",
+            "link": "https://www.csoonline.com/article/2075321/top-12-data-security-posture-management-tools.html",
+            "summary": "",
+            "published_utc": "2026-05-27T07:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "CISA Urges Immediate Patching of Exploited LiteSpeed cPanel Plugin Zero-Day",
+            "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-litespeed-cpanel-plugin-zero-day/",
+            "summary": "",
+            "published_utc": "2026-05-27T06:55:44+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Anthropic Releases New Claude Sandbox, Security Guidance Plugin",
+            "link": "https://www.securityweek.com/anthropic-releases-new-claude-sandbox-security-guidance-plugin/",
+            "summary": "",
+            "published_utc": "2026-05-27T06:43:08+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "I've tried so many Linux email clients - why Aerion just replaced Geary as my top pick",
@@ -226,13 +310,6 @@
             "published_utc": "2026-05-26T11:59:40+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "You can easily make Zorin OS look and feel like Windows, MacOS, or Linux - here's how",
-            "link": "https://www.zdnet.com/article/how-to-customize-zorin-os-linux-macos-windows/",
-            "summary": "Zorin OS is one of the most popular Linux distributions. One reason is its flexibility, which makes it easy to customize the desktop's look and feel.",
-            "published_utc": "2026-05-26T11:55:00+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "Anthropic Expands Claude’s Enterprise Security Governance With 28 New Integrations",
             "link": "https://www.securityweek.com/anthropic-expands-claudes-enterprise-security-reach-with-28-new-integrations/",
@@ -245,13 +322,6 @@
             "link": "https://www.csoonline.com/article/4177019/trapdoor-malware-campaign-puts-developer-workstations-in-ciso-spotlight.html",
             "summary": "",
             "published_utc": "2026-05-26T11:34:29+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "After years of testing robot mowers, I found the specs you can safely ignore (and which ones truly matter)",
-            "link": "https://www.zdnet.com/article/robot-mower-buying-guide-features-to-ignore-2026/",
-            "summary": "Robot mowers aren't one-size-fits-all devices - many have overhyped specs you don't even need. Here's what I recommend skipping.",
-            "published_utc": "2026-05-26T11:30:00+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -268,32 +338,11 @@
             "published_utc": "2026-05-26T11:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Open Source DockSec Uses AI to Cut Through Vulnerability Noise in Docker Images",
-            "link": "https://www.securityweek.com/open-source-docksec-uses-ai-to-cut-through-vulnerability-noise-in-docker-images/",
-            "summary": "",
-            "published_utc": "2026-05-26T10:45:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "India's CERT-In Sets 12-Hour Patch Deadline for Exposed Flaws",
             "link": "https://www.infosecurity-magazine.com/news/cert-in-12-hour-patch-deadline-ai/",
             "summary": "CERT-In urges 12-hour patching of exposed flaws as AI compresses exploitation timelines",
             "published_utc": "2026-05-26T10:30:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Lithuania Suspects Foreign Involvement in Data Leak of Over 600,000 National Register Entries",
-            "link": "https://www.securityweek.com/lithuania-suspects-foreign-involvement-in-data-leak-of-over-600000-national-register-entries/",
-            "summary": "",
-            "published_utc": "2026-05-26T10:26:56+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Admins of Bulletproof Hosting Service Used by Russian Hackers Arrested in Netherlands",
-            "link": "https://www.securityweek.com/admins-of-bulletproof-hosting-service-used-by-russian-hackers-arrested-in-netherlands/",
-            "summary": "",
-            "published_utc": "2026-05-26T09:47:19+00:00"
         },
         {
             "source": "WIRED Security",
@@ -315,6 +364,13 @@
             "link": "https://www.csoonline.com/article/4176546/stop-treating-ai-governance-as-a-review-layer-make-it-release-infrastructure.html",
             "summary": "",
             "published_utc": "2026-05-26T09:00:00+00:00"
+        },
+        {
+            "source": "WeLiveSecurity",
+            "title": "BTMOB: A stealthy RAT burrowing deep into Android devices",
+            "link": "https://www.welivesecurity.com/en/malware/btmob-stealthy-rat-burrowing-deep-android-devices/",
+            "summary": "The malware pairs remote access capabilities with ready-made campaign tools, lowering the barrier for full device compromise",
+            "published_utc": "2026-05-26T08:50:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -366,11 +422,11 @@
             "published_utc": "2026-05-25T17:07:33+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Ghost CMS Vulnerability Exploited to Hack Over 700 Websites",
-            "link": "https://www.securityweek.com/ghost-cms-vulnerability-exploited-to-hack-over-700-websites/",
-            "summary": "",
-            "published_utc": "2026-05-25T13:27:12+00:00"
+            "source": "KrebsOnSecurity",
+            "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+            "link": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
+            "summary": "Authorities in the Netherlands have arrested the co-owners of two related Internet hosting companies for operating IT infrastructure used by Russia to...",
+            "published_utc": "2026-05-25T13:21:49+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -471,13 +527,6 @@
             "published_utc": "2026-05-22T17:51:17+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Netherlands seizes 800 servers of hosting firm enabling cyberattacks",
-            "link": "https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/",
-            "summary": "Financial crime investigators in the Netherlands (FIOD) arrested two men and seized 800 servers linked to a web hosting company that enabled cyberatta...",
-            "published_utc": "2026-05-22T17:24:52+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Police take down VPN service (this time with a good reason)",
             "link": "https://www.csoonline.com/article/4176442/police-take-down-vpn-service-this-time-with-a-good-reason-2.html",
@@ -497,13 +546,6 @@
             "link": "https://www.csoonline.com/article/4176413/microsoft-says-its-making-ai-safe-for-work-in-your-browser-2.html",
             "summary": "",
             "published_utc": "2026-05-22T15:48:22+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Former US execs plead guilty to aiding tech support scammers",
-            "link": "https://www.bleepingcomputer.com/news/security/former-us-execs-plead-guilty-to-aiding-tech-support-scammers/",
-            "summary": "Two former executives of a call-tracking and analytics company pleaded guilty to concealing a years-long tech support fraud scheme that victimized ind...",
-            "published_utc": "2026-05-22T15:32:18+00:00"
         },
         {
             "source": "Schneier",
@@ -562,13 +604,6 @@
             "published_utc": "2026-05-21T22:39:20+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Microsoft patches two zero-day flaws in Defender",
-            "link": "https://www.csoonline.com/article/4175970/microsoft-patches-two-zero-day-flaws-in-defender.html",
-            "summary": "",
-            "published_utc": "2026-05-21T22:05:47+00:00"
-        },
-        {
             "source": "KrebsOnSecurity",
             "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
             "link": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
@@ -581,13 +616,6 @@
             "link": "https://www.wired.com/story/creepy-listening-tool-for-targeted-ads-didnt-actually-work-ftc-says/",
             "summary": "Three firms will pay nearly $1 million for selling “Active Listening” technology that they claimed tapped people’s phones for advertising. The FTC all...",
             "published_utc": "2026-05-21T21:35:52+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Unpatched ChromaDB flaw leaves servers open to remote code execution",
-            "link": "https://www.csoonline.com/article/4175958/unpatched-chromadb-flaw-leaves-servers-open-to-remote-code-execution.html",
-            "summary": "",
-            "published_utc": "2026-05-21T21:29:13+00:00"
         },
         {
             "source": "Schneier",
@@ -2753,20 +2781,6 @@
             "published_utc": "2026-03-16T11:15:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "UK: Companies House Web Glitch Exposes Corporate Details to Fraudsters",
-            "link": "https://www.infosecurity-magazine.com/news/companies-house-glitch-exposes/",
-            "summary": "An issue with the Companies House website has put the personal and corporate information of millions at risk",
-            "published_utc": "2026-03-16T10:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Interpol's 'Operation Synergia III' Nets 94 Arrests in Major Cybercrime Sweep",
-            "link": "https://www.infosecurity-magazine.com/news/interpol-operation-synergia3-94/",
-            "summary": "A new law enforcement operation against phishing and ransomware operators led to the takedown of 45,000 malicious IP addresses",
-            "published_utc": "2026-03-13T16:15:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "Face value: What it takes to fool facial recognition",
             "link": "https://www.welivesecurity.com/en/privacy/face-value-what-takes-fool-facial-recognition/",
@@ -3248,13 +3262,6 @@
             "link": "https://www.welivesecurity.com/en/malware/threats-lurking-pdf-files/",
             "summary": "Looks can be deceiving, so much so that the familiar icon could mask malware designed to steal your data and money.",
             "published_utc": "2025-10-06T09:00:00+00:00"
-        },
-        {
-            "source": "WeLiveSecurity",
-            "title": "Manufacturing under fire: Strengthening cyber-defenses amid surging threats",
-            "link": "https://www.welivesecurity.com/en/business-security/manufacturing-fire-strengthening-cyber-defenses-surging-threats/",
-            "summary": "Manufacturers operate in one of the most unforgiving threat environments and face a unique set of pressures that make attacks particularly damaging",
-            "published_utc": "2025-10-03T09:00:00+00:00"
         },
         {
             "source": "Threatpost",
