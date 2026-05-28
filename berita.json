@@ -1,6 +1,174 @@
 {
-    "lastUpdatedUTC": "2026-05-28T11:48:05.537152+00:00",
+    "lastUpdatedUTC": "2026-05-28T16:00:40.979199+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "8 Zorin OS settings I change on every new install - and why you should, too",
+            "link": "https://www.zdnet.com/article/my-favorite-zorin-os-settings-and-why-youll-love-them-too/",
+            "summary": "Like most Linux distributions, Zorin OS offers a lot, especially in terms of customization. These are the options I always choose in Zorin OS.",
+            "published_utc": "2026-05-28T15:41:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Attackers Move Past Typosquatting to Realistic Package Impersonation",
+            "link": "https://www.infosecurity-magazine.com/news/attackers-beyond-typosquatting/",
+            "summary": "Most malicious open source packages now mimic real code rather than rely on typosquatting",
+            "published_utc": "2026-05-28T15:30:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "This lab-tested robot vacuum picked up more dirt than any other model (and it's on sale)",
+            "link": "https://www.zdnet.com/article/ecovacs-deebot-x8-pro-omni-deal-memorial-day-2026/",
+            "summary": "The Ecovacs X8 Pro Omni won the ZDNET Lab Award for best pickup performance in a robot vacuum, and it's currently $51 off at Walmart.",
+            "published_utc": "2026-05-28T15:30:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The solar-powered backup station I trust after years of testing - and why it works so well",
+            "link": "https://www.zdnet.com/article/how-to-prepare-for-summer-blackouts-calculate-power-needs/",
+            "summary": "Summer blackouts are on the horizon. Here's the setup I'm relying on to get me through the season.",
+            "published_utc": "2026-05-28T15:25:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Carnival Data Breach Exposed 6 Million People",
+            "link": "https://www.securityweek.com/carnival-data-breach-exposed-6-million-people/",
+            "summary": "",
+            "published_utc": "2026-05-28T14:45:28+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "New Gogs zero-day flaw lets hackers get remote code execution",
+            "link": "https://www.bleepingcomputer.com/news/security/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution/",
+            "summary": "An unpatched zero-day vulnerability in the Gogs self-hosted Git service can allow attackers to gain remote code execution (RCE) on Internet-facing ins...",
+            "published_utc": "2026-05-28T14:25:43+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "When old data brings AI rollouts to a screeching halt - and how to manage it",
+            "link": "https://www.zdnet.com/article/proceed-cautiously-with-ai-rollouts/",
+            "summary": "With AI, long-forgotten data assets suddenly turn to gold, with potential security risks.",
+            "published_utc": "2026-05-28T14:16:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "How SIEM helps MSPs reduce noise and stop threats faster",
+            "link": "https://www.bleepingcomputer.com/news/security/how-siem-helps-msps-reduce-noise-and-stop-threats-faster/",
+            "summary": "MSPs don't lack security data. They struggle to separate real threats from alert noise. Kaseya explains how SIEM helps MSPs improve visibility, reduce...",
+            "published_utc": "2026-05-28T14:01:11+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How to watch the 2026 FIFA World Cup: 9 ways to stream (including free options)",
+            "link": "https://www.zdnet.com/article/how-to-watch-the-world-cup-2026/",
+            "summary": "One of the biggest sporting events of all time kicks off soon - and you don't need an expensive cable package to watch.",
+            "published_utc": "2026-05-28T14:00:18+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Why I ditched Copilot for Claude in Word, Excel, and PowerPoint - and how you can, too",
+            "link": "https://www.zdnet.com/article/how-i-ditched-copilot-for-claude-in-word-excel-powerpoint/",
+            "summary": "Need AI help in Microsoft 365, but don't love Copilot? Claude AI can help you create, edit, and analyze documents. Here's how.",
+            "published_utc": "2026-05-28T13:10:13+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "New BTMOB Android Malware Enables Full Device Takeover",
+            "link": "https://www.securityweek.com/new-btmob-android-malware-enables-full-device-takeover/",
+            "summary": "",
+            "published_utc": "2026-05-28T13:05:04+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Indian CERT urges firms to contain exploited internet-facing flaws within 12 hours",
+            "link": "https://www.csoonline.com/article/4178244/indian-cert-urges-firms-to-contain-exploited-internet-facing-flaws-within-12-hours.html",
+            "summary": "",
+            "published_utc": "2026-05-28T13:00:39+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Critical FortiClient EMS Vulnerability Exploited in Fresh Attacks",
+            "link": "https://www.securityweek.com/critical-forticlient-ems-vulnerability-exploited-in-fresh-attacks/",
+            "summary": "",
+            "published_utc": "2026-05-28T12:55:47+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Romanian gets 5 years in prison for hacking Oregon govt network",
+            "link": "https://www.bleepingcomputer.com/news/security/romanian-gets-5-years-in-prison-for-hacking-oregon-govt-network/",
+            "summary": "A Romanian national was sentenced this week to 56 months in federal prison for breaking into an Oregon state government computer network and fr cybera...",
+            "published_utc": "2026-05-28T12:43:29+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "IBM and Red Hat Commit $5 Billion to Secure Open Source Supply Chains Under “Project Lightwell”",
+            "link": "https://www.securityweek.com/ibm-and-red-hat-commit-5-billion-to-secure-open-source-supply-chains-under-project-lightwell/",
+            "summary": "",
+            "published_utc": "2026-05-28T12:41:45+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "NordVPN isn't just a VPN anymore, but a full security suite - here's what you get now",
+            "link": "https://www.zdnet.com/article/nordvpn-combines-vpn-antivirus-in-one-app/",
+            "summary": "NordVPN argues that antivirus now means far more than it used to, so creating an app that combines VPN services with modern threat protection is the r...",
+            "published_utc": "2026-05-28T12:39:42+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I'm an iPhone user, but Gemini with Android Auto beats Siri in the car any day - here's why",
+            "link": "https://www.zdnet.com/article/gemini-with-android-auto-beats-siri-in-car-heres-why/",
+            "summary": "Gemini can help with a variety of tasks when behind the wheel. All you need is an Android phone and a car with Android Auto.",
+            "published_utc": "2026-05-28T12:31:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "GlassWorm falls, but the repo problem is far from solved",
+            "link": "https://www.csoonline.com/article/4178215/glassworm-falls-but-the-repo-problem-is-far-from-solved.html",
+            "summary": "",
+            "published_utc": "2026-05-28T12:20:55+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Webinar: Why network incidents take too long to resolve",
+            "link": "https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-take-too-long-to-resolve/",
+            "summary": "Many organizations can detect network issues quickly, but investigations and coordination often slow incident resolution. This webinar explores how au...",
+            "published_utc": "2026-05-28T12:20:28+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I set up a router-based VPN for my TV, and it's the cheap security fix it desperately needed",
+            "link": "https://www.zdnet.com/article/how-to-add-a-vpn-to-your-smart-tv/",
+            "summary": "Installing a VPN on your smart TV blocks hackers from accessing your network and stealing your data. Here's how I set up mine.",
+            "published_utc": "2026-05-28T12:00:39+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "New Edamame Platform Aims to Catch AI Coding Agents Going Off the Rails",
+            "link": "https://www.securityweek.com/new-edamame-platform-aims-to-catch-ai-coding-agents-going-off-the-rails/",
+            "summary": "",
+            "published_utc": "2026-05-28T12:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Microsoft Condemns \"Uncoordinated\" Zero Day Disclosures",
+            "link": "https://www.infosecurity-magazine.com/news/microsoft-uncoordinated-zeroday/",
+            "summary": "Microsoft warned the disclosure of several unpatched vulnerabilities without notice has put “customers at unnecessary risk”",
+            "published_utc": "2026-05-28T12:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Oura Ring 5 vs. Oura Ring 4: I compared the smart rings for health tracking - and it's very close",
+            "link": "https://www.zdnet.com/article/oura-ring-5-vs-oura-ring-4/",
+            "summary": "Your favorite smart ring is getting slimmer. Is the Oura Ring 5 worth the upgrade? I break it down.",
+            "published_utc": "2026-05-28T12:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "4 Android Auto apps I highly recommend for your next road trip - beyond Maps and Spotify",
+            "link": "https://www.zdnet.com/article/4-android-auto-apps-for-your-next-road-trip/",
+            "summary": "Android Auto is a lot more than navigation and music. Here are the apps you need before you hit the road.",
+            "published_utc": "2026-05-28T11:55:58+00:00"
+        },
         {
             "source": "InfosecurityMag",
             "title": "New Threat Actor Jinx-0164 Targets Crypto Developers on macOS",
@@ -51,13 +219,6 @@
             "published_utc": "2026-05-28T10:01:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "My favorite Zorin OS settings and why you'll love them too",
-            "link": "https://www.zdnet.com/article/my-favorite-zorin-os-settings-and-why-youll-love-them-too/",
-            "summary": "Like most Linux distributions, Zorin OS offers a lot, especially in terms of customization. These are the options I always choose in Zorin OS.",
-            "published_utc": "2026-05-28T10:00:42+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "Scammers Are Using Your Real Hotel Reservations to Trick You With Spear-Phishing Attacks",
             "link": "https://www.wired.com/story/hundreds-of-hotels-caught-up-in-vacation-booking-scams/",
@@ -86,17 +247,17 @@
             "published_utc": "2026-05-28T09:25:59+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "This exec offers 4 ways to be a successful innovator in the age of agentic AI",
-            "link": "https://www.zdnet.com/article/how-to-be-a-successful-innovator-in-the-age-of-agentic-ai/",
-            "summary": "Staying one step ahead of the rest will mark you out for success. Here's what great AI innovators are getting up to at Amex.",
-            "published_utc": "2026-05-28T09:00:34+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "What the industrialization of exploitation means for defenders",
             "link": "https://www.csoonline.com/article/4177308/what-the-industrialization-of-exploitation-means-for-defenders.html",
             "summary": "",
+            "published_utc": "2026-05-28T09:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "This exec offers 4 ways to be a successful innovator in the age of agentic AI",
+            "link": "https://www.zdnet.com/article/how-to-be-a-successful-innovator-in-the-age-of-agentic-ai/",
+            "summary": "Staying one step ahead of the rest will mark you out for success. Here's what great AI innovators are getting up to at Amex.",
             "published_utc": "2026-05-28T09:00:00+00:00"
         },
         {
@@ -177,60 +338,11 @@
             "published_utc": "2026-05-27T18:16:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "This AI-free Google alternative is surging in popularity - how to try it for yourself",
-            "link": "https://www.zdnet.com/article/this-ai-free-search-engine-is-getting-more-popular-heres-why-you-should-try-it/",
-            "summary": "DuckDuckGo is an AI-free alternative to Google's AI-based overviews, attracting more people who prefer traditional search results.",
-            "published_utc": "2026-05-27T18:01:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How I got my business emails through spam filters with SPF, DKIM, and DMARC",
-            "link": "https://www.zdnet.com/article/work-emails-going-to-spam-security-tweaks-to-fix/",
-            "summary": "SPF, DKIM, and DMARC are three DNS-based authentication records that stop your emails from landing in spam and prevent criminals from spoofing your do...",
-            "published_utc": "2026-05-27T18:00:44+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "UK Cyberspying Chief Calls AI ‘an Unstoppable Force’ and Warns About Russia",
             "link": "https://www.securityweek.com/uk-cyberspying-chief-calls-ai-an-unstoppable-force-and-warns-about-russia/",
             "summary": "",
             "published_utc": "2026-05-27T17:32:14+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I found an easy way to automatically keep AI out of my search results - and it works in nearly every browser",
-            "link": "https://www.zdnet.com/article/easy-way-to-exclude-ai-from-search-results-in-every-browser/",
-            "summary": "You can add a custom search engine in your browser that excludes all AI results. I'll show you how to do it in every major browser.",
-            "published_utc": "2026-05-27T16:58:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "AI is an arms race, and the US wants $9 billion in Nvidia superchips to keep up",
-            "link": "https://www.zdnet.com/article/heres-why-the-government-wants-to-spend-9-billion-on-ai-superchips/",
-            "summary": "The government is playing catch-up, but Nvidia has a lifeline.",
-            "published_utc": "2026-05-27T15:39:15+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "My new favorite Windows app made my PC safer and more reliable - and it's free",
-            "link": "https://www.zdnet.com/article/how-to-use-unigetui-to-install-and-manage-windows-apps/",
-            "summary": "Downloading executable installer files from random websites is the best way to put malware on your Windows PC. Stop doing that! UniGetUI makes it easy...",
-            "published_utc": "2026-05-27T15:36:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Why the future of AI is on-premises - business advice from Dell Tech World 2026",
-            "link": "https://www.zdnet.com/article/dell-tech-world-2026-why-the-future-of-ai-is-moving-on-premises/",
-            "summary": "With rising costs, sovereignty requirements, and agent adoption, Dell's latest conference focused on how enterprises can transition AI workloads to a ...",
-            "published_utc": "2026-05-27T14:51:30+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Acer vs. Asus: I've tested dozens of laptops from both brands, and this one's better",
-            "link": "https://www.zdnet.com/article/acer-vs-asus-laptops/",
-            "summary": "Acer and Asus both have solid options, but they excel in different areas. Let's break down the major differences.",
-            "published_utc": "2026-05-27T14:48:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -254,13 +366,6 @@
             "published_utc": "2026-05-27T14:02:44+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Own a Hisense TV? I'd change these 12 settings to noticeably improve the picture quality",
-            "link": "https://www.zdnet.com/article/best-hisense-tv-settings-to-change-better-picture-quality/",
-            "summary": "You might think your Hisense TV already looks great, but you can easily get more out of it by tweaking just a few menu options.",
-            "published_utc": "2026-05-27T14:00:19+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Can you enforce strong Active Directory password rules without frustrating users?",
             "link": "https://www.bleepingcomputer.com/news/security/can-you-enforce-strong-active-directory-password-rules-without-frustrating-users/",
@@ -273,13 +378,6 @@
             "link": "https://www.infosecurity-magazine.com/news/crowdstrike-google-takedown/",
             "summary": "Operators of the malicious Glassworm botnet have been targeting software developers since at least early 2025",
             "published_utc": "2026-05-27T14:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Rust will save Linux from AI, says Greg Kroah-Hartman",
-            "link": "https://www.zdnet.com/article/rust-will-save-linux-from-ai-says-greg-kroah-hartman/",
-            "summary": "Now that doesn't mean Linux stable kernel maintainer Greg Kroah-Hartman thinks Rust is magic.",
-            "published_utc": "2026-05-27T13:34:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -296,32 +394,11 @@
             "published_utc": "2026-05-27T13:28:42+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "SecurityWeek to Host AI Risk Summit August 11-12 at the Ritz-Carlton, Half Moon Bay",
-            "link": "https://www.securityweek.com/securityweek-to-host-ai-risk-summit-august-11-12-at-the-ritz-carlton-half-moon-bay/",
-            "summary": "",
-            "published_utc": "2026-05-27T13:00:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "All Major LLMs Exposed to Multi-Turn Manipulation, Warn Researchers",
             "link": "https://www.infosecurity-magazine.com/news/all-major-llms-exposed-to-multi/",
             "summary": "",
             "published_utc": "2026-05-27T13:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "When my eye doctor got my glasses prescription wrong, AI helped me fix it",
-            "link": "https://www.zdnet.com/article/eye-doctor-ai-prescription/",
-            "summary": "An eye exam produced a good distance prescription and a terrible computer prescription. Here's how AI helped decode the numbers and expose the mismatch.",
-            "published_utc": "2026-05-27T12:44:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "RevEng.AI Raises $15 Million to Hunt for Flaws and Backdoors in Software Binaries",
-            "link": "https://www.securityweek.com/reveng-ai-raises-15-million-to-hunt-for-flaws-and-backdoors-in-software-binaries/",
-            "summary": "",
-            "published_utc": "2026-05-27T11:52:55+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -331,32 +408,11 @@
             "published_utc": "2026-05-27T11:51:12+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Romanian Hacker Sentenced to Prison in US for Selling Access to State Network",
-            "link": "https://www.securityweek.com/romanian-hacker-sentenced-to-prison-in-us-for-selling-access-to-state-network/",
-            "summary": "",
-            "published_utc": "2026-05-27T11:37:19+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Thousands of Fake FIFA Domains Target World Cup Fans",
             "link": "https://www.infosecurity-magazine.com/news/ghost-stadium-fifa-world-cup-fraud/",
             "summary": "Group-IB uncovered Ghost Stadium phishing and 4300 fake FIFA World Cup domains targeting fans",
             "published_utc": "2026-05-27T11:28:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Lastwall Raises $11.5 Million for Quantum-Resilient Identity Platform",
-            "link": "https://www.securityweek.com/lastwall-raises-11-5-million-for-quantum-resilient-identity-platform/",
-            "summary": "",
-            "published_utc": "2026-05-27T11:01:13+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "The Credential Crisis: How Stolen Credentials Defeat Modern Security",
-            "link": "https://www.securityweek.com/the-credential-crisis-how-stolen-credentials-defeat-modern-security/",
-            "summary": "",
-            "published_utc": "2026-05-27T10:30:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -464,32 +520,11 @@
             "published_utc": "2026-05-26T14:02:09+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "How Varonis Atlas integrates Claude Compliance API for AI governance",
-            "link": "https://www.bleepingcomputer.com/news/security/how-varonis-atlas-integrates-claude-compliance-api-for-ai-governance/",
-            "summary": "AI governance requires visibility into how AI tools interact with enterprise data. Varonis explains how its Atlas platform uses Claude Compliance API ...",
-            "published_utc": "2026-05-26T14:01:11+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "BTMOB Android RAT Spreads Through No-Code Builder Tooling",
             "link": "https://www.infosecurity-magazine.com/news/btmob-android-rat-maas-builder/",
             "summary": "BTMOB Android RAT sold as a service with a no-code builder for fast, regional phishing lures",
             "published_utc": "2026-05-26T14:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft Defender can now automatically isolate hacked endpoints",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-can-now-automatically-isolate-hacked-endpoints/",
-            "summary": "Microsoft is testing a new Defender for Endpoint capability that will automatically isolate compromised endpoints to thwart attackers' attempts to mov...",
-            "published_utc": "2026-05-26T12:19:43+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Webinar: Too many tools are slowing network incident response",
-            "link": "https://www.bleepingcomputer.com/news/security/webinar-too-many-tools-are-slowing-network-incident-response/",
-            "summary": "IT teams often need to jump between monitoring dashboards, infrastructure tools, ticketing systems, and communication platforms during network inciden...",
-            "published_utc": "2026-05-26T12:16:24+00:00"
         },
         {
             "source": "CSO Online",
@@ -532,13 +567,6 @@
             "link": "https://www.welivesecurity.com/en/malware/btmob-stealthy-rat-burrowing-deep-android-devices/",
             "summary": "The malware pairs remote access capabilities with ready-made campaign tools, lowering the barrier for full device compromise",
             "published_utc": "2026-05-26T08:50:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "CISA orders feds to patch actively exploited Drupal vulnerability",
-            "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-drupal-vulnerability/",
-            "summary": "CISA has given U.S. government agencies until Wednesday evening to secure their servers against an SQL injection vulnerability in the Drupal content m...",
-            "published_utc": "2026-05-26T08:46:45+00:00"
         },
         {
             "source": "CSO Online",
@@ -618,25 +646,11 @@
             "published_utc": "2026-05-23T10:30:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Google leaks details for Chromium bug that can turn browsers into bots",
-            "link": "https://www.csoonline.com/article/4176504/google-leaks-details-for-chromium-bug-that-can-turn-browsers-into-bots.html",
-            "summary": "",
-            "published_utc": "2026-05-23T00:08:01+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Friday Squid Blogging: Regulating Squid Fishing in the South Pacific",
             "link": "https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-regulating-squid-fishing-in-the-south-pacific.html",
             "summary": "",
             "published_utc": "2026-05-22T21:04:16+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "FBI warns of Kali Oauth stealers",
-            "link": "https://www.csoonline.com/article/4176464/fbi-warns-of-kali-oauth-stealers.html",
-            "summary": "",
-            "published_utc": "2026-05-22T17:51:17+00:00"
         },
         {
             "source": "KrebsOnSecurity",
@@ -2772,20 +2786,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ai-issues-half-incident-response/",
             "summary": "Gartner has urged security teams to get involved in AI projects from the start to avoid costly incident response",
             "published_utc": "2026-03-18T09:40:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Android OS-Level Attack Bypasses Mobile Payment Security",
-            "link": "https://www.infosecurity-magazine.com/news/android-attack-bypasses-payment/",
-            "summary": "Android’s LSPosed-based attack hijacks payment apps via runtime manipulation and SIM-binding bypass",
-            "published_utc": "2026-03-17T16:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "'CursorJack’ Attack Path Exposes Code Execution Risk in AI Development Environment",
-            "link": "https://www.infosecurity-magazine.com/news/cursor-jack-attack-path-ai/",
-            "summary": "CursorJack shows how malicious MCP deeplinks in Cursor IDE can trigger user-approved code execution",
-            "published_utc": "2026-03-17T15:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
