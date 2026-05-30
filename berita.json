@@ -1,6 +1,13 @@
 {
-    "lastUpdatedUTC": "2026-05-30T17:06:51.650714+00:00",
+    "lastUpdatedUTC": "2026-05-30T19:18:17.803717+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/",
+            "summary": "Palo Alto Networks is warning that hackers are now exploiting a PAN-OS GlobalProtect authentication bypass flaw, tracked as CVE-2026-0257, in attacks ...",
+            "published_utc": "2026-05-30T18:02:51+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Russian Spies Are Aggressively Seeking Western Technology as Sanctions Bite, Officials Say",
@@ -455,13 +462,6 @@
             "link": "https://www.infosecurity-magazine.com/news/attackers-beyond-typosquatting/",
             "summary": "Most malicious open source packages now mimic real code rather than rely on typosquatting",
             "published_utc": "2026-05-28T15:30:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "New Gogs zero-day flaw lets hackers get remote code execution",
-            "link": "https://www.bleepingcomputer.com/news/security/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution/",
-            "summary": "An unpatched zero-day vulnerability in the Gogs self-hosted Git service can allow attackers to gain remote code execution (RCE) on Internet-facing ins...",
-            "published_utc": "2026-05-28T14:25:43+00:00"
         },
         {
             "source": "CSO Online",
