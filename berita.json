@@ -1,6 +1,132 @@
 {
-    "lastUpdatedUTC": "2026-06-01T06:03:37.117354+00:00",
+    "lastUpdatedUTC": "2026-06-01T12:37:43.463595+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Critical Windows Netlogon RCE flaw now exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/critical-windows-netlogon-remote-code-execution-flaw-now-exploited-in-attacks/",
+            "summary": "The Centre for Cybersecurity Belgium (CCB), the country's national authority for cybersecurity, warned on Friday that threat actors are now exploiting...",
+            "published_utc": "2026-06-01T12:30:27+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Webinar tomorrow: From alert to resolution in network incident response",
+            "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-from-alert-to-resolution-in-network-incident-response/",
+            "summary": "Network incidents are often detected quickly, but investigations and coordination can delay resolution. Join our webinar tomorrow to learn how automat...",
+            "published_utc": "2026-06-01T12:01:09+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Flowise’s MCP implementation can run ghost commands",
+            "link": "https://www.csoonline.com/article/4179309/flowises-mcp-implementation-can-run-ghost-commands.html",
+            "summary": "",
+            "published_utc": "2026-06-01T12:01:03+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "As the Pentagon Pushes for Battlefield AI, Some Military Leaders Urge Caution",
+            "link": "https://www.securityweek.com/as-the-pentagon-pushes-for-battlefield-ai-some-military-leaders-urge-caution/",
+            "summary": "",
+            "published_utc": "2026-06-01T11:48:59+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Infosecurity Europe: AI SOCs Will Still Need SOC Analysts, Security Vendors Say",
+            "link": "https://www.infosecurity-magazine.com/news/ai-soc-still-need-analysts/",
+            "summary": "Top cybersecurity vendors said AI won't replace entry-level – only routine ticket-taking and triage",
+            "published_utc": "2026-06-01T11:45:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft confirms outage affecting MFA, My Sign-Ins platform",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-outage-affecting-mfa-my-sign-ins-platform/",
+            "summary": "Microsoft is working to address an ongoing incident preventing customers from setting up multi-factor authentication (MFA) or accessing the My Sign-In...",
+            "published_utc": "2026-06-01T11:40:16+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "19-Year-Old Linux Kernel Vulnerability Exposes Systems to Root Access",
+            "link": "https://www.securityweek.com/19-year-old-linux-kernel-vulnerability-exposes-systems-to-root-access/",
+            "summary": "",
+            "published_utc": "2026-06-01T11:19:31+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "FSB Group Gamaredon Hides Worm in Windows Data Streams",
+            "link": "https://www.infosecurity-magazine.com/news/gamaredon-worm-ntfs-data-streams/",
+            "summary": "FSB-linked Gamaredon concealed a fileless worm in NTFS data streams to spy on Ukraine targets",
+            "published_utc": "2026-06-01T11:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft fixes KB5089549 Windows security update install issues",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-kb5089549-windows-security-update-install-issues/",
+            "summary": "Microsoft has resolved a known issue causing installation failures and 0x800f0922 errors when deploying the May 2026 Windows 11 security update (KB508...",
+            "published_utc": "2026-06-01T10:59:43+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "The Romance Scammer Who Made a Small Fortune Posing as a WWE Superstar",
+            "link": "https://www.wired.com/story/wired-book-club-excerpt-the-yahoo-boys-carlos-barragan/",
+            "summary": "In this excerpt from WIRED Book Club pick The Yahoo Boys, journalist Carlos Barragán traces one scammer’s journey from flop to fortune.",
+            "published_utc": "2026-06-01T10:30:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Recent Palo Alto Networks Vulnerability Exploited for Weeks",
+            "link": "https://www.securityweek.com/recent-palo-alto-networks-vulnerability-exploited-for-weeks/",
+            "summary": "",
+            "published_utc": "2026-06-01T10:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Attackers Abuse Shared Content for ChatGPT Phishing Campaign",
+            "link": "https://www.infosecurity-magazine.com/news/attackers-shared-content-chatgpt/",
+            "summary": "Push Security says threat actors are delivering malware hosted on chatgpt.com/s/ domain",
+            "published_utc": "2026-06-01T09:30:00+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "Websites Can Now Spy on You Through Your Hard Drive",
+            "link": "https://www.wired.com/story/websites-can-now-spy-on-you-through-your-hard-drive/",
+            "summary": "Thanks to the newly detailed FROST technique, telltale SSD activity can be measured in the browser using simple JavaScript.",
+            "published_utc": "2026-06-01T09:30:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Wireless vs. wired security cameras: After years of testing, the best choice for my home is clear",
+            "link": "https://www.zdnet.com/article/why-i-use-wireless-security-cameras-at-home-versus-wired/",
+            "summary": "After using multiple security cameras over the years, I've found the best arrangement for my home - but that doesn't make it right for everyone.",
+            "published_utc": "2026-06-01T09:00:48+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Palo Alto Warns High-Severity Bug Is Being Actively Exploited",
+            "link": "https://www.infosecurity-magazine.com/news/palo-alto-highseverity-bug/",
+            "summary": "A vulnerability in Palo Alto Networks’ PAN-OS software is being exploited in attacks",
+            "published_utc": "2026-06-01T08:30:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I've been leaving FaceTime voicemails, and the hidden iOS feature surprised my own family",
+            "link": "https://www.zdnet.com/article/facetime-voicemail-feature-incredibly-useful-surprised-family/",
+            "summary": "If someone missed your FaceTime call, try leaving them a video message. Here's how to do it.",
+            "published_utc": "2026-06-01T08:00:46+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Infosecurity Europe: OWASP Forms New Agentic Research Council",
+            "link": "https://www.infosecurity-magazine.com/news/owasp-new-agentic-research-council/",
+            "summary": "OWASP’s new Agentic Research Council will aim to connect academic work to operational realities on agentic AI security",
+            "published_utc": "2026-06-01T08:00:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "6 critical security gaps every CISO must address",
+            "link": "https://www.csoonline.com/article/4178412/6-critical-security-gaps-every-ciso-must-address.html",
+            "summary": "",
+            "published_utc": "2026-06-01T07:00:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Overheating from Android Auto? 8 easy fixes that effectively cooled off my phone",
@@ -91,13 +217,6 @@
             "link": "https://www.zdnet.com/article/as-quantum-computing-emerges-some-hard-deadlines-loom/",
             "summary": "Quantum is coming soon to an enterprise near you. But that shift brings significant security concerns.",
             "published_utc": "2026-05-31T10:00:49+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "This hidden FaceTime feature is incredibly useful - and surprised my own family",
-            "link": "https://www.zdnet.com/article/facetime-voicemail-feature-incredibly-useful-surprised-family/",
-            "summary": "If someone missed your FaceTime call, try leaving them a video message. Here's how.",
-            "published_utc": "2026-05-31T10:00:36+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -226,13 +345,6 @@
             "published_utc": "2026-05-29T18:08:47+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "After using this Windows laptop for work and play, I'm wondering why I still need my PC tower",
-            "link": "https://www.zdnet.com/article/msi-raider-16-max-hx-review/",
-            "summary": "The MSI Raider 16 Max HX combines powerful current-gen hardware with a revamped cooling system and a stunning 240Hz OLED screen.",
-            "published_utc": "2026-05-29T16:26:00+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "In Other News: Trump Mobile Data Breach, FIFA World Cup Phishing, CISA Responds to Supply Chain Attacks",
             "link": "https://www.securityweek.com/in-other-news-trump-mobile-data-breach-fifa-world-cup-phishing-cisa-responds-to-supply-chain-attacks/",
@@ -324,13 +436,6 @@
             "published_utc": "2026-05-29T11:02:22+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Chrome 148 Update Patches 151 Vulnerabilities",
-            "link": "https://www.securityweek.com/chrome-148-update-patches-151-vulnerabilities/",
-            "summary": "",
-            "published_utc": "2026-05-29T10:17:23+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "US charges Google security engineer with Polymarket insider trading",
             "link": "https://www.bleepingcomputer.com/news/security/us-charges-google-security-engineer-with-polymarket-insider-trading/",
@@ -413,48 +518,6 @@
             "link": "https://www.csoonline.com/article/4178446/lack-of-response-to-critical-vulnerability-in-gogs-is-a-reminder-of-the-limits-of-open-source-projects-2.html",
             "summary": "",
             "published_utc": "2026-05-29T00:31:46+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Anthropic confirms Claude Mythos-class models will roll out to the public",
-            "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-mythos-class-models-will-roll-out-to-the-public/",
-            "summary": "Anthropic has confirmed that it plans to bring Mythos-class models to the general public after delaying the rollout due to security risks to public an...",
-            "published_utc": "2026-05-29T00:21:03+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "GreyVibe hackers use ChatGPT, Gemini to power cyberattacks",
-            "link": "https://www.bleepingcomputer.com/news/security/greyvibe-hackers-use-chatgpt-gemini-to-power-cyberattacks/",
-            "summary": "A likely Russian threat cluster tracked as GreyVibe has been targeting Ukrainian entities with AI-generated lures and a rich set of custom malware too...",
-            "published_utc": "2026-05-28T22:24:49+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "BTMOB Android malware service generates custom phishing payloads",
-            "link": "https://www.bleepingcomputer.com/news/security/btmob-android-malware-service-generates-custom-phishing-payloads/",
-            "summary": "An Android remote access trojan named BTMOB is offered to cybercriminals with a builder interface for generating malware payloads tailored to phishing...",
-            "published_utc": "2026-05-28T21:10:11+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "FBI warns of fake FIFA websites running World Cup fraud schemes",
-            "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-fifa-websites-running-world-cup-fraud-schemes/",
-            "summary": "The FBI is warning of fake websites impersonating FIFA ahead of the 2026 World Cup, to steal personal and financial information, sell fake tickets and...",
-            "published_utc": "2026-05-28T19:08:10+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Russia-Linked ‘GreyVibe’ Attackers Use AI to Supercharge Cyberattacks",
-            "link": "https://www.securityweek.com/russia-linked-greyvibe-attackers-use-ai-to-supercharge-cyberattacks/",
-            "summary": "",
-            "published_utc": "2026-05-28T18:50:49+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Geordie Raises $30 Million for AI Security and Governance Platform",
-            "link": "https://www.securityweek.com/geordie-raises-30-million-for-ai-security-and-governance-platform/",
-            "summary": "",
-            "published_utc": "2026-05-28T17:07:16+00:00"
         },
         {
             "source": "WIRED Security",
@@ -562,13 +625,6 @@
             "published_utc": "2026-05-27T21:48:19+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "FastAPI-based AI tools exposed to authentication bypass by flaw in Starlette framework",
-            "link": "https://www.csoonline.com/article/4177711/fastapi-based-ai-tools-exposed-to-authentication-bypass-by-flaw-in-starlette-framework.html",
-            "summary": "",
-            "published_utc": "2026-05-27T14:46:10+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "FBI’s 2025 Internet Crime Report",
             "link": "https://www.schneier.com/blog/archives/2026/05/fbis-2025-internet-crime-report.html",
@@ -609,13 +665,6 @@
             "link": "https://www.infosecurity-magazine.com/news/uk-firms-cyber-spending-ai-risks/",
             "summary": "UK firms plan higher cyber spending as AI adoption raises security concerns",
             "published_utc": "2026-05-27T09:30:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "The NSA, ‘Mythos’ and the quiet emergence of AI cyber doctrine",
-            "link": "https://www.csoonline.com/article/4176737/the-nsa-mythos-and-the-quiet-emergence-of-ai-cyber-doctrine.html",
-            "summary": "",
-            "published_utc": "2026-05-27T09:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
@@ -1647,13 +1696,6 @@
             "published_utc": "2026-04-29T10:05:00+00:00"
         },
         {
-            "source": "WIRED Security",
-            "title": "Why Sharing a Screenshot Can Get You Jailed in the UAE",
-            "link": "https://www.wired.com/story/why-sharing-a-screenshot-can-get-you-jailed-in-the-uae/",
-            "summary": "The war in Iran has drawn attention to arrests in the United Arab Emirates over online content, but the legal framework behind that enforcement has ex...",
-            "published_utc": "2026-04-28T17:49:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Medtronic Confirms Data Breach After ShinyHunters Claims",
             "link": "https://www.infosecurity-magazine.com/news/medtronic-data-breach-shinyhunters/",
@@ -1665,13 +1707,6 @@
             "title": "Ransomware Turf War as 0APT and KryBit Groups Trade Blows",
             "link": "https://www.infosecurity-magazine.com/news/ransomware-turf-war-0apt-krybit/",
             "summary": "Ransomware groups 0APT and KryBit have doxxed each other online",
-            "published_utc": "2026-04-28T13:00:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "The Race Is on to Keep AI Agents From Running Wild With Your Credit Cards",
-            "link": "https://www.wired.com/story/the-race-is-on-to-keep-ai-agents-from-running-wild-with-your-credit-cards/",
-            "summary": "AI agents may soon be buying your stuff for you. The FIDO Alliance has teamed up with Google and Mastercard to try to ensure that shopping in the near...",
             "published_utc": "2026-04-28T13:00:00+00:00"
         },
         {
@@ -2753,46 +2788,11 @@
             "published_utc": "2026-03-19T16:00:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "Financial Brands Targeted in Global Mobile Banking Malware Surge",
-            "link": "https://www.infosecurity-magazine.com/news/financial-brands-mobile-banking/",
-            "summary": "Mobile banking malware targets over 1200 financial apps globally, shifting fraud to user devices",
-            "published_utc": "2026-03-19T14:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "FCA Updates Cyber Incident and Third-Party Reporting Rules",
-            "link": "https://www.infosecurity-magazine.com/news/fca-updates-incident-thirdparty/",
-            "summary": "The UK’s financial regulator has issued new rules to make incident and third-party reporting clearer",
-            "published_utc": "2026-03-19T10:30:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "EDR killers explained: Beyond the drivers",
             "link": "https://www.welivesecurity.com/en/eset-research/edr-killers-explained-beyond-the-drivers/",
             "summary": "ESET researchers dive deeper into the EDR killer ecosystem, disclosing how attackers abuse vulnerable drivers",
             "published_utc": "2026-03-19T09:55:08+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "AWS Warns Hackers Have Abused Cisco Firewall Zero-Day Since January",
-            "link": "https://www.infosecurity-magazine.com/news/interlock-ransomware-exploit-cisco/",
-            "summary": "Notorious ransomware group Interlock has been exploiting a Cisco zero-day bug since January, AWS says",
-            "published_utc": "2026-03-19T09:50:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "UK: Regulation Drives Cyber Spending for Critical Infrastructure Orgs",
-            "link": "https://www.infosecurity-magazine.com/news/uk-regulation-drives-cyber/",
-            "summary": "35% of security leaders working in the UK’s critical infrastructure said regulatory requirements are the primary influence on their security programs",
-            "published_utc": "2026-03-19T09:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "New Ubuntu Flaw Enables Local Attackers to Gain Root Access",
-            "link": "https://www.infosecurity-magazine.com/news/ubuntu-flaw-enables-root-access/",
-            "summary": "CVE-2026-3888 Ubuntu snap flaw lets local users escalate to root via timing-based exploit",
-            "published_utc": "2026-03-18T15:45:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
