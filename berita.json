@@ -1,6 +1,83 @@
 {
-    "lastUpdatedUTC": "2026-06-02T05:49:38.033455+00:00",
+    "lastUpdatedUTC": "2026-06-02T10:25:53.116970+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "I finally bought the Transmit MacOS app, and that 16x faster transfer speed is just the beginning",
+            "link": "https://www.zdnet.com/article/transmit-is-one-of-the-best-macos-file-transfer-tools-on-the-market/",
+            "summary": "If you spend a good amount of time transferring files to and from your MacOS machine, do yourself a favor and grab a copy of Transmit.",
+            "published_utc": "2026-06-02T10:00:33+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Infosecurity Europe: UK Firms Prioritize AI Threat Preparedness as Cyber Risks Evolve",
+            "link": "https://www.infosecurity-magazine.com/news/uk-firms-prioritize-ai-threat/",
+            "summary": "UK organizations are prioritizing AI-driven cybersecurity as 43% cite AI-powered attacks as their top risk, prompting significant investment in advanc...",
+            "published_utc": "2026-06-02T10:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Attackers Hijack Red Hat npm Scope to Steal Cloud Secrets",
+            "link": "https://www.infosecurity-magazine.com/news/red-hat-npm-scope-backdoored/",
+            "summary": "Attackers backdoored 32 packages in Red Hat's official npm scope to steal cloud and CI secrets",
+            "published_utc": "2026-06-02T10:00:00+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "The Manhattan Institute Helped Kill DEI. Now It’s Coming for Protests",
+            "link": "https://www.wired.com/story/the-manhattan-institute-helped-kill-dei-now-its-coming-for-protests/",
+            "summary": "The right-wing think tank is actively pushing “civil terrorism”—increasing penalties for minor crimes committed while people engage in constitutionall...",
+            "published_utc": "2026-06-02T10:00:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Attack targeting OpenAI Codex users exposes AI software supply chain risks",
+            "link": "https://www.csoonline.com/article/4179815/attack-targeting-openai-codex-users-exposes-ai-software-supply-chain-risks.html",
+            "summary": "",
+            "published_utc": "2026-06-02T09:54:48+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Supply Chain Attack Hits 32 Red Hat NPM Packages",
+            "link": "https://www.securityweek.com/supply-chain-attack-hits-32-red-hat-npm-packages/",
+            "summary": "",
+            "published_utc": "2026-06-02T09:51:19+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Want to be a Linux pro like me? Master these 8 skills first",
+            "link": "https://www.zdnet.com/article/things-you-need-to-master-to-become-a-linux-pro/",
+            "summary": "I've been using Linux since 1997. If you intend to climb the hierarchical ladder of Linux users, then there are things you'll need to learn along the ...",
+            "published_utc": "2026-06-02T09:00:40+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Infosecurity Europe: Business Leaders Lack Understanding of Threat Intelligence, Study Warns",
+            "link": "https://www.infosecurity-magazine.com/news/business-leaders-struggle-threat/",
+            "summary": "A new Silobreaker and SANS Institute paper examines the ‘Intelligence-Stakeholder Gap’ and what organizations must do to achieve business buy-in on th...",
+            "published_utc": "2026-06-02T08:30:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Dashlane Brute-Force Attack Leads to Limited Encrypted Vault Downloads",
+            "link": "https://www.securityweek.com/dashlane-brute-force-attack-leads-to-limited-encrypted-vault-downloads/",
+            "summary": "",
+            "published_utc": "2026-06-02T08:07:41+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Oracle’s First Monthly Patches Resolve 77 Vulnerabilities",
+            "link": "https://www.securityweek.com/oracles-first-monthly-patches-resolve-77-vulnerabilities/",
+            "summary": "",
+            "published_utc": "2026-06-02T07:20:14+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "7 tabletop exercise mistakes that sabotage incident response",
+            "link": "https://www.csoonline.com/article/4179644/7-tabletop-exercise-mistakes-that-sabotage-incident-response.html",
+            "summary": "",
+            "published_utc": "2026-06-02T07:00:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Should you switch to a Wi-Fi 7 mesh router? My home testing reveals what got better (and what didn't)",
@@ -147,13 +224,6 @@
             "link": "https://www.zdnet.com/article/facetime-video-voicemail-feature-ios-apple-iphone/",
             "summary": "If someone missed your FaceTime call, try leaving them a video message.",
             "published_utc": "2026-06-01T15:46:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Why I happily paid for the Transmit MacOS app - and it's not just the 16x faster file transfer speed",
-            "link": "https://www.zdnet.com/article/transmit-is-one-of-the-best-macos-file-transfer-tools-on-the-market/",
-            "summary": "If you spend a good amount of time transferring files to and from your MacOS machine, do yourself a favor and grab a copy of Transmit.",
-            "published_utc": "2026-06-01T15:41:11+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -332,7 +402,7 @@
         },
         {
             "source": "CSO Online",
-            "title": "Press Release: CSO30 ASEAN & Hong Kong Awards 2026 open for nominations",
+            "title": "CSO30 ASEAN & Hong Kong Awards 2026 open for nominations",
             "link": "https://www.csoonline.com/article/4179067/cso30-asean-hong-kong-awards-2026-open-for-nominations.html",
             "summary": "",
             "published_utc": "2026-06-01T02:45:57+00:00"
@@ -366,13 +436,6 @@
             "published_utc": "2026-05-31T23:00:57+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Asus vs. Acer: I've reviewed laptops from both brands for years, and here's my pick",
-            "link": "https://www.zdnet.com/article/acer-vs-asus-laptops/",
-            "summary": "Acer and Asus both have tried and tested PC options, but they excel in different areas. Let's break down the major differences.",
-            "published_utc": "2026-05-31T16:00:42+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "WP Maps Pro bug exploited to create admin accounts on WordPress sites",
             "link": "https://www.bleepingcomputer.com/news/security/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites/",
@@ -385,20 +448,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/",
             "summary": "Palo Alto Networks is warning that hackers are now exploiting a PAN-OS GlobalProtect authentication bypass flaw, tracked as CVE-2026-0257, in attacks ...",
             "published_utc": "2026-05-30T18:02:51+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Russian Spies Are Aggressively Seeking Western Technology as Sanctions Bite, Officials Say",
-            "link": "https://www.securityweek.com/russian-spies-are-aggressively-seeking-western-technology-as-sanctions-bite-officials-say/",
-            "summary": "",
-            "published_utc": "2026-05-30T16:00:49+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Exploit Code Published for Critical Flowise RCE Vulnerability",
-            "link": "https://www.securityweek.com/exploit-code-published-for-critical-flowise-rce-vulnerability/",
-            "summary": "",
-            "published_utc": "2026-05-30T15:55:59+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -448,13 +497,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/",
             "summary": "Threat actors are abusing ChatGPT's content-sharing feature to display fake OpenAI outage pages that direct users to download malware disguised as the...",
             "published_utc": "2026-05-29T18:21:36+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "In Other News: Trump Mobile Data Breach, FIFA World Cup Phishing, CISA Responds to Supply Chain Attacks",
-            "link": "https://www.securityweek.com/in-other-news-trump-mobile-data-breach-fifa-world-cup-phishing-cisa-responds-to-supply-chain-attacks/",
-            "summary": "",
-            "published_utc": "2026-05-29T16:20:49+00:00"
         },
         {
             "source": "CSO Online",
@@ -637,20 +679,6 @@
             "link": "https://www.welivesecurity.com/en/eset-research/eset-apt-activity-report-q4-2025-q1-2026/",
             "summary": "An overview of the activities of selected APT groups investigated and analyzed by ESET Research in Q4 2025 and Q1 2026",
             "published_utc": "2026-05-28T08:45:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Employees are unknowingly inviting tech support impersonators into firms, says FBI",
-            "link": "https://www.csoonline.com/article/4177864/employees-are-unknowingly-inviting-tech-support-impersonators-into-firms-says-fbi.html",
-            "summary": "",
-            "published_utc": "2026-05-28T00:39:31+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Another IT governance headache: AI-enabled sanction evasion",
-            "link": "https://www.csoonline.com/article/4177936/another-it-governance-headache-ai-enabled-sanction-evasion-3.html",
-            "summary": "",
-            "published_utc": "2026-05-27T23:24:11+00:00"
         },
         {
             "source": "Schneier",
@@ -1665,13 +1693,6 @@
             "title": "Europol Busts Albanian Scam Call Centers in Major Online Fraud Case",
             "link": "https://www.infosecurity-magazine.com/news/europol-albanian-scam-call-centers/",
             "summary": "European police arrested 10 suspects after dismantling Albanian scam call centers linked to a €50m ($58m) online investment fraud operation",
-            "published_utc": "2026-04-30T10:00:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "90,000 Screenshots of One Celebrity's Phone Were Exposed Online",
-            "link": "https://www.wired.com/story/exposed-data-illustrates-the-nightmare-scenario-for-a-stalkerware-victim/",
-            "summary": "Spyware appears to have captured everything from intimate photos to private messages from the smartphone of European celebrity. They were publicly acc...",
             "published_utc": "2026-04-30T10:00:00+00:00"
         },
         {
@@ -2758,27 +2779,6 @@
             "link": "https://www.infosecurity-magazine.com/news/trivy-supply-chain-attack-expands/",
             "summary": "New Trivy Docker images 0.69.5 and 0.69.6 compromised with TeamPCP infostealer, impacting CI/CD scans",
             "published_utc": "2026-03-23T15:05:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "CISA Orders US Government to Patch Maximum Severity Cisco Flaw",
-            "link": "https://www.infosecurity-magazine.com/news/cisa-orders-us-government-patch/",
-            "summary": "CISA added CVE-2026-20131 to its KEV catalog as it is being used in ransomware campaigns",
-            "published_utc": "2026-03-23T10:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Operation Alice Takes Down 370,000+ Dark Web Sites",
-            "link": "https://www.infosecurity-magazine.com/news/operation-alice-370000-dark-web/",
-            "summary": "German-led policing effort against fraud operation disrupts countless CSAM and cybercrime sites",
-            "published_utc": "2026-03-23T09:10:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Hackers Exploit Critical Langflow Bug in Just 20 Hours",
-            "link": "https://www.infosecurity-magazine.com/news/hackers-exploit-critical-langflow/",
-            "summary": "Sysdig details how threat actors exploited a critical CVE in Langflow in less than a day",
-            "published_utc": "2026-03-20T10:20:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
