@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2026-06-02T21:48:33.300833+00:00",
+    "lastUpdatedUTC": "2026-06-02T23:46:25.170683+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "Two-year old Oracle WebLogic Server vulnerability is being exploited",
+            "link": "https://www.csoonline.com/article/4180218/two-year-old-oracle-weblogic-server-vulnerability-is-being-exploited.html",
+            "summary": "",
+            "published_utc": "2026-06-02T23:34:40+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft's Coreutils project brings Linux commands to Windows",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsofts-coreutils-project-brings-linux-commands-to-windows/",
+            "summary": "Microsoft announced today at its Build 2026 developer conference the release of Coreutils for Windows, bringing many commonly used Linux command-line ...",
+            "published_utc": "2026-06-02T22:52:40+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "OpenAI upgrades GPT-5.5, as it plans to retire legacy ChatGPT models",
+            "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-upgrades-gpt-55-as-it-plans-to-retire-legacy-chatgpt-models/",
+            "summary": "OpenAI says it's rolling out a new update that improves the existing GPT-5.5 Instant model, and this move comes ahead of the scheduled retirement of m...",
+            "published_utc": "2026-06-02T22:44:50+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Critical Kirki flaw exploited to hijack WordPress admin accounts",
+            "link": "https://www.bleepingcomputer.com/news/security/critical-kirki-flaw-exploited-to-hijack-wordpress-admin-accounts/",
+            "summary": "Hackers are exploiting a critical privilege escalation vulnerability (CVE-2026-8206) in the Kirki plugin for WordPress to take over any user account, ...",
+            "published_utc": "2026-06-02T22:12:57+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Over 116,000 Mincraft systems infected in WeedHack malware campaign",
+            "link": "https://www.bleepingcomputer.com/news/security/over-116-000-mincraft-systems-infected-in-weedhack-malware-campaign/",
+            "summary": "A large-scale malware campaign dubbed WeedHack is targeting Minecraft players and has infected more than 116,000 systems since January. [...]",
+            "published_utc": "2026-06-02T21:54:49+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "HP Poly VoIP vulnerability sets the stage for executive voice deepfakes",
@@ -429,20 +464,6 @@
             "published_utc": "2026-06-01T16:49:39+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Microsoft investigates Office Apps, Teams file access issues",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-office-apps-teams-file-access-issues/",
-            "summary": "Microsoft says an ongoing incident is preventing users of its Teams collaboration platform and Office for the web cloud-based productivity suite from ...",
-            "published_utc": "2026-06-01T14:36:46+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Race Against Time: Why Faster Vulnerability Alerts Matter",
-            "link": "https://www.bleepingcomputer.com/news/security/race-against-time-why-faster-vulnerability-alerts-matter/",
-            "summary": "Attackers are exploiting vulnerabilities faster than many organizations can identify and patch them. SecAlerts explains why faster vulnerability alert...",
-            "published_utc": "2026-06-01T14:00:10+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Critical Flowise Flaw Gives Attackers Full Server Control",
             "link": "https://www.infosecurity-magazine.com/news/flowise-mcp-rce-poc/",
@@ -455,20 +476,6 @@
             "link": "https://www.infosecurity-magazine.com/news/infosecurity-europe-semperis/",
             "summary": "Semperis is set to bring ‘Enter the War Room: A Tabletop Experience’ to Infosecurity Europe to help cybersecurity leaders prepare to face real incidents",
             "published_utc": "2026-06-01T13:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Critical Windows Netlogon RCE flaw now exploited in attacks",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/critical-windows-netlogon-remote-code-execution-flaw-now-exploited-in-attacks/",
-            "summary": "The Centre for Cybersecurity Belgium (CCB), the country's national authority for cybersecurity, warned on Friday that threat actors are now exploiting...",
-            "published_utc": "2026-06-01T12:30:27+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Webinar tomorrow: From alert to resolution in network incident response",
-            "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-from-alert-to-resolution-in-network-incident-response/",
-            "summary": "Network incidents are often detected quickly, but investigations and coordination can delay resolution. Join our webinar tomorrow to learn how automat...",
-            "published_utc": "2026-06-01T12:01:09+00:00"
         },
         {
             "source": "CSO Online",
@@ -665,13 +672,6 @@
             "link": "https://www.csoonline.com/article/4178454/ibm-and-red-hat-want-to-become-the-security-clearinghouse-for-open-source-applications-in-the-enterprise-2.html",
             "summary": "",
             "published_utc": "2026-05-29T01:05:55+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Lack of response to critical vulnerability in Gogs is a reminder of the limits of open source projects",
-            "link": "https://www.csoonline.com/article/4178446/lack-of-response-to-critical-vulnerability-in-gogs-is-a-reminder-of-the-limits-of-open-source-projects-2.html",
-            "summary": "",
-            "published_utc": "2026-05-29T00:31:46+00:00"
         },
         {
             "source": "WIRED Security",
