@@ -1,12 +1,61 @@
 {
-    "lastUpdatedUTC": "2026-06-03T18:44:38.119755+00:00",
+    "lastUpdatedUTC": "2026-06-03T21:50:16.695709+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Chinese hackers use new Atlas RAT malware in European cyberattacks",
+            "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks/",
+            "summary": "A Chinese-speaking cybercrime group has expanded its targeting to the European space, deploying previously undocumented malware and the Atlas backdoor...",
+            "published_utc": "2026-06-03T21:45:27+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "The U.S. sanctions Nobitex crypto exchange used by ransomware",
+            "link": "https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/",
+            "summary": "The U.S. Treasury's Office of Foreign Assets Control (OFAC) has announced sanctions against Nobitex, Iran's largest cryptocurrency exchange, for facil...",
+            "published_utc": "2026-06-03T20:31:22+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "CISA warns of cyberattacks targeting fuel tank monitoring systems",
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-targeting-fuel-tank-monitoring-systems/",
+            "summary": "CISA, the FBI, the NSA, the Department of Energy, and other US government partners are warning that hackers are targeting internet-exposed automatic t...",
+            "published_utc": "2026-06-03T20:21:56+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "This 8TB SanDisk SSD just got another price cut at Best Buy - here's why I'd recommend it",
+            "link": "https://www.zdnet.com/article/sandisk-8tb-desk-drive-ssd-best-buy-deal/",
+            "summary": "The price of SSDs has been skyrocketing, but you can still save nearly 64% on the 8TB SanDisk Desk Drive external SSD from Best Buy right now - the lo...",
+            "published_utc": "2026-06-03T19:30:23+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "New 'HTTP/2 Bomb' DoS attack crashes web servers in under a minute",
+            "link": "https://www.bleepingcomputer.com/news/security/new-http-2-bomb-dos-attack-crashes-web-servers-in-under-a-minute/",
+            "summary": "A new denial-of-service (DoS) attack dubbed HTTP/2 Bomb can be launched from a single machine to take down web servers within seconds. [...]",
+            "published_utc": "2026-06-03T19:08:19+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "On a budget? These are the best deals under $25 ahead of Amazon Prime Day",
+            "link": "https://www.zdnet.com/article/best-early-amazon-prime-day-deals-under-25-2026/",
+            "summary": "Amazon Prime Day is coming soon, and we've rounded up all the best cheap deals on gadgets and devices.",
+            "published_utc": "2026-06-03T18:53:32+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "xAI Asks Court to Strip Alleged Grok Deepfake Nudes Victims of Anonymity",
+            "link": "https://www.wired.com/story/xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims-of-anonymity/",
+            "summary": "Four people suing Elon Musk's AI firm under pseudonyms due to the risks of being identified may face a difficult choice: Reveal your real names, or dr...",
+            "published_utc": "2026-06-03T18:49:32+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "AI is causing cognitive fatigue. Here's how to work with more haste and less speed",
             "link": "https://www.zdnet.com/article/ai-is-causing-cognitive-fatigue-heres-how-to-work-with-more-haste-and-less-speed/",
-            "summary": "Research suggests people are working harder and less smartly with AI, but there are ways to turn emerging tech into a valuable tool.",
-            "published_utc": "2026-06-03T18:02:48+00:00"
+            "summary": "Research suggests people are working harder and not smarter with AI, but there are ways to turn emerging tech into a valuable tool.",
+            "published_utc": "2026-06-03T18:02:00+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -268,20 +317,6 @@
             "published_utc": "2026-06-03T09:02:11+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I stopped waiting 30 days for my Android phone to delete files automatically - here's why",
-            "link": "https://www.zdnet.com/article/never-let-android-recycling-bin-sit-full-how-to-empty/",
-            "summary": "Android keeps deleted files in the Trash for a month's time, but I don't wait that long. Here's why I clear them manually.",
-            "published_utc": "2026-06-03T09:01:08+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I tested Rhino Linux's new Lomiri snapshot - and it took me back to the glory days of Unity",
-            "link": "https://www.zdnet.com/article/rhino-linux-has-finally-unveiled-an-early-release-snapshot-with-its-new-lomiri-desktop/",
-            "summary": "Rhino Linux has always been a beautiful desktop Linux distribution, and there are some major changes on the horizon that will converge mobile and desk...",
-            "published_utc": "2026-06-03T09:00:48+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Infosecurity Europe: Patch Responsibility Remains Up for Grabs as AI Unearths Decades of Flaws",
             "link": "https://www.infosecurity-magazine.com/news/patch-responsibility-ai-infosec/",
@@ -394,25 +429,11 @@
             "published_utc": "2026-06-02T18:00:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Microsoft Exchange Online outage causes email delays, failures",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-delays-failures/",
-            "summary": "Microsoft is working to address a widespread service issue affecting the mail flow pipeline for Exchange Online customers across North America and Ger...",
-            "published_utc": "2026-06-02T17:02:40+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "Two New Reports Offer Competing Explanations for Cybersecurity’s Growing Crisis",
             "link": "https://www.securityweek.com/two-new-reports-offer-competing-explanations-for-cybersecuritys-growing-crisis/",
             "summary": "",
             "published_utc": "2026-06-02T16:35:38+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Instagram users locked out after Meta AI abused to steal accounts",
-            "link": "https://www.bleepingcomputer.com/news/security/instagram-users-locked-out-after-meta-ai-abused-to-steal-accounts/",
-            "summary": "Multiple Instagram users had their accounts hijacked after attackers convinced Meta's AI-powered support tools that they were the legitimate owners. [...",
-            "published_utc": "2026-06-02T15:47:33+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -429,25 +450,11 @@
             "published_utc": "2026-06-02T15:00:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Why the browser is now the front line for AI security",
-            "link": "https://www.bleepingcomputer.com/news/security/why-the-browser-is-now-the-front-line-for-ai-security/",
-            "summary": "AI-powered attacks and shadow AI adoption are creating new security risks inside the browser. Push Security explains why browser visibility is becomin...",
-            "published_utc": "2026-06-02T14:30:40+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Infosecurity Europe: Bayer Reinvents Security Awareness Training to Counter AI Threats",
             "link": "https://www.infosecurity-magazine.com/news/bayer-reinvents-security-awareness/",
             "summary": "Bayer’s security awareness training now focuses on psychological approaches rather than technical methods for detecting social engineering",
             "published_utc": "2026-06-02T13:45:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "CISA flags two-year-old Oracle flaw as actively exploited in attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-weblogic-flaw/",
-            "summary": "CISA has ordered government agencies to secure their systems against a high-severity Oracle WebLogic Server vulnerability that was patched two years a...",
-            "published_utc": "2026-06-02T12:40:33+00:00"
         },
         {
             "source": "CSO Online",
@@ -1701,13 +1708,6 @@
             "link": "https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/",
             "summary": "Plus: The NSA tests Anthropic’s Mythos Preview to find vulnerabilities, a Finnish teen is charged over the Scattered Spider hacking spree, and more.",
             "published_utc": "2026-05-02T10:30:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "Dangerous New Linux Exploit Gives Attackers Root Access to Countless Computers",
-            "link": "https://www.wired.com/story/dangerous-new-linux-exploit-gives-attackers-root-access-to-countless-computers/",
-            "summary": "The exploit, dubbed CopyFail and tracked as CVE-2026-31431, allows hackers to take over PCs and data center servers. The Linux vulnerabilities have be...",
-            "published_utc": "2026-05-01T20:30:00+00:00"
         },
         {
             "source": "InfosecurityMag",
