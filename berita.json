@@ -1,6 +1,83 @@
 {
-    "lastUpdatedUTC": "2026-06-04T15:18:33.277276+00:00",
+    "lastUpdatedUTC": "2026-06-04T18:17:49.808503+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "I tried Google Drive's new AI cleanup tool to fix 14 years of storage clutter - here's the result",
+            "link": "https://www.zdnet.com/article/i-tried-google-drives-new-ai-cleanup-tool-storage-clutter/",
+            "summary": "With Organize My Files, can Gemini clean up my messy Google Drive and save me money on storage? Let's see.",
+            "published_utc": "2026-06-04T18:04:43+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "Meta Silently Added Face-Recognition Code for Its Smart Glasses to Millions of Phones",
+            "link": "https://www.wired.com/story/meta-smart-glasses-face-recognition-nametag-connections/",
+            "summary": "Code reviewed by WIRED uncovered an unreleased face-recognition system embedded in Meta’s smart glasses platform. It’s designed to identify people via...",
+            "published_utc": "2026-06-04T17:28:11+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Motorola Razr Fold vs. Razr Ultra: I tested both phones for a month - this one's better",
+            "link": "https://www.zdnet.com/article/2026-motorola-razr-fold-vs-razr-ultra/",
+            "summary": "The Razr Fold offers a more premium experience, while the Razr Ultra is more compact and stylish. Here's how to choose between them.",
+            "published_utc": "2026-06-04T16:50:23+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "HTTP/2’s speed abused to slow webserver performance in DoS attack",
+            "link": "https://www.csoonline.com/article/4181313/http-2s-speed-abused-to-slow-webserver-performance-in-dos-attack.html",
+            "summary": "",
+            "published_utc": "2026-06-04T16:44:47+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "UN food agency discloses breach affecting 600,000 Gaza households",
+            "link": "https://www.bleepingcomputer.com/news/security/un-world-food-programme-breach-affects-600-000-gaza-households/",
+            "summary": "The United Nations' World Food Programme (WFP), the world's largest humanitarian organization, revealed over the weekend that its self-registration ap...",
+            "published_utc": "2026-06-04T16:38:49+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Hate the right-click menu in Windows? Microsoft just promised to let you tweak it - soon",
+            "link": "https://www.zdnet.com/article/right-click-context-menu-windows-microsoft-tweak-it/",
+            "summary": "A top Microsoft VP is promising a faster, simpler, and more customizable context menu that appears when you right-click an item in File Explorer or on...",
+            "published_utc": "2026-06-04T16:38:02+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "OpenAI responds to White House executive order on AI governance",
+            "link": "https://www.csoonline.com/article/4181294/openai-responds-to-white-house-executive-order-on-ai-governance.html",
+            "summary": "",
+            "published_utc": "2026-06-04T16:34:22+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I flew 2,700 miles with 4 headphones - this pair was the best travel companion",
+            "link": "https://www.zdnet.com/article/i-flew-2700-miles-with-4-headphones-my-best-travel-companion/",
+            "summary": "Air travel is the true test for headphones and earbuds. My multiple journeys revealed all the strengths and weaknesses of these latest models.",
+            "published_utc": "2026-06-04T16:24:18+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Samsung's R95H Micro RGB impressed me more than any TV since my first OLED",
+            "link": "https://www.zdnet.com/article/samsung-r95h-data-byte/",
+            "summary": "ZDNET's first Data Bytes dives deep into Samsung's latest Micro RGB screen technology in the R95H TV. Here's what the numbers tell us.",
+            "published_utc": "2026-06-04T16:20:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Everest Forms Pro Vulnerability Allows Remote Code Execution on WordPress Sites",
+            "link": "https://www.infosecurity-magazine.com/news/everest-forms-pro-rce-actively/",
+            "summary": "Critical Everest Forms Pro RCE flaw exploited to create rogue WordPress admin accounts",
+            "published_utc": "2026-06-04T16:15:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "New IronWorm malware hits 36 packages in npm supply-chain attack",
+            "link": "https://www.bleepingcomputer.com/news/security/new-ironworm-malware-hits-36-packages-in-npm-supply-chain-attack/",
+            "summary": "A new supply-chain attack has infected 36 packages on the Node Package Manager (npm) index with infostealer malware called IronWorm. [...]",
+            "published_utc": "2026-06-04T15:25:37+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "This 65-inch Hisense TV is already on sale for Prime Day - and I recommend it",
@@ -112,13 +189,6 @@
             "link": "https://www.securityweek.com/gemini-voice-assistant-hijacked-via-messaging-notifications/",
             "summary": "",
             "published_utc": "2026-06-04T12:57:37+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I measured Samsung's Micro RGB TV color accuracy in a lab - and it's perceptually perfect",
-            "link": "https://www.zdnet.com/article/samsung-r95h-data-byte/",
-            "summary": "ZDNET's first Data Bytes dives deep into Samsung's latest Micro RGB screen technology in the R95H TV. Here's what the numbers tell us.",
-            "published_utc": "2026-06-04T12:30:40+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -289,27 +359,6 @@
             "published_utc": "2026-06-04T00:19:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I used this $170 smartwatch as my virtual training coach to help me avoid injuries",
-            "link": "https://www.zdnet.com/article/amazfit-active-3-premium-review/",
-            "summary": "The Amazfit Active 3 Premium offers everything you need to create a custom training plan, track metrics during your runs, and improve your fitness in ...",
-            "published_utc": "2026-06-03T23:05:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How to use ChatGPT: A beginner's guide to mastering OpenAI's chatbot in 2026",
-            "link": "https://www.zdnet.com/article/how-to-use-chatgpt-ai-chatbot-beginners-guide/",
-            "summary": "Want to try ChatGPT? It's free and doesn't require an account. Here's how to get started quickly.",
-            "published_utc": "2026-06-03T22:51:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Frustrated with your Bluetooth? How multipoint works - and why it sometimes won't",
-            "link": "https://www.zdnet.com/article/bluetooth-mulitpoint-explained/",
-            "summary": "Why is dual-device wireless connectivity for your headphones and earbuds so unreliable? It's the gaping chasm between actual product specs and marketi...",
-            "published_utc": "2026-06-03T22:46:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Chinese hackers use new Atlas RAT malware in European cyberattacks",
             "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks/",
@@ -329,13 +378,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-targeting-fuel-tank-monitoring-systems/",
             "summary": "CISA, the FBI, the NSA, the Department of Energy, and other US government partners are warning that hackers are targeting internet-exposed automatic t...",
             "published_utc": "2026-06-03T20:21:56+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "This 8TB SanDisk SSD just got another price cut at Best Buy - here's why I'd recommend it",
-            "link": "https://www.zdnet.com/article/sandisk-8tb-desk-drive-ssd-best-buy-deal/",
-            "summary": "The price of SSDs has been skyrocketing, but you can still save nearly 64% on the 8TB SanDisk Desk Drive external SSD from Best Buy right now - the lo...",
-            "published_utc": "2026-06-03T19:30:23+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -478,13 +520,6 @@
             "published_utc": "2026-06-03T07:30:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "VS Code zero-day lets hackers steal GitHub tokens in one click",
-            "link": "https://www.bleepingcomputer.com/news/security/vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click/",
-            "summary": "A security researcher has released exploit code for a Visual Studio Code (VS Code) zero-day vulnerability that allows attackers to steal GitHub authen...",
-            "published_utc": "2026-06-03T06:50:30+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Anthropic grants Project Glasswing access to 150 more companies, with a focus on critical infrastructure",
             "link": "https://www.csoonline.com/article/4180265/anthropic-grants-project-glasswing-access-to-150-more-companies-with-a-focus-on-critical-infrastructure.html",
@@ -497,13 +532,6 @@
             "link": "https://www.csoonline.com/article/4180218/two-year-old-oracle-weblogic-server-vulnerability-is-being-exploited.html",
             "summary": "",
             "published_utc": "2026-06-02T23:34:40+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft's Coreutils project brings Linux commands to Windows",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsofts-coreutils-project-brings-linux-commands-to-windows/",
-            "summary": "Microsoft announced today at its Build 2026 developer conference the release of Coreutils for Windows, bringing many commonly used Linux command-line ...",
-            "published_utc": "2026-06-02T22:52:40+00:00"
         },
         {
             "source": "CSO Online",
@@ -723,25 +751,11 @@
             "published_utc": "2026-06-01T07:00:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "CSO30 ASEAN & Hong Kong Awards 2026 open for nominations",
-            "link": "https://www.csoonline.com/article/4179067/cso30-asean-hong-kong-awards-2026-open-for-nominations.html",
-            "summary": "",
-            "published_utc": "2026-06-01T02:45:57+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "Cybercrime Crew Claims It Hacked Mike Lindell’s MyPillow",
             "link": "https://www.wired.com/story/security-news-this-week-cybercrime-crew-claims-it-hacked-mike-lindells-mypillow/",
             "summary": "Plus: A ransomware group is now stealing data in person, BusPatrol wants to hand its license plate surveillance data to the cops, and more.",
             "published_utc": "2026-05-30T10:30:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Russia-aligned crime group Greyvibe extensively uses AI in attacks",
-            "link": "https://www.csoonline.com/article/4178879/russia-aligned-crime-group-greyvibe-extensively-uses-ai-in-attacks.html",
-            "summary": "",
-            "published_utc": "2026-05-30T00:22:14+00:00"
         },
         {
             "source": "Schneier",
@@ -1759,13 +1773,6 @@
             "published_utc": "2026-05-04T08:00:00+00:00"
         },
         {
-            "source": "WIRED Security",
-            "title": "Disneyland Now Uses Face Recognition on Visitors",
-            "link": "https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/",
-            "summary": "Plus: The NSA tests Anthropic’s Mythos Preview to find vulnerabilities, a Finnish teen is charged over the Scattered Spider hacking spree, and more.",
-            "published_utc": "2026-05-02T10:30:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Anthropic Rolls Out Claude Security for AI Vulnerability Scanning",
             "link": "https://www.infosecurity-magazine.com/news/anthropic-claude-security-for-ai/",
@@ -2765,13 +2772,6 @@
             "link": "https://www.infosecurity-magazine.com/news/iranlinked-pay2key-ransomware/",
             "summary": "Halcyon and Beazley Security track the return of Iranian ransomware group Pay2Key",
             "published_utc": "2026-03-26T10:45:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Invoice Fraud Costs UK Construction Sector Millions, NCA Warns",
-            "link": "https://www.infosecurity-magazine.com/news/invoice-fraud-uk-construction/",
-            "summary": "The National Crime Agency has warned construction firms about surging invoice fraud",
-            "published_utc": "2026-03-26T10:07:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
