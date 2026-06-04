@@ -1,6 +1,34 @@
 {
-    "lastUpdatedUTC": "2026-06-04T04:10:13.980645+00:00",
+    "lastUpdatedUTC": "2026-06-04T08:50:06.196424+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Cisco Warns of Available PoC for Critical Unified CM Vulnerability",
+            "link": "https://www.securityweek.com/cisco-warns-of-available-poc-for-critical-unified-cm-vulnerability/",
+            "summary": "",
+            "published_utc": "2026-06-04T08:44:08+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "VS Code Vulnerability Allows One-Click GitHub Token Theft",
+            "link": "https://www.securityweek.com/vs-code-vulnerability-allows-one-click-github-token-theft/",
+            "summary": "",
+            "published_utc": "2026-06-04T08:14:52+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Infosecurity Europe: Raise Security Concerns with Procurement Now, Because Quantum Can’t Wait",
+            "link": "https://www.infosecurity-magazine.com/news/raise-security-procurement-quantum/",
+            "summary": "Forescout VP of security intelligence, Rik Ferguson, warns that Q-day is fast approaching",
+            "published_utc": "2026-06-04T07:45:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Beware the ‘son of Mythos,’ security experts warn",
+            "link": "https://www.csoonline.com/article/4180920/beware-the-son-of-mythos-security-experts-warn.html",
+            "summary": "",
+            "published_utc": "2026-06-04T07:00:00+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "Hole in GitHub’s browser-based VSCode editor could lead to stolen token",
@@ -73,7 +101,7 @@
         },
         {
             "source": "BleepingComputer",
-            "title": "The U.S. sanctions Nobitex crypto exchange used by ransomware",
+            "title": "U.S. sanctions Nobitex crypto exchange used by Iranian ransomware actors",
             "link": "https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/",
             "summary": "The U.S. Treasury's Office of Foreign Assets Control (OFAC) has announced sanctions against Nobitex, Iran's largest cryptocurrency exchange, for facil...",
             "published_utc": "2026-06-03T20:31:22+00:00"
@@ -345,6 +373,13 @@
             "published_utc": "2026-06-03T09:00:00+00:00"
         },
         {
+            "source": "WeLiveSecurity",
+            "title": "Lessons for life: Why children’s data is a long-term identity risk",
+            "link": "https://www.welivesecurity.com/en/kids-online/lessons-life-childrens-data-long-term-identity-risk/",
+            "summary": "Your child’s first data breach may happen before they’ve even opened a bank account. Here’s how to keep their digital life safe.",
+            "published_utc": "2026-06-03T08:50:00+00:00"
+        },
+        {
             "source": "InfosecurityMag",
             "title": "Infosecurity Europe: Execs Must Treat Cyber Threats as Statecraft, ISACA Expert Say",
             "link": "https://www.infosecurity-magazine.com/news/execs-cisos-must-treat-cyber/",
@@ -415,13 +450,6 @@
             "published_utc": "2026-06-02T20:58:20+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Trump Signs Executive Order That Invites Vetting of Top AI Models for National Security Risks",
-            "link": "https://www.securityweek.com/trump-signs-executive-order-that-invites-vetting-of-top-ai-models-for-national-security-risks/",
-            "summary": "",
-            "published_utc": "2026-06-02T20:10:49+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "AI-built ransomware toolkit automates EDR evasion, AD discovery",
             "link": "https://www.bleepingcomputer.com/news/security/ai-built-ransomware-toolkit-automates-edr-evasion-ad-discovery/",
@@ -441,13 +469,6 @@
             "link": "https://www.wired.com/story/android-is-fighting-phone-scams-with-a-new-feature-to-prove-whos-calling/",
             "summary": "Available for Android 12 and later, the anti-scam feature is baked into Google Dialer, which sends a silent “confirmation signal” to ensure whoever’s ...",
             "published_utc": "2026-06-02T18:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Two New Reports Offer Competing Explanations for Cybersecurity’s Growing Crisis",
-            "link": "https://www.securityweek.com/two-new-reports-offer-competing-explanations-for-cybersecuritys-growing-crisis/",
-            "summary": "",
-            "published_utc": "2026-06-02T16:35:38+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -686,13 +707,6 @@
             "link": "https://www.wired.com/story/white-house-aliens-gov-us-citizens-arrested/",
             "summary": "The website, which compares human beings to extraterrestrials, touts arrest numbers from the Trump administration’s sweeping immigration crackdown. Bu...",
             "published_utc": "2026-05-29T20:53:09+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "DNS-AID will make AI agents easier to discover, says Linux Foundation",
-            "link": "https://www.csoonline.com/article/4178821/dns-aid-will-make-ai-agents-easier-to-discover-says-linux-foundation-2.html",
-            "summary": "",
-            "published_utc": "2026-05-29T16:10:29+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2767,13 +2781,6 @@
             "published_utc": "2026-03-25T09:35:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "RSA Conference: UK NCSC Head Urges Industry to Develop Vibe Coding Safeguards",
-            "link": "https://www.infosecurity-magazine.com/news/rsac-uk-ncsc-urges-vibe-coding/",
-            "summary": "The head of the UK’s NCSC is calling the cybersecurity industry to “seize the disruptive vibe coding opportunity” to make software more secure",
-            "published_utc": "2026-03-24T21:00:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "Cloud workload security: Mind the gaps",
             "link": "https://www.welivesecurity.com/en/business-security/cloud-workload-security-mind-gaps/",
@@ -3241,13 +3248,6 @@
             "link": "https://www.welivesecurity.com/en/social-media/ai-aided-malvertising-chatbot-scams/",
             "summary": "Cybercriminals have tricked X’s AI chatbot into promoting phishing scams in a technique that has been nicknamed “Grokking”. Here’s what to know about it.",
             "published_utc": "2025-10-13T09:00:00+00:00"
-        },
-        {
-            "source": "WeLiveSecurity",
-            "title": "How Uber seems to know where you are – even with restricted location permissions",
-            "link": "https://www.welivesecurity.com/en/privacy/how-uber-seems-know-where-you-are-restricted-location-permissions/",
-            "summary": "Is the ride-hailing app secretly tracking you? Not really, but this iOS feature may make it feel that way.",
-            "published_utc": "2025-10-09T09:00:00+00:00"
         },
         {
             "source": "Threatpost",
