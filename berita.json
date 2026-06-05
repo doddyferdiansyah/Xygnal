@@ -1,6 +1,62 @@
 {
-    "lastUpdatedUTC": "2026-06-05T05:18:31.358047+00:00",
+    "lastUpdatedUTC": "2026-06-05T09:53:10.120046+00:00",
     "articles": [
+        {
+            "source": "InfosecurityMag",
+            "title": "Infosecurity Europe: AI Coding Tools Need Built-In Security for Agentic Development Era",
+            "link": "https://www.infosecurity-magazine.com/news/ai-coding-tools-security-agentic/",
+            "summary": "Ox Security field CTO, Boaz Barzel, makes the case for vibe security to tackle AI agent coding risks",
+            "published_utc": "2026-06-05T09:00:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Claude Code has an MCP security problem — and your developers are already using it",
+            "link": "https://www.csoonline.com/article/4181230/claude-code-has-an-mcp-security-problem-and-your-developers-are-already-using-it.html",
+            "summary": "",
+            "published_utc": "2026-06-05T09:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Five Eyes: Chinese Spies Target Government, Military Staff With Fake Job Opportunities",
+            "link": "https://www.securityweek.com/five-eyes-chinese-spies-target-government-military-staff-with-fake-job-opportunities/",
+            "summary": "",
+            "published_utc": "2026-06-05T08:46:44+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Infosecurity Europe: Reactive Security Is Failing Healthcare Organizations, Experts Warn",
+            "link": "https://www.infosecurity-magazine.com/news/reactive-security-failing/",
+            "summary": "A perfect storm of legacy devices, hyper connectivity and human fatigue is bad news for the healthcare sector, warns Cyber Salus",
+            "published_utc": "2026-06-05T08:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Nightclub Giant RCI Says Data Breach Affects 40,000 Individuals",
+            "link": "https://www.securityweek.com/nightclub-giant-rci-says-data-breach-affects-40000-individuals/",
+            "summary": "",
+            "published_utc": "2026-06-05T07:24:08+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "AI tools becoming hot commodities on ransomware marketplaces",
+            "link": "https://www.csoonline.com/article/4181514/ai-tools-becoming-hot-commodities-on-ransomware-marketplaces.html",
+            "summary": "",
+            "published_utc": "2026-06-05T07:10:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Cisco warns of unpatched SD-WAN zero-day exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/",
+            "summary": "On Thursday, Cisco warned of a high-severity, unpatched zero-day in the Cisco Catalyst SD-WAN Manager (tracked as CVE-2026-20245) actively exploited i...",
+            "published_utc": "2026-06-05T06:24:20+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "WWDC returns June 8: What we know and how to watch the Apple event",
+            "link": "https://www.zdnet.com/article/wwdc-live-blog/",
+            "summary": "We'll be on the ground covering Apple's annual developer conference live from Apple Park.",
+            "published_utc": "2026-06-05T04:00:00+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "US government report slams NIST for NVD backlog",
@@ -331,20 +387,6 @@
             "published_utc": "2026-06-04T09:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Cisco Warns of Available PoC for Critical Unified CM Vulnerability",
-            "link": "https://www.securityweek.com/cisco-warns-of-available-poc-for-critical-unified-cm-vulnerability/",
-            "summary": "",
-            "published_utc": "2026-06-04T08:44:08+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "VS Code Vulnerability Allows One-Click GitHub Token Theft",
-            "link": "https://www.securityweek.com/vs-code-vulnerability-allows-one-click-github-token-theft/",
-            "summary": "",
-            "published_utc": "2026-06-04T08:14:52+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Infosecurity Europe: Raise Security Concerns with Procurement Now, Because Quantum Can’t Wait",
             "link": "https://www.infosecurity-magazine.com/news/raise-security-procurement-quantum/",
@@ -387,13 +429,6 @@
             "published_utc": "2026-06-04T00:28:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Your MacOS Spotlight tool is seriously underrated - 6 ways I use it beyond basic searches",
-            "link": "https://www.zdnet.com/article/how-i-use-spotlight-on-mac-beyond-search/",
-            "summary": "Once you see what this MacOS tool can do, Cmd+Space will become second nature.",
-            "published_utc": "2026-06-04T00:26:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Chinese hackers use new Atlas RAT malware in European cyberattacks",
             "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks/",
@@ -427,20 +462,6 @@
             "link": "https://www.wired.com/story/xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims-of-anonymity/",
             "summary": "Four people suing Elon Musk's AI firm under pseudonyms due to the risks of being identified may face a difficult choice: Reveal your real names, or dr...",
             "published_utc": "2026-06-03T18:49:32+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Coralogix Raises $200M at $1.6B Valuation to Scale AI Observability Platform",
-            "link": "https://www.securityweek.com/coralogix-raises-200m-at-1-6b-valuation-to-scale-ai-observability-platform/",
-            "summary": "",
-            "published_utc": "2026-06-03T17:32:57+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "CISA warns of active attacks exploiting Android, Linux bugs",
-            "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-active-attacks-exploiting-android-linux-bugs/",
-            "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting vulnerabilities in the Linux kernel and Androi...",
-            "published_utc": "2026-06-03T15:36:16+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -660,13 +681,6 @@
             "published_utc": "2026-06-02T07:00:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Oracle’s first monthly patch release fixes 35 flaws, including 11 rated ‘critical’",
-            "link": "https://www.csoonline.com/article/4179473/oracles-first-monthly-patch-release-fixes-35-flaws-including-11-rated-critical.html",
-            "summary": "",
-            "published_utc": "2026-06-01T17:57:19+00:00"
-        },
-        {
             "source": "KrebsOnSecurity",
             "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
             "link": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
@@ -693,13 +707,6 @@
             "link": "https://www.infosecurity-magazine.com/news/infosecurity-europe-semperis/",
             "summary": "Semperis is set to bring ‘Enter the War Room: A Tabletop Experience’ to Infosecurity Europe to help cybersecurity leaders prepare to face real incidents",
             "published_utc": "2026-06-01T13:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Flowise’s MCP implementation can run ghost commands",
-            "link": "https://www.csoonline.com/article/4179309/flowises-mcp-implementation-can-run-ghost-commands.html",
-            "summary": "",
-            "published_utc": "2026-06-01T12:01:03+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2758,20 +2765,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ai-top-cyber-priority-defenders-pwc/",
             "summary": "PwC Annual Threat Dynamics report says AI-threats are the biggest concern of clients",
             "published_utc": "2026-03-26T13:15:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "OpenAI Expands Bug Bounty to Cover AI Abuse and 'Safety' Concerns",
-            "link": "https://www.infosecurity-magazine.com/news/openai-bug-bounty-ai-abuse-safety/",
-            "summary": "OpenAI’s Safety Bug Bounty program seeks to address AI safety vulnerabilities beyond traditional security flaws",
-            "published_utc": "2026-03-26T12:20:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Iran-Linked Pay2Key Ransomware Group Re-Emerges",
-            "link": "https://www.infosecurity-magazine.com/news/iranlinked-pay2key-ransomware/",
-            "summary": "Halcyon and Beazley Security track the return of Iranian ransomware group Pay2Key",
-            "published_utc": "2026-03-26T10:45:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
