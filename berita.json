@@ -1,6 +1,83 @@
 {
-    "lastUpdatedUTC": "2026-06-08T14:08:02.687171+00:00",
+    "lastUpdatedUTC": "2026-06-08T17:55:08.571939+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "Apple WWDC 2026: Live updates on iOS 27, Siri and Tim Cook's last event as CEO",
+            "link": "https://www.zdnet.com/article/apple-wwdc-live-blog-06-08-2026/",
+            "summary": "We're reporting live from Apple Park to cover the company's annual developer conference. Stay tuned for the latest news.",
+            "published_utc": "2026-06-08T17:50:49+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "After 30 years using Linux, I have only 4 complaints - and 2 send me back to my MacBook",
+            "link": "https://www.zdnet.com/article/after-30-years-using-linux-i-have-few-complaints/",
+            "summary": "For decades, I've recommended the open-source OS to new and experienced computer users alike. But hey, I'm not oblivious to its handful of faults.",
+            "published_utc": "2026-06-08T17:41:16+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "Meta Deletes Face-Recognition System From Its Smart Glasses App After WIRED Report",
+            "link": "https://www.wired.com/story/meta-removes-face-recognition-code-meta-ai-app-smart-glasses/",
+            "summary": "The code WIRED identified is gone from the latest version of Meta AI, the companion app for the company’s smart glasses. Meta won’t say why or whether...",
+            "published_utc": "2026-06-08T17:31:11+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "A Security Raises $37 Million for Autonomous Offensive Security Platform",
+            "link": "https://www.securityweek.com/a-security-raises-37-million-for-autonomous-offensive-security-platform/",
+            "summary": "",
+            "published_utc": "2026-06-08T17:19:38+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Critical Zcash Vulnerability Found and Fixed",
+            "link": "https://www.schneier.com/blog/archives/2026/06/critical-zcash-vulnerability-found-and-fixed.html",
+            "summary": "",
+            "published_utc": "2026-06-08T17:06:53+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Gogs patches critical zero-day enabling remote code execution",
+            "link": "https://www.bleepingcomputer.com/news/security/gogs-patches-critical-zero-day-enabling-remote-code-execution/",
+            "summary": "Gogs has patched a critical security zero-day flaw that can allow attackers to compromise Internet-facing instances and access any repositories (inclu...",
+            "published_utc": "2026-06-08T16:18:40+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Critical UniFi OS bug lets hackers gain root without authentication",
+            "link": "https://www.bleepingcomputer.com/news/security/critical-unifi-os-bug-lets-hackers-gain-root-without-authentication/",
+            "summary": "Attackers can chain three already fixed vulnerabilities in the Ubiquiti UniFi OS server to execute remote code with root privileges and without authen...",
+            "published_utc": "2026-06-08T15:51:19+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Everybody Is Vibe Coding But Nobody Told the Security Team",
+            "link": "https://www.securityweek.com/everybody-is-vibe-coding-but-nobody-told-the-security-team/",
+            "summary": "",
+            "published_utc": "2026-06-08T15:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "North Korean Hackers Use Fake Coding Tasks to Steal Crypto",
+            "link": "https://www.infosecurity-magazine.com/news/north-korean-hackers-developers/",
+            "summary": "North Korean actor UNK_DeadDrop targeted developers with fake coding tasks to steal crypto",
+            "published_utc": "2026-06-08T15:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How ChatGPT's new Lockdown mode protects you from data theft (and what else it does)",
+            "link": "https://www.zdnet.com/article/chatgpt-lockdown-mode-data-theft-prompt-injection/",
+            "summary": "The goal is to protect you against attackers who try to steal your personal data through prompt injection. But it does limit your ability to access th...",
+            "published_utc": "2026-06-08T14:36:38+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "This free Android launcher made my phone and tablet look like Windows 11 - here's how",
+            "link": "https://www.zdnet.com/article/hyperdroid-android-launcher-made-phone-tablet-look-like-windows-11/",
+            "summary": "I don't like the Windows UI, but I made my Pixel 9 Pro and Nubia Pad Pro look like it anyway with HyperDroid. Here's the result.",
+            "published_utc": "2026-06-08T14:32:19+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Reducing security operations complexity with Wazuh Cloud",
@@ -163,13 +240,6 @@
             "published_utc": "2026-06-08T07:17:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Meta Says 20,000 Instagram Accounts Hacked via AI Tool Abuse",
-            "link": "https://www.securityweek.com/meta-says-20000-instagram-accounts-hacked-via-ai-tool-abuse/",
-            "summary": "",
-            "published_utc": "2026-06-08T06:41:47+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Over 20,000 Instagram accounts stolen in Meta AI support hack",
             "link": "https://www.bleepingcomputer.com/news/security/meta-ai-support-data-breach-affects-20-000-instagram-accounts/",
@@ -220,17 +290,10 @@
         },
         {
             "source": "ZDNet Security",
-            "title": "Apple WWDC live blog: Everything we're expecting, from iOS 27 to Siri to smart glasses",
-            "link": "https://www.zdnet.com/article/apple-wwdc-live-blog-06-07-2026/",
-            "summary": "ZDNET is on the ground at Apple Park to cover the company's annual developer conference live. Stay tuned for the latest news.",
-            "published_utc": "2026-06-07T21:16:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
             "title": "I never use a new iPhone until I change these settings - why they're such a big deal",
             "link": "https://www.zdnet.com/article/new-iphone-settings-i-immediately-change-why/",
             "summary": "A new iPhone works great out of the box. It's even better once you adjust the default settings and enable a few features.",
-            "published_utc": "2026-06-07T20:24:04+00:00"
+            "published_utc": "2026-06-07T20:24:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -275,13 +338,6 @@
             "published_utc": "2026-06-07T11:35:41+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Emphere Raises $2.1 Million for AI-Powered Vulnerability Remediation",
-            "link": "https://www.securityweek.com/emphere-raises-2-1-million-for-ai-powered-vulnerability-remediation/",
-            "summary": "",
-            "published_utc": "2026-06-07T11:30:00+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "MacBook Neo vs. Dell XPS 13 (2026): I've used both budget laptops - this one wins for now",
             "link": "https://www.zdnet.com/article/dell-xps-13-2026-vs-macbook-neo/",
@@ -324,32 +380,11 @@
             "published_utc": "2026-06-06T11:00:53+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Acer Swift Air 14 vs. MacBook Neo: I compared both budget laptops - this model wins",
-            "link": "https://www.zdnet.com/article/acer-swift-air-14-vs-macbook-neo/",
-            "summary": "Acer's new $699 Swift Air 14 is a direct response to the MacBook Neo. Here's how it compares, by the specs.",
-            "published_utc": "2026-06-06T11:00:52+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I compared ChatGPT and Gemini's AI image generation - and a single prompt tweak made a big difference",
-            "link": "https://www.zdnet.com/article/beginner-ai-image-prompt-tip-chatgpt-gemini/",
-            "summary": "Having trouble getting the right image out of ChatGPT, Gemini, or another AI tool? Follow this prompt for higher-impact results.",
-            "published_utc": "2026-06-06T11:00:37+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "Crypto-Funded Chinese Peptide Labs Are Booming",
             "link": "https://www.wired.com/story/security-news-this-week-crypto-funded-chinese-peptide-labs-are-booming/",
             "summary": "Plus: Hackers use Meta’s AI bots to hack Instagram accounts, Anthropic helps NSA hackers, a decades-long GPS satellite mystery may have been solved, a...",
             "published_utc": "2026-06-06T10:30:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The quickest way to find blocked numbers on your iPhone - it's easy",
-            "link": "https://www.zdnet.com/article/how-to-find-blocked-numbers-on-iphone/",
-            "summary": "You can find, manage, and add blocked numbers from the same place on your iPhone. Here's where to look.",
-            "published_utc": "2026-06-06T10:00:43+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -399,13 +434,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/over-900-us-gas-station-tank-gauge-systems-exposed-to-attacks/",
             "summary": "Over 900 automatic tank gauge (ATG) systems across the United States, used to monitor fuel and chemical storage tanks across various critical infrastr...",
             "published_utc": "2026-06-05T14:50:15+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "What 2026 DBIR Confirms: Attacks Are Living in the Browser",
-            "link": "https://www.bleepingcomputer.com/news/security/what-2026-dbir-confirms-attacks-are-living-in-the-browser/",
-            "summary": "Phishing, shadow AI, malicious extensions, and credential theft increasingly happen inside the browser. Keep Aware explains what the 2026 Verizon DBIR...",
-            "published_utc": "2026-06-05T14:00:10+00:00"
         },
         {
             "source": "Schneier",
@@ -462,13 +490,6 @@
             "link": "https://www.csoonline.com/article/4181514/ai-tools-becoming-hot-commodities-on-ransomware-marketplaces.html",
             "summary": "",
             "published_utc": "2026-06-05T07:10:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Cisco warns of unpatched SD-WAN zero-day exploited in attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/",
-            "summary": "On Thursday, Cisco warned of a high-severity, unpatched zero-day in the Cisco Catalyst SD-WAN Manager (tracked as CVE-2026-20245) actively exploited i...",
-            "published_utc": "2026-06-05T06:24:20+00:00"
         },
         {
             "source": "CSO Online",
@@ -952,13 +973,6 @@
             "link": "https://www.welivesecurity.com/en/eset-research/eset-apt-activity-report-q4-2025-q1-2026/",
             "summary": "An overview of the activities of selected APT groups investigated and analyzed by ESET Research in Q4 2025 and Q1 2026",
             "published_utc": "2026-05-28T08:45:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "FBI’s 2025 Internet Crime Report",
-            "link": "https://www.schneier.com/blog/archives/2026/05/fbis-2025-internet-crime-report.html",
-            "summary": "",
-            "published_utc": "2026-05-27T14:02:44+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1729,13 +1743,6 @@
             "link": "https://www.welivesecurity.com/en/cybersecurity/fixing-password-problem-as-easy-as-123456/",
             "summary": "How come it’s still possible to ‘secure’ an online account with a six-digit string?",
             "published_utc": "2026-05-07T07:00:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "A Kid With a Fake Mustache Tricked an Online Age-Verification Tool",
-            "link": "https://www.wired.com/story/a-kid-with-a-fake-mustache-tricked-an-online-age-verification-tool/",
-            "summary": "To stop children from bypassing its age checks, Meta is revamping its age-verification tools with an AI system that analyzes images and videos for “vi...",
-            "published_utc": "2026-05-06T21:24:18+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2744,13 +2751,6 @@
             "link": "https://www.infosecurity-magazine.com/news/european-commission-cloud-data/",
             "summary": "The European Commission has revealed details of a data breach impacting its AWS infrastructure",
             "published_utc": "2026-03-30T08:15:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "New Wave of AiTM Phishing Targets TikTok for Business",
-            "link": "https://www.infosecurity-magazine.com/news/phishing-targets-tiktok-for/",
-            "summary": "Push Security has uncovered a new AiTM phishing campaign targeting TikTok for Business accounts using Google  and TikTok themed login pages",
-            "published_utc": "2026-03-27T16:01:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
