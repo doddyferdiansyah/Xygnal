@@ -1,6 +1,76 @@
 {
-    "lastUpdatedUTC": "2026-06-09T05:07:28.199821+00:00",
+    "lastUpdatedUTC": "2026-06-09T09:46:33.186518+00:00",
     "articles": [
+        {
+            "source": "InfosecurityMag",
+            "title": "Check Point Warns Critical Auth Bypass Bug Exploited in the Wild",
+            "link": "https://www.infosecurity-magazine.com/news/check-point-critical-auth-bypass/",
+            "summary": "Check Point says a critical vulnerability in its Remote Access VPN and Mobile Access solutions has been exploited by Qilin",
+            "published_utc": "2026-06-09T09:30:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The best business budgeting tools of 2026: Expert tested",
+            "link": "https://www.zdnet.com/article/best-business-budgeting-tools/",
+            "summary": "Need to control company spend? I tested the best budgeting tools for businesses of all sizes.",
+            "published_utc": "2026-06-09T09:01:03+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I've watched lithium-ion batteries catch fire on purpose: Here's what to do if it happens to you",
+            "link": "https://www.zdnet.com/article/lithium-ion-battery-fires-what-to-do/",
+            "summary": "While rechargeable batteries are generally very safe, fires at home, workplaces, and even on commercial aircraft are now on the rise. Here's why and w...",
+            "published_utc": "2026-06-09T09:00:44+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Infosecurity Europe: Why JLR’s CISO Enforced In-Person Password Resets Following Cyber-Attack",
+            "link": "https://www.infosecurity-magazine.com/news/jlr-cyberattack-ciso-inperson/",
+            "summary": "Speaking at Infosecurity Europe, Ashish Shrestha, former CISO at Jaguar Land Rover revealed why he wanted over 30,000 employees to change their passwo...",
+            "published_utc": "2026-06-09T09:00:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "AI worm prototype shows attackers don’t need Mythos to take over your network",
+            "link": "https://www.csoonline.com/article/4181924/ai-worm-prototype-shows-attackers-dont-need-mythos-to-take-over-your-network.html",
+            "summary": "",
+            "published_utc": "2026-06-09T09:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "CISA gives feds 3 days to patch Check Point VPN bug exploited as zero-day",
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-check-point-flaw-exploited-by-ransomware-gangs/",
+            "summary": "CISA has ordered U.S. government agencies to secure their Check Point Remote Access VPN and Mobile Access deployments against a critical vulnerability...",
+            "published_utc": "2026-06-09T08:18:39+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "WhatsApp Discovers NSO Group-Linked Spearphishing Attempts",
+            "link": "https://www.infosecurity-magazine.com/news/whatsapp-nso-group-spearphishing/",
+            "summary": "Meta’s WhatsApp demands contempt ruling after users report NSO Group-linked phishing",
+            "published_utc": "2026-06-09T08:15:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Google patches new Chrome zero-day flaw exploited in the wild",
+            "link": "https://www.bleepingcomputer.com/news/security/google-patches-fifth-chrome-zero-day-bug-exploited-in-attacks-this-year/",
+            "summary": "Google has released emergency updates to patch another Chrome zero-day vulnerability that has been exploited in the wild, the fifth such flaw patched ...",
+            "published_utc": "2026-06-09T06:56:27+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Google Patches 5th Chrome Zero-Day Exploited in 2026",
+            "link": "https://www.securityweek.com/google-patches-5th-chrome-zero-day-exploited-in-2026/",
+            "summary": "",
+            "published_utc": "2026-06-09T05:57:40+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Meet Hades: The malware that lies to AI security agents",
+            "link": "https://www.csoonline.com/article/4182707/meet-hades-the-malware-that-lies-to-ai-security-agents-2.html",
+            "summary": "",
+            "published_utc": "2026-06-09T05:10:14+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "I used ChatGPT to build a free PDF editor because I didn't trust it to change my files - it's glorious",
@@ -154,20 +224,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-attack-trojanizes-19-science-focused-pypi-packages/",
             "summary": "Hackers compromised 19 packages on the PyPI, collectively downloaded hundreds of thousands of times, in a new Shai-Hulud supply-chain attack that deli...",
             "published_utc": "2026-06-08T20:41:35+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "iOS 27's Shortcuts upgrade makes automations easy to build - and will save me so much time",
-            "link": "https://www.zdnet.com/article/ios-27-shortcuts-upgrade-makes-automations-easy/",
-            "summary": "Apple announced several updates to iOS 27 at WWDC, including an AI feature that will greatly improve the Shortcuts app experience.",
-            "published_utc": "2026-06-08T20:32:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Every iPhone model that supports the iOS 27 update (and which older ones don't)",
-            "link": "https://www.zdnet.com/article/which-iphone-model-supports-ios-27-update/",
-            "summary": "Here's a breakdown of which iPhone models will support the next iOS update - and which ones Apple is leaving behind.",
-            "published_utc": "2026-06-08T19:41:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -359,13 +415,6 @@
             "published_utc": "2026-06-08T08:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "SolarWinds Serv-U Vulnerability Exploited in the Wild",
-            "link": "https://www.securityweek.com/solarwinds-patches-exploited-serv-u-vulnerability/",
-            "summary": "",
-            "published_utc": "2026-06-08T07:52:28+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Ukraine’s foreign minister offer recipe for improved resilience",
             "link": "https://www.csoonline.com/article/4181523/ukraines-foreign-minister-offer-recipe-for-improved-resilience.html",
@@ -399,20 +448,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/c0xmo-botnet-spreads-via-dd-wrt-router-flaw-kills-rival-malware/",
             "summary": "A new variant of the Gafgyt botnet called C0XMO is targeting DD-WRT router firmware and can move to other device types with various CPU architectures....",
             "published_utc": "2026-06-07T14:17:46+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Silent Ransom Group targets law firms with fake IT support calls",
-            "link": "https://www.bleepingcomputer.com/news/security/silent-ransom-group-targets-law-firms-with-fake-it-support-calls/",
-            "summary": "The Silent Ransom Group extortion gang is actively targeting U.S. law firms and professional services organizations in social engineering attacks that...",
-            "published_utc": "2026-06-07T14:09:19+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Critical Everest Forms Pro flaw exploited to take over WordPress sites",
-            "link": "https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/",
-            "summary": "Hackers are actively exploiting a critical vulnerability (CVE-2026-3300) in the Everest Forms Pro plugin, which lets them take complete control of a W...",
-            "published_utc": "2026-06-06T14:09:26+00:00"
         },
         {
             "source": "WIRED Security",
@@ -618,13 +653,6 @@
             "published_utc": "2026-06-03T13:30:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Microsoft wants to put AI agents on a short leash",
-            "link": "https://www.csoonline.com/article/4180467/microsoft-wants-to-put-ai-agents-on-a-short-leash.html",
-            "summary": "",
-            "published_utc": "2026-06-03T11:31:14+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "AI Used to Decrypt Medieval Ciphers",
             "link": "https://www.schneier.com/blog/archives/2026/06/ai-used-to-decrypt-medieval-ciphers.html",
@@ -644,13 +672,6 @@
             "link": "https://www.infosecurity-magazine.com/news/infosecurity-europe-board-cyber/",
             "summary": "Cybersecurity leaders major companies discuss how they got support from the board on cyber risk",
             "published_utc": "2026-06-03T10:10:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "AI may finally unlock the cyber budgets CISOs have wanted for years",
-            "link": "https://www.csoonline.com/article/4180316/ai-may-finally-unlock-the-cyber-budgets-cisos-have-wanted-for-years.html",
-            "summary": "",
-            "published_utc": "2026-06-03T10:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2716,27 +2737,6 @@
             "link": "https://www.infosecurity-magazine.com/news/deepload-malware-clickfix-ai-code/",
             "summary": "Researchers at ReliaQuest warn of persistent malware campaign targeting enterprise credentials",
             "published_utc": "2026-03-30T12:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Critical Citrix NetScaler Vulnerability Exploited in the Wild",
-            "link": "https://www.infosecurity-magazine.com/news/critical-citrix-netscaler/",
-            "summary": "Researchers from watchTowr and Defused have found evidence that attackers are actively exploiting CVE-2026-3055, a critical NetScaler vulnerability",
-            "published_utc": "2026-03-30T10:45:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "ICO Fines UK Nuisance Call Scammers £100,000",
-            "link": "https://www.infosecurity-magazine.com/news/ico-fines-uk-nuisance-call/",
-            "summary": "The UK Information Commissioner’s Office has handed a £100,000 fine to Birmingham-based TMAC",
-            "published_utc": "2026-03-30T09:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "European Commission Confirms Cloud Data Breach",
-            "link": "https://www.infosecurity-magazine.com/news/european-commission-cloud-data/",
-            "summary": "The European Commission has revealed details of a data breach impacting its AWS infrastructure",
-            "published_utc": "2026-03-30T08:15:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
