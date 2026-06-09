@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-06-09T20:58:48.430410+00:00",
+    "lastUpdatedUTC": "2026-06-09T22:42:33.370646+00:00",
     "articles": [
+        {
+            "source": "KrebsOnSecurity",
+            "title": "A Record-Breaking Patch Tuesday for June 2026",
+            "link": "https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/",
+            "summary": "Microsoft today released software updates to plug nearly 200 security holes across its Windows operating systems and supported software, a record numb...",
+            "published_utc": "2026-06-09T22:07:28+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "ServiceNow discloses security incident exposing customer data",
+            "link": "https://www.bleepingcomputer.com/news/security/servicenow-discloses-security-incident-exposing-customer-data/",
+            "summary": "ServiceNow is warning about a security incident after attackers exploited an unauthenticated access flaw through a vulnerable API endpoint, allowing t...",
+            "published_utc": "2026-06-09T21:34:09+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "OpenClaw AI agent found falling for phishing attacks, spills user data",
+            "link": "https://www.bleepingcomputer.com/news/security/openclaw-ai-agent-found-falling-for-phishing-attacks-spills-user-data/",
+            "summary": "Phishing simulation on an OpenClaw email agent with various configuration profiles showed that it was susceptible to tactics commonly used to compromi...",
+            "published_utc": "2026-06-09T21:20:20+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "Anthropic releases Mythos-class Fable 5 model with safeguards for cyber risks",
@@ -413,20 +434,6 @@
             "link": "https://www.bleepingcomputer.com/news/apple/new-apple-feature-automatically-changes-your-compromised-passwords/",
             "summary": "At WWDC 26, Apple announced an Apple Intelligence-powered feature that can automatically fix weak and compromised passwords. This works in Safari, and...",
             "published_utc": "2026-06-08T21:03:40+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "New Shai-Hulud attack trojanizes 19 science-focused PyPI packages",
-            "link": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-attack-trojanizes-19-science-focused-pypi-packages/",
-            "summary": "Hackers compromised 19 packages on the PyPI, collectively downloaded hundreds of thousands of times, in a new Shai-Hulud supply-chain attack that deli...",
-            "published_utc": "2026-06-08T20:41:35+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "WhatsApp says it disrupted new NSO spyware phishing attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/whatsapp-says-it-disrupted-new-nso-spyware-phishing-attacks/",
-            "summary": "WhatsApp has detected and stopped spear-phishing campaigns allegedly conducted by the NSO Group after investigating user reports of social engineering...",
-            "published_utc": "2026-06-08T18:40:53+00:00"
         },
         {
             "source": "WIRED Security",
