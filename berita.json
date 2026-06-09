@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2026-06-09T18:09:08.500155+00:00",
+    "lastUpdatedUTC": "2026-06-09T20:58:48.430410+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "Anthropic releases Mythos-class Fable 5 model with safeguards for cyber risks",
+            "link": "https://www.csoonline.com/article/4183094/anthropic-releases-mythos-class-fable-5-model-with-safeguards-for-cyber-risks.html",
+            "summary": "",
+            "published_utc": "2026-06-09T19:40:01+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "SAP fixes critical flaws in NetWeaver and Commerce Cloud",
+            "link": "https://www.bleepingcomputer.com/news/security/sap-fixes-critical-flaws-in-netweaver-and-commerce-cloud/",
+            "summary": "SAP has released fixes for 15 vulnerabilities as part of its June 2026 Security Patch package, including four critical-severity flaws affecting SAP Ne...",
+            "published_utc": "2026-06-09T19:36:27+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Microsoft Patches 200 Vulnerabilities",
+            "link": "https://www.securityweek.com/microsoft-patches-200-vulnerabilities/",
+            "summary": "",
+            "published_utc": "2026-06-09T19:04:08+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft releases Windows 10 KB5094127 extended security update",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5094127-extended-security-update/",
+            "summary": "Microsoft has released the Windows 10 KB5094127 extended security update, which fixes the June 2026 Patch Tuesday vulnerabilities and adds new functio...",
+            "published_utc": "2026-06-09T18:35:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Adobe Patches 123 Vulnerabilities",
+            "link": "https://www.securityweek.com/adobe-patches-123-vulnerabilities/",
+            "summary": "",
+            "published_utc": "2026-06-09T18:20:54+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Amazon just slashed SSD prices for Prime Day - these are the 5 best deals I've found",
+            "link": "https://www.zdnet.com/article/best-early-amazon-prime-day-ssd-deals-2026/",
+            "summary": "I track SSD deals, and found huge markdowns from top brands like WD, Samsung, and more ahead of Amazon Prime Day.",
+            "published_utc": "2026-06-09T18:17:35+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Microsoft June 2026 Patch Tuesday fixes 3 zero-day, 200 flaws",
@@ -282,13 +324,6 @@
             "published_utc": "2026-06-09T10:15:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "The best streaming deals for students: Spotify, Hulu, HBO Max, and more",
-            "link": "https://www.zdnet.com/article/best-streaming-deals-for-students-2026/",
-            "summary": "Being a college student comes with lots of perks, including heavily discounted music and video streaming services.",
-            "published_utc": "2026-06-09T10:01:23+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "Check Point VPN Zero-Day Exploited in Qilin Ransomware Attacks",
             "link": "https://www.securityweek.com/check-point-vpn-zero-day-exploited-in-qilin-ransomware-attacks/",
@@ -336,13 +371,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/google-patches-fifth-chrome-zero-day-bug-exploited-in-attacks-this-year/",
             "summary": "Google has released emergency updates to patch another Chrome zero-day vulnerability that has been exploited in the wild, the fifth such flaw patched ...",
             "published_utc": "2026-06-09T06:56:27+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Google Patches 5th Chrome Zero-Day Exploited in 2026",
-            "link": "https://www.securityweek.com/google-patches-5th-chrome-zero-day-exploited-in-2026/",
-            "summary": "",
-            "published_utc": "2026-06-09T05:57:40+00:00"
         },
         {
             "source": "CSO Online",
@@ -408,32 +436,11 @@
             "published_utc": "2026-06-08T17:31:11+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "A Security Raises $37 Million for Autonomous Offensive Security Platform",
-            "link": "https://www.securityweek.com/a-security-raises-37-million-for-autonomous-offensive-security-platform/",
-            "summary": "",
-            "published_utc": "2026-06-08T17:19:38+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Critical Zcash Vulnerability Found and Fixed",
             "link": "https://www.schneier.com/blog/archives/2026/06/critical-zcash-vulnerability-found-and-fixed.html",
             "summary": "",
             "published_utc": "2026-06-08T17:06:53+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Gogs patches critical zero-day enabling remote code execution",
-            "link": "https://www.bleepingcomputer.com/news/security/gogs-patches-critical-zero-day-enabling-remote-code-execution/",
-            "summary": "Gogs has patched a critical security zero-day flaw that can allow attackers to compromise Internet-facing instances and access any repositories (inclu...",
-            "published_utc": "2026-06-08T16:18:40+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Critical UniFi OS bug lets hackers gain root without authentication",
-            "link": "https://www.bleepingcomputer.com/news/security/critical-unifi-os-bug-lets-hackers-gain-root-without-authentication/",
-            "summary": "Attackers can chain three already fixed vulnerabilities in the Ubiquiti UniFi OS server to execute remote code with root privileges and without authen...",
-            "published_utc": "2026-06-08T15:51:19+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -693,13 +700,6 @@
             "link": "https://www.infosecurity-magazine.com/news/raise-security-procurement-quantum/",
             "summary": "Forescout VP of security intelligence, Rik Ferguson, warns that Q-day is fast approaching",
             "published_utc": "2026-06-04T07:45:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Beware the ‘son of Mythos,’ security experts warn",
-            "link": "https://www.csoonline.com/article/4180920/beware-the-son-of-mythos-security-experts-warn.html",
-            "summary": "",
-            "published_utc": "2026-06-04T07:00:00+00:00"
         },
         {
             "source": "WIRED Security",
