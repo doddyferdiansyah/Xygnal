@@ -1,6 +1,146 @@
 {
-    "lastUpdatedUTC": "2026-06-09T12:38:45.897782+00:00",
+    "lastUpdatedUTC": "2026-06-09T15:56:33.364084+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "GitHub disables Microsoft repos pushing password-stealing malware",
+            "link": "https://www.bleepingcomputer.com/news/security/github-disables-microsoft-repos-pushing-password-stealing-malware/",
+            "summary": "Microsoft removed 73 repositories across its Azure, microsoft, Azure-Samples, and MicrosoftDocs organizations on GitHub, disrupting continuous integra...",
+            "published_utc": "2026-06-09T15:42:40+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "75% of Firms Deploy Vulnerable Code Amid Pressure on CISOs, Report Finds",
+            "link": "https://www.infosecurity-magazine.com/news/firms-deploy-vulnerable-code/",
+            "summary": "Checkmarx report warns that business pressure is among the reason security leaders let security compliance slip",
+            "published_utc": "2026-06-09T15:30:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "This silent Android feature scans your photos for 'sensitive content' - how to uninstall it",
+            "link": "https://www.zdnet.com/article/android-safetycore-scans-phone-photos-for-sensitive-content-how-to-uninstall/",
+            "summary": "Google didn't say much about Android System SafetyCore before it suddenly appeared on phones. Fortunately, you can disable it.",
+            "published_utc": "2026-06-09T15:24:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I tested iOS 27's new AI photo editing tools as a skeptic - and the results surprised me",
+            "link": "https://www.zdnet.com/article/ai-photo-editing-apple-ios-27/",
+            "summary": "The new developer beta of iOS 27 offers three AI-powered skills to tweak and enhance your photos. Are they worth using?",
+            "published_utc": "2026-06-09T15:19:25+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "RakuOS fixes the one thing that annoys me most about immutable Linux distros",
+            "link": "https://www.zdnet.com/article/rakuos-fixes-my-biggest-problem-with-immutable-linux-distros/",
+            "summary": "Immutable Linux is the future of OS security, but the current distributions do have one particular limitation that RakuOS has overcome.",
+            "published_utc": "2026-06-09T15:11:54+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "GPS As a Key Distribution Platform",
+            "link": "https://www.schneier.com/blog/archives/2026/06/gps-as-a-key-distribution-platform.html",
+            "summary": "",
+            "published_utc": "2026-06-09T15:06:49+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Claude Mythos Turns N-Days Into N-Hours With Rapid Exploit Creation",
+            "link": "https://www.securityweek.com/claude-mythos-turns-n-days-into-n-hours-with-rapid-exploit-creation/",
+            "summary": "",
+            "published_utc": "2026-06-09T15:03:13+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "AI Coding Adoption Hits 97% but Governance Lags Behind",
+            "link": "https://www.infosecurity-magazine.com/news/ai-coding-adoption-governance-lags/",
+            "summary": "Most dev teams use AI coding assistants but only 30% have full governance in place",
+            "published_utc": "2026-06-09T15:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "What you give up when you put on a smartwatch or ring",
+            "link": "https://www.zdnet.com/article/what-you-give-up-when-you-put-on-a-smartwatch-or-ring/",
+            "summary": "Health wearables are constantly collecting your personal information, but who owns that data, and what does it mean for your privacy?",
+            "published_utc": "2026-06-09T14:53:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Wearables produce huge amounts of health data - and doctors are struggling to keep up",
+            "link": "https://www.zdnet.com/article/wearables-produce-huge-amounts-of-health-data-and-doctors-are-struggling-to-keep-up/",
+            "summary": "Patients have never had more data about their health, but much of it is unusable. Here's why.",
+            "published_utc": "2026-06-09T14:52:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I'm using these 7 Linux wellness apps to take better care of myself in 2026",
+            "link": "https://www.zdnet.com/article/best-linux-desktop-wellness-apps/",
+            "summary": "If you're on a mission to improve your health and wellness, and Linux is your OS of choice, there are plenty of apps to help you on your journey, and ...",
+            "published_utc": "2026-06-09T14:51:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The biggest risks lurking inside your at-home DNA and health tests",
+            "link": "https://www.zdnet.com/article/biggest-risks-in-at-home-dna-tests/",
+            "summary": "What's really in that DNA kit? Hint: It's not just a spit tube, but a whole lot of fine print.",
+            "published_utc": "2026-06-09T14:50:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The curious case of the disappearing wearable",
+            "link": "https://www.zdnet.com/article/the-curious-case-of-the-disappearing-wearable/",
+            "summary": "Tech companies are evolving their health trackers to make them smaller, thinner, and near-invisible. Here's why.",
+            "published_utc": "2026-06-09T14:49:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "AI can identify intimate partner violence years before people disclose it, but is that safe?",
+            "link": "https://www.zdnet.com/article/ai-can-identify-intimate-partner-violence-ipv-before-disclosure/",
+            "summary": "Researchers at MIT and Mass General Brigham have built an AI model that can flag intimate partner violence risk in patients from their medical records.",
+            "published_utc": "2026-06-09T14:48:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How I used Airtable to swap my daily fast-food habit with 5-minute meal planning",
+            "link": "https://www.zdnet.com/article/how-i-used-airtable-to-swap-my-daily-fast-food-habit-with-5-minute-meal-planning/",
+            "summary": "I used Airtable to turn daily meal planning into a simple database system, reducing food stress, grocery confusion, and last-minute takeout temptation...",
+            "published_utc": "2026-06-09T14:47:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I turned my Android phone into a 35-tool science kit with one free app - and started testing everything",
+            "link": "https://www.zdnet.com/article/phyphox-science-lab-free-android-app-i-tested-everything/",
+            "summary": "Phyphox can do so much that explaining it all would take hours. The real fun starts once you begin testing the world around you.",
+            "published_utc": "2026-06-09T14:42:37+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I found an AirTag alternative unlike any other - it doesn't even use Google or Apple's networks",
+            "link": "https://www.zdnet.com/article/sensecap-t1000-e-tracker-card-airtag-alternative-review/",
+            "summary": "Seeed Studio's SenseCAP T1000-E tracker card also doesn't use cell towers or Wi-Fi. Here's how.",
+            "published_utc": "2026-06-09T14:29:49+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "New Veeam vulnerability exposes backup servers to RCE attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/new-veeam-vulnerability-exposes-backup-servers-to-rce-attacks/",
+            "summary": "Veeam has released security updates to patch a critical Backup & Replication security flaw that can be exploited to gain remote code execution (RCE) o...",
+            "published_utc": "2026-06-09T14:27:56+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Critical phpBB Flaw Lets Attackers Hijack Any Account with One Request",
+            "link": "https://www.infosecurity-magazine.com/news/phpbb-authentication-bypass/",
+            "summary": "Critical phpBB authentication bypass lets attackers hijack any account with one request",
+            "published_utc": "2026-06-09T14:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "New Platform Uses Cryptographic Invisibility to Protect AI-Built Applications",
+            "link": "https://www.securityweek.com/new-platform-uses-cryptographic-invisibility-to-protect-ai-built-applications/",
+            "summary": "",
+            "published_utc": "2026-06-09T13:00:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "I tested a $15 smart switch and found a coffee maker wasting $1,500 a year in electricity",
@@ -177,76 +317,6 @@
             "published_utc": "2026-06-09T01:39:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "The two biggest iOS 27 features at WWDC for me had nothing to do with Siri AI",
-            "link": "https://www.zdnet.com/article/ios-27-connectivity-upgrades/",
-            "summary": "Enhancements to foundational technologies are always welcomed - and potentially more useful - than the flashier ones.",
-            "published_utc": "2026-06-09T01:27:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How to download the iPadOS 27 developer beta right now - and which models support it",
-            "link": "https://www.zdnet.com/article/how-to-download-ipados-27-developer-beta/",
-            "summary": "Apple has released the first iPadOS 27 beta, offering early access to an upgraded Siri, new Safari features, and more.",
-            "published_utc": "2026-06-09T01:24:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "This 4TB WD Black SSD is nearly $1,200 off at Best Buy - and you can still qualify for it",
-            "link": "https://www.zdnet.com/article/wd-black-sn850x-4tb-best-buy-deal/",
-            "summary": "In the era of rising SSD prices, you can still save 65% on the 4TB WD Black SN850X SSD right now.",
-            "published_utc": "2026-06-09T01:12:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I found the quickest way to find blocked numbers on your iPhone - and it's so reliable",
-            "link": "https://www.zdnet.com/article/how-to-find-blocked-numbers-on-iphone/",
-            "summary": "You can find, manage, and add blocked numbers from the same place on your iPhone. Here's how I do it.",
-            "published_utc": "2026-06-09T01:06:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "MacBook Neo vs. Acer Swift Air 14: I've used both budget laptops - this model clearly wins",
-            "link": "https://www.zdnet.com/article/macbook-neo-vs-acer-swift-air-14/",
-            "summary": "Acer's new $699 Swift Air 14 is a direct response to the MacBook Neo. Here's how it compares, by the numbers.",
-            "published_utc": "2026-06-09T00:57:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I took 200+ photos with two of the best Android camera phones - and it was dang close",
-            "link": "https://www.zdnet.com/article/samsung-galaxy-s26-ultra-vs-vivo-x300-ultra-camera-comparison/",
-            "summary": "I expected the Vivo X300 Ultra to wipe the floor with Samsung's Galaxy S26 Ultra, but it was closer than I'd thought.",
-            "published_utc": "2026-06-09T00:57:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I've used Linux for 30 years - 4 frustrations remain, including 2 that may push me to MacOS",
-            "link": "https://www.zdnet.com/article/after-30-years-using-linux-i-have-few-complaints/",
-            "summary": "For decades, I've recommended the open-source OS to new and experienced computer users alike. But I'm not oblivious to its handful of faults.",
-            "published_utc": "2026-06-09T00:01:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "3 new MacOS 27 features make it worth upgrading right away for me - Siri included",
-            "link": "https://www.zdnet.com/article/macos-27-best-new-features/",
-            "summary": "Apple's upcoming MacOS 27 Golden Gate is light on new features, focusing instead on a reworked Siri.",
-            "published_utc": "2026-06-08T23:50:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "As a parent, I'm beyond excited about iOS 27's child safety features - how they're better now",
-            "link": "https://www.zdnet.com/article/apple-ios-27-ipados-macos-wwdc-2026-parental-controls/",
-            "summary": "From stronger controls over web browsing and shortcuts to limit screen time, Apple just announced much-needed child-safety features for its OS.",
-            "published_utc": "2026-06-08T23:24:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The AirPods getting a custom equalizer with iOS 27 is a bigger deal than you think",
-            "link": "https://www.zdnet.com/article/airpods-custom-eq-news/",
-            "summary": "Despite flying under the radar during the WWDC keynote, a custom EQ for AirPods is a feature I'm most excited for this fall.",
-            "published_utc": "2026-06-08T23:19:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "NFCShare Android malware spreads via fake banking app updates on GitHub",
             "link": "https://www.bleepingcomputer.com/news/security/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github/",
@@ -366,25 +436,11 @@
             "published_utc": "2026-06-08T13:05:16+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Cybersecurity M&A Roundup: 26 Deals Announced in May 2026",
-            "link": "https://www.securityweek.com/cybersecurity-ma-roundup-26-deals-announced-in-may-2026/",
-            "summary": "",
-            "published_utc": "2026-06-08T12:38:45+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Protocol Buffers schemas expose remote code execution risk",
             "link": "https://www.csoonline.com/article/4182306/google-protocol-buffers-flaw-turns-schemas-into-shells.html",
             "summary": "",
             "published_utc": "2026-06-08T12:22:33+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Everest Forms Vulnerability Exploited to Hack WordPress Sites",
-            "link": "https://www.securityweek.com/everest-forms-vulnerability-exploited-to-hack-wordpress-sites/",
-            "summary": "",
-            "published_utc": "2026-06-08T12:16:09+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -457,25 +513,11 @@
             "published_utc": "2026-06-08T07:17:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Over 20,000 Instagram accounts stolen in Meta AI support hack",
-            "link": "https://www.bleepingcomputer.com/news/security/meta-ai-support-data-breach-affects-20-000-instagram-accounts/",
-            "summary": "Meta has revealed that 20,225 Instagram users had their accounts hijacked in a recent incident where attackers used Meta's AI-powered support system t...",
-            "published_utc": "2026-06-08T06:00:27+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "All the Ways Europe Is Ditching American Technology",
             "link": "https://www.wired.com/story/all-the-ways-europe-is-ditching-american-technology/",
             "summary": "A WIRED timeline shows how dozens of governments, companies, and other organizations across Europe are moving, or planning to shift, away from US Big ...",
             "published_utc": "2026-06-08T06:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Hands on with Intelligent Terminal, an AI-powered Windows Terminal",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/hands-on-with-intelligent-terminal-an-ai-powered-windows-terminal/",
-            "summary": "Microsoft has created an open-source fork of Windows Terminal called \"Intelligent Terminal,\" and it allows you to use AI directly inside Terminal with...",
-            "published_utc": "2026-06-07T23:20:02+00:00"
         },
         {
             "source": "WIRED Security",
@@ -903,13 +945,6 @@
             "link": "https://www.infosecurity-magazine.com/news/silent-ransom-group-it/",
             "summary": "Threat actors from the Silent Ransom Group, aka Luna Moth, are escalating attacks by impersonating IT staff in phone calls and even showing up in pers...",
             "published_utc": "2026-05-29T13:00:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Chilling Effects",
-            "link": "https://www.schneier.com/blog/archives/2026/05/chilling-effects.html",
-            "summary": "",
-            "published_utc": "2026-05-29T11:02:22+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2723,27 +2758,6 @@
             "link": "https://www.infosecurity-magazine.com/news/employee-data-breaches-surge/",
             "summary": "Analysis from law firm Nockolds suggests non-cyber incidents are driving up employee data breaches",
             "published_utc": "2026-03-31T10:01:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "NCSC Urges Immediate Patching of F5 BIG-IP Bug",
-            "link": "https://www.infosecurity-magazine.com/news/ncsc-urges-immediate-patching-f5/",
-            "summary": "The National Cyber Security Centre wants UK firms to patch CVE-2025-53521",
-            "published_utc": "2026-03-31T08:45:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Cybercriminals Exploit Tax Season With New Phishing Tactics",
-            "link": "https://www.infosecurity-magazine.com/news/tax-season-new-phishing-tactics/",
-            "summary": "Tax-season phishing floods deliver RMM malware, credential theft, BEC and tax-form scams",
-            "published_utc": "2026-03-30T15:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Lloyds IT Glitch Exposed Data of Nearly 500,000 Banking Customers",
-            "link": "https://www.infosecurity-magazine.com/news/lloyds-glitch-exposed-500000/",
-            "summary": "Lloyds app glitch exposed up to 447,936 customers’ transactions and personal data during update",
-            "published_utc": "2026-03-30T14:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
