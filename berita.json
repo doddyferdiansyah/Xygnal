@@ -1,11 +1,32 @@
 {
-    "lastUpdatedUTC": "2026-06-10T00:15:38.445071+00:00",
+    "lastUpdatedUTC": "2026-06-10T05:19:50.651924+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "UK move to filter photos and messages triggers encryption worries for CISOs",
+            "link": "https://www.csoonline.com/article/4183228/uk-move-to-filter-photos-and-messages-triggers-encryption-worries-for-cisos.html",
+            "summary": "",
+            "published_utc": "2026-06-10T04:16:49+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Enterprises know AI-generated code is vulnerable; they’re shipping it anyway",
+            "link": "https://www.csoonline.com/article/4183217/enterprises-know-ai-generated-code-is-vulnerable-theyre-shipping-it-anyway-3.html",
+            "summary": "",
+            "published_utc": "2026-06-10T03:05:47+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Anthropic rolls out Claude Fable 5, but it's available for a limited time",
+            "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-claude-fable-5-but-its-available-for-a-limited-time/",
+            "summary": "Anthropic has begun rolling out a new model called \"Fable,\" which is based on the same underlying model as Mythos, its most powerful AI model class. [...",
+            "published_utc": "2026-06-10T02:03:31+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Microsoft Defender 'RoguePlanet' zero-day grants SYSTEM privileges",
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-rogueplanet-zero-day-grants-system-privileges/",
-            "summary": "[...]",
+            "summary": "A security researcher has released a new Microsoft Defender zero-day exploit named \"RoguePlanet\" just hours after Microsoft fixed two previously discl...",
             "published_utc": "2026-06-09T23:11:18+00:00"
         },
         {
@@ -89,8 +110,8 @@
             "source": "ZDNet Security",
             "title": "I just saved $180 a year on my Google AI plan without losing my Drive storage - here's how",
             "link": "https://www.zdnet.com/article/google-ai-plus-plan-save-annually-drive-cloud-storage-costs/",
-            "summary": "Google AI Plus just got cheaper, and it's the easiest way to reduce my Google One bill without giving up cloud storage or AI.",
-            "published_utc": "2026-06-09T17:52:32+00:00"
+            "summary": "Google AI Plus is cheaper now, and may be the easiest way to reduce my Google One bill without giving uo storage or AI.",
+            "published_utc": "2026-06-09T17:52:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -380,6 +401,13 @@
             "published_utc": "2026-06-09T09:00:00+00:00"
         },
         {
+            "source": "WeLiveSecurity",
+            "title": "Cybercriminals: the 'auditors' you never hired",
+            "link": "https://www.welivesecurity.com/en/business-security/cybercriminals-auditors-never-hired/",
+            "summary": "Every organisation gets audited. The question is who does the auditing.",
+            "published_utc": "2026-06-09T08:50:00+00:00"
+        },
+        {
             "source": "BleepingComputer",
             "title": "CISA gives feds 3 days to patch Check Point VPN bug exploited as zero-day",
             "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-check-point-flaw-exploited-by-ransomware-gangs/",
@@ -420,13 +448,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github/",
             "summary": "New variants of the NFCShare Android malware are being distributed as fake updates for legitimate banking apps hosted on GitHub. [...]",
             "published_utc": "2026-06-08T22:11:58+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "SoFi confirms third-party data breach at Hong Kong subsidiary",
-            "link": "https://www.bleepingcomputer.com/news/security/sofi-confirms-third-party-data-breach-at-hong-kong-subsidiary/",
-            "summary": "SoFi Hong Kong is warning that it suffered a data breach after hackers gained access to a database at a third-party vendor containing customer informa...",
-            "published_utc": "2026-06-08T21:55:46+00:00"
         },
         {
             "source": "CSO Online",
@@ -632,13 +653,6 @@
             "published_utc": "2026-06-04T17:28:11+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "OpenAI responds to White House executive order on AI governance",
-            "link": "https://www.csoonline.com/article/4181294/openai-responds-to-white-house-executive-order-on-ai-governance.html",
-            "summary": "",
-            "published_utc": "2026-06-04T16:34:22+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Everest Forms Pro Vulnerability Allows Remote Code Execution on WordPress Sites",
             "link": "https://www.infosecurity-magazine.com/news/everest-forms-pro-rce-actively/",
@@ -672,13 +686,6 @@
             "link": "https://www.infosecurity-magazine.com/news/how-proton-fights-against/",
             "summary": "Proton uses machine learning models to detect abuse of its services – especially email addresses used by cybercriminals",
             "published_utc": "2026-06-04T12:30:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Hugging Face Transformers RCE flaw enables stealthy compromise via AI model configs",
-            "link": "https://www.csoonline.com/article/4181094/hugging-face-transformers-rce-flaw-enables-stealthy-compromise-via-ai-model-configs.html",
-            "summary": "",
-            "published_utc": "2026-06-04T12:01:00+00:00"
         },
         {
             "source": "Schneier",
@@ -3248,13 +3255,6 @@
             "link": "https://www.welivesecurity.com/en/videos/cybersecurity-awareness-month-2025-software-patching-matters/",
             "summary": "As the number of software vulnerabilities continues to increase, delaying or skipping security updates could cost your business dearly.",
             "published_utc": "2025-10-14T14:21:37+00:00"
-        },
-        {
-            "source": "WeLiveSecurity",
-            "title": "AI-aided malvertising: Exploiting a chatbot to spread scams",
-            "link": "https://www.welivesecurity.com/en/social-media/ai-aided-malvertising-chatbot-scams/",
-            "summary": "Cybercriminals have tricked X’s AI chatbot into promoting phishing scams in a technique that has been nicknamed “Grokking”. Here’s what to know about it.",
-            "published_utc": "2025-10-13T09:00:00+00:00"
         },
         {
             "source": "Threatpost",
