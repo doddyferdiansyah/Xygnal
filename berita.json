@@ -1,6 +1,104 @@
 {
-    "lastUpdatedUTC": "2026-06-11T05:49:19.974454+00:00",
+    "lastUpdatedUTC": "2026-06-11T10:27:35.025010+00:00",
     "articles": [
+        {
+            "source": "InfosecurityMag",
+            "title": "Extortion-Only Attacks Increase, With Data Theft Dominating Ransomware Claims",
+            "link": "https://www.infosecurity-magazine.com/news/extortion-only-attacks-surge/",
+            "summary": "Extortion-only attacks are increasing as data theft drives most ransomware claims, with many organizations unable to stop stolen data from being exposed",
+            "published_utc": "2026-06-11T10:20:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "What SRE teams need before they trust AI agents",
+            "link": "https://www.csoonline.com/article/4183666/what-sre-teams-need-before-they-trust-ai-agents.html",
+            "summary": "",
+            "published_utc": "2026-06-11T10:00:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "China-linked recon botnet outpaces enterprise defenses",
+            "link": "https://www.csoonline.com/article/4184043/china-linked-recon-botnet-outpaces-enterprise-defenses.html",
+            "summary": "",
+            "published_utc": "2026-06-11T09:57:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "‘GreatXML’ Zero-Day Exploit Bypasses BitLocker",
+            "link": "https://www.securityweek.com/greatxml-zero-day-exploit-bypasses-bitlocker/",
+            "summary": "",
+            "published_utc": "2026-06-11T09:56:12+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Buying a school laptop? 4 things I'd consider first (and my top 10 picks)",
+            "link": "https://www.zdnet.com/article/how-to-pick-a-laptop-for-college/",
+            "summary": "Your laptop can make or break or time in college, so you want to make sure you get the right one. Here's what to consider.",
+            "published_utc": "2026-06-11T09:30:15+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "New “Agentjacking” Attacks Could Hijack AI Coding Agents",
+            "link": "https://www.infosecurity-magazine.com/news/agentjacking-attacks-hijack-ai/",
+            "summary": "Tenet Security researchers reveal how new “agentjacking” attacks could trick coding agents into executing arbitrary code",
+            "published_utc": "2026-06-11T09:15:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The best time-tracking software of 2026: Expert tested",
+            "link": "https://www.zdnet.com/article/best-time-tracking-software/",
+            "summary": "We tested Toggl Track, Timely, 7pace, QuickBooks Time, and ActivityWatch to find the best time-tracking tools for freelancers and remote teams.",
+            "published_utc": "2026-06-11T09:00:43+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Aged-domain acquisition: The tradecraft phishing operators are using to bypass your mail filter’s reputation score",
+            "link": "https://www.csoonline.com/article/4183653/aged-domain-acquisition-the-tradecraft-phishing-operators-are-using-to-bypass-your-mail-filters-reputation-score.html",
+            "summary": "",
+            "published_utc": "2026-06-11T09:00:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Frontier AI models offer sneak peak of seismic cyber shifts ahead",
+            "link": "https://www.csoonline.com/article/4183772/frontier-ai-models-offer-sneak-peak-of-seismic-cyber-shifts-ahead.html",
+            "summary": "",
+            "published_utc": "2026-06-11T09:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft fixes BitLocker recovery bug on Windows Server 2025",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-bug-on-windows-server-2025/",
+            "summary": "Microsoft has resolved a known issue causing some Windows Server 2025 devices to boot into BitLocker recovery after installing the April 2026 security...",
+            "published_utc": "2026-06-11T08:44:22+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "University of Nottingham Confirms Breach After Hackers Leak Data",
+            "link": "https://www.securityweek.com/university-of-nottingham-confirms-breach-after-hackers-leak-data/",
+            "summary": "",
+            "published_utc": "2026-06-11T08:30:02+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Nottingham University data breach affects over 450,000 students",
+            "link": "https://www.bleepingcomputer.com/news/security/nottingham-university-data-breach-affects-over-450-000-students/",
+            "summary": "The University of Nottingham confirmed on Wednesday that a hacking group gained access to its student records system in a breach affecting both curren...",
+            "published_utc": "2026-06-11T07:27:53+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Microsoft Patches Exploited Exchange Server Vulnerability",
+            "link": "https://www.securityweek.com/microsoft-patches-exploited-exchange-server-vulnerability/",
+            "summary": "",
+            "published_utc": "2026-06-11T06:52:21+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Max severity Ivanti Sentry vulnerability now exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks/",
+            "summary": "Attackers are now targeting a recently patched maximum-severity flaw in Ivanti Sentry, enabling them to execute code with root privileges on Internet-...",
+            "published_utc": "2026-06-11T06:20:22+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "GitHub finally pulls the plug on automatic install script execution for npm",
@@ -132,7 +230,7 @@
             "title": "Amazon just slashed the AirPods Pro 3 price to the lowest we've ever seen",
             "link": "https://www.zdnet.com/article/airpods-pro-3-early-amazon-prime-day-deal-2026/",
             "summary": "The AirPods Pro 3 are the best earbuds for Apple users. My only complaint is that I didn't get them for $70 off like they are with this deal.",
-            "published_utc": "2026-06-10T16:10:43+00:00"
+            "published_utc": "2026-06-10T16:10:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -261,25 +359,11 @@
             "published_utc": "2026-06-10T13:48:36+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "The best early Prime Day robot vacuum deals I'd buy now, after testing dozens of them",
-            "link": "https://www.zdnet.com/article/best-early-amazon-prime-day-robot-vacuum-deals-2026/",
-            "summary": "Amazon Prime Day is right around the corner, and I found the best robot vacuum deals that are actually a great deal.",
-            "published_utc": "2026-06-10T13:48:10+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Microsoft patches Exchange Server zero-day exploited in attacks",
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-exchange-server-zero-day-exploited-in-attacks/",
             "summary": "Microsoft has patched an actively exploited Exchange Server vulnerability that allows threat actors to execute arbitrary JavaScript code in cross-site...",
             "published_utc": "2026-06-10T13:44:19+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "7+ phone privacy settings to check and turn off ASAP - to avoid exposing your personal data",
-            "link": "https://www.zdnet.com/article/phone-privacy-settings-to-disable-review-avoid-exposing-data/",
-            "summary": "Your phone holds a lot of personal information, from where you go to who you talk to every day. Here's how to limit what can access your data and when.",
-            "published_utc": "2026-06-10T12:34:30+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -360,16 +444,16 @@
         },
         {
             "source": "WIRED Security",
-            "title": "Mapping Every Flock License Plate Reader Near US World Cup Stadiums",
-            "link": "https://www.wired.com/story/us-world-cup-2026-alpr-camera-stadiums/",
-            "summary": "Most US World Cup stadiums are surrounded by surveillance cameras. Want to know if you’re being watched on your way to a match? These maps will help you.",
+            "title": "Soccer Fans, You’re Being Watched",
+            "link": "https://www.wired.com/story/soccer-world-cup-biometric-surveillance/",
+            "summary": "From anti-drone tech to face recognition, 2026 World Cup stadiums in the US, Canada, and Mexico are subjecting fans to an array of surveillance tech. ...",
             "published_utc": "2026-06-10T10:00:00+00:00"
         },
         {
             "source": "WIRED Security",
-            "title": "Soccer Fans, You’re Being Watched",
-            "link": "https://www.wired.com/story/soccer-world-cup-biometric-surveillance/",
-            "summary": "From anti-drone tech to face recognition, 2026 World Cup stadiums in the US, Canada, and Mexico are subjecting fans to an array of surveillance tech. ...",
+            "title": "Mapping Every Flock License Plate Reader Near US World Cup Stadiums",
+            "link": "https://www.wired.com/story/us-world-cup-2026-alpr-camera-stadiums/",
+            "summary": "Most US World Cup stadiums are surrounded by surveillance cameras. Want to know if you’re being watched on your way to a match? These maps will help you.",
             "published_utc": "2026-06-10T10:00:00+00:00"
         },
         {
@@ -387,13 +471,6 @@
             "published_utc": "2026-06-10T09:57:33+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "ServiceNow Patches Vulnerability Exploited Against Some Customers",
-            "link": "https://www.securityweek.com/servicenow-patches-vulnerability-exploited-against-some-customers/",
-            "summary": "",
-            "published_utc": "2026-06-10T09:45:35+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "AI red teaming comes of age",
             "link": "https://www.csoonline.com/article/4181930/ai-red-teaming-comes-of-age.html",
@@ -408,25 +485,11 @@
             "published_utc": "2026-06-10T09:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Critical Vulnerabilities Patched in Fortinet, Ivanti Products",
-            "link": "https://www.securityweek.com/critical-vulnerabilities-patched-in-fortinet-ivanti-products/",
-            "summary": "",
-            "published_utc": "2026-06-10T08:50:12+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Microsoft Fixes 200 CVEs in June Patch Tuesday",
             "link": "https://www.infosecurity-magazine.com/news/microsoft-fixes-200-cves-in-june/",
             "summary": "Microsoft has patched 200 vulnerabilities including three zero-days",
             "published_utc": "2026-06-10T08:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Phoenix Contact",
-            "link": "https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-phoenix-contact/",
-            "summary": "",
-            "published_utc": "2026-06-10T07:38:41+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -471,32 +534,11 @@
             "published_utc": "2026-06-09T22:07:28+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "ServiceNow discloses security incident exposing customer data",
-            "link": "https://www.bleepingcomputer.com/news/security/servicenow-discloses-security-incident-exposing-customer-data/",
-            "summary": "ServiceNow is warning about a security incident after attackers exploited an unauthenticated access flaw through a vulnerable API endpoint, allowing t...",
-            "published_utc": "2026-06-09T21:34:09+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "OpenClaw AI agent found falling for phishing attacks, spills user data",
-            "link": "https://www.bleepingcomputer.com/news/security/openclaw-ai-agent-found-falling-for-phishing-attacks-spills-user-data/",
-            "summary": "Phishing simulation on an OpenClaw email agent with various configuration profiles showed that it was susceptible to tactics commonly used to compromi...",
-            "published_utc": "2026-06-09T21:20:20+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Anthropic releases Mythos-class Fable 5 model with safeguards for cyber risks",
             "link": "https://www.csoonline.com/article/4183094/anthropic-releases-mythos-class-fable-5-model-with-safeguards-for-cyber-risks.html",
             "summary": "",
             "published_utc": "2026-06-09T19:40:01+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "SAP fixes critical flaws in NetWeaver and Commerce Cloud",
-            "link": "https://www.bleepingcomputer.com/news/security/sap-fixes-critical-flaws-in-netweaver-and-commerce-cloud/",
-            "summary": "SAP has released fixes for 15 vulnerabilities as part of its June 2026 Security Patch package, including four critical-severity flaws affecting SAP Ne...",
-            "published_utc": "2026-06-09T19:36:27+00:00"
         },
         {
             "source": "WIRED Security",
@@ -639,13 +681,6 @@
             "published_utc": "2026-06-08T14:00:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Protocol Buffers schemas expose remote code execution risk",
-            "link": "https://www.csoonline.com/article/4182306/google-protocol-buffers-flaw-turns-schemas-into-shells.html",
-            "summary": "",
-            "published_utc": "2026-06-08T12:22:33+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Anthropic’s Project Glasswing Update",
             "link": "https://www.schneier.com/blog/archives/2026/06/anthropics-project-glasswing-update.html",
@@ -667,32 +702,11 @@
             "published_utc": "2026-06-08T09:00:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Why most enterprise security teams would fail a military readiness test",
-            "link": "https://www.csoonline.com/article/4181803/why-most-enterprise-security-teams-would-fail-a-military-readiness-test.html",
-            "summary": "",
-            "published_utc": "2026-06-08T09:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "15 tough cybersecurity questions every CISO must answer",
-            "link": "https://www.csoonline.com/article/4181920/15-tough-cybersecurity-questions-every-ciso-must-answer.html",
-            "summary": "",
-            "published_utc": "2026-06-08T09:00:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Infosecurity Europe: How DSIT Protects Thousands of UK Orgs from Cyber Vulnerabilities",
             "link": "https://www.infosecurity-magazine.com/news/infosecurity-europe-dsit-cyber/",
             "summary": "The Department of Science, Innovation and Technology details how a combination of hands-on human advice and technology systems keeps government agenci...",
             "published_utc": "2026-06-08T08:15:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "HTTP/2’s speed abused to slow webserver performance in DoS attack",
-            "link": "https://www.csoonline.com/article/4181313/http-2s-speed-abused-to-slow-webserver-performance-in-dos-attack.html",
-            "summary": "",
-            "published_utc": "2026-06-08T08:00:47+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2758,20 +2772,6 @@
             "link": "https://www.infosecurity-magazine.com/news/venom-stealer-maas-automates-data/",
             "summary": "Venom Stealer malware-as-a-service automates ClickFix social engineering, credential and crypto exfiltration",
             "published_utc": "2026-04-01T13:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Chinese Hackers Target European Governments in Espionage Campaigns",
-            "link": "https://www.infosecurity-magazine.com/news/china-hackers-ta416-europe/",
-            "summary": "Chinese state-backed group TA416 had suspended its cyber espionage operations in Europe since 2023, noted Proofpoint",
-            "published_utc": "2026-04-01T12:05:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Eight in 10 UK Manufacturers Hit by Cyber Incident in a Year",
-            "link": "https://www.infosecurity-magazine.com/news/eight-10-uk-manufacturers-hit/",
-            "summary": "Most UK manufacturers compromised last year suffered financial loss, says ESET",
-            "published_utc": "2026-04-01T09:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
