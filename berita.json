@@ -1,6 +1,34 @@
 {
-    "lastUpdatedUTC": "2026-06-12T19:05:58.062005+00:00",
+    "lastUpdatedUTC": "2026-06-12T21:46:19.518051+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "GreatXML zero-day BitLocker bypass doesn’t seem to work, yet",
+            "link": "https://www.csoonline.com/article/4184678/greatxml-zero-day-bitlocker-bypass-doesnt-seem-to-work-yet.html",
+            "summary": "",
+            "published_utc": "2026-06-12T21:34:32+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Friday Squid Blogging: Squid-Inspired Fluid Pump",
+            "link": "https://www.schneier.com/blog/archives/2026/06/friday-squid-blogging-squid-inspired-fluid-pump.html",
+            "summary": "",
+            "published_utc": "2026-06-12T21:05:03+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Maine disables data breach notification portal after fake disclosures",
+            "link": "https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/",
+            "summary": "Maine has taken its public data breach reporting portal offline after fraudulent breach disclosures were published on the state's website, prompting a...",
+            "published_utc": "2026-06-12T19:33:32+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I used HyperDroid to make my Android devices look and feel like Windows 11 - and don't regret it",
+            "link": "https://www.zdnet.com/article/hyperdroid-android-launcher-made-phone-tablet-look-like-windows-11/",
+            "summary": "I've never been the biggest fan of Windows UI, but I made my Pixel 9 Pro and Nubia Pad Pro look like it anyway, and didn't mind it.",
+            "published_utc": "2026-06-12T19:05:00+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "phpBB forum fixes auth bypass bug lurking for a decade",
@@ -338,13 +366,6 @@
             "published_utc": "2026-06-11T17:47:03+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Lenovo vs. Dell: I've tested both laptop brands for years, and here's my preference",
-            "link": "https://www.zdnet.com/article/lenovo-vs-dell-laptops/",
-            "summary": "Dell and Lenovo specialize in PCs, laptops, and other computing products, but which one is better? Here's how to decide based on your needs.",
-            "published_utc": "2026-06-11T17:35:00+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "Drug Sites Hijacked Spotify’s Search Ranking Through Fake Podcasts",
             "link": "https://www.wired.com/story/drug-sites-hijacked-spotifys-search-ranking-through-fake-podcasts-report-finds/",
@@ -413,13 +434,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/south-korea-hits-coupang-with-record-409-million-fine-over-data-breach/",
             "summary": "​​The Personal Information Protection Commission (PIPC), South Korea's data protection regulator, has fined e-commerce giant Coupang a record 624.6 bi...",
             "published_utc": "2026-06-11T12:52:41+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "CISA tells govt agencies to patch critical exploited flaws in 3 days",
-            "link": "https://www.bleepingcomputer.com/news/security/cisa-tells-govt-agencies-to-patch-critical-exploited-flaws-in-3-days/",
-            "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) announced a new Binding Operational Directive, 26-04, that prioritizes security updat...",
-            "published_utc": "2026-06-11T12:46:44+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -612,16 +626,16 @@
         },
         {
             "source": "WIRED Security",
-            "title": "Soccer Fans, You’re Being Watched",
-            "link": "https://www.wired.com/story/soccer-world-cup-biometric-surveillance/",
-            "summary": "From anti-drone tech to face recognition, 2026 World Cup stadiums in the US, Canada, and Mexico are subjecting fans to an array of surveillance tech. ...",
+            "title": "Mapping Every Flock License Plate Reader Near US World Cup Stadiums",
+            "link": "https://www.wired.com/story/us-world-cup-2026-alpr-camera-stadiums/",
+            "summary": "Most US World Cup stadiums are surrounded by surveillance cameras. Want to know if you’re being watched on your way to a match? These maps will help you.",
             "published_utc": "2026-06-10T10:00:00+00:00"
         },
         {
             "source": "WIRED Security",
-            "title": "Mapping Every Flock License Plate Reader Near US World Cup Stadiums",
-            "link": "https://www.wired.com/story/us-world-cup-2026-alpr-camera-stadiums/",
-            "summary": "Most US World Cup stadiums are surrounded by surveillance cameras. Want to know if you’re being watched on your way to a match? These maps will help you.",
+            "title": "Soccer Fans, You’re Being Watched",
+            "link": "https://www.wired.com/story/soccer-world-cup-biometric-surveillance/",
+            "summary": "From anti-drone tech to face recognition, 2026 World Cup stadiums in the US, Canada, and Mexico are subjecting fans to an array of surveillance tech. ...",
             "published_utc": "2026-06-10T10:00:00+00:00"
         },
         {
@@ -658,13 +672,6 @@
             "link": "https://www.csoonline.com/article/4183228/uk-move-to-filter-photos-and-messages-triggers-encryption-worries-for-cisos.html",
             "summary": "",
             "published_utc": "2026-06-10T04:16:49+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Enterprises know AI-generated code is vulnerable; they’re shipping it anyway",
-            "link": "https://www.csoonline.com/article/4183217/enterprises-know-ai-generated-code-is-vulnerable-theyre-shipping-it-anyway-3.html",
-            "summary": "",
-            "published_utc": "2026-06-10T03:05:47+00:00"
         },
         {
             "source": "KrebsOnSecurity",
@@ -1022,13 +1029,6 @@
             "link": "https://www.infosecurity-magazine.com/news/bayer-reinvents-security-awareness/",
             "summary": "Bayer’s security awareness training now focuses on psychological approaches rather than technical methods for detecting social engineering",
             "published_utc": "2026-06-02T13:45:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "The Intersection of Encryption and AI",
-            "link": "https://www.schneier.com/blog/archives/2026/06/the-intersection-of-encryption-and-ai.html",
-            "summary": "",
-            "published_utc": "2026-06-02T11:06:25+00:00"
         },
         {
             "source": "InfosecurityMag",
