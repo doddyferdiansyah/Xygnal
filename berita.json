@@ -1,6 +1,97 @@
 {
-    "lastUpdatedUTC": "2026-06-12T08:57:45.273102+00:00",
+    "lastUpdatedUTC": "2026-06-12T12:24:44.943879+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft fixes Windows update failures linked to WUSA installer",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-update-failures-linked-to-wusa-installer/",
+            "summary": "Microsoft has fixed a known issue that caused Windows updates released since May 2025 to fail when installed via the Windows Update Standalone Install...",
+            "published_utc": "2026-06-12T11:44:58+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Iranian Cyber Group Handala Claims Cal Water Hack",
+            "link": "https://www.securityweek.com/iranian-cyber-group-handala-claims-cal-water-hack/",
+            "summary": "",
+            "published_utc": "2026-06-12T11:30:23+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Bernie Sanders’ AI Sovereign Wealth Fund Plan",
+            "link": "https://www.schneier.com/blog/archives/2026/06/bernie-sanders-ai-sovereign-wealth-fund-plan.html",
+            "summary": "",
+            "published_utc": "2026-06-12T11:03:17+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "6 Android Auto apps that are essential when I'm off-roading - and most are free",
+            "link": "https://www.zdnet.com/article/6-android-auto-apps-let-explore-the-outdoors/",
+            "summary": "Android Auto isn't just for city streets anymore. Here are the apps that help me get more done on road trips.",
+            "published_utc": "2026-06-12T11:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Dell vs. HP: I've tested dozens of laptops from both brands, and here's my buying advice",
+            "link": "https://www.zdnet.com/article/hp-vs-dell-laptops-comparison/",
+            "summary": "Dell and HP both make excellent laptops, but each excels in different areas. Here are the key differences.",
+            "published_utc": "2026-06-12T10:54:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I've tested solar power at home for years - 12 myths you shouldn't fall for in 2026",
+            "link": "https://www.zdnet.com/article/home-solar-power-myths-debunked/",
+            "summary": "Knowing the facts on home solar power can help you make better, informed choices, save money, and stay safe.",
+            "published_utc": "2026-06-12T10:51:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Pharma giant Novo Nordisk discloses breach of clinical trials data",
+            "link": "https://www.bleepingcomputer.com/news/security/pharmaceutical-giant-novo-nordisk-discloses-security-breach/",
+            "summary": "Danish pharmaceutical giant Novo Nordisk, the world's largest producer of insulin, disclosed a data breach affecting patient information from some cli...",
+            "published_utc": "2026-06-12T10:13:19+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Prompt injection breaks today’s AI agents, study warns",
+            "link": "https://www.csoonline.com/article/4184455/prompt-injection-breaks-todays-ai-agents-study-warns.html",
+            "summary": "",
+            "published_utc": "2026-06-12T10:02:25+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Why lithium-ion batteries fail us - and the gadgets I'm relying on to protect myself",
+            "link": "https://www.zdnet.com/article/lithium-ion-battery-fires-what-to-do/",
+            "summary": "While rechargeable batteries are generally very safe, fires at home, workplaces, and even on commercial aircraft are now on the rise. Here's why.",
+            "published_utc": "2026-06-12T10:00:34+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Ivanti Sentry Exploitation Attempts Hitting Honeypots",
+            "link": "https://www.securityweek.com/ivanti-sentry-exploitation-attempts-hitting-honeypots/",
+            "summary": "",
+            "published_utc": "2026-06-12T09:44:16+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Chrome 149 Update Patches 28 Vulnerabilities",
+            "link": "https://www.securityweek.com/chrome-149-update-patches-28-vulnerabilities/",
+            "summary": "",
+            "published_utc": "2026-06-12T09:27:08+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Oracle PeopleSoft zero‑day fuels ShinyHunters extortion spree",
+            "link": "https://www.csoonline.com/article/4184408/oracle-peoplesoft-zero%e2%80%91day-fuels-shinyhunters-extortion-spree.html",
+            "summary": "",
+            "published_utc": "2026-06-12T09:05:14+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "AI is exposing the biggest weakness in cybersecurity: We never built a health model. Until now!",
+            "link": "https://www.csoonline.com/article/4184138/ai-is-exposing-the-biggest-weakness-in-cybersecurity-we-never-built-a-health-model-until-now.html",
+            "summary": "",
+            "published_utc": "2026-06-12T09:00:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "9 Google Messages settings I change on every new Android phone - and why",
@@ -171,16 +262,16 @@
         },
         {
             "source": "ZDNet Security",
-            "title": "Best Buy has better gaming deals right now than Amazon's early Prime Day sale",
-            "link": "https://www.zdnet.com/article/best-buy-gaming-deals-amazon-prime-day-2026/",
-            "summary": "Disappointed in Amazon's selection of gaming deals ahead of the Prime Day 2026 sale? Best Buy has you covered.",
+            "title": "Microsoft patches record 206 Windows bugs in June update - and 3 are zero days",
+            "link": "https://www.zdnet.com/article/microsofts-june-windows-update-fixes-198-bugs-install-patch-asap/",
+            "summary": "Among the 206 vulnerabilities are 32 critical ones and three publicly disclosed zero-day flaws, so you'll want to install this update ASAP.",
             "published_utc": "2026-06-11T14:02:00+00:00"
         },
         {
             "source": "ZDNet Security",
-            "title": "Microsoft patches record 206 Windows bugs in June update - and 3 are zero days",
-            "link": "https://www.zdnet.com/article/microsofts-june-windows-update-fixes-198-bugs-install-patch-asap/",
-            "summary": "Among the 206 vulnerabilities are 32 critical ones and three publicly disclosed zero-day flaws, so you'll want to install this update ASAP.",
+            "title": "Best Buy has better gaming deals right now than Amazon's early Prime Day sale",
+            "link": "https://www.zdnet.com/article/best-buy-gaming-deals-amazon-prime-day-2026/",
+            "summary": "Disappointed in Amazon's selection of gaming deals ahead of the Prime Day 2026 sale? Best Buy has you covered.",
             "published_utc": "2026-06-11T14:02:00+00:00"
         },
         {
@@ -210,13 +301,6 @@
             "link": "https://www.securityweek.com/alert-fatigue-is-becoming-a-security-threat-of-its-own/",
             "summary": "",
             "published_utc": "2026-06-11T13:45:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "12 home solar power myths you shouldn't fall for in 2026",
-            "link": "https://www.zdnet.com/article/home-solar-power-myths-debunked/",
-            "summary": "Knowing the facts on home solar power can help you make informed choices, save money, and stay safe.",
-            "published_utc": "2026-06-11T13:20:24+00:00"
         },
         {
             "source": "CSO Online",
@@ -268,32 +352,11 @@
             "published_utc": "2026-06-11T11:52:59+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Siemens Says Desigo CC Files Flagged as Malware by Security Engines",
-            "link": "https://www.securityweek.com/siemens-says-desigo-cc-files-flagged-as-malware-by-security-engines/",
-            "summary": "",
-            "published_utc": "2026-06-11T11:40:27+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "FBI Seizes 13 Websites That Officials Say Were Used by China to Target and Recruit US Workers",
-            "link": "https://www.securityweek.com/fbi-seizes-13-websites-that-officials-say-were-used-by-china-to-target-and-recruit-us-workers/",
-            "summary": "",
-            "published_utc": "2026-06-11T11:06:22+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Enhanced License Plate Tracking",
             "link": "https://www.schneier.com/blog/archives/2026/06/enhanced-license-plate-tracking.html",
             "summary": "",
             "published_utc": "2026-06-11T11:01:19+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Splunk, Palo Alto Networks Patch Severe Vulnerabilities",
-            "link": "https://www.securityweek.com/splunk-palo-alto-networks-patch-severe-vulnerabilities/",
-            "summary": "",
-            "published_utc": "2026-06-11T10:47:48+00:00"
         },
         {
             "source": "CSO Online",
@@ -308,20 +371,6 @@
             "link": "https://www.csoonline.com/article/4184043/china-linked-recon-botnet-outpaces-enterprise-defenses.html",
             "summary": "",
             "published_utc": "2026-06-11T09:57:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Buying a school laptop? 4 things I'd consider first (and my top 10 picks)",
-            "link": "https://www.zdnet.com/article/how-to-pick-a-laptop-for-college/",
-            "summary": "Your laptop can make or break or time in college, so you want to make sure you get the right one. Here's what to consider.",
-            "published_utc": "2026-06-11T09:30:15+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The best time-tracking software of 2026: Expert tested",
-            "link": "https://www.zdnet.com/article/best-time-tracking-software/",
-            "summary": "We tested Toggl Track, Timely, 7pace, QuickBooks Time, and ActivityWatch to find the best time-tracking tools for freelancers and remote teams.",
-            "published_utc": "2026-06-11T09:00:43+00:00"
         },
         {
             "source": "CSO Online",
@@ -373,13 +422,6 @@
             "published_utc": "2026-06-11T00:46:50+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Alpine Linux is a crazy-fast distro for your desktop - with just one caveat",
-            "link": "https://www.zdnet.com/article/alpine-linux-crazy-fast-distro-for-your-desktop/",
-            "summary": "Known primarily for containers and servers, Alpine Linux isn't always considered for traditional desktop use. I think this lightweight distro could be...",
-            "published_utc": "2026-06-11T00:00:39+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Path traversal flaw in AI dev platform Langflow exploited in attacks",
             "link": "https://www.bleepingcomputer.com/news/security/path-traversal-flaw-in-ai-dev-platform-langflow-exploited-in-attacks/",
@@ -401,13 +443,6 @@
             "published_utc": "2026-06-10T20:28:58+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "The ‘Miasma’ worm source code briefly leaked on GitHub",
-            "link": "https://www.bleepingcomputer.com/news/security/the-miasma-worm-source-code-briefly-leaked-on-github/",
-            "summary": "The Miasma credential-stealing attack framework, which has recently targeted open-source ecosystems through supply-chain attacks, was briefly open-sou...",
-            "published_utc": "2026-06-10T20:27:08+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "CISA tells agencies to patch smarter, not harder — foreshadowing broader industry practice",
             "link": "https://www.csoonline.com/article/4183750/cisa-tells-agencies-to-patch-smarter-not-harder-foreshadowing-broader-industry-practice.html",
@@ -420,13 +455,6 @@
             "link": "https://www.csoonline.com/article/4183735/ivanti-patches-critical-sentry-flaws-that-lead-to-full-device-takeover.html",
             "summary": "",
             "published_utc": "2026-06-10T20:13:17+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "GitHub announces npm security changes to tackle supply-chain attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/github-announces-npm-security-changes-to-tackle-supply-chain-attacks/",
-            "summary": "GitHub has announced that npm v12, expected next month, will introduce several security-focused changes aimed at blocking supply-chain attacks abusing...",
-            "published_utc": "2026-06-10T19:41:44+00:00"
         },
         {
             "source": "CSO Online",
@@ -555,32 +583,11 @@
             "published_utc": "2026-06-09T11:59:17+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Security shifts to the human layer as AI scams surge",
-            "link": "https://www.csoonline.com/article/4182881/security-shifts-to-the-human-layer-as-ai-scams-surge.html",
-            "summary": "",
-            "published_utc": "2026-06-09T11:06:01+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "AI worm prototype shows attackers don’t need Mythos to take over your network",
-            "link": "https://www.csoonline.com/article/4181924/ai-worm-prototype-shows-attackers-dont-need-mythos-to-take-over-your-network.html",
-            "summary": "",
-            "published_utc": "2026-06-09T09:00:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "Cybercriminals: the 'auditors' you never hired",
             "link": "https://www.welivesecurity.com/en/business-security/cybercriminals-auditors-never-hired/",
             "summary": "Every organisation gets audited. The question is who does the auditing.",
             "published_utc": "2026-06-09T08:50:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Meet Hades: The malware that lies to AI security agents",
-            "link": "https://www.csoonline.com/article/4182707/meet-hades-the-malware-that-lies-to-ai-security-agents-2.html",
-            "summary": "",
-            "published_utc": "2026-06-09T05:10:14+00:00"
         },
         {
             "source": "WIRED Security",
@@ -672,13 +679,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/06/the-intersection-of-encryption-and-ai.html",
             "summary": "",
             "published_utc": "2026-06-02T11:06:25+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Microsoft Threatening Security Researcher",
-            "link": "https://www.schneier.com/blog/archives/2026/06/microsoft-threatening-security-researcher.html",
-            "summary": "",
-            "published_utc": "2026-06-02T11:00:42+00:00"
         },
         {
             "source": "WIRED Security",
