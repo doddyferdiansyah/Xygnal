@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2026-06-12T16:19:27.701377+00:00",
+    "lastUpdatedUTC": "2026-06-12T19:05:58.062005+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "phpBB forum fixes auth bypass bug lurking for a decade",
+            "link": "https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/",
+            "summary": "A 10-year-old authentication bypass vulnerability discovered in the phpBB forum software allows an attacker to log in as any user, including administr...",
+            "published_utc": "2026-06-12T18:19:34+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "This free Android app turned my phone into a 35-tool measuring tool - and I tested everything",
+            "link": "https://www.zdnet.com/article/phyphox-science-lab-free-android-app-hands-on/",
+            "summary": "Phyphox can do so much that explaining it all would take hours. The real fun starts once you begin testing the world around you.",
+            "published_utc": "2026-06-12T18:07:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Ukrainian national pleads guilty to role in Conti ransomware operation",
+            "link": "https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/",
+            "summary": "A Ukrainian national extradited from Ireland to the United States last year has pleaded guilty to conspiracy charges tied to the Conti ransomware oper...",
+            "published_utc": "2026-06-12T17:54:28+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Over 400 Arch Linux packages compromised to push rootkit, infostealer",
+            "link": "https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/",
+            "summary": "More than 400 packages in the Arch User Repository (AUR) are distributing a Linux rootkit and infostealer malware targeting credentials and access tok...",
+            "published_utc": "2026-06-12T17:03:55+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Claude Fable 5 secretly throttled AI researchers, and the internet went wild",
+            "link": "https://www.zdnet.com/article/claude-fable-5-secretly-throttled/",
+            "summary": "Claude Fable 5 gave users access to Mythos-class power, but its hidden safeguards turned a safety feature into a trust problem for Anthropic.",
+            "published_utc": "2026-06-12T17:03:00+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "In Other News: Google Security Layoffs, AudiA6 Takedown, $400 Million Coupang Fine",
@@ -34,7 +69,7 @@
             "title": "Your iPhone is getting enhanced Bluetooth tracking with iOS 27 - but there's a catch",
             "link": "https://www.zdnet.com/article/iphone-enhanced-bluetooth-tracking-with-ios-27-theres-a-catch/",
             "summary": "One less-discussed iOS 27 feature announced at Apple's WWDC is support for Channel Sounding. Look for it whenever you see Bluetooth 6.3 devices.",
-            "published_utc": "2026-06-12T15:37:21+00:00"
+            "published_utc": "2026-06-12T15:37:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -310,20 +345,6 @@
             "published_utc": "2026-06-11T17:35:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "10 useful smart home gadgets that make life so much easier (and are affordable)",
-            "link": "https://www.zdnet.com/article/smart-home-on-a-budget-2026/",
-            "summary": "After testing hundreds of smart home devices, I rounded up the best options to get started with your smart home without breaking the bank.",
-            "published_utc": "2026-06-11T17:11:15+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How to watch the FIFA World Cup 2026: I found 10 ways to stream (including free options)",
-            "link": "https://www.zdnet.com/article/how-to-watch-the-world-cup-2026/",
-            "summary": "One of the biggest sporting events of all time kicks off this week - and you don't need an expensive cable package to watch.",
-            "published_utc": "2026-06-11T16:56:00+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "Drug Sites Hijacked Spotify’s Search Ranking Through Fake Podcasts",
             "link": "https://www.wired.com/story/drug-sites-hijacked-spotifys-search-ranking-through-fake-podcasts-report-finds/",
@@ -478,27 +499,6 @@
             "published_utc": "2026-06-11T08:45:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Microsoft fixes BitLocker recovery bug on Windows Server 2025",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-bug-on-windows-server-2025/",
-            "summary": "Microsoft has resolved a known issue causing some Windows Server 2025 devices to boot into BitLocker recovery after installing the April 2026 security...",
-            "published_utc": "2026-06-11T08:44:22+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Nottingham University data breach affects over 450,000 students",
-            "link": "https://www.bleepingcomputer.com/news/security/nottingham-university-data-breach-affects-over-450-000-students/",
-            "summary": "The University of Nottingham confirmed on Wednesday that a hacking group gained access to its student records system in a breach affecting both curren...",
-            "published_utc": "2026-06-11T07:27:53+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Max severity Ivanti Sentry vulnerability now exploited in attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks/",
-            "summary": "Attackers are now targeting a recently patched maximum-severity flaw in Ivanti Sentry, enabling them to execute code with root privileges on Internet-...",
-            "published_utc": "2026-06-11T06:20:22+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "GitHub finally pulls the plug on automatic install script execution for npm",
             "link": "https://www.csoonline.com/article/4183859/github-finally-pulls-the-plug-on-automatic-install-script-execution-for-npm-2.html",
@@ -612,16 +612,16 @@
         },
         {
             "source": "WIRED Security",
-            "title": "Mapping Every Flock License Plate Reader Near US World Cup Stadiums",
-            "link": "https://www.wired.com/story/us-world-cup-2026-alpr-camera-stadiums/",
-            "summary": "Most US World Cup stadiums are surrounded by surveillance cameras. Want to know if you’re being watched on your way to a match? These maps will help you.",
+            "title": "Soccer Fans, You’re Being Watched",
+            "link": "https://www.wired.com/story/soccer-world-cup-biometric-surveillance/",
+            "summary": "From anti-drone tech to face recognition, 2026 World Cup stadiums in the US, Canada, and Mexico are subjecting fans to an array of surveillance tech. ...",
             "published_utc": "2026-06-10T10:00:00+00:00"
         },
         {
             "source": "WIRED Security",
-            "title": "Soccer Fans, You’re Being Watched",
-            "link": "https://www.wired.com/story/soccer-world-cup-biometric-surveillance/",
-            "summary": "From anti-drone tech to face recognition, 2026 World Cup stadiums in the US, Canada, and Mexico are subjecting fans to an array of surveillance tech. ...",
+            "title": "Mapping Every Flock License Plate Reader Near US World Cup Stadiums",
+            "link": "https://www.wired.com/story/us-world-cup-2026-alpr-camera-stadiums/",
+            "summary": "Most US World Cup stadiums are surrounded by surveillance cameras. Want to know if you’re being watched on your way to a match? These maps will help you.",
             "published_utc": "2026-06-10T10:00:00+00:00"
         },
         {
