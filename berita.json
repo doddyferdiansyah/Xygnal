@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2026-06-15T18:28:07.987401+00:00",
+    "lastUpdatedUTC": "2026-06-15T21:44:06.544774+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "SimpleHelp bug lets hackers create rogue remote support accounts",
+            "link": "https://www.bleepingcomputer.com/news/security/simplehelp-bug-lets-hackers-create-rogue-remote-support-accounts/",
+            "summary": "A vulnerability in the SimpleHelp remote management software allows unauthenticated attackers to create privileged technician accounts on servers usin...",
+            "published_utc": "2026-06-15T20:06:52+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "iOS 27 envy? 4 features you can already use on an Android phone (including Samsung models)",
+            "link": "https://www.zdnet.com/article/android-has-ios-27-features-but-i-want-these-next/",
+            "summary": "If you're a believer in 'Android had it first,' wait until you see iOS 27.",
+            "published_utc": "2026-06-15T19:57:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "What the robot mower brands aren't telling you about their specs - and which ones are actually useful",
+            "link": "https://www.zdnet.com/article/robot-mower-buying-guide-features-to-ignore-2026/",
+            "summary": "Robot mowers aren't one-size-fits-all devices - many have overhyped specs you don't even need. Here's my advice after years of testing.",
+            "published_utc": "2026-06-15T19:25:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "25,000 miles later, my favorite Apple CarPlay apps remain functional, reliable, and mostly free",
+            "link": "https://www.zdnet.com/article/carplay-best-apps-after-25000-miles-last-year/",
+            "summary": "I drove over 25,000 miles in the past year alone with CarPlay running in the background. These apps made every ride easy.",
+            "published_utc": "2026-06-15T19:10:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How to watch the FIFA World Cup 2026 today: 10 ways to stream (including free options)",
+            "link": "https://www.zdnet.com/article/how-to-watch-the-world-cup-2026/",
+            "summary": "One of the biggest sporting events of all time is here - and you don't need an expensive cable package to watch.",
+            "published_utc": "2026-06-15T18:49:09+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "How to download the iOS 27 developer beta (and which iPhone models support it)",
@@ -178,31 +213,10 @@
         },
         {
             "source": "ZDNet Security",
-            "title": "Android already has these 4 iOS 27 features - but I wish it'd steal these 2 next",
-            "link": "https://www.zdnet.com/article/android-has-ios-27-features-but-i-want-these-next/",
-            "summary": "If you're a believer in 'Android had it first,' wait until you see iOS 27.",
-            "published_utc": "2026-06-15T13:34:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
             "title": "Windows Subsystem for Linux 3 gives developers a compelling reason to stick with Microsoft - here's why",
             "link": "https://www.zdnet.com/article/windows-subsystem-for-linux-3-for-developers-sticking-with-microsoft/",
             "summary": "WSL 3 makes staying on Windows easier, especially for developers building or running Linux-based AI, container, or dev workloads.",
             "published_utc": "2026-06-15T13:21:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Google Maps vs. Waze: I've driven 100+ miles with the two best navigation apps - this one's better",
-            "link": "https://www.zdnet.com/article/google-maps-vs-waze-compared-2026/",
-            "summary": "Waze is ideal for quick reroutes and real-time alerts, while Google Maps offers deeper Gemini integration and more features. Here's my choice.",
-            "published_utc": "2026-06-15T13:17:41+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "This 15-in-1 docking station did more than add ports - it finally brought order to my desk",
-            "link": "https://www.zdnet.com/article/baseus-spacemate-rd1-pro-15-in-1-review/",
-            "summary": "The Baseus Spacemate RD1 Pro has unique features that make it the centerpiece of a modern workstation.",
-            "published_utc": "2026-06-15T13:00:43+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -224,13 +238,6 @@
             "link": "https://www.csoonline.com/article/4185063/langflow-rce-under-active-attack-months-after-a-patch-was-shipped.html",
             "summary": "",
             "published_utc": "2026-06-15T12:48:31+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I installed a $17 solar panel onto my doorbell camera, and it's easily my best smart home investment",
-            "link": "https://www.zdnet.com/article/everexceed-5v-solar-panel-review/",
-            "summary": "I didn't think that this would work, but the EverExceed 5V solar panel has done wonders for my security cameras.",
-            "published_utc": "2026-06-15T12:45:43+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -413,13 +420,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/",
             "summary": "Maine has taken its public data breach reporting portal offline after fraudulent breach disclosures were published on the state's website, prompting a...",
             "published_utc": "2026-06-12T19:33:32+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "phpBB forum fixes auth bypass bug lurking for a decade",
-            "link": "https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/",
-            "summary": "A 10-year-old authentication bypass vulnerability discovered in the phpBB forum software allows an attacker to log in as any user, including administr...",
-            "published_utc": "2026-06-12T18:19:34+00:00"
         },
         {
             "source": "CSO Online",
