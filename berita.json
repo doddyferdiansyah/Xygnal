@@ -1,6 +1,258 @@
 {
-    "lastUpdatedUTC": "2026-06-16T10:08:33.287442+00:00",
+    "lastUpdatedUTC": "2026-06-16T15:55:23.622532+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "Amazon just dropped this 55-inch QLED TV to under $300 - and I highly recommend it",
+            "link": "https://www.zdnet.com/article/amazon-fire-tv-omni-qled-4k-amazon-prime-day-deal-2026/",
+            "summary": "Only $280 gets you a 55-inch Amazon Fire TV Omni QLED Series with this great early Prime Day deal.",
+            "published_utc": "2026-06-16T15:42:43+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "KDE Plasma 6.7 might be a point release - but it's packed with new features",
+            "link": "https://www.zdnet.com/article/kde-plasma-6-7/",
+            "summary": "The latest release of one of the finest desktop environments on the market is here, and there's plenty to be excited about.",
+            "published_utc": "2026-06-16T15:31:51+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Immutable Linux distros always frustrated me for one reason - until RakuOS",
+            "link": "https://www.zdnet.com/article/rakuos-fixes-my-biggest-problem-with-immutable-linux-distros/",
+            "summary": "Immutable Linux is the future of OS security, but the current distributions do have one particular limitation that RakuOS has resolved.",
+            "published_utc": "2026-06-16T15:30:40+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How to prevent your Android phone keyboard from tracking you: 2 options",
+            "link": "https://www.zdnet.com/article/how-to-prevent-your-android-phone-keyboard-from-tracking-you/",
+            "summary": "Your Android keyboard may be collecting more than you realize. Here are two ways to take back your privacy, but I only trust one.",
+            "published_utc": "2026-06-16T15:07:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "iRhythm Confirms Data Stolen in Hack",
+            "link": "https://www.securityweek.com/irhythm-confirms-data-stolen-in-hack/",
+            "summary": "",
+            "published_utc": "2026-06-16T15:06:24+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I've been testing iOS 27, and these 5 overlooked features make even older iPhones better",
+            "link": "https://www.zdnet.com/article/ios-27-overlooked-features-improve-old-iphones/",
+            "summary": "Beyond the flashy new upgrades, iOS 27 has several lesser-known changes that also work on older iPhones.",
+            "published_utc": "2026-06-16T14:54:12+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Your wall outlets are seriously underutilized: 7 plug-in gadgets that elevate any home",
+            "link": "https://www.zdnet.com/article/best-wall-outlet-gadgets/",
+            "summary": "These plug-in gadgets easily enhance your home's routine (and they're affordable).",
+            "published_utc": "2026-06-16T14:49:27+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "UK to require ID or face scan before you can make social media accounts",
+            "link": "https://www.bleepingcomputer.com/news/security/uk-to-require-id-or-face-scan-before-you-can-make-social-media-accounts/",
+            "summary": "Opening a new social media account in the UK will soon mean proving you're over 16 with an ID upload or a facial age scan, under a government ban on u...",
+            "published_utc": "2026-06-16T14:38:49+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "SprySOCKS Backdoor Expands From Linux to Windows",
+            "link": "https://www.infosecurity-magazine.com/news/sprysocks-backdoor-windows/",
+            "summary": "China-linked SprySOCKS backdoor gains stealthy Windows variants and 30-plus C2 commands",
+            "published_utc": "2026-06-16T14:30:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Hacker Conversations: Isira Adithya, the Evolution of an Ethical Hacker",
+            "link": "https://www.securityweek.com/hacker-conversations-isira-adithya-the-evolution-of-an-ethical-hacker/",
+            "summary": "",
+            "published_utc": "2026-06-16T14:27:45+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "15 of the best Prime Day laptop deals (I'd actually buy myself)",
+            "link": "https://www.zdnet.com/article/best-early-amazon-prime-day-laptop-deals-2026/",
+            "summary": "Prime Day is earlier this year, so I've rounded up some of the best early laptop deals live now, including the latest MacBooks and gaming laptops.",
+            "published_utc": "2026-06-16T14:25:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "GhostTree Attack Abused Recursive Windows Junctions to Hide Malware",
+            "link": "https://www.bleepingcomputer.com/news/security/ghosttree-attack-abused-recursive-windows-junctions-to-hide-malware/",
+            "summary": "GhostTree uses recursive NTFS junctions to generate vast numbers of valid Windows file paths. Varonis explains how the technique could cause Microsoft...",
+            "published_utc": "2026-06-16T14:17:27+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Linux 7.1 is here to end the Intel 486 CPU era - and do some serious legacy clean up",
+            "link": "https://www.zdnet.com/article/say-goodbye-to-486-processors-linux-7-1-lands/",
+            "summary": "And say hello to much better NTFS support. Linux creator Linus Torvalds has announced the release of Linux 7.1.",
+            "published_utc": "2026-06-16T14:12:16+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "3 unofficial Android Auto apps I installed to make my car screen more useful - and how",
+            "link": "https://www.zdnet.com/article/3-of-my-favorite-sideloaded-android-auto-apps/",
+            "summary": "You can add YouTube, web browsing, and more to your car by sideloading apps.",
+            "published_utc": "2026-06-16T13:59:06+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I tested fast chargers with the best iPhone, Samsung, and OnePlus phones - and two surprised me",
+            "link": "https://www.zdnet.com/article/i-tested-fast-chargers-with-best-iphone-samsung-oneplus-phones/",
+            "summary": "Phone makers love to advertise fast-charging speeds. I tested three flagship phones with OEM and Anker chargers to see what their claims really mean.",
+            "published_utc": "2026-06-16T13:54:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "FTC warns of record $3.5 billion losses to imposter scams in 2025",
+            "link": "https://www.bleepingcomputer.com/news/security/ftc-warns-of-record-35-billion-losses-to-imposter-scams-in-2025/",
+            "summary": "The U.S. Federal Trade Commission (FTC) warned that Americans lost $3.5 billion to imposter scams in 2025, with reported losses nearly tripling since ...",
+            "published_utc": "2026-06-16T13:42:19+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Sony WH-1000XM6 vs. Sennheiser Momentum 5: I've tested both pairs for months, and this one wins",
+            "link": "https://www.zdnet.com/article/sennheiser-momentum-5-vs-sony-wh-1000xm6/",
+            "summary": "Sony's and Sennheiser's flagship headphones are objectively good, but how you plan to use them determines whether they're great.",
+            "published_utc": "2026-06-16T13:42:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Magnitude Emerges From Stealth Mode With $10 Million in Funding",
+            "link": "https://www.securityweek.com/magnitude-emerges-from-stealth-mode-with-10-million-in-funding/",
+            "summary": "",
+            "published_utc": "2026-06-16T13:34:57+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "AI and Cybersecurity – Everything You Wanted to Know, But Were Afraid to Ask",
+            "link": "https://www.securityweek.com/ai-and-cybersecurity-everything-you-wanted-to-know-but-were-afraid-to-ask/",
+            "summary": "",
+            "published_utc": "2026-06-16T13:15:34+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Rokarolla Trojan Combines Banking Fraud With Device Surveillance",
+            "link": "https://www.infosecurity-magazine.com/news/rokarolla-android-banking-trojan/",
+            "summary": "Rokarolla Android trojan steals banking logins and spies on victims while blocking fraud alerts",
+            "published_utc": "2026-06-16T13:15:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Endpoint Security Startup Ent Emerges From Stealth With $100 Million Seed Round",
+            "link": "https://www.securityweek.com/endpoint-security-startup-ent-emerges-from-stealth-with-100-million-seed-round/",
+            "summary": "",
+            "published_utc": "2026-06-16T12:53:19+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Cybercrime Group Claims Novo Nordisk Hack",
+            "link": "https://www.securityweek.com/cybercrime-group-claims-novo-nordisk-hack/",
+            "summary": "",
+            "published_utc": "2026-06-16T12:32:27+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Chainguard's new Athena coalition uses AI to fix open-source flaws - before attackers exploit them",
+            "link": "https://www.zdnet.com/article/chainguard-athena-coalition-fixes-open-source-flaws-before-ai-attackers-exploit/",
+            "summary": "Open-source security has a new AI problem. But Chainguard has a plan, and plenty of friends, to help",
+            "published_utc": "2026-06-16T12:22:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Can CISOs Trust Their Applications? TrustCloud Wants to Replace the Questionnaire",
+            "link": "https://www.securityweek.com/can-cisos-trust-their-applications-trustcloud-wants-to-replace-the-questionnaire/",
+            "summary": "",
+            "published_utc": "2026-06-16T12:15:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Over Two-Thirds of Security Pros Say Cyber Is Getting Harder",
+            "link": "https://www.infosecurity-magazine.com/news/security-pros-cyber-cyber-harder/",
+            "summary": "ISSA study finds most security professionals feel challenged by colleagues’ involvement in cyber",
+            "published_utc": "2026-06-16T12:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Cal Water Investigating Iranian Hackers’ Claims",
+            "link": "https://www.securityweek.com/cal-water-investigating-iranian-hackers-claims/",
+            "summary": "",
+            "published_utc": "2026-06-16T11:53:11+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "China-linked hackers target US, Canada research using legacy REDCap exploits",
+            "link": "https://www.csoonline.com/article/4185582/china-linked-hackers-target-us-canada-research-using-legacy-redcap-exploits.html",
+            "summary": "",
+            "published_utc": "2026-06-16T11:48:36+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "White House Issues Memo to Bolster NSS Cybersecurity",
+            "link": "https://www.securityweek.com/white-house-issues-memo-to-bolster-nss-cybersecurity/",
+            "summary": "",
+            "published_utc": "2026-06-16T11:41:46+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "DragonForce Ransomware Exploited Microsoft Teams to Hide in Attack Against Major Company",
+            "link": "https://www.infosecurity-magazine.com/news/dragonforce-ransomware-hidden/",
+            "summary": "Command and control traffic exploited a Teams visitor token to make malicious activity look legitimate to defenders",
+            "published_utc": "2026-06-16T11:30:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "7 cost-efficient ways I made my TV sound a lot better (no soundbar required)",
+            "link": "https://www.zdnet.com/article/how-to-fix-tv-audio-sound/",
+            "summary": "Getting great sound from your TV doesn't have to cost an arm and a leg. These are my expert-vetted audio tweaks.",
+            "published_utc": "2026-06-16T11:15:44+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Flock Cameras Are Being Used for Stalking",
+            "link": "https://www.schneier.com/blog/archives/2026/06/flock-cameras-are-being-used-for-stalking.html",
+            "summary": "",
+            "published_utc": "2026-06-16T11:03:31+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Chainguard, JPMorgan, BNY Team Up to Secure Open Source from AI Threats",
+            "link": "https://www.infosecurity-magazine.com/news/chainguard-bny-open-source-athena/",
+            "summary": "Athena is a new an industry coalition to fix the vulnerabilities frontier AI models find before attackers can exploit them",
+            "published_utc": "2026-06-16T11:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Atomic Arch Supply Chain Attack Hits 1,500 AUR Packages",
+            "link": "https://www.securityweek.com/atomic-arch-supply-chain-attack-hits-1500-aur-packages/",
+            "summary": "",
+            "published_utc": "2026-06-16T10:51:49+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "CISA warns of another cPanel plugin flaw exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-another-actively-exploited-cpanel-plugin-flaw/",
+            "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has given U.S. government agencies three days to secure their servers against an acti...",
+            "published_utc": "2026-06-16T10:47:59+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I tested a Bluetooth tracker that leverages LoRa mesh networks to find things - and it's so accurate",
+            "link": "https://www.zdnet.com/article/sensecap-t1000-e-tracker-card-airtag-alternative-review/",
+            "summary": "Seeed Studio's SenseCAP T1000-E tracker card also doesn't use cell towers or Wi-Fi. Here's how.",
+            "published_utc": "2026-06-16T10:30:51+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Ransomware gang abuses Microsoft Teams relays to hide malicious traffic",
+            "link": "https://www.bleepingcomputer.com/news/security/ransomware-gang-abuses-microsoft-teams-relays-to-hide-malicious-traffic/",
+            "summary": "DragonForce ransomware used a custom malware named 'Backdoor.Turn' to hide command-and-control traffic inside Microsoft Teams relay infrastructure. [...]",
+            "published_utc": "2026-06-16T10:18:48+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Get Audible for 3 months totally free - here's how",
@@ -14,13 +266,6 @@
             "link": "https://www.csoonline.com/article/4185525/cisco-sd-wan-flaw-puts-spotlight-on-enterprise-management-plane-risk.html",
             "summary": "",
             "published_utc": "2026-06-16T09:45:16+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Tech Coalition ‘Athena’ Targets OSS Vulnerabilities Ahead of Disclosure",
-            "link": "https://www.securityweek.com/tech-coalition-athena-targets-oss-vulnerabilities-ahead-of-disclosure/",
-            "summary": "",
-            "published_utc": "2026-06-16T09:39:47+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -56,13 +301,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/irhythm-discloses-data-breach-says-hackers-stole-patient-info/",
             "summary": "Digital healthcare company iRhythm Holdings has disclosed a data breach after hackers stole patients' personal and health information stored on third-...",
             "published_utc": "2026-06-16T06:31:59+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Cisco Patches Another SD-WAN Zero-Day Exploited in Attacks",
-            "link": "https://www.securityweek.com/cisco-patches-another-sd-wan-zero-day-exploited-in-attacks/",
-            "summary": "",
-            "published_utc": "2026-06-16T06:20:18+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -114,46 +352,11 @@
             "published_utc": "2026-06-15T19:10:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "How to watch the FIFA World Cup 2026 today: 10 ways to stream (including free options)",
-            "link": "https://www.zdnet.com/article/how-to-watch-the-world-cup-2026/",
-            "summary": "One of the biggest sporting events of all time is here - and you don't need an expensive cable package to watch.",
-            "published_utc": "2026-06-15T18:49:09+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How to download the iOS 27 developer beta (and which iPhone models support it)",
-            "link": "https://www.zdnet.com/article/how-to-download-ios-27-developer-beta/",
-            "summary": "Apple's WWDC 2026 was full of updates for the overall iPhone user experience -  here's how you can try iOS 27 early for free.",
-            "published_utc": "2026-06-15T18:04:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "6 Android Auto apps I wish I discovered sooner, because they make driving much easier",
-            "link": "https://www.zdnet.com/article/6-android-auto-apps-i-wish-i-found-sooner/",
-            "summary": "If you're only using Android Auto for basic navigation and music, you're missing out on some useful add-ons.",
-            "published_utc": "2026-06-15T18:03:15+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Your TV's RS-232 port is a seriously useful automation tool - how to unlock its full potential",
-            "link": "https://www.zdnet.com/article/what-is-the-tvs-rss232-serial-port-and-what-it-can-do/",
-            "summary": "The RS-232 serial port on your smart TV isn't just for professional diagnostics. Here's how to unlock it for more advanced programming.",
-            "published_utc": "2026-06-15T18:00:43+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "OptinMonster WordPress plugin hacked in CDN supply-chain attack",
             "link": "https://www.bleepingcomputer.com/news/security/optinmonster-wordpress-plugin-hacked-in-cdn-supply-chain-attack/",
             "summary": "WordPress plugins OptinMonster, TrustPulse, and PushEngage have been compromised in a supply-chain attack impacting Awesome Motive-s content distribut...",
             "published_utc": "2026-06-15T17:37:07+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How much RAM does your PC need in 2026? My advice after using Windows and Mac for years",
-            "link": "https://www.zdnet.com/article/how-much-ram-pc-mac-2026/",
-            "summary": "Considering a PC upgrade, but not sure about how much RAM to buy? Here's how I make that decision in the current climate.",
-            "published_utc": "2026-06-15T17:33:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -163,25 +366,11 @@
             "published_utc": "2026-06-15T17:12:42+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "5 best Prime Day Anker deals: Chargers, power stations, and more we recommend",
-            "link": "https://www.zdnet.com/article/best-anker-deals-amazon-prime-day-2026/",
-            "summary": "Our editors love Anker products for their reliability and affordability - especially when they're on sale for Prime Day.",
-            "published_utc": "2026-06-15T17:05:55+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Attackers Hijack Popular WordPress Plugins to Deploy Backdoors",
             "link": "https://www.infosecurity-magazine.com/news/wordpress-plugin-supply-chain/",
             "summary": "Tampered OptinMonster and sister plugins plant hidden backdoors on 1.2 million WordPress sites",
             "published_utc": "2026-06-15T17:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "RefreshOS is a top contender for new Linux users - here's why",
-            "link": "https://www.zdnet.com/article/refreshos-is-one-of-the-most-polished-linux-distributions-ive-used/",
-            "summary": "There are so many great Linux distributions that are perfectly suitable for new users, but RefreshOS is quickly rising to the top of my list.",
-            "published_utc": "2026-06-15T16:41:36+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -191,32 +380,11 @@
             "published_utc": "2026-06-15T16:37:11+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I made 4 tweaks to my TV soundbar for drastically-improved audio when watching sports",
-            "link": "https://www.zdnet.com/article/soundbar-settings-sports-tips/",
-            "summary": "Some of your favorite soundbar settings for music and movies aren't compatible with live sports broadcasts. Here's the fix.",
-            "published_utc": "2026-06-15T16:20:43+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Adriatic Port Cyber-Attack by Anubis Sparks Warning Over Maritime Security Risks",
             "link": "https://www.infosecurity-magazine.com/news/anubis-ransomware-adriatic-port/",
             "summary": "How the Anubis ransomware group stole and leaked an Italian Adriatic port authority's data",
             "published_utc": "2026-06-15T16:15:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "My power station always has these 3 devices connected - here's why",
-            "link": "https://www.zdnet.com/article/3-things-i-keep-permanently-connected-to-a-power-station-and-why/",
-            "summary": "Here's how I leverage my power station's capabilities when it's not during an emergency.",
-            "published_utc": "2026-06-15T16:09:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Solid-state vs. graphene heat dissipation: Why my portable battery of choice is easy",
-            "link": "https://www.zdnet.com/article/momax-q-mag-x-magsafe-power-bank-review/",
-            "summary": "The Momax Q.Mag X is one of the more reliable wireless battery packs I've tried, thanks to its enhanced heat dissipation.",
-            "published_utc": "2026-06-15T15:45:49+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -226,74 +394,11 @@
             "published_utc": "2026-06-15T15:30:23+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "This curved Samsung monitor is perfect for a WFH setup - and it's on sale",
-            "link": "https://www.zdnet.com/article/samsung-essential-s3-amazon-prime-day-deal-2026/",
-            "summary": "Ahead of Prime Day, Samsung's highly rated 27-inch Essential S3 curved monitor has dropped back down to the lowest price of the year.",
-            "published_utc": "2026-06-15T15:26:23+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Container made it easy to run Linux on my MacBook - here's how I set it up",
-            "link": "https://www.zdnet.com/article/container-makes-it-easy-to-run-linux-on-apple-silicon/",
-            "summary": "If you're looking to get into developing for Linux, but you prefer using a Mac as your developer tool of choice, there's a new command-line tool that ...",
-            "published_utc": "2026-06-15T15:19:48+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Ransomware Attack Shuts Down Mills of Australia’s Second-Largest Sugar Producer",
-            "link": "https://www.securityweek.com/ransomware-attack-shuts-down-mills-of-australias-second-largest-sugar-producer/",
-            "summary": "",
-            "published_utc": "2026-06-15T15:15:55+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "6 underrated Android Auto apps that I heavily rely on during road trips - some are free",
-            "link": "https://www.zdnet.com/article/6-android-auto-apps-let-explore-the-outdoors/",
-            "summary": "Android Auto isn't just for city streets anymore. Here are the apps that help me get more done when I'm off the city path.",
-            "published_utc": "2026-06-15T14:48:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Amazon has slashed this Blink 5-camera bundle by nearly $200 - and I highly recommend it",
-            "link": "https://www.zdnet.com/article/blink-outdoor-4-amazon-prime-day-deal-2026/",
-            "summary": "Amazon Prime Day is near, and these five Blink Outdoor 4 security cameras are already on sale for $21 each - the lowest price I've ever seen.",
-            "published_utc": "2026-06-15T14:22:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Chinese Hackers Target Medical, Military, and AI Research in North America",
-            "link": "https://www.securityweek.com/chinese-hackers-target-medical-military-and-ai-research-in-north-america/",
-            "summary": "",
-            "published_utc": "2026-06-15T14:07:45+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Vibe coders are gonna vibe code: How CISOs are tackling code sprawl",
             "link": "https://www.bleepingcomputer.com/news/security/vibe-coders-are-gonna-vibe-code-how-cisos-are-tackling-code-sprawl/",
             "summary": "Employees are increasingly building automations, agents, and apps with AI tools outside traditional security oversight. Tines explores how CISOs are h...",
             "published_utc": "2026-06-15T14:01:11+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Chinese hackers breach REDCap servers, steal medical research",
-            "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-breach-redcap-servers-steal-medical-research/",
-            "summary": "A China-linked espionage campaign targeted exposed REDCap servers to deploy the InfiniteRed malware and steal sensitive data from a medical institutio...",
-            "published_utc": "2026-06-15T14:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "New attack turned Microsoft 365 Copilot into 1-click data theft tool",
-            "link": "https://www.bleepingcomputer.com/news/security/new-attack-turned-microsoft-365-copilot-into-1-click-data-theft-tool/",
-            "summary": "A critical vulnerability chain dubbed SearchLeak in Microsoft 365 Copilot Enterprise could allow attackers to steal sensitive data from a target's mai...",
-            "published_utc": "2026-06-15T13:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "NewCore Emerges From Stealth Mode With $66 Million in Funding",
-            "link": "https://www.securityweek.com/newcore-emerges-from-stealth-mode-with-66-million-in-funding/",
-            "summary": "",
-            "published_utc": "2026-06-15T13:00:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -303,53 +408,11 @@
             "published_utc": "2026-06-15T12:48:31+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Infinite Campus data breach affects 137,000 school staff accounts",
-            "link": "https://www.bleepingcomputer.com/news/security/infinite-campus-data-breach-affects-137-000-school-staff-accounts/",
-            "summary": "The ShinyHunters extortion gang stole personal information from more than 137,000 school staff accounts in a Salesforce data theft attack that targete...",
-            "published_utc": "2026-06-15T12:38:55+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Webinar: How behavioral AI stops phishing and account takeovers",
-            "link": "https://www.bleepingcomputer.com/news/security/webinar-how-behavioral-ai-stops-phishing-and-account-takeovers/",
-            "summary": "Modern phishing, BEC, and account takeover attacks increasingly bypass traditional email defenses and create operational strain for security teams. Th...",
-            "published_utc": "2026-06-15T12:12:20+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Attackers can turn AI agent guardrails into denial-of-service weapons",
             "link": "https://www.csoonline.com/article/4185051/attackers-can-turn-ai-agent-guardrails-into-denial-of-service-weapons.html",
             "summary": "",
             "published_utc": "2026-06-15T12:09:30+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Ukrainian Man Pleads Guilty in US to Conti Ransomware Charges",
-            "link": "https://www.securityweek.com/ukrainian-man-pleads-guilty-in-us-to-conti-ransomware-charges/",
-            "summary": "",
-            "published_utc": "2026-06-15T11:33:20+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Ozempic Maker Novo Nordisk Says Hackers Breached IT Systems",
-            "link": "https://www.securityweek.com/ozempic-maker-novo-nordisk-says-hackers-breached-it-systems/",
-            "summary": "",
-            "published_utc": "2026-06-15T11:17:21+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "French Government Messaging Platform Breached by Mysterious ‘Misere’ Hacker",
-            "link": "https://www.securityweek.com/french-government-messaging-platform-breached-by-mysterious-misere-hacker/",
-            "summary": "",
-            "published_utc": "2026-06-15T11:09:10+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "ShinyHunters Claims Council of Europe Hack",
-            "link": "https://www.securityweek.com/shinyhunters-claims-council-of-europe-hack/",
-            "summary": "",
-            "published_utc": "2026-06-15T10:44:29+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -364,13 +427,6 @@
             "link": "https://www.csoonline.com/article/4184637/governing-the-ghost-workforce.html",
             "summary": "",
             "published_utc": "2026-06-15T10:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "FBI, Google Dismantle ‘Outsider Enterprise’ Phishing Service",
-            "link": "https://www.securityweek.com/fbi-google-dismantle-outsider-enterprise-phishing-service/",
-            "summary": "",
-            "published_utc": "2026-06-15T09:31:14+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -420,13 +476,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/06/upcoming-speaking-engagements-57.html",
             "summary": "",
             "published_utc": "2026-06-14T16:07:31+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "FBI disrupts massive AI-powered phishing service using a million URLs",
-            "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-massive-ai-powered-phishing-service-using-a-million-urls/",
-            "summary": "In a coordinated effort, the FBI, working with Google and Black Lotus Labs, has dismantled a massive Chinese phishing-as-a-service operation called Ou...",
-            "published_utc": "2026-06-14T14:36:23+00:00"
         },
         {
             "source": "WIRED Security",
@@ -630,13 +679,6 @@
             "link": "https://www.welivesecurity.com/en/eset-research/oceanlotus-external-espionage-domestic-targeting/",
             "summary": "A shift in operational pattern of the infamous Vietnam-aligned APT group",
             "published_utc": "2026-06-11T08:45:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "GitHub finally pulls the plug on automatic install script execution for npm",
-            "link": "https://www.csoonline.com/article/4183859/github-finally-pulls-the-plug-on-automatic-install-script-execution-for-npm-2.html",
-            "summary": "",
-            "published_utc": "2026-06-11T00:46:50+00:00"
         },
         {
             "source": "WIRED Security",
@@ -896,13 +938,6 @@
             "link": "https://www.wired.com/story/security-news-this-week-crypto-funded-chinese-peptide-labs-are-booming/",
             "summary": "Plus: Hackers use Meta’s AI bots to hack Instagram accounts, Anthropic helps NSA hackers, a decades-long GPS satellite mystery may have been solved, a...",
             "published_utc": "2026-06-06T10:30:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "AI Worm",
-            "link": "https://www.schneier.com/blog/archives/2026/06/ai-worm.html",
-            "summary": "",
-            "published_utc": "2026-06-05T13:21:23+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2737,41 +2772,6 @@
             "link": "https://www.infosecurity-magazine.com/news/anthropic-launch-project-glasswing/",
             "summary": "Anthropic launches Project Glasswing, using its Claude Mythos Preview AI to autonomously identify and fix undiscovered vulnerabilities in critical sof...",
             "published_utc": "2026-04-08T11:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "US Thwarts DNS Hijacking Network Controlled by Russian APT28 Hackers",
-            "link": "https://www.infosecurity-magazine.com/news/us-thwarts-dns-hijacking-network/",
-            "summary": "The FBI deployed a method to unplug US-based routers compromised by APT28 from the threat actor’s malicious network",
-            "published_utc": "2026-04-08T10:03:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Claude Discovers Apache ActiveMQ Bug Hidden for 13 Years",
-            "link": "https://www.infosecurity-magazine.com/news/claude-apache-activemq-bug-hidden/",
-            "summary": "Anthropic’s Claude AI has helped researchers find a vulnerability in Apache ActiveMQ Classic",
-            "published_utc": "2026-04-08T09:15:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Iran‑Backed Threat Actors Hit US CNI Providers via Internet‑Facing OT Assets",
-            "link": "https://www.infosecurity-magazine.com/news/iranbacked-hackers-cni-ot-assets/",
-            "summary": "CISA has revealed Iranian attacks causing disruption and financial loss at US critical infrastructure firms",
-            "published_utc": "2026-04-08T08:15:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Russian APT28 Hackers Hijack Routers to Steal Credentials, UK Security Agency Warns",
-            "link": "https://www.infosecurity-magazine.com/news/russia-apt28-hijack-routers-uk-ncsc/",
-            "summary": "Newly identified malicious campaigns are linked to virtual private servers modified by APT28 to operate as malicious DNS servers",
-            "published_utc": "2026-04-07T15:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "GPU Rowhammer Attack Enables Privilege Escalation and Full System Compromise",
-            "link": "https://www.infosecurity-magazine.com/news/gpu-based-rowhammer-attack/",
-            "summary": "GPUBreach uses GPU Rowhammer on GDDR6 to flip bits, corrupt page tables and escalate to system root",
-            "published_utc": "2026-04-07T15:05:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
