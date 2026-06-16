@@ -1,6 +1,69 @@
 {
-    "lastUpdatedUTC": "2026-06-16T04:19:03.133241+00:00",
+    "lastUpdatedUTC": "2026-06-16T10:08:33.287442+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "Get Audible for 3 months totally free - here's how",
+            "link": "https://www.zdnet.com/article/audible-free-trial-amazon-prime-day-2026-deal/",
+            "summary": "Audible's Prime Day deal is now live - and you'll be glad you tried it. Here's what to know.",
+            "published_utc": "2026-06-16T10:00:45+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Cisco patches SD-WAN flaw amid evidence of active exploitation",
+            "link": "https://www.csoonline.com/article/4185525/cisco-sd-wan-flaw-puts-spotlight-on-enterprise-management-plane-risk.html",
+            "summary": "",
+            "published_utc": "2026-06-16T09:45:16+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Tech Coalition ‘Athena’ Targets OSS Vulnerabilities Ahead of Disclosure",
+            "link": "https://www.securityweek.com/tech-coalition-athena-targets-oss-vulnerabilities-ahead-of-disclosure/",
+            "summary": "",
+            "published_utc": "2026-06-16T09:39:47+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Critical Fortinet FortiSandbox flaws now exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/critical-fortinet-fortisandbox-flaws-now-exploited-in-attacks/",
+            "summary": "Attackers are now exploiting several critical vulnerabilities in Fortinet's FortiSandbox cyber threat detection platform, according to threat intellig...",
+            "published_utc": "2026-06-16T09:19:51+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Windows version of SprySOCKS Linux malware used to attack govt orgs",
+            "link": "https://www.bleepingcomputer.com/news/security/windows-version-of-sprysocks-linux-malware-used-to-attack-govt-orgs/",
+            "summary": "Windows variants for the SprySOCKS Linux malware have been used in attacks targeting government organizations in at least four countries. [...]",
+            "published_utc": "2026-06-16T09:00:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Zero trust isn’t broken. Most companies just do it wrong.",
+            "link": "https://www.csoonline.com/article/4181934/zero-trust-isnt-broken-but-most-companies-are-doing-it-wrong-2.html",
+            "summary": "",
+            "published_utc": "2026-06-16T09:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "FBI Warns Courier Cash Pickups Are Driving Crypto Scams",
+            "link": "https://www.infosecurity-magazine.com/news/fbi-warns-courier-cash-pickups/",
+            "summary": "The FBI claims couriers are being used to circumvent bank transfers in crypto investment schemes",
+            "published_utc": "2026-06-16T08:15:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "iRhythm discloses data breach, says hackers stole patient info",
+            "link": "https://www.bleepingcomputer.com/news/security/irhythm-discloses-data-breach-says-hackers-stole-patient-info/",
+            "summary": "Digital healthcare company iRhythm Holdings has disclosed a data breach after hackers stole patients' personal and health information stored on third-...",
+            "published_utc": "2026-06-16T06:31:59+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Cisco Patches Another SD-WAN Zero-Day Exploited in Attacks",
+            "link": "https://www.securityweek.com/cisco-patches-another-sd-wan-zero-day-exploited-in-attacks/",
+            "summary": "",
+            "published_utc": "2026-06-16T06:20:18+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "I modified my PC setup with a 15-in-1 docking station, and the benefits go beyond more ports",
@@ -198,13 +261,6 @@
             "published_utc": "2026-06-15T14:22:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "7 ways AI can help with your Linux system management",
-            "link": "https://www.zdnet.com/article/how-to-use-ai-to-help-with-linux-system-management/",
-            "summary": "AI does have its places, and one of them could be in helping you manage your Linux systems, be they desktops or servers.",
-            "published_utc": "2026-06-15T14:12:50+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "Chinese Hackers Target Medical, Military, and AI Research in North America",
             "link": "https://www.securityweek.com/chinese-hackers-target-medical-military-and-ai-research-in-north-america/",
@@ -352,11 +408,11 @@
             "published_utc": "2026-06-15T09:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Maine Disables Data Breach Portal Due to Fake Submissions",
-            "link": "https://www.securityweek.com/maine-disables-data-breach-portal-due-to-fake-submissions/",
-            "summary": "",
-            "published_utc": "2026-06-15T08:34:54+00:00"
+            "source": "WeLiveSecurity",
+            "title": "EvilTokens: A phishing attack that doesn’t steal your password",
+            "link": "https://www.welivesecurity.com/en/cybercrime/eviltokens-phishing-doesnt-steal-password/",
+            "summary": "A phishing kit subverting Microsoft’s legitimate authentication flow lets attackers break into accounts without stealing passwords or creating fake lo...",
+            "published_utc": "2026-06-15T08:55:00+00:00"
         },
         {
             "source": "Schneier",
@@ -373,39 +429,11 @@
             "published_utc": "2026-06-14T14:36:23+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Ex-school district employee jailed for hacks on former employer",
-            "link": "https://www.bleepingcomputer.com/news/security/ex-school-district-employee-jailed-for-hacks-on-former-employer/",
-            "summary": "A former  IT employee at an Iowa school district was sentenced to 21 months in prison after conducting a prolonged cyberattack against the former empl...",
-            "published_utc": "2026-06-13T20:53:13+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "NPM 12 Will Change Script Execution Behavior to Prevent Supply Chain Attacks",
-            "link": "https://www.securityweek.com/npm-12-will-change-script-execution-behavior-to-prevent-supply-chain-attacks/",
-            "summary": "",
-            "published_utc": "2026-06-13T15:52:58+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Chinese hackers hijack auth flow, spy on isolated network for a decade",
-            "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/",
-            "summary": "Chinese hackers took control of a target organization's authentication stack and maintained persistence for 10 years, with full visibility into the ad...",
-            "published_utc": "2026-06-13T14:06:42+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "The FCC Wants to Kill Burner Phones",
             "link": "https://www.wired.com/story/security-news-this-week-the-fcc-wants-to-kill-burner-phones/",
             "summary": "Plus: AI bug hunting fuels Microsoft’s biggest-ever Patch Tuesday, ShinyHunters ransomware gang exploits an Oracle zero-day, and more.",
             "published_utc": "2026-06-13T10:30:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "US Gov asks Anthropic to ban 'foreign national' access to Fable, Mythos",
-            "link": "https://www.bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/",
-            "summary": "The US government has ordered Anthropic to block all foreign nationals from accessing Fable 5 and Mythos 5, forcing the company to suspend both models...",
-            "published_utc": "2026-06-13T10:01:32+00:00"
         },
         {
             "source": "CSO Online",
@@ -623,20 +651,6 @@
             "link": "https://www.wired.com/story/trump-risks-key-surveillance-authority-over-unqualified-spy-chief-pick/",
             "summary": "US lawmakers are alarmed that Bill Pulte, a housing official with no intelligence experience, is poised to take charge of one of the government's most...",
             "published_utc": "2026-06-10T20:28:58+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "CISA tells agencies to patch smarter, not harder — foreshadowing broader industry practice",
-            "link": "https://www.csoonline.com/article/4183750/cisa-tells-agencies-to-patch-smarter-not-harder-foreshadowing-broader-industry-practice.html",
-            "summary": "",
-            "published_utc": "2026-06-10T20:23:35+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Ivanti patches critical Sentry flaws that lead to full device takeover",
-            "link": "https://www.csoonline.com/article/4183735/ivanti-patches-critical-sentry-flaws-that-lead-to-full-device-takeover.html",
-            "summary": "",
-            "published_utc": "2026-06-10T20:13:17+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2760,13 +2774,6 @@
             "published_utc": "2026-04-07T15:05:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "GrafanaGhost Exploit Bypasses AI Guardrails for Silent Data Exfiltration",
-            "link": "https://www.infosecurity-magazine.com/news/grafanaghost-silent-data/",
-            "summary": "GrafanaGhost chains AI prompt injection and URL flaws to exfiltrate sensitive Grafana data",
-            "published_utc": "2026-04-07T14:00:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "As breakout time accelerates, prevention-first cybersecurity takes center stage",
             "link": "https://www.welivesecurity.com/en/business-security/breakout-time-accelerates-prevention-first-cybersecurity-center-stage/",
@@ -3241,13 +3248,6 @@
             "link": "https://www.welivesecurity.com/en/videos/cybersecurity-awareness-month-2025-resilience-ransomware/",
             "summary": "Ransomware rages on and no organization is too small to be targeted by cyber-extortionists. How can your business protect itself against the threat?",
             "published_utc": "2025-10-20T14:11:52+00:00"
-        },
-        {
-            "source": "WeLiveSecurity",
-            "title": "Minecraft mods: Should you 'hack' your game?",
-            "link": "https://www.welivesecurity.com/en/kids-online/minecraft-mods-minefield-risks/",
-            "summary": "Some Minecraft mods don’t help build worlds – they break them. Here’s how malware can masquerade as a Minecraft mod.",
-            "published_utc": "2025-10-16T09:00:00+00:00"
         },
         {
             "source": "Threatpost",
