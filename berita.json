@@ -1,6 +1,139 @@
 {
-    "lastUpdatedUTC": "2026-06-19T06:21:31.243577+00:00",
+    "lastUpdatedUTC": "2026-06-19T11:24:11.685358+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "CryptoBandits Malware Doubles as a Backdoor, Abuses Tor",
+            "link": "https://www.securityweek.com/cryptobandits-malware-doubles-as-a-backdoor-abuses-tor/",
+            "summary": "",
+            "published_utc": "2026-06-19T11:19:41+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Anthropic’s Fable and the State of AI",
+            "link": "https://www.schneier.com/blog/archives/2026/06/anthropics-fable-and-the-state-of-ai.html",
+            "summary": "",
+            "published_utc": "2026-06-19T11:03:30+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The weirdest Bluetooth tracker I've tested also has one big advantage over the AirTag",
+            "link": "https://www.zdnet.com/article/ugreen-finetrack-2-tracker-tag-review/",
+            "summary": "The Ugreen FineTrack 2 has several unique features that set it apart from competing trackers. Just look at it!",
+            "published_utc": "2026-06-19T11:01:10+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "5 reasons I'm using Android Auto instead of my car's own infotainment system - and can't go back",
+            "link": "https://www.zdnet.com/article/reasons-to-use-android-auto-over-your-car-infotainment-system/",
+            "summary": "Your car's built-in screen may look modern, but Android Auto is still the easier, smarter way to drive. Here's why.",
+            "published_utc": "2026-06-19T11:00:47+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "AWS Unveils 'Continuum,' an AI-Powered Vulnerability Management Platform",
+            "link": "https://www.infosecurity-magazine.com/news/aws-continuum-ai-vulnerability/",
+            "summary": "Working with frontier AI models, this new platform aims to help discovering, prioritizing, validating and remediating code vulnerabilities",
+            "published_utc": "2026-06-19T11:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "FortiBleed: 86,000 Fortinet Device Credentials Compromised",
+            "link": "https://www.securityweek.com/fortibleed-86000-fortinet-device-credentials-compromised/",
+            "summary": "",
+            "published_utc": "2026-06-19T10:48:08+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "CISA: Splunk Enterprise flaw actively exploited, patch by Sunday",
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/",
+            "summary": "CISA has urged U.S. federal agencies to secure their systems by Sunday against a critical Splunk Enterprise vulnerability that is being exploited in a...",
+            "published_utc": "2026-06-19T10:39:58+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Operation Endgame Disrupts Malware Network Linked to Major Ransomware Gang",
+            "link": "https://www.infosecurity-magazine.com/news/operation-endgame-socgholish-evil/",
+            "summary": "SocGholish malware has been removed from 15,000 sites associated with Evil Corp hackers",
+            "published_utc": "2026-06-19T10:15:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "You can get Amazon Prime totally free for 6 months if you're age 18-24 - what to know",
+            "link": "https://www.zdnet.com/article/how-to-get-amazon-prime-for-young-adults/",
+            "summary": "Amazon's Prime for Young Adults plan gets college students and young people a big break on the membership. Here's how to get it.",
+            "published_utc": "2026-06-19T10:00:38+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Breaking the SOC triangle: How AI reshapes security operations trade-offs",
+            "link": "https://www.csoonline.com/article/4186877/breaking-the-soc-triangle-how-ai-reshapes-security-operations-trade-offs.html",
+            "summary": "",
+            "published_utc": "2026-06-19T10:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Cybersecurity Firms Impacted by Klue Supply Chain Attack",
+            "link": "https://www.securityweek.com/cybersecurity-firms-impacted-by-klue-supply-chain-attack/",
+            "summary": "",
+            "published_utc": "2026-06-19T09:19:06+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Confidence Lacks in Threat Detection Across Non-Email Channels like Slack and Teams",
+            "link": "https://www.infosecurity-magazine.com/news/threat-detection-across-nonemail/",
+            "summary": "Half of cybersecurity leaders lack confidence in detecting threats on Slack, Teams and other non-email platforms, despite growing attacker focus",
+            "published_utc": "2026-06-19T09:00:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Security considerations for adopting Claude Code and Cowork for SMBs",
+            "link": "https://www.csoonline.com/article/4186872/security-considerations-for-adopting-claude-code-and-cowork-for-smbs.html",
+            "summary": "",
+            "published_utc": "2026-06-19T09:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "NY man charged after harassing college student with AI-generated nudes",
+            "link": "https://www.bleepingcomputer.com/news/security/new-york-man-faces-cyberstalking-charge-after-sharing-ai-generated-nudes-online/",
+            "summary": "A New York man faces cyberstalking charges after allegedly sharing AI-generated nude images and fabricated racist messages using fake social media pro...",
+            "published_utc": "2026-06-19T08:44:08+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Microsoft says web-enabled AI agents can trigger host-level RCE",
+            "link": "https://www.csoonline.com/article/4187155/microsoft-says-web-enabled-ai-agents-can-trigger-host-level-rce.html",
+            "summary": "",
+            "published_utc": "2026-06-19T08:41:49+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Cisco to Acquire WideField Security to Boost Splunk’s Agentic SOC",
+            "link": "https://www.securityweek.com/cisco-to-acquire-widefield-security-to-boost-splunks-agentic-soc/",
+            "summary": "",
+            "published_utc": "2026-06-19T07:22:22+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "M365 Copilot SearchLeak: Your prompt injection attack surface just got bigger",
+            "link": "https://www.csoonline.com/article/4186970/m365-copilot-searchleak-your-prompt-injection-attack-surface-just-got-bigger.html",
+            "summary": "",
+            "published_utc": "2026-06-19T07:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "CISA warns Fortinet users to secure devices after FortiBleed leak",
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/",
+            "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged Fortinet customers to secure their devices after nearly 74,000 firewall and VPN...",
+            "published_utc": "2026-06-19T06:47:55+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "15,000 WordPress Websites Cleaned Up in SocGholish Botnet Takedown",
+            "link": "https://www.securityweek.com/15000-wordpress-websites-cleaned-up-in-socgholish-botnet-takedown/",
+            "summary": "",
+            "published_utc": "2026-06-19T06:46:44+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Splunk Enterprise Vulnerability Exploited in Attacks Days After Disclosure",
@@ -164,16 +297,16 @@
         },
         {
             "source": "ZDNet Security",
-            "title": "Best Buy Gaming Deals might be better than Amazon's early Prime Day sale",
-            "link": "https://www.zdnet.com/article/best-buy-gaming-deals-amazon-prime-day-2026/",
-            "summary": "Skip Amazon's weak sales! Best Buy's rival Prime Day 2026 gaming deals are live now with massive savings on Alienware, Nintendo Switch, and Lenvo tech.",
+            "title": "How I'm using a $13 smart plug to automate my house appliances - and you can too",
+            "link": "https://www.zdnet.com/article/amazon-smart-plug-deal-amazon-prime-day-deal-2026/",
+            "summary": "Imagine turning your holiday lights, lamps, and fans on or off from anywhere in the house or outdoors for cheap.",
             "published_utc": "2026-06-18T14:53:00+00:00"
         },
         {
             "source": "ZDNet Security",
-            "title": "How I'm using a $13 smart plug to automate my house appliances - and you can too",
-            "link": "https://www.zdnet.com/article/amazon-smart-plug-deal-amazon-prime-day-deal-2026/",
-            "summary": "Imagine turning your holiday lights, lamps, and fans on or off from anywhere in the house or outdoors for cheap.",
+            "title": "Best Buy Gaming Deals might be better than Amazon's early Prime Day sale",
+            "link": "https://www.zdnet.com/article/best-buy-gaming-deals-amazon-prime-day-2026/",
+            "summary": "Skip Amazon's weak sales! Best Buy's rival Prime Day 2026 gaming deals are live now with massive savings on Alienware, Nintendo Switch, and Lenvo tech.",
             "published_utc": "2026-06-18T14:53:00+00:00"
         },
         {
@@ -191,32 +324,11 @@
             "published_utc": "2026-06-18T14:45:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I found the best SSD and storage deals ahead of Amazon Prime Day - including Lexar and Seagate",
-            "link": "https://www.zdnet.com/article/best-early-amazon-prime-day-ssd-deals-2026/",
-            "summary": "I track SSD deals, and found huge markdowns from top brands like WD, Samsung, and more ahead of Amazon Prime Day.",
-            "published_utc": "2026-06-18T14:37:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The best early Prime Day TV deals actually worth your time: Samsung, Sony, and more",
-            "link": "https://www.zdnet.com/article/best-early-prime-day-tv-deals-2026/",
-            "summary": "Prime Day 2026 kicks off next week! Save thousands right now on early TV deals from LG, Samsung, and Sony all thoroughly vetted and tested by our expe...",
-            "published_utc": "2026-06-18T14:27:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Klue OAuth breach linked to 'Icarus' Salesforce data theft attacks",
             "link": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/",
             "summary": "Market intelligence platform Klue suffered a OAuth breach that enabled the \"Icarus\" threat actors to steal Salesforce CRM data from multiple organizat...",
             "published_utc": "2026-06-18T14:19:50+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "10 signs that someone is monitoring or accessing your accounts - how to stop them",
-            "link": "https://www.zdnet.com/article/10-signs-online-accounts-monitored-compromised-guide/",
-            "summary": "Learn how to spot the signs of account monitoring and compromise - and take back control.",
-            "published_utc": "2026-06-18T14:05:22+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -331,32 +443,11 @@
             "published_utc": "2026-06-18T11:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Atlassian, Splunk Patch Critical Vulnerabilities",
-            "link": "https://www.securityweek.com/atlassian-splunk-patch-critical-vulnerabilities/",
-            "summary": "",
-            "published_utc": "2026-06-18T10:59:50+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "New CISO appointments 2026",
             "link": "https://www.csoonline.com/article/4186743/new-ciso-appointments-2026.html",
             "summary": "",
             "published_utc": "2026-06-18T10:45:17+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Rokarolla Banking Trojan Targets 200 Applications",
-            "link": "https://www.securityweek.com/rokarolla-banking-trojan-targets-200-applications/",
-            "summary": "",
-            "published_utc": "2026-06-18T10:42:21+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Critical Command Execution Vulnerability Patched in Cisco ISE",
-            "link": "https://www.securityweek.com/critical-command-execution-vulnerability-patched-in-cisco-ise/",
-            "summary": "",
-            "published_utc": "2026-06-18T10:27:14+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -371,13 +462,6 @@
             "link": "https://www.welivesecurity.com/en/eset-research/killing-me-gently-inside-gentlemens-edr-killer-framework/",
             "summary": "ESET Research shares the results of a months-long investigation into the suite of EDR killers maintained by the RaaS gang Gentlemen",
             "published_utc": "2026-06-18T09:46:32+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "F5 Patches Critical, High-Severity NGINX Vulnerabilities",
-            "link": "https://www.securityweek.com/f5-patches-critical-high-severity-nginx-vulnerabilities/",
-            "summary": "",
-            "published_utc": "2026-06-18T09:39:24+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -401,13 +485,6 @@
             "published_utc": "2026-06-18T09:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "SailPoint to Acquire Entro in Reported $200 Million Deal",
-            "link": "https://www.securityweek.com/sailpoint-to-acquire-entro-in-reported-200-million-deal/",
-            "summary": "",
-            "published_utc": "2026-06-18T08:36:42+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Cybercrime Surges in APAC as Digitalization Takes Hold",
             "link": "https://www.infosecurity-magazine.com/news/cybercrime-surges-apac-digitization/",
@@ -422,20 +499,6 @@
             "published_utc": "2026-06-18T06:00:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Leak confirms OpenAI is testing a ChatGPT for Science subscription",
-            "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-testing-a-chatgpt-for-science-subscription/",
-            "summary": "OpenAI appears to be testing a new subscription and experience for science use cases, but it's unclear if it'll be available to everyone regardless of...",
-            "published_utc": "2026-06-18T01:30:08+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Google to use UK and EU user IP addresses for ad personalization",
-            "link": "https://www.bleepingcomputer.com/news/security/google-to-use-uk-and-eu-user-ip-addresses-for-ad-personalization/",
-            "summary": "From August 3, 2026, Google will use IP addresses from UK, EEA and Switzerland users for ad measurement and personalization. It lands as the ICO weigh...",
-            "published_utc": "2026-06-17T21:02:42+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "North Korean Hiring Fraud Runs on AI and US Laptop Farms",
             "link": "https://www.infosecurity-magazine.com/news/north-korea-it-worker-fraud-ai/",
@@ -448,13 +511,6 @@
             "link": "https://www.csoonline.com/article/4186323/estonia-plans-government-ids-giving-ai-agents-rights-and-responsibilities-2.html",
             "summary": "",
             "published_utc": "2026-06-17T14:51:08+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Why Account Takeovers Are Rising and How to Stop Them",
-            "link": "https://www.bleepingcomputer.com/news/security/why-account-takeovers-are-rising-and-how-to-stop-them/",
-            "summary": "Account takeovers are rising as attackers bypass traditional defenses through phishing, session hijacking, and MFA fatigue. Specops Software explores ...",
-            "published_utc": "2026-06-17T14:00:10+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -667,13 +723,6 @@
             "published_utc": "2026-06-15T10:30:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Governing the ghost workforce",
-            "link": "https://www.csoonline.com/article/4184637/governing-the-ghost-workforce.html",
-            "summary": "",
-            "published_utc": "2026-06-15T10:00:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "UK Government Finds 400+ Vulnerabilities in AI Hackathons",
             "link": "https://www.infosecurity-magazine.com/news/uk-government-400-vulnerabilities/",
@@ -685,20 +734,6 @@
             "title": "Maine Takes Breach Reporting Portal Offline After Fake Entries",
             "link": "https://www.infosecurity-magazine.com/news/maine-breach-reporting-portal/",
             "summary": "The Office of the Maine Attorney General has suspended its breach reporting portal",
-            "published_utc": "2026-06-15T09:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Sovereign cloud won’t fix your AI risk. Identity governance will",
-            "link": "https://www.csoonline.com/article/4184634/sovereign-cloud-wont-fix-your-ai-risk-identity-governance-will.html",
-            "summary": "",
-            "published_utc": "2026-06-15T09:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "5 runtime signals for catching a compromised AI agent",
-            "link": "https://www.csoonline.com/article/4184681/5-runtime-signals-for-catching-a-compromised-ai-agent.html",
-            "summary": "",
             "published_utc": "2026-06-15T09:00:00+00:00"
         },
         {
@@ -728,13 +763,6 @@
             "link": "https://www.wired.com/story/security-news-this-week-the-fcc-wants-to-kill-burner-phones/",
             "summary": "Plus: AI bug hunting fuels Microsoft’s biggest-ever Patch Tuesday, ShinyHunters ransomware gang exploits an Oracle zero-day, and more.",
             "published_utc": "2026-06-13T10:30:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "GreatXML zero-day BitLocker bypass doesn’t seem to work, yet",
-            "link": "https://www.csoonline.com/article/4184678/greatxml-zero-day-bitlocker-bypass-doesnt-seem-to-work-yet.html",
-            "summary": "",
-            "published_utc": "2026-06-12T21:34:32+00:00"
         },
         {
             "source": "Schneier",
@@ -920,16 +948,16 @@
         },
         {
             "source": "WIRED Security",
-            "title": "Mapping Every Flock License Plate Reader Near US World Cup Stadiums",
-            "link": "https://www.wired.com/story/us-world-cup-2026-alpr-camera-stadiums/",
-            "summary": "Most US World Cup stadiums are surrounded by surveillance cameras. Want to know if you’re being watched on your way to a match? These maps will help you.",
+            "title": "Soccer Fans, You’re Being Watched",
+            "link": "https://www.wired.com/story/soccer-world-cup-biometric-surveillance/",
+            "summary": "From anti-drone tech to face recognition, 2026 World Cup stadiums in the US, Canada, and Mexico are subjecting fans to an array of surveillance tech. ...",
             "published_utc": "2026-06-10T10:00:00+00:00"
         },
         {
             "source": "WIRED Security",
-            "title": "Soccer Fans, You’re Being Watched",
-            "link": "https://www.wired.com/story/soccer-world-cup-biometric-surveillance/",
-            "summary": "From anti-drone tech to face recognition, 2026 World Cup stadiums in the US, Canada, and Mexico are subjecting fans to an array of surveillance tech. ...",
+            "title": "Mapping Every Flock License Plate Reader Near US World Cup Stadiums",
+            "link": "https://www.wired.com/story/us-world-cup-2026-alpr-camera-stadiums/",
+            "summary": "Most US World Cup stadiums are surrounded by surveillance cameras. Want to know if you’re being watched on your way to a match? These maps will help you.",
             "published_utc": "2026-06-10T10:00:00+00:00"
         },
         {
@@ -973,13 +1001,6 @@
             "link": "https://www.infosecurity-magazine.com/news/firms-deploy-vulnerable-code/",
             "summary": "Checkmarx report warns that business pressure is among the reason security leaders let security compliance slip",
             "published_utc": "2026-06-09T15:30:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "GPS As a Key Distribution Platform",
-            "link": "https://www.schneier.com/blog/archives/2026/06/gps-as-a-key-distribution-platform.html",
-            "summary": "",
-            "published_utc": "2026-06-09T15:06:49+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2758,27 +2779,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ai-security-institute-best/",
             "summary": "The AISI has issued its judgement on Anthropic’s Mythos Preview model",
             "published_utc": "2026-04-14T09:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Mailbox Rule Abuse Emerges as Stealthy Post-Compromise Threat",
-            "link": "https://www.infosecurity-magazine.com/news/mailbox-rule-abuse-stealthy-post/",
-            "summary": "Attackers are abusing Microsoft 365 mailbox rules to hide activity, exfiltrate data and retain access after account compromise, researchers warn",
-            "published_utc": "2026-04-13T15:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Mirax Android Trojan Turns Devices Into Residential Proxy Nodes",
-            "link": "https://www.infosecurity-magazine.com/news/mirax-trojan-devices-proxy-nodes/",
-            "summary": "Security researchers warn of Mirax, an emerging Android banking trojan using MaaS, remote access and residential proxies to target European users",
-            "published_utc": "2026-04-13T14:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "FBI Dismantles $20m Phishing Operation W3LL",
-            "link": "https://www.infosecurity-magazine.com/news/fbi-dismantles-phishing-operation/",
-            "summary": "The W3LL phishing kit has been associated with fraud attempts totaling $20m",
-            "published_utc": "2026-04-13T10:35:00+00:00"
         },
         {
             "source": "WIRED Security",
