@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2026-06-19T11:24:11.685358+00:00",
+    "lastUpdatedUTC": "2026-06-19T15:20:53.927434+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "Microsoft broke some OLE automations with latest Windows update",
+            "link": "https://www.csoonline.com/article/4187275/microsoft-broke-some-ole-automations-with-latest-windows-update-2.html",
+            "summary": "",
+            "published_utc": "2026-06-19T14:41:03+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+            "link": "https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/",
+            "summary": "AI agents can access data, trigger workflows, deploy code, and interact with critical business systems, often with little oversight. Token Security br...",
+            "published_utc": "2026-06-19T13:10:19+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Webinar: How attackers bypass MFA and how defenders can respond",
+            "link": "https://www.bleepingcomputer.com/news/security/webinar-how-attackers-bypass-mfa-and-how-defenders-can-respond/",
+            "summary": "Modern phishing attacks, including Device Code phishing, can undermine MFA protections and grant attackers access to corporate accounts without steali...",
+            "published_utc": "2026-06-19T12:12:20+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I flew 2,700 miles with Apple, Sony, and Sennheiser headphones - this pair had the best audio",
+            "link": "https://www.zdnet.com/article/i-traveled-with-4-headphones-this-pair-was-the-best/",
+            "summary": "Air travel is the true test for ANC headphones and earbuds. My multiple journeys revealed key strengths and weaknesses of the latest models.",
+            "published_utc": "2026-06-19T12:00:54+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft: June 2026 Windows updates break Recycle Bin prompts",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-recycle-bin-bug-on-all-supported-windows-releases/",
+            "summary": "Microsoft has confirmed a confusing Windows bug that causes different filenames to appear in the confirmation dialog when deleting a file from the Rec...",
+            "published_utc": "2026-06-19T11:32:34+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "CryptoBandits Malware Doubles as a Backdoor, Abuses Tor",
@@ -310,13 +345,6 @@
             "published_utc": "2026-06-18T14:53:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Rolling out AI agents? 4 ways to move fast and furious - but with extreme caution",
-            "link": "https://www.zdnet.com/article/rolling-out-ai-agents-move-fast-and-furious-but-with-extreme-caution/",
-            "summary": "For starters, don't just hand over the keys to AI agents. Any endeavor needs to remain a human-instigated, human-led endeavor.",
-            "published_utc": "2026-06-18T14:48:10+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "ICO Cautions Healthcare Worker After Princess of Wales Incident",
             "link": "https://www.infosecurity-magazine.com/news/ico-cautions-healthcare-worker/",
@@ -394,25 +422,11 @@
             "published_utc": "2026-06-18T12:23:58+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Telegram admits it couldn't police exam-leak channels, India tells court",
-            "link": "https://www.bleepingcomputer.com/news/security/telegram-admits-it-couldnt-police-exam-leak-channels-india-tells-court/",
-            "summary": "India's government has told the Delhi High Court that Telegram was warned about two weeks before it was blocked, and that the platform admitted it cou...",
-            "published_utc": "2026-06-18T12:18:49+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "Dream Raises $260 Million at $3 Billion Valuation",
             "link": "https://www.securityweek.com/dream-raises-260-million-at-3-billion-valuation/",
             "summary": "",
             "published_utc": "2026-06-18T11:55:07+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "F5 issues out-of-band patches for critical NGINX vulnerabilities",
-            "link": "https://www.bleepingcomputer.com/news/security/f5-issues-out-of-band-patches-for-critical-nginx-vulnerabilities/",
-            "summary": "Cybersecurity company F5 has released out-of-band security updates to address multiple NGINX web server vulnerabilities, including two critical-severi...",
-            "published_utc": "2026-06-18T11:33:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -448,13 +462,6 @@
             "link": "https://www.csoonline.com/article/4186743/new-ciso-appointments-2026.html",
             "summary": "",
             "published_utc": "2026-06-18T10:45:17+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft fixes Windows Server 2016 security update failures",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-2016-security-update-failures/",
-            "summary": "Microsoft has fixed a known issue causing the June 2026 security updates to fail on Windows Server 2016 systems that weren't up to date. [...]",
-            "published_utc": "2026-06-18T10:14:20+00:00"
         },
         {
             "source": "WeLiveSecurity",
@@ -707,13 +714,6 @@
             "link": "https://www.csoonline.com/article/4185063/langflow-rce-under-active-attack-months-after-a-patch-was-shipped.html",
             "summary": "",
             "published_utc": "2026-06-15T12:48:31+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Attackers can turn AI agent guardrails into denial-of-service weapons",
-            "link": "https://www.csoonline.com/article/4185051/attackers-can-turn-ai-agent-guardrails-into-denial-of-service-weapons.html",
-            "summary": "",
-            "published_utc": "2026-06-15T12:09:30+00:00"
         },
         {
             "source": "InfosecurityMag",
