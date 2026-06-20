@@ -1,6 +1,20 @@
 {
-    "lastUpdatedUTC": "2026-06-20T14:11:38.491471+00:00",
+    "lastUpdatedUTC": "2026-06-20T16:19:26.028324+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "New Prinz Eugen ransomware prioritizes recent files for encryption",
+            "link": "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/",
+            "summary": "A new ransomware operation named 'Prinz Eugen' prioritizes recently modified files for encryption and leaves no ransom note on the system. [...]",
+            "published_utc": "2026-06-20T15:23:46+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft links Mastra AI supply chain attack to North Korean hackers",
+            "link": "https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/",
+            "summary": "Microsoft has attributed a recent Mastra AI supply chain attack that compromised more than 140 npm packages to the North Korean hacking group Sapphire...",
+            "published_utc": "2026-06-20T14:09:19+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "4 easy tweaks you can make to your TV soundbar for more immersive audio",
@@ -413,20 +427,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/",
             "summary": "Market intelligence platform Klue suffered a OAuth breach that enabled the \"Icarus\" threat actors to steal Salesforce CRM data from multiple organizat...",
             "published_utc": "2026-06-18T14:19:50+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "5 reasons Microsoft 365 backup isn’t enough for business data protection",
-            "link": "https://www.bleepingcomputer.com/news/security/5-reasons-microsoft-365-backup-isnt-enough-for-business-data-protection/",
-            "summary": "Microsoft 365 helps keep services running, but protecting and recovering business data remains your responsibility. Acronis breaks down five gaps orga...",
-            "published_utc": "2026-06-18T13:48:56+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Police cleans nearly 15,000 SocGholish-infected sites tied to Evil Corp",
-            "link": "https://www.bleepingcomputer.com/news/security/law-enforcement-nukes-socgholish-malware-from-nearly-15-000-sites/",
-            "summary": "International law enforcement agencies cleaned nearly 15,000 malware-infected WordPress websites and took down more than 100 servers linked to the Soc...",
-            "published_utc": "2026-06-18T13:25:47+00:00"
         },
         {
             "source": "SecurityWeek",
