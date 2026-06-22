@@ -1,6 +1,104 @@
 {
-    "lastUpdatedUTC": "2026-06-22T04:22:53.011263+00:00",
+    "lastUpdatedUTC": "2026-06-22T10:39:11.634936+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "What the Latest ShinyHunters Breaches Reveal About Modern Cyberattacks",
+            "link": "https://www.securityweek.com/what-the-latest-shinyhunters-breaches-reveal-about-modern-cyberattacks/",
+            "summary": "",
+            "published_utc": "2026-06-22T10:30:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "June Prime Day live blog 2026: We're tracking Amazon deals on SSDs, TVs, laptops and more",
+            "link": "https://www.zdnet.com/article/amazon-june-prime-day-live-blog-06-22-2026/",
+            "summary": "LIVE: Prime Day 2026 early deals are here. Follow our live blog for real-time tracking on the lowest prices for 4K TVs, M5 MacBooks, Samsung, Google P...",
+            "published_utc": "2026-06-22T10:27:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Klue Breach Enables Hackers to Compromise Cybersecurity Firms via OAuth Tokens",
+            "link": "https://www.infosecurity-magazine.com/news/klue-breach-compromise/",
+            "summary": "At least five cybersecurity firms confirmed they have been affected by a breach of business intelligence platform Klue via Salesforce integration",
+            "published_utc": "2026-06-22T10:15:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "New Exploit Bypasses Apple’s Boot Defenses, Affects Millions of iPhones",
+            "link": "https://www.securityweek.com/new-exploit-bypasses-apples-boot-defenses-affects-millions-of-iphones/",
+            "summary": "",
+            "published_utc": "2026-06-22T10:03:06+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "You could qualify for Amazon Prime at 50% off without even knowing - here's the details",
+            "link": "https://www.zdnet.com/article/who-qualifies-for-discounted-amazon-prime-faq/",
+            "summary": "There are a couple of lesser-known ways to get Amazon Prime at a discount. Here's what you need to know.",
+            "published_utc": "2026-06-22T10:00:39+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Fortinet Responds to FortiBleed Campaign",
+            "link": "https://www.securityweek.com/fortinet-responds-to-fortibleed-campaign/",
+            "summary": "",
+            "published_utc": "2026-06-22T09:34:59+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "There are 3 obvious signs someone is stealing your Wi-Fi - and several ways to stop them",
+            "link": "https://www.zdnet.com/article/signs-someone-is-using-your-wi-fi-how-to-kick-them-off/",
+            "summary": "Think someone's using your Wi-Fi without permission? Here's how to find out.",
+            "published_utc": "2026-06-22T09:30:38+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "World Cup Scams Are Getting Harder to Spot",
+            "link": "https://www.wired.com/story/world-cup-scams-are-getting-harder-to-spot/",
+            "summary": "From fake tickets to cloned websites, AI is magnifying World Cup scams. Can fans distinguish between what’s real and what’s not?",
+            "published_utc": "2026-06-22T09:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "UK Information Commissioner Resigns After Workplace Investigation",
+            "link": "https://www.infosecurity-magazine.com/news/information-commissioner-resigns/",
+            "summary": "The UK’s data protection regulator the information commissioner has resigned after his position became “untenable”",
+            "published_utc": "2026-06-22T09:20:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "More Cybersecurity Firms Disclose Impact From Klue Hack",
+            "link": "https://www.securityweek.com/more-cybersecurity-firms-disclose-impact-from-klue-hack/",
+            "summary": "",
+            "published_utc": "2026-06-22T09:03:08+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "NCSC Urges Fortinet Customers to Tackle FortiBleed Fallout",
+            "link": "https://www.infosecurity-magazine.com/news/ncsc-fortinet-customers-tackle/",
+            "summary": "The NCSC has released guidance for Fortinet customers impacted by the FortiBleed threat campaign",
+            "published_utc": "2026-06-22T08:30:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Anatomy of a retail ransomware attack: Tabletop simulates modern mayhem methods",
+            "link": "https://www.csoonline.com/article/4186989/anatomy-of-a-retail-ransomware-attack-tabletop-simulates-modern-mayhem-methods.html",
+            "summary": "",
+            "published_utc": "2026-06-22T07:30:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "6 security leader tips for mastering business risk",
+            "link": "https://www.csoonline.com/article/4186984/6-security-leader-tips-for-mastering-business-risk.html",
+            "summary": "",
+            "published_utc": "2026-06-22T07:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Texas Parks & Wildlife Data Breach Affects 3 Million Individuals",
+            "link": "https://www.securityweek.com/texas-parks-wildlife-data-breach-affects-3-million-individuals/",
+            "summary": "",
+            "published_utc": "2026-06-22T05:33:39+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "Why Southeast Asia CISOs Need Zero Trust as Their AI Control Plane – AI Agents, Data Borders and Supply Chains",
@@ -296,13 +394,6 @@
             "published_utc": "2026-06-19T08:41:49+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Cisco to Acquire WideField Security to Boost Splunk’s Agentic SOC",
-            "link": "https://www.securityweek.com/cisco-to-acquire-widefield-security-to-boost-splunks-agentic-soc/",
-            "summary": "",
-            "published_utc": "2026-06-19T07:22:22+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "M365 Copilot SearchLeak: Your prompt injection attack surface just got bigger",
             "link": "https://www.csoonline.com/article/4186970/m365-copilot-searchleak-your-prompt-injection-attack-surface-just-got-bigger.html",
@@ -315,20 +406,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/",
             "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged Fortinet customers to secure their devices after nearly 74,000 firewall and VPN...",
             "published_utc": "2026-06-19T06:47:55+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "15,000 WordPress Websites Cleaned Up in SocGholish Botnet Takedown",
-            "link": "https://www.securityweek.com/15000-wordpress-websites-cleaned-up-in-socgholish-botnet-takedown/",
-            "summary": "",
-            "published_utc": "2026-06-19T06:46:44+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Splunk Enterprise Vulnerability Exploited in Attacks Days After Disclosure",
-            "link": "https://www.securityweek.com/splunk-enterprise-vulnerability-exploited-in-attacks-days-after-disclosure/",
-            "summary": "",
-            "published_utc": "2026-06-19T04:10:34+00:00"
         },
         {
             "source": "CSO Online",
@@ -387,39 +464,11 @@
             "published_utc": "2026-06-18T18:31:36+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I tested a $15 smart switch and uncovered a $1,500-a-year energy waste in the kitchen",
-            "link": "https://www.zdnet.com/article/switchbot-relay-switch-review/",
-            "summary": "The SwitchBot Relay 1PM Switch turns a device on and off and tells you how much power it's using.",
-            "published_utc": "2026-06-18T18:22:00+00:00"
-        },
-        {
             "source": "KrebsOnSecurity",
             "title": "‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm",
             "link": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
             "summary": "For the past four years, a sprawling Android-based botnet called Popa has forced millions of consumer TV boxes to relay Internet traffic linked to adv...",
             "published_utc": "2026-06-18T17:37:58+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Majority of Internet-Accessible REDCap Servers Outdated",
-            "link": "https://www.securityweek.com/majority-of-internet-accessible-redcap-servers-outdated/",
-            "summary": "",
-            "published_utc": "2026-06-18T17:07:48+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Get a Walmart Plus membership for 50% off right now",
-            "link": "https://www.zdnet.com/article/walmart-plus-membership-amazon-prime-day-deal-2026/",
-            "summary": "Ahead of Walmart Deals next week, you can save $49 on an annual Walmart Plus membership, free delivery, and free shipping.",
-            "published_utc": "2026-06-18T16:56:08+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The best early Prime Day robot vacuum deals I'd buy now, after testing dozens of them",
-            "link": "https://www.zdnet.com/article/best-early-amazon-prime-day-robot-vacuum-deals-2026/",
-            "summary": "Skip the fake sales: Check out our expert-vetted list of the absolute best early Prime Day 2026 robot vacuum and mop deals worth your money today.",
-            "published_utc": "2026-06-18T16:56:04+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -441,13 +490,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ico-cautions-healthcare-worker/",
             "summary": "Hospital insider escapes criminal prosecution after attempting to sell royal’s medical records",
             "published_utc": "2026-06-18T14:45:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Accenture to Acquire Majority Stake in Dragos, All of runZero, NetRise in $4.1 Billion OT Cybersecurity Push",
-            "link": "https://www.securityweek.com/accenture-to-acquire-majority-stake-in-dragos-all-of-runzero-netrise-in-4-1-billion-ot-cybersecurity-push/",
-            "summary": "",
-            "published_utc": "2026-06-18T13:08:53+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -674,13 +716,6 @@
             "published_utc": "2026-06-16T12:00:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "China-linked hackers target US, Canada research using legacy REDCap exploits",
-            "link": "https://www.csoonline.com/article/4185582/china-linked-hackers-target-us-canada-research-using-legacy-redcap-exploits.html",
-            "summary": "",
-            "published_utc": "2026-06-16T11:48:36+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "DragonForce Ransomware Exploited Microsoft Teams to Hide in Attack Against Major Company",
             "link": "https://www.infosecurity-magazine.com/news/dragonforce-ransomware-hidden/",
@@ -700,13 +735,6 @@
             "link": "https://www.infosecurity-magazine.com/news/chainguard-bny-open-source-athena/",
             "summary": "Athena is a new an industry coalition to fix the vulnerabilities frontier AI models find before attackers can exploit them",
             "published_utc": "2026-06-16T11:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Cisco patches SD-WAN flaw amid evidence of active exploitation",
-            "link": "https://www.csoonline.com/article/4185525/cisco-sd-wan-flaw-puts-spotlight-on-enterprise-management-plane-risk.html",
-            "summary": "",
-            "published_utc": "2026-06-16T09:45:16+00:00"
         },
         {
             "source": "WeLiveSecurity",
@@ -1624,13 +1652,6 @@
             "link": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
             "summary": "Authorities in the Netherlands have arrested the co-owners of two related Internet hosting companies for operating IT infrastructure used by Russia to...",
             "published_utc": "2026-05-25T13:21:49+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "The AI Era Is Creating a Bug-Hunting Arms Race",
-            "link": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/",
-            "summary": "As attackers ramp up their AI exploit development, the search for software vulnerabilities is changing rapidly.",
-            "published_utc": "2026-05-25T10:30:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2758,27 +2779,6 @@
             "link": "https://www.infosecurity-magazine.com/news/cisos-innovate-talent-retention/",
             "summary": "A new IANS report claims just 34% of cybersecurity professionals plan to stay put in the next 12 months",
             "published_utc": "2026-04-14T13:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Triad Nexus Expands Global Fraud Operations Despite US Sanctions",
-            "link": "https://www.infosecurity-magazine.com/news/triad-nexus-expands-fraud/",
-            "summary": "Triad Nexus scales $200m scams, uses infrastructure laundering, localized fraud and US-access blocks",
-            "published_utc": "2026-04-14T12:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Malicious Chrome Extensions Campaign Exposes User Data",
-            "link": "https://www.infosecurity-magazine.com/news/chrome-extensions-expose-user-data/",
-            "summary": "108 malicious Chrome extensions steal sessions, Google data, inject ads via single C2 infrastructure",
-            "published_utc": "2026-04-14T11:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "AI Security Institute Advocates Security Best Practices After Mythos Test",
-            "link": "https://www.infosecurity-magazine.com/news/ai-security-institute-best/",
-            "summary": "The AISI has issued its judgement on Anthropic’s Mythos Preview model",
-            "published_utc": "2026-04-14T09:30:00+00:00"
         },
         {
             "source": "WIRED Security",
