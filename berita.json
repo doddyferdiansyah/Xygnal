@@ -1,19 +1,40 @@
 {
-    "lastUpdatedUTC": "2026-06-22T22:03:23.522374+00:00",
+    "lastUpdatedUTC": "2026-06-23T00:07:44.593197+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "June Prime Day live blog 2026: We're tracking Amazon deals on SSDs, TVs, laptops and more",
+            "link": "https://www.zdnet.com/article/amazon-june-prime-day-live-blog-06-22-2026/",
+            "summary": "LIVE: Prime Day 2026 early deals are here. Follow our live blog for real-time tracking on the lowest prices for 4K TVs, M5 MacBooks, Samsung devices, ...",
+            "published_utc": "2026-06-23T00:03:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The base model Kindle is my summer reading secret weapon - and it's on sale",
+            "link": "https://www.zdnet.com/article/base-model-kindle-deal-amazon-prime-day-2026/",
+            "summary": "The base model Kindle is discounted during Amazon Prime Day. Buy one for under $100.",
+            "published_utc": "2026-06-23T00:00:40+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "GitHub Actions hardens checkout security to block ‘pwn request’ attacks",
+            "link": "https://www.csoonline.com/article/4188144/github-actions-hardens-checkout-security-to-block-pwn-request-attacks-2.html",
+            "summary": "",
+            "published_utc": "2026-06-22T23:49:10+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "WhatsApp phishing attack uses fake business docs to hack PCs",
+            "link": "https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/",
+            "summary": "An ongoing malware campaign is targeting WhatsApp users in multiple countries with deceptive messages that push VBScript files, leading to remote syst...",
+            "published_utc": "2026-06-22T22:42:21+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "JaredFromSubway MEV bot hacked in $15 million crypto theft",
             "link": "https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/",
             "summary": "The JaredFromSubway Ethereum MEV (Maximal Extractable Value) bot suffered a $15 million loss after an attacker manipulated the opportunity-detection l...",
             "published_utc": "2026-06-22T21:52:18+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "June Prime Day live blog 2026: We're tracking Amazon deals on SSDs, TVs, laptops and more",
-            "link": "https://www.zdnet.com/article/amazon-june-prime-day-live-blog-06-22-2026/",
-            "summary": "LIVE: Prime Day 2026 early deals are here. Follow our live blog for real-time tracking on the lowest prices for 4K TVs, M5 MacBooks, Samsung devices, ...",
-            "published_utc": "2026-06-22T21:46:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -182,13 +203,6 @@
             "link": "https://www.zdnet.com/article/apple-watch-series-11-prime-day-deal-2026/",
             "summary": "The Apple Watch Series 11 arrived last year with a full suite of health-tracking features and an extended battery life. It's on sale one day before Pr...",
             "published_utc": "2026-06-22T16:29:57+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Amazon just dropped the price of this 2TB Samsung SSD to 42% off - and it's seriously fast for PC",
-            "link": "https://www.zdnet.com/article/samsung-990-pro-ssd-deal-amazon-prime-day-2026/",
-            "summary": "Samsung's flagship 990 Pro SSD just got slashed to a near-record low price for Prime Day. Here's what to know.",
-            "published_utc": "2026-06-22T16:26:58+00:00"
         },
         {
             "source": "CSO Online",
@@ -436,13 +450,6 @@
             "published_utc": "2026-06-19T12:12:20+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Microsoft: June 2026 Windows updates break Recycle Bin prompts",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-recycle-bin-bug-on-all-supported-windows-releases/",
-            "summary": "Microsoft has confirmed a confusing Windows bug that causes different filenames to appear in the confirmation dialog when deleting a file from the Rec...",
-            "published_utc": "2026-06-19T11:32:34+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Anthropic’s Fable and the State of AI",
             "link": "https://www.schneier.com/blog/archives/2026/06/anthropics-fable-and-the-state-of-ai.html",
@@ -686,13 +693,6 @@
             "link": "https://www.infosecurity-magazine.com/news/fifteen-jetbrains-marketplace/",
             "summary": "Aikido Security has discovered at least 15 IDE plugins on the JetBrains Marketplace",
             "published_utc": "2026-06-17T09:10:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "5 AI risk management frameworks for shoring up key gaps",
-            "link": "https://www.csoonline.com/article/4185917/5-ai-risk-management-frameworks-for-shoring-up-key-gaps.html",
-            "summary": "",
-            "published_utc": "2026-06-17T09:01:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1011,16 +1011,16 @@
         },
         {
             "source": "WIRED Security",
-            "title": "Soccer Fans, You’re Being Watched",
-            "link": "https://www.wired.com/story/soccer-world-cup-biometric-surveillance/",
-            "summary": "From anti-drone tech to face recognition, 2026 World Cup stadiums in the US, Canada, and Mexico are subjecting fans to an array of surveillance tech. ...",
+            "title": "Mapping Every Flock License Plate Reader Near US World Cup Stadiums",
+            "link": "https://www.wired.com/story/us-world-cup-2026-alpr-camera-stadiums/",
+            "summary": "Most US World Cup stadiums are surrounded by surveillance cameras. Want to know if you’re being watched on your way to a match? These maps will help you.",
             "published_utc": "2026-06-10T10:00:00+00:00"
         },
         {
             "source": "WIRED Security",
-            "title": "Mapping Every Flock License Plate Reader Near US World Cup Stadiums",
-            "link": "https://www.wired.com/story/us-world-cup-2026-alpr-camera-stadiums/",
-            "summary": "Most US World Cup stadiums are surrounded by surveillance cameras. Want to know if you’re being watched on your way to a match? These maps will help you.",
+            "title": "Soccer Fans, You’re Being Watched",
+            "link": "https://www.wired.com/story/soccer-world-cup-biometric-surveillance/",
+            "summary": "From anti-drone tech to face recognition, 2026 World Cup stadiums in the US, Canada, and Mexico are subjecting fans to an array of surveillance tech. ...",
             "published_utc": "2026-06-10T10:00:00+00:00"
         },
         {
