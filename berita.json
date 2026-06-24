@@ -1,12 +1,33 @@
 {
-    "lastUpdatedUTC": "2026-06-24T21:23:41.057469+00:00",
+    "lastUpdatedUTC": "2026-06-24T23:04:47.962581+00:00",
     "articles": [
         {
             "source": "ZDNet Security",
             "title": "It's Prime Day 2: Our editors hand-picked the 90+ best deals and are tracking them live",
             "link": "https://www.zdnet.com/article/amazon-june-prime-day-live-blog-06-24-2026/",
             "summary": "LIVE: Amazon Prime Day 2026 deals are here, but they aren't all good. Follow our live blog for real-time tracking on editor-approved products like 4K ...",
-            "published_utc": "2026-06-24T21:19:00+00:00"
+            "published_utc": "2026-06-24T22:41:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Be on the lookout for Mistic, a new backdoor used by ransomware broker",
+            "link": "https://www.csoonline.com/article/4189132/be-on-the-lookout-for-mistic-a-new-backdoor-used-by-ransomware-broker.html",
+            "summary": "",
+            "published_utc": "2026-06-24T22:20:25+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "DraftKings hacker 'Snoopy' sentenced to 18 months in prison",
+            "link": "https://www.bleepingcomputer.com/news/security/draftkings-hacker-snoopy-sentenced-to-18-months-in-prison/",
+            "summary": "A 21-year-old using the alias \"Snoopy\" was sentenced to 18 months in prison for his role in hacking DraftKings accounts in the November 2022 cyberatta...",
+            "published_utc": "2026-06-24T21:55:43+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Mandiant reveals how Cisco SD-WAN zero-day attacks gained root access",
+            "link": "https://www.bleepingcomputer.com/news/security/mandiant-reveals-how-cisco-sd-wan-zero-day-attacks-gained-root-access/",
+            "summary": "New details have been revealed on how hackers exploited a Cisco Catalyst SD-WAN vulnerability tracked as CVE-2026-20245 in zero-day attacks to create ...",
+            "published_utc": "2026-06-24T21:29:10+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -52,10 +73,10 @@
         },
         {
             "source": "ZDNet Security",
-            "title": "I found the best anti-Prime Day deals from Best Buy, Target, Walmart, Sam's Club, and more",
-            "link": "https://www.zdnet.com/article/anti-prime-day-deals-amazon-prime-day-2026/",
-            "summary": "Refuse to shop at Amazon? I found even better deals from other retailers right now.",
-            "published_utc": "2026-06-24T19:58:10+00:00"
+            "title": "I found the best Prime Day alternative deals from Best Buy, Target, Walmart, Sam's Club, and more",
+            "link": "https://www.zdnet.com/article/prime-day-alternative-deals-amazon-prime-day-2026/",
+            "summary": "Don't want to shop at Amazon? I found even better deals from other retailers right now.",
+            "published_utc": "2026-06-24T19:58:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -224,13 +245,6 @@
             "link": "https://www.securityweek.com/macos-weaknesses-chained-to-silently-disable-endpoint-security-agents/",
             "summary": "",
             "published_utc": "2026-06-24T13:50:53+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Third DraftKings Hacker Sentenced to 18 Months in Prison",
-            "link": "https://www.securityweek.com/third-draftkings-hacker-sentenced-to-18-months-in-prison/",
-            "summary": "",
-            "published_utc": "2026-06-24T12:52:40+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -457,13 +471,6 @@
             "published_utc": "2026-06-23T13:00:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Webinar: Why email security teams are drowning in alerts",
-            "link": "https://www.bleepingcomputer.com/news/security/webinar-why-email-security-teams-are-drowning-in-alerts/",
-            "summary": "Phishing, BEC, and account takeover attacks continue to overwhelm security teams with alerts and investigations. This webinar explores how behavioral ...",
-            "published_utc": "2026-06-23T12:12:20+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Unpatched SharePoint servers opened the door to multiple attackers, Microsoft finds",
             "link": "https://www.csoonline.com/article/4188359/unpatched-sharepoint-servers-opened-the-door-to-multiple-attackers-microsoft-finds.html",
@@ -518,13 +525,6 @@
             "link": "https://www.csoonline.com/article/4188144/github-actions-hardens-checkout-security-to-block-pwn-request-attacks-2.html",
             "summary": "",
             "published_utc": "2026-06-22T23:49:10+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "WhatsApp phishing attack uses fake business docs to hack PCs",
-            "link": "https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/",
-            "summary": "An ongoing malware campaign is targeting WhatsApp users in multiple countries with deceptive messages that push VBScript files, leading to remote syst...",
-            "published_utc": "2026-06-22T22:42:21+00:00"
         },
         {
             "source": "WIRED Security",
@@ -651,13 +651,6 @@
             "link": "https://www.csoonline.com/article/4187329/threat-actor-adds-advanced-edr-killer-tools-to-ransomware-as-a-service-platform.html",
             "summary": "",
             "published_utc": "2026-06-19T20:07:36+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Microsoft broke some OLE automations with latest Windows update",
-            "link": "https://www.csoonline.com/article/4187275/microsoft-broke-some-ole-automations-with-latest-windows-update-2.html",
-            "summary": "",
-            "published_utc": "2026-06-19T14:41:03+00:00"
         },
         {
             "source": "Schneier",
@@ -1116,16 +1109,16 @@
         },
         {
             "source": "WIRED Security",
-            "title": "Soccer Fans, You’re Being Watched",
-            "link": "https://www.wired.com/story/soccer-world-cup-biometric-surveillance/",
-            "summary": "From anti-drone tech to face recognition, 2026 World Cup stadiums in the US, Canada, and Mexico are subjecting fans to an array of surveillance tech. ...",
+            "title": "Mapping Every Flock License Plate Reader Near US World Cup Stadiums",
+            "link": "https://www.wired.com/story/us-world-cup-2026-alpr-camera-stadiums/",
+            "summary": "Most US World Cup stadiums are surrounded by surveillance cameras. Want to know if you’re being watched on your way to a match? These maps will help you.",
             "published_utc": "2026-06-10T10:00:00+00:00"
         },
         {
             "source": "WIRED Security",
-            "title": "Mapping Every Flock License Plate Reader Near US World Cup Stadiums",
-            "link": "https://www.wired.com/story/us-world-cup-2026-alpr-camera-stadiums/",
-            "summary": "Most US World Cup stadiums are surrounded by surveillance cameras. Want to know if you’re being watched on your way to a match? These maps will help you.",
+            "title": "Soccer Fans, You’re Being Watched",
+            "link": "https://www.wired.com/story/soccer-world-cup-biometric-surveillance/",
+            "summary": "From anti-drone tech to face recognition, 2026 World Cup stadiums in the US, Canada, and Mexico are subjecting fans to an array of surveillance tech. ...",
             "published_utc": "2026-06-10T10:00:00+00:00"
         },
         {
