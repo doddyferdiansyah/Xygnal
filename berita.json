@@ -1,5 +1,5 @@
 {
-    "lastUpdatedUTC": "2026-06-27T18:04:54.880646+00:00",
+    "lastUpdatedUTC": "2026-06-27T20:08:51.135315+00:00",
     "articles": [
         {
             "source": "ZDNet Security",
@@ -7,6 +7,13 @@
             "link": "https://www.zdnet.com/article/tcl-nxtpaper-11-plus-amazon-prime-day-2026-deal/",
             "summary": "If you're in the market for a tablet, you literally need look no further than the TCL Nxtpaper 11 Plus, especially at this price.",
             "published_utc": "2026-06-27T16:00:23+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Clean GitHub repo tricks AI coding agents into running malware",
+            "link": "https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/",
+            "summary": "An agentic coding tool tasked with cloning and setting up a seemingly benign GitHub repository could execute a malicious payload that remains invisibl...",
+            "published_utc": "2026-06-27T14:22:36+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -142,6 +149,13 @@
             "published_utc": "2026-06-26T22:21:11+00:00"
         },
         {
+            "source": "BleepingComputer",
+            "title": "FBI: Russian hackers now target Signal backup recovery keys",
+            "link": "https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/",
+            "summary": "The FBI and CISA are warning that a phishing campaign targeting Signal users tied to Russian intelligence services has evolved to steal Signal Backup ...",
+            "published_utc": "2026-06-26T22:06:17+00:00"
+        },
+        {
             "source": "ZDNet Security",
             "title": "My favorite Prime Day streaming stick deal will be gone soon - here's why you need it",
             "link": "https://www.zdnet.com/article/amazon-prime-day-2026-fire-tv-stick-4k-plus-deal/",
@@ -168,6 +182,27 @@
             "link": "https://www.schneier.com/blog/archives/2026/06/the-chinese-control-the-majority-of-argentinas-squid-fleet.html",
             "summary": "",
             "published_utc": "2026-06-26T20:57:04+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "CISA sets urgent deadline to fix Cisco flaw exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks/",
+            "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is giving federal agencies until Sunday to patch a vulnerability in Cisco Unified Com...",
+            "published_utc": "2026-06-26T19:43:06+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Polymarket customers lose $3 million in supply-chain attack",
+            "link": "https://www.bleepingcomputer.com/news/security/polymarket-customers-lose-3-million-in-supply-chain-attack/",
+            "summary": "Polymarket says it will fully reimburse customers who lost an estimated $3 million after hackers injected a malicious script into the platform's front...",
+            "published_utc": "2026-06-26T18:04:12+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Cybersecurity firms targeted by fraudulent OpenAI organization invites",
+            "link": "https://www.bleepingcomputer.com/news/security/cybersecurity-firms-targeted-by-fraudulent-openai-organization-invites/",
+            "summary": "Threat actors are creating OpenAI tenants that impersonate legitimate companies and inviting employees to join them, in what appears to be a ploy to t...",
+            "published_utc": "2026-06-26T17:49:07+00:00"
         },
         {
             "source": "Schneier",
@@ -217,6 +252,13 @@
             "link": "https://www.securityweek.com/in-other-news-chinese-mythos-like-ai-tata-electronics-breach-snyk-layoffs/",
             "summary": "",
             "published_utc": "2026-06-26T14:30:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Your First GRC Agent: A Red Teamer's Walkthrough",
+            "link": "https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/",
+            "summary": "AI won't replace GRC analysts, but it can eliminate much of the repetitive work they do. Anecdotes walks through building an agent that continuously m...",
+            "published_utc": "2026-06-26T14:01:11+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -317,11 +359,60 @@
             "published_utc": "2026-06-26T07:30:00+00:00"
         },
         {
+            "source": "BleepingComputer",
+            "title": "Anthropic is testing desktop-like Claude Cowork for mobile",
+            "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-testing-desktop-like-claude-cowork-for-mobile/",
+            "summary": "Anthropic appears to be testing Claude Cowork support on mobile, allowing you to manage long-running Claude tasks from your phone. [...]",
+            "published_utc": "2026-06-25T22:53:32+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Poland busts SIM-swapping gang tied to millions in crypto theft",
+            "link": "https://www.bleepingcomputer.com/news/security/poland-busts-sim-swapping-gang-tied-to-millions-in-crypto-theft/",
+            "summary": "Authorities in Poland have arrested four members of an organized cybercrime group accused of breaching telecommunications partners and hijacking email...",
+            "published_utc": "2026-06-25T22:37:42+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Order-tracking app Shop abused to push callback phishing attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/order-tracking-app-shop-abused-to-push-callback-phishing-attacks/",
+            "summary": "Threat actors are increasingly abusing Shop, the order-tracking app from Shopify, by adding fake purchase receipts in users' order histories to trick ...",
+            "published_utc": "2026-06-25T19:45:48+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft quietly extends free Windows 10 ESU support to October 2027",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-quietly-extends-free-windows-10-esu-support-to-october-2027/",
+            "summary": "Microsoft has quietly extended its free Windows 10 Extended Security Updates (ESU) program for consumers by an additional year, allowing enrolled devi...",
+            "published_utc": "2026-06-25T18:29:20+00:00"
+        },
+        {
             "source": "Schneier",
             "title": "AI and Liability",
             "link": "https://www.schneier.com/blog/archives/2026/06/ai-and-liability.html",
             "summary": "",
             "published_utc": "2026-06-25T17:03:15+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "New macOS malware embeds fake errors to confuse AI analysis tools",
+            "link": "https://www.bleepingcomputer.com/news/security/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools/",
+            "summary": "A newly discovered macOS malware dubbed \"Gaslight\" is designed to confuse AI-assisted malware analysis tools by hiding prompt injection strings and fa...",
+            "published_utc": "2026-06-25T16:23:19+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "PirloTV sports piracy network disrupted as 44 domains seized",
+            "link": "https://www.bleepingcomputer.com/news/security/pirlotv-sports-piracy-network-disrupted-as-44-domains-seized/",
+            "summary": "A major sports piracy ring linked to the illegal PirloTV streaming platform has been disrupted in an action that targeted 44 domains. [...]",
+            "published_utc": "2026-06-25T15:36:56+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Bluekit phishing kit adopts browser-in-the-middle for login theft",
+            "link": "https://www.bleepingcomputer.com/news/security/bluekit-phishing-kit-adopts-browser-in-the-middle-for-login-theft/",
+            "summary": "The Bluekit phishing-as-a-service platform continues to evolve with nearly 70 new hostnames identified over the past week and by adding browser-in-the...",
+            "published_utc": "2026-06-25T15:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -331,11 +422,25 @@
             "published_utc": "2026-06-25T14:15:00+00:00"
         },
         {
+            "source": "BleepingComputer",
+            "title": "The Four Elevations of Effective Fraud Prevention",
+            "link": "https://www.bleepingcomputer.com/news/security/the-four-elevations-of-effective-fraud-prevention/",
+            "summary": "Fraudsters don't attack just one transaction. They target accounts, platforms, and entire ecosystems. IPQS explains the four elevations of fraud preve...",
+            "published_utc": "2026-06-25T14:01:11+00:00"
+        },
+        {
             "source": "InfosecurityMag",
             "title": "Twenty Million US IP Connections Used by Proxy Services",
             "link": "https://www.infosecurity-magazine.com/news/twenty-million-us-ip-connections/",
             "summary": "Digital Citizens Alliance report claims that millions of Americans may have unwittingly had IP connections used by cybercriminals",
             "published_utc": "2026-06-25T13:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Webinar: Why account takeovers remain one of the hardest threats to stop",
+            "link": "https://www.bleepingcomputer.com/news/security/webinar-why-account-takeovers-remain-one-of-the-hardest-threats-to-stop/",
+            "summary": "Account takeover attacks continue to challenge security teams because attackers often operate through legitimate accounts and trusted services. This w...",
+            "published_utc": "2026-06-25T12:12:20+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1123,16 +1228,16 @@
         },
         {
             "source": "WIRED Security",
-            "title": "Mapping Every Flock License Plate Reader Near US World Cup Stadiums",
-            "link": "https://www.wired.com/story/us-world-cup-2026-alpr-camera-stadiums/",
-            "summary": "Most US World Cup stadiums are surrounded by surveillance cameras. Want to know if you’re being watched on your way to a match? These maps will help you.",
+            "title": "Soccer Fans, You’re Being Watched",
+            "link": "https://www.wired.com/story/soccer-world-cup-biometric-surveillance/",
+            "summary": "From anti-drone tech to face recognition, 2026 World Cup stadiums in the US, Canada, and Mexico are subjecting fans to an array of surveillance tech. ...",
             "published_utc": "2026-06-10T10:00:00+00:00"
         },
         {
             "source": "WIRED Security",
-            "title": "Soccer Fans, You’re Being Watched",
-            "link": "https://www.wired.com/story/soccer-world-cup-biometric-surveillance/",
-            "summary": "From anti-drone tech to face recognition, 2026 World Cup stadiums in the US, Canada, and Mexico are subjecting fans to an array of surveillance tech. ...",
+            "title": "Mapping Every Flock License Plate Reader Near US World Cup Stadiums",
+            "link": "https://www.wired.com/story/us-world-cup-2026-alpr-camera-stadiums/",
+            "summary": "Most US World Cup stadiums are surrounded by surveillance cameras. Want to know if you’re being watched on your way to a match? These maps will help you.",
             "published_utc": "2026-06-10T10:00:00+00:00"
         },
         {
