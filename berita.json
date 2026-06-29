@@ -1,6 +1,104 @@
 {
-    "lastUpdatedUTC": "2026-06-29T14:05:00.278011+00:00",
+    "lastUpdatedUTC": "2026-06-29T17:37:48.127394+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft extends Windows Server 2022 hotpatching until October 2027",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-extends-windows-server-2022-hotpatching-until-october-2027/",
+            "summary": "Microsoft has extended Windows Server 2022 hotpatching until October 2027, one year after the mainstream end date of October 2026. [...]",
+            "published_utc": "2026-06-29T17:11:15+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Internet down? 3 ways I use an old Android phone as a backup connection for my home router",
+            "link": "https://www.zdnet.com/article/how-to-use-old-android-phone-as-backup-internet-connection-for-home-router/",
+            "summary": "I needed a way to connect my phone to my router, and have it work reliably. Turns out, I have 3 options (and I saved the best for last).",
+            "published_utc": "2026-06-29T16:54:48+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I changed these Android Auto settings to limit what Gemini learns about me - here's why",
+            "link": "https://www.zdnet.com/article/stop-gemini-from-listening-in-android-auto/",
+            "summary": "Google's AI offers a lot of convenience in your car, but you're offering up a lot of sensitive information. Here's how to put a lock on it.",
+            "published_utc": "2026-06-29T16:38:00+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Factoring RSA Keys with Many Zeros",
+            "link": "https://www.schneier.com/blog/archives/2026/06/factoring-rsa-keys-with-many-zeros.html",
+            "summary": "",
+            "published_utc": "2026-06-29T16:05:18+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "WhatsApp Rolling Out Username Feature to Bolster Phone Number Privacy",
+            "link": "https://www.securityweek.com/whatsapp-rolling-out-username-feature-to-bolster-phone-number-privacy/",
+            "summary": "",
+            "published_utc": "2026-06-29T16:00:01+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "U.S. offers $10 million for hackers targeting WhatsApp, Signal users",
+            "link": "https://www.bleepingcomputer.com/news/security/us-offers-10-million-for-hackers-targeting-whatsapp-signal-users/",
+            "summary": "The U.S. Department of State is offering up to $10 million for information that helps identify or locate members of the UNC5792 and UNC4221 hacker gro...",
+            "published_utc": "2026-06-29T15:09:43+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "OpenAI Reveals GPT-5.6 Sol Cybersecurity Model, Restricts Early Access",
+            "link": "https://www.infosecurity-magazine.com/news/openai-gpt-5-6-sol-limited-preview/",
+            "summary": "OpenAI is previewing its GPT-5.6 Sol model to a vetted few at the US government's request",
+            "published_utc": "2026-06-29T15:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Chrome vs. Edge vs. Firefox: I tested each browser's AI, but I'm only sticking with one",
+            "link": "https://www.zdnet.com/article/chrome-vs-edge-vs-firefox-ai-browsers/",
+            "summary": "Looking to use AI while you browse the web? Here's how the AI tools in Chrome, Edge, and Firefox compare.",
+            "published_utc": "2026-06-29T14:52:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Six months later, this small gadget is my secret weapon against doomscrolling",
+            "link": "https://www.zdnet.com/article/brick-iphone-review/",
+            "summary": "Brick is one of the few new devices that positively changed my daily content consumption. You can finally buy it on Amazon.",
+            "published_utc": "2026-06-29T14:49:47+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Telegram-Based Millenium RAT Campaign Infects 60,000 Devices",
+            "link": "https://www.infosecurity-magazine.com/news/millenium-rat-telegram-60000/",
+            "summary": "Group-IB says Millenium RAT, now rewritten in C++, has hit 62,289 devices in 160+ countries",
+            "published_utc": "2026-06-29T14:30:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Researchers Demo New Claude Code Attack Using Harmless-Looking Repositories to Hijack Developer Machines",
+            "link": "https://www.securityweek.com/new-attack-abuses-claude-code-and-harmless-looking-repositories-to-hijack-developer-machines/",
+            "summary": "",
+            "published_utc": "2026-06-29T14:28:40+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Straiker Raises $64 Million for AI Security Platform",
+            "link": "https://www.securityweek.com/straiker-raises-64-million-for-ai-security-platform/",
+            "summary": "",
+            "published_utc": "2026-06-29T14:07:34+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Agentic AI Has an Identity Problem and Attackers Know It",
+            "link": "https://www.bleepingcomputer.com/news/security/agentic-ai-has-an-identity-problem-and-attackers-know-it/",
+            "summary": "AI agents can access data, trigger workflows, and take action across enterprise systems. Token Security explains why governing these privileged identi...",
+            "published_utc": "2026-06-29T14:01:11+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Critical SimpleHelp flaw exploited to deploy new stealer malware",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-simplehelp-flaw-deploy-new-djinn-infostealer-taskweaver-malware/",
+            "summary": "Hackers are exploiting a recently disclosed critical vulnerability (CVE-2026-48558) in SimpleHelp to deploy Djinn Stealer, a previously undocumented c...",
+            "published_utc": "2026-06-29T14:00:00+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Hackers now exploit critical Oracle E-Business flaw in attacks",
@@ -138,8 +236,8 @@
             "source": "ZDNet Security",
             "title": "Prime Day is over, but these 5 deals are still live (and you don't want to miss them)",
             "link": "https://www.zdnet.com/article/5-amazon-prime-day-deals-still-live-2026/",
-            "summary": "Amazon Prime Day is over, but some of my favorite offers are still available, including deals on the Ninja Slushi, Garmin Fenix 8 Pro, Walmart Plus, a...",
-            "published_utc": "2026-06-29T03:23:51+00:00"
+            "summary": "Amazon Prime Day is over, but some of my favorite offers are still available, including deals on the Garmin Fenix 8 Pro, Walmart Plus, and more.",
+            "published_utc": "2026-06-29T03:23:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -185,13 +283,6 @@
         },
         {
             "source": "ZDNet Security",
-            "title": "Use Android Auto? How to limit what information Gemini learns about you",
-            "link": "https://www.zdnet.com/article/stop-gemini-from-listening-in-android-auto/",
-            "summary": "Google's AI offers a lot of convenience in your car, but you're offering up a lot of sensitive information.",
-            "published_utc": "2026-06-28T10:00:57+00:00"
-        },
-        {
-            "source": "ZDNet Security",
             "title": "The E Ink tablet that successfully replaced my iPad and Kindle is still 30% off on Amazon right now",
             "link": "https://www.zdnet.com/article/tcl-nxtpaper-11-plus-amazon-prime-day-2026-deal/",
             "summary": "If you're in the market for a tablet, you literally need look no further than the TCL Nxtpaper 11 Plus, especially at this price.",
@@ -224,27 +315,6 @@
             "link": "https://www.zdnet.com/article/best-amazon-prime-day-walmart-deals-still-live-2026/",
             "summary": "Walmart's massive rival Prime Day sale ends Sunday night, but great deals on 4K smart TVs, Apple tech, and laptops are still live.",
             "published_utc": "2026-06-27T13:47:06+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "This Garmin smartwatch is a top-selling Prime Day deal (that's still live) - here's why I recommend it",
-            "link": "https://www.zdnet.com/article/garmin-fenix-8-pro-smartwatch-deal-prime-day-2026/",
-            "summary": "The Garmin Fenix 8 Pro is a luxury smartwatch with rugged features - and ZDNET readers are taking advantage of the current all-time low price, even th...",
-            "published_utc": "2026-06-27T13:37:34+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Prime Day is over, but these 60+ top deals are still live (for now): Apple, Garmin, LG, more",
-            "link": "https://www.zdnet.com/article/amazon-june-prime-day-live-blog-06-27-2026/",
-            "summary": "Amazon Prime Day 2026 deals have come and gone, but we're still seeing some of the same discounts live on editor-approved products like TVs, laptops, ...",
-            "published_utc": "2026-06-27T13:35:01+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How I turned my old Android phone into a streaming stick for free - in 6 easy steps",
-            "link": "https://www.zdnet.com/article/how-to-turn-android-phone-into-streaming-stick-roku-fire-tv/",
-            "summary": "Skip the streaming stick - here's how I used a spare Pixel phone to watch movies on my TV.",
-            "published_utc": "2026-06-27T13:00:41+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -331,13 +401,6 @@
             "published_utc": "2026-06-26T15:23:46+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "More Klue Breach Victims Identified as Hackers Get Hacked",
-            "link": "https://www.securityweek.com/more-klue-breach-victims-identified-as-hackers-get-hacked/",
-            "summary": "",
-            "published_utc": "2026-06-26T15:01:33+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Cyberattacks pose a ‘threat to life’ in Australia",
             "link": "https://www.csoonline.com/article/4190054/cyberattacks-pose-a-threat-to-life-in-australia.html",
@@ -345,25 +408,11 @@
             "published_utc": "2026-06-26T14:58:37+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "In Other News: Chinese Mythos-Like AI, Tata Electronics Breach, Snyk Layoffs",
-            "link": "https://www.securityweek.com/in-other-news-chinese-mythos-like-ai-tata-electronics-breach-snyk-layoffs/",
-            "summary": "",
-            "published_utc": "2026-06-26T14:30:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Your First GRC Agent: A Red Teamer's Walkthrough",
             "link": "https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/",
             "summary": "AI won't replace GRC analysts, but it can eliminate much of the repetitive work they do. Anecdotes walks through building an agent that continuously m...",
             "published_utc": "2026-06-26T14:01:11+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Nebulock Raises $25 Million for AI-Native Contextual Security",
-            "link": "https://www.securityweek.com/nebulock-raises-25-million-for-ai-native-contextual-security/",
-            "summary": "",
-            "published_utc": "2026-06-26T12:37:13+00:00"
         },
         {
             "source": "Schneier",
@@ -429,39 +478,11 @@
             "published_utc": "2026-06-25T22:53:32+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Poland busts SIM-swapping gang tied to millions in crypto theft",
-            "link": "https://www.bleepingcomputer.com/news/security/poland-busts-sim-swapping-gang-tied-to-millions-in-crypto-theft/",
-            "summary": "Authorities in Poland have arrested four members of an organized cybercrime group accused of breaching telecommunications partners and hijacking email...",
-            "published_utc": "2026-06-25T22:37:42+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Order-tracking app Shop abused to push callback phishing attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/order-tracking-app-shop-abused-to-push-callback-phishing-attacks/",
-            "summary": "Threat actors are increasingly abusing Shop, the order-tracking app from Shopify, by adding fake purchase receipts in users' order histories to trick ...",
-            "published_utc": "2026-06-25T19:45:48+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft quietly extends free Windows 10 ESU support to October 2027",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-quietly-extends-free-windows-10-esu-support-to-october-2027/",
-            "summary": "Microsoft has quietly extended its free Windows 10 Extended Security Updates (ESU) program for consumers by an additional year, allowing enrolled devi...",
-            "published_utc": "2026-06-25T18:29:20+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "AI and Liability",
             "link": "https://www.schneier.com/blog/archives/2026/06/ai-and-liability.html",
             "summary": "",
             "published_utc": "2026-06-25T17:03:15+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "New macOS malware embeds fake errors to confuse AI analysis tools",
-            "link": "https://www.bleepingcomputer.com/news/security/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools/",
-            "summary": "A newly discovered macOS malware dubbed \"Gaslight\" is designed to confuse AI-assisted malware analysis tools by hiding prompt injection strings and fa...",
-            "published_utc": "2026-06-25T16:23:19+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -819,13 +840,6 @@
             "link": "https://www.wired.com/story/security-news-this-week-hackers-claim-to-leak-stolen-madison-square-garden-data/",
             "summary": "Plus: Gay bars in San Francisco using face scanners, France quits Palantir, Apple plans to change its private email, and more.",
             "published_utc": "2026-06-20T09:30:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Friday Squid Blogging: Victims of Unregulated Squid Fishing",
-            "link": "https://www.schneier.com/blog/archives/2026/06/friday-squid-blogging-victims-of-unregulated-squid-fishing.html",
-            "summary": "",
-            "published_utc": "2026-06-19T21:03:48+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2765,20 +2779,6 @@
             "link": "https://www.infosecurity-magazine.com/news/silent-subject-phishing-campaigns/",
             "summary": "Null subject phishing campaigns bypass filters and target VIPs with QR code and RMM abuse",
             "published_utc": "2026-04-22T13:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Former Ransomware Negotiator Pleads Guilty to Working For BlackCat Cyber Gang",
-            "link": "https://www.infosecurity-magazine.com/news/former-ransomware-negotiator/",
-            "summary": "A former ransomware negotiator has pleaded guilty to abusing his position by working with noted cybercrime group BlackCat",
-            "published_utc": "2026-04-22T11:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Researchers Uncover ProxySmart Software Powering 90+ SIM Farms",
-            "link": "https://www.infosecurity-magazine.com/news/researchers-proxysmart-software-90/",
-            "summary": "Infrawatch says ProxySmart platform enables SIM farm activity at “industrial scale”",
-            "published_utc": "2026-04-22T10:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
