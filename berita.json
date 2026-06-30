@@ -1,6 +1,62 @@
 {
-    "lastUpdatedUTC": "2026-06-30T12:09:55.905763+00:00",
+    "lastUpdatedUTC": "2026-06-30T15:28:59.431317+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "Why I switched to wireless security cameras after years of testing wired models",
+            "link": "https://www.zdnet.com/article/why-i-use-wireless-security-cameras-at-home-versus-wired/",
+            "summary": "After using multiple security cameras from Ring, Blink, and more, I've found the best arrangement for my home.",
+            "published_utc": "2026-06-30T14:33:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Netflix vs. Peacock: Which one deserves your money in 2026?",
+            "link": "https://www.zdnet.com/article/netflix-vs-peacock-streaming-services/",
+            "summary": "Netflix has award-winning originals and a smart algorithm, but Peacock counters with live sports and a lower price.",
+            "published_utc": "2026-06-30T14:10:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Lessons from the Underground: How to Combat Business Email Compromise",
+            "link": "https://www.bleepingcomputer.com/news/security/lessons-from-the-underground-how-to-combat-business-email-compromise/",
+            "summary": "Business Email Compromise is more than an email scam. It's a coordinated operation involving compromised accounts, financial research, and cash-out ne...",
+            "published_utc": "2026-06-30T14:00:10+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "BlueHammer Vulnerability Exploited in Ransomware Attacks",
+            "link": "https://www.securityweek.com/bluehammer-vulnerability-exploited-in-ransomware-attacks/",
+            "summary": "",
+            "published_utc": "2026-06-30T13:56:07+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Apple rushed to squash 29 bugs because AI is supercharging hackers - update ASAP",
+            "link": "https://www.zdnet.com/article/apple-rushed-software-fixes-over-ai-threats-update-iphone-asap/",
+            "summary": "Software updates are rolling out now for iPhone, iPad, and Mac, bringing fixes that weren't supposed to arrive so soon. Here's why.",
+            "published_utc": "2026-06-30T13:43:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Decades-Old Bash Tricks Expose AI Coding Agents to Supply Chain Attacks",
+            "link": "https://www.securityweek.com/decades-old-bash-tricks-expose-ai-coding-agents-to-supply-chain-attacks/",
+            "summary": "",
+            "published_utc": "2026-06-30T13:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Aflac Japan Data Breach Impacts 4.38 Million",
+            "link": "https://www.securityweek.com/aflac-japan-data-breach-impacts-4-38-million/",
+            "summary": "",
+            "published_utc": "2026-06-30T12:52:33+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "61% of US adults use AI for health information now - up from 2% in 2024",
+            "link": "https://www.zdnet.com/article/us-adults-use-ai-for-health-information-now/",
+            "summary": "Patients are also three times more likely to trust AI in their doctor's secure portal than a public chatbot.",
+            "published_utc": "2026-06-30T12:52:25+00:00"
+        },
         {
             "source": "Schneier",
             "title": "The Realities of AI Video Surveillance",
@@ -53,7 +109,7 @@
         {
             "source": "BleepingComputer",
             "title": "Microsoft adds smarter bot protection to Teams meetings",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/mircosoft-adds-smarter-bot-protection-to-teams-meetings/",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-smarter-bot-protection-to-teams-meetings/",
             "summary": "Microsoft has introduced a new Teams admin policy that allows organizers to prevent third-party bots from joining meetings without approval. [...]",
             "published_utc": "2026-06-30T10:52:26+00:00"
         },
@@ -156,13 +212,6 @@
             "published_utc": "2026-06-30T06:40:02+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "New Controller Flaws Expose Highway Signs and Billboards to Remote Hacking",
-            "link": "https://www.securityweek.com/new-controller-flaws-expose-highway-signs-and-billboards-to-remote-hacking/",
-            "summary": "",
-            "published_utc": "2026-06-30T05:04:15+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
             "link": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
@@ -247,13 +296,6 @@
             "published_utc": "2026-06-29T16:05:18+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "WhatsApp Rolling Out Username Feature to Bolster Phone Number Privacy",
-            "link": "https://www.securityweek.com/whatsapp-rolling-out-username-feature-to-bolster-phone-number-privacy/",
-            "summary": "",
-            "published_utc": "2026-06-29T16:00:01+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "U.S. offers $10 million for hackers targeting WhatsApp, Signal users",
             "link": "https://www.bleepingcomputer.com/news/security/us-offers-10-million-for-hackers-targeting-whatsapp-signal-users/",
@@ -287,13 +329,6 @@
             "link": "https://www.infosecurity-magazine.com/news/millenium-rat-telegram-60000/",
             "summary": "Group-IB says Millenium RAT, now rewritten in C++, has hit 62,289 devices in 160+ countries",
             "published_utc": "2026-06-29T14:30:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Researchers Demo New Claude Code Attack Using Harmless-Looking Repositories to Hijack Developer Machines",
-            "link": "https://www.securityweek.com/new-attack-abuses-claude-code-and-harmless-looking-repositories-to-hijack-developer-machines/",
-            "summary": "",
-            "published_utc": "2026-06-29T14:28:40+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -352,25 +387,11 @@
             "published_utc": "2026-06-29T12:00:38+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "US seizes hundreds of FIFA World Cup illegal streaming domains",
-            "link": "https://www.bleepingcomputer.com/news/security/us-seizes-hundreds-of-fifa-world-cup-illegal-streaming-domains/",
-            "summary": "The U.S. Justice Department's Criminal Division has seized nearly 400 web domains used for illegally streaming matches at the FIFA World Cup. [...]",
-            "published_utc": "2026-06-29T11:21:03+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Robot Police Officers",
             "link": "https://www.schneier.com/blog/archives/2026/06/robot-police-officers.html",
             "summary": "",
             "published_utc": "2026-06-29T10:55:33+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "8 plug-in gadgets that take your outlets from basic to better (including a lifesaver)",
-            "link": "https://www.zdnet.com/article/best-wall-outlet-gadgets/",
-            "summary": "These plug-in gadgets make your home's routine easier. Here's why I recommend them.",
-            "published_utc": "2026-06-29T10:00:39+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -394,13 +415,6 @@
             "published_utc": "2026-06-29T09:15:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "How to make Linux look like MacOS for free - with a few simple ZorinOS tweaks",
-            "link": "https://www.zdnet.com/article/how-to-make-linux-look-like-macos-for-free-simple-zorinos-tweaks/",
-            "summary": "Looking to migrate to Linux but fond of the Mac UI? Zorin OS can help make your new distro look very much like the one you just left. Here's how to ac...",
-            "published_utc": "2026-06-29T09:00:45+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "Inside the inbox: Why cybercriminals want to break into your email account",
             "link": "https://www.welivesecurity.com/en/cybersecurity/inside-inbox-cybercriminals-want-break-email-account/",
@@ -413,20 +427,6 @@
             "link": "https://www.infosecurity-magazine.com/news/fbi-alarm-russian-intelligence/",
             "summary": "The FBI claims Russian spies are targeting Signal backup keys",
             "published_utc": "2026-06-29T08:15:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Prime Day is over, but these 5 deals are still live (and you don't want to miss them)",
-            "link": "https://www.zdnet.com/article/5-amazon-prime-day-deals-still-live-2026/",
-            "summary": "Amazon Prime Day is over, but some of my favorite offers are still available, including deals on the Garmin Fenix 8 Pro, Walmart Plus, and more.",
-            "published_utc": "2026-06-29T03:23:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I built a whole-home ad blocker with a $7 ESP32-S3 board - and it took just minutes",
-            "link": "https://www.zdnet.com/article/how-i-block-ads-with-cheap-raspberry-pi-alternative/",
-            "summary": "Raspberry Pi boards have gotten expensive, so I found a cheap alternative in a tiny ESP32-S3 board.",
-            "published_utc": "2026-06-29T01:00:39+00:00"
         },
         {
             "source": "WIRED Security",
@@ -1312,16 +1312,16 @@
         },
         {
             "source": "WIRED Security",
-            "title": "Soccer Fans, You’re Being Watched",
-            "link": "https://www.wired.com/story/soccer-world-cup-biometric-surveillance/",
-            "summary": "From anti-drone tech to face recognition, 2026 World Cup stadiums in the US, Canada, and Mexico are subjecting fans to an array of surveillance tech. ...",
+            "title": "Mapping Every Flock License Plate Reader Near US World Cup Stadiums",
+            "link": "https://www.wired.com/story/us-world-cup-2026-alpr-camera-stadiums/",
+            "summary": "Most US World Cup stadiums are surrounded by surveillance cameras. Want to know if you’re being watched on your way to a match? These maps will help you.",
             "published_utc": "2026-06-10T10:00:00+00:00"
         },
         {
             "source": "WIRED Security",
-            "title": "Mapping Every Flock License Plate Reader Near US World Cup Stadiums",
-            "link": "https://www.wired.com/story/us-world-cup-2026-alpr-camera-stadiums/",
-            "summary": "Most US World Cup stadiums are surrounded by surveillance cameras. Want to know if you’re being watched on your way to a match? These maps will help you.",
+            "title": "Soccer Fans, You’re Being Watched",
+            "link": "https://www.wired.com/story/soccer-world-cup-biometric-surveillance/",
+            "summary": "From anti-drone tech to face recognition, 2026 World Cup stadiums in the US, Canada, and Mexico are subjecting fans to an array of surveillance tech. ...",
             "published_utc": "2026-06-10T10:00:00+00:00"
         },
         {
