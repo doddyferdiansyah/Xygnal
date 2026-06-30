@@ -1,6 +1,97 @@
 {
-    "lastUpdatedUTC": "2026-06-30T09:38:29.677911+00:00",
+    "lastUpdatedUTC": "2026-06-30T12:09:55.905763+00:00",
     "articles": [
+        {
+            "source": "Schneier",
+            "title": "The Realities of AI Video Surveillance",
+            "link": "https://www.schneier.com/blog/archives/2026/06/the-realities-of-ai-video-surveillance.html",
+            "summary": "",
+            "published_utc": "2026-06-30T12:05:57+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Hacker Conversations: Chris Thompson, Former Head of IBM X-Force Red, Co-Founder of RemoteThreat",
+            "link": "https://www.securityweek.com/hacker-conversations-chris-thompson-former-head-of-ibm-x-force-red-co-founder-of-remotethreat/",
+            "summary": "",
+            "published_utc": "2026-06-30T12:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "ClickFix Now Cybercriminals' Favorite Malware Delivery Technique",
+            "link": "https://www.infosecurity-magazine.com/news/clickfix-cybercriminals-favorite/",
+            "summary": "ReliaQuest report warns of a surge in ClickFix social engineering attacks against Windows and macOS users",
+            "published_utc": "2026-06-30T12:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Supreme Court Rules Constitutional Privacy Protections Apply to Cellphone Users’ Location History",
+            "link": "https://www.securityweek.com/supreme-court-rules-constitutional-privacy-protections-apply-to-cellphone-users-location-history/",
+            "summary": "",
+            "published_utc": "2026-06-30T11:48:40+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Malicious Chromium extension spoofs Perplexity AI to hijack browser searches",
+            "link": "https://www.csoonline.com/article/4191060/malicious-chromium-extension-spoofs-perplexity-ai-to-hijack-browser-searches.html",
+            "summary": "",
+            "published_utc": "2026-06-30T11:40:56+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Exploitation of Recent Oracle E-Business Suite Vulnerability Begins",
+            "link": "https://www.securityweek.com/exploitation-of-recent-oracle-e-business-suite-vulnerability-begins/",
+            "summary": "",
+            "published_utc": "2026-06-30T11:29:48+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Insurance giant Aflac discloses data breach after subsidiary hack",
+            "link": "https://www.bleepingcomputer.com/news/security/insurance-giant-aflac-discloses-data-breach-after-subsidiary-hack/",
+            "summary": "American insurance giant Aflac has disclosed a new data breach after attackers breached its Japan subsidiary's systems and stole personal and bank acc...",
+            "published_utc": "2026-06-30T11:12:18+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft adds smarter bot protection to Teams meetings",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/mircosoft-adds-smarter-bot-protection-to-teams-meetings/",
+            "summary": "Microsoft has introduced a new Teams admin policy that allows organizers to prevent third-party bots from joining meetings without approval. [...]",
+            "published_utc": "2026-06-30T10:52:26+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Hackers Leverage Blockchain to Hit Japan's Hotels Through Booking.com Phishing",
+            "link": "https://www.infosecurity-magazine.com/news/hackers-blockchain-japan-hotels/",
+            "summary": "A wave of phishing emails sent to Booking.com partner accommodations in Japan in May led to blockchain-hosted malware",
+            "published_utc": "2026-06-30T10:30:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Why 'countdown mode' is the task manager feature I can't live without",
+            "link": "https://www.zdnet.com/article/ticktick-task-manager-feature-countdown-mode/",
+            "summary": "This setting meshes perfectly with how my brain works, and I don't miss deadlines anymore.",
+            "published_utc": "2026-06-30T10:16:29+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "The AI Token Costs That Can Break Cybersecurity",
+            "link": "https://www.securityweek.com/the-ai-token-costs-that-can-break-cybersecurity/",
+            "summary": "",
+            "published_utc": "2026-06-30T10:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Kali Linux 2026.2 released with 9 new tools, NetHunter updates",
+            "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20262-released-with-9-new-tools-nethunter-updates/",
+            "summary": "Kali Linux 2026.2, the second release of the year, is now available for download, featuring 9 new tools and numerous Kali NetHunter improvements. [...]",
+            "published_utc": "2026-06-30T09:46:39+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Blackfield ransomware asks Nidec Corporation for $2 million ransom",
+            "link": "https://www.bleepingcomputer.com/news/security/blackfield-ransomware-asks-nidec-corporation-for-2-million-ransom/",
+            "summary": "The Blackfield ransomware gang is asking for a $2 million ransom from Nidec Corporation, a large Japanese manufacturer of electronic components for au...",
+            "published_utc": "2026-06-30T09:41:05+00:00"
+        },
         {
             "source": "InfosecurityMag",
             "title": "UK Healthcare Sector Records Tenfold Increase in Cyber-Attacks",
@@ -205,13 +296,6 @@
             "published_utc": "2026-06-29T14:28:40+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Straiker Raises $64 Million for AI Security Platform",
-            "link": "https://www.securityweek.com/straiker-raises-64-million-for-ai-security-platform/",
-            "summary": "",
-            "published_utc": "2026-06-29T14:07:34+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Agentic AI Has an Identity Problem and Attackers Know It",
             "link": "https://www.bleepingcomputer.com/news/security/agentic-ai-has-an-identity-problem-and-attackers-know-it/",
@@ -231,13 +315,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/new-oracle-e-business-suite-flaw-now-exploited-in-attacks/",
             "summary": "Attackers have begun exploiting a critical vulnerability (CVE-2026-46817) in the Oracle E-Business Suite (EBS) financial application, according to thr...",
             "published_utc": "2026-06-29T13:46:17+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Insurance Regulators Group NAIC Hit in Oracle PeopleSoft Hack",
-            "link": "https://www.securityweek.com/insurance-regulators-group-naic-hit-in-oracle-peoplesoft-hack/",
-            "summary": "",
-            "published_utc": "2026-06-29T13:42:28+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -282,25 +359,11 @@
             "published_utc": "2026-06-29T11:21:03+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "‘DirtyClone’ Linux Kernel Vulnerability Leads to Root Access",
-            "link": "https://www.securityweek.com/dirtyclone-linux-kernel-vulnerability-leads-to-root-access/",
-            "summary": "",
-            "published_utc": "2026-06-29T11:20:13+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Robot Police Officers",
             "link": "https://www.schneier.com/blog/archives/2026/06/robot-police-officers.html",
             "summary": "",
             "published_utc": "2026-06-29T10:55:33+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "OpenAI and Anthropic Limit New AI Models to Trump-Approved Customers During Cybersecurity Review",
-            "link": "https://www.securityweek.com/openai-and-anthropic-limit-new-ai-models-to-trump-approved-customers-during-cybersecurity-review/",
-            "summary": "",
-            "published_utc": "2026-06-29T10:14:01+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -366,27 +429,6 @@
             "published_utc": "2026-06-29T01:00:39+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Data breach exposes up to 14.2 million email logins at six ISPs",
-            "link": "https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/",
-            "summary": "Japanese telecommunications operator KDDI Corporation disclosed a data breach where threat actors gained access to one of its email systems used by fi...",
-            "published_utc": "2026-06-28T14:13:46+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Years of living with solar power taught me these 12 myths are simply wrong",
-            "link": "https://www.zdnet.com/article/home-solar-power-myths-debunked/",
-            "summary": "Knowing the facts about home solar power can help you make better-informed choices, save money, and stay safe.",
-            "published_utc": "2026-06-28T13:00:46+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Clean GitHub repo tricks AI coding agents into running malware",
-            "link": "https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/",
-            "summary": "An agentic coding tool tasked with cloning and setting up a seemingly benign GitHub repository could execute a malicious payload that remains invisibl...",
-            "published_utc": "2026-06-27T14:22:36+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "Security News This Week: LastPass Users Had Their Data Stolen—Again",
             "link": "https://www.wired.com/story/security-news-this-week-lastpass-users-had-their-data-stolen-again/",
@@ -401,25 +443,11 @@
             "published_utc": "2026-06-26T23:32:08+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "FBI: Russian hackers now target Signal backup recovery keys",
-            "link": "https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/",
-            "summary": "The FBI and CISA are warning that a phishing campaign targeting Signal users tied to Russian intelligence services has evolved to steal Signal Backup ...",
-            "published_utc": "2026-06-26T22:06:17+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "The Chinese Control the Majority of Argentina’s Squid Fleet",
             "link": "https://www.schneier.com/blog/archives/2026/06/the-chinese-control-the-majority-of-argentinas-squid-fleet.html",
             "summary": "",
             "published_utc": "2026-06-26T20:57:04+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "CISA sets urgent deadline to fix Cisco flaw exploited in attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks/",
-            "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is giving federal agencies until Sunday to patch a vulnerability in Cisco Unified Com...",
-            "published_utc": "2026-06-26T19:43:06+00:00"
         },
         {
             "source": "Schneier",
@@ -772,13 +800,6 @@
             "published_utc": "2026-06-23T11:03:07+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "OpenAI rolls out AI-led push to fix open-source software flaws",
-            "link": "https://www.csoonline.com/article/4188321/openai-rolls-out-ai-led-push-to-fix-open-source-software-flaws.html",
-            "summary": "",
-            "published_utc": "2026-06-23T10:32:40+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Scattered Spider Teens Convicted of TfL Cyber-Attack",
             "link": "https://www.infosecurity-magazine.com/news/scattered-spider-teens-convicted/",
@@ -819,13 +840,6 @@
             "link": "https://www.infosecurity-magazine.com/news/mastra-ai-supply-chain-attack/",
             "summary": "North Korean threat actor Sapphire Sleet has been linked to a supply chain attack targeting Mastra, according to Microsoft security researchers",
             "published_utc": "2026-06-22T11:30:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Professional Athletes and Wearables",
-            "link": "https://www.schneier.com/blog/archives/2026/06/professional-athletes-and-wearables.html",
-            "summary": "",
-            "published_utc": "2026-06-22T11:02:55+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2772,20 +2786,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ncsc-backs-passkeys-new-era-of/",
             "summary": "The UK’s NCSC has fully backed passkeys as consumers’ first choice for login, citing progress with FIDO and successful use across the NHS",
             "published_utc": "2026-04-23T08:45:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "MacOS Native Tools Enable Stealthy Enterprise Attacks",
-            "link": "https://www.infosecurity-magazine.com/news/macos-lotl-techniques-enterprise/",
-            "summary": "macOS LOTL techniques bypass detection using native tools and metadata abuse",
-            "published_utc": "2026-04-22T16:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "NCSC Unveils SilentGlass, a Plug-In Device to Protect Monitors from Cyber-Attacks",
-            "link": "https://www.infosecurity-magazine.com/news/ncsc-silentglass-a-plugin-stop/",
-            "summary": "The UK’s cybersecurity agency said the devices will be available for purchase by organizations around the world",
-            "published_utc": "2026-04-22T15:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
