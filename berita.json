@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2026-07-01T04:01:49.402652+00:00",
+    "lastUpdatedUTC": "2026-07-01T08:50:13.661547+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "Finally, an odor-free robot vacuum and mop that has no problem handling my pet's hair",
+            "link": "https://www.zdnet.com/article/eufy-omni-s2-review/",
+            "summary": "The Eufy Omni S2 improves on its predecessor with four times the suction power, and an odor-free mop roller.",
+            "published_utc": "2026-07-01T08:30:53+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Massive Password Spray Campaign Targeting Azure CLI",
+            "link": "https://www.securityweek.com/massive-password-spray-campaign-targeting-azure-cli/",
+            "summary": "",
+            "published_utc": "2026-07-01T07:46:33+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Adobe patches seven max severity ColdFusion, Campaign flaws",
+            "link": "https://www.bleepingcomputer.com/news/security/adobe-patches-seven-max-severity-coldfusion-campaign-flaws/",
+            "summary": "Adobe has released security patches for seven maximum-severity vulnerabilities in the ColdFusion web app development platform and the Campaign Classic...",
+            "published_utc": "2026-07-01T07:34:52+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Detection engineering: A programmatic approach to identifying cyber threats",
+            "link": "https://www.csoonline.com/article/3847510/rising-attack-exposure-threat-sophistication-spur-interest-in-detection-engineering.html",
+            "summary": "",
+            "published_utc": "2026-07-01T07:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Google Patches 382 Chrome Vulnerabilities",
+            "link": "https://www.securityweek.com/google-patches-382-chrome-vulnerabilities/",
+            "summary": "",
+            "published_utc": "2026-07-01T06:14:41+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "How to disable ACR on your TV (and why it makes such a big difference when you do)",
@@ -77,6 +112,20 @@
             "link": "https://www.bleepingcomputer.com/news/security/fake-perplexity-extension-on-chrome-web-store-tracked-searches/",
             "summary": "A malicious extension in the Chrome Web Store is masquerading as the Perplexity AI answer engine, intercepting search traffic and collecting browsing ...",
             "published_utc": "2026-06-30T15:46:19+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Critical SimpleHelp Vulnerability Exploited For Malware Delivery",
+            "link": "https://www.infosecurity-magazine.com/news/simplehelp-rmm-vulnerability/",
+            "summary": "Attackers exploited a critical SimpleHelp RMM bug to deploy TaskWeaver and Djinn Stealer malware",
+            "published_utc": "2026-06-30T15:34:00+00:00"
+        },
+        {
+            "source": "WeLiveSecurity",
+            "title": "This month in security with Tony Anscombe – June 2026 edition",
+            "link": "https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-june-2026/",
+            "summary": "Three-day patching deadlines, exposed fuel-tank systems, scams costing billions of dollars, and social media bans for children all gave Tony plenty to...",
+            "published_utc": "2026-06-30T14:39:37+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -261,25 +310,11 @@
             "published_utc": "2026-06-30T08:53:13+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Critical SimpleHelp Vulnerability Exploited for Malware Delivery",
-            "link": "https://www.securityweek.com/critical-simplehelp-vulnerability-exploited-for-malware-delivery/",
-            "summary": "",
-            "published_utc": "2026-06-30T08:43:10+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Over 300 UK Firms Hit by Ransomware in a Year",
             "link": "https://www.infosecurity-magazine.com/news/over-300-uk-firms-hit-ransomware/",
             "summary": "Report Fraud data reveals that more than half of 323 UK ransomware victims last year were SMEs",
             "published_utc": "2026-06-30T08:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Quantifind Raises $200 Million for AI-Native Risk Intelligence",
-            "link": "https://www.securityweek.com/quantifind-raises-200-million-for-ai-native-risk-intelligence/",
-            "summary": "",
-            "published_utc": "2026-06-30T06:40:02+00:00"
         },
         {
             "source": "WIRED Security",
@@ -324,13 +359,6 @@
             "published_utc": "2026-06-29T17:50:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "WhatsApp rolls out usernames to help users hide their phone number",
-            "link": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-usernames-to-help-users-hide-their-phone-number/",
-            "summary": "WhatsApp is finally allowing users to reserve usernames, a privacy feature that lets them hide their phone numbers from people not in their contact li...",
-            "published_utc": "2026-06-29T17:48:28+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "After testing Thread, Zigbee, and Matter, here's how I'm building my smart home differently",
             "link": "https://www.zdnet.com/article/thread-vs-zigbee-vs-matter/",
@@ -371,13 +399,6 @@
             "link": "https://www.zdnet.com/article/chrome-vs-edge-vs-firefox-ai-browsers/",
             "summary": "Looking to use AI while you browse the web? Here's how the AI tools in Chrome, Edge, and Firefox compare.",
             "published_utc": "2026-06-29T14:52:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Six months later, this small gadget is my secret weapon against doomscrolling",
-            "link": "https://www.zdnet.com/article/brick-iphone-review/",
-            "summary": "Brick is one of the few new devices that positively changed my daily content consumption. You can finally buy it on Amazon.",
-            "published_utc": "2026-06-29T14:49:47+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -784,13 +805,6 @@
             "link": "https://www.infosecurity-magazine.com/news/gta-6-scams-emerge-as-preorders/",
             "summary": "Cybercriminals launch fake GTA 6 pre-order sites offering early access for crypto payments",
             "published_utc": "2026-06-23T13:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Unpatched SharePoint servers opened the door to multiple attackers, Microsoft finds",
-            "link": "https://www.csoonline.com/article/4188359/unpatched-sharepoint-servers-opened-the-door-to-multiple-attackers-microsoft-finds.html",
-            "summary": "",
-            "published_utc": "2026-06-23T12:08:59+00:00"
         },
         {
             "source": "Schneier",
@@ -1785,13 +1799,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ai-npm-malware-leaks-github-token/",
             "summary": "Sloppy AI-generated npm infostealer leaked its own GitHub token, exposing the operator",
             "published_utc": "2026-05-29T08:10:00+00:00"
-        },
-        {
-            "source": "WeLiveSecurity",
-            "title": "This month in security with Tony Anscombe – May 2026 edition",
-            "link": "https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-may-2026/",
-            "summary": "In this roundup, Tony looks at attacks against Polish water treatment facilities, how AI-directed attacks failed in Mexico, and what Google believes i...",
-            "published_utc": "2026-05-29T07:30:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -3234,13 +3241,6 @@
             "link": "https://www.welivesecurity.com/en/business-security/ground-zero-5-things-discovering-cyberattack/",
             "summary": "When every minute counts, preparation and precision can mean the difference between disruption and disaster",
             "published_utc": "2025-11-03T10:00:00+00:00"
-        },
-        {
-            "source": "WeLiveSecurity",
-            "title": "Fraud prevention: How to help older family members avoid scams",
-            "link": "https://www.welivesecurity.com/en/scams/fraud-prevention-how-help-older-family-members-avoid-scams/",
-            "summary": "Families that combine open communication with effective behavioral and technical safeguards can cut the risk dramatically",
-            "published_utc": "2025-10-30T10:00:00+00:00"
         },
         {
             "source": "Threatpost",
