@@ -1,6 +1,76 @@
 {
-    "lastUpdatedUTC": "2026-07-01T12:09:42.781315+00:00",
+    "lastUpdatedUTC": "2026-07-01T15:42:35.570739+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "Want a private ChatGPT alternative? How Proton's Lumo 2.0 locks down your data, EU style",
+            "link": "https://www.zdnet.com/article/want-private-chatgpt-alternative-protons-lumo-2-0-locks-down-your-data/",
+            "summary": "The maker of ProtonMail and ProtonVPN says its second-generation chatbot is never trained on user data.",
+            "published_utc": "2026-07-01T15:25:42+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "AI Model Release Tracker: Anthropic releases Sonnet 5, plus Fable 5 is back",
+            "link": "https://www.zdnet.com/article/ai-model-release-tracker/",
+            "summary": "Not every new model is all it's cracked up to be. Our tracker keeps each release in context with its peers, so you know which models are worth your time.",
+            "published_utc": "2026-07-01T15:12:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "This new Android security setting spots bad networks and fake cell towers - enable it ASAP",
+            "link": "https://www.zdnet.com/article/android-security-setting-spots-bad-networks-and-fake-cell-towers-how-to-enable/",
+            "summary": "Connecting to the wrong network can put your data at risk. Android can warn you, but only if you allow it.",
+            "published_utc": "2026-07-01T14:59:51+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Connecting my TV to a router VPN was one of my smartest home network upgrades",
+            "link": "https://www.zdnet.com/article/how-to-add-a-vpn-to-your-smart-tv/",
+            "summary": "Setting up a VPN on your smart TV blocks hackers from accessing your network and stealing your data. But there are other benefits, too.",
+            "published_utc": "2026-07-01T14:48:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Fileless Malware Abuses Google Blogspot to Deploy Infostealer in Memory",
+            "link": "https://www.infosecurity-magazine.com/news/veil-drop-blogspot-purelog-stealer/",
+            "summary": "Securonix said the Veil#Drop campaign abuses Google Blogspot to deliver PureLog Stealer in memory",
+            "published_utc": "2026-07-01T14:30:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Turning Indicators into Intelligence in OpenCTI with Criminal IP",
+            "link": "https://www.bleepingcomputer.com/news/security/turning-indicators-into-intelligence-in-opencti-with-criminal-ip/",
+            "summary": "Threat intelligence is only as useful as the context behind it. Criminal IP explains how its integration enriches threat indicators in OpenCTI with ri...",
+            "published_utc": "2026-07-01T14:01:11+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The new enterprise AI expert every company needs - and why",
+            "link": "https://www.zdnet.com/article/the-new-enterprise-ai-expert-every-company-needs-and-why/",
+            "summary": "This role makes the difference between your business winning and losing in the age of AI.",
+            "published_utc": "2026-07-01T13:50:01+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Brazilian Banking Trojan Ousaban Targets Spain and Portugal",
+            "link": "https://www.infosecurity-magazine.com/news/ousaban-banking-trojan-spain/",
+            "summary": "FortiGuard says the Brazilian banking trojan Ousaban is targeting Spain and Portugal via phishing",
+            "published_utc": "2026-07-01T13:45:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How I stopped a massive WordPress spam attack with 4,700 lines of code in two days - thanks to Codex and Claude",
+            "link": "https://www.zdnet.com/article/massive-wordpress-spam-attack-stopped-with-codex-and-claude/",
+            "summary": "Spam accounts overwhelmed my database. Claude found the weaknesses, Codex wrote the fixes, and I deployed a new defense.",
+            "published_utc": "2026-07-01T12:42:13+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Over 900 Oracle E-Business instances exposed to ongoing attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/over-900-oracle-e-business-instances-exposed-to-ongoing-attacks/",
+            "summary": "Over 900 Oracle E-Business Suite (EBS) instances have been found exposed online amid ongoing attacks exploiting a critical security flaw. [...]",
+            "published_utc": "2026-07-01T12:30:01+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Adobe Patches Critical ColdFusion, Campaign Classic Vulnerabilities",
@@ -41,7 +111,7 @@
             "title": "Do you still need third-party antivirus on your Windows PC?",
             "link": "https://www.zdnet.com/article/do-you-still-need-third-party-antivirus-on-your-windows-pc/",
             "summary": "Earlier this year, Microsoft quietly deleted a post that argued Windows 11's built-in Microsoft Defender Antivirus was good enough for most people. Bu...",
-            "published_utc": "2026-07-01T10:07:44+00:00"
+            "published_utc": "2026-07-01T10:07:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -198,13 +268,6 @@
             "published_utc": "2026-06-30T18:16:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "AI Model Release Tracker: Anthropic releases Sonnet 5",
-            "link": "https://www.zdnet.com/article/ai-model-release-tracker/",
-            "summary": "Not every new model is all it's cracked up to be. Our tracker keeps each release in context with its peers, so you know which models are worth your time.",
-            "published_utc": "2026-06-30T18:00:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Nissan Discloses Employee Data Breach Linked to Oracle Zero-Day",
             "link": "https://www.infosecurity-magazine.com/news/nissan-oracle-peoplesoft-zero-day/",
@@ -338,13 +401,6 @@
             "published_utc": "2026-06-30T09:46:39+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Blackfield ransomware asks Nidec Corporation for $2 million ransom",
-            "link": "https://www.bleepingcomputer.com/news/security/blackfield-ransomware-asks-nidec-corporation-for-2-million-ransom/",
-            "summary": "The Blackfield ransomware gang is asking for a $2 million ransom from Nidec Corporation, a large Japanese manufacturer of electronic components for au...",
-            "published_utc": "2026-06-30T09:41:05+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "UK Healthcare Sector Records Tenfold Increase in Cyber-Attacks",
             "link": "https://www.infosecurity-magazine.com/news/uk-healthcare-tenfold-increase/",
@@ -373,13 +429,6 @@
             "published_utc": "2026-06-30T09:00:14+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "CISA: Windows BlueHammer flaw now exploited by ransomware gangs",
-            "link": "https://www.bleepingcomputer.com/news/security/cisa-windows-bluehammer-flaw-now-exploited-by-ransomware-gangs/",
-            "summary": "CISA confirmed on Monday that ransomware gangs are now exploiting a Microsoft Defender privilege escalation vulnerability, dubbed BlueHammer, that has...",
-            "published_utc": "2026-06-30T08:53:13+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Over 300 UK Firms Hit by Ransomware in a Year",
             "link": "https://www.infosecurity-magazine.com/news/over-300-uk-firms-hit-ransomware/",
@@ -392,41 +441,6 @@
             "link": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
             "summary": "Hundreds of contractors working on a project for Meta pretended to be kids in order to see how other chatbots like Gemini and ChatGPT would respond to...",
             "published_utc": "2026-06-29T21:49:26+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I always keep these 3 devices plugged into my power station - here's why",
-            "link": "https://www.zdnet.com/article/3-things-i-keep-permanently-connected-to-a-power-station/",
-            "summary": "Here's how to leverage your power station's capabilities when it's not during an emergency.",
-            "published_utc": "2026-06-29T19:58:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I replaced my iPhone battery at the Apple store for the first time ever - and learned a valuable lesson",
-            "link": "https://www.zdnet.com/article/i-replaced-iphone-battery-at-apple-store-what-i-learned/",
-            "summary": "A few weeks ago, I replaced my iPhone 14 Pro battery at the Apple store - and was pleasantly surprised by the results.",
-            "published_utc": "2026-06-29T19:06:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I tried a Windows handheld PC, and its docking system made it my ideal travel companion",
-            "link": "https://www.zdnet.com/article/msi-claw-8-ex-ai-review/",
-            "summary": "MSI's Claw 8 EX AI+ is a worthy sequel, with stronger performance, better ergonomics, and highly effective cooling.",
-            "published_utc": "2026-06-29T17:50:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "After testing Thread, Zigbee, and Matter, here's how I'm building my smart home differently",
-            "link": "https://www.zdnet.com/article/thread-vs-zigbee-vs-matter/",
-            "summary": "All three are related to smart home connectivity, and it's critical that you understand their differences.",
-            "published_utc": "2026-06-29T17:46:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Internet down? 3 ways I use an old Android phone as a backup connection for my home router",
-            "link": "https://www.zdnet.com/article/how-to-use-old-android-phone-as-backup-internet-connection-for-home-router/",
-            "summary": "I needed a way to connect my phone to my router, and have it work reliably. Turns out, I have 3 options (and I saved the best for last).",
-            "published_utc": "2026-06-29T16:54:48+00:00"
         },
         {
             "source": "Schneier",
@@ -2765,20 +2779,6 @@
             "link": "https://www.welivesecurity.com/en/ransomware/calm-ransom-what-you-see-is-not-all-there-is/",
             "summary": "A breach claims the systems as well as the confidence that was, in retrospect, a major vulnerability",
             "published_utc": "2026-04-24T09:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Npm Supply Chain Malware Attack Targets Developers With Worm-Like Propagation",
-            "link": "https://www.infosecurity-magazine.com/news/npm-supply-chain-worm-canister/",
-            "summary": "Malicious npm packages spread via worm-like propagation and steal developer credentials",
-            "published_utc": "2026-04-24T08:10:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Google Favors General-Purpose Gemini Models Over Cybersecurity‑Specific AI",
-            "link": "https://www.infosecurity-magazine.com/news/google-gemini-over-cyber-specific/",
-            "summary": "Google Cloud’s COO advocated for combining general-purpose frontier large language models with task-specific AI agents",
-            "published_utc": "2026-04-23T16:40:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
