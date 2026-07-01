@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2026-07-01T17:57:25.795135+00:00",
+    "lastUpdatedUTC": "2026-07-01T20:03:30.604040+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "I've tested many portable Linux distros, but PorteuX is the one I keep on my USB drive",
+            "link": "https://www.zdnet.com/article/porteux-linux-is-one-of-the-best-portable-distributions-ive-used/",
+            "summary": "Ever longed for a Linux distro to have with you at all times? Consider the super-fast, modular, and immutable Slackware-based PorteuX.",
+            "published_utc": "2026-07-01T19:51:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I wore the Oura Ring 5 for a month, and it's an even bigger upgrade than expected",
+            "link": "https://www.zdnet.com/article/oura-ring-5-review/",
+            "summary": "However, you're really buying the Oura Ring 5 for one reason.",
+            "published_utc": "2026-07-01T19:12:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Your old Android phone can be turned into a dashcam for free - how I did it in 5 easy steps",
+            "link": "https://www.zdnet.com/article/how-to-turn-phone-into-dashcam-for-free/",
+            "summary": "Want a dashcam? Before buying one, repurpose an old phone. It's free, takes minutes, and works well.",
+            "published_utc": "2026-07-01T19:00:08+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I tested Lenovo's new modular ThinkPad, and it renewed my faith in repairable laptops",
+            "link": "https://www.zdnet.com/article/thinkpad-x1-carbon-gen-14-aura-edition-review/",
+            "summary": "The 14th-gen Lenovo ThinkPad X1 Carbon Aura Edition features a redesigned double-sided motherboard and modular components.",
+            "published_utc": "2026-07-01T18:30:24+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Microsoft Adds New Teams Controls to Block Unauthorized AI Bots From Meetings",
+            "link": "https://www.securityweek.com/microsoft-adds-new-teams-controls-to-block-unauthorized-ai-bots-from-meetings/",
+            "summary": "",
+            "published_utc": "2026-07-01T18:08:15+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "I bricked my iPhone to prevent doomscrolling - how life has been after six months of use",
@@ -125,7 +160,7 @@
             "title": "How I stopped a massive WordPress spam attack with 4,700 lines of code in two days - thanks to Codex and Claude",
             "link": "https://www.zdnet.com/article/massive-wordpress-spam-attack-stopped-with-codex-and-claude/",
             "summary": "Spam accounts overwhelmed my database. Claude found the weaknesses, Codex wrote the fixes, and I deployed a new defense.",
-            "published_utc": "2026-07-01T12:42:13+00:00"
+            "published_utc": "2026-07-01T12:42:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -237,7 +272,7 @@
             "title": "Finally, an odor-free robot vacuum and mop that has no problem handling my pet's hair",
             "link": "https://www.zdnet.com/article/eufy-omni-s2-review/",
             "summary": "The Eufy Omni S2 improves on its predecessor with four times the suction power, and an odor-free mop roller.",
-            "published_utc": "2026-07-01T08:30:53+00:00"
+            "published_utc": "2026-07-01T08:30:00+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -310,20 +345,6 @@
             "published_utc": "2026-06-30T21:02:55+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I brought a Bose, Sony, and JBL speaker to the beach - this one's my new outdoor essential",
-            "link": "https://www.zdnet.com/article/bose-sonos-and-jbl-bluetooth-speaker-beach-comparison/",
-            "summary": "All three brands make great Bluetooth speakers, but an unpredictable beach environment exposes their true strengths and weaknesses.",
-            "published_utc": "2026-06-30T20:31:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How I turned my old Android phone into a dashcam for free - in 5 easy steps",
-            "link": "https://www.zdnet.com/article/how-to-turn-phone-into-dashcam-for-free/",
-            "summary": "Want a dashcam? Before buying one, repurpose an old phone. It's free, takes minutes, and works well.",
-            "published_utc": "2026-06-30T18:16:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Nissan Discloses Employee Data Breach Linked to Oracle Zero-Day",
             "link": "https://www.infosecurity-magazine.com/news/nissan-oracle-peoplesoft-zero-day/",
@@ -352,13 +373,6 @@
             "published_utc": "2026-06-30T14:39:37+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Why I switched to wireless security cameras after years of testing wired models",
-            "link": "https://www.zdnet.com/article/why-i-use-wireless-security-cameras-at-home-versus-wired/",
-            "summary": "After using multiple security cameras from Ring, Blink, and more, I've found the best arrangement for my home.",
-            "published_utc": "2026-06-30T14:33:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Lessons from the Underground: How to Combat Business Email Compromise",
             "link": "https://www.bleepingcomputer.com/news/security/lessons-from-the-underground-how-to-combat-business-email-compromise/",
@@ -373,25 +387,11 @@
             "published_utc": "2026-06-30T13:56:07+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Apple rushed to squash 29 bugs because AI is supercharging hackers - update ASAP",
-            "link": "https://www.zdnet.com/article/apple-rushed-software-fixes-over-ai-threats-update-iphone-asap/",
-            "summary": "Software updates are rolling out now for iPhone, iPad, and Mac, bringing fixes that weren't supposed to arrive so soon. Here's why.",
-            "published_utc": "2026-06-30T13:43:00+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "Decades-Old Bash Tricks Expose AI Coding Agents to Supply Chain Attacks",
             "link": "https://www.securityweek.com/decades-old-bash-tricks-expose-ai-coding-agents-to-supply-chain-attacks/",
             "summary": "",
             "published_utc": "2026-06-30T13:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Aflac Japan Data Breach Impacts 4.38 Million",
-            "link": "https://www.securityweek.com/aflac-japan-data-breach-impacts-4-38-million/",
-            "summary": "",
-            "published_utc": "2026-06-30T12:52:33+00:00"
         },
         {
             "source": "Schneier",
@@ -1375,16 +1375,16 @@
         },
         {
             "source": "WIRED Security",
-            "title": "Mapping Every Flock License Plate Reader Near US World Cup Stadiums",
-            "link": "https://www.wired.com/story/us-world-cup-2026-alpr-camera-stadiums/",
-            "summary": "Most US World Cup stadiums are surrounded by surveillance cameras. Want to know if you’re being watched on your way to a match? These maps will help you.",
+            "title": "Soccer Fans, You’re Being Watched",
+            "link": "https://www.wired.com/story/soccer-world-cup-biometric-surveillance/",
+            "summary": "From anti-drone tech to face recognition, 2026 World Cup stadiums in the US, Canada, and Mexico are subjecting fans to an array of surveillance tech. ...",
             "published_utc": "2026-06-10T10:00:00+00:00"
         },
         {
             "source": "WIRED Security",
-            "title": "Soccer Fans, You’re Being Watched",
-            "link": "https://www.wired.com/story/soccer-world-cup-biometric-surveillance/",
-            "summary": "From anti-drone tech to face recognition, 2026 World Cup stadiums in the US, Canada, and Mexico are subjecting fans to an array of surveillance tech. ...",
+            "title": "Mapping Every Flock License Plate Reader Near US World Cup Stadiums",
+            "link": "https://www.wired.com/story/us-world-cup-2026-alpr-camera-stadiums/",
+            "summary": "Most US World Cup stadiums are surrounded by surveillance cameras. Want to know if you’re being watched on your way to a match? These maps will help you.",
             "published_utc": "2026-06-10T10:00:00+00:00"
         },
         {
