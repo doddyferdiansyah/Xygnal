@@ -1,6 +1,104 @@
 {
-    "lastUpdatedUTC": "2026-07-01T08:50:13.661547+00:00",
+    "lastUpdatedUTC": "2026-07-01T12:09:42.781315+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Adobe Patches Critical ColdFusion, Campaign Classic Vulnerabilities",
+            "link": "https://www.securityweek.com/adobe-patches-critical-coldfusion-campaign-classic-vulnerabilities/",
+            "summary": "",
+            "published_utc": "2026-07-01T11:27:07+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Citrix Patches NetScaler Vulnerabilities, Including New ‘HTTP/2 Bomb’ Attack",
+            "link": "https://www.securityweek.com/citrix-patches-netscaler-vulnerabilities-including-new-http-2-bomb-attack/",
+            "summary": "",
+            "published_utc": "2026-07-01T11:20:45+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Anthropic's Fable 5 and Mythos 5 Are Back with New Security Guardrails",
+            "link": "https://www.infosecurity-magazine.com/news/anthropic-fable-mythos-back/",
+            "summary": "The new classifier in Fable 5 blocks the jailbreak technique that prompted the US export controls “in over 99% of cases”",
+            "published_utc": "2026-07-01T11:00:00+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Papa Johns Surveillance-Based Advertising",
+            "link": "https://www.schneier.com/blog/archives/2026/07/papa-johns-surveillance-based-advertising.html",
+            "summary": "",
+            "published_utc": "2026-07-01T10:53:23+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft fixes GIF functionality in the Windows Emoji Panel",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-gif-functionality-in-the-windows-emoji-panel/",
+            "summary": "Microsoft has fixed the GIF functionality in the Emoji Panel for Windows 11 users after the provider shut down its service. [...]",
+            "published_utc": "2026-07-01T10:52:26+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Do you still need third-party antivirus on your Windows PC?",
+            "link": "https://www.zdnet.com/article/do-you-still-need-third-party-antivirus-on-your-windows-pc/",
+            "summary": "Earlier this year, Microsoft quietly deleted a post that argued Windows 11's built-in Microsoft Defender Antivirus was good enough for most people. Bu...",
+            "published_utc": "2026-07-01T10:07:44+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I made my TV sound dramatically better without buying a soundbar - 7 cheap and easy ways",
+            "link": "https://www.zdnet.com/article/how-to-fix-tv-audio-sound/",
+            "summary": "Great TV sound doesn't have to be expensive - here are my expert-tested audio tweaks.",
+            "published_utc": "2026-07-01T10:00:38+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Frontier AI: Six Questions Every Enterprise Should Ask Security Vendors",
+            "link": "https://www.securityweek.com/frontier-ai-six-questions-every-enterprise-should-ask-security-vendors/",
+            "summary": "",
+            "published_utc": "2026-07-01T10:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Microsoft Accelerates Quantum-Safe Push with New Timeline",
+            "link": "https://www.infosecurity-magazine.com/news/microsoft-accelerates-quantumsafe/",
+            "summary": "Microsoft has brought forward its timelines for transitioning to post-quantum cryptography (PQC)",
+            "published_utc": "2026-07-01T10:00:00+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "Claude Helped a Hacker Find a Way to Issue Tickets to Almost Every US Music Festival",
+            "link": "https://www.wired.com/story/claude-helped-a-hacker-find-a-way-to-issue-tickets-to-almost-every-us-music-festival/",
+            "summary": "A researcher found that using Anthropic’s Claude Opus 4.7, he could break into the website of Front Gate—used by every festival from Lollapalooza to B...",
+            "published_utc": "2026-07-01T10:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Amazon fined $2.25M for withholding evidence from fraud victims",
+            "link": "https://www.bleepingcomputer.com/news/security/amazon-fined-225m-for-withholding-evidence-from-fraud-victims/",
+            "summary": "The U.S. Federal Trade Commission (FTC) says Amazon will pay a $2.25 million civil penalty to settle charges that it blocked identity theft victims' a...",
+            "published_utc": "2026-07-01T09:43:27+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Apple Patches Dozens of Vulnerabilities Across iOS, macOS, and Safari",
+            "link": "https://www.securityweek.com/apple-patches-dozens-of-vulnerabilities-across-ios-macos-and-safari/",
+            "summary": "",
+            "published_utc": "2026-07-01T09:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Insurance Giant Aflac Discloses Data Breach Impacting Millions",
+            "link": "https://www.infosecurity-magazine.com/news/insurance-giant-aflac-data-breach/",
+            "summary": "Aflac Japan has notified regulators that policy details and personal and banking information have been compromised",
+            "published_utc": "2026-07-01T09:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Dawnguard Raises $6.3 Million for Security Architecture Automation Platform",
+            "link": "https://www.securityweek.com/dawnguard-raises-6-3-million-for-security-architecture-automation-platform/",
+            "summary": "",
+            "published_utc": "2026-07-01T08:55:35+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Finally, an odor-free robot vacuum and mop that has no problem handling my pet's hair",
@@ -107,6 +205,13 @@
             "published_utc": "2026-06-30T18:00:00+00:00"
         },
         {
+            "source": "InfosecurityMag",
+            "title": "Nissan Discloses Employee Data Breach Linked to Oracle Zero-Day",
+            "link": "https://www.infosecurity-magazine.com/news/nissan-oracle-peoplesoft-zero-day/",
+            "summary": "Nissan says employees' data was stolen via the Oracle PeopleSoft zero-day campaign",
+            "published_utc": "2026-06-30T16:00:00+00:00"
+        },
+        {
             "source": "BleepingComputer",
             "title": "Fake Perplexity extension on Chrome Web Store tracked searches",
             "link": "https://www.bleepingcomputer.com/news/security/fake-perplexity-extension-on-chrome-web-store-tracked-searches/",
@@ -184,13 +289,6 @@
             "published_utc": "2026-06-30T12:05:57+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Hacker Conversations: Chris Thompson, Former Head of IBM X-Force Red, Co-Founder of RemoteThreat",
-            "link": "https://www.securityweek.com/hacker-conversations-chris-thompson-former-head-of-ibm-x-force-red-co-founder-of-remotethreat/",
-            "summary": "",
-            "published_utc": "2026-06-30T12:00:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "ClickFix Now Cybercriminals' Favorite Malware Delivery Technique",
             "link": "https://www.infosecurity-magazine.com/news/clickfix-cybercriminals-favorite/",
@@ -198,25 +296,11 @@
             "published_utc": "2026-06-30T12:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Supreme Court Rules Constitutional Privacy Protections Apply to Cellphone Users’ Location History",
-            "link": "https://www.securityweek.com/supreme-court-rules-constitutional-privacy-protections-apply-to-cellphone-users-location-history/",
-            "summary": "",
-            "published_utc": "2026-06-30T11:48:40+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Malicious Chromium extension spoofs Perplexity AI to hijack browser searches",
             "link": "https://www.csoonline.com/article/4191060/malicious-chromium-extension-spoofs-perplexity-ai-to-hijack-browser-searches.html",
             "summary": "",
             "published_utc": "2026-06-30T11:40:56+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Exploitation of Recent Oracle E-Business Suite Vulnerability Begins",
-            "link": "https://www.securityweek.com/exploitation-of-recent-oracle-e-business-suite-vulnerability-begins/",
-            "summary": "",
-            "published_utc": "2026-06-30T11:29:48+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -247,13 +331,6 @@
             "published_utc": "2026-06-30T10:16:29+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "The AI Token Costs That Can Break Cybersecurity",
-            "link": "https://www.securityweek.com/the-ai-token-costs-that-can-break-cybersecurity/",
-            "summary": "",
-            "published_utc": "2026-06-30T10:00:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Kali Linux 2026.2 released with 9 new tools, NetHunter updates",
             "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20262-released-with-9-new-tools-nethunter-updates/",
@@ -273,13 +350,6 @@
             "link": "https://www.infosecurity-magazine.com/news/uk-healthcare-tenfold-increase/",
             "summary": "SonicWall records 264,000 events in first five months of 2026 as UK hospitals come under siege",
             "published_utc": "2026-06-30T09:30:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Nissan Employee Data Breached in Oracle PeopleSoft Hack",
-            "link": "https://www.securityweek.com/nissan-employee-data-breached-in-oracle-peoplesoft-hack/",
-            "summary": "",
-            "published_utc": "2026-06-30T09:25:50+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -324,20 +394,6 @@
             "published_utc": "2026-06-29T21:49:26+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Nissan discloses employee data breach linked to Oracle zero-day attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks/",
-            "summary": "Nissan is warning that it suffered a data breach affecting current and former employees after threat actors exploited an Oracle PeopleSoft vulnerabili...",
-            "published_utc": "2026-06-29T20:40:44+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "NAIC says public data stolen in ShinyHunters' PeopleSoft breach",
-            "link": "https://www.bleepingcomputer.com/news/security/naic-says-public-data-stolen-in-shinyhunters-peoplesoft-breach/",
-            "summary": "The National Association of Insurance Commissioners (NAIC) says the ShinyHunters extortion group stole only publicly available data, outdated logs, an...",
-            "published_utc": "2026-06-29T20:30:28+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "I always keep these 3 devices plugged into my power station - here's why",
             "link": "https://www.zdnet.com/article/3-things-i-keep-permanently-connected-to-a-power-station/",
@@ -373,13 +429,6 @@
             "published_utc": "2026-06-29T16:54:48+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I changed these Android Auto settings to limit what Gemini learns about me - here's why",
-            "link": "https://www.zdnet.com/article/stop-gemini-from-listening-in-android-auto/",
-            "summary": "Google's AI offers a lot of convenience in your car, but you're offering up a lot of sensitive information. Here's how to put a lock on it.",
-            "published_utc": "2026-06-29T16:38:00+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Factoring RSA Keys with Many Zeros",
             "link": "https://www.schneier.com/blog/archives/2026/06/factoring-rsa-keys-with-many-zeros.html",
@@ -392,13 +441,6 @@
             "link": "https://www.infosecurity-magazine.com/news/openai-gpt-5-6-sol-limited-preview/",
             "summary": "OpenAI is previewing its GPT-5.6 Sol model to a vetted few at the US government's request",
             "published_utc": "2026-06-29T15:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Chrome vs. Edge vs. Firefox: I tested each browser's AI, but I'm only sticking with one",
-            "link": "https://www.zdnet.com/article/chrome-vs-edge-vs-firefox-ai-browsers/",
-            "summary": "Looking to use AI while you browse the web? Here's how the AI tools in Chrome, Edge, and Firefox compare.",
-            "published_utc": "2026-06-29T14:52:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -805,13 +847,6 @@
             "link": "https://www.infosecurity-magazine.com/news/gta-6-scams-emerge-as-preorders/",
             "summary": "Cybercriminals launch fake GTA 6 pre-order sites offering early access for crypto payments",
             "published_utc": "2026-06-23T13:00:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Anthropic’s Fable 5 Model Jailbroken Within Days",
-            "link": "https://www.schneier.com/blog/archives/2026/06/anthropics-fable-5-model-jailbroken-within-days.html",
-            "summary": "",
-            "published_utc": "2026-06-23T11:03:07+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1743,13 +1778,6 @@
             "link": "https://www.infosecurity-magazine.com/news/gamaredon-worm-ntfs-data-streams/",
             "summary": "FSB-linked Gamaredon concealed a fileless worm in NTFS data streams to spy on Ukraine targets",
             "published_utc": "2026-06-01T11:00:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "The Romance Scammer Who Made a Small Fortune Posing as a WWE Superstar",
-            "link": "https://www.wired.com/story/wired-book-club-excerpt-the-yahoo-boys-carlos-barragan/",
-            "summary": "In this excerpt from WIRED Book Club pick The Yahoo Boys, journalist Carlos Barragán traces one scammer’s journey from flop to fortune.",
-            "published_utc": "2026-06-01T10:30:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2751,27 +2779,6 @@
             "link": "https://www.infosecurity-magazine.com/news/google-gemini-over-cyber-specific/",
             "summary": "Google Cloud’s COO advocated for combining general-purpose frontier large language models with task-specific AI agents",
             "published_utc": "2026-04-23T16:40:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Apple Fixes iOS Notification Bug Exposing Deleted Messages",
-            "link": "https://www.infosecurity-magazine.com/news/apple-ios-notification-bug-deleted/",
-            "summary": "Apple patches iOS flaw that retained deleted notifications, exposing message data",
-            "published_utc": "2026-04-23T13:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Google Introduces Unique AI Agent Identities in New Gemini Enterprise Platform",
-            "link": "https://www.infosecurity-magazine.com/news/google-ai-agent-identities-gemini/",
-            "summary": "Google Cloud will attribute a unique cryptographic ID every AI agent that will be tied to “traceable and auditable” authorization policies",
-            "published_utc": "2026-04-23T12:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Cyber-Attacks Surge 63% Annually in Education Sector",
-            "link": "https://www.infosecurity-magazine.com/news/cyberattacks-surge-63-annually/",
-            "summary": "Quorum Cyber report finds higher and further education institutions experienced 63% increase in attacks over a year",
-            "published_utc": "2026-04-23T10:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
