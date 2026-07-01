@@ -1,19 +1,47 @@
 {
-    "lastUpdatedUTC": "2026-07-01T20:03:30.604040+00:00",
+    "lastUpdatedUTC": "2026-07-01T22:17:53.177522+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "FortiBleed credential-theft campaign linked to Lynx ransomware",
+            "link": "https://www.bleepingcomputer.com/news/security/fortibleed-credential-theft-campaign-linked-to-lynx-ransomware/",
+            "summary": "The massive FortiBleed credential theft campaign has been linked to the INC and Lynx ransomware operations, suggesting the stolen Fortinet credentials...",
+            "published_utc": "2026-07-01T21:37:24+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I wore the Oura Ring 5 for a month, and it's an even bigger upgrade than expected",
+            "link": "https://www.zdnet.com/article/oura-ring-5-review/",
+            "summary": "But there's one feature that makes the Oura Ring 5 truly worth buying.",
+            "published_utc": "2026-07-01T21:24:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Kubota says hackers had month-long access to network systems",
+            "link": "https://www.bleepingcomputer.com/news/security/kubota-says-hackers-had-month-long-access-to-network-systems/",
+            "summary": "Kubota North America Corporation disclosed that hackers had access to some of its network systems for more than a month earlier this year. [...]",
+            "published_utc": "2026-07-01T21:09:06+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "New ChocoPoC malware targets researchers via trojanized PoC exploits",
+            "link": "https://www.bleepingcomputer.com/news/security/new-chocopoc-malware-targets-researchers-via-trojanized-poc-exploits/",
+            "summary": "Multiple weaponized proof-of-concept (PoC) exploits on GitHub were found delivering a Python-based remote access trojan (RAT) named ChocoPoC that can ...",
+            "published_utc": "2026-07-01T20:08:13+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I tested the LG C6 OLED for a week, and its color accuracy and contrast levels left me in awe",
+            "link": "https://www.zdnet.com/article/lg-c6-oled-review/",
+            "summary": "LG's flagship OLED TV got a refresh with the C6, and continues to prove why OLED is worth the high asking price.",
+            "published_utc": "2026-07-01T20:00:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "I've tested many portable Linux distros, but PorteuX is the one I keep on my USB drive",
             "link": "https://www.zdnet.com/article/porteux-linux-is-one-of-the-best-portable-distributions-ive-used/",
             "summary": "Ever longed for a Linux distro to have with you at all times? Consider the super-fast, modular, and immutable Slackware-based PorteuX.",
             "published_utc": "2026-07-01T19:51:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I wore the Oura Ring 5 for a month, and it's an even bigger upgrade than expected",
-            "link": "https://www.zdnet.com/article/oura-ring-5-review/",
-            "summary": "However, you're really buying the Oura Ring 5 for one reason.",
-            "published_utc": "2026-07-01T19:12:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -303,13 +331,6 @@
             "published_utc": "2026-07-01T06:14:41+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "How to disable ACR on your TV (and why it makes such a big difference when you do)",
-            "link": "https://www.zdnet.com/article/how-to-disable-acr-tv/",
-            "summary": "Samsung, LG, and Sony TVs can pose data privacy risks - here's how to avoid one of the biggest.",
-            "published_utc": "2026-07-01T01:00:41+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Anthropic to restore Claude Fable access on Wednesday",
             "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-to-restore-claude-fable-access-on-wednesday/",
@@ -338,25 +359,11 @@
             "published_utc": "2026-06-30T21:20:06+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Malicious PyPI packages give hackers control of Telegram bot servers",
-            "link": "https://www.bleepingcomputer.com/news/security/malicious-pypi-packages-give-hackers-control-of-telegram-bot-servers/",
-            "summary": "A campaign active since last November has been targeting Python developers building Telegram bots with trojanized Pyrogram forks that allow attackers ...",
-            "published_utc": "2026-06-30T21:02:55+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Nissan Discloses Employee Data Breach Linked to Oracle Zero-Day",
             "link": "https://www.infosecurity-magazine.com/news/nissan-oracle-peoplesoft-zero-day/",
             "summary": "Nissan says employees' data was stolen via the Oracle PeopleSoft zero-day campaign",
             "published_utc": "2026-06-30T16:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Fake Perplexity extension on Chrome Web Store tracked searches",
-            "link": "https://www.bleepingcomputer.com/news/security/fake-perplexity-extension-on-chrome-web-store-tracked-searches/",
-            "summary": "A malicious extension in the Chrome Web Store is masquerading as the Perplexity AI answer engine, intercepting search traffic and collecting browsing ...",
-            "published_utc": "2026-06-30T15:46:19+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -371,13 +378,6 @@
             "link": "https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-june-2026/",
             "summary": "Three-day patching deadlines, exposed fuel-tank systems, scams costing billions of dollars, and social media bans for children all gave Tony plenty to...",
             "published_utc": "2026-06-30T14:39:37+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Lessons from the Underground: How to Combat Business Email Compromise",
-            "link": "https://www.bleepingcomputer.com/news/security/lessons-from-the-underground-how-to-combat-business-email-compromise/",
-            "summary": "Business Email Compromise is more than an email scam. It's a coordinated operation involving compromised accounts, financial research, and cash-out ne...",
-            "published_utc": "2026-06-30T14:00:10+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -1375,16 +1375,16 @@
         },
         {
             "source": "WIRED Security",
-            "title": "Soccer Fans, You’re Being Watched",
-            "link": "https://www.wired.com/story/soccer-world-cup-biometric-surveillance/",
-            "summary": "From anti-drone tech to face recognition, 2026 World Cup stadiums in the US, Canada, and Mexico are subjecting fans to an array of surveillance tech. ...",
+            "title": "Mapping Every Flock License Plate Reader Near US World Cup Stadiums",
+            "link": "https://www.wired.com/story/us-world-cup-2026-alpr-camera-stadiums/",
+            "summary": "Most US World Cup stadiums are surrounded by surveillance cameras. Want to know if you’re being watched on your way to a match? These maps will help you.",
             "published_utc": "2026-06-10T10:00:00+00:00"
         },
         {
             "source": "WIRED Security",
-            "title": "Mapping Every Flock License Plate Reader Near US World Cup Stadiums",
-            "link": "https://www.wired.com/story/us-world-cup-2026-alpr-camera-stadiums/",
-            "summary": "Most US World Cup stadiums are surrounded by surveillance cameras. Want to know if you’re being watched on your way to a match? These maps will help you.",
+            "title": "Soccer Fans, You’re Being Watched",
+            "link": "https://www.wired.com/story/soccer-world-cup-biometric-surveillance/",
+            "summary": "From anti-drone tech to face recognition, 2026 World Cup stadiums in the US, Canada, and Mexico are subjecting fans to an array of surveillance tech. ...",
             "published_utc": "2026-06-10T10:00:00+00:00"
         },
         {
