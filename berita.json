@@ -1,6 +1,62 @@
 {
-    "lastUpdatedUTC": "2026-07-02T14:03:14.924717+00:00",
+    "lastUpdatedUTC": "2026-07-02T16:49:50.146555+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "I've been reviewing laptops for years: These are the 15+ best July 4th laptop deals",
+            "link": "https://www.zdnet.com/article/july-4-laptop-deals-2026/",
+            "summary": "The Fourth of July weekend brings tons of sales on top laptops we've reviewed, from Apple, Acer, Lenovo, and more.",
+            "published_utc": "2026-07-02T16:00:16+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The best July 4th deals live now: Save on Anker, Garmin, Apple, and more",
+            "link": "https://www.zdnet.com/article/best-july-4-deals-2026/",
+            "summary": "Fourth of July weekend is almost here, and there are plenty of deals to celebrate.",
+            "published_utc": "2026-07-02T15:25:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Google loses final appeal to overturn €4.1 billion EU fine",
+            "link": "https://www.bleepingcomputer.com/news/legal/google-loses-final-appeal-to-overturn-41-billion-eu-fine/",
+            "summary": "Court of Justice of the European Union (CJEU) has dismissed Google's final appeal against a €4.1 billion ($4.7 billion) antitrust fine over the compan...",
+            "published_utc": "2026-07-02T15:18:51+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "New CitrixBleed Vulnerability Exploited Immediately After Public Disclosure",
+            "link": "https://www.securityweek.com/new-citrixbleed-vulnerability-exploited-immediately-after-public-disclosure/",
+            "summary": "",
+            "published_utc": "2026-07-02T15:04:22+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Plug-in solar poses 6 safety risks, say electrical industry groups - here's when to call a pro",
+            "link": "https://www.zdnet.com/article/plug-in-solar-poses-6-safety-risks-say-industry-groups-when-to-call-a-pro/",
+            "summary": "Several industry groups have raised public safety concerns about consumer plug-in solar kits. If in doubt about your installation, here's what to do.",
+            "published_utc": "2026-07-02T14:59:25+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The 10 most popular products ZDNET readers bought last month (including during Prime Day)",
+            "link": "https://www.zdnet.com/article/most-popular-products-zdnet-readers-bought-last-month-2026/",
+            "summary": "From gadgets to streaming, these are the top tech gadgets and useful items our readers actually purchased in June.",
+            "published_utc": "2026-07-02T14:42:07+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Finally, I found a robot vacuum that leaves my two-year-old model in the dust",
+            "link": "https://www.zdnet.com/article/eufy-omni-s2-review/",
+            "summary": "The Eufy Omni S2 improves on its predecessor with four times the suction power, and an odor-free mop roller.",
+            "published_utc": "2026-07-02T14:30:41+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "ConsentFix and ClickFix: How Microsoft 365 Accounts are Hijacked in 3 Seconds",
+            "link": "https://www.bleepingcomputer.com/news/security/consentfix-and-clickfix-how-microsoft-365-accounts-are-hijacked-in-3-seconds/",
+            "summary": "ConsentFix and ClickFix attacks steal Microsoft 365 tokens in seconds using fake prompts and OAuth flows. Learn how these MFA bypass tactics work and ...",
+            "published_utc": "2026-07-02T14:00:10+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "I tested the LG C6 OLED for a week, and the colors made me question my Mini LED loyalty",
@@ -289,41 +345,6 @@
             "published_utc": "2026-07-01T16:38:01+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I had Gemini and Claude write my email replies - but only one sounds like me",
-            "link": "https://www.zdnet.com/article/gemini-vs-claude-write-email-replies-which-sound-human/",
-            "summary": "Gemini and Claude have their own strong suits, but for assistance in writing emails, there is only one clear winner.",
-            "published_utc": "2026-07-01T16:37:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I've subscribed to Netflix and Peacock for years - but only one service is worth resubscribing to",
-            "link": "https://www.zdnet.com/article/netflix-vs-peacock-streaming-services/",
-            "summary": "Netflix has award-winning originals and a smart algorithm, but Peacock counters with live sports and a lower price.",
-            "published_utc": "2026-07-01T16:21:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I found the 20+ best 4th of July phone deals: Save big on Galaxy, Pixel, iPhone, and more",
-            "link": "https://www.zdnet.com/article/july-4-phone-deals-2026/",
-            "summary": "Score big Fourth of July savings on flagship smartphones from Samsung, Google, Apple, and more.",
-            "published_utc": "2026-07-01T15:54:01+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Want a private ChatGPT alternative? How Proton's Lumo 2.0 locks down your data, EU style",
-            "link": "https://www.zdnet.com/article/want-private-chatgpt-alternative-protons-lumo-2-0-locks-down-your-data/",
-            "summary": "The maker of ProtonMail and ProtonVPN says its second-generation chatbot is never trained on user data.",
-            "published_utc": "2026-07-01T15:25:42+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "AI Model Release Tracker: Anthropic releases Sonnet 5, plus Fable 5 is back",
-            "link": "https://www.zdnet.com/article/ai-model-release-tracker/",
-            "summary": "Not every new model is all it's cracked up to be. Our tracker keeps each release in context with its peers, so you know which models are worth your time.",
-            "published_utc": "2026-07-01T15:12:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Fileless Malware Abuses Google Blogspot to Deploy Infostealer in Memory",
             "link": "https://www.infosecurity-magazine.com/news/veil-drop-blogspot-purelog-stealer/",
@@ -343,13 +364,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ousaban-banking-trojan-spain/",
             "summary": "FortiGuard says the Brazilian banking trojan Ousaban is targeting Spain and Portugal via phishing",
             "published_utc": "2026-07-01T13:45:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Over 900 Oracle E-Business instances exposed to ongoing attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/over-900-oracle-e-business-instances-exposed-to-ongoing-attacks/",
-            "summary": "Over 900 Oracle E-Business Suite (EBS) instances have been found exposed online amid ongoing attacks exploiting a critical security flaw. [...]",
-            "published_utc": "2026-07-01T12:30:01+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -378,20 +392,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/07/papa-johns-surveillance-based-advertising.html",
             "summary": "",
             "published_utc": "2026-07-01T10:53:23+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft fixes GIF functionality in the Windows Emoji Panel",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-gif-functionality-in-the-windows-emoji-panel/",
-            "summary": "Microsoft has fixed the GIF functionality in the Emoji Panel for Windows 11 users after the provider shut down its service. [...]",
-            "published_utc": "2026-07-01T10:52:26+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Frontier AI: Six Questions Every Enterprise Should Ask Security Vendors",
-            "link": "https://www.securityweek.com/frontier-ai-six-questions-every-enterprise-should-ask-security-vendors/",
-            "summary": "",
-            "published_utc": "2026-07-01T10:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1403,16 +1403,16 @@
         },
         {
             "source": "WIRED Security",
-            "title": "Mapping Every Flock License Plate Reader Near US World Cup Stadiums",
-            "link": "https://www.wired.com/story/us-world-cup-2026-alpr-camera-stadiums/",
-            "summary": "Most US World Cup stadiums are surrounded by surveillance cameras. Want to know if you’re being watched on your way to a match? These maps will help you.",
+            "title": "Soccer Fans, You’re Being Watched",
+            "link": "https://www.wired.com/story/soccer-world-cup-biometric-surveillance/",
+            "summary": "From anti-drone tech to face recognition, 2026 World Cup stadiums in the US, Canada, and Mexico are subjecting fans to an array of surveillance tech. ...",
             "published_utc": "2026-06-10T10:00:00+00:00"
         },
         {
             "source": "WIRED Security",
-            "title": "Soccer Fans, You’re Being Watched",
-            "link": "https://www.wired.com/story/soccer-world-cup-biometric-surveillance/",
-            "summary": "From anti-drone tech to face recognition, 2026 World Cup stadiums in the US, Canada, and Mexico are subjecting fans to an array of surveillance tech. ...",
+            "title": "Mapping Every Flock License Plate Reader Near US World Cup Stadiums",
+            "link": "https://www.wired.com/story/us-world-cup-2026-alpr-camera-stadiums/",
+            "summary": "Most US World Cup stadiums are surrounded by surveillance cameras. Want to know if you’re being watched on your way to a match? These maps will help you.",
             "published_utc": "2026-06-10T10:00:00+00:00"
         },
         {
