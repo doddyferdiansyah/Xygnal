@@ -1,6 +1,90 @@
 {
-    "lastUpdatedUTC": "2026-07-02T11:34:38.319532+00:00",
+    "lastUpdatedUTC": "2026-07-02T14:03:14.924717+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "I tested the LG C6 OLED for a week, and the colors made me question my Mini LED loyalty",
+            "link": "https://www.zdnet.com/article/lg-c6-oled-review/",
+            "summary": "One of LG's flagship OLED TVs got a refresh with the C6, and continues to prove why OLED is worth the high asking price.",
+            "published_utc": "2026-07-02T13:53:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "HP's new OmniBook is a smart buy in this economy - here's what convinced me",
+            "link": "https://www.zdnet.com/article/hp-omnibook-ultra-2026-review/",
+            "summary": "HP's OmniBook Ultra 14 combines a sleek design and OLED display with the kind of performance professionals appreciate.",
+            "published_utc": "2026-07-02T13:43:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I wore the Oura Ring 5 for a month, and two big upgrades make it so much better than the 4",
+            "link": "https://www.zdnet.com/article/oura-ring-5-review/",
+            "summary": "But there's one feature that makes the Oura Ring 5 truly worth buying.",
+            "published_utc": "2026-07-02T13:35:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "How to Conduct a Successful Audit of AI-Driven Software Development",
+            "link": "https://www.securityweek.com/how-to-conduct-a-successful-audit-of-ai-driven-software-development/",
+            "summary": "",
+            "published_utc": "2026-07-02T13:15:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "ExpressVPN's password manager just got a big upgrade with secure sharing, passkey support, and more",
+            "link": "https://www.zdnet.com/article/expressvpn-password-manager-big-upgrade-secure-sharing-passkey-support-more/",
+            "summary": "Available today, ExpressKeys now delivers more secure sharing, passkey support, and improved cross-device management.",
+            "published_utc": "2026-07-02T13:01:01+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Researcher Behind 'Exploitarium' Explains Release of Undisclosed Zero-Day Exploits",
+            "link": "https://www.infosecurity-magazine.com/news/researcher-exploitarium-exploits/",
+            "summary": "Infosecurity spoke with the researcher who dumped over 30 proof-of-concept exploits without disclosing the vulnerabilities first",
+            "published_utc": "2026-07-02T12:51:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How I set OpenAI API usage limits to stop agent overspending and other AI billing nightmares",
+            "link": "https://www.zdnet.com/article/how-to-set-openai-api-spend-usage-limits/",
+            "summary": "OpenAI API costs can spiral when agents run wild. Here's how to set spend limits, enable hard caps, and avoid surprise AI bills.",
+            "published_utc": "2026-07-02T12:51:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Microsoft's new Azure Linux 4.0 is here, and it could replace Windows Server in the enterprise",
+            "link": "https://www.zdnet.com/article/microsoft-azure-linux-4-0-could-replace-windows-server-in-enterprise/",
+            "summary": "Microsoft's Linux server distribution is now available as an ISO to install on your own server or virtual machine.",
+            "published_utc": "2026-07-02T12:41:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "FortiBleed Campaign Linked to INC, Lynx Ransomware Attacks",
+            "link": "https://www.securityweek.com/fortibleed-campaign-linked-to-inc-lynx-ransomware-attacks/",
+            "summary": "",
+            "published_utc": "2026-07-02T12:34:29+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft fixes bug that removed Copilot buttons in Outlook",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-removed-copilot-button-in-outlook/",
+            "summary": "Microsoft has fixed a known issue causing the Copilot Chat or Copilot buttons in Classic Outlook to disappear for Windows users with the Copilot Chat ...",
+            "published_utc": "2026-07-02T12:15:47+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Cybercriminals Pose as Interpol in Phishing Emails to Infect Victims With Ransomware",
+            "link": "https://www.infosecurity-magazine.com/news/cybercriminals-pose-interpol/",
+            "summary": "Bitdefender researchers warned of curious ransomware campaign which has targeted businesses around the world",
+            "published_utc": "2026-07-02T12:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Cisco finally confirms attackers exploiting Unified CM flaw",
+            "link": "https://www.bleepingcomputer.com/news/security/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw/",
+            "summary": "Cisco confirmed that attackers are now exploiting a Unified Communications Manager (Unified CM) vulnerability patched in early June. [...]",
+            "published_utc": "2026-07-02T11:35:25+00:00"
+        },
         {
             "source": "Schneier",
             "title": "Cybersecurity Mission Creep in the US",
@@ -121,13 +205,6 @@
             "published_utc": "2026-07-01T21:37:24+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I wore the Oura Ring 5 for a month, and it's an even bigger upgrade than expected",
-            "link": "https://www.zdnet.com/article/oura-ring-5-review/",
-            "summary": "But there's one feature that makes the Oura Ring 5 truly worth buying.",
-            "published_utc": "2026-07-01T21:24:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Kubota says hackers had month-long access to network systems",
             "link": "https://www.bleepingcomputer.com/news/security/kubota-says-hackers-had-month-long-access-to-network-systems/",
@@ -140,13 +217,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/new-chocopoc-malware-targets-researchers-via-trojanized-poc-exploits/",
             "summary": "Multiple weaponized proof-of-concept (PoC) exploits on GitHub were found delivering a Python-based remote access trojan (RAT) named ChocoPoC that can ...",
             "published_utc": "2026-07-01T20:08:13+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I tested the LG C6 OLED for a week, and its color accuracy and contrast levels left me in awe",
-            "link": "https://www.zdnet.com/article/lg-c6-oled-review/",
-            "summary": "LG's flagship OLED TV got a refresh with the C6, and continues to prove why OLED is worth the high asking price.",
-            "published_utc": "2026-07-01T20:00:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -254,20 +324,6 @@
             "published_utc": "2026-07-01T15:12:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "This new Android security setting spots bad networks and fake cell towers - enable it ASAP",
-            "link": "https://www.zdnet.com/article/android-security-setting-spots-bad-networks-and-fake-cell-towers-how-to-enable/",
-            "summary": "Connecting to the wrong network can put your data at risk. Android can warn you, but only if you allow it.",
-            "published_utc": "2026-07-01T14:59:51+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Connecting my TV to a router VPN was one of my smartest home network upgrades",
-            "link": "https://www.zdnet.com/article/how-to-add-a-vpn-to-your-smart-tv/",
-            "summary": "Setting up a VPN on your smart TV blocks hackers from accessing your network and stealing your data. But there are other benefits, too.",
-            "published_utc": "2026-07-01T14:48:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Fileless Malware Abuses Google Blogspot to Deploy Infostealer in Memory",
             "link": "https://www.infosecurity-magazine.com/news/veil-drop-blogspot-purelog-stealer/",
@@ -282,25 +338,11 @@
             "published_utc": "2026-07-01T14:01:11+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "The new enterprise AI expert every company needs - and why",
-            "link": "https://www.zdnet.com/article/the-new-enterprise-ai-expert-every-company-needs-and-why/",
-            "summary": "This role makes the difference between your business winning and losing in the age of AI.",
-            "published_utc": "2026-07-01T13:50:01+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Brazilian Banking Trojan Ousaban Targets Spain and Portugal",
             "link": "https://www.infosecurity-magazine.com/news/ousaban-banking-trojan-spain/",
             "summary": "FortiGuard says the Brazilian banking trojan Ousaban is targeting Spain and Portugal via phishing",
             "published_utc": "2026-07-01T13:45:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How I stopped a massive WordPress spam attack with 4,700 lines of code in two days - thanks to Codex and Claude",
-            "link": "https://www.zdnet.com/article/massive-wordpress-spam-attack-stopped-with-codex-and-claude/",
-            "summary": "Spam accounts overwhelmed my database. Claude found the weaknesses, Codex wrote the fixes, and I deployed a new defense.",
-            "published_utc": "2026-07-01T12:42:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -366,39 +408,11 @@
             "published_utc": "2026-07-01T10:00:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Amazon fined $2.25M for withholding evidence from fraud victims",
-            "link": "https://www.bleepingcomputer.com/news/security/amazon-fined-225m-for-withholding-evidence-from-fraud-victims/",
-            "summary": "The U.S. Federal Trade Commission (FTC) says Amazon will pay a $2.25 million civil penalty to settle charges that it blocked identity theft victims' a...",
-            "published_utc": "2026-07-01T09:43:27+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Apple Patches Dozens of Vulnerabilities Across iOS, macOS, and Safari",
-            "link": "https://www.securityweek.com/apple-patches-dozens-of-vulnerabilities-across-ios-macos-and-safari/",
-            "summary": "",
-            "published_utc": "2026-07-01T09:30:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Insurance Giant Aflac Discloses Data Breach Impacting Millions",
             "link": "https://www.infosecurity-magazine.com/news/insurance-giant-aflac-data-breach/",
             "summary": "Aflac Japan has notified regulators that policy details and personal and banking information have been compromised",
             "published_utc": "2026-07-01T09:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Dawnguard Raises $6.3 Million for Security Architecture Automation Platform",
-            "link": "https://www.securityweek.com/dawnguard-raises-6-3-million-for-security-architecture-automation-platform/",
-            "summary": "",
-            "published_utc": "2026-07-01T08:55:35+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Adobe patches seven max severity ColdFusion, Campaign flaws",
-            "link": "https://www.bleepingcomputer.com/news/security/adobe-patches-seven-max-severity-coldfusion-campaign-flaws/",
-            "summary": "Adobe has released security patches for seven maximum-severity vulnerabilities in the ColdFusion web app development platform and the Campaign Classic...",
-            "published_utc": "2026-07-01T07:34:52+00:00"
         },
         {
             "source": "CSO Online",
@@ -2758,20 +2772,6 @@
             "link": "https://www.infosecurity-magazine.com/news/cybersecurity-pros-feel/",
             "summary": "A new report by global technology recruitment firm, Harvey Nash, found that three quarters of cybersecurity staff are pessimistic on pay and half are ...",
             "published_utc": "2026-04-27T11:40:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Researchers Identify Fast16 Sabotage Malware That Pre-Dates Stuxnet",
-            "link": "https://www.infosecurity-magazine.com/news/fast16-sabotage-malware-winds/",
-            "summary": "The “fast16” malware may have been used to target Iran’s nuclear program prior to Stuxnet",
-            "published_utc": "2026-04-27T09:10:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "BlackFile Group Targets Retail and Hospitality with Vishing Attacks",
-            "link": "https://www.infosecurity-magazine.com/news/blackfile-group-targets-retail/",
-            "summary": "Researchers uncover a new data theft and extortion group dubbed “BlackFile”",
-            "published_utc": "2026-04-27T08:15:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
