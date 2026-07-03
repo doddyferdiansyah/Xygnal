@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2026-07-03T08:09:55.675310+00:00",
+    "lastUpdatedUTC": "2026-07-03T11:33:18.014775+00:00",
     "articles": [
+        {
+            "source": "Schneier",
+            "title": "Flock Cameras Can Surveil Cars Without License Plates",
+            "link": "https://www.schneier.com/blog/archives/2026/07/flock-cameras-can-surveil-cars-without-license-plates.html",
+            "summary": "",
+            "published_utc": "2026-07-03T11:15:25+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Agentic AI Used to Conduct Ransomware Attack via Langflow",
+            "link": "https://www.securityweek.com/agentic-ai-used-to-conduct-ransomware-attack-via-langflow/",
+            "summary": "",
+            "published_utc": "2026-07-03T11:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Medtronic Data Breach Impacts 3.8 Million People",
+            "link": "https://www.securityweek.com/medtronic-data-breach-impacts-3-8-million-people/",
+            "summary": "",
+            "published_utc": "2026-07-03T10:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "FBI, Google Take Down NetNut Proxy Network Used by Cyber Threat Actors",
+            "link": "https://www.infosecurity-magazine.com/news/fbi-google-take-down-netnut-proxy/",
+            "summary": "The NetNut proxy network and the ‘Popa’ botnet are known to have infected devices with variants of Mirai DDoS botnets",
+            "published_utc": "2026-07-03T09:35:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Google, FBI Disrupt NetNut Residential Proxy Network Powered by Millions of Devices",
+            "link": "https://www.securityweek.com/google-fbi-disrupt-netnut-residential-proxy-network-powered-by-millions-of-devices/",
+            "summary": "",
+            "published_utc": "2026-07-03T08:13:22+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Critical Cursor AI Code Editor Flaws Could Lead to OS-Level Remote Code Execution",
@@ -247,20 +282,6 @@
             "published_utc": "2026-07-02T10:46:58+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "‘BioShocking’ Attack Tricks AI Browsers Into Stealing Credentials",
-            "link": "https://www.securityweek.com/bioshocking-attack-tricks-ai-browsers-into-stealing-credentials/",
-            "summary": "",
-            "published_utc": "2026-07-02T10:45:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "CISA Warns of Actively Exploited Microsoft SharePoint Vulnerability",
-            "link": "https://www.securityweek.com/cisa-warns-of-actively-exploited-microsoft-sharepoint-vulnerability/",
-            "summary": "",
-            "published_utc": "2026-07-02T10:30:42+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "I tried Brave's new stripped down Origin browser, and now it's my top Chromium-based pick",
             "link": "https://www.zdnet.com/article/brave-origin-browser-hands-on/",
@@ -352,13 +373,6 @@
             "published_utc": "2026-07-01T19:00:08+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Microsoft Adds New Teams Controls to Block Unauthorized AI Bots From Meetings",
-            "link": "https://www.securityweek.com/microsoft-adds-new-teams-controls-to-block-unauthorized-ai-bots-from-meetings/",
-            "summary": "",
-            "published_utc": "2026-07-01T18:08:15+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "DHS confirms hackers breached HSIN info-sharing platform",
             "link": "https://www.bleepingcomputer.com/news/security/dhs-confirms-hackers-breached-hsin-info-sharing-platform/",
@@ -385,13 +399,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ousaban-banking-trojan-spain/",
             "summary": "FortiGuard says the Brazilian banking trojan Ousaban is targeting Spain and Portugal via phishing",
             "published_utc": "2026-07-01T13:45:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Adobe Patches Critical ColdFusion, Campaign Classic Vulnerabilities",
-            "link": "https://www.securityweek.com/adobe-patches-critical-coldfusion-campaign-classic-vulnerabilities/",
-            "summary": "",
-            "published_utc": "2026-07-01T11:27:07+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -707,13 +714,6 @@
             "link": "https://www.infosecurity-magazine.com/news/cisa-sase-tic-3-0-zero-trust/",
             "summary": "New CISA guidance shows federal agencies how to use SASE to move from legacy TIC 2.0 to zero trust",
             "published_utc": "2026-06-25T11:30:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Interesting Paper Exploring Prompt Injection",
-            "link": "https://www.schneier.com/blog/archives/2026/06/interesting-paper-exploring-prompt-injection.html",
-            "summary": "",
-            "published_utc": "2026-06-25T11:23:58+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2765,13 +2765,6 @@
             "link": "https://www.infosecurity-magazine.com/news/browser-extensions-sell-user-data/",
             "summary": "Dozens of browser extensions openly sell user data via privacy policy disclosures",
             "published_utc": "2026-04-27T13:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Most Cybersecurity  Professionals Feel Undervalued and Underpaid",
-            "link": "https://www.infosecurity-magazine.com/news/cybersecurity-pros-feel/",
-            "summary": "A new report by global technology recruitment firm, Harvey Nash, found that three quarters of cybersecurity staff are pessimistic on pay and half are ...",
-            "published_utc": "2026-04-27T11:40:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
