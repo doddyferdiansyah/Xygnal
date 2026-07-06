@@ -1,6 +1,83 @@
 {
-    "lastUpdatedUTC": "2026-07-06T14:26:18.395609+00:00",
+    "lastUpdatedUTC": "2026-07-06T17:44:14.856640+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "How I turned an old Android phone into my home internet backup solution - 3 methods",
+            "link": "https://www.zdnet.com/article/how-to-use-old-android-phone-as-backup-internet-connection-for-home-router/",
+            "summary": "I needed a way to connect my phone to my router and have it work reliably. So I discovered three ways to get it done.",
+            "published_utc": "2026-07-06T17:23:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I sideloaded 3 apps into my Android Auto, and they've made my drives so much easier",
+            "link": "https://www.zdnet.com/article/3-of-my-favorite-sideloaded-android-auto-apps/",
+            "summary": "From watching YouTube to web browsing to other unexpected tasks, here's what you can install beyond the basics.",
+            "published_utc": "2026-07-06T16:30:46+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I tested the new Claude Desktop on Linux - here's how it compares to rival apps",
+            "link": "https://www.zdnet.com/article/i-tested-claude-desktop-on-linux-how-it-compares-to-rival-apps/",
+            "summary": "Claude Code finally has an official Linux desktop app. It's a great option, but trying to use local AI is where things get tricky.",
+            "published_utc": "2026-07-06T16:05:09+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I'm recommending this 14-inch HP laptop to almost everyone in 2026 - even with the RAM crisis",
+            "link": "https://www.zdnet.com/article/hp-omnibook-ultra-2026-review/",
+            "summary": "HP's OmniBook Ultra 14 combines a sleek design and OLED display with the kind of performance professionals appreciate.",
+            "published_utc": "2026-07-06T16:04:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "New Iran-Nexus Hacking Group Targets Israel Government and IT Sectors",
+            "link": "https://www.infosecurity-magazine.com/news/new-iran-hacking-group-targets/",
+            "summary": "Check Point researchers have identified a new cyber adversary targeting Israeli government and IT businesses, tracked as ‘Cavern Manticore’",
+            "published_utc": "2026-07-06T16:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "The Shift Toward Business-Aligned Risk Management",
+            "link": "https://www.securityweek.com/the-shift-toward-business-aligned-risk-management/",
+            "summary": "",
+            "published_utc": "2026-07-06T15:20:42+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Armored Likho APT Targeting Government, Electric Power Entities",
+            "link": "https://www.securityweek.com/armored-likho-apt-targeting-government-electric-power-entities/",
+            "summary": "",
+            "published_utc": "2026-07-06T15:10:39+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Indirect Prompt Injection in Web Content Targets AI Agents",
+            "link": "https://www.infosecurity-magazine.com/news/indirect-prompt-injection-web/",
+            "summary": "Zscaler found sites hiding prompt-injection text to manipulate AI agents into crypto payments",
+            "published_utc": "2026-07-06T15:00:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "The agentic blind spots in your zero trust program",
+            "link": "https://www.csoonline.com/article/4193263/the-agentic-blind-spots-in-your-zero-trust-program.html",
+            "summary": "",
+            "published_utc": "2026-07-06T14:47:22+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Identity: The operational control plane for agentic AI",
+            "link": "https://www.csoonline.com/article/4193274/identity-the-operational-control-plane-for-agentic-ai.html",
+            "summary": "",
+            "published_utc": "2026-07-06T14:39:49+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Operationalizing Agentic AI: from assisted to autonomous",
+            "link": "https://www.csoonline.com/article/4193287/operationalizing-agentic-ai-from-assisted-to-autonomous.html",
+            "summary": "",
+            "published_utc": "2026-07-06T14:37:20+00:00"
+        },
         {
             "source": "InfosecurityMag",
             "title": "Opera GX Flaw Let Sites Auto-Install Mods to Steal Data",
@@ -47,7 +124,7 @@
             "source": "BleepingComputer",
             "title": "Max severity Adobe ColdFusion flaw now exploited in attacks",
             "link": "https://www.bleepingcomputer.com/news/security/max-severity-adobe-coldfusion-flaw-now-exploited-in-attacks/",
-            "summary": "Attackers are now exploiting a maximum-severity Adobe ColdFusion vulnerability tracked as CVE-2026-48282, the Canadian Center for Cyber Security (CCCS...",
+            "summary": "Attackers are now exploiting a maximum-severity Adobe ColdFusion vulnerability tracked as CVE-2026-48282, according to vulnerability intelligence comp...",
             "published_utc": "2026-07-06T13:18:37+00:00"
         },
         {
@@ -324,13 +401,6 @@
             "published_utc": "2026-07-03T08:13:22+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Critical Cursor AI Code Editor Flaws Could Lead to OS-Level Remote Code Execution",
-            "link": "https://www.securityweek.com/critical-cursor-ai-ide-flaws-could-lead-to-os-level-remote-code-execution/",
-            "summary": "",
-            "published_utc": "2026-07-03T07:57:53+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "EU Politicians Investigated Pegasus Spyware. Then It Ended Up on One of Their Phones",
             "link": "https://www.wired.com/story/eu-politicians-investigated-pegasus-spyware-then-it-ended-up-on-one-of-their-phones/",
@@ -366,46 +436,11 @@
             "published_utc": "2026-07-02T19:27:33+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "16 Apple Messages settings I change on every iPhone - and why",
-            "link": "https://www.zdnet.com/article/apple-messages-settings-i-change-on-every-iphone-why/",
-            "summary": "Turn these iMessage settings on or off for a cleaner, modern, and more private texting experience.",
-            "published_utc": "2026-07-02T17:22:01+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "LG is giving away free single-door refrigerators - how to qualify for the deal",
-            "link": "https://www.zdnet.com/article/lg-free-refrigerator-deal/",
-            "summary": "When you buy this refrigerator model on sale, LG will give you a free single-door refrigerator too - perfect for the garage or basement.",
-            "published_utc": "2026-07-02T17:09:24+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Google loses final appeal to overturn €4.1 billion EU fine",
             "link": "https://www.bleepingcomputer.com/news/legal/google-loses-final-appeal-to-overturn-41-billion-eu-fine/",
             "summary": "Court of Justice of the European Union (CJEU) has dismissed Google's final appeal against a €4.1 billion ($4.7 billion) antitrust fine over the compan...",
             "published_utc": "2026-07-02T15:18:51+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "New CitrixBleed Vulnerability Exploited Immediately After Public Disclosure",
-            "link": "https://www.securityweek.com/new-citrixbleed-vulnerability-exploited-immediately-after-public-disclosure/",
-            "summary": "",
-            "published_utc": "2026-07-02T15:04:22+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The 10 most popular products ZDNET readers bought last month (including during Prime Day)",
-            "link": "https://www.zdnet.com/article/most-popular-products-zdnet-readers-bought-last-month-2026/",
-            "summary": "From gadgets to streaming, these are the top tech gadgets and useful items our readers actually purchased in June.",
-            "published_utc": "2026-07-02T14:42:07+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Finally, I found a robot vacuum that leaves my two-year-old model in the dust",
-            "link": "https://www.zdnet.com/article/eufy-omni-s2-review/",
-            "summary": "The Eufy Omni S2 improves on its predecessor with four times the suction power, and an odor-free mop roller.",
-            "published_utc": "2026-07-02T14:30:41+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -786,13 +821,6 @@
             "published_utc": "2026-06-26T08:00:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "GDPR at 10: Landmark data protections, increasing business burden",
-            "link": "https://www.csoonline.com/article/4180915/10-years-of-the-gdpr-a-summary.html",
-            "summary": "",
-            "published_utc": "2026-06-26T07:30:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Cisco Vulnerability Exploited Months Before Disclosure, Google Warns",
             "link": "https://www.infosecurity-magazine.com/news/cisco-vulnerability-exploited/",
@@ -835,25 +863,11 @@
             "published_utc": "2026-06-25T10:45:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Rethinking the balance between AI oversight and innovation",
-            "link": "https://www.csoonline.com/article/4188573/rethinking-the-balance-between-ai-oversight-and-innovation.html",
-            "summary": "",
-            "published_utc": "2026-06-25T10:02:00+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "British Police Built a Sprawling Crime-Prediction Machine. Some Results Couldn’t Be Trusted",
             "link": "https://www.wired.com/story/british-police-built-a-sprawling-crime-prediction-machine-some-results-couldnt-be-trusted/",
             "summary": "As UK police embrace the AI revolution, a WIRED investigation reveals the messy inside story of one region’s experiment with predictive analytics.",
             "published_utc": "2026-06-25T10:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "GRC is broken. FedRAMP 20x might fix it",
-            "link": "https://www.csoonline.com/article/4188995/grc-is-broken-fedramp-20x-might-fix-it.html",
-            "summary": "",
-            "published_utc": "2026-06-25T09:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
@@ -2758,20 +2772,6 @@
             "link": "https://www.infosecurity-magazine.com/news/medtronic-data-breach-shinyhunters/",
             "summary": "Medtronic confirms IT breach as ShinyHunters claims millions of records accesseda",
             "published_utc": "2026-04-28T15:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Ransomware Turf War as 0APT and KryBit Groups Trade Blows",
-            "link": "https://www.infosecurity-magazine.com/news/ransomware-turf-war-0apt-krybit/",
-            "summary": "Ransomware groups 0APT and KryBit have doxxed each other online",
-            "published_utc": "2026-04-28T13:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Chinese National Extradited Over Silk Typhoon Cyber Campaign",
-            "link": "https://www.infosecurity-magazine.com/news/chinese-national-extradited-silk/",
-            "summary": "Extradition links alleged MSS-directed hacker to  Silk Typhoon and COVID-19 espionage",
-            "published_utc": "2026-04-28T12:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
