@@ -1,6 +1,97 @@
 {
-    "lastUpdatedUTC": "2026-07-06T10:24:37.298718+00:00",
+    "lastUpdatedUTC": "2026-07-06T14:26:18.395609+00:00",
     "articles": [
+        {
+            "source": "InfosecurityMag",
+            "title": "Opera GX Flaw Let Sites Auto-Install Mods to Steal Data",
+            "link": "https://www.infosecurity-magazine.com/news/opera-gx-flaw-gx-mods-css/",
+            "summary": "Opera GX flaw let sites automatically install mods to steal data from other pages, now patched",
+            "published_utc": "2026-07-06T14:15:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Want to convince a Windows user to try Linux? Here's how I do it",
+            "link": "https://www.zdnet.com/article/how-i-convince-a-windows-user-to-try-linux/",
+            "summary": "I've used Linux for 30 years. This is how I show Windows users what they're missing.",
+            "published_utc": "2026-07-06T14:09:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Software Is Now Written at the Speed of Thought. Security Isn't.",
+            "link": "https://www.bleepingcomputer.com/news/security/software-is-now-written-at-the-speed-of-thought-security-isnt/",
+            "summary": "Every evolution in software development has reduced the friction between an idea and a deployable application. AI may remove the final barrier, but it...",
+            "published_utc": "2026-07-06T14:00:10+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Installing plug-in solar at home? Watch for these 6 expert-backed safety concerns",
+            "link": "https://www.zdnet.com/article/plug-in-solar-poses-6-safety-risks-say-industry-groups-when-to-call-a-pro/",
+            "summary": "Several industry groups have raised public safety concerns about consumer plug-in solar kits. If in doubt about your installation, keep these tips in ...",
+            "published_utc": "2026-07-06T13:51:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The last Android Auto app I expected to enjoy was Adobe Acrobat - but it's actually useful",
+            "link": "https://www.zdnet.com/article/android-auto-pdf-reader-app-surprisingly-useful/",
+            "summary": "No, you can't read and drive. But you can catch up on important documents.",
+            "published_utc": "2026-07-06T13:36:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I tried the best-looking laptop of 2026, and its battery life was the real surprise",
+            "link": "https://www.zdnet.com/article/hp-omnibook-x-flip-14-review/",
+            "summary": "HP brought aesthetics front and center with the 2026 OmniBook X Flip 14, but thankfully, it didn't stop there.",
+            "published_utc": "2026-07-06T13:30:05+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Max severity Adobe ColdFusion flaw now exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/max-severity-adobe-coldfusion-flaw-now-exploited-in-attacks/",
+            "summary": "Attackers are now exploiting a maximum-severity Adobe ColdFusion vulnerability tracked as CVE-2026-48282, the Canadian Center for Cyber Security (CCCS...",
+            "published_utc": "2026-07-06T13:18:37+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "North Korean Hackers Target Open Source Developers in Supply Chain Attacks",
+            "link": "https://www.securityweek.com/north-korean-hackers-target-open-source-developers-in-supply-chain-attacks/",
+            "summary": "",
+            "published_utc": "2026-07-06T13:11:16+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Proof-of-Concept Exploit Released for Linux ‘Bad Epoll’ Root Access Vulnerability",
+            "link": "https://www.securityweek.com/proof-of-concept-exploit-released-for-linux-bad-epoll-root-access-vulnerability/",
+            "summary": "",
+            "published_utc": "2026-07-06T12:48:01+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Claude Fable 5 is back, but I'm sticking with Opus 4.8 for daily work: 5 reasons why",
+            "link": "https://www.zdnet.com/article/claude-fable-5-returns-why-im-using-opus-4-8-instead/",
+            "summary": "Anthropic's Fable 5 promises mythic AI power, but surprise restrictions make me wonder if it's more trouble than it's worth for day-to-day use.",
+            "published_utc": "2026-07-06T12:28:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "This AI agent autonomously hacked a network, adapted on the fly, and demanded a ransom",
+            "link": "https://www.csoonline.com/article/4193195/this-ai-agent-autonomously-hacked-a-network-adapted-on-the-fly-and-demanded-a-ransom.html",
+            "summary": "",
+            "published_utc": "2026-07-06T11:34:29+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Prompt Injection Attacks Trick AI Agents Into Making Crypto Payments",
+            "link": "https://www.securityweek.com/prompt-injection-attacks-trick-ai-agents-into-making-crypto-payments/",
+            "summary": "",
+            "published_utc": "2026-07-06T11:19:47+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "France to Stop Certifying Non-Quantum-Safe Encryption",
+            "link": "https://www.schneier.com/blog/archives/2026/07/france-to-stop-certifying-non-quantum-safe-encryption.html",
+            "summary": "",
+            "published_utc": "2026-07-06T10:45:44+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "Single points of failure fail. The SaaS layer is not an exception",
@@ -84,13 +175,6 @@
             "link": "https://www.zdnet.com/article/travel-gadgets-july-4-weekend/",
             "summary": "Traveling soon? Scoop up these nifty gadgets ahead of your travels for less.",
             "published_utc": "2026-07-04T10:01:04+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I tried Android Auto's new Adobe Acrobat PDF app - and it's surprisingly useful",
-            "link": "https://www.zdnet.com/article/android-auto-pdf-reader-app-surprisingly-useful/",
-            "summary": "No, you can't read and drive. But you can catch up on important documents.",
-            "published_utc": "2026-07-04T10:00:44+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -283,13 +367,6 @@
         },
         {
             "source": "ZDNet Security",
-            "title": "Considering plug-in solar at home? Electrical experts say to watch for these 6 safety risks",
-            "link": "https://www.zdnet.com/article/plug-in-solar-poses-6-safety-risks-say-industry-groups-when-to-call-a-pro/",
-            "summary": "Several industry groups have raised public safety concerns about consumer plug-in solar kits. If in doubt about your installation, here's what to do.",
-            "published_utc": "2026-07-02T18:09:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
             "title": "16 Apple Messages settings I change on every iPhone - and why",
             "link": "https://www.zdnet.com/article/apple-messages-settings-i-change-on-every-iphone-why/",
             "summary": "Turn these iMessage settings on or off for a cleaner, modern, and more private texting experience.",
@@ -338,46 +415,11 @@
             "published_utc": "2026-07-02T14:00:10+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I tested the LG C6 OLED for a week, and the colors made me question my Mini LED loyalty",
-            "link": "https://www.zdnet.com/article/lg-c6-oled-review/",
-            "summary": "One of LG's flagship OLED TVs got a refresh with the C6, and continues to prove why OLED is worth the high asking price.",
-            "published_utc": "2026-07-02T13:53:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "HP's new OmniBook is a smart buy in this economy - here's what convinced me",
-            "link": "https://www.zdnet.com/article/hp-omnibook-ultra-2026-review/",
-            "summary": "HP's OmniBook Ultra 14 combines a sleek design and OLED display with the kind of performance professionals appreciate.",
-            "published_utc": "2026-07-02T13:43:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I wore the Oura Ring 5 for a month, and two big upgrades make it so much better than the 4",
-            "link": "https://www.zdnet.com/article/oura-ring-5-review/",
-            "summary": "But there's one feature that makes the Oura Ring 5 truly worth buying.",
-            "published_utc": "2026-07-02T13:35:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "How to Conduct a Successful Audit of AI-Driven Software Development",
-            "link": "https://www.securityweek.com/how-to-conduct-a-successful-audit-of-ai-driven-software-development/",
-            "summary": "",
-            "published_utc": "2026-07-02T13:15:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Researcher Behind 'Exploitarium' Explains Release of Undisclosed Zero-Day Exploits",
             "link": "https://www.infosecurity-magazine.com/news/researcher-exploitarium-exploits/",
             "summary": "Infosecurity spoke with the researcher who dumped over 30 proof-of-concept exploits without disclosing the vulnerabilities first",
             "published_utc": "2026-07-02T12:51:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "FortiBleed Campaign Linked to INC, Lynx Ransomware Attacks",
-            "link": "https://www.securityweek.com/fortibleed-campaign-linked-to-inc-lynx-ransomware-attacks/",
-            "summary": "",
-            "published_utc": "2026-07-02T12:34:29+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -406,13 +448,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/07/cybersecurity-mission-creep-in-the-us.html",
             "summary": "",
             "published_utc": "2026-07-02T11:11:44+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Trump Administration Lifts Restrictions on Anthropic’s Claude Models After Cybersecurity Alarm",
-            "link": "https://www.securityweek.com/trump-administration-lifts-restrictions-on-anthropics-claude-models-after-cybersecurity-alarm/",
-            "summary": "",
-            "published_utc": "2026-07-02T11:01:48+00:00"
         },
         {
             "source": "CSO Online",
@@ -457,25 +492,11 @@
             "published_utc": "2026-07-02T08:45:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Medtronic notifies customers impacted by ShinyHunters data breach",
-            "link": "https://www.bleepingcomputer.com/news/security/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach/",
-            "summary": "Healthcare device firm Medtronic is notifying affected customers about a data breach that exposed their personal data to an unauthorized third party. ...",
-            "published_utc": "2026-07-02T04:25:42+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Sandbox bypass flaws in Cursor IDE highlight prompt injection as an RCE vector",
             "link": "https://www.csoonline.com/article/4191923/sandbox-bypass-flaws-in-cursor-ide-highlight-prompt-injection-as-an-rce-vector.html",
             "summary": "",
             "published_utc": "2026-07-02T01:31:35+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "FortiBleed credential-theft campaign linked to Lynx ransomware",
-            "link": "https://www.bleepingcomputer.com/news/security/fortibleed-credential-theft-campaign-linked-to-lynx-ransomware/",
-            "summary": "The massive FortiBleed credential theft campaign has been linked to the INC and Lynx ransomware operations, suggesting the stolen Fortinet credentials...",
-            "published_utc": "2026-07-01T21:37:24+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -772,13 +793,6 @@
             "published_utc": "2026-06-26T07:30:00+00:00"
         },
         {
-            "source": "Schneier",
-            "title": "AI and Liability",
-            "link": "https://www.schneier.com/blog/archives/2026/06/ai-and-liability.html",
-            "summary": "",
-            "published_utc": "2026-06-25T17:03:15+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Cisco Vulnerability Exploited Months Before Disclosure, Google Warns",
             "link": "https://www.infosecurity-magazine.com/news/cisco-vulnerability-exploited/",
@@ -847,13 +861,6 @@
             "link": "https://www.welivesecurity.com/en/eset-research/gamaredon-2025-leveraging-tunnels-workers-dead-drops-new-alliances/",
             "summary": "ESET Research analyzes Gamaredon’s new toolset and the group’s growing reliance on legitimate online services to hide its C&amp;C infrastructure and e...",
             "published_utc": "2026-06-25T08:45:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Be on the lookout for Mistic, a new backdoor used by ransomware broker",
-            "link": "https://www.csoonline.com/article/4189132/be-on-the-lookout-for-mistic-a-new-backdoor-used-by-ransomware-broker.html",
-            "summary": "",
-            "published_utc": "2026-06-24T22:20:25+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1466,16 +1473,16 @@
         },
         {
             "source": "WIRED Security",
-            "title": "Mapping Every Flock License Plate Reader Near US World Cup Stadiums",
-            "link": "https://www.wired.com/story/us-world-cup-2026-alpr-camera-stadiums/",
-            "summary": "Most US World Cup stadiums are surrounded by surveillance cameras. Want to know if you’re being watched on your way to a match? These maps will help you.",
+            "title": "Soccer Fans, You’re Being Watched",
+            "link": "https://www.wired.com/story/soccer-world-cup-biometric-surveillance/",
+            "summary": "From anti-drone tech to face recognition, 2026 World Cup stadiums in the US, Canada, and Mexico are subjecting fans to an array of surveillance tech. ...",
             "published_utc": "2026-06-10T10:00:00+00:00"
         },
         {
             "source": "WIRED Security",
-            "title": "Soccer Fans, You’re Being Watched",
-            "link": "https://www.wired.com/story/soccer-world-cup-biometric-surveillance/",
-            "summary": "From anti-drone tech to face recognition, 2026 World Cup stadiums in the US, Canada, and Mexico are subjecting fans to an array of surveillance tech. ...",
+            "title": "Mapping Every Flock License Plate Reader Near US World Cup Stadiums",
+            "link": "https://www.wired.com/story/us-world-cup-2026-alpr-camera-stadiums/",
+            "summary": "Most US World Cup stadiums are surrounded by surveillance cameras. Want to know if you’re being watched on your way to a match? These maps will help you.",
             "published_utc": "2026-06-10T10:00:00+00:00"
         },
         {
@@ -2765,13 +2772,6 @@
             "link": "https://www.infosecurity-magazine.com/news/chinese-national-extradited-silk/",
             "summary": "Extradition links alleged MSS-directed hacker to  Silk Typhoon and COVID-19 espionage",
             "published_utc": "2026-04-28T12:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "No Metrics Are Better Than Bad Metrics in the SOC, Says NCSC",
-            "link": "https://www.infosecurity-magazine.com/news/no-metrics-better-bad-metrics-soc/",
-            "summary": "The National Cyber Security Centre has warned against measuring SOCs with ticket-based metrics",
-            "published_utc": "2026-04-28T08:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
