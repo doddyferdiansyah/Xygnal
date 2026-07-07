@@ -1,6 +1,76 @@
 {
-    "lastUpdatedUTC": "2026-07-07T07:39:37.073971+00:00",
+    "lastUpdatedUTC": "2026-07-07T10:57:56.161657+00:00",
     "articles": [
+        {
+            "source": "Schneier",
+            "title": "Google Is Suing Chinese Scammers Who Are Using Gemini",
+            "link": "https://www.schneier.com/blog/archives/2026/07/google-is-suing-chinese-scammers-who-are-using-gemini.html",
+            "summary": "",
+            "published_utc": "2026-07-07T10:43:40+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Linux Kernel Vulnerability Allows VM Escape on Intel and AMD Systems",
+            "link": "https://www.securityweek.com/linux-kernel-vulnerability-allows-vm-escape-on-intel-and-amd-systems/",
+            "summary": "",
+            "published_utc": "2026-07-07T10:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "UK Government Launches Cyber Resilience Pledge, Claiming 60+ Signatories",
+            "link": "https://www.infosecurity-magazine.com/news/uk-gov-launches-cyber-resilience/",
+            "summary": "More than 60 organizations, including M&amp;S, Microsoft UK and Vodafone, have signed the UK government's Cyber Resilience Pledge, a new initiative ai...",
+            "published_utc": "2026-07-07T10:00:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Why The Gentlemen ransomware is a test of identity and recovery controls",
+            "link": "https://www.csoonline.com/article/4193699/why-the-gentlemen-ransomware-is-a-test-of-identity-and-recovery-controls.html",
+            "summary": "",
+            "published_utc": "2026-07-07T09:53:33+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft to enable Windows settings backup by default for orgs",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-windows-backup-for-organizations-by-default/",
+            "summary": "Microsoft says the Windows settings backup and restore tool will be enabled by default on Microsoft Entra-joined or Microsoft Entra hybrid-joined ente...",
+            "published_utc": "2026-07-07T09:41:19+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Keyfactor Scores $1 Billion+ Investment for AI, Post-Quantum Security",
+            "link": "https://www.securityweek.com/keyfactor-scores-1-billion-investment-for-ai-post-quantum-security/",
+            "summary": "",
+            "published_utc": "2026-07-07T09:30:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The best Apple Watch Ultra bands of 2026: Expert tested",
+            "link": "https://www.zdnet.com/article/best-apple-watch-ultra-strap/",
+            "summary": "We tested the top Apple Watch Ultra straps available from Nike, Apple, Nomad, Aulumu, and WithIt. Read on to find our reviews and ratings.",
+            "published_utc": "2026-07-07T09:00:38+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "The modern CISO is becoming the next CFO",
+            "link": "https://www.csoonline.com/article/4193375/the-modern-ciso-is-becoming-the-next-cfo.html",
+            "summary": "",
+            "published_utc": "2026-07-07T09:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Hackers Exploit Maximum Severity Adobe ColdFusion Flaw",
+            "link": "https://www.infosecurity-magazine.com/news/exploit-maximum-severity-adobe/",
+            "summary": "Threat actors are exploiting an Adobe ColdFusion vulnerability which has a CVSS score of 10.0",
+            "published_utc": "2026-07-07T08:20:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "BeyondTrust warns of critical flaws in remote access software",
+            "link": "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-flaws-in-remote-access-software/",
+            "summary": "BeyondTrust warned customers to patch two critical security flaws in its Remote Support (RS) and Privileged Remote Access (PRA) software that could al...",
+            "published_utc": "2026-07-07T08:12:10+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Microsoft testing new Cloud Rebuild Windows 11 recovery feature",
@@ -373,13 +443,6 @@
             "published_utc": "2026-07-03T15:10:42+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "The best July 4th TV deals: Up to 50% off Samsung, Sony, and more",
-            "link": "https://www.zdnet.com/article/july-4-tv-deals-2026/",
-            "summary": "This weekend marks America's 250th birthday, which means you'll save big on TV deals from top brands, all thoroughly vetted and tested by our experts.",
-            "published_utc": "2026-07-03T15:00:48+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit",
             "link": "https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/",
@@ -436,25 +499,11 @@
             "published_utc": "2026-07-03T11:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Medtronic Data Breach Impacts 3.8 Million People",
-            "link": "https://www.securityweek.com/medtronic-data-breach-impacts-3-8-million-people/",
-            "summary": "",
-            "published_utc": "2026-07-03T10:00:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "FBI, Google Take Down NetNut Proxy Network Used by Cyber Threat Actors",
             "link": "https://www.infosecurity-magazine.com/news/fbi-google-take-down-netnut-proxy/",
             "summary": "The NetNut proxy network and the ‘Popa’ botnet are known to have infected devices with variants of Mirai DDoS botnets",
             "published_utc": "2026-07-03T09:35:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Alleged Scattered Spider Hacker Extradited to US",
-            "link": "https://www.securityweek.com/alleged-scattered-spider-hacker-extradited-to-us/",
-            "summary": "",
-            "published_utc": "2026-07-03T09:30:00+00:00"
         },
         {
             "source": "WIRED Security",
@@ -492,25 +541,11 @@
             "published_utc": "2026-07-02T15:18:51+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "ConsentFix and ClickFix: How Microsoft 365 Accounts are Hijacked in 3 Seconds",
-            "link": "https://www.bleepingcomputer.com/news/security/consentfix-and-clickfix-how-microsoft-365-accounts-are-hijacked-in-3-seconds/",
-            "summary": "ConsentFix and ClickFix attacks steal Microsoft 365 tokens in seconds using fake prompts and OAuth flows. Learn how these MFA bypass tactics work and ...",
-            "published_utc": "2026-07-02T14:00:10+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Researcher Behind 'Exploitarium' Explains Release of Undisclosed Zero-Day Exploits",
             "link": "https://www.infosecurity-magazine.com/news/researcher-exploitarium-exploits/",
             "summary": "Infosecurity spoke with the researcher who dumped over 30 proof-of-concept exploits without disclosing the vulnerabilities first",
             "published_utc": "2026-07-02T12:51:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft fixes bug that removed Copilot buttons in Outlook",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-removed-copilot-button-in-outlook/",
-            "summary": "Microsoft has fixed a known issue causing the Copilot Chat or Copilot buttons in Classic Outlook to disappear for Windows users with the Copilot Chat ...",
-            "published_utc": "2026-07-02T12:15:47+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -539,6 +574,13 @@
             "link": "https://www.infosecurity-magazine.com/news/ncsc-tips-make-pen-testers-job/",
             "summary": "The NCSC has shared best practice advice from pen testers which could help improve system resilience",
             "published_utc": "2026-07-02T10:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Alleged Scattered Spider Member Extradited to US",
+            "link": "https://www.infosecurity-magazine.com/news/scattered-spider-member-extradited/",
+            "summary": "A teenager accused of hacking as part of Scattered Spider has been arrested",
+            "published_utc": "2026-07-02T08:45:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -779,32 +821,11 @@
             "published_utc": "2026-06-26T16:27:02+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Cyberattacks pose a ‘threat to life’ in Australia",
-            "link": "https://www.csoonline.com/article/4190054/cyberattacks-pose-a-threat-to-life-in-australia.html",
-            "summary": "",
-            "published_utc": "2026-06-26T14:58:37+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "One Million Passports Leaked Online",
-            "link": "https://www.schneier.com/blog/archives/2026/06/one-million-passports-leaked-online.html",
-            "summary": "",
-            "published_utc": "2026-06-26T11:03:21+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "China-Linked Hackers Strike Asian Critical Infrastructure with TinyRCT Backdoor",
             "link": "https://www.infosecurity-magazine.com/news/china-hackers-asian-cni-backdoor/",
             "summary": "A China-linked threat group has been targeting critical infrastructure in Southeast Asia with a new custom backdoor called TinyRCT",
             "published_utc": "2026-06-26T10:30:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "What CISOs need to tell the board about zero trust in OT: A 90-day communication and action plan",
-            "link": "https://www.csoonline.com/article/4189605/what-cisos-need-to-tell-the-board-about-zero-trust-in-ot-a-90-day-communication-and-action-plan.html",
-            "summary": "",
-            "published_utc": "2026-06-26T10:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
@@ -2758,20 +2779,6 @@
             "link": "https://www.infosecurity-magazine.com/news/critical-flaw-vect-ransomware-data/",
             "summary": "The Vect 2.0 ransomware wipes large files instead of merely encrypting them, making recovery impossible – even for the attackers",
             "published_utc": "2026-04-29T10:45:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "A Quarter of Healthcare Organizations Report Medical Device Cyber-Attacks",
-            "link": "https://www.infosecurity-magazine.com/news/quarter-healthcare-medical-device/",
-            "summary": "RunSafe report reveals most attacks on medical devices disrupt patient care",
-            "published_utc": "2026-04-29T10:05:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Medtronic Confirms Data Breach After ShinyHunters Claims",
-            "link": "https://www.infosecurity-magazine.com/news/medtronic-data-breach-shinyhunters/",
-            "summary": "Medtronic confirms IT breach as ShinyHunters claims millions of records accesseda",
-            "published_utc": "2026-04-28T15:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
