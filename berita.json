@@ -1,6 +1,62 @@
 {
-    "lastUpdatedUTC": "2026-07-07T10:57:56.161657+00:00",
+    "lastUpdatedUTC": "2026-07-07T13:23:39.974365+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "CISA Reportedly Using Anthropic’s Mythos to Scan Government Software for Flaws",
+            "link": "https://www.securityweek.com/cisa-reportedly-using-anthropics-mythos-to-scan-government-software-for-flaws/",
+            "summary": "",
+            "published_utc": "2026-07-07T13:13:02+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Why I switched to a NAS storage drive to backup files - and ditched iCloud and Dropbox for good",
+            "link": "https://www.zdnet.com/article/ugreen-dxp4800-plus-nas-review/",
+            "summary": "Thanks to the Ugreen DXP4800 Plus, I've been able to cancel several storage subscriptions. Here's how.",
+            "published_utc": "2026-07-07T12:43:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Critical Adobe ColdFusion Vulnerability Exploited in Attacks",
+            "link": "https://www.securityweek.com/critical-adobe-coldfusion-vulnerability-exploited-in-attacks/",
+            "summary": "",
+            "published_utc": "2026-07-07T12:38:34+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I tested 3 wireless chargers to see which keeps my phones cool - what I learned surprised me",
+            "link": "https://www.zdnet.com/article/i-tested-mophie-ugreen-esr-wireless-chargers-to-see-which-keeps-phones-cool/",
+            "summary": "Charging stands now come with new technology designed to keep my phone cool. So I put three of them to the test.",
+            "published_utc": "2026-07-07T12:31:50+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Iran-Linked Hackers Using Modular C&C Framework in Cyberattacks",
+            "link": "https://www.securityweek.com/iran-linked-hackers-using-modular-cc-framework-in-cyberattacks/",
+            "summary": "",
+            "published_utc": "2026-07-07T12:21:56+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Webinar tomorrow: Why modern email attacks require a new approach to defense",
+            "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-modern-email-attacks-require-a-new-approach-to-defense/",
+            "summary": "Tomorrow's webinar explores how behavioral AI can help organizations detect sophisticated phishing, business email compromise, and account takeover at...",
+            "published_utc": "2026-07-07T12:12:20+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "New Januscape Linux flaw allows VM escape on Intel, AMD devices",
+            "link": "https://www.bleepingcomputer.com/news/linux/new-januscape-linux-kernel-flaw-allows-vm-escape-on-intel-amd-devices/",
+            "summary": "A 16-year-old Linux kernel vulnerability, dubbed Januscape, allows attackers to escape a virtual machine and execute arbitrary code on the host. [...]",
+            "published_utc": "2026-07-07T12:06:09+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "CISO Conversations: Tarah Wheeler, Cybersecurity Leader, Thought Leader and Original Thinker",
+            "link": "https://www.securityweek.com/ciso-conversations-tarah-wheeler-cybersecurity-leader-thought-leader-and-original-thinker/",
+            "summary": "",
+            "published_utc": "2026-07-07T12:00:00+00:00"
+        },
         {
             "source": "Schneier",
             "title": "Google Is Suing Chinese Scammers Who Are Using Gemini",
@@ -282,13 +338,6 @@
             "published_utc": "2026-07-06T13:11:16+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Proof-of-Concept Exploit Released for Linux ‘Bad Epoll’ Root Access Vulnerability",
-            "link": "https://www.securityweek.com/proof-of-concept-exploit-released-for-linux-bad-epoll-root-access-vulnerability/",
-            "summary": "",
-            "published_utc": "2026-07-06T12:48:01+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "Claude Fable 5 is back, but I'm sticking with Opus 4.8 for daily work: 5 reasons why",
             "link": "https://www.zdnet.com/article/claude-fable-5-returns-why-im-using-opus-4-8-instead/",
@@ -301,13 +350,6 @@
             "link": "https://www.csoonline.com/article/4193195/this-ai-agent-autonomously-hacked-a-network-adapted-on-the-fly-and-demanded-a-ransom.html",
             "summary": "",
             "published_utc": "2026-07-06T11:34:29+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Prompt Injection Attacks Trick AI Agents Into Making Crypto Payments",
-            "link": "https://www.securityweek.com/prompt-injection-attacks-trick-ai-agents-into-making-crypto-payments/",
-            "summary": "",
-            "published_utc": "2026-07-06T11:19:47+00:00"
         },
         {
             "source": "Schneier",
@@ -415,32 +457,11 @@
             "published_utc": "2026-07-03T17:50:04+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "My canvas art TV gets endless compliments, and it's cheaper than Samsung's Frame TV",
-            "link": "https://www.zdnet.com/article/hisense-canvas-s7-july-4-deal/",
-            "summary": "The Hisense Canvas Art TV is on sale for $350 off during July 4th weekend.",
-            "published_utc": "2026-07-03T15:57:57+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I found the 20+ best 4th of July phone deals: Save big on Galaxy, Pixel, iPhone, and more",
-            "link": "https://www.zdnet.com/article/july-4-phone-deals-2026/",
-            "summary": "Score big Fourth of July savings on flagship smartphones from Samsung, Google, Apple, and more.",
-            "published_utc": "2026-07-03T15:31:05+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Microsoft 365 users fall victim to one-in-a-million password spray attack",
             "link": "https://www.csoonline.com/article/4192819/microsoft-365-users-fall-victim-to-one-in-a-million-password-spray-attack.html",
             "summary": "",
             "published_utc": "2026-07-03T15:26:56+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "In Other News: Canadian Hacker Jailed, Open Source Zero-Days, Two Sentenced for ATM Jackpotting",
-            "link": "https://www.securityweek.com/in-other-news-canadian-hacker-jailed-open-source-zero-days-two-sentenced-for-atm-jackpotting/",
-            "summary": "",
-            "published_utc": "2026-07-03T15:10:42+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -492,13 +513,6 @@
             "published_utc": "2026-07-03T11:15:25+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Agentic AI Used to Conduct Ransomware Attack via Langflow",
-            "link": "https://www.securityweek.com/agentic-ai-used-to-conduct-ransomware-attack-via-langflow/",
-            "summary": "",
-            "published_utc": "2026-07-03T11:00:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "FBI, Google Take Down NetNut Proxy Network Used by Cyber Threat Actors",
             "link": "https://www.infosecurity-magazine.com/news/fbi-google-take-down-netnut-proxy/",
@@ -520,25 +534,11 @@
             "published_utc": "2026-07-03T01:37:09+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Claude Fable relaunch disappoints users with nerfed performance",
-            "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-relaunch-disappoints-users-with-nerfed-performance/",
-            "summary": "Claude Fable, the company's most powerful model, is now available to all users, but early impressions are disappointing, as it appears to be nowhere n...",
-            "published_utc": "2026-07-03T00:48:30+00:00"
-        },
-        {
             "source": "KrebsOnSecurity",
             "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
             "link": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
             "summary": "The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling...",
             "published_utc": "2026-07-02T19:27:33+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Google loses final appeal to overturn €4.1 billion EU fine",
-            "link": "https://www.bleepingcomputer.com/news/legal/google-loses-final-appeal-to-overturn-41-billion-eu-fine/",
-            "summary": "Court of Justice of the European Union (CJEU) has dismissed Google's final appeal against a €4.1 billion ($4.7 billion) antitrust fine over the compan...",
-            "published_utc": "2026-07-02T15:18:51+00:00"
         },
         {
             "source": "InfosecurityMag",
