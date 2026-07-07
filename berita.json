@@ -1,6 +1,69 @@
 {
-    "lastUpdatedUTC": "2026-07-07T16:32:21.809061+00:00",
+    "lastUpdatedUTC": "2026-07-07T19:03:19.755938+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "Your Windows 11 PC might be hiding a 500GB storage bug - how to check",
+            "link": "https://www.zdnet.com/article/windows-11-bug-500gb-storage/",
+            "summary": "A glitch in Windows 11 causes a specific system file to keep growing in size, though a patch is available. Here's what you need to know about it.",
+            "published_utc": "2026-07-07T18:55:29+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Chinese hackers develop LONGLEASH malware to expand ORB network",
+            "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-develop-longleash-malware-to-expand-orb-network/",
+            "summary": "Chinese hackers tracked as 'UAT-7810' are actively evolving their malware to expand their Operational Relay Box (ORB) network by compromising internet...",
+            "published_utc": "2026-07-07T18:52:19+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I connected ChatGPT to my bank, and it's my go-to finance app now - here's how (and why)",
+            "link": "https://www.zdnet.com/article/how-to-use-chatgpt-finance-to-manage-money-investments-debts/",
+            "summary": "With ChatGPT Finances, I can see all my money, investments, and debts in one place - and I can ask AI what it all means.",
+            "published_utc": "2026-07-07T18:27:43+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "You can soon restore Windows 11 from scratch even if it can't boot up - here's how",
+            "link": "https://www.zdnet.com/article/cloud-rebuild-restore-windows-11-from-scratch-even-if-it-cant-boot-up/",
+            "summary": "Now in preview mode, the new Cloud rebuild option will restore Windows to a clean state if some glitch prevents it from even loading.",
+            "published_utc": "2026-07-07T17:43:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "County Government Reportedly Paid $1 Million to Cyber Extortion Group",
+            "link": "https://www.securityweek.com/county-government-reportedly-paid-1-million-to-cyber-extortion-group/",
+            "summary": "",
+            "published_utc": "2026-07-07T17:31:54+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Hidden backdoor in Tenda router firmware grants admin access",
+            "link": "https://www.bleepingcomputer.com/news/security/hidden-backdoor-in-tenda-router-firmware-grants-admin-access/",
+            "summary": "A hidden authentication backdoor has been found in multiple Tenda router firmware versions, potentially allowing an attacker to gain administrative ac...",
+            "published_utc": "2026-07-07T17:27:22+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Critical Gitea Flaw Under Active Exploitation, Researchers Warn",
+            "link": "https://www.securityweek.com/critical-gitea-flaw-under-active-exploitation-researchers-warn/",
+            "summary": "",
+            "published_utc": "2026-07-07T17:17:19+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Got a spare PC? How I turned mine into an open-source smart home hub for free",
+            "link": "https://www.zdnet.com/article/home-assistant-os-open-source-smart-home-on-spare-pc/",
+            "summary": "Home Assistant OS can serve as a user-friendly control hub for your smart devices. Here's how to get started.",
+            "published_utc": "2026-07-07T17:10:38+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The best robot vacuums for 2026: Expert tested and reviewed",
+            "link": "https://www.zdnet.com/article/best-robot-vacuum/",
+            "summary": "I tested the best robot vacuums from brands like Ecovacs, Roborock, Mova, and more in lab and home settings - here are the top ones.",
+            "published_utc": "2026-07-07T17:01:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Linux Mint vs. RefreshOS: I compared the two best distros for new users - this one's better",
@@ -268,20 +331,6 @@
             "published_utc": "2026-07-06T20:41:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "How to make Zorin OS look like Windows 11 - for free",
-            "link": "https://www.zdnet.com/article/how-to-make-zorin-os-look-like-windows-11/",
-            "summary": "If you fancy a Windows 11 layout, but want to use Linux, you're in luck.",
-            "published_utc": "2026-07-06T20:33:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "5 tiny Linux tools I can't live or work without",
-            "link": "https://www.zdnet.com/article/5-tiny-linux-tools-i-cant-live-or-work-without/",
-            "summary": "Linux has a wealth of applications, but sometimes the smaller tools get overlooked. Here's a list of those I'd prefer never to be without.",
-            "published_utc": "2026-07-06T20:31:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Phishing poses as big-brand job interview to steal Google accounts",
             "link": "https://www.bleepingcomputer.com/news/security/phishing-poses-as-big-brand-job-interview-to-steal-google-accounts/",
@@ -294,13 +343,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/fake-it-support-calls-on-microsoft-teams-push-etherrat-malware/",
             "summary": "Threat actors are abusing Microsoft Teams voice calls by impersonating corporate IT support staff to trick employees into installing the EtherRAT malw...",
             "published_utc": "2026-07-06T20:23:45+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I compared Apple AirTags to competing Bluetooth trackers - including this $2 one",
-            "link": "https://www.zdnet.com/article/apple-airtags-vs-rival-bluetooth-trackers-including-2-one/",
-            "summary": "How does a budget tracker tag perform against the best of the best? Turns out all Bluetooth range is not created equal.",
-            "published_utc": "2026-07-06T19:55:46+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -317,20 +359,6 @@
             "published_utc": "2026-07-06T18:25:06+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "How I turned an old Android phone into my home internet backup solution - 3 methods",
-            "link": "https://www.zdnet.com/article/how-to-use-old-android-phone-as-backup-internet-connection-for-home-router/",
-            "summary": "I needed a way to connect my phone to my router and have it work reliably. So I discovered three ways to get it done.",
-            "published_utc": "2026-07-06T17:23:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I sideloaded 3 apps into my Android Auto, and they've made my drives so much easier",
-            "link": "https://www.zdnet.com/article/3-of-my-favorite-sideloaded-android-auto-apps/",
-            "summary": "From watching YouTube to web browsing to other unexpected tasks, here's what you can install beyond the basics.",
-            "published_utc": "2026-07-06T16:30:46+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "New Iran-Nexus Hacking Group Targets Israel Government and IT Sectors",
             "link": "https://www.infosecurity-magazine.com/news/new-iran-hacking-group-targets/",
@@ -343,13 +371,6 @@
             "link": "https://www.securityweek.com/the-shift-toward-business-aligned-risk-management/",
             "summary": "",
             "published_utc": "2026-07-06T15:20:42+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Armored Likho APT Targeting Government, Electric Power Entities",
-            "link": "https://www.securityweek.com/armored-likho-apt-targeting-government-electric-power-entities/",
-            "summary": "",
-            "published_utc": "2026-07-06T15:10:39+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -399,13 +420,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/max-severity-adobe-coldfusion-flaw-now-exploited-in-attacks/",
             "summary": "Attackers are now exploiting a maximum-severity Adobe ColdFusion vulnerability tracked as CVE-2026-48282, according to vulnerability intelligence comp...",
             "published_utc": "2026-07-06T13:18:37+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "North Korean Hackers Target Open Source Developers in Supply Chain Attacks",
-            "link": "https://www.securityweek.com/north-korean-hackers-target-open-source-developers-in-supply-chain-attacks/",
-            "summary": "",
-            "published_utc": "2026-07-06T13:11:16+00:00"
         },
         {
             "source": "CSO Online",
@@ -471,25 +485,11 @@
             "published_utc": "2026-07-05T14:14:52+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "JadePuffer ransomware used AI agent to automate entire attack",
-            "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/",
-            "summary": "Researchers identified what they believe is the first documented case of a ransomware operation, JadePuffer, conducted entirely by a large language mo...",
-            "published_utc": "2026-07-04T14:16:38+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "Security Roundup: Apple’s Hide My Email Service Fails to Hide Your Email",
             "link": "https://www.wired.com/story/security-roundup-apples-hide-my-email-service-fails-to-hide-your-email/",
             "summary": "Plus: Alleged Scattered Spider hacking member extradited, dozens of license plate reader errors, and Indian officials are concerned about WhatsApp’s u...",
             "published_utc": "2026-07-04T10:30:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "NetNut proxy network disrupted, 2 million infected devices cut off",
-            "link": "https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/",
-            "summary": "A joint operation involving Google has disrupted NetNut, a residential proxy network that gave access to millions of compromised Android devices, incl...",
-            "published_utc": "2026-07-03T17:50:04+00:00"
         },
         {
             "source": "CSO Online",
