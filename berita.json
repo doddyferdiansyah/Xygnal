@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2026-07-08T18:18:16.480178+00:00",
+    "lastUpdatedUTC": "2026-07-08T20:21:08.330093+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Fake Paysafe, Skrill SDKs on NPM and PyPi steal credentials",
+            "link": "https://www.bleepingcomputer.com/news/security/fake-paysafe-skrill-sdks-on-npm-and-pypi-steal-credentials/",
+            "summary": "Malicious packages on the Node Package Manager (npm) and the Python Package Index (PyPI) delivered stealer malware to developers and users of Paysafe,...",
+            "published_utc": "2026-07-08T19:54:59+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I replaced my Sonos home theater with this Sony system - here's why innovation is king",
+            "link": "https://www.zdnet.com/article/sony-bravia-trio-review/",
+            "summary": "Sony's Bravia Theater Trio arrives in a unique form and doesn't let traditional home theater rules hinder its performance.",
+            "published_utc": "2026-07-08T19:52:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I tested Qi2 wireless chargers with cooling solutions - here's how my buying advice changed",
+            "link": "https://www.zdnet.com/article/i-tested-mophie-ugreen-esr-wireless-chargers-to-see-which-keeps-phones-cool/",
+            "summary": "Charging stands now come with new technology designed to keep my phone cool. So I put three of them to the test.",
+            "published_utc": "2026-07-08T19:41:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Best Buy is selling the LG C5 OLED for nearly 50% off right now - and I highly recommend it",
+            "link": "https://www.zdnet.com/article/lg-c5-65-inch-oled-tv-best-buy-deal/",
+            "summary": "It may be a generation behind, but the LG C5 OLED TV still offers plenty of reasons to pick one up, especially at this price.",
+            "published_utc": "2026-07-08T19:34:21+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers exploit Roundcube flaw to spy on academic researchers",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-roundcube-flaw-to-spy-on-academic-researchers/",
+            "summary": "A China-linked threat cluster has been exploiting vulnerable Roundcube servers at U.S. and Canadian universities to steal credentials and deploy backd...",
+            "published_utc": "2026-07-08T18:56:02+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "IBM and Red Hat launch Lightwell to defend open-source code from AI attacks",
@@ -352,27 +387,6 @@
             "published_utc": "2026-07-07T17:10:38+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "The best robot vacuums for 2026: Expert tested and reviewed",
-            "link": "https://www.zdnet.com/article/best-robot-vacuum/",
-            "summary": "I tested the best robot vacuums from brands like Ecovacs, Roborock, Mova, and more in lab and home settings - here are the top ones.",
-            "published_utc": "2026-07-07T17:01:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Linux Mint vs. RefreshOS: I compared the two best distros for new users - this one's better",
-            "link": "https://www.zdnet.com/article/linux-mint-vs-refreshos-best-distro-for-new-users/",
-            "summary": "These two user-friendly distributions take different routes to the 'best Linux' crown. The winner comes down to this.",
-            "published_utc": "2026-07-07T16:30:39+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Sennheiser Momentum 5 vs. Bose QuietComfort Ultra 2: I compared the two and found a winner",
-            "link": "https://www.zdnet.com/article/sennheiser-momentum-5-vs-bose-quietcomfort-ultra-2/",
-            "summary": "Sennheiser's and Bose's flagship headphones are both solid choices, and the best pair boils down to your personal preferences.",
-            "published_utc": "2026-07-07T16:20:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Suspected Chinese Threat Group Targets Universities via Vulnerable Roundcube Servers",
             "link": "https://www.infosecurity-magazine.com/news/china-aligned-cluster-roundcube/",
@@ -422,13 +436,6 @@
             "published_utc": "2026-07-07T12:12:20+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "New Januscape Linux flaw allows VM escape on Intel, AMD devices",
-            "link": "https://www.bleepingcomputer.com/news/linux/new-januscape-linux-kernel-flaw-allows-vm-escape-on-intel-amd-devices/",
-            "summary": "A 16-year-old Linux kernel vulnerability, dubbed Januscape, allows attackers to escape a virtual machine and execute arbitrary code on the host. [...]",
-            "published_utc": "2026-07-07T12:06:09+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Google Is Suing Chinese Scammers Who Are Using Gemini",
             "link": "https://www.schneier.com/blog/archives/2026/07/google-is-suing-chinese-scammers-who-are-using-gemini.html",
@@ -448,13 +455,6 @@
             "link": "https://www.csoonline.com/article/4193699/why-the-gentlemen-ransomware-is-a-test-of-identity-and-recovery-controls.html",
             "summary": "",
             "published_utc": "2026-07-07T09:53:33+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft to enable Windows settings backup by default for orgs",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-windows-backup-for-organizations-by-default/",
-            "summary": "Microsoft says the Windows settings backup and restore tool will be enabled by default on Microsoft Entra-joined or Microsoft Entra hybrid-joined ente...",
-            "published_utc": "2026-07-07T09:41:19+00:00"
         },
         {
             "source": "CSO Online",
