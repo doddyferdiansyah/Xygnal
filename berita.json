@@ -1,6 +1,34 @@
 {
-    "lastUpdatedUTC": "2026-07-08T05:52:54.475167+00:00",
+    "lastUpdatedUTC": "2026-07-08T08:30:19.702947+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Ubiquiti warns of new max severity  UniFi OS vulnerability",
+            "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/",
+            "summary": "Ubiquiti has released security updates to patch seven critical vulnerabilities in UniFi OS, including a maximum-severity flaw that can be exploited in...",
+            "published_utc": "2026-07-08T08:15:20+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "NCSC Touts National Scale, AI-Powered “Cyber Shield” for Defense",
+            "link": "https://www.infosecurity-magazine.com/news/ncsc-national-cyber-sheild-ai/",
+            "summary": "The National Cyber Security Centre wants to work with AI partners to build a new “Cyber Shield” to defend the UK",
+            "published_utc": "2026-07-08T08:10:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "CISA orders feds to patch max severity ColdFusion flaw by Friday",
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-coldfusion-flaw-by-friday/",
+            "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered government agencies to patch an actively exploited maximum-severity flaw ...",
+            "published_utc": "2026-07-08T07:16:55+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "13 in-demand IT security certifications for higher pay",
+            "link": "https://www.csoonline.com/article/4194130/13-in-demand-it-security-certifications-for-higher-pay.html",
+            "summary": "",
+            "published_utc": "2026-07-08T07:00:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "This free Android app makes sharing files across Windows, Mac, and iOS so easy for me",
@@ -346,8 +374,8 @@
         },
         {
             "source": "CSO Online",
-            "title": "Zscaler finds autonomous agents succumb to IPI traps",
-            "link": "https://www.csoonline.com/article/4193498/zscaler-finds-autonomous-agents-succumb-to-ipi-traps-2.html",
+            "title": "AI agents fall for indirect prompt injection traps",
+            "link": "https://www.csoonline.com/article/4193498/ai-agents-fall-for-indirect-prompt-injection-traps.html",
             "summary": "",
             "published_utc": "2026-07-07T01:24:40+00:00"
         },
@@ -427,20 +455,6 @@
             "link": "https://www.infosecurity-magazine.com/news/opera-gx-flaw-gx-mods-css/",
             "summary": "Opera GX flaw let sites automatically install mods to steal data from other pages, now patched",
             "published_utc": "2026-07-06T14:15:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Software Is Now Written at the Speed of Thought. Security Isn't.",
-            "link": "https://www.bleepingcomputer.com/news/security/software-is-now-written-at-the-speed-of-thought-security-isnt/",
-            "summary": "Every evolution in software development has reduced the friction between an idea and a deployable application. AI may remove the final barrier, but it...",
-            "published_utc": "2026-07-06T14:00:10+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Max severity Adobe ColdFusion flaw now exploited in attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/max-severity-adobe-coldfusion-flaw-now-exploited-in-attacks/",
-            "summary": "Attackers are now exploiting a maximum-severity Adobe ColdFusion vulnerability tracked as CVE-2026-48282, according to vulnerability intelligence comp...",
-            "published_utc": "2026-07-06T13:18:37+00:00"
         },
         {
             "source": "CSO Online",
@@ -714,13 +728,6 @@
             "link": "https://www.infosecurity-magazine.com/news/clickfix-cybercriminals-favorite/",
             "summary": "ReliaQuest report warns of a surge in ClickFix social engineering attacks against Windows and macOS users",
             "published_utc": "2026-06-30T12:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Malicious Chromium extension spoofs Perplexity AI to hijack browser searches",
-            "link": "https://www.csoonline.com/article/4191060/malicious-chromium-extension-spoofs-perplexity-ai-to-hijack-browser-searches.html",
-            "summary": "",
-            "published_utc": "2026-06-30T11:40:56+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2772,13 +2779,6 @@
             "link": "https://www.infosecurity-magazine.com/news/cyber-number-one-global-people/",
             "summary": "Marsh’s 2026 People Risks survey finds cyber‑related challenges dominate, as cyber‑threat literacy tops risks and cyber and AI skills shortages rise",
             "published_utc": "2026-04-30T09:10:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Cursor Extension Flaw Exposes Developer API Keys",
-            "link": "https://www.infosecurity-magazine.com/news/cursor-extension-flaw-exposes-api/",
-            "summary": "Cursor flaw lets extensions steal API keys and session tokens without user interaction, according to researchers at LayerX",
-            "published_utc": "2026-04-29T15:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
