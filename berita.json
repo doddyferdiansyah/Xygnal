@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2026-07-09T15:56:08.719944+00:00",
+    "lastUpdatedUTC": "2026-07-09T17:58:29.630192+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "This iPhone bug won't let me save cropped screenshots - but I found a fix",
+            "link": "https://www.zdnet.com/article/iphone-screenshot-cropping-bux-ios-27-fix/",
+            "summary": "My cropped iPhone screenshots kept reverting to the full image, revealing details I tried to hide. And that's a problem.",
+            "published_utc": "2026-07-09T17:16:13+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "New Helix vishing group emerges in SharePoint data theft attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/new-helix-vishing-group-emerges-in-sharepoint-data-theft-attacks/",
+            "summary": "A new data-extortion group called Helix is using identity-focused tactics such as voice phishing (vishing), device code phishing, and multi-factor aut...",
+            "published_utc": "2026-07-09T17:08:29+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Microsoft goes all in on new AI-powered Windows security strategy - what it means for you",
+            "link": "https://www.zdnet.com/article/microsoft-windows-ai-security-vulnerability-analysis/",
+            "summary": "An elite security team at Microsoft has built an AI-powered pipeline to find vulnerabilities in Windows and get them to engineers to build fixes.",
+            "published_utc": "2026-07-09T17:00:03+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft expects more Windows security updates from AI-discovered flaws",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/",
+            "summary": "Microsoft says Windows users should expect to see an increase in security updates as the company increasingly relies on artificial intelligence to dis...",
+            "published_utc": "2026-07-09T17:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "LG is giving away free soundbars with this projector - how to get one",
+            "link": "https://www.zdnet.com/article/lg-cinebeam-q-soundbar-bundle-deal/",
+            "summary": "Upgrade your entire home theater at once with this LG CineBeam Q and soundbar bundle.",
+            "published_utc": "2026-07-09T16:00:11+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "The best digital notebooks of 2026: Expert tested and reviewed",
@@ -89,7 +124,7 @@
             "source": "WIRED Security",
             "title": "A Majority of European Lawmakers Voted Against Letting Big Tech Read Our Messages. They’re Going to Anyway",
             "link": "https://www.wired.com/story/a-majority-of-european-lawmakers-voted-against-letting-big-tech-read-our-messages-theyre-going-to-anyway/",
-            "summary": "Companies will once again be allowed to scan citizens’ personal texts, emails, and social media messages via the “chat control” bill to find child abu...",
+            "summary": "Companies will once again be allowed to scan citizens’ personal texts, emails, and social media messages via the “Chat Control” bill to find child abu...",
             "published_utc": "2026-07-09T13:55:08+00:00"
         },
         {
@@ -345,32 +380,11 @@
             "published_utc": "2026-07-08T19:52:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I tested Qi2 wireless chargers with cooling solutions - here's how my buying advice changed",
-            "link": "https://www.zdnet.com/article/i-tested-mophie-ugreen-esr-wireless-chargers-to-see-which-keeps-phones-cool/",
-            "summary": "Charging stands now come with new technology designed to keep my phone cool. So I put three of them to the test.",
-            "published_utc": "2026-07-08T19:41:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Best Buy is selling the LG C5 OLED for nearly 50% off right now - and I highly recommend it",
-            "link": "https://www.zdnet.com/article/lg-c5-65-inch-oled-tv-best-buy-deal/",
-            "summary": "It may be a generation behind, but the LG C5 OLED TV still offers plenty of reasons to pick one up, especially at this price.",
-            "published_utc": "2026-07-08T19:34:21+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Hackers exploit Roundcube flaw to spy on academic researchers",
             "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-roundcube-flaw-to-spy-on-academic-researchers/",
             "summary": "A China-linked threat cluster has been exploiting vulnerable Roundcube servers at U.S. and Canadian universities to steal credentials and deploy backd...",
             "published_utc": "2026-07-08T18:56:02+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "IBM and Red Hat launch Lightwell to defend open-source code from AI attacks",
-            "link": "https://www.zdnet.com/article/ibm-and-red-hat-have-moved-project-lightwell-from-vision-to-product/",
-            "summary": "Their plan to protect open-source projects from AI-discovered security holes has led to the launch of two commercial offerings: Lightwell Network and ...",
-            "published_utc": "2026-07-08T17:26:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -471,13 +485,6 @@
             "published_utc": "2026-07-08T10:00:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "CISA orders feds to prioritize patching Langflow auth bypass flaw",
-            "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-prioritize-patching-langflow-auth-bypass-flaw/",
-            "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) gave federal agencies until Friday to patch an actively exploited vulnerability in th...",
-            "published_utc": "2026-07-08T09:58:11+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "My threat feed told me it was ‘Chalubo.’ The binary disagreed",
             "link": "https://www.csoonline.com/article/4193946/my-threat-feed-told-me-it-was-chalubo-the-binary-disagreed.html",
@@ -490,13 +497,6 @@
             "link": "https://www.welivesecurity.com/en/eset-research/eset-threat-report-h1-2026/",
             "summary": "A view of the H1 2026 threat landscape as seen by ESET telemetry and from the perspective of ESET threat detection and research experts.",
             "published_utc": "2026-07-08T08:45:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Ubiquiti warns of new max severity  UniFi OS vulnerability",
-            "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/",
-            "summary": "Ubiquiti has released security updates to patch seven critical vulnerabilities in UniFi OS, including a maximum-severity flaw that can be exploited in...",
-            "published_utc": "2026-07-08T08:15:20+00:00"
         },
         {
             "source": "InfosecurityMag",
