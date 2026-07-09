@@ -1,6 +1,62 @@
 {
-    "lastUpdatedUTC": "2026-07-09T04:53:52.367356+00:00",
+    "lastUpdatedUTC": "2026-07-09T08:28:25.009698+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "I use Android Auto in my living room now - and it solves ones of my biggest productivity problems",
+            "link": "https://www.zdnet.com/article/i-set-up-android-auto-at-home-for-productivity/",
+            "summary": "My new favorite use of Android Auto happens outside my car. Here's why.",
+            "published_utc": "2026-07-09T08:01:01+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "AssuranceAmerica data breach exposes records of 6.9 million drivers",
+            "link": "https://www.bleepingcomputer.com/news/security/assuranceamerica-data-breach-exposes-records-of-69-million-drivers/",
+            "summary": "American insurance company AssuranceAmerica has disclosed a data breach impacting nearly 7 million drivers after attackers gained access to its system...",
+            "published_utc": "2026-07-09T07:47:16+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Cybercriminals Plant Malicious AI Agents in Open Source Tool Repositories",
+            "link": "https://www.infosecurity-magazine.com/news/cybercriminals-plant-ai-agents/",
+            "summary": "Cybersecurity researchers at ESET identify big rise in suspicious and malicious toolsets which put users at risk from cyber-attacks",
+            "published_utc": "2026-07-09T07:30:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Chrome 150 Update Patches 27 Vulnerabilities",
+            "link": "https://www.securityweek.com/chrome-150-update-patches-27-vulnerabilities/",
+            "summary": "",
+            "published_utc": "2026-07-09T07:27:59+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Lateral movement risk rises as enterprises emphasize convenience over containment",
+            "link": "https://www.csoonline.com/article/4194708/lateral-movement-risk-rises-as-enterprises-emphasize-convenience-over-containment.html",
+            "summary": "",
+            "published_utc": "2026-07-09T07:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "8Layers Raises $2.9 Million for Identity Security Platform",
+            "link": "https://www.securityweek.com/8layers-raises-2-9-million-for-identity-security-platform/",
+            "summary": "",
+            "published_utc": "2026-07-09T06:45:22+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft patches RoguePlanet Defender zero-day vulnerability",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/",
+            "summary": "Microsoft has released a security patch to address a Defender zero-day vulnerability known as \"RoguePlanet,\" disclosed after the June 2026 Patch Tuesd...",
+            "published_utc": "2026-07-09T05:42:49+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Unpatched Backdoor in Tenda Firmware Grants Admin Access to Devices",
+            "link": "https://www.securityweek.com/unpatched-backdoor-in-tenda-firmware-grants-admin-access-to-devices/",
+            "summary": "",
+            "published_utc": "2026-07-09T05:00:41+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "GitHub’s public APIs are becoming an enterprise reconnaissance tool",
@@ -282,6 +338,13 @@
             "published_utc": "2026-07-08T09:00:00+00:00"
         },
         {
+            "source": "WeLiveSecurity",
+            "title": "ESET Threat Report H1 2026",
+            "link": "https://www.welivesecurity.com/en/eset-research/eset-threat-report-h1-2026/",
+            "summary": "A view of the H1 2026 threat landscape as seen by ESET telemetry and from the perspective of ESET threat detection and research experts.",
+            "published_utc": "2026-07-08T08:45:00+00:00"
+        },
+        {
             "source": "BleepingComputer",
             "title": "Ubiquiti warns of new max severity  UniFi OS vulnerability",
             "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/",
@@ -373,13 +436,6 @@
             "published_utc": "2026-07-07T18:27:43+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "You can soon restore Windows 11 from scratch even if it can't boot up - here's how",
-            "link": "https://www.zdnet.com/article/cloud-rebuild-restore-windows-11-from-scratch-even-if-it-cant-boot-up/",
-            "summary": "Now in preview mode, the new Cloud rebuild option will restore Windows to a clean state if some glitch prevents it from even loading.",
-            "published_utc": "2026-07-07T17:43:00+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "County Government Reportedly Paid $1 Million to Cyber Extortion Group",
             "link": "https://www.securityweek.com/county-government-reportedly-paid-1-million-to-cyber-extortion-group/",
@@ -394,13 +450,6 @@
             "published_utc": "2026-07-07T17:27:22+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Critical Gitea Flaw Under Active Exploitation, Researchers Warn",
-            "link": "https://www.securityweek.com/critical-gitea-flaw-under-active-exploitation-researchers-warn/",
-            "summary": "",
-            "published_utc": "2026-07-07T17:17:19+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Suspected Chinese Threat Group Targets Universities via Vulnerable Roundcube Servers",
             "link": "https://www.infosecurity-magazine.com/news/china-aligned-cluster-roundcube/",
@@ -408,39 +457,11 @@
             "published_utc": "2026-07-07T15:40:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Spain arrests suspected member of pro-Russian hacktivist groups",
-            "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-member-of-pro-russian-hacktivist-groups/",
-            "summary": "The National Police in Spain have arrested a man who is suspected of being an active member of the CyberArmy of Russia Reborn (CARR) and Z-Pentest, bo...",
-            "published_utc": "2026-07-07T15:21:21+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "The GitHub Actions Attack Pattern Your CI Security Scanners Miss",
-            "link": "https://www.bleepingcomputer.com/news/security/the-github-actions-attack-pattern-your-ci-security-scanners-miss/",
-            "summary": "ActiveState explains how GitHub Actions attack chains can evade traditional CI security scanners, why passing a scan doesn't guarantee a secure pipeli...",
-            "published_utc": "2026-07-07T14:01:11+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Scattered Spider’s Structure More Like a Cybercrime Collective Than a Unified Gang",
             "link": "https://www.infosecurity-magazine.com/news/scattered-spider-as-cybercrime/",
             "summary": "Group-IB analysis argued Scattered Spider is a decentralized collective of independent clusters",
             "published_utc": "2026-07-07T14:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "CISA Reportedly Using Anthropic’s Mythos to Scan Government Software for Flaws",
-            "link": "https://www.securityweek.com/cisa-reportedly-using-anthropics-mythos-to-scan-government-software-for-flaws/",
-            "summary": "",
-            "published_utc": "2026-07-07T13:13:02+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Critical Adobe ColdFusion Vulnerability Exploited in Attacks",
-            "link": "https://www.securityweek.com/critical-adobe-coldfusion-vulnerability-exploited-in-attacks/",
-            "summary": "",
-            "published_utc": "2026-07-07T12:38:34+00:00"
         },
         {
             "source": "Schneier",
@@ -609,13 +630,6 @@
             "link": "https://www.csoonline.com/article/4192819/microsoft-365-users-fall-victim-to-one-in-a-million-password-spray-attack.html",
             "summary": "",
             "published_utc": "2026-07-03T15:26:56+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Adobe premieres a second Patch Tuesday each month to deliver fixes faster",
-            "link": "https://www.csoonline.com/article/4192789/adobe-premieres-a-second-patch-tuesday-each-month-to-deliver-fixes-faster.html",
-            "summary": "",
-            "published_utc": "2026-07-03T14:05:08+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2774,13 +2788,6 @@
             "published_utc": "2026-04-30T16:00:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "Deep#Door Python Backdoor Evades Detection On Windows",
-            "link": "https://www.infosecurity-magazine.com/news/deepdoor-python-backdoor-windows/",
-            "summary": "Deep#Door Python RAT uses tunneling and obfuscation to evade detection and steal credentials",
-            "published_utc": "2026-04-30T15:00:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "The calm before the ransom: What you see is not all there is",
             "link": "https://www.welivesecurity.com/en/ransomware/calm-ransom-what-you-see-is-not-all-there-is/",
@@ -3104,13 +3111,6 @@
         },
         {
             "source": "WeLiveSecurity",
-            "title": "ESET Threat Report H2 2025",
-            "link": "https://www.welivesecurity.com/en/eset-research/eset-threat-report-h2-2025/",
-            "summary": "A view of the H2 2025 threat landscape as seen by ESET telemetry and from the perspective of ESET threat detection and research experts",
-            "published_utc": "2025-12-16T09:50:45+00:00"
-        },
-        {
-            "source": "WeLiveSecurity",
             "title": "Black Hat Europe 2025: Was that device designed to be on the internet at all?",
             "link": "https://www.welivesecurity.com/en/internet-of-things/black-hat-europe-2025-device-designed-internet/",
             "summary": "Behind the polished exterior of many modern buildings sit outdated systems with vulnerabilities waiting to be found",
@@ -3248,13 +3248,6 @@
             "link": "https://www.welivesecurity.com/en/videos/how-social-engineering-works-unlocked-403-cybersecurity-podcast-s2e6/",
             "summary": "Think you could never fall for an online scam? Think again. Here's how scammers could exploit psychology to deceive you – and what you can do to stay ...",
             "published_utc": "2025-11-04T10:00:00+00:00"
-        },
-        {
-            "source": "WeLiveSecurity",
-            "title": "Ground zero: 5 things to do after discovering a cyberattack",
-            "link": "https://www.welivesecurity.com/en/business-security/ground-zero-5-things-discovering-cyberattack/",
-            "summary": "When every minute counts, preparation and precision can mean the difference between disruption and disaster",
-            "published_utc": "2025-11-03T10:00:00+00:00"
         },
         {
             "source": "Threatpost",
