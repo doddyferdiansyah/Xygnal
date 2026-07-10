@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2026-07-10T16:26:09.052278+00:00",
+    "lastUpdatedUTC": "2026-07-10T18:23:54.745597+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Ryuk ransomware member pleads guilty in the US, faces 15 years in prison",
+            "link": "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-pleads-guilty-in-the-us-faces-15-years-in-prison/",
+            "summary": "A 34-year-old Armenian man has pleaded guilty to hacking U.S. companies and deploying the infamous Ryuk ransomware to encrypt their systems. [...]",
+            "published_utc": "2026-07-10T17:46:10+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "SpaceX wants to launch 100,000 more Starlink satellites - for 100x the bandwidth",
+            "link": "https://www.zdnet.com/article/spacex-wants-to-launch-100000-more-starlink-satellites/",
+            "summary": "It could mean faster internet for rural customers, but not everyone is happy.",
+            "published_utc": "2026-07-10T17:15:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Sony 1000X The Collexion vs. Bowers & Wilkins Px8 S2: Both wow, but one is comfier",
+            "link": "https://www.zdnet.com/article/sony-1000x-the-collexion-vs-bowers-wilkins-px8-s2/",
+            "summary": "Sony's and Bowers & Wilkins' premium headphones deliver an elevated experience, but choosing the right pair isn't as cut-and-dry as you'd think.",
+            "published_utc": "2026-07-10T16:54:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I ditched Google Drive for my own self-hosted storage - and I wish I'd done it sooner",
+            "link": "https://www.zdnet.com/article/i-ditched-google-drive-for-self-hosted-storage-nextcloud/",
+            "summary": "Nextcloud is a free and open-source storage option that offers several advantages. Here's how it works.",
+            "published_utc": "2026-07-10T16:39:49+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Police suspects Dutch hackers were involved in Odido breach",
+            "link": "https://www.bleepingcomputer.com/news/security/police-suspects-dutch-hackers-were-involved-in-odido-breach/",
+            "summary": "The Dutch National Police (Politie) says it has found \"strong indications\" that Dutch hackers have been involved in a February breach at the telecommu...",
+            "published_utc": "2026-07-10T16:37:01+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Progress urges ShareFile admins to shut down servers over “credible” threat",
+            "link": "https://www.bleepingcomputer.com/news/security/progress-urges-sharefile-customers-to-shut-down-servers-over-credible-threat/",
+            "summary": "Progress Software is emailing ShareFile customers who use Storage Zone Controllers to immediately shut down their servers after identifying what it de...",
+            "published_utc": "2026-07-10T16:26:10+00:00"
+        },
         {
             "source": "InfosecurityMag",
             "title": "CISA Details Incident Response to Exposed AWS GovCloud Keys",
@@ -324,32 +366,11 @@
             "published_utc": "2026-07-09T17:00:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "The best digital notebooks of 2026: Expert tested and reviewed",
-            "link": "https://www.zdnet.com/article/best-smart-notebook/",
-            "summary": "I went hands-on with the best smart notebooks to see which ones actually make it easier to capture ideas without paper clutter.",
-            "published_utc": "2026-07-09T15:34:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Your Tenda router could have a hidden firmware backdoor - disable this setting ASAP",
-            "link": "https://www.zdnet.com/article/backdoor-in-popular-router-lets-anyone-access-your-network/",
-            "summary": "Until Tenda patches the backdoor to its popular routers, you have one defense option.",
-            "published_utc": "2026-07-09T15:08:00+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "QIZ Security Raises $17 Million for Cryptographic Governance Platform",
             "link": "https://www.securityweek.com/qiz-security-raises-17-million-for-cryptographic-governance-platform/",
             "summary": "",
             "published_utc": "2026-07-09T15:03:51+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I found an Android launcher so good that I don't miss Nova anymore",
-            "link": "https://www.zdnet.com/article/i-found-an-android-launcher-so-good-that-i-dont-miss-nova-anymore/",
-            "summary": "After spending just 5 minutes with Octopi, I made it my default home screen launcher - it's that perfect! There are free and Pro versions.",
-            "published_utc": "2026-07-09T15:00:38+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -457,13 +478,6 @@
             "published_utc": "2026-07-09T10:00:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Police arrests 5,800 suspects in global anti-fraud crackdown",
-            "link": "https://www.bleepingcomputer.com/news/security/police-arrests-5-800-suspects-in-global-anti-fraud-crackdown/",
-            "summary": "Law enforcement agencies have arrested 5,811 suspects and seized $293 million in illicit assets in a global anti-fraud operation spanning 97 countries...",
-            "published_utc": "2026-07-09T09:47:28+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "New AI Security Charter Backed by Over 70 Cyber Firms",
             "link": "https://www.infosecurity-magazine.com/news/crest-ai-security-charter-cyber/",
@@ -478,13 +492,6 @@
             "published_utc": "2026-07-09T09:00:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "AssuranceAmerica data breach exposes records of 6.9 million drivers",
-            "link": "https://www.bleepingcomputer.com/news/security/assuranceamerica-data-breach-exposes-records-of-69-million-drivers/",
-            "summary": "American insurance company AssuranceAmerica has disclosed a data breach impacting nearly 7 million drivers after attackers gained access to its system...",
-            "published_utc": "2026-07-09T07:47:16+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Cybercriminals Plant Malicious AI Agents in Open Source Tool Repositories",
             "link": "https://www.infosecurity-magazine.com/news/cybercriminals-plant-ai-agents/",
@@ -497,13 +504,6 @@
             "link": "https://www.csoonline.com/article/4194708/lateral-movement-risk-rises-as-enterprises-emphasize-convenience-over-containment.html",
             "summary": "",
             "published_utc": "2026-07-09T07:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft patches RoguePlanet Defender zero-day vulnerability",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/",
-            "summary": "Microsoft has released a security patch to address a Defender zero-day vulnerability known as \"RoguePlanet,\" disclosed after the June 2026 Patch Tuesd...",
-            "published_utc": "2026-07-09T05:42:49+00:00"
         },
         {
             "source": "CSO Online",
@@ -1690,16 +1690,16 @@
         },
         {
             "source": "WIRED Security",
-            "title": "Mapping Every Flock License Plate Reader Near US World Cup Stadiums",
-            "link": "https://www.wired.com/story/us-world-cup-2026-alpr-camera-stadiums/",
-            "summary": "Most US World Cup stadiums are surrounded by surveillance cameras. Want to know if you’re being watched on your way to a match? These maps will help you.",
+            "title": "Soccer Fans, You’re Being Watched",
+            "link": "https://www.wired.com/story/soccer-world-cup-biometric-surveillance/",
+            "summary": "From anti-drone tech to face recognition, 2026 World Cup stadiums in the US, Canada, and Mexico are subjecting fans to an array of surveillance tech. ...",
             "published_utc": "2026-06-10T10:00:00+00:00"
         },
         {
             "source": "WIRED Security",
-            "title": "Soccer Fans, You’re Being Watched",
-            "link": "https://www.wired.com/story/soccer-world-cup-biometric-surveillance/",
-            "summary": "From anti-drone tech to face recognition, 2026 World Cup stadiums in the US, Canada, and Mexico are subjecting fans to an array of surveillance tech. ...",
+            "title": "Mapping Every Flock License Plate Reader Near US World Cup Stadiums",
+            "link": "https://www.wired.com/story/us-world-cup-2026-alpr-camera-stadiums/",
+            "summary": "Most US World Cup stadiums are surrounded by surveillance cameras. Want to know if you’re being watched on your way to a match? These maps will help you.",
             "published_utc": "2026-06-10T10:00:00+00:00"
         },
         {
