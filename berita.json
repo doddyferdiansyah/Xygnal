@@ -1,6 +1,69 @@
 {
-    "lastUpdatedUTC": "2026-07-10T10:55:38.117870+00:00",
+    "lastUpdatedUTC": "2026-07-10T13:12:26.117675+00:00",
     "articles": [
+        {
+            "source": "InfosecurityMag",
+            "title": "New Ransomware Exploits Malicious Driver to Remove Cybersecurity Protections",
+            "link": "https://www.infosecurity-magazine.com/news/ransomware-removes-cybersecurity/",
+            "summary": "GodDamn ransomware uses remote desktop application to secretly move around networks and drop the malicious PoisonX kernel driver",
+            "published_utc": "2026-07-10T13:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Third US Security Expert Sentenced to Prison for Helping Ransomware Gang",
+            "link": "https://www.securityweek.com/third-us-security-expert-sentenced-to-prison-for-helping-ransomware-gang/",
+            "summary": "",
+            "published_utc": "2026-07-10T12:58:39+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The 'learn to code' era is over - and employers are on the hook for reskilling now",
+            "link": "https://www.zdnet.com/article/learn-to-code-era-is-over-employers-are-on-the-hook-for-reskilling-now/",
+            "summary": "AI's ushered in a new era of reskilling. Here's what the industry can learn from the last decade's drive to put people in tech jobs.",
+            "published_utc": "2026-07-10T12:58:28+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "You're using 3M Command strips all wrong",
+            "link": "https://www.zdnet.com/article/youre-using-3m-command-strips-all-wrong/",
+            "summary": "3M Command strips are incredibly useful, if you use them right. These tips can turn 'it fell off the wall' into 'it's still there' years later.",
+            "published_utc": "2026-07-10T12:18:24+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "China, India-Linked Hackers Both Targeted Same Pakistani Police Force",
+            "link": "https://www.securityweek.com/china-india-linked-hackers-both-targeted-same-pakistani-police-force/",
+            "summary": "",
+            "published_utc": "2026-07-10T11:55:11+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Zimbra urges customers to patch critical web client XSS flaw",
+            "link": "https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/",
+            "summary": "The Zimbra security team urged customers to patch a critical vulnerability affecting the Classic Web Client used to access the Zimbra Collaboration su...",
+            "published_utc": "2026-07-10T11:47:38+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Okta Warns of Vishing Attacks Targeting Microsoft 365 Customers",
+            "link": "https://www.securityweek.com/okta-warns-of-vishing-attacks-targeting-microsoft-365-customers/",
+            "summary": "",
+            "published_utc": "2026-07-10T11:06:36+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "AI Surveillance and Social Progress",
+            "link": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
+            "summary": "",
+            "published_utc": "2026-07-10T11:02:04+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Best wireless chargers of 2026: Expert tested",
+            "link": "https://www.zdnet.com/article/best-wireless-charger/",
+            "summary": "We tested the top wireless chargers from brands like Anker and Nomad to find the ones that make powering your devices easier than ever.",
+            "published_utc": "2026-07-10T11:00:47+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "The best VPS hosting services for 2026: Expert tested and reviewed",
@@ -240,20 +303,6 @@
             "published_utc": "2026-07-09T14:19:53+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I've used Linux for 30 years - here's how I'd rank DistroWatch's top 10",
-            "link": "https://www.zdnet.com/article/how-id-rank-distrowatch-top-10-as-linux-expert/",
-            "summary": "DistroWatch says these are the top Linux distros. I say this order is better.",
-            "published_utc": "2026-07-09T14:14:07+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Meta's new AI tool lets others use your Instagram posts for image generation - how to opt out",
-            "link": "https://www.zdnet.com/article/meta-muse-ai-feature-instagram-posts-opting-out/",
-            "summary": "Any public Instagram account is fair game to be used for AI generation with Meta's new Muse Image.",
-            "published_utc": "2026-07-09T14:04:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "The Hidden Security Risks of Reduced Summer IT Coverage",
             "link": "https://www.bleepingcomputer.com/news/security/the-hidden-security-risks-of-reduced-summer-it-coverage/",
@@ -310,13 +359,6 @@
             "published_utc": "2026-07-09T12:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "15-Year-Old Linux Vulnerability ‘GhostLock’ Earns Researchers $92k From Google",
-            "link": "https://www.securityweek.com/15-year-old-linux-vulnerability-ghostlock-earns-researchers-92k-from-google/",
-            "summary": "",
-            "published_utc": "2026-07-09T11:52:35+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Chinese-Funded Interpol Cybercrime Crackdown Leads to 5,800 Arrests",
             "link": "https://www.infosecurity-magazine.com/news/china-interpol-cybercrime-crackdown/",
@@ -343,20 +385,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ghostapproval-flaw-ai-coding/",
             "summary": "Wiz discovered GhostApproval, a symlink flaw in six major AI coding assistants that bypasses approval",
             "published_utc": "2026-07-09T11:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Microsoft Patches Defender ‘RoguePlanet’ Vulnerability",
-            "link": "https://www.securityweek.com/microsoft-patches-defender-rogueplanet-vulnerability/",
-            "summary": "",
-            "published_utc": "2026-07-09T10:28:35+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Mount Royal University Confirms Data Stolen in Ransomware Attack",
-            "link": "https://www.securityweek.com/mount-royal-university-confirms-data-stolen-in-ransomware-attack/",
-            "summary": "",
-            "published_utc": "2026-07-09T10:06:18+00:00"
         },
         {
             "source": "CSO Online",
@@ -448,13 +476,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-roundcube-flaw-to-spy-on-academic-researchers/",
             "summary": "A China-linked threat cluster has been exploiting vulnerable Roundcube servers at U.S. and Canadian universities to steal credentials and deploy backd...",
             "published_utc": "2026-07-08T18:56:02+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Entra passkey enrollment vishing targets Microsoft 365 users",
-            "link": "https://www.bleepingcomputer.com/news/security/entra-passkey-enrollment-vishing-targets-microsoft-365-users/",
-            "summary": "A threat actor has been targeting organizations across multiple sectors with voice-based fake security requests that ask Microsoft 365 users to enroll...",
-            "published_utc": "2026-07-08T16:47:25+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -910,13 +931,6 @@
             "link": "https://www.infosecurity-magazine.com/news/millenium-rat-telegram-60000/",
             "summary": "Group-IB says Millenium RAT, now rewritten in C++, has hit 62,289 devices in 160+ countries",
             "published_utc": "2026-06-29T14:30:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Robot Police Officers",
-            "link": "https://www.schneier.com/blog/archives/2026/06/robot-police-officers.html",
-            "summary": "",
-            "published_utc": "2026-06-29T10:55:33+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1655,16 +1669,16 @@
         },
         {
             "source": "WIRED Security",
-            "title": "Soccer Fans, You’re Being Watched",
-            "link": "https://www.wired.com/story/soccer-world-cup-biometric-surveillance/",
-            "summary": "From anti-drone tech to face recognition, 2026 World Cup stadiums in the US, Canada, and Mexico are subjecting fans to an array of surveillance tech. ...",
+            "title": "Mapping Every Flock License Plate Reader Near US World Cup Stadiums",
+            "link": "https://www.wired.com/story/us-world-cup-2026-alpr-camera-stadiums/",
+            "summary": "Most US World Cup stadiums are surrounded by surveillance cameras. Want to know if you’re being watched on your way to a match? These maps will help you.",
             "published_utc": "2026-06-10T10:00:00+00:00"
         },
         {
             "source": "WIRED Security",
-            "title": "Mapping Every Flock License Plate Reader Near US World Cup Stadiums",
-            "link": "https://www.wired.com/story/us-world-cup-2026-alpr-camera-stadiums/",
-            "summary": "Most US World Cup stadiums are surrounded by surveillance cameras. Want to know if you’re being watched on your way to a match? These maps will help you.",
+            "title": "Soccer Fans, You’re Being Watched",
+            "link": "https://www.wired.com/story/soccer-world-cup-biometric-surveillance/",
+            "summary": "From anti-drone tech to face recognition, 2026 World Cup stadiums in the US, Canada, and Mexico are subjecting fans to an array of surveillance tech. ...",
             "published_utc": "2026-06-10T10:00:00+00:00"
         },
         {
@@ -2765,13 +2779,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ai-adoption-outpaces-safety-policy/",
             "summary": "ISACA report warns that while AI has become the norm, many organizations are yet to formally apply safety or security policies around its use",
             "published_utc": "2026-05-05T11:10:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "NCSC Warns of an AI-Fuelled “Vulnerability Patch Wave”",
-            "link": "https://www.infosecurity-magazine.com/news/ncsc-warns-aifuelled-vulnerability/",
-            "summary": "The UK's National Cyber Security Centre is urging organizations to prepare for glut of new software updates",
-            "published_utc": "2026-05-05T09:40:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
