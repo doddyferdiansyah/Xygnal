@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-07-10T20:23:57.804656+00:00",
+    "lastUpdatedUTC": "2026-07-10T22:04:19.794739+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "New U-Boot flaws could enable stealthy firmware attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/",
+            "summary": "Six vulnerabilities in the widely used U-Boot bootloader have been discovered that could allow attackers to execute malicious code during device boot,...",
+            "published_utc": "2026-07-10T21:59:02+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Friday Squid Blogging: “Squidbleed” Vulnerability",
+            "link": "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squidbleed-vulnerability.html",
+            "summary": "",
+            "published_utc": "2026-07-10T21:07:13+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Red Hat will support your RHEL forever now - for a price",
+            "link": "https://www.zdnet.com/article/red-hat-enterprise-linux-forever-support/",
+            "summary": "Red Hat's new Long-Life Add-On extends support on a specific release for as long as you're willing to pay for it.",
+            "published_utc": "2026-07-10T20:44:12+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Ryuk ransomware member pleads guilty in the US, faces 15 years in prison",
@@ -352,13 +373,6 @@
             "published_utc": "2026-07-09T17:08:29+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Microsoft goes all in on new AI-powered Windows security strategy - what it means for you",
-            "link": "https://www.zdnet.com/article/microsoft-windows-ai-security-vulnerability-analysis/",
-            "summary": "An elite security team at Microsoft has built an AI-powered pipeline to find vulnerabilities in Windows and get them to engineers to build fixes.",
-            "published_utc": "2026-07-09T17:00:03+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Microsoft expects more Windows security updates from AI-discovered flaws",
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/",
@@ -448,13 +462,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/07/the-language-of-ai-could-change-how-humans-speak.html",
             "summary": "",
             "published_utc": "2026-07-09T11:00:45+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft to retire the OWA Light client in Exchange Server",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-owa-light-retirement-in-exchange-server/",
-            "summary": "Microsoft has announced plans to disable Outlook Web Access (OWA) Light, the lightweight version of the Outlook Web App email client, in a future Exch...",
-            "published_utc": "2026-07-09T11:00:35+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -931,13 +938,6 @@
             "link": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
             "summary": "Hundreds of contractors working on a project for Meta pretended to be kids in order to see how other chatbots like Gemini and ChatGPT would respond to...",
             "published_utc": "2026-06-29T21:49:26+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Factoring RSA Keys with Many Zeros",
-            "link": "https://www.schneier.com/blog/archives/2026/06/factoring-rsa-keys-with-many-zeros.html",
-            "summary": "",
-            "published_utc": "2026-06-29T16:05:18+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1690,16 +1690,16 @@
         },
         {
             "source": "WIRED Security",
-            "title": "Soccer Fans, You’re Being Watched",
-            "link": "https://www.wired.com/story/soccer-world-cup-biometric-surveillance/",
-            "summary": "From anti-drone tech to face recognition, 2026 World Cup stadiums in the US, Canada, and Mexico are subjecting fans to an array of surveillance tech. ...",
+            "title": "Mapping Every Flock License Plate Reader Near US World Cup Stadiums",
+            "link": "https://www.wired.com/story/us-world-cup-2026-alpr-camera-stadiums/",
+            "summary": "Most US World Cup stadiums are surrounded by surveillance cameras. Want to know if you’re being watched on your way to a match? These maps will help you.",
             "published_utc": "2026-06-10T10:00:00+00:00"
         },
         {
             "source": "WIRED Security",
-            "title": "Mapping Every Flock License Plate Reader Near US World Cup Stadiums",
-            "link": "https://www.wired.com/story/us-world-cup-2026-alpr-camera-stadiums/",
-            "summary": "Most US World Cup stadiums are surrounded by surveillance cameras. Want to know if you’re being watched on your way to a match? These maps will help you.",
+            "title": "Soccer Fans, You’re Being Watched",
+            "link": "https://www.wired.com/story/soccer-world-cup-biometric-surveillance/",
+            "summary": "From anti-drone tech to face recognition, 2026 World Cup stadiums in the US, Canada, and Mexico are subjecting fans to an array of surveillance tech. ...",
             "published_utc": "2026-06-10T10:00:00+00:00"
         },
         {
