@@ -1,6 +1,76 @@
 {
-    "lastUpdatedUTC": "2026-07-10T13:12:26.117675+00:00",
+    "lastUpdatedUTC": "2026-07-10T16:26:09.052278+00:00",
     "articles": [
+        {
+            "source": "InfosecurityMag",
+            "title": "CISA Details Incident Response to Exposed AWS GovCloud Keys",
+            "link": "https://www.infosecurity-magazine.com/news/cisa-incident-response-exposed-aws/",
+            "summary": "CISA reveals how it responded after sensitive AWS GovCloud credentials and internal data were exposed in a public GitHub repository",
+            "published_utc": "2026-07-10T16:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers exploit critical auth bypass in Gitea Docker image",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/",
+            "summary": "Hackers are actively exploiting a critical vulnerability in the official Docker image for the Gitea self-hosted Git service that allows attackers to i...",
+            "published_utc": "2026-07-10T15:48:38+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Money launderer accused of stealing seized crypto while in prison",
+            "link": "https://www.bleepingcomputer.com/news/security/money-launderer-accused-of-stealing-seized-crypto-while-in-prison/",
+            "summary": "A Bulgarian national has been charged with stealing $290,000 in government-seized cryptocurrency while serving 121 months in prison for helping launde...",
+            "published_utc": "2026-07-10T15:30:19+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Microsoft Warns New 'GigaWiper' Malware Combines Espionage and Destructive Capabilities",
+            "link": "https://www.infosecurity-magazine.com/news/new-gigawiper-espionage-destructive/",
+            "summary": "A new multi-purpose backdoor allows cyber threat actors to conduct both quiet espionage activity and destructive wiping operations",
+            "published_utc": "2026-07-10T15:30:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "In Other News: DHS Database Hacked, Adobe Boosts Patch Cadence, Canada Disrupts Ransomware Ops",
+            "link": "https://www.securityweek.com/in-other-news-dhs-database-hacked-adobe-boosts-patch-cadence-canada-disrupts-ransomware-ops/",
+            "summary": "",
+            "published_utc": "2026-07-10T15:01:19+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "EU extends mass scanning of messages without a warrant",
+            "link": "https://www.csoonline.com/article/4195680/eu-extends-mass-scanning-of-messages-without-a-warrant.html",
+            "summary": "",
+            "published_utc": "2026-07-10T14:44:52+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "CrowdStrike identifies five new prompt injection threats to AI",
+            "link": "https://www.csoonline.com/article/4195670/crowdstrike-identifies-five-new-prompt-injection-threats-to-ai.html",
+            "summary": "",
+            "published_utc": "2026-07-10T14:31:44+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Best Buy is selling a 70-inch Fire TV for just $350 right now - and it's a model I recommend",
+            "link": "https://www.zdnet.com/article/insignia-f50-best-buy-deal/",
+            "summary": "Upgrade your home theater with a big-screen Insignia F50 for less than $400 right now at Best Buy.",
+            "published_utc": "2026-07-10T14:29:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "The Replicant in Your Directory: AI Agents and the Identity Security Gap",
+            "link": "https://www.bleepingcomputer.com/news/security/the-replicant-in-your-directory-ai-agents-and-the-identity-security-gap/",
+            "summary": "AI agents are accelerating the growth of non-human identities, making it harder for organizations to understand what exists, who owns it, and what it ...",
+            "published_utc": "2026-07-10T14:00:10+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Anthropic and OpenAI Security Tools Could Fuel Cyber-Attacks, Researchers Warn",
+            "link": "https://www.infosecurity-magazine.com/news/anthropic-openai-report-exploit/",
+            "summary": "Researchers at the AI Now Institute developed a proof-of-concept exploit showing common AI tools used for security could backfire",
+            "published_utc": "2026-07-10T13:45:00+00:00"
+        },
         {
             "source": "InfosecurityMag",
             "title": "New Ransomware Exploits Malicious Driver to Remove Cybersecurity Protections",
@@ -20,7 +90,7 @@
             "title": "The 'learn to code' era is over - and employers are on the hook for reskilling now",
             "link": "https://www.zdnet.com/article/learn-to-code-era-is-over-employers-are-on-the-hook-for-reskilling-now/",
             "summary": "AI's ushered in a new era of reskilling. Here's what the industry can learn from the last decade's drive to put people in tech jobs.",
-            "published_utc": "2026-07-10T12:58:28+00:00"
+            "published_utc": "2026-07-10T12:58:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -129,10 +199,10 @@
         },
         {
             "source": "ZDNet Security",
-            "title": "I tested my Fitbit Air against an 'EKG-accurate' heart rate monitor - the results surprised me",
+            "title": "I tested my Fitbit Air against an 'ECG-accurate' heart rate monitor - the results surprised me",
             "link": "https://www.zdnet.com/article/heart-rate-tracking-fitbit-air-accuracy-chest-strap-monitor/",
             "summary": "Accuracy is the name of the health tracker game, so I put Google's latest device to the test.",
-            "published_utc": "2026-07-10T08:45:39+00:00"
+            "published_utc": "2026-07-10T08:45:00+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -224,13 +294,6 @@
             "link": "https://www.zdnet.com/article/i-tried-chatgpt-live-voice-ai/",
             "summary": "The latest GPT Live Voice models can listen, speak, and conduct online research all at the same time. Does it feel like you're talking with a real per...",
             "published_utc": "2026-07-09T18:51:10+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Best Buy is selling a 70-inch Insignia TV for just $350 - why I recommend it",
-            "link": "https://www.zdnet.com/article/insignia-f50-best-buy-deal/",
-            "summary": "Upgrade your home theater with a big-screen Insignia F50 for less than $400 right now at Best Buy.",
-            "published_utc": "2026-07-09T18:14:15+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -345,13 +408,6 @@
             "published_utc": "2026-07-09T12:28:01+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "12 Million Impacted by Data Breach at Japanese Telco KDDI",
-            "link": "https://www.securityweek.com/12-million-impacted-by-data-breach-at-japanese-telco-kddi/",
-            "summary": "",
-            "published_utc": "2026-07-09T12:18:46+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "75% CISOs Fear Executives Don’t Understand Cybersecurity Risks Employees Face",
             "link": "https://www.infosecurity-magazine.com/news/cisos-fear-execs-dont-understand/",
@@ -455,27 +511,6 @@
             "link": "https://www.csoonline.com/article/4194665/githubs-public-apis-are-becoming-an-enterprise-reconnaissance-tool-2.html",
             "summary": "",
             "published_utc": "2026-07-08T23:08:07+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Mount Royal University confirms breach as hackers claim attack",
-            "link": "https://www.bleepingcomputer.com/news/security/mount-royal-university-confirms-breach-as-hackers-claim-attack/",
-            "summary": "Mount Royal University in Calgary says hackers stole and then deleted data from its file storage systems after breaching the university's network. [...]",
-            "published_utc": "2026-07-08T21:26:59+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Fake Paysafe, Skrill SDKs on NPM and PyPi steal credentials",
-            "link": "https://www.bleepingcomputer.com/news/security/fake-paysafe-skrill-sdks-on-npm-and-pypi-steal-credentials/",
-            "summary": "Malicious packages on the Node Package Manager (npm) and the Python Package Index (PyPI) delivered stealer malware to developers and users of Paysafe,...",
-            "published_utc": "2026-07-08T19:54:59+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Hackers exploit Roundcube flaw to spy on academic researchers",
-            "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-roundcube-flaw-to-spy-on-academic-researchers/",
-            "summary": "A China-linked threat cluster has been exploiting vulnerable Roundcube servers at U.S. and Canadian universities to steal credentials and deploy backd...",
-            "published_utc": "2026-07-08T18:56:02+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -644,20 +679,6 @@
             "link": "https://www.infosecurity-magazine.com/news/phishing-facebook-fake-verification/",
             "summary": "Attacks also used a compromised chatbot in campaign to steal sensitive information from Business Users",
             "published_utc": "2026-07-07T07:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Insignary Closes SBOM Accuracy Gap With Binary-Level Clarity for Regulatory Risk",
-            "link": "https://www.csoonline.com/article/4193554/insignary-closes-sbom-accuracy-gap-with-binary-level-clarity-for-regulatory-risk.html",
-            "summary": "",
-            "published_utc": "2026-07-07T04:00:40+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "AI agents fall for indirect prompt injection traps",
-            "link": "https://www.csoonline.com/article/4193498/ai-agents-fall-for-indirect-prompt-injection-traps.html",
-            "summary": "",
-            "published_utc": "2026-07-07T01:24:40+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2758,27 +2779,6 @@
             "link": "https://www.infosecurity-magazine.com/news/microsoft-phishing-fake-compliance/",
             "summary": "Microsoft researchers warn of a large-scale phishing campaign using fake compliance emails to steal credentials, targeting 35,000 users across 13,000 ...",
             "published_utc": "2026-05-05T16:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "North Korean APT Targets Yanbian Gamers via Trojanized Platform",
-            "link": "https://www.infosecurity-magazine.com/news/scarcruft-birdcall-android-yanbian/",
-            "summary": "ESET warns that North Korean hackers compromised a Yanbian gaming site in a supply‑chain attack, trojanizing Windows and Android software to spy on users",
-            "published_utc": "2026-05-05T15:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Fake SSA Emails Drive Venomous#Helper Phishing Campaign",
-            "link": "https://www.infosecurity-magazine.com/news/ssa-emails-venomous-helper-phishing/",
-            "summary": "Venomous#Helper attackers impersonate the US Social Security Administration to deploy signed RMM software and maintain persistent access across US net...",
-            "published_utc": "2026-05-05T14:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "AI Adoption Outpaces Safety Policies, Leaving Organizations Exposed to Cyber Risk",
-            "link": "https://www.infosecurity-magazine.com/news/ai-adoption-outpaces-safety-policy/",
-            "summary": "ISACA report warns that while AI has become the norm, many organizations are yet to formally apply safety or security policies around its use",
-            "published_utc": "2026-05-05T11:10:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
