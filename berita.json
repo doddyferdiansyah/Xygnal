@@ -1,6 +1,76 @@
 {
-    "lastUpdatedUTC": "2026-07-13T13:24:20.719875+00:00",
+    "lastUpdatedUTC": "2026-07-13T16:34:44.466277+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "How I tag my files to avoid endless searching and disorganized folders",
+            "link": "https://www.zdnet.com/article/tag-files-to-avoid-endless-searching-disorganized-folders/",
+            "summary": "File managers are often overlooked as one of the most important tools in an operating system. Try this and see if you don't agree!",
+            "published_utc": "2026-07-13T15:32:26+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Open Directory Exposes Three Evilginx Phishing Operators",
+            "link": "https://www.infosecurity-magazine.com/news/open-directory-exposes-evilginx/",
+            "summary": "Misconfigured server exposed three phishing operators running Evilginx forks to bypass MFA",
+            "published_utc": "2026-07-13T15:30:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "CISA warns of actively exploited RCE flaws in Joomla extensions",
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions/",
+            "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are exploiting vulnerabilities in the iCagenda and Balbooa ...",
+            "published_utc": "2026-07-13T15:20:16+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Lessons Learned from CISA’s Recent GitHub Leak",
+            "link": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
+            "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal ...",
+            "published_utc": "2026-07-13T15:03:28+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The best all-in-one computers of 2026: Expert tested and reviewed",
+            "link": "https://www.zdnet.com/article/best-all-in-one-computer/",
+            "summary": "We tested the best all-in-one computers that combine the power of a desktop PC with a slim, lightweight design.",
+            "published_utc": "2026-07-13T14:56:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Pakistani Police Systems Hit by Chinese and Indian Espionage",
+            "link": "https://www.infosecurity-magazine.com/news/chinese-indian-espionage-pakistani/",
+            "summary": "Chinese and Indian spies converged on the same Balochistan police force, SentinelLabs found",
+            "published_utc": "2026-07-13T14:45:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I tested Alienware's new budget gaming laptop, but these 3 might be smarter buys",
+            "link": "https://www.zdnet.com/article/alienware-15-review/",
+            "summary": "The Alienware 15 sets out to balance affordability and performance, but whether it succeeds depends on personal preferences.",
+            "published_utc": "2026-07-13T14:37:30+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Hacker Conversations: Jesse McGraw (GhostExodus), From Blackhat Hacker to Redemption",
+            "link": "https://www.securityweek.com/hacker-conversations-jesse-mcgraw-ghostexodus-from-blackhat-hacker-to-redemption/",
+            "summary": "",
+            "published_utc": "2026-07-13T14:30:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Lidl discloses online shop breach after service provider hack",
+            "link": "https://www.bleepingcomputer.com/news/security/lidl-discloses-online-shop-breach-after-service-provider-hack/",
+            "summary": "German discount supermarket chain Lidl notified customers in Germany, Belgium, and the Netherlands that attackers stole their personal information in ...",
+            "published_utc": "2026-07-13T14:19:43+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Breach at the Beach: Play the Ultimate Entra ID CTF",
+            "link": "https://www.bleepingcomputer.com/news/security/breach-at-the-beach-play-the-ultimate-entra-id-ctf/",
+            "summary": "Learn how attackers abuse Entra ID through a free hands-on Capture the Flag. Varonis created the Breach at the Beach CTF to teach defenders how to inv...",
+            "published_utc": "2026-07-13T14:01:11+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "UK charges suspects linked to Russian Coms call spoofing platform",
@@ -289,20 +359,6 @@
             "published_utc": "2026-07-10T16:00:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Hackers exploit critical auth bypass in Gitea Docker image",
-            "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/",
-            "summary": "Hackers are actively exploiting a critical vulnerability in the official Docker image for the Gitea self-hosted Git service that allows attackers to i...",
-            "published_utc": "2026-07-10T15:48:38+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Money launderer accused of stealing seized crypto while in prison",
-            "link": "https://www.bleepingcomputer.com/news/security/money-launderer-accused-of-stealing-seized-crypto-while-in-prison/",
-            "summary": "A Bulgarian national has been charged with stealing $290,000 in government-seized cryptocurrency while serving 121 months in prison for helping launde...",
-            "published_utc": "2026-07-10T15:30:19+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Microsoft Warns New 'GigaWiper' Malware Combines Espionage and Destructive Capabilities",
             "link": "https://www.infosecurity-magazine.com/news/new-gigawiper-espionage-destructive/",
@@ -338,13 +394,6 @@
             "published_utc": "2026-07-10T14:29:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "The Replicant in Your Directory: AI Agents and the Identity Security Gap",
-            "link": "https://www.bleepingcomputer.com/news/security/the-replicant-in-your-directory-ai-agents-and-the-identity-security-gap/",
-            "summary": "AI agents are accelerating the growth of non-human identities, making it harder for organizations to understand what exists, who owns it, and what it ...",
-            "published_utc": "2026-07-10T14:00:10+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Anthropic and OpenAI Security Tools Could Fuel Cyber-Attacks, Researchers Warn",
             "link": "https://www.infosecurity-magazine.com/news/anthropic-openai-report-exploit/",
@@ -357,13 +406,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ransomware-removes-cybersecurity/",
             "summary": "GodDamn ransomware uses remote desktop application to secretly move around networks and drop the malicious PoisonX kernel driver",
             "published_utc": "2026-07-10T13:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Third US Security Expert Sentenced to Prison for Helping Ransomware Gang",
-            "link": "https://www.securityweek.com/third-us-security-expert-sentenced-to-prison-for-helping-ransomware-gang/",
-            "summary": "",
-            "published_utc": "2026-07-10T12:58:39+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -476,27 +518,6 @@
             "link": "https://www.csoonline.com/article/4195235/ai-coding-tool-hole-illustrates-a-big-problem-with-human-in-the-loop.html",
             "summary": "",
             "published_utc": "2026-07-09T22:55:40+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "AI Model Release Tracker: GPT-5.6 rivals Fable 5, Muse Spark 1.1 pursues 'personal intelligence'",
-            "link": "https://www.zdnet.com/article/ai-model-release-tracker/",
-            "summary": "Our AI Model Release Tracker keeps new models in context with their peers, so you know which are worth your time.",
-            "published_utc": "2026-07-09T20:27:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "OpenAI's GPT-5.6 and ChatGPT Work aim to beat Anthropic on price, speed, and productivity",
-            "link": "https://www.zdnet.com/article/openais-gpt-5-6-chatgpt-work-beat-anthropic-on-price-speed-and-productivity/",
-            "summary": "OpenAI's latest announcement looks like a lot more than a model upgrade.",
-            "published_utc": "2026-07-09T20:26:06+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "LG is giving away free soundbars with this CineBeam Q projector deal - how to qualify",
-            "link": "https://www.zdnet.com/article/lg-cinebeam-q-soundbar-bundle-deal/",
-            "summary": "Upgrade your entire home theater at once with this LG CineBeam Q and soundbar bundle.",
-            "published_utc": "2026-07-09T19:39:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1739,16 +1760,16 @@
         },
         {
             "source": "WIRED Security",
-            "title": "Mapping Every Flock License Plate Reader Near US World Cup Stadiums",
-            "link": "https://www.wired.com/story/us-world-cup-2026-alpr-camera-stadiums/",
-            "summary": "Most US World Cup stadiums are surrounded by surveillance cameras. Want to know if you’re being watched on your way to a match? These maps will help you.",
+            "title": "Soccer Fans, You’re Being Watched",
+            "link": "https://www.wired.com/story/soccer-world-cup-biometric-surveillance/",
+            "summary": "From anti-drone tech to face recognition, 2026 World Cup stadiums in the US, Canada, and Mexico are subjecting fans to an array of surveillance tech. ...",
             "published_utc": "2026-06-10T10:00:00+00:00"
         },
         {
             "source": "WIRED Security",
-            "title": "Soccer Fans, You’re Being Watched",
-            "link": "https://www.wired.com/story/soccer-world-cup-biometric-surveillance/",
-            "summary": "From anti-drone tech to face recognition, 2026 World Cup stadiums in the US, Canada, and Mexico are subjecting fans to an array of surveillance tech. ...",
+            "title": "Mapping Every Flock License Plate Reader Near US World Cup Stadiums",
+            "link": "https://www.wired.com/story/us-world-cup-2026-alpr-camera-stadiums/",
+            "summary": "Most US World Cup stadiums are surrounded by surveillance cameras. Want to know if you’re being watched on your way to a match? These maps will help you.",
             "published_utc": "2026-06-10T10:00:00+00:00"
         },
         {
@@ -2319,13 +2340,6 @@
             "published_utc": "2026-05-22T08:50:00+00:00"
         },
         {
-            "source": "KrebsOnSecurity",
-            "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
-            "link": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
-            "summary": "Canadian authorities on Wednesday arrested a 23-year-old Ottawa man on suspicion of building and operating Kimwolf, a fast spreading Internet-of-Thing...",
-            "published_utc": "2026-05-21T21:50:25+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Cybercriminal VPN Dismantled in Europol Crackdown",
             "link": "https://www.infosecurity-magazine.com/news/first-vpn-takedown-europol/",
@@ -2753,25 +2767,11 @@
             "published_utc": "2026-05-07T13:15:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "Daemon Tools Developer Confirms Software Was Trojanized",
-            "link": "https://www.infosecurity-magazine.com/news/daemon-tools-confirms-software/",
-            "summary": "A China-linked threat actor backdoored a version of Daemon Tools to infect thousands",
-            "published_utc": "2026-05-07T09:30:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "Fake call logs, real payments: How CallPhantom tricks Android users",
             "link": "https://www.welivesecurity.com/en/eset-research/fake-call-logs-real-payments-how-callphantom-tricks-android-users/",
             "summary": "ESET researchers uncovered fraudulent apps on Google Play that claim to provide the call history “for any number” and had been downloaded more than se...",
             "published_utc": "2026-05-07T08:51:19+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Researchers Spot Uptick in Use of Vercel for Phishing Campaigns",
-            "link": "https://www.infosecurity-magazine.com/news/researchers-spot-uptick-vercel/",
-            "summary": "Cofense has warned of a “significant” increase in phishing campaigns abusing Vercel platform",
-            "published_utc": "2026-05-07T08:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
