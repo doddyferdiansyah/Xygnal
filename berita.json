@@ -1,12 +1,68 @@
 {
-    "lastUpdatedUTC": "2026-07-14T18:04:00.755915+00:00",
+    "lastUpdatedUTC": "2026-07-14T20:12:17.412952+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "I tested the Ultrahuman Ring Pro: It's a biohacker's dream that's not for me",
+            "link": "https://www.zdnet.com/article/ultrahuman-ring-pro-review/",
+            "summary": "The brand's latest ring comes with extensive features, but it's both larger and more expensive than the previous version.",
+            "published_utc": "2026-07-14T19:25:00+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Microsoft Patches a Record 570 Security Flaws",
+            "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+            "summary": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple...",
+            "published_utc": "2026-07-14T19:22:42+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Nearly 300 GitHub repos pose as legit software to push malware",
+            "link": "https://www.bleepingcomputer.com/news/security/nearly-300-github-repos-pose-as-legit-software-to-push-malware/",
+            "summary": "A threat actor has published hundreds of fake GitHub repositories impersonating legitimate software and security projects to distribute infostealer ma...",
+            "published_utc": "2026-07-14T19:15:17+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Microsoft Patches Record 622 Vulnerabilities, Including Two Exploited Zero-Days",
+            "link": "https://www.securityweek.com/microsoft-patches-record-622-vulnerabilities-including-two-exploited-zero-days/",
+            "summary": "",
+            "published_utc": "2026-07-14T18:50:20+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft releases Windows 10 KB5099539 extended security update",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5099539-extended-security-update/",
+            "summary": "Microsoft has released the Windows 10 KB5099539 extended security update, which includes the July 2026 Patch Tuesday security updates for 570 vulnerab...",
+            "published_utc": "2026-07-14T18:49:28+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The only Apple Watch strap you'll ever need is down to its lowest price yet",
+            "link": "https://www.zdnet.com/article/the-only-apple-watch-strap-youll-ever-need-is-down-to-its-lowest-price-yet/",
+            "summary": "I have multiple Apple Watch straps, but I keep coming back to the Nomad Stratos Band for its classy looks and sporty comfort.",
+            "published_utc": "2026-07-14T18:35:32+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Synopsys Finds No Evidence of Data Breach Amid Bosch Hack Claims",
+            "link": "https://www.securityweek.com/synopsys-finds-no-evidence-of-data-breach-following-bosch-hack-claims/",
+            "summary": "",
+            "published_utc": "2026-07-14T18:18:45+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Microsoft July 2026 Patch Tuesday fixes massive 570 flaws, 3 zero-days",
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2026-patch-tuesday-fixes-massive-570-flaws-3-zero-days/",
             "summary": "Today is Microsoft's July 2026 Patch Tuesday, and with it comes security updates for a record-breaking 570 flaws, including two zero-day vulnerabiliti...",
             "published_utc": "2026-07-14T18:01:36+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How to download iPadOS 27 right now - and which models support it",
+            "link": "https://www.zdnet.com/article/how-to-download-ipados-27/",
+            "summary": "Apple just released the iPadOS 27 public beta, offering early access to an upgraded Siri, new Safari features, and more.",
+            "published_utc": "2026-07-14T18:00:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -21,13 +77,6 @@
             "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101650-and-kb5099414-cumulative-updates-released/",
             "summary": "Microsoft has released Windows 11 KB5101650 and KB5099414 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, an...",
             "published_utc": "2026-07-14T17:41:16+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How to download iOS 27 right now (and which iPhone models support it)",
-            "link": "https://www.zdnet.com/article/how-to-download-ios-27/",
-            "summary": "Apple's WWDC 2026 was full of updates for the overall iPhone user experience -  here's how you can try iOS 27 early for free.",
-            "published_utc": "2026-07-14T17:23:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -68,8 +117,8 @@
             "source": "ZDNet Security",
             "title": "Google Search will let you instantly generate AI images for free - here's how",
             "link": "https://www.zdnet.com/article/google-search-generate-ai-images-free/",
-            "summary": "With the latest update to Google Images, you can generate your own images directly inside the AI Overviews.",
-            "published_utc": "2026-07-14T16:00:46+00:00"
+            "summary": "With the latest update to Google Search, you can generate your own images directly inside the AI Overviews.",
+            "published_utc": "2026-07-14T16:00:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -352,25 +401,11 @@
             "published_utc": "2026-07-13T15:30:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "CISA warns of actively exploited RCE flaws in Joomla extensions",
-            "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions/",
-            "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are exploiting vulnerabilities in the iCagenda and Balbooa ...",
-            "published_utc": "2026-07-13T15:20:16+00:00"
-        },
-        {
             "source": "KrebsOnSecurity",
             "title": "Lessons Learned from CISA’s Recent GitHub Leak",
             "link": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
             "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal ...",
             "published_utc": "2026-07-13T15:03:28+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The best all-in-one computers of 2026: Expert tested and reviewed",
-            "link": "https://www.zdnet.com/article/best-all-in-one-computer/",
-            "summary": "We tested the best all-in-one computers that combine the power of a desktop PC with a slim, lightweight design.",
-            "published_utc": "2026-07-13T14:56:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -380,46 +415,11 @@
             "published_utc": "2026-07-13T14:45:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I tested Alienware's new budget gaming laptop, but these 3 might be smarter buys",
-            "link": "https://www.zdnet.com/article/alienware-15-review/",
-            "summary": "The Alienware 15 sets out to balance affordability and performance, but whether it succeeds depends on personal preferences.",
-            "published_utc": "2026-07-13T14:37:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Hacker Conversations: Jesse McGraw (GhostExodus), From Blackhat Hacker to Redemption",
-            "link": "https://www.securityweek.com/hacker-conversations-jesse-mcgraw-ghostexodus-from-blackhat-hacker-to-redemption/",
-            "summary": "",
-            "published_utc": "2026-07-13T14:30:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Lidl discloses online shop breach after service provider hack",
-            "link": "https://www.bleepingcomputer.com/news/security/lidl-discloses-online-shop-breach-after-service-provider-hack/",
-            "summary": "German discount supermarket chain Lidl notified customers in Germany, Belgium, and the Netherlands that attackers stole their personal information in ...",
-            "published_utc": "2026-07-13T14:19:43+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Novel OAuth Client ID Spoofing Technique Targets Cloud Environments",
             "link": "https://www.infosecurity-magazine.com/news/novel-spoofing-technique-targets/",
             "summary": "New research reveals cyber-attackers can spoof OAuth Client IDs in Microsoft Entra ID, creating a stealthy path into cloud environments",
             "published_utc": "2026-07-13T13:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I loved ChatGPT Desktop until OpenAI gutted it to make room for Codex and Work",
-            "link": "https://www.zdnet.com/article/openai-gutted-chatgpt-desktop-app-for-codex-work/",
-            "summary": "OpenAI just merged the ChatGPT desktop app with Codex - and removed my favorite productivity features. What were they thinking?",
-            "published_utc": "2026-07-13T12:45:49+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Cybersecurity M&A Roundup: 37 Deals Announced in June 2026",
-            "link": "https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-june-2026/",
-            "summary": "",
-            "published_utc": "2026-07-13T12:20:14+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2338,13 +2338,6 @@
             "link": "https://www.infosecurity-magazine.com/news/how-fraudsters-target-f1-fans/",
             "summary": "From fake F1 streams to counterfeit merch, fraudsters are exploiting fans online and the Bitdefender Cybersecurity Grand Prix Fan Threat Index details...",
             "published_utc": "2026-05-25T09:00:00+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
-            "link": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
-            "summary": "Lawmakers in both houses of Congress are demanding answers from the U.S. Cybersecurity &#038; Infrastructure Security Agency (CISA) after KrebsOnSecur...",
-            "published_utc": "2026-05-22T16:34:24+00:00"
         },
         {
             "source": "InfosecurityMag",
