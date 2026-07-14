@@ -1,6 +1,62 @@
 {
-    "lastUpdatedUTC": "2026-07-14T10:47:07.122058+00:00",
+    "lastUpdatedUTC": "2026-07-14T12:13:29.540206+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "Don't let an AI chatbot pick your password, ever",
+            "link": "https://www.zdnet.com/article/dont-let-an-ai-chatbot-pick-your-password-ever/",
+            "summary": "Are AI-generated passwords truly random? Research suggests AI passwords are far less secure than you might think.",
+            "published_utc": "2026-07-14T12:12:37+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "New MacOS Malware Exploits Legitimate Developer ID to Pose as Apple Crash Reporter",
+            "link": "https://www.infosecurity-magazine.com/news/macos-malware-apple-crash-reporter/",
+            "summary": "Researchers at Jamf Threat Labs detail CrashStealer, which steals passwords, cryptocurrency wallets and more",
+            "published_utc": "2026-07-14T12:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "SAP warns of critical flaws in NetWeaver and Commerce Cloud",
+            "link": "https://www.bleepingcomputer.com/news/security/sap-warns-of-critical-flaws-in-netweaver-and-commerce-cloud/",
+            "summary": "SAP has addressed 16 vulnerabilities across multiple products as part of its July 2026 security updates, including three critical flaws in NetWeaver, ...",
+            "published_utc": "2026-07-14T11:42:21+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "SAP Patches Critical Vulnerabilities in NetWeaver, Approuter, Commerce Cloud",
+            "link": "https://www.securityweek.com/sap-patches-critical-vulnerabilities-in-netweaver-approuter-commerce-cloud/",
+            "summary": "",
+            "published_utc": "2026-07-14T11:17:56+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Vulnerability in FIFA’s Network",
+            "link": "https://www.schneier.com/blog/archives/2026/07/vulnerability-in-fifas-network.html",
+            "summary": "",
+            "published_utc": "2026-07-14T11:06:51+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "SEO is not dead: 5 ways to win more citations from AI search",
+            "link": "https://www.zdnet.com/article/seo-is-not-dead-5-ways-to-win-more-citations-from-ai-search/",
+            "summary": "Now that AI chat is becoming the new status quo of search engines, the rules for staying visible have changed for small businesses and solopreneurs.",
+            "published_utc": "2026-07-14T11:00:43+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "US, Allies Warn of Russian Cyberattacks Targeting Critical Infrastructure Routers",
+            "link": "https://www.securityweek.com/us-allies-warn-of-russian-cyberattacks-targeting-critical-infrastructure-routers/",
+            "summary": "",
+            "published_utc": "2026-07-14T10:51:01+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft starts testing cleaner Windows Search without ads",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-testing-cleaner-windows-search-without-ads/",
+            "summary": "Microsoft is now testing a cleaner and faster version of Windows Search that should prioritize relevant results over ads and promotional content. [...]",
+            "published_utc": "2026-07-14T10:47:23+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "I changed these 12 YouTube settings to limit Shorts, stop autoplay, protect my privacy, and more",
@@ -317,13 +373,6 @@
             "published_utc": "2026-07-13T09:30:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Organizations Warned of Exploited Joomla Extension Vulnerabilities",
-            "link": "https://www.securityweek.com/organizations-warned-of-exploited-joomla-extension-vulnerabilities/",
-            "summary": "",
-            "published_utc": "2026-07-13T09:08:02+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Your AI risk register is not an incident response plan",
             "link": "https://www.csoonline.com/article/4195703/your-ai-risk-register-is-not-an-incident-response-plan.html",
@@ -336,13 +385,6 @@
             "link": "https://www.infosecurity-magazine.com/news/australia-warns-global-cms/",
             "summary": "Australian Cyber Security Centre warns CMS users of mass scanning and exploitation campaign",
             "published_utc": "2026-07-13T08:30:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Progress Prompts ShareFile Storage Zone Controller Shutdown Amid Security Concerns",
-            "link": "https://www.securityweek.com/progress-prompts-sharefile-storage-zone-controller-shutdown-amid-security-concerns/",
-            "summary": "",
-            "published_utc": "2026-07-13T08:20:46+00:00"
         },
         {
             "source": "CSO Online",
@@ -380,13 +422,6 @@
             "published_utc": "2026-07-12T09:00:44+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Australia warns of global campaign targeting vulnerable CMS platforms",
-            "link": "https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/",
-            "summary": "The Australian Cyber Security Centre (ACSC) issued an alert about a global exploitation campaign targeting vulnerable content management systems (CMS)...",
-            "published_utc": "2026-07-11T14:18:23+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "My Fitbit Air test revealed the flaws of calorie counting with a health tracker - here's why",
             "link": "https://www.zdnet.com/article/heart-rate-tracking-fitbit-air-accuracy-chest-strap-monitor/",
@@ -399,13 +434,6 @@
             "link": "https://www.wired.com/story/security-news-this-week-ai-found-a-root-bug-in-linux-that-everyone-missed-for-15-years/",
             "summary": "Plus: The Pentagon is training amateurs to become part of its hacker army, a Flock license plate reader error led to cops surrounding a car reviewer, ...",
             "published_utc": "2026-07-11T10:30:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "'Ghostcommit' hides prompt injection in images to fool AI agents, steal secrets",
-            "link": "https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/",
-            "summary": "A PNG hiding a prompt injection could steal your repo's secrets, researchers demonstrate. The technique, dubbed 'Ghostcommit,' slipped past AI code re...",
-            "published_utc": "2026-07-11T09:03:57+00:00"
         },
         {
             "source": "Schneier",
@@ -511,20 +539,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
             "summary": "",
             "published_utc": "2026-07-10T11:02:04+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Best wireless chargers of 2026: Expert tested",
-            "link": "https://www.zdnet.com/article/best-wireless-charger/",
-            "summary": "We tested the top wireless chargers from brands like Anker and Nomad to find the ones that make powering your devices easier than ever.",
-            "published_utc": "2026-07-10T11:00:47+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The best VPS hosting services for 2026: Expert tested and reviewed",
-            "link": "https://www.zdnet.com/article/best-vps-hosting-service/",
-            "summary": "If you need more power than shared hosting services can provide, the top VPS hosting providers can give you the dedicated resources and scalability ne...",
-            "published_utc": "2026-07-10T10:01:05+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -938,13 +952,6 @@
             "link": "https://www.infosecurity-magazine.com/news/anthropic-fable-mythos-back/",
             "summary": "The new classifier in Fable 5 blocks the jailbreak technique that prompted the US export controls “in over 99% of cases”",
             "published_utc": "2026-07-01T11:00:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Papa Johns Surveillance-Based Advertising",
-            "link": "https://www.schneier.com/blog/archives/2026/07/papa-johns-surveillance-based-advertising.html",
-            "summary": "",
-            "published_utc": "2026-07-01T10:53:23+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1774,16 +1781,16 @@
         },
         {
             "source": "WIRED Security",
-            "title": "Soccer Fans, You’re Being Watched",
-            "link": "https://www.wired.com/story/soccer-world-cup-biometric-surveillance/",
-            "summary": "From anti-drone tech to face recognition, 2026 World Cup stadiums in the US, Canada, and Mexico are subjecting fans to an array of surveillance tech. ...",
+            "title": "Mapping Every Flock License Plate Reader Near US World Cup Stadiums",
+            "link": "https://www.wired.com/story/us-world-cup-2026-alpr-camera-stadiums/",
+            "summary": "Most US World Cup stadiums are surrounded by surveillance cameras. Want to know if you’re being watched on your way to a match? These maps will help you.",
             "published_utc": "2026-06-10T10:00:00+00:00"
         },
         {
             "source": "WIRED Security",
-            "title": "Mapping Every Flock License Plate Reader Near US World Cup Stadiums",
-            "link": "https://www.wired.com/story/us-world-cup-2026-alpr-camera-stadiums/",
-            "summary": "Most US World Cup stadiums are surrounded by surveillance cameras. Want to know if you’re being watched on your way to a match? These maps will help you.",
+            "title": "Soccer Fans, You’re Being Watched",
+            "link": "https://www.wired.com/story/soccer-world-cup-biometric-surveillance/",
+            "summary": "From anti-drone tech to face recognition, 2026 World Cup stadiums in the US, Canada, and Mexico are subjecting fans to an array of surveillance tech. ...",
             "published_utc": "2026-06-10T10:00:00+00:00"
         },
         {
@@ -2758,13 +2765,6 @@
             "link": "https://www.infosecurity-magazine.com/news/legacy-security-tools-are-failing/",
             "summary": "Traditional network security tools are undermining data protection, with Forrester and Capital One Software research warning AI adoption is impossible...",
             "published_utc": "2026-05-07T14:50:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Cline Kanban Flaw Lets Websites Hijack AI Coding Agents",
-            "link": "https://www.infosecurity-magazine.com/news/cline-kanban-websocket-hijack-ai/",
-            "summary": "Oasis Security finds critical Cline kanban WebSocket flaw exposing AI coding agents to hijack",
-            "published_utc": "2026-05-07T14:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
