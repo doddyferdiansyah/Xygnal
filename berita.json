@@ -1,6 +1,55 @@
 {
-    "lastUpdatedUTC": "2026-07-14T16:15:50.538650+00:00",
+    "lastUpdatedUTC": "2026-07-14T18:04:00.755915+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft July 2026 Patch Tuesday fixes massive 570 flaws, 3 zero-days",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2026-patch-tuesday-fixes-massive-570-flaws-3-zero-days/",
+            "summary": "Today is Microsoft's July 2026 Patch Tuesday, and with it comes security updates for a record-breaking 570 flaws, including two zero-day vulnerabiliti...",
+            "published_utc": "2026-07-14T18:01:36+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Every iPhone model that supports iOS 27 (and which older ones don't)",
+            "link": "https://www.zdnet.com/article/which-iphone-model-supports-ios-27-update/",
+            "summary": "Here's a breakdown of which iPhone models support the next iOS update (now available on public beta) - and which ones Apple is leaving behind.",
+            "published_utc": "2026-07-14T17:48:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Windows 11 KB5101650 & KB5099414 cumulative updates released",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101650-and-kb5099414-cumulative-updates-released/",
+            "summary": "Microsoft has released Windows 11 KB5101650 and KB5099414 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, an...",
+            "published_utc": "2026-07-14T17:41:16+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How to download iOS 27 right now (and which iPhone models support it)",
+            "link": "https://www.zdnet.com/article/how-to-download-ios-27/",
+            "summary": "Apple's WWDC 2026 was full of updates for the overall iPhone user experience -  here's how you can try iOS 27 early for free.",
+            "published_utc": "2026-07-14T17:23:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Google is training AI on even more of your data now, unless you opt out - here's how",
+            "link": "https://www.zdnet.com/article/google-training-ai-on-more-of-your-data-now-unless-you-opt-out/",
+            "summary": "Images, videos and voice searches can be used to train Google's LLMs. You can disable this feature to retain your privacy.",
+            "published_utc": "2026-07-14T17:20:30+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "5 smart home gadgets I actually recommend, after years of testing",
+            "link": "https://www.zdnet.com/article/my-favorite-smart-home-devices/",
+            "summary": "I've tested dozens of smart home devices, but only a select few truly stand out. Here are the smart home gadgets I wholeheartedly recommend.",
+            "published_utc": "2026-07-14T17:07:50+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Adobe Patches Critical ColdFusion Vulnerabilities",
+            "link": "https://www.securityweek.com/adobe-patches-critical-coldfusion-vulnerabilities/",
+            "summary": "",
+            "published_utc": "2026-07-14T17:06:35+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown",
@@ -352,20 +401,6 @@
             "published_utc": "2026-07-13T14:19:43+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Breach at the Beach: Play the Ultimate Entra ID CTF",
-            "link": "https://www.bleepingcomputer.com/news/security/breach-at-the-beach-play-the-ultimate-entra-id-ctf/",
-            "summary": "Learn how attackers abuse Entra ID through a free hands-on Capture the Flag. Varonis created the Breach at the Beach CTF to teach defenders how to inv...",
-            "published_utc": "2026-07-13T14:01:11+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "UK charges suspects linked to Russian Coms call spoofing platform",
-            "link": "https://www.bleepingcomputer.com/news/security/uk-charges-suspects-linked-to-russian-coms-call-spoofing-platform/",
-            "summary": "UK authorities charged five people following a National Crime Agency (NCA) investigation into Russian Coms, a major caller ID spoofing platform used b...",
-            "published_utc": "2026-07-13T13:23:30+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Novel OAuth Client ID Spoofing Technique Targets Cloud Environments",
             "link": "https://www.infosecurity-magazine.com/news/novel-spoofing-technique-targets/",
@@ -399,13 +434,6 @@
             "link": "https://www.csoonline.com/article/4196093/rabbitmq-flaws-expose-oauth-secrets-risk-complete-takeover-of-the-broker.html",
             "summary": "",
             "published_utc": "2026-07-13T12:01:44+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "RabbitMQ Vulnerability Threatens Enterprise Systems",
-            "link": "https://www.securityweek.com/rabbitmq-vulnerability-threatens-enterprise-systems/",
-            "summary": "",
-            "published_utc": "2026-07-13T12:00:00+00:00"
         },
         {
             "source": "Schneier",
@@ -464,20 +492,6 @@
             "published_utc": "2026-07-13T07:00:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "The best email hosting for small businesses in 2026: Expert tested",
-            "link": "https://www.zdnet.com/article/best-email-hosting-for-small-businesses/",
-            "summary": "I tested Google Workspace, Proton Mail, Microsoft 365, Fastmail, and Spike to find the best email hosting for freelancers and remote teams in 2026.",
-            "published_utc": "2026-07-12T09:00:44+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "My Fitbit Air test revealed the flaws of calorie counting with a health tracker - here's why",
-            "link": "https://www.zdnet.com/article/heart-rate-tracking-fitbit-air-accuracy-chest-strap-monitor/",
-            "summary": "You should take calorie data with a grain of salt. Here's what I learned after testing the Fitbit Air's heart rate data against a gold standard heart ...",
-            "published_utc": "2026-07-11T12:52:30+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "AI Found a Root Bug in Linux That Everyone Missed for 15 Years",
             "link": "https://www.wired.com/story/security-news-this-week-ai-found-a-root-bug-in-linux-that-everyone-missed-for-15-years/",
@@ -490,20 +504,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squidbleed-vulnerability.html",
             "summary": "",
             "published_utc": "2026-07-10T21:07:13+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Red Hat will support your RHEL forever now - for a price",
-            "link": "https://www.zdnet.com/article/red-hat-enterprise-linux-forever-support/",
-            "summary": "Red Hat's new Long-Life Add-On extends support on a specific release for as long as you're willing to pay for it.",
-            "published_utc": "2026-07-10T20:44:12+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "SpaceX wants to launch 100,000 more Starlink satellites - for 100x the bandwidth",
-            "link": "https://www.zdnet.com/article/spacex-wants-to-launch-100000-more-starlink-satellites/",
-            "summary": "It could mean faster internet for rural customers, but not everyone is happy.",
-            "published_utc": "2026-07-10T17:15:00+00:00"
         },
         {
             "source": "InfosecurityMag",
