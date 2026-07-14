@@ -1,6 +1,69 @@
 {
-    "lastUpdatedUTC": "2026-07-14T12:13:29.540206+00:00",
+    "lastUpdatedUTC": "2026-07-14T14:52:20.820386+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "These 5 gadgets will upgrade your Apple Watch - and I recommend them",
+            "link": "https://www.zdnet.com/article/apple-watch-accessories-2026/",
+            "summary": "These are my tried-and-true favorite Apple Watch accessories, and some of them are on sale now.",
+            "published_utc": "2026-07-14T14:20:58+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "You Don't Have to Run an Exploit to Know If You're Vulnerable",
+            "link": "https://www.bleepingcomputer.com/news/security/you-dont-have-to-run-an-exploit-to-know-if-youre-vulnerable/",
+            "summary": "Many vulnerabilities cannot be safely validated with live exploits, either because no exploit exists or the affected systems are too critical to test....",
+            "published_utc": "2026-07-14T14:00:10+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "7 Severe Vulnerabilities Patched in VMware Avi Load Balancer",
+            "link": "https://www.securityweek.com/7-severe-vulnerabilities-patched-in-vmware-avi-load-balancer/",
+            "summary": "",
+            "published_utc": "2026-07-14T13:55:41+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How to install the MacOS 27 public beta on your Mac today - it's live now",
+            "link": "https://www.zdnet.com/article/how-to-install-macos-27-public-beta-try-new-features/",
+            "summary": "MacOS 27 will go live on all eligible MacBooks this fall, but you can opt into the public beta now. Here's how.",
+            "published_utc": "2026-07-14T13:28:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Unpatched Claude for Chrome Flaw Lets Extensions Read Gmail, Calendar",
+            "link": "https://www.securityweek.com/unpatched-claude-for-chrome-flaw-lets-extensions-read-gmail-calendar/",
+            "summary": "",
+            "published_utc": "2026-07-14T13:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Windows Search just got a faster, cleaner overhaul - how to try it today",
+            "link": "https://www.zdnet.com/article/windows-11-search-update-how-to-try/",
+            "summary": "I tried the new Windows Search, and it offers a refreshing change with an updated layout that makes it easier to find what I need.",
+            "published_utc": "2026-07-14T12:54:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft Entra ID gets passkeys default authentication starting September",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/",
+            "summary": "Microsoft has announced that passkeys will become the default authentication method for the Entra ID enterprise identity service starting September 20...",
+            "published_utc": "2026-07-14T12:49:56+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "New phishing kits target Microsoft 365 accounts, evade MFA",
+            "link": "https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/",
+            "summary": "Two new phishing kits, Jalisco and OmegaLord, have been discovered in attacks targeting Microsoft 365 accounts, using techniques that defeat multi-fac...",
+            "published_utc": "2026-07-14T12:49:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "12 YouTube default settings to change right now for a more enjoyable experience",
+            "link": "https://www.zdnet.com/article/12-youtube-settings-i-always-change-privacy-security-quality-autoplay/",
+            "summary": "YouTube works well with default settings, but I tighten some privacy controls and enable a few features to make it even better.",
+            "published_utc": "2026-07-14T12:20:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Don't let an AI chatbot pick your password, ever",
@@ -56,13 +119,6 @@
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-testing-cleaner-windows-search-without-ads/",
             "summary": "Microsoft is now testing a cleaner and faster version of Windows Search that should prioritize relevant results over ads and promotional content. [...]",
             "published_utc": "2026-07-14T10:47:23+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I changed these 12 YouTube settings to limit Shorts, stop autoplay, protect my privacy, and more",
-            "link": "https://www.zdnet.com/article/12-youtube-settings-i-always-change-privacy-security-quality-autoplay/",
-            "summary": "YouTube works well with default settings, but I tighten some privacy controls and enable a few features to make it even better.",
-            "published_utc": "2026-07-14T10:00:50+00:00"
         },
         {
             "source": "CSO Online",
@@ -331,20 +387,6 @@
             "published_utc": "2026-07-13T10:40:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Zimbra Patches Critical Code Execution Vulnerability",
-            "link": "https://www.securityweek.com/zimbra-patches-critical-code-execution-vulnerability/",
-            "summary": "",
-            "published_utc": "2026-07-13T10:03:47+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "EU Targets Russian Intelligence Officers Accused of Running a Yearslong Cyber Spying Campaign",
-            "link": "https://www.securityweek.com/eu-targets-russian-intelligence-officers-accused-of-running-a-yearslong-cyber-spying-campaign/",
-            "summary": "",
-            "published_utc": "2026-07-13T10:00:00+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Jurassic Park, cybersecurity and the dangerous myth of control",
             "link": "https://www.csoonline.com/article/4195710/jurassic-park-cybersecurity-and-the-dangerous-myth-of-control.html",
@@ -392,27 +434,6 @@
             "link": "https://www.csoonline.com/article/4195787/can-ai-narrow-cybersecuritys-class-divide.html",
             "summary": "",
             "published_utc": "2026-07-13T07:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "OpenAI temporarily relaxes GPT-5.6 Sol usage limits",
-            "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/",
-            "summary": "OpenAI is temporarily relaxing GPT-5.6 Sol usage after demand for the company's most powerful model surged over the past 48 hours. [...]",
-            "published_utc": "2026-07-13T00:44:44+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time",
-            "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/",
-            "summary": "Anthropic has just extended access to Claude Fable 5 for paid subscribers until July 19, giving you another week to keep using the most powerful model...",
-            "published_utc": "2026-07-12T19:39:12+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "RedHook Android malware now uses Wireless ADB for shell access",
-            "link": "https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/",
-            "summary": "A new version of the RedHook Android malware abuses the Android Wireless Debugging (Wireless ADB) mechanism in a novel way to gain shell-level privile...",
-            "published_utc": "2026-07-12T14:27:32+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -499,13 +520,6 @@
             "published_utc": "2026-07-10T14:31:44+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Best Buy is selling a 70-inch Fire TV for just $350 right now - and it's a model I recommend",
-            "link": "https://www.zdnet.com/article/insignia-f50-best-buy-deal/",
-            "summary": "Upgrade your home theater with a big-screen Insignia F50 for less than $400 right now at Best Buy.",
-            "published_utc": "2026-07-10T14:29:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Anthropic and OpenAI Security Tools Could Fuel Cyber-Attacks, Researchers Warn",
             "link": "https://www.infosecurity-magazine.com/news/anthropic-openai-report-exploit/",
@@ -518,20 +532,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ransomware-removes-cybersecurity/",
             "summary": "GodDamn ransomware uses remote desktop application to secretly move around networks and drop the malicious PoisonX kernel driver",
             "published_utc": "2026-07-10T13:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The 'learn to code' era is over - and employers are on the hook for reskilling now",
-            "link": "https://www.zdnet.com/article/learn-to-code-era-is-over-employers-are-on-the-hook-for-reskilling-now/",
-            "summary": "AI's ushered in a new era of reskilling. Here's what the industry can learn from the last decade's drive to put people in tech jobs.",
-            "published_utc": "2026-07-10T12:58:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "You're using 3M Command strips all wrong",
-            "link": "https://www.zdnet.com/article/youre-using-3m-command-strips-all-wrong/",
-            "summary": "3M Command strips are incredibly useful, if you use them right. These tips can turn 'it fell off the wall' into 'it's still there' years later.",
-            "published_utc": "2026-07-10T12:18:24+00:00"
         },
         {
             "source": "Schneier",
@@ -1781,16 +1781,16 @@
         },
         {
             "source": "WIRED Security",
-            "title": "Mapping Every Flock License Plate Reader Near US World Cup Stadiums",
-            "link": "https://www.wired.com/story/us-world-cup-2026-alpr-camera-stadiums/",
-            "summary": "Most US World Cup stadiums are surrounded by surveillance cameras. Want to know if you’re being watched on your way to a match? These maps will help you.",
+            "title": "Soccer Fans, You’re Being Watched",
+            "link": "https://www.wired.com/story/soccer-world-cup-biometric-surveillance/",
+            "summary": "From anti-drone tech to face recognition, 2026 World Cup stadiums in the US, Canada, and Mexico are subjecting fans to an array of surveillance tech. ...",
             "published_utc": "2026-06-10T10:00:00+00:00"
         },
         {
             "source": "WIRED Security",
-            "title": "Soccer Fans, You’re Being Watched",
-            "link": "https://www.wired.com/story/soccer-world-cup-biometric-surveillance/",
-            "summary": "From anti-drone tech to face recognition, 2026 World Cup stadiums in the US, Canada, and Mexico are subjecting fans to an array of surveillance tech. ...",
+            "title": "Mapping Every Flock License Plate Reader Near US World Cup Stadiums",
+            "link": "https://www.wired.com/story/us-world-cup-2026-alpr-camera-stadiums/",
+            "summary": "Most US World Cup stadiums are surrounded by surveillance cameras. Want to know if you’re being watched on your way to a match? These maps will help you.",
             "published_utc": "2026-06-10T10:00:00+00:00"
         },
         {
