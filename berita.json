@@ -1,6 +1,76 @@
 {
-    "lastUpdatedUTC": "2026-07-15T08:12:11.440938+00:00",
+    "lastUpdatedUTC": "2026-07-15T10:50:54.497745+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "White House Launches AI-Driven ‘Gold Eagle’ Vulnerability Coordination Initiative",
+            "link": "https://www.securityweek.com/white-house-launches-ai-driven-gold-eagle-vulnerability-coordination-initiative/",
+            "summary": "",
+            "published_utc": "2026-07-15T10:18:25+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "When 80,000 fans log on at once: The 2026 World Cup’s unique cybersecurity issues",
+            "link": "https://www.csoonline.com/article/4196827/when-80000-fans-log-on-at-once-the-2026-world-cups-unique-cybersecurity-issues.html",
+            "summary": "",
+            "published_utc": "2026-07-15T10:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Progress Confirms Zero-Day Vulnerability Behind ShareFile Disruption",
+            "link": "https://www.securityweek.com/progress-confirms-zero-day-vulnerability-behind-sharefile-disruption/",
+            "summary": "",
+            "published_utc": "2026-07-15T09:48:29+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Four months with my first home battery taught me what whole-home backup really means",
+            "link": "https://www.zdnet.com/article/anker-solix-e10-review/",
+            "summary": "Anker's Solix E10 made backup power understandable for this first-timer, and I can't wait to expand the system.",
+            "published_utc": "2026-07-15T09:45:39+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "CISA warns admins to patch actively exploited SharePoint flaws",
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-patch-actively-exploited-sharepoint-flaws/",
+            "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned Tuesday that attackers are actively exploiting three vulnerabilities to hack I...",
+            "published_utc": "2026-07-15T09:44:52+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Microsoft Patches 570 CVEs in Record Patch Tuesday",
+            "link": "https://www.infosecurity-magazine.com/news/microsoft-570-cves-patch-tuesday/",
+            "summary": "Microsoft released fixes for a record 570 CVEs in its July Patch Tuesday update, as experts warn AI is dramatically accelerating vulnerability discove...",
+            "published_utc": "2026-07-15T09:20:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Rockwell",
+            "link": "https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-rockwell/",
+            "summary": "",
+            "published_utc": "2026-07-15T09:19:58+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Cybersecurity needs more prevention and less reliance on cure",
+            "link": "https://www.csoonline.com/article/4196818/cybersecurity-needs-more-prevention-and-less-reliance-on-cure.html",
+            "summary": "",
+            "published_utc": "2026-07-15T09:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Government Updates UK’s National Risk Register with Cyber Warnings",
+            "link": "https://www.infosecurity-magazine.com/news/uk-national-risk-register-cyber/",
+            "summary": "The UK government is warning of the potential impact of catastrophic cyber-attacks",
+            "published_utc": "2026-07-15T08:48:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft: Some Dell PCs shut down after recent Windows updates",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-dell-devices-shut-down-after-windows-update/",
+            "summary": "Microsoft is blocking this month's Windows 11 security updates on some Dell devices because they are causing shutdowns and performance issues. [...]",
+            "published_utc": "2026-07-15T08:26:48+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "US charges alleged operators of Russian bulletproof hosting service",
@@ -310,13 +380,6 @@
             "published_utc": "2026-07-14T11:42:21+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "SAP Patches Critical Vulnerabilities in NetWeaver, Approuter, Commerce Cloud",
-            "link": "https://www.securityweek.com/sap-patches-critical-vulnerabilities-in-netweaver-approuter-commerce-cloud/",
-            "summary": "",
-            "published_utc": "2026-07-14T11:17:56+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Vulnerability in FIFA’s Network",
             "link": "https://www.schneier.com/blog/archives/2026/07/vulnerability-in-fifas-network.html",
@@ -329,20 +392,6 @@
             "link": "https://www.zdnet.com/article/seo-is-not-dead-5-ways-to-win-more-citations-from-ai-search/",
             "summary": "Now that AI chat is becoming the new status quo of search engines, the rules for staying visible have changed for small businesses and solopreneurs.",
             "published_utc": "2026-07-14T11:00:43+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "US, Allies Warn of Russian Cyberattacks Targeting Critical Infrastructure Routers",
-            "link": "https://www.securityweek.com/us-allies-warn-of-russian-cyberattacks-targeting-critical-infrastructure-routers/",
-            "summary": "",
-            "published_utc": "2026-07-14T10:51:01+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft starts testing cleaner Windows Search without ads",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-testing-cleaner-windows-search-without-ads/",
-            "summary": "Microsoft is now testing a cleaner and faster version of Windows Search that should prioritize relevant results over ads and promotional content. [...]",
-            "published_utc": "2026-07-14T10:47:23+00:00"
         },
         {
             "source": "CSO Online",
@@ -359,25 +408,18 @@
             "published_utc": "2026-07-14T09:43:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "US sanctions VPN, malware providers for enabling ransomware attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/us-sanctions-vpn-malware-providers-linked-to-ransomware-gangs/",
-            "summary": "The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) sanctioned two individuals and one entity for enabling ransomware attacks again...",
-            "published_utc": "2026-07-14T09:40:13+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Valarian Raises $50 Million for Sovereign Infrastructure Control Layer",
-            "link": "https://www.securityweek.com/valarian-raises-50-million-for-sovereign-infrastructure-control-layer/",
-            "summary": "",
-            "published_utc": "2026-07-14T09:32:15+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "AI incidents need a new playbook. Here’s how to build one",
             "link": "https://www.csoonline.com/article/4196303/ai-incidents-need-a-new-playbook-heres-how-to-build-one.html",
             "summary": "",
             "published_utc": "2026-07-14T09:00:00+00:00"
+        },
+        {
+            "source": "WeLiveSecurity",
+            "title": "Forgotten UEFI shims undermining Secure Boot",
+            "link": "https://www.welivesecurity.com/en/eset-research/forgotten-uefi-shims-undermining-secure-boot/",
+            "summary": "ESET researchers discovered 11 vulnerable UEFI shim bootloaders signed by Microsoft that allow attackers to bypass UEFI Secure Boot by exploiting deca...",
+            "published_utc": "2026-07-14T08:53:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -392,13 +434,6 @@
             "link": "https://www.csoonline.com/article/4196409/ai-powered-breaches-provide-wake-up-call-for-incident-response.html",
             "summary": "",
             "published_utc": "2026-07-14T07:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I tried Google Maps' new 3D Immersive View for Android Auto, and it fixed my biggest navigation problems",
-            "link": "https://www.zdnet.com/article/i-tried-google-maps-new-3d-immersive-view-for-android-auto/",
-            "summary": "The update is the biggest visual change in a decade, and it makes navigating much easier.",
-            "published_utc": "2026-07-14T06:40:33+00:00"
         },
         {
             "source": "CSO Online",
@@ -630,20 +665,6 @@
             "link": "https://www.wired.com/story/a-majority-of-european-lawmakers-voted-against-letting-big-tech-read-our-messages-theyre-going-to-anyway/",
             "summary": "Companies will once again be allowed to scan citizens’ personal texts, emails, and social media messages via the “Chat Control” bill to find child abu...",
             "published_utc": "2026-07-09T13:55:08+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Attack on Amazon Bedrock-linked AI gateway highlights new cloud security risk",
-            "link": "https://www.csoonline.com/article/4194984/attack-on-amazon-bedrock-linked-ai-gateway-highlights-new-cloud-security-risk.html",
-            "summary": "",
-            "published_utc": "2026-07-09T13:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "UK cyber agency unveils AI-powered Cyber Shield to counter attacks at machine speed",
-            "link": "https://www.csoonline.com/article/4194997/uk-cyber-agency-unveils-ai-powered-cyber-shield-to-counter-attacks-at-machine-speed.html",
-            "summary": "",
-            "published_utc": "2026-07-09T12:28:01+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1788,16 +1809,16 @@
         },
         {
             "source": "WIRED Security",
-            "title": "Mapping Every Flock License Plate Reader Near US World Cup Stadiums",
-            "link": "https://www.wired.com/story/us-world-cup-2026-alpr-camera-stadiums/",
-            "summary": "Most US World Cup stadiums are surrounded by surveillance cameras. Want to know if you’re being watched on your way to a match? These maps will help you.",
+            "title": "Soccer Fans, You’re Being Watched",
+            "link": "https://www.wired.com/story/soccer-world-cup-biometric-surveillance/",
+            "summary": "From anti-drone tech to face recognition, 2026 World Cup stadiums in the US, Canada, and Mexico are subjecting fans to an array of surveillance tech. ...",
             "published_utc": "2026-06-10T10:00:00+00:00"
         },
         {
             "source": "WIRED Security",
-            "title": "Soccer Fans, You’re Being Watched",
-            "link": "https://www.wired.com/story/soccer-world-cup-biometric-surveillance/",
-            "summary": "From anti-drone tech to face recognition, 2026 World Cup stadiums in the US, Canada, and Mexico are subjecting fans to an array of surveillance tech. ...",
+            "title": "Mapping Every Flock License Plate Reader Near US World Cup Stadiums",
+            "link": "https://www.wired.com/story/us-world-cup-2026-alpr-camera-stadiums/",
+            "summary": "Most US World Cup stadiums are surrounded by surveillance cameras. Want to know if you’re being watched on your way to a match? These maps will help you.",
             "published_utc": "2026-06-10T10:00:00+00:00"
         },
         {
@@ -2739,20 +2760,6 @@
             "published_utc": "2026-05-11T08:15:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "Australian Cyber Security Centre Issues Alert Over ClickFix Attacks",
-            "link": "https://www.infosecurity-magazine.com/news/australian-cyber-security-centre/",
-            "summary": "ACSC warns over a campaign targeting organizations which uses ClickFix to deliver Vidar infostealer malware",
-            "published_utc": "2026-05-08T11:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "PCPJack Campaign Boots TeamPCP Off Compromised Machines",
-            "link": "https://www.infosecurity-magazine.com/news/pcpjack-campaign-boots-teampcp-off/",
-            "summary": "SentinelOne believes the PCPJack campaign may be the brainchild of a former TeamPCP member",
-            "published_utc": "2026-05-08T09:00:00+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "How to Disable Google's Gemini in Chrome",
             "link": "https://www.wired.com/story/you-can-disable-gemini-in-chrome-if-its-freaking-you-out/",
@@ -3234,13 +3241,6 @@
             "link": "https://www.welivesecurity.com/en/scams/sharing-is-scaring-whatsapp-screen-sharing-scam/",
             "summary": "How a fast-growing scam is tricking WhatsApp users into revealing their most sensitive financial and other data",
             "published_utc": "2025-11-05T10:00:00+00:00"
-        },
-        {
-            "source": "WeLiveSecurity",
-            "title": "How social engineering works | Unlocked 403 cybersecurity podcast (S2E6)",
-            "link": "https://www.welivesecurity.com/en/videos/how-social-engineering-works-unlocked-403-cybersecurity-podcast-s2e6/",
-            "summary": "Think you could never fall for an online scam? Think again. Here's how scammers could exploit psychology to deceive you – and what you can do to stay ...",
-            "published_utc": "2025-11-04T10:00:00+00:00"
         },
         {
             "source": "Threatpost",
