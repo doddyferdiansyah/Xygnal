@@ -1,6 +1,125 @@
 {
-    "lastUpdatedUTC": "2026-07-15T12:15:49.499632+00:00",
+    "lastUpdatedUTC": "2026-07-15T14:51:11.788555+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "Microsoft patches record 570 Windows security bugs with two exploited zero days - update now",
+            "link": "https://www.zdnet.com/article/microsoft-patches-570-vulnerabilities-exploited-zero-days/",
+            "summary": "The July Patch Tuesday Windows update breaks the record for the most security bugs fixed in a single month, with three zero-day flaws and 61 rated cri...",
+            "published_utc": "2026-07-15T14:40:41+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Unpatched Cursor Vulnerability Exposes Users to Code Execution",
+            "link": "https://www.securityweek.com/unpatched-cursor-vulnerability-exposes-users-to-code-execution/",
+            "summary": "",
+            "published_utc": "2026-07-15T14:37:13+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I let ChatGPT Work and Claude Cowork loose on my files - only one made me nervous",
+            "link": "https://www.zdnet.com/article/chatgpt-work-claude-cowork/",
+            "summary": "How does ChatGPT Work compare with Claude Cowork for desktop automation? My testing reveals similar results, similar strengths, and one major reason C...",
+            "published_utc": "2026-07-15T14:29:44+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "CISA Urges Immediate Patching of Exploited SharePoint Vulnerabilities",
+            "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-sharepoint-vulnerabilities/",
+            "summary": "",
+            "published_utc": "2026-07-15T14:07:44+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "We built a vulnerability vending machine: AI tokens in, zero-days out",
+            "link": "https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/",
+            "summary": "Intruder built an AI-powered \"vulnerability vending machine\" that combines code slicing with LLMs to automatically discover complex software vulnerabi...",
+            "published_utc": "2026-07-15T14:01:11+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Eleven Vulnerable UEFI Shims Enable Secure Boot Bypass",
+            "link": "https://www.infosecurity-magazine.com/news/uefi-shims-secure-boot-bypass/",
+            "summary": "Eleven forgotten Microsoft-signed UEFI shims can bypass Secure Boot on almost any machine",
+            "published_utc": "2026-07-15T14:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Sony Bravia Theater vs. Sonos: I've used both home theaters - here's how to choose",
+            "link": "https://www.zdnet.com/article/sony-bravia-theater-vs-sonos/",
+            "summary": "Sony and Sonos have spectacular, high-performing home theater gear. But personal preferences matter more than brand name alone.",
+            "published_utc": "2026-07-15T13:39:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I tested all three OpenVPN tiers: Why the free version is still the best choice for most users",
+            "link": "https://www.zdnet.com/article/managed-self-hosted-or-open-source-how-to-choose-the-right-version-of-openvpn/",
+            "summary": "OpenVPN offers three modes of deployment with varied pricing based on the same underlying protocol. Here are the pros, cons, and costs associated with...",
+            "published_utc": "2026-07-15T13:27:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Windows Bind Link Attacks Can Hide Malware From EDR Tools",
+            "link": "https://www.securityweek.com/windows-bind-link-attacks-can-hide-malware-from-edr-tools/",
+            "summary": "",
+            "published_utc": "2026-07-15T13:00:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "New Windows Bind Link techniques let attackers evade EDR, security controls",
+            "link": "https://www.csoonline.com/article/4197184/new-windows-bind-link-techniques-let-attackers-evade-edr-security-controls.html",
+            "summary": "",
+            "published_utc": "2026-07-15T13:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How to use Gemini to plan your next summer vacation - in minutes",
+            "link": "https://www.zdnet.com/article/gemini-prompt-to-plan-vacation-build-itinerary-doc/",
+            "summary": "This Gemini prompt can find flights, stays, and things to do for you. It'll even build an itinerary doc.",
+            "published_utc": "2026-07-15T12:58:12+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Virtual Event Today: Cloud & Data Security Summit",
+            "link": "https://www.securityweek.com/virtual-event-today-cloud-data-security-summit/",
+            "summary": "",
+            "published_utc": "2026-07-15T12:52:10+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I highly recommend Nomad's chargers, phone cases, and watch bands - and my favorites are on sale now",
+            "link": "https://www.zdnet.com/article/nomad-anniversary-sale-2026/",
+            "summary": "Nomad's tech accessories rarely go on sale, but now is your chance to scoop up some of our favorites at over 20% off.",
+            "published_utc": "2026-07-15T12:51:29+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Compromised Logins Surge as the Most Common Entry Point for Ransomware Attacks",
+            "link": "https://www.infosecurity-magazine.com/news/compromised-logins-ransomware-entry/",
+            "summary": "Research of incidents by Sophos finds that phishing, brute force attacks and other identity-based threats have surpassed software vulnerabilities as m...",
+            "published_utc": "2026-07-15T12:45:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "White House launches AI-driven vulnerability clearinghouse to speed cyber remediation",
+            "link": "https://www.csoonline.com/article/4197348/white-house-launches-ai-driven-vulnerability-clearinghouse-to-speed-cyber-remediation.html",
+            "summary": "",
+            "published_utc": "2026-07-15T12:43:59+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Waze just gave me 5 new reasons to switch from Apple Maps",
+            "link": "https://www.zdnet.com/article/waze-update-may-beat-apple-maps/",
+            "summary": "None of these new Waze features is offered in Apple Maps.",
+            "published_utc": "2026-07-15T12:33:17+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I tested Google Maps vs. Waze to find the best updated navigation app - and this one wins",
+            "link": "https://www.zdnet.com/article/google-maps-vs-waze-2026/",
+            "summary": "Want to know whether Waze or Google Maps is better? I've driven with both for hundreds of miles. Here's my choice.",
+            "published_utc": "2026-07-15T12:17:00+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "New bugs in Claude for Chrome allow extensions to abuse AI privileges",
@@ -35,13 +154,6 @@
             "link": "https://www.securityweek.com/vulnerabilities-patched-by-fortinet-ivanti-servicenow/",
             "summary": "",
             "published_utc": "2026-07-15T11:02:57+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "OpenVPN 3 ways: Which is the right version for you?",
-            "link": "https://www.zdnet.com/article/managed-self-hosted-or-open-source-how-to-choose-the-right-version-of-openvpn/",
-            "summary": "OpenVPN offers three modes of deployment with varied pricing based on the same underlying protocol. Here are the pros, cons, and costs associated with...",
-            "published_utc": "2026-07-15T11:00:19+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -142,20 +254,6 @@
             "published_utc": "2026-07-15T07:00:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I tested Google Maps vs. Waze to find the best navigation app - and this one wins",
-            "link": "https://www.zdnet.com/article/google-maps-vs-waze-compared-2026/",
-            "summary": "Want to know whether Waze or Google Maps is better? I've driven with both for hundreds of miles. Here's my choice.",
-            "published_utc": "2026-07-15T07:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "SonicWall Issues Urgent SMA Patch Warning for Two Zero-Day Exploits",
-            "link": "https://www.securityweek.com/sonicwall-issues-urgent-sma-patch-warning-for-two-zero-day-exploits/",
-            "summary": "",
-            "published_utc": "2026-07-15T05:19:42+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Microsoft is forcing an enterprise transition to passkeys",
             "link": "https://www.csoonline.com/article/4197086/microsoft-is-forcing-an-enterprise-transition-to-passkeys-2.html",
@@ -219,17 +317,10 @@
             "published_utc": "2026-07-14T19:15:17+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Microsoft Patches Record 622 Vulnerabilities, Including Two Exploited Zero-Days",
-            "link": "https://www.securityweek.com/microsoft-patches-record-622-vulnerabilities-including-two-exploited-zero-days/",
-            "summary": "",
-            "published_utc": "2026-07-14T18:50:20+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Microsoft releases Windows 10 KB5099539 extended security update",
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5099539-extended-security-update/",
-            "summary": "Microsoft has released the Windows 10 KB5099539 extended security update, which includes the July 2026 Patch Tuesday security updates for 570 vulnerab...",
+            "summary": "Microsoft has released the Windows 10 KB5099539 extended security update, which includes this month's record-breaking July 2026 Patch Tuesday fixes, a...",
             "published_utc": "2026-07-14T18:49:28+00:00"
         },
         {
@@ -238,13 +329,6 @@
             "link": "https://www.zdnet.com/article/the-only-apple-watch-strap-youll-ever-need-is-down-to-its-lowest-price-yet/",
             "summary": "I have multiple Apple Watch straps, but I keep coming back to the Nomad Stratos Band for its classy looks and sporty comfort.",
             "published_utc": "2026-07-14T18:35:32+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Synopsys Finds No Evidence of Data Breach Amid Bosch Hack Claims",
-            "link": "https://www.securityweek.com/synopsys-finds-no-evidence-of-data-breach-following-bosch-hack-claims/",
-            "summary": "",
-            "published_utc": "2026-07-14T18:18:45+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -289,13 +373,6 @@
             "published_utc": "2026-07-14T17:07:50+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Adobe Patches Critical ColdFusion Vulnerabilities",
-            "link": "https://www.securityweek.com/adobe-patches-critical-coldfusion-vulnerabilities/",
-            "summary": "",
-            "published_utc": "2026-07-14T17:06:35+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown",
             "link": "https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/",
@@ -317,13 +394,6 @@
             "published_utc": "2026-07-14T16:00:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I'm a serial Linux distro hopper  - these 7 signs mean it's time to switch",
-            "link": "https://www.zdnet.com/article/the-reasons-that-make-you-want-to-distro-hop/",
-            "summary": "If you're looking to try a different Linux distribution, it's time you do the 'distro hop.' But why does this phenomenon seem inevitable for so many u...",
-            "published_utc": "2026-07-14T15:45:12+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "LastPass, Bitwarden users targeted with fake security alerts",
             "link": "https://www.bleepingcomputer.com/news/security/lastpass-bitwarden-users-targeted-with-fake-security-alerts/",
@@ -338,32 +408,11 @@
             "published_utc": "2026-07-14T15:28:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "These 5 gadgets will upgrade your Apple Watch - and I recommend them",
-            "link": "https://www.zdnet.com/article/apple-watch-accessories-2026/",
-            "summary": "These are my tried-and-true favorite Apple Watch accessories, and some of them are on sale now.",
-            "published_utc": "2026-07-14T14:20:58+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "You Don't Have to Run an Exploit to Know If You're Vulnerable",
             "link": "https://www.bleepingcomputer.com/news/security/you-dont-have-to-run-an-exploit-to-know-if-youre-vulnerable/",
             "summary": "Many vulnerabilities cannot be safely validated with live exploits, either because no exploit exists or the affected systems are too critical to test....",
             "published_utc": "2026-07-14T14:00:10+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How to install the MacOS 27 public beta on your Mac today - it's live now",
-            "link": "https://www.zdnet.com/article/how-to-install-macos-27-public-beta-try-new-features/",
-            "summary": "MacOS 27 will go live on all eligible MacBooks this fall, but you can opt into the public beta now. Here's how.",
-            "published_utc": "2026-07-14T13:28:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Windows Search just got a faster, cleaner overhaul - how to try it today",
-            "link": "https://www.zdnet.com/article/windows-11-search-update-how-to-try/",
-            "summary": "I tried the new Windows Search, and it offers a refreshing change with an updated layout that makes it easier to find what I need.",
-            "published_utc": "2026-07-14T12:54:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -380,32 +429,11 @@
             "published_utc": "2026-07-14T12:49:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "12 YouTube default settings to change right now for a more enjoyable experience",
-            "link": "https://www.zdnet.com/article/12-youtube-settings-i-always-change-privacy-security-quality-autoplay/",
-            "summary": "YouTube works well with default settings, but I tighten some privacy controls and enable a few features to make it even better.",
-            "published_utc": "2026-07-14T12:20:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Don't let an AI chatbot pick your password, ever",
-            "link": "https://www.zdnet.com/article/dont-let-an-ai-chatbot-pick-your-password-ever/",
-            "summary": "Are AI-generated passwords truly random? Research suggests AI passwords are far less secure than you might think.",
-            "published_utc": "2026-07-14T12:12:37+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "New MacOS Malware Exploits Legitimate Developer ID to Pose as Apple Crash Reporter",
             "link": "https://www.infosecurity-magazine.com/news/macos-malware-apple-crash-reporter/",
             "summary": "Researchers at Jamf Threat Labs detail CrashStealer, which steals passwords, cryptocurrency wallets and more",
             "published_utc": "2026-07-14T12:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "SAP warns of critical flaws in NetWeaver and Commerce Cloud",
-            "link": "https://www.bleepingcomputer.com/news/security/sap-warns-of-critical-flaws-in-netweaver-and-commerce-cloud/",
-            "summary": "SAP has addressed 16 vulnerabilities across multiple products as part of its July 2026 security updates, including three critical flaws in NetWeaver, ...",
-            "published_utc": "2026-07-14T11:42:21+00:00"
         },
         {
             "source": "Schneier",
@@ -651,20 +679,6 @@
             "link": "https://www.csoonline.com/article/4195135/the-business-case-for-burning-down-security-debt-a-practical-approach-for-cisos.html",
             "summary": "",
             "published_utc": "2026-07-10T09:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Microsoft uncovers GigaWiper, a backdoor designed for destruction on demand",
-            "link": "https://www.csoonline.com/article/4195470/microsoft-uncovers-gigawiper-a-backdoor-designed-for-destruction-on-demand.html",
-            "summary": "",
-            "published_utc": "2026-07-10T08:56:31+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Check Point CTO Jonathan Zanger sees AI elevating the value of cyber",
-            "link": "https://www.csoonline.com/article/4195311/check-point-cto-jonathan-zanger-sees-ai-elevating-the-value-of-cyber.html",
-            "summary": "",
-            "published_utc": "2026-07-10T07:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2737,20 +2751,6 @@
             "link": "https://www.infosecurity-magazine.com/news/us-fcc-relaxes-foreign-router-ban/",
             "summary": "The same extension applies to security updates shipped to US-based users of foreign-made drones",
             "published_utc": "2026-05-11T11:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "ShinyHunters Escalates Canvas Extortion with School by School Ransom Campaign",
-            "link": "https://www.infosecurity-magazine.com/news/shinyhunters-escalates-canvas/",
-            "summary": "ShinyHunters has escalated its Canvas extortion campaign, defacing hundreds of school login pages and threatening to leak stolen data unless instituti...",
-            "published_utc": "2026-05-11T10:05:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Zara Data Breach Impacts Nearly 200,000 Customers",
-            "link": "https://www.infosecurity-magazine.com/news/zara-data-breach-impacts-200000/",
-            "summary": "ShinyHunters gets away with emails and other data on 200,000 Zara customers",
-            "published_utc": "2026-05-11T09:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
