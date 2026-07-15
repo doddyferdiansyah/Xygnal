@@ -1,6 +1,34 @@
 {
-    "lastUpdatedUTC": "2026-07-15T14:51:11.788555+00:00",
+    "lastUpdatedUTC": "2026-07-15T16:22:53.154347+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "'Rust makes coding fun again': Why Linux is moving away from C, according to Greg Kroah-Hartman",
+            "link": "https://www.zdnet.com/article/greg-kroah-hartman-linux-kernel-rust/",
+            "summary": "C won't be disappearing tomorrow, says the stable kernel maintainer, but the future of Linux belongs to Rust.",
+            "published_utc": "2026-07-15T16:13:42+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "This free Mac tool lets me see which apps are quietly accessing the internet - and block them fast",
+            "link": "https://www.zdnet.com/article/firewally-mac-tool-monitor-app-traffic/",
+            "summary": "I try to be diligent about my default firewall policies and which apps access the internet. A simple-to-use tool called Firewally​ makes it easy.",
+            "published_utc": "2026-07-15T15:46:11+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "​    ​AsyncAPI npm packages infected with credential-stealing malware",
+            "link": "https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/",
+            "summary": "Five malicious versions of AsyncAPI packages were published to the Node Package Manager (npm) in a supply-chain attack that delivered a remote access ...",
+            "published_utc": "2026-07-15T15:37:27+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Phishing Campaign Abuses eCards to Deploy RMM Tools",
+            "link": "https://www.infosecurity-magazine.com/news/seasonalinvite-phishing-ecards-rmm/",
+            "summary": "Six-month phishing campaign used seasonal eCard lures to plant legitimate RMM tools on victims",
+            "published_utc": "2026-07-15T15:00:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Microsoft patches record 570 Windows security bugs with two exploited zero days - update now",
@@ -20,7 +48,7 @@
             "title": "I let ChatGPT Work and Claude Cowork loose on my files - only one made me nervous",
             "link": "https://www.zdnet.com/article/chatgpt-work-claude-cowork/",
             "summary": "How does ChatGPT Work compare with Claude Cowork for desktop automation? My testing reveals similar results, similar strengths, and one major reason C...",
-            "published_utc": "2026-07-15T14:29:44+00:00"
+            "published_utc": "2026-07-15T14:29:00+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -76,7 +104,7 @@
             "title": "How to use Gemini to plan your next summer vacation - in minutes",
             "link": "https://www.zdnet.com/article/gemini-prompt-to-plan-vacation-build-itinerary-doc/",
             "summary": "This Gemini prompt can find flights, stays, and things to do for you. It'll even build an itinerary doc.",
-            "published_utc": "2026-07-15T12:58:12+00:00"
+            "published_utc": "2026-07-15T12:58:00+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -366,13 +394,6 @@
             "published_utc": "2026-07-14T17:20:30+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "5 smart home gadgets I actually recommend, after years of testing",
-            "link": "https://www.zdnet.com/article/my-favorite-smart-home-devices/",
-            "summary": "I've tested dozens of smart home devices, but only a select few truly stand out. Here are the smart home gadgets I wholeheartedly recommend.",
-            "published_utc": "2026-07-14T17:07:50+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown",
             "link": "https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/",
@@ -385,13 +406,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/07/upcoming-speaking-engagements-58.html",
             "summary": "",
             "published_utc": "2026-07-14T16:04:49+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Google Search will let you instantly generate AI images for free - here's how",
-            "link": "https://www.zdnet.com/article/google-search-generate-ai-images-free/",
-            "summary": "With the latest update to Google Search, you can generate your own images directly inside the AI Overviews.",
-            "published_utc": "2026-07-14T16:00:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -420,13 +434,6 @@
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/",
             "summary": "Microsoft has announced that passkeys will become the default authentication method for the Entra ID enterprise identity service starting September 20...",
             "published_utc": "2026-07-14T12:49:56+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "New phishing kits target Microsoft 365 accounts, evade MFA",
-            "link": "https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/",
-            "summary": "Two new phishing kits, Jalisco and OmegaLord, have been discovered in attacks targeting Microsoft 365 accounts, using techniques that defeat multi-fac...",
-            "published_utc": "2026-07-14T12:49:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1830,16 +1837,16 @@
         },
         {
             "source": "WIRED Security",
-            "title": "Mapping Every Flock License Plate Reader Near US World Cup Stadiums",
-            "link": "https://www.wired.com/story/us-world-cup-2026-alpr-camera-stadiums/",
-            "summary": "Most US World Cup stadiums are surrounded by surveillance cameras. Want to know if you’re being watched on your way to a match? These maps will help you.",
+            "title": "Soccer Fans, You’re Being Watched",
+            "link": "https://www.wired.com/story/soccer-world-cup-biometric-surveillance/",
+            "summary": "From anti-drone tech to face recognition, 2026 World Cup stadiums in the US, Canada, and Mexico are subjecting fans to an array of surveillance tech. ...",
             "published_utc": "2026-06-10T10:00:00+00:00"
         },
         {
             "source": "WIRED Security",
-            "title": "Soccer Fans, You’re Being Watched",
-            "link": "https://www.wired.com/story/soccer-world-cup-biometric-surveillance/",
-            "summary": "From anti-drone tech to face recognition, 2026 World Cup stadiums in the US, Canada, and Mexico are subjecting fans to an array of surveillance tech. ...",
+            "title": "Mapping Every Flock License Plate Reader Near US World Cup Stadiums",
+            "link": "https://www.wired.com/story/us-world-cup-2026-alpr-camera-stadiums/",
+            "summary": "Most US World Cup stadiums are surrounded by surveillance cameras. Want to know if you’re being watched on your way to a match? These maps will help you.",
             "published_utc": "2026-06-10T10:00:00+00:00"
         },
         {
@@ -2744,13 +2751,6 @@
             "link": "https://www.infosecurity-magazine.com/news/hackers-using-ai-zero-day-first/",
             "summary": "Google Threat Intelligence Group details how cybercriminals attempted to launch a campaign based around an AI-developed Zero-Day targeting open-source...",
             "published_utc": "2026-05-11T13:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "US: FCC Relaxes Foreign-Made Router Ban to Allow for Security Updates",
-            "link": "https://www.infosecurity-magazine.com/news/us-fcc-relaxes-foreign-router-ban/",
-            "summary": "The same extension applies to security updates shipped to US-based users of foreign-made drones",
-            "published_utc": "2026-05-11T11:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
