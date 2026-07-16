@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2026-07-16T13:53:13.676024+00:00",
+    "lastUpdatedUTC": "2026-07-16T15:39:17.498353+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Legacy Systems, Real-World Impacts: The Reality of OT Security",
+            "link": "https://www.securityweek.com/legacy-systems-real-world-impacts-the-reality-of-ot-security/",
+            "summary": "",
+            "published_utc": "2026-07-16T15:15:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Phishing Campaign Hides Lua Loader as TrueType Font File",
+            "link": "https://www.infosecurity-magazine.com/news/phishing-lua-loader-truetype-font/",
+            "summary": "Global phishing campaign disguised a Lua loader as a font file to deploy RATs and infostealers",
+            "published_utc": "2026-07-16T15:00:00+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Protecting Privacy in an AI Era",
+            "link": "https://www.schneier.com/blog/archives/2026/07/protecting-privacy-in-an-ai-era.html",
+            "summary": "",
+            "published_utc": "2026-07-16T14:34:31+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Buying a new Apple device? You can get it tax-free in 8 states - but only on these dates",
+            "link": "https://www.zdnet.com/article/apple-products-tax-free-shopping/",
+            "summary": "Certain states will let you buy items tax-free from different retailers, and Apple is one of them. Here's when and the products that qualify.",
+            "published_utc": "2026-07-16T14:25:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Managers play critical role in a company's AI transformation - and they know it",
+            "link": "https://www.zdnet.com/article/managers-play-critical-role-in-ai-transformation/",
+            "summary": "More than two-thirds of middle managers are optimistic about AI's role in the future of work, and they feel personally accountable for their team's ad...",
+            "published_utc": "2026-07-16T14:20:10+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "AI Agents Broke the Security Playbook. Here's What Replaces It.",
+            "link": "https://www.bleepingcomputer.com/news/security/ai-agents-broke-the-security-playbook-heres-what-replaces-it/",
+            "summary": "Traditional security workflows were built for environments that changed at human speed. Token Security explains why AI agents require a new approach: ...",
+            "published_utc": "2026-07-16T14:00:10+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "23andMe to pay $18 million in new genetics data breach settlement",
@@ -212,13 +254,6 @@
             "published_utc": "2026-07-16T06:48:40+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Trend Micro, Tanium, ESET and Tenable Patch Severe Product Vulnerabilities",
-            "link": "https://www.securityweek.com/trend-micro-tanium-eset-and-tenable-patch-severe-product-vulnerabilities/",
-            "summary": "",
-            "published_utc": "2026-07-16T06:08:08+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "I never leave for vacation without doing these 7 home security checks first",
             "link": "https://www.zdnet.com/article/7-home-security-checks-before-vacation/",
@@ -380,13 +415,6 @@
             "published_utc": "2026-07-15T12:58:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I highly recommend Nomad's chargers, phone cases, and watch bands - and my favorites are on sale now",
-            "link": "https://www.zdnet.com/article/nomad-anniversary-sale-2026/",
-            "summary": "Nomad's tech accessories rarely go on sale, but now is your chance to scoop up some of our favorites at over 20% off.",
-            "published_utc": "2026-07-15T12:51:29+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Compromised Logins Surge as the Most Common Entry Point for Ransomware Attacks",
             "link": "https://www.infosecurity-magazine.com/news/compromised-logins-ransomware-entry/",
@@ -399,13 +427,6 @@
             "link": "https://www.csoonline.com/article/4197348/white-house-launches-ai-driven-vulnerability-clearinghouse-to-speed-cyber-remediation.html",
             "summary": "",
             "published_utc": "2026-07-15T12:43:59+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Waze just gave me 5 new reasons to switch from Apple Maps",
-            "link": "https://www.zdnet.com/article/waze-update-may-beat-apple-maps/",
-            "summary": "None of these new Waze features is offered in Apple Maps.",
-            "published_utc": "2026-07-15T12:33:17+00:00"
         },
         {
             "source": "CSO Online",
@@ -497,13 +518,6 @@
             "link": "https://www.csoonline.com/article/4196940/patch-tuesday-roundup-microsoft-fixes-a-monthly-record-569-holes-sap-patches-a-critical-memory-corruption-bug.html",
             "summary": "",
             "published_utc": "2026-07-15T01:54:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "SonicWall warns of SMA1000 flaws exploited in zero-day attacks, patch now",
-            "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/",
-            "summary": "SonicWall warns that threat actors have been exploiting two SMA1000 vulnerabilities, tracked as CVE-2026-15409 and CVE-2026-15410, in zero-day attacks...",
-            "published_utc": "2026-07-14T21:23:24+00:00"
         },
         {
             "source": "KrebsOnSecurity",
@@ -931,13 +945,6 @@
             "link": "https://www.infosecurity-magazine.com/news/opera-gx-flaw-gx-mods-css/",
             "summary": "Opera GX flaw let sites automatically install mods to steal data from other pages, now patched",
             "published_utc": "2026-07-06T14:15:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "France to Stop Certifying Non-Quantum-Safe Encryption",
-            "link": "https://www.schneier.com/blog/archives/2026/07/france-to-stop-certifying-non-quantum-safe-encryption.html",
-            "summary": "",
-            "published_utc": "2026-07-06T10:45:44+00:00"
         },
         {
             "source": "WIRED Security",
@@ -1886,9 +1893,9 @@
         },
         {
             "source": "WIRED Security",
-            "title": "Soccer Fans, You’re Being Watched",
-            "link": "https://www.wired.com/story/soccer-world-cup-biometric-surveillance/",
-            "summary": "From anti-drone tech to face recognition, 2026 World Cup stadiums in the US, Canada, and Mexico are subjecting fans to an array of surveillance tech. ...",
+            "title": "Mapping Every Flock License Plate Reader Near US World Cup Stadiums",
+            "link": "https://www.wired.com/story/us-world-cup-2026-alpr-camera-stadiums/",
+            "summary": "Most US World Cup stadiums are surrounded by surveillance cameras. Want to know if you’re being watched on your way to a match? These maps will help you.",
             "published_utc": "2026-06-10T10:00:00+00:00"
         },
         {
@@ -2751,13 +2758,6 @@
             "link": "https://www.infosecurity-magazine.com/news/clickfix-combined-pysoxy-proxying/",
             "summary": "Exploitation of open-source tools allows attackers to maintain persistent access after initial social engineering, warn ReliaQuest researchers",
             "published_utc": "2026-05-12T12:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Malicious Hugging Face Repository Typosquats OpenAI",
-            "link": "https://www.infosecurity-magazine.com/news/malicious-hugging-face-repo/",
-            "summary": "HiddenLayer reveals infostealer malware in a Hugging Face repository",
-            "published_utc": "2026-05-12T09:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
