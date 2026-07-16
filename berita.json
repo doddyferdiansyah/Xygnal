@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2026-07-16T06:19:24.467836+00:00",
+    "lastUpdatedUTC": "2026-07-16T09:15:05.911807+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "The executive profile your security team isn’t defending",
+            "link": "https://www.csoonline.com/article/4197460/the-executive-profile-your-security-team-isnt-defending.html",
+            "summary": "",
+            "published_utc": "2026-07-16T09:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "US Launches Gold Eagle to Coordinate AI-Driven Vulnerability Management",
+            "link": "https://www.infosecurity-magazine.com/news/us-gold-eagle-ai-vulnerability/",
+            "summary": "The White House announced Gold Eagle to help accelerate the discovery, prioritization and patching of flaws found by AI",
+            "published_utc": "2026-07-16T08:50:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "China’s Top Cybersecurity Firms Hit by Mounting Military Procurement Bans",
+            "link": "https://www.securityweek.com/chinas-top-cybersecurity-firms-hit-by-mounting-military-procurement-bans/",
+            "summary": "",
+            "published_utc": "2026-07-16T08:49:27+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Old UEFI Shims Expose Systems to Secure Boot Bypass",
+            "link": "https://www.securityweek.com/old-uefi-shims-expose-systems-to-secure-boot-bypass/",
+            "summary": "",
+            "published_utc": "2026-07-16T07:59:22+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Flaw surge fuels need for CISOs to rethink vulnerability management",
+            "link": "https://www.csoonline.com/article/4196435/flaw-surge-fuels-need-for-cisos-to-rethink-vulnerability-management.html",
+            "summary": "",
+            "published_utc": "2026-07-16T07:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Nightmare Eclipse Drops ‘LegacyHive’ Windows Zero-Day",
+            "link": "https://www.securityweek.com/nightmare-eclipse-drops-legacyhive-windows-zero-day/",
+            "summary": "",
+            "published_utc": "2026-07-16T06:48:40+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Trend Micro, Tanium, ESET and Tenable Patch Severe Product Vulnerabilities",
@@ -268,25 +310,11 @@
             "published_utc": "2026-07-15T11:02:57+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "White House Launches AI-Driven ‘Gold Eagle’ Vulnerability Coordination Initiative",
-            "link": "https://www.securityweek.com/white-house-launches-ai-driven-gold-eagle-vulnerability-coordination-initiative/",
-            "summary": "",
-            "published_utc": "2026-07-15T10:18:25+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "When 80,000 fans log on at once: The 2026 World Cup’s unique cybersecurity issues",
             "link": "https://www.csoonline.com/article/4196827/when-80000-fans-log-on-at-once-the-2026-world-cups-unique-cybersecurity-issues.html",
             "summary": "",
             "published_utc": "2026-07-15T10:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Progress Confirms Zero-Day Vulnerability Behind ShareFile Disruption",
-            "link": "https://www.securityweek.com/progress-confirms-zero-day-vulnerability-behind-sharefile-disruption/",
-            "summary": "",
-            "published_utc": "2026-07-15T09:48:29+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -308,13 +336,6 @@
             "link": "https://www.infosecurity-magazine.com/news/microsoft-570-cves-patch-tuesday/",
             "summary": "Microsoft released fixes for a record 570 CVEs in its July Patch Tuesday update, as experts warn AI is dramatically accelerating vulnerability discove...",
             "published_utc": "2026-07-15T09:20:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Rockwell",
-            "link": "https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-rockwell/",
-            "summary": "",
-            "published_utc": "2026-07-15T09:19:58+00:00"
         },
         {
             "source": "CSO Online",
@@ -651,20 +672,6 @@
             "link": "https://www.infosecurity-magazine.com/news/new-gigawiper-espionage-destructive/",
             "summary": "A new multi-purpose backdoor allows cyber threat actors to conduct both quiet espionage activity and destructive wiping operations",
             "published_utc": "2026-07-10T15:30:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "EU extends mass scanning of messages without a warrant",
-            "link": "https://www.csoonline.com/article/4195680/eu-extends-mass-scanning-of-messages-without-a-warrant.html",
-            "summary": "",
-            "published_utc": "2026-07-10T14:44:52+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "CrowdStrike identifies five new prompt injection threats to AI",
-            "link": "https://www.csoonline.com/article/4195670/crowdstrike-identifies-five-new-prompt-injection-threats-to-ai.html",
-            "summary": "",
-            "published_utc": "2026-07-10T14:31:44+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2751,13 +2758,6 @@
             "link": "https://www.infosecurity-magazine.com/news/fake-claude-code-installer/",
             "summary": "Ontinue uncovers fake Claude Code installer pushing PowerShell stealer abusing Chrome's IElevator2",
             "published_utc": "2026-05-11T14:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Hackers Observed Using AI to Develop Zero-Day for the First Time",
-            "link": "https://www.infosecurity-magazine.com/news/hackers-using-ai-zero-day-first/",
-            "summary": "Google Threat Intelligence Group details how cybercriminals attempted to launch a campaign based around an AI-developed Zero-Day targeting open-source...",
-            "published_utc": "2026-05-11T13:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
