@@ -1,9 +1,72 @@
 {
-    "lastUpdatedUTC": "2026-07-17T13:39:47.263862+00:00",
+    "lastUpdatedUTC": "2026-07-17T15:14:10.724593+00:00",
     "articles": [
         {
+            "source": "InfosecurityMag",
+            "title": "Government Agencies Falling Victim to Ransomware Daily, Warns Study",
+            "link": "https://www.infosecurity-magazine.com/news/government-ransomware-daily/",
+            "summary": "Government organizations are targeted by attackers who know agencies cannot afford disruption to public services",
+            "published_utc": "2026-07-17T15:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Ernst & Young discloses data breach after support system hack",
+            "link": "https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/",
+            "summary": "Ernst & Young is notifying customers of a data breach caused by the compromise of a third-party support ticket system used by its IT personnel. [...]",
+            "published_utc": "2026-07-17T14:55:28+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Google must open Android to rival AI agents, EU orders",
+            "link": "https://www.csoonline.com/article/4198425/google-must-open-android-to-rival-ai-agents-eu-orders-2.html",
+            "summary": "",
+            "published_utc": "2026-07-17T14:38:41+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "23andMe Faces New Security Mandates in $18m Data Breach Settlement",
+            "link": "https://www.infosecurity-magazine.com/news/23andme-18m-data-breach-settlement/",
+            "summary": "23andMe has agreed to an $18m settlement with 42 US attorneys general over its 2023 data breach, including enhanced data protection requirements",
+            "published_utc": "2026-07-17T14:30:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "In Other News: Iran Tracks US Military Phones, CrashStealer macOS Malware, CVD Blueprint",
+            "link": "https://www.securityweek.com/in-other-news-iran-tracks-us-military-phones-crashstealer-macos-malware-cvd-blueprint/",
+            "summary": "",
+            "published_utc": "2026-07-17T14:27:54+00:00"
+        },
+        {
             "source": "ZDNet Security",
-            "title": "How to get a tax-free Mac, iPad, or iPhone in these 8 states - but only on these dates",
+            "title": "I tested this backup power station during a real blackout - don't make my mistakes",
+            "link": "https://www.zdnet.com/article/i-tested-backup-power-station-during-blackout-dont-make-my-mistakes/",
+            "summary": "A real three-day blackout revealed problems I never would've found on a power station's spec sheet.",
+            "published_utc": "2026-07-17T14:15:10+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I wore 3 blood pressure watches for a month to find the most accurate - and this one wins",
+            "link": "https://www.zdnet.com/article/blood-pressure-watches-samsung-amazfit-yhe/",
+            "summary": "I tested Samsung, Amazfit, and Doctor Fit blood pressure watches - and only one rivaled my Garmin Index BP Monitor.",
+            "published_utc": "2026-07-17T14:04:12+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "5 underrated iOS 27 features that make my iPhone way better - and none are Siri AI",
+            "link": "https://www.zdnet.com/article/i-used-ios-27-for-a-month-and-these-5-non-siri-ai-features-are-already-making-my-life-easier/",
+            "summary": "Some of my favorite new features in iOS 27 are flying under the radar, but no less impactful.",
+            "published_utc": "2026-07-17T14:01:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Inside the Search for \"Clean\" Residential Proxies for Carding",
+            "link": "https://www.bleepingcomputer.com/news/security/inside-the-search-for-clean-residential-proxies-for-carding/",
+            "summary": "Residential proxies are no longer the silver bullet they once were for carding. Flare explains why cybercriminals increasingly seek \"clean\" residentia...",
+            "published_utc": "2026-07-17T14:00:10+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How to get a tax-free Mac, iPad, or iPhone in 8 states - but only on these dates",
             "link": "https://www.zdnet.com/article/apple-products-tax-free-shopping/",
             "summary": "Certain states will let you buy items tax-free from different retailers, and Apple is one of them. Here's when and the products that qualify.",
             "published_utc": "2026-07-17T13:34:00+00:00"
@@ -310,13 +373,6 @@
             "published_utc": "2026-07-16T13:00:04+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "AI Data Centers Are Being Built Faster Than They Can Be Secured",
-            "link": "https://www.securityweek.com/ai-data-centers-are-being-built-faster-than-they-can-be-secured/",
-            "summary": "",
-            "published_utc": "2026-07-16T13:00:00+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "This surprisingly useful Windows 11 tool helps me block distractions - and get more done",
             "link": "https://www.zdnet.com/article/how-windows-11-focus-mode-helps-me-block-distractions/",
@@ -371,20 +427,6 @@
             "link": "https://www.csoonline.com/article/4197733/cisa-urges-software-vendors-to-formalize-vulnerability-disclosure-programs.html",
             "summary": "",
             "published_utc": "2026-07-16T10:48:58+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Russian hackers trojanize WebEx, Zoom apps to push Starland malware",
-            "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-trojanize-webex-zoom-apps-to-push-starland-malware/",
-            "summary": "A financially motivated Russian threat actor tracked as UAT-11795 is using trojanized software to steal credentials and cryptocurrency by deploying a ...",
-            "published_utc": "2026-07-16T10:19:34+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "New Spirals ransomware encrypts victim network in under 24 hours",
-            "link": "https://www.bleepingcomputer.com/news/security/new-spirals-ransomware-encrypts-victim-network-in-under-24-hours/",
-            "summary": "A new ransomware actor called Spirals completed a corporate intrusion, from initial access to data theft and encryption, in less than 24 hours. [...]",
-            "published_utc": "2026-07-16T10:00:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -455,27 +497,6 @@
             "link": "https://www.zdnet.com/article/microsoft-patches-570-vulnerabilities-exploited-zero-days/",
             "summary": "The July Patch Tuesday Windows update breaks the record for the most security bugs fixed in a single month, with three zero-day flaws and 61 rated cri...",
             "published_utc": "2026-07-15T18:28:38+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "73% of tech job listings require AI skills now: How to show off yours",
-            "link": "https://www.zdnet.com/article/73-of-tech-job-listings-require-ai-skills-show-off-yours/",
-            "summary": "Employers are looking for AI skills - here's how to let them demonstrate you know what you're doing.",
-            "published_utc": "2026-07-15T18:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "New Mac malware masquerades as Apple's crash reporter: 3 ways to dodge the threat",
-            "link": "https://www.zdnet.com/article/crashstealer-mac-malware-masquerades-as-apples-crash-reporter/",
-            "summary": "CrashStealer is now in the wild, targeting your data, passwords, and cryptocurrency. Here's everything you need to know about this new MacOS threat.",
-            "published_utc": "2026-07-15T17:18:35+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I tested Jabra Evolve3 75 vs. ThinkPad 8550 - and I'd buy this headset for the ANC alone",
-            "link": "https://www.zdnet.com/article/jabra-evolve3-75-vs-thinkpad-aura-edition-headset/",
-            "summary": "Here's how two of my favorite premium business headphones of 2026 compare.",
-            "published_utc": "2026-07-15T17:00:46+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -616,13 +637,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/07/vulnerability-in-fifas-network.html",
             "summary": "",
             "published_utc": "2026-07-14T11:06:51+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Phishing for dummies: Forg365 lowers barrier to M365 account takeovers",
-            "link": "https://www.csoonline.com/article/4196646/phishing-for-dummies-forg365-lowers-barrier-to-m365-account-takeovers.html",
-            "summary": "",
-            "published_utc": "2026-07-14T09:46:06+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2744,20 +2758,6 @@
             "link": "https://www.infosecurity-magazine.com/news/microsoft-17-critical-flaws-may/",
             "summary": "Microsoft has patched 120 vulnerabilities in this month’s security update round",
             "published_utc": "2026-05-13T08:15:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "OpenAI Launches 'Daybreak' to Help Build Secure By Design Software",
-            "link": "https://www.infosecurity-magazine.com/news/openai-daybreak-secure-by-design/",
-            "summary": "With Daybreak, OpenAI wants its frontier AI models to be used to deploy secure by design software from the ground up",
-            "published_utc": "2026-05-12T15:15:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Mini Shai-Hulud Hits TanStack npm Packages",
-            "link": "https://www.infosecurity-magazine.com/news/mini-shai-hulud-tanstack-npm/",
-            "summary": "Mini Shai-Hulud compromises TanStack npm packages and spreads across PyPI",
-            "published_utc": "2026-05-12T14:45:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
