@@ -1,6 +1,104 @@
 {
-    "lastUpdatedUTC": "2026-07-20T10:12:04.305144+00:00",
+    "lastUpdatedUTC": "2026-07-20T13:06:50.007983+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "I tested 3 blood pressure trackers for a month - only one rivaled my Garmin Index BP Monitor",
+            "link": "https://www.zdnet.com/article/blood-pressure-watches-samsung-amazfit-yhe/",
+            "summary": "I wore Samsung, Amazfit, and Doctor Fit blood pressure watches for weeks, and this one was the most accurate.",
+            "published_utc": "2026-07-20T13:00:50+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "OpenSSL Silently Fixes ‘HollowByte’ DoS Vulnerability",
+            "link": "https://www.securityweek.com/openssl-silently-fixes-hollowbyte-dos-vulnerability/",
+            "summary": "",
+            "published_utc": "2026-07-20T12:32:40+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Patch now: WordPress REST API bug allows remote code execution",
+            "link": "https://www.csoonline.com/article/4198791/patch-now-wordpress-rest-api-bug-allows-remote-code-execution.html",
+            "summary": "",
+            "published_utc": "2026-07-20T12:30:13+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "New HollowGraph Malware Hijacks Microsoft 365 Calendars for Covert C2 Communications",
+            "link": "https://www.infosecurity-magazine.com/news/hollowgraph-microsoft-calendars/",
+            "summary": "Researchers have linked HollowGraph malware to the Cavern framework after discovering its use of Microsoft 365 calendars and Microsoft Graph APIs as a...",
+            "published_utc": "2026-07-20T12:30:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The top AI fear for 6,000 tech pros isn't losing their jobs - it's more work for the same pay",
+            "link": "https://www.zdnet.com/article/top-ai-fear-tech-survey/",
+            "summary": "Most tech professionals wouldn't recommend their own role to someone entering the industry today.",
+            "published_utc": "2026-07-20T12:24:02+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I recreated OpenAI's Codex Micro for a lot less - and mine is more customizable",
+            "link": "https://www.zdnet.com/article/codex-micro-keypad-alternative-stream-deck-plus/",
+            "summary": "The $230 Codex Micro sold out before I could buy one, so I turned my Stream Deck+ into a surprisingly capable alternative.",
+            "published_utc": "2026-07-20T12:12:50+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "New ACR Stealer campaigns use WebDAV, MSHTA to evade detection",
+            "link": "https://www.csoonline.com/article/4198788/new-acr-stealer-campaigns-use-webdav-mshta-to-evade-detection.html",
+            "summary": "",
+            "published_utc": "2026-07-20T12:00:24+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Hugging Face says an autonomous AI agent hacked its network",
+            "link": "https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/",
+            "summary": "The Hugging Face artificial intelligence repository disclosed that attackers gained access to internal datasets and credentials after breaching its pr...",
+            "published_utc": "2026-07-20T11:56:28+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "New Index Tracks Material Breaches — And Refuses to Add Up the Losses",
+            "link": "https://www.securityweek.com/new-index-tracks-material-breaches-and-refuses-to-add-up-the-losses/",
+            "summary": "",
+            "published_utc": "2026-07-20T11:46:50+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Ernst & Young Data Breach Affects Personal, Financial Information",
+            "link": "https://www.securityweek.com/ernst-young-data-breach-affects-personal-financial-information/",
+            "summary": "",
+            "published_utc": "2026-07-20T11:27:38+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "On Flock License Plate Tracking Cameras",
+            "link": "https://www.schneier.com/blog/archives/2026/07/on-flock-license-plate-tracking-cameras.html",
+            "summary": "",
+            "published_utc": "2026-07-20T11:03:45+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft confirms Windows Server Update Services sync delays",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-wsus-server-sync-delays-and-timeouts/",
+            "summary": "Microsoft is working to fix a known issue affecting Windows Server Update Services (WSUS) servers, which has caused synchronization problems for more ...",
+            "published_utc": "2026-07-20T10:47:28+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Watch on Demand: Cloud & Data Security Summit",
+            "link": "https://www.securityweek.com/virtual-event-today-cloud-data-security-summit/",
+            "summary": "",
+            "published_utc": "2026-07-20T10:31:25+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Capital One Open Sources AI-Powered ‘VulnHunter’ Security Tool",
+            "link": "https://www.securityweek.com/capital-one-open-sources-ai-powered-vulnhunter-security-tool/",
+            "summary": "",
+            "published_utc": "2026-07-20T10:25:07+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Windows KB5121767 OOB update fixes shutdowns on some Dell PCs",
@@ -262,13 +360,6 @@
         },
         {
             "source": "ZDNet Security",
-            "title": "I wore 3 blood pressure watches for a month to find the most accurate - and this one wins",
-            "link": "https://www.zdnet.com/article/blood-pressure-watches-samsung-amazfit-yhe/",
-            "summary": "I tested Samsung, Amazfit, and Doctor Fit blood pressure watches - and only one rivaled my Garmin Index BP Monitor.",
-            "published_utc": "2026-07-17T14:04:12+00:00"
-        },
-        {
-            "source": "ZDNet Security",
             "title": "5 underrated iOS 27 features that make my iPhone way better - and none are Siri AI",
             "link": "https://www.zdnet.com/article/i-used-ios-27-for-a-month-and-these-5-non-siri-ai-features-are-already-making-my-life-easier/",
             "summary": "Some of my favorite new features in iOS 27 are flying under the radar, but no less impactful.",
@@ -290,8 +381,8 @@
         },
         {
             "source": "ZDNet Security",
-            "title": "'The SaaS apocalypse is overrated': How Workday and other software provders plan to survive AI",
-            "link": "https://www.zdnet.com/article/saas-apocalypse-overrated-how-workday-and-software-provders-will-survive-ai/",
+            "title": "'The SaaS apocalypse is overrated': How Workday and other software providers plan to survive AI",
+            "link": "https://www.zdnet.com/article/saas-apocalypse-overrated-how-workday-and-software-providers-will-survive-ai/",
             "summary": "Experts warn that an extinction event is coming for SaaS, thanks to AI disintermediation. Here's why some vendors remain skeptical.",
             "published_utc": "2026-07-17T13:03:00+00:00"
         },
@@ -308,20 +399,6 @@
             "link": "https://www.securityweek.com/podcast-broken-governance-agentic-ai-and-the-mindstone-agent-exclusive/",
             "summary": "",
             "published_utc": "2026-07-17T12:11:22+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Beacon Security Raises $13 Million for Security Data Platform",
-            "link": "https://www.securityweek.com/beacon-security-raises-13-million-for-security-data-platform/",
-            "summary": "",
-            "published_utc": "2026-07-17T11:43:36+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Industry Reactions to Pentagon Suspending CMMC Phase 2: Feedback Friday",
-            "link": "https://www.securityweek.com/industry-reactions-to-pentagon-suspending-cmmc-phase-2-feedback-friday/",
-            "summary": "",
-            "published_utc": "2026-07-17T11:08:04+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -359,13 +436,6 @@
             "published_utc": "2026-07-17T09:10:15+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Cyberattack Disrupts Operations of Japanese Frozen Food Giant Nichirei",
-            "link": "https://www.securityweek.com/cyberattack-disrupts-operations-of-japanese-frozen-food-giant-nichirei/",
-            "summary": "",
-            "published_utc": "2026-07-17T09:06:27+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "Own a Pixel? You can add device protection now for $5/month - but should you?",
             "link": "https://www.zdnet.com/article/google-just-reopened-enrollment-to-add-pixel-care-plus-to-older-phones-heres-who-should-and-shouldnt-sign-up/",
@@ -394,39 +464,11 @@
             "published_utc": "2026-07-17T08:45:04+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Risk Ledger Raises $32 Million in Series B Funding",
-            "link": "https://www.securityweek.com/risk-ledger-raises-32-million-in-series-b-funding/",
-            "summary": "",
-            "published_utc": "2026-07-17T08:31:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "US charges two over laundering $43 million from investment fraud",
-            "link": "https://www.bleepingcomputer.com/news/security/us-charges-two-over-laundering-43-million-from-investment-fraud/",
-            "summary": "U.S. prosecutors on Thursday charged a New York man and woman for their roles in a large-scale crime ring that laundered money stolen in cyber investm...",
-            "published_utc": "2026-07-17T08:13:37+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "I tested MSI's latest gaming laptop, and it works just as hard as it plays",
             "link": "https://www.zdnet.com/article/msi-cyborg-15-review/",
             "summary": "The Cyborg 15 is versatile enough to handle work, school, and the latest PC games.",
             "published_utc": "2026-07-17T07:25:49+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Fresh SharePoint Vulnerability Exploited Soon After Disclosure",
-            "link": "https://www.securityweek.com/fresh-sharepoint-vulnerability-exploited-soon-after-disclosure/",
-            "summary": "",
-            "published_utc": "2026-07-17T07:15:59+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "CISA urges immediate action on actively exploited Fortinet flaws",
-            "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/",
-            "summary": "CISA on Thursday ordered government agencies to prioritize patching two actively exploited vulnerabilities in the Fortinet FortiSandbox threat detecti...",
-            "published_utc": "2026-07-17T07:03:33+00:00"
         },
         {
             "source": "CSO Online",
@@ -443,25 +485,11 @@
             "published_utc": "2026-07-16T19:50:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Amazon dropped this Blink video doorbell and security camera bundle to 43% off - and we recommend it",
-            "link": "https://www.zdnet.com/article/amazon-blink-video-doorbell-outdoor-4-bundled-deal/",
-            "summary": "This Blink Video Doorbell and Outdoor 4 security camera bundle deal will help you set up a home security system for less.",
-            "published_utc": "2026-07-16T18:25:05+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Zoom patches account takeover hole",
             "link": "https://www.csoonline.com/article/4197962/zoom-patches-account-takeover-hole-2.html",
             "summary": "",
             "published_utc": "2026-07-16T17:30:44+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Amazon just cut $300 off the Google Pixel 10 Pro - and I'd recommend buying one",
-            "link": "https://www.zdnet.com/article/google-pixel-10-pro-deal/",
-            "summary": "Google's Pixel 10 Pro has one of the best camera systems for an Android today. Grab it for $699 right now, one of the best prices we've seen.",
-            "published_utc": "2026-07-16T15:58:51+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -618,25 +646,11 @@
             "published_utc": "2026-07-15T11:04:06+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "When 80,000 fans log on at once: The 2026 World Cup’s unique cybersecurity issues",
-            "link": "https://www.csoonline.com/article/4196827/when-80000-fans-log-on-at-once-the-2026-world-cups-unique-cybersecurity-issues.html",
-            "summary": "",
-            "published_utc": "2026-07-15T10:00:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Microsoft Patches 570 CVEs in Record Patch Tuesday",
             "link": "https://www.infosecurity-magazine.com/news/microsoft-570-cves-patch-tuesday/",
             "summary": "Microsoft released fixes for a record 570 CVEs in its July Patch Tuesday update, as experts warn AI is dramatically accelerating vulnerability discove...",
             "published_utc": "2026-07-15T09:20:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Cybersecurity needs more prevention and less reliance on cure",
-            "link": "https://www.csoonline.com/article/4196818/cybersecurity-needs-more-prevention-and-less-reliance-on-cure.html",
-            "summary": "",
-            "published_utc": "2026-07-15T09:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -861,13 +875,6 @@
             "link": "https://www.infosecurity-magazine.com/news/china-interpol-cybercrime-crackdown/",
             "summary": "Operation First Light 2026, coordinated by Interpol and funded by the Chinese government, has led to 5,811 arrests",
             "published_utc": "2026-07-09T11:45:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "The Language of AI Could Change How Humans Speak",
-            "link": "https://www.schneier.com/blog/archives/2026/07/the-language-of-ai-could-change-how-humans-speak.html",
-            "summary": "",
-            "published_utc": "2026-07-09T11:00:45+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2751,13 +2758,6 @@
             "link": "https://www.infosecurity-magazine.com/news/new-sboms-for-ai-guidance-2026/",
             "summary": "The G7 Cybersecurity Working Group releases new SBOM for AI guidance, outlining seven key data clusters to boost transparency and security across AI s...",
             "published_utc": "2026-05-13T11:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "UK Cybersecurity Market Expands to £14.7bn with Strong Growth in AI Security Firms",
-            "link": "https://www.infosecurity-magazine.com/news/uks-cyber-sector-grows-revenue-11/",
-            "summary": "UK cybersecurity sector reaches £14.7bn in revenue, driven by rapid growth in AI security firms, increased investment and rising employment across the...",
-            "published_utc": "2026-05-13T09:05:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
