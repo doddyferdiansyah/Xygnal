@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-07-20T22:00:15.179875+00:00",
+    "lastUpdatedUTC": "2026-07-20T23:09:19.359310+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Estée Lauder discloses data breach via Oracle E-Business flaw",
+            "link": "https://www.bleepingcomputer.com/news/security/est-e-lauder-discloses-data-breach-via-oracle-e-business-flaw/",
+            "summary": "Cosmetics giant Estée Lauder is notifying customers of a data breach after hackers exploited a flaw in Oracle E-Business Suite that the company used f...",
+            "published_utc": "2026-07-20T22:39:30+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "SonicWall SMA1000 flaws exploited as zero-days to push custom malware",
+            "link": "https://www.bleepingcomputer.com/news/security/sonicwall-sma1000-flaws-exploited-as-zero-days-to-push-custom-malware/",
+            "summary": "Two recently disclosed SonicWall SMA1000 vulnerabilities were exploited in zero-day attacks for weeks, allowing threat actors to install custom malwar...",
+            "published_utc": "2026-07-20T22:23:23+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers steal $23.7 million in crypto from Ostium in off-chain attack",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-237-million-in-crypto-from-ostium-in-off-chain-attack/",
+            "summary": "The Ostium trading platform announced that an attacker stole $23.75 million from its liquidity provider vault last week, after compromising off-chain ...",
+            "published_utc": "2026-07-20T22:22:56+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes",
@@ -352,13 +373,6 @@
             "published_utc": "2026-07-18T14:17:19+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "The Future of Age Verification: Your Face Never Leaves Your Device",
-            "link": "https://www.bleepingcomputer.com/news/security/the-future-of-age-verification-your-face-never-leaves-your-device/",
-            "summary": "As age verification laws expand worldwide, organizations face growing pressure to protect users' privacy while meeting regulatory requirements. Incode...",
-            "published_utc": "2026-07-18T13:15:24+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "Your Period Tracker Is (Probably) Spying on You",
             "link": "https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/",
@@ -392,20 +406,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squid-washing-up-on-cape-cod-beach.html",
             "summary": "",
             "published_utc": "2026-07-17T21:01:37+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Abbott probes two cyber incidents amid extortion claims",
-            "link": "https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/",
-            "summary": "Abbott Laboratories is investigating two separate cybersecurity incidents after confirming unauthorized access to internal legacy Exact Sciences syste...",
-            "published_utc": "2026-07-17T20:45:52+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload",
-            "link": "https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/",
-            "summary": "A vulnerability dubbed HollowByte allows unauthenticated attackers to trigger a denial-of-service (DoS) condition on OpenSSL servers with a malicious ...",
-            "published_utc": "2026-07-17T17:56:21+00:00"
         },
         {
             "source": "ZDNet Security",
