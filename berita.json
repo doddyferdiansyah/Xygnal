@@ -1,6 +1,69 @@
 {
-    "lastUpdatedUTC": "2026-07-20T13:06:50.007983+00:00",
+    "lastUpdatedUTC": "2026-07-20T15:51:19.830012+00:00",
     "articles": [
+        {
+            "source": "InfosecurityMag",
+            "title": "Cruciferra Crypter Uses Process Ghosting to Evade Detection",
+            "link": "https://www.infosecurity-magazine.com/news/cruciferra-crypter-process-ghosting/",
+            "summary": "Cruciferra crypter used process ghosting and 90 custom ciphers to hide payloads for multiple actors",
+            "published_utc": "2026-07-20T15:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Neo Emerges From Stealth With $100M to Control and Secure Enterprise AI Software",
+            "link": "https://www.securityweek.com/neo-emerges-from-stealth-with-100m-to-control-and-secure-enterprise-ai-software/",
+            "summary": "",
+            "published_utc": "2026-07-20T14:54:03+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "AI adoption and business acceleration are changing the expectations of technology risk management",
+            "link": "https://www.csoonline.com/article/4198872/ai-adoption-and-business-acceleration-are-changing-the-expectations-of-technology-risk-management.html",
+            "summary": "",
+            "published_utc": "2026-07-20T14:35:48+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How I configure DNS on Ubuntu Linux distros via the command line - it's easier than you think",
+            "link": "https://www.zdnet.com/article/how-to-set-dns-servers-on-ubuntu-based-linux-distros/",
+            "summary": "DNS is a critical component for PC networking, searching, and security. If you want to learn how to set it up on Ubuntu-based distros from the command...",
+            "published_utc": "2026-07-20T14:19:50+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "SonicWall Zero-Days Exploited to Deliver Custom Malware for Weeks Before Patch",
+            "link": "https://www.securityweek.com/sonicwall-zero-days-exploited-to-deliver-custom-malware-for-weeks-before-patch/",
+            "summary": "",
+            "published_utc": "2026-07-20T14:11:05+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "JadePuffer Returns With Ransomware Designed to Wipe AI Models",
+            "link": "https://www.infosecurity-magazine.com/news/jadepuffer-ai-model-ransomware/",
+            "summary": "JadePuffer follow-up campaign deployed ENCFORGE locker built to destroy AI model artifacts",
+            "published_utc": "2026-07-20T14:05:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "An AI SOC Evaluation Guide for Security Leaders",
+            "link": "https://www.bleepingcomputer.com/news/security/an-ai-soc-evaluation-guide-for-security-leaders/",
+            "summary": "Choosing an AI SOC platform requires understanding how it will perform in your own environment, not just during an evaluation. Prophet Security shares...",
+            "published_utc": "2026-07-20T14:01:11+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Researchers Build WordPress Exploit Using OpenAI's GPT",
+            "link": "https://www.infosecurity-magazine.com/news/researchers-wordpress-exploit/",
+            "summary": "A researcher who discovered a critical vulnerability in WordPress has used OpenAI’s latest model to develop an exploit chain",
+            "published_utc": "2026-07-20T14:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How to check if ChatGPT and other AI tools cite your website - and improve your chances in 2026",
+            "link": "https://www.zdnet.com/article/how-to-check-if-chatgpt-ai-tools-cite-website-improve-chances/",
+            "summary": "SEO is not dead. Here's how to get cited more often and boost search visibility in AI tools today.",
+            "published_utc": "2026-07-20T13:39:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "I tested 3 blood pressure trackers for a month - only one rivaled my Garmin Index BP Monitor",
@@ -41,7 +104,7 @@
             "title": "I recreated OpenAI's Codex Micro for a lot less - and mine is more customizable",
             "link": "https://www.zdnet.com/article/codex-micro-keypad-alternative-stream-deck-plus/",
             "summary": "The $230 Codex Micro sold out before I could buy one, so I turned my Stream Deck+ into a surprisingly capable alternative.",
-            "published_utc": "2026-07-20T12:12:50+00:00"
+            "published_utc": "2026-07-20T12:12:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -52,7 +115,7 @@
         },
         {
             "source": "BleepingComputer",
-            "title": "Hugging Face says an autonomous AI agent hacked its network",
+            "title": "Hugging Face warns an autonomous AI agent hacked its network",
             "link": "https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/",
             "summary": "The Hugging Face artificial intelligence repository disclosed that attackers gained access to internal datasets and credentials after breaching its pr...",
             "published_utc": "2026-07-20T11:56:28+00:00"
@@ -345,13 +408,6 @@
             "published_utc": "2026-07-17T14:30:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "In Other News: Iran Tracks US Military Phones, CrashStealer macOS Malware, CVD Blueprint",
-            "link": "https://www.securityweek.com/in-other-news-iran-tracks-us-military-phones-crashstealer-macos-malware-cvd-blueprint/",
-            "summary": "",
-            "published_utc": "2026-07-17T14:27:54+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "I tested this backup power station during a real blackout - don't make my mistakes",
             "link": "https://www.zdnet.com/article/i-tested-backup-power-station-during-blackout-dont-make-my-mistakes/",
@@ -394,13 +450,6 @@
             "published_utc": "2026-07-17T12:25:20+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Podcast: Broken Governance, Agentic AI, and the MindStone Agent Exclusive",
-            "link": "https://www.securityweek.com/podcast-broken-governance-agentic-ai-and-the-mindstone-agent-exclusive/",
-            "summary": "",
-            "published_utc": "2026-07-17T12:11:22+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "New Windows LegacyHive zero-day gives hackers admin privileges",
             "link": "https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/",
@@ -429,20 +478,6 @@
             "published_utc": "2026-07-17T09:45:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Windows Server 2022 reach end of mainstream support in 90 days",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reach-end-of-mainstream-support-in-90-days/",
-            "summary": "Microsoft announced that Windows Server 2022 will reach the mainstream end date in October 2026, but will switch to extended support and continue rece...",
-            "published_utc": "2026-07-17T09:10:15+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Own a Pixel? You can add device protection now for $5/month - but should you?",
-            "link": "https://www.zdnet.com/article/google-just-reopened-enrollment-to-add-pixel-care-plus-to-older-phones-heres-who-should-and-shouldnt-sign-up/",
-            "summary": "If you skipped Google's phone insurance at checkout, you can now add it again. But should you?",
-            "published_utc": "2026-07-17T09:00:34+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "The Gentlemen Overtakes Qilin as Most Prolific Ransomware Threat",
             "link": "https://www.infosecurity-magazine.com/news/the-gentlemen-most-prolific/",
@@ -457,6 +492,13 @@
             "published_utc": "2026-07-17T09:00:00+00:00"
         },
         {
+            "source": "ZDNet Security",
+            "title": "Own a Pixel? You can add device protection now for $5/month - but should you?",
+            "link": "https://www.zdnet.com/article/google-just-reopened-enrollment-to-add-pixel-care-plus-to-older-phones-heres-who-should-and-shouldnt-sign-up/",
+            "summary": "If you skipped Google's phone insurance at checkout, you can now add it again. But should you?",
+            "published_utc": "2026-07-17T09:00:00+00:00"
+        },
+        {
             "source": "CSO Online",
             "title": "Fake TTF files deliver stealthy malware in global phishing campaign",
             "link": "https://www.csoonline.com/article/4198165/fake-ttf-files-deliver-stealthy-malware-in-global-phishing-campaign.html",
@@ -464,25 +506,11 @@
             "published_utc": "2026-07-17T08:45:04+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I tested MSI's latest gaming laptop, and it works just as hard as it plays",
-            "link": "https://www.zdnet.com/article/msi-cyborg-15-review/",
-            "summary": "The Cyborg 15 is versatile enough to handle work, school, and the latest PC games.",
-            "published_utc": "2026-07-17T07:25:49+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Senior executives are killing your shadow AI strategy",
             "link": "https://www.csoonline.com/article/4198007/senior-executives-are-killing-your-shadow-ai-strategy.html",
             "summary": "",
             "published_utc": "2026-07-17T07:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "4 surprise products we could see at Samsung Galaxy Unpacked (including the Galaxy Glasses)",
-            "link": "https://www.zdnet.com/article/samsung-galaxy-unpacked-what-to-expect-2026/",
-            "summary": "We're expecting some curveballs at Samsung's 2026 Galaxy Unpacked event. Here's everything we know.",
-            "published_utc": "2026-07-16T19:50:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -623,13 +651,6 @@
             "link": "https://www.csoonline.com/article/4197348/white-house-launches-ai-driven-vulnerability-clearinghouse-to-speed-cyber-remediation.html",
             "summary": "",
             "published_utc": "2026-07-15T12:43:59+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "New bugs in Claude for Chrome allow extensions to abuse AI privileges",
-            "link": "https://www.csoonline.com/article/4197325/new-bugs-in-claude-for-chrome-allow-extensions-to-abuse-ai-privileges.html",
-            "summary": "",
-            "published_utc": "2026-07-15T12:06:36+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2737,27 +2758,6 @@
             "link": "https://www.infosecurity-magazine.com/news/canvas-cybercriminals-agreement/",
             "summary": "Instructure says it reached an agreement with ShinyHunters over the Canvas breach data",
             "published_utc": "2026-05-13T14:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Avada Builder Flaws Expose One Million WordPress Sites",
-            "link": "https://www.infosecurity-magazine.com/news/avada-builder-flaws-one-million/",
-            "summary": "Avada Builder flaws allowed file read and SQL injection on one million WordPress sites",
-            "published_utc": "2026-05-13T14:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Ransomware: Over Half of CISOs Would Consider Paying Ransom to Hackers",
-            "link": "https://www.infosecurity-magazine.com/news/ransomware-over-half-cisos-would/",
-            "summary": "Survey of cybersecurity leaders suggests that majority would strongly consider paying cybercriminals, if that’s what it took to help restore encrypted...",
-            "published_utc": "2026-05-13T12:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Global Cyber Agencies Issue New SBOMs for AI Guidance to Tackle AI Supply Chain Risks",
-            "link": "https://www.infosecurity-magazine.com/news/new-sboms-for-ai-guidance-2026/",
-            "summary": "The G7 Cybersecurity Working Group releases new SBOM for AI guidance, outlining seven key data clusters to boost transparency and security across AI s...",
-            "published_utc": "2026-05-13T11:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
