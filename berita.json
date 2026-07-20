@@ -1,6 +1,69 @@
 {
-    "lastUpdatedUTC": "2026-07-20T06:47:23.508772+00:00",
+    "lastUpdatedUTC": "2026-07-20T10:12:04.305144+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Windows KB5121767 OOB update fixes shutdowns on some Dell PCs",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-causing-some-dell-pcs-to-shut-down/",
+            "summary": "Microsoft has released emergency updates to fix a known issue causing some Dell PCs to shut down after installing the July 2026 Windows 11 security up...",
+            "published_utc": "2026-07-20T10:06:17+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Sign up for T-Mobile Fiber 2 Gig and get $100 back, plus a month included",
+            "link": "https://www.zdnet.com/article/t-mobile-fiber-2-gig-deal/",
+            "summary": "T-Mobile Fiber's latest offer covers your first month and pays you $100 back on the 2 Gig plan. Here's all you need to know.",
+            "published_utc": "2026-07-20T10:00:37+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "The ACLU Is Arming Lawyers to Expose State Surveillance Secrets",
+            "link": "https://www.wired.com/story/the-aclu-is-arming-lawyers-to-expose-state-surveillance-secrets/",
+            "summary": "A new toolkit for attorneys in Massachusetts targets the technologies police use—and conceal—to build criminal cases, from facial recognition to AI-wr...",
+            "published_utc": "2026-07-20T10:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Police Chiefs Cite TfL Hack in Push for Cybercrime Risk Orders",
+            "link": "https://www.infosecurity-magazine.com/news/police-chiefs-tfl-cybercrime-risk/",
+            "summary": "Two chiefs of UK policing agencies said the Transport for London prosecution demonstrates the need for Cybercrime Risk Orders",
+            "published_utc": "2026-07-20T09:45:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Hugging Face Hacked in Autonomous AI Attack",
+            "link": "https://www.securityweek.com/hugging-face-hacked-in-autonomous-ai-attack/",
+            "summary": "",
+            "published_utc": "2026-07-20T09:36:15+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "Apps Marketed to US Troops Are Shipping Chinese and Russian Code",
+            "link": "https://www.wired.com/story/apps-marketed-to-us-troops-are-shipping-chinese-and-russian-code/",
+            "summary": "A first-of-its-kind analysis found more than one in eight apps built for US service members carried foreign code—some from firms in nations the Pentag...",
+            "published_utc": "2026-07-20T09:30:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Critical ServiceNow code execution flaw now exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/critical-servicenow-code-execution-flaw-now-exploited-in-attacks/",
+            "summary": "Attackers have begun exploiting a critical vulnerability (CVE-2026-6875) in the ServiceNow AI Platform, according to threat intelligence company Defus...",
+            "published_utc": "2026-07-20T09:29:20+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Chrome 150 Update Patches Severe Memory Safety Bugs",
+            "link": "https://www.securityweek.com/chrome-150-update-patches-severe-memory-safety-bugs/",
+            "summary": "",
+            "published_utc": "2026-07-20T08:12:19+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "SOCs face a human challenge as AI speeds alerts and threats",
+            "link": "https://www.csoonline.com/article/4198016/socs-face-a-human-challenge-as-ai-speeds-alerts-and-threats.html",
+            "summary": "",
+            "published_utc": "2026-07-20T07:00:00+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "Claude Mythos FAQ: Capabilities, access, competitors, implications",
@@ -373,27 +436,6 @@
             "published_utc": "2026-07-17T07:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Coca-Cola Suspends US Fairlife Production Due to Ransomware Attack",
-            "link": "https://www.securityweek.com/coca-cola-suspends-us-fairlife-production-due-to-ransomware-attack/",
-            "summary": "",
-            "published_utc": "2026-07-17T06:23:08+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "New ClickLock macOS malware traps users into revealing login password",
-            "link": "https://www.bleepingcomputer.com/news/security/new-clicklock-macos-malware-traps-users-into-revealing-login-password/",
-            "summary": "A new macOS information-stealing malware dubbed ClickLock terminates all visible processes to force users into entering their system login password. [...",
-            "published_utc": "2026-07-16T21:52:54+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Coca-Cola says Fairlife ransomware attack halts US dairy production",
-            "link": "https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/",
-            "summary": "The Coca-Cola Company disclosed today that a ransomware attack impacting its Fairlife dairy subsidiary has disrupted operations, temporarily suspendin...",
-            "published_utc": "2026-07-16T21:09:41+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "4 surprise products we could see at Samsung Galaxy Unpacked (including the Galaxy Glasses)",
             "link": "https://www.zdnet.com/article/samsung-galaxy-unpacked-what-to-expect-2026/",
@@ -420,20 +462,6 @@
             "link": "https://www.zdnet.com/article/google-pixel-10-pro-deal/",
             "summary": "Google's Pixel 10 Pro has one of the best camera systems for an Android today. Grab it for $699 right now, one of the best prices we've seen.",
             "published_utc": "2026-07-16T15:58:51+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "6 cheap kitchen gadgets that will make your life easier for under $20 (I promise)",
-            "link": "https://www.zdnet.com/article/6-best-cheap-kitchen-gadgets/",
-            "summary": "These kitchen gadgets won't break the bank, but will seriously upgrade your cooking.",
-            "published_utc": "2026-07-16T15:42:02+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Legacy Systems, Real-World Impacts: The Reality of OT Security",
-            "link": "https://www.securityweek.com/legacy-systems-real-world-impacts-the-reality-of-ot-security/",
-            "summary": "",
-            "published_utc": "2026-07-16T15:15:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -616,13 +644,6 @@
             "link": "https://www.infosecurity-magazine.com/news/uk-national-risk-register-cyber/",
             "summary": "The UK government is warning of the potential impact of catastrophic cyber-attacks",
             "published_utc": "2026-07-15T08:48:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "7 skills and traits of elite security engineers",
-            "link": "https://www.csoonline.com/article/4196428/7-skills-and-traits-of-elite-security-engineers.html",
-            "summary": "",
-            "published_utc": "2026-07-15T07:00:00+00:00"
         },
         {
             "source": "KrebsOnSecurity",
@@ -1843,13 +1864,6 @@
             "published_utc": "2026-06-11T12:30:00+00:00"
         },
         {
-            "source": "WIRED Security",
-            "title": "Signal Alums Reveal ‘Encrypted Spaces,’ a System for Making Private Collaboration Apps",
-            "link": "https://www.wired.com/story/signal-alums-release-encrypted-spaces-a-new-system-for-building-private-collaboration-apps/",
-            "summary": "The new open-source project could serve as the basis for a future of apps with features as complex as Slack, Discord, or Google Docs—but with added pr...",
-            "published_utc": "2026-06-11T12:00:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Interpol Dismantles SniperDz Phishing-as-a-Service Platform",
             "link": "https://www.infosecurity-magazine.com/news/interpol-dismantles-sniperdz/",
@@ -1876,13 +1890,6 @@
             "link": "https://www.welivesecurity.com/en/eset-research/oceanlotus-external-espionage-domestic-targeting/",
             "summary": "A shift in operational pattern of the infamous Vietnam-aligned APT group",
             "published_utc": "2026-06-11T08:45:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "CISA Tells US Agencies to Fix Security Bugs in as Little as 3 Days Thanks to AI Threats",
-            "link": "https://www.wired.com/story/cisa-ai-vulnerability-directive/",
-            "summary": "“Defenders cannot afford to take weeks to patch,” one Cybersecurity and Infrastructure Security Agency official warned on Wednesday.",
-            "published_utc": "2026-06-10T20:55:40+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2751,13 +2758,6 @@
             "link": "https://www.infosecurity-magazine.com/news/uks-cyber-sector-grows-revenue-11/",
             "summary": "UK cybersecurity sector reaches £14.7bn in revenue, driven by rapid growth in AI security firms, increased investment and rising employment across the...",
             "published_utc": "2026-05-13T09:05:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Microsoft Fixes 17 Critical Flaws in May Patch Tuesday",
-            "link": "https://www.infosecurity-magazine.com/news/microsoft-17-critical-flaws-may/",
-            "summary": "Microsoft has patched 120 vulnerabilities in this month’s security update round",
-            "published_utc": "2026-05-13T08:15:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
