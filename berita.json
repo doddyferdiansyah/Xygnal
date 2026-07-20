@@ -1,6 +1,34 @@
 {
-    "lastUpdatedUTC": "2026-07-20T20:21:48.464070+00:00",
+    "lastUpdatedUTC": "2026-07-20T22:00:15.179875+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes",
+            "link": "https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/",
+            "summary": "Researchers escaped the sandboxes in Cursor, Codex, Gemini CLI and Antigravity by having the AI agent write files that trusted host tools later run. M...",
+            "published_utc": "2026-07-20T21:14:42+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Want to add Android Auto to your old car? Here are two ways - including one that's under $20",
+            "link": "https://www.zdnet.com/article/want-to-add-android-auto-to-an-older-car/",
+            "summary": "If you feel like you're missing out on Android Auto by having a vehicle with no screen, here's your chance to fix that.",
+            "published_utc": "2026-07-20T21:12:38+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "JadePuffer agentic attacks now target AI model data with ransomware",
+            "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/",
+            "summary": "The JadePuffer autonomous AI agent has upgraded with custom malware called EncForge that focuses on encrypting AI assets, such as training datasets, v...",
+            "published_utc": "2026-07-20T21:08:02+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "ServiceNow’s sandbox escape RCE hole now exploited in the wild",
+            "link": "https://www.csoonline.com/article/4198993/servicenows-sandbox-escape-rce-hole-now-exploited-in-the-wild.html",
+            "summary": "",
+            "published_utc": "2026-07-20T20:24:54+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "New HollowGraph malware uses Microsoft Graph for stealthy C2 comms",
@@ -422,13 +450,6 @@
             "published_utc": "2026-07-17T15:00:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Ernst & Young discloses data breach after support system hack",
-            "link": "https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/",
-            "summary": "Ernst & Young is notifying customers of a data breach caused by the compromise of a third-party support ticket system used by its IT personnel. [...]",
-            "published_utc": "2026-07-17T14:55:28+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Google must open Android to rival AI agents, EU orders",
             "link": "https://www.csoonline.com/article/4198425/google-must-open-android-to-rival-ai-agents-eu-orders-2.html",
@@ -441,20 +462,6 @@
             "link": "https://www.infosecurity-magazine.com/news/23andme-18m-data-breach-settlement/",
             "summary": "23andMe has agreed to an $18m settlement with 42 US attorneys general over its 2023 data breach, including enhanced data protection requirements",
             "published_utc": "2026-07-17T14:30:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I tested this backup power station during a real blackout - don't make my mistakes",
-            "link": "https://www.zdnet.com/article/i-tested-backup-power-station-during-blackout-dont-make-my-mistakes/",
-            "summary": "A real three-day blackout revealed problems I never would've found on a power station's spec sheet.",
-            "published_utc": "2026-07-17T14:15:10+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Inside the Search for \"Clean\" Residential Proxies for Carding",
-            "link": "https://www.bleepingcomputer.com/news/security/inside-the-search-for-clean-residential-proxies-for-carding/",
-            "summary": "Residential proxies are no longer the silver bullet they once were for carding. Flare explains why cybercriminals increasingly seek \"clean\" residentia...",
-            "published_utc": "2026-07-17T14:00:10+00:00"
         },
         {
             "source": "CSO Online",
@@ -644,13 +651,6 @@
             "link": "https://www.infosecurity-magazine.com/news/compromised-logins-ransomware-entry/",
             "summary": "Research of incidents by Sophos finds that phishing, brute force attacks and other identity-based threats have surpassed software vulnerabilities as m...",
             "published_utc": "2026-07-15T12:45:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "White House launches AI-driven vulnerability clearinghouse to speed cyber remediation",
-            "link": "https://www.csoonline.com/article/4197348/white-house-launches-ai-driven-vulnerability-clearinghouse-to-speed-cyber-remediation.html",
-            "summary": "",
-            "published_utc": "2026-07-15T12:43:59+00:00"
         },
         {
             "source": "InfosecurityMag",
