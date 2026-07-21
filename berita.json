@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-07-21T19:24:02.221767+00:00",
+    "lastUpdatedUTC": "2026-07-21T21:10:29.902454+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Critical SharePoint RCE flaw exploited to steal machine keys",
+            "link": "https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/",
+            "summary": "Hackers are actively exploiting the critical CVE-2026-50522 vulnerability in Microsoft SharePoint to steal machine keys and maintain access even after...",
+            "published_utc": "2026-07-21T20:06:55+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "5 gaming accessories I refuse to play without",
+            "link": "https://www.zdnet.com/article/my-top-5-essential-gaming-accessories-2026/",
+            "summary": "After years of gaming on PC, these are the five accessories I keep coming back to for their comfort, performance, and reliability.",
+            "published_utc": "2026-07-21T19:30:13+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I lost over 100 pounds for an 80-mile hike with a friend - here's the tech that kept me on track",
+            "link": "https://www.zdnet.com/article/100-pound-weight-loss-journey-gadgets-apps-tech/",
+            "summary": "These are the wearables, scales, and apps I found most useful. While my iPhone and Apple Watch were core to everything, I also have Android recommenda...",
+            "published_utc": "2026-07-21T19:30:07+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Anubis ransomware claims Coca-Cola Fairlife attack, threatens data leak",
@@ -285,7 +306,7 @@
             "source": "BleepingComputer",
             "title": "Estée Lauder discloses data breach via Oracle E-Business flaw",
             "link": "https://www.bleepingcomputer.com/news/security/est-e-lauder-discloses-data-breach-via-oracle-e-business-flaw/",
-            "summary": "Cosmetics giant Estée Lauder is notifying customers of a data breach after hackers exploited a flaw in Oracle E-Business Suite that the company used f...",
+            "summary": "Cosmetics giant Estée Lauder is notifying employees of a data breach after hackers exploited a flaw in Oracle E-Business Suite that the company used f...",
             "published_utc": "2026-07-20T22:39:30+00:00"
         },
         {
@@ -408,20 +429,6 @@
             "published_utc": "2026-07-20T14:00:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "How to check if ChatGPT and other AI tools cite your website - and improve your chances in 2026",
-            "link": "https://www.zdnet.com/article/how-to-check-if-chatgpt-ai-tools-cite-website-improve-chances/",
-            "summary": "SEO is not dead. Here's how to get cited more often and boost search visibility in AI tools today.",
-            "published_utc": "2026-07-20T13:39:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I tested 3 blood pressure trackers for a month - only one rivaled my Garmin Index BP Monitor",
-            "link": "https://www.zdnet.com/article/blood-pressure-watches-samsung-amazfit-yhe/",
-            "summary": "I wore Samsung, Amazfit, and Doctor Fit blood pressure watches for weeks, and this one was the most accurate.",
-            "published_utc": "2026-07-20T13:00:50+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Patch now: WordPress REST API bug allows remote code execution",
             "link": "https://www.csoonline.com/article/4198791/patch-now-wordpress-rest-api-bug-allows-remote-code-execution.html",
@@ -434,13 +441,6 @@
             "link": "https://www.csoonline.com/article/4198788/new-acr-stealer-campaigns-use-webdav-mshta-to-evade-detection.html",
             "summary": "",
             "published_utc": "2026-07-20T12:00:24+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Hugging Face warns an autonomous AI agent hacked its network",
-            "link": "https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/",
-            "summary": "The Hugging Face artificial intelligence repository disclosed that attackers gained access to internal datasets and credentials after breaching its pr...",
-            "published_utc": "2026-07-20T11:56:28+00:00"
         },
         {
             "source": "Schneier",
