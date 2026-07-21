@@ -1,6 +1,20 @@
 {
-    "lastUpdatedUTC": "2026-07-21T15:44:28.230780+00:00",
+    "lastUpdatedUTC": "2026-07-21T17:21:14.250562+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Critical wp2shell WordPress flaws exploited to install webshells",
+            "link": "https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/",
+            "summary": "Hackers are exploiting the \"wp2shell\" critical vulnerability suite (CVE-2026-63030 and CVE-2026-60137) affecting WordPress Core to deploy persistent w...",
+            "published_utc": "2026-07-21T16:41:50+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "A Sneaky Hacking Tool Targeting AI Infrastructure Is Lurking in Victims’ Blind Spots",
+            "link": "https://www.wired.com/story/a-sneaky-hacking-tool-targeting-ai-infrastructure-is-lurking-in-victims-blind-spots/",
+            "summary": "A new type of malware can worm deep into AI coding systems to steal data and logins—and can flip a “death switch” to destroy files and keep out real u...",
+            "published_utc": "2026-07-21T16:08:44+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Ernst & Young breach exposes client tax data - find out if you're at risk and what to do next",
@@ -279,7 +293,7 @@
             "title": "Want to add Android Auto to your old car? Here are two ways - including one that's under $20",
             "link": "https://www.zdnet.com/article/want-to-add-android-auto-to-an-older-car/",
             "summary": "If you feel like you're missing out on Android Auto by having a vehicle with no screen, here's your chance to fix that.",
-            "published_utc": "2026-07-20T21:12:38+00:00"
+            "published_utc": "2026-07-20T21:12:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -434,13 +448,6 @@
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-wsus-server-sync-delays-and-timeouts/",
             "summary": "Microsoft is working to fix a known issue affecting Windows Server Update Services (WSUS) servers, which has caused synchronization problems for more ...",
             "published_utc": "2026-07-20T10:47:28+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Windows KB5121767 OOB update fixes shutdowns on some Dell PCs",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-causing-some-dell-pcs-to-shut-down/",
-            "summary": "Microsoft has released emergency updates to fix a known issue causing some Dell PCs to shut down after installing the July 2026 Windows 11 security up...",
-            "published_utc": "2026-07-20T10:06:17+00:00"
         },
         {
             "source": "WIRED Security",
@@ -1890,13 +1897,6 @@
             "link": "https://www.infosecurity-magazine.com/news/sports-organizations-targeted-by/",
             "summary": "As the FIFA World Cup 2026 kicks off, a new Darktrace report warns that sports teams and bodies are a major target for cyber criminals",
             "published_utc": "2026-06-12T11:00:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "Grok Is Still Hosting Sexualized Deepfakes of Famous Women",
-            "link": "https://www.wired.com/story/grok-is-still-hosting-sexualized-deepfakes-of-famous-women/",
-            "summary": "A WIRED investigation found dozens of “nudified” deepfake images and videos on Grok's website, including nonconsensual depictions of celebrities and a...",
-            "published_utc": "2026-06-11T19:41:01+00:00"
         },
         {
             "source": "InfosecurityMag",
