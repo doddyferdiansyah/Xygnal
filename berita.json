@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-07-21T21:10:29.902454+00:00",
+    "lastUpdatedUTC": "2026-07-21T22:57:56.259460+00:00",
     "articles": [
+        {
+            "source": "WIRED Security",
+            "title": "OpenAI Models Escaped Containment and Hacked HuggingFace",
+            "link": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
+            "summary": "The cybersecurity-focused models, including GPT-5.6 Sol, broke out of a testing sandbox, exploited a zero-day, and gained access to the open internet ...",
+            "published_utc": "2026-07-21T22:50:01+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "FakeGit campaign uses 7,600 GitHub repos to push SmartLoader malware",
+            "link": "https://www.bleepingcomputer.com/news/security/fakegit-campaign-uses-7-600-github-repos-to-push-smartloader-malware/",
+            "summary": "A large-scale operation dubbed 'FakeGit' is pushing SmartLoader and StealC malware through 7,600 malicious GitHub repositories that accumulated more t...",
+            "published_utc": "2026-07-21T22:34:17+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I tested the System76 Thelio Mira: it's the custom Linux desktop of my dreams",
+            "link": "https://www.zdnet.com/article/system76-thelio-mira-custom-linux-desktop-review/",
+            "summary": "The System76 Thelio Mira Custom is a whisper-quiet 'boutique\" Linux workstation that actually feels practical.",
+            "published_utc": "2026-07-21T22:30:40+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Critical SharePoint RCE flaw exploited to steal machine keys",
@@ -401,25 +422,11 @@
             "published_utc": "2026-07-20T14:35:48+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "How I configure DNS on Ubuntu Linux distros via the command line - it's easier than you think",
-            "link": "https://www.zdnet.com/article/how-to-set-dns-servers-on-ubuntu-based-linux-distros/",
-            "summary": "DNS is a critical component for PC networking, searching, and security. If you want to learn how to set it up on Ubuntu-based distros from the command...",
-            "published_utc": "2026-07-20T14:19:50+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "JadePuffer Returns With Ransomware Designed to Wipe AI Models",
             "link": "https://www.infosecurity-magazine.com/news/jadepuffer-ai-model-ransomware/",
             "summary": "JadePuffer follow-up campaign deployed ENCFORGE locker built to destroy AI model artifacts",
             "published_utc": "2026-07-20T14:05:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "An AI SOC Evaluation Guide for Security Leaders",
-            "link": "https://www.bleepingcomputer.com/news/security/an-ai-soc-evaluation-guide-for-security-leaders/",
-            "summary": "Choosing an AI SOC platform requires understanding how it will perform in your own environment, not just during an evaluation. Prophet Security shares...",
-            "published_utc": "2026-07-20T14:01:11+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1869,13 +1876,6 @@
             "link": "https://www.welivesecurity.com/en/cybercrime/eviltokens-phishing-doesnt-steal-password/",
             "summary": "A phishing kit subverting Microsoft’s legitimate authentication flow lets attackers break into accounts without stealing passwords or creating fake lo...",
             "published_utc": "2026-06-15T08:55:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "The FCC Wants to Kill Burner Phones",
-            "link": "https://www.wired.com/story/security-news-this-week-the-fcc-wants-to-kill-burner-phones/",
-            "summary": "Plus: AI bug hunting fuels Microsoft’s biggest-ever Patch Tuesday, ShinyHunters ransomware gang exploits an Oracle zero-day, and more.",
-            "published_utc": "2026-06-13T10:30:00+00:00"
         },
         {
             "source": "InfosecurityMag",
