@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2026-07-21T05:52:10.680598+00:00",
+    "lastUpdatedUTC": "2026-07-21T08:30:22.273647+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Zimbra Update Patches Critical Vulnerabilities",
+            "link": "https://www.securityweek.com/zimbra-update-patches-critical-vulnerabilities/",
+            "summary": "",
+            "published_utc": "2026-07-21T08:20:08+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Windows LegacyHive zero-day flaw gets free, unofficial patches",
+            "link": "https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/",
+            "summary": "Free unofficial patches are available for a recently disclosed Windows zero-day flaw that allows attackers to escalate privileges on up-to-date Window...",
+            "published_utc": "2026-07-21T08:06:26+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Fedora Xfce or Xubuntu: Which is the best Linux desktop?",
+            "link": "https://www.zdnet.com/article/fedora-xfce-or-xubuntu-which-is-the-best-linux-desktop/",
+            "summary": "Xfce is a Linux desktop environment that is great at giving old machines new life. Two major distributions present this desktop differently. So, which...",
+            "published_utc": "2026-07-21T08:00:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Context bombing heralds a new AI era of deceptive defense",
+            "link": "https://www.csoonline.com/article/4198524/context-bombing-heralds-a-new-ai-era-of-deceptive-defense.html",
+            "summary": "",
+            "published_utc": "2026-07-21T07:00:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "White hat hacker Park Chan-am zeros in on the AI era’s key security challenges",
+            "link": "https://www.csoonline.com/article/4198528/security-in-the-age-of-ai-where-to-start-key-challenges-identified-by-white-hacker-ceo-park-chan-am.html",
+            "summary": "",
+            "published_utc": "2026-07-21T07:00:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "I wore Meta's $499 prescription Ray-Bans for 6 weeks: They're stylish but not for me",
@@ -324,13 +359,6 @@
             "published_utc": "2026-07-20T06:30:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "WP2Shell WordPress Vulnerabilities Exploited in the Wild",
-            "link": "https://www.securityweek.com/wp2shell-wordpress-vulnerabilities-exploited-in-the-wild/",
-            "summary": "",
-            "published_utc": "2026-07-20T05:21:29+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Hackers abuse ViPNet software to target Russian govt agencies",
             "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/",
@@ -371,13 +399,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/",
             "summary": "Public exploits have been released for the critical \"wp2shell\" remote code execution vulnerabilities affecting WordPress Core, making it imperative th...",
             "published_utc": "2026-07-18T17:22:47+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft warns of surge in ACR Stealer attacks on customers",
-            "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/",
-            "summary": "Microsoft has observed a surge in attacks using the ACR Stealer malware to steal browser-stored passwords, authentication tokens, and sensitive docume...",
-            "published_utc": "2026-07-18T14:17:19+00:00"
         },
         {
             "source": "WIRED Security",
@@ -434,13 +455,6 @@
             "link": "https://www.zdnet.com/article/levoit-vital-200s-p-smart-air-purifier-deal/",
             "summary": "The Levoit Vital 200S-P is the smart air purifier to beat, with a washable prefilter and a capacity to clean up to 1,800 square feet in one hour.",
             "published_utc": "2026-07-17T17:32:42+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "This air purifier is helping keep my home's air free of wildfire smoke - and it's on sale",
-            "link": "https://www.zdnet.com/article/blueair-blue-pure-211i-max-air-purifier-deal/",
-            "summary": "Get cleaner air for less with the Blueair Blue Pure 211i Max air purifier for 20% off on Amazon right now.",
-            "published_utc": "2026-07-17T16:39:42+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -618,13 +632,6 @@
             "published_utc": "2026-07-15T20:58:16+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "NPM ecosystem hit with two new supply chain compromises",
-            "link": "https://www.csoonline.com/article/4197499/npm-ecosystem-hit-with-two-new-supply-chain-compromises.html",
-            "summary": "",
-            "published_utc": "2026-07-15T20:33:40+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Phishing Campaign Abuses eCards to Deploy RMM Tools",
             "link": "https://www.infosecurity-magazine.com/news/seasonalinvite-phishing-ecards-rmm/",
@@ -637,13 +644,6 @@
             "link": "https://www.infosecurity-magazine.com/news/uefi-shims-secure-boot-bypass/",
             "summary": "Eleven forgotten Microsoft-signed UEFI shims can bypass Secure Boot on almost any machine",
             "published_utc": "2026-07-15T14:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "New Windows Bind Link techniques let attackers evade EDR, security controls",
-            "link": "https://www.csoonline.com/article/4197184/new-windows-bind-link-techniques-let-attackers-evade-edr-security-controls.html",
-            "summary": "",
-            "published_utc": "2026-07-15T13:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
