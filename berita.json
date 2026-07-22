@@ -1,6 +1,62 @@
 {
-    "lastUpdatedUTC": "2026-07-22T06:29:06.569139+00:00",
+    "lastUpdatedUTC": "2026-07-22T09:26:52.600639+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "AI, security operations and the new race against time",
+            "link": "https://www.csoonline.com/article/4198963/ai-security-operations-and-the-new-race-against-time.html",
+            "summary": "",
+            "published_utc": "2026-07-22T09:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How to theme Google Messages threads to better distinguish a chat",
+            "link": "https://www.zdnet.com/article/how-to-theme-google-messages-threads-to-better-distinguish-a-chat/",
+            "summary": "With dozens of chats on the go, you've probably had an occasion where you've sent the wrong response to the wrong person. I've found a way to avoid th...",
+            "published_utc": "2026-07-22T08:43:09+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Ransomware Group Threatening to Leak Data Stolen From Coca-Cola’s Fairlife",
+            "link": "https://www.securityweek.com/ransomware-group-threatening-to-leak-data-stolen-from-coca-colas-fairlife/",
+            "summary": "",
+            "published_utc": "2026-07-22T08:32:02+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "What made me finally switch to Vivaldi as my default Linux web browser",
+            "link": "https://www.zdnet.com/article/what-made-me-finally-switch-to-vivaldi-as-my-default-linux-web-browser/",
+            "summary": "I've been an Opera/Firefox fan for a long time, but I recently switched to Vivaldi on Linux. The reasons may or may not surprise you.",
+            "published_utc": "2026-07-22T07:57:54+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "OpenAI Says Its AI Models Broke Loose and Hacked Hugging Face",
+            "link": "https://www.securityweek.com/openai-says-its-ai-models-broke-loose-and-hacked-hugging-face/",
+            "summary": "",
+            "published_utc": "2026-07-22T07:48:49+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "10 survival tips for CSOs who report to the CEO",
+            "link": "https://www.csoonline.com/article/4188581/10-survival-tips-for-csos-who-report-to-the-ceo.html",
+            "summary": "",
+            "published_utc": "2026-07-22T07:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Chick-fil-A discloses data breach after credential stuffing attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/chick-fil-a-discloses-data-breach-after-credential-stuffing-attacks/",
+            "summary": "American fast food restaurant chain Chick-fil-A is notifying customers of a data breach after their accounts were hacked in a wave of recent credentia...",
+            "published_utc": "2026-07-22T06:40:29+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "New CISO appointments 2026",
+            "link": "https://www.csoonline.com/article/4186743/new-ciso-appointments-2026.html",
+            "summary": "",
+            "published_utc": "2026-07-22T06:30:00+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "OpenAI says its AI models hacked Hugging Face during testing",
@@ -282,13 +338,6 @@
             "published_utc": "2026-07-21T09:38:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Clover Health Investments Discloses Data Breach",
-            "link": "https://www.securityweek.com/clover-health-investments-discloses-data-breach/",
-            "summary": "",
-            "published_utc": "2026-07-21T09:36:51+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Researchers Uncover North Korean 'ClickFake' Campaign Targeting Web3 Pros",
             "link": "https://www.infosecurity-magazine.com/news/north-korean-clickfake-campaign/",
@@ -301,13 +350,6 @@
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-manual-fix-for-wsus-sync-delays-and-timeouts/",
             "summary": "Microsoft has shared manual mitigations to help IT administrators fix Windows Server Update Services (WSUS) servers affected by a known issue that cau...",
             "published_utc": "2026-07-21T09:05:50+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Exploitation of ServiceNow Vulnerability Seen Days After Disclosure",
-            "link": "https://www.securityweek.com/exploitation-of-servicenow-vulnerability-seen-days-after-disclosure/",
-            "summary": "",
-            "published_utc": "2026-07-21T08:41:53+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -366,13 +408,6 @@
             "published_utc": "2026-07-20T22:22:56+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes",
-            "link": "https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/",
-            "summary": "Researchers escaped the sandboxes in Cursor, Codex, Gemini CLI and Antigravity by having the AI agent write files that trusted host tools later run. M...",
-            "published_utc": "2026-07-20T21:14:42+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "Want to add Android Auto to your old car? Here are two ways - including one that's under $20",
             "link": "https://www.zdnet.com/article/want-to-add-android-auto-to-an-older-car/",
@@ -399,20 +434,6 @@
             "link": "https://www.zdnet.com/article/best-rugged-phone/",
             "summary": "Most mainstream phones are durable enough for everyday use, but if you're the adventure-seeking kind, check out our top rugged phones.",
             "published_utc": "2026-07-20T17:07:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "An AI agent breached Hugging Face before an AI defender caught it: What users should do next",
-            "link": "https://www.zdnet.com/article/hugging-face-breach-blamed-on-ai-agent/",
-            "summary": "An agentic AI infiltrated the production infrastructure of an AI project. Then an AI detected it. Is this the future of cyberattacks, and how will the...",
-            "published_utc": "2026-07-20T16:53:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Why I still recommend Synology's DS225+ NAS - even if it can't replace your cloud storage",
-            "link": "https://www.zdnet.com/article/synology-ds225-nas-review/",
-            "summary": "Soaring hard drive prices are making NAS boxes a niche product, but the Synology DS225+ still makes sense. Here's why.",
-            "published_utc": "2026-07-20T16:21:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -548,13 +569,6 @@
             "published_utc": "2026-07-17T14:30:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "New CISO appointments 2026",
-            "link": "https://www.csoonline.com/article/4186743/new-ciso-appointments-2026.html",
-            "summary": "",
-            "published_utc": "2026-07-17T12:25:20+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Details of Alan Turing’s Voice Encryption System",
             "link": "https://www.schneier.com/blog/archives/2026/07/details-of-alan-turings-voice-encryption-system.html",
@@ -660,25 +674,11 @@
             "published_utc": "2026-07-16T10:48:58+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "When AI gets a body, it inherits an attack surface",
-            "link": "https://www.csoonline.com/article/4197463/when-ai-gets-a-body-it-inherits-an-attack-surface.html",
-            "summary": "",
-            "published_utc": "2026-07-16T10:00:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "SANS Warns of AI Governance Gap as Use by Security Teams Surges",
             "link": "https://www.infosecurity-magazine.com/news/sans-warns-of-ai-governance-gap/",
             "summary": "SANS Institute says governance programs are still nascent even as AI failures and threats grow",
             "published_utc": "2026-07-16T09:25:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "The executive profile your security team isn’t defending",
-            "link": "https://www.csoonline.com/article/4197460/the-executive-profile-your-security-team-isnt-defending.html",
-            "summary": "",
-            "published_utc": "2026-07-16T09:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
