@@ -1,6 +1,13 @@
 {
-    "lastUpdatedUTC": "2026-07-22T21:08:57.233905+00:00",
+    "lastUpdatedUTC": "2026-07-22T23:04:46.572838+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Upbound says hack caused $13 million in fraudulent Acima leases",
+            "link": "https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/",
+            "summary": "The Upbound Group fintech company disclosed that threat actors who stole data from its systems leveraged it to create $13 million in Acima leases. [...]",
+            "published_utc": "2026-07-22T21:43:39+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "New to Linux? This 10-day checklist will help you settle in nice and easy",
@@ -413,13 +420,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/",
             "summary": "The Anubis ransomware gang has claimed responsibility for the cyberattack on Coca-Cola's Fairlife dairy subsidiary, threatening to publish allegedly s...",
             "published_utc": "2026-07-21T18:50:54+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Critical wp2shell WordPress flaws exploited to install webshells",
-            "link": "https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/",
-            "summary": "Hackers are exploiting the \"wp2shell\" critical vulnerability suite (CVE-2026-63030 and CVE-2026-60137) affecting WordPress Core to deploy persistent w...",
-            "published_utc": "2026-07-21T16:41:50+00:00"
         },
         {
             "source": "WIRED Security",
