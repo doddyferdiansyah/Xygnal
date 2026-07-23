@@ -1,6 +1,83 @@
 {
-    "lastUpdatedUTC": "2026-07-23T08:31:49.745013+00:00",
+    "lastUpdatedUTC": "2026-07-23T11:10:52.565401+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "The best Wi-Fi routers of 2026: Expert tested and reviewed",
+            "link": "https://www.zdnet.com/article/best-wifi-router/",
+            "summary": "The best Wi-Fi routers provide a strong internet connection, rapid speeds, and plenty of coverage for working, streaming, gaming, and more.",
+            "published_utc": "2026-07-23T11:06:06+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Should you replace a traditional Wi-Fi router with mesh? I compared the two, and here's my verdict",
+            "link": "https://www.zdnet.com/article/wifi-router-vs-mesh/",
+            "summary": "Choosing between one access point and full-home internet coverage? Here's the verdict after extended testing.",
+            "published_utc": "2026-07-23T11:05:47+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "End-to-End Encryption and “Going Dark”",
+            "link": "https://www.schneier.com/blog/archives/2026/07/end-to-end-encryption-and-going-dark.html",
+            "summary": "",
+            "published_utc": "2026-07-23T11:03:50+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "We tested 15 Wi-Fi 7 routers in our lab - this one had the best coverage",
+            "link": "https://www.zdnet.com/article/widest-coverage-wi-fi-7-routers-lab-tested/",
+            "summary": "ZDNET's latest Lab Award goes to the Wi-Fi router with the widest coverage.",
+            "published_utc": "2026-07-23T11:00:50+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Upbound Group Says Data Breach Led to $13 Million in Fraudulent Contract Losses",
+            "link": "https://www.securityweek.com/upbound-group-says-data-breach-led-to-13-million-in-fraudulent-contract-losses/",
+            "summary": "",
+            "published_utc": "2026-07-23T10:49:10+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "New Dolphin X Stealer Employs AI Profiling to Prioritize Targets",
+            "link": "https://www.infosecurity-magazine.com/news/new-dolphin-x-stealer-ai-targets/",
+            "summary": "Dolphin X is a new infostealer that uses AI to sort and rank victims, giving cybercriminals a faster way to identify lucrative targets",
+            "published_utc": "2026-07-23T10:19:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Google will let you upload a video selfie to recover your account - but should you?",
+            "link": "https://www.zdnet.com/article/google-wants-you-to-upload-your-face-to-recover-your-account-but-should-you/",
+            "summary": "Google's new account recovery option prompts users to upload a selfie to prove their identity. Here's what to know.",
+            "published_utc": "2026-07-23T10:00:48+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "New msaRAT malware uses Chrome, Edge browsers to route C2 traffic",
+            "link": "https://www.bleepingcomputer.com/news/security/new-msarat-malware-uses-chrome-edge-browsers-to-route-c2-traffic/",
+            "summary": "The Chaos ransomware gang is using a new backdoor dubbed msaRAT that hides command-and-control (C2) communication by routing it through the Chrome or ...",
+            "published_utc": "2026-07-23T10:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Assaf Keren Appointed New CISO of Meta",
+            "link": "https://www.securityweek.com/assaf-keren-appointed-new-ciso-of-meta/",
+            "summary": "",
+            "published_utc": "2026-07-23T09:53:51+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft working to fix Exchange Online mailbox quarantine issue",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-exchange-online-mailbox-quarantine-issue/",
+            "summary": "Microsoft is working to resolve an ongoing Exchange Online issue that has been mistakenly quarantining customers' mailboxes since Sunday. [...]",
+            "published_utc": "2026-07-23T09:20:10+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "New Check Point Zero-Day Vulnerability Exploited in the Wild",
+            "link": "https://www.securityweek.com/new-check-point-zero-day-vulnerability-exploited-in-the-wild/",
+            "summary": "",
+            "published_utc": "2026-07-23T09:06:04+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Check Point warns of SmartConsole zero-day exploited in attacks",
@@ -233,39 +310,11 @@
             "published_utc": "2026-07-22T14:15:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "AT&T will let you preorder the Galaxy Z Fold 8 for free with trade-in - what to know",
-            "link": "https://www.zdnet.com/article/at-t-samsung-galaxy-z-fold-8-deal/",
-            "summary": "Save up to $1,900 on the new Galaxy Z Fold 8 at AT&amp;T right now.",
-            "published_utc": "2026-07-22T14:08:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How to preorder everything announced at Samsung Unpacked: Galaxy Z Flip 8, Z Fold 8, and more",
-            "link": "https://www.zdnet.com/article/how-to-preorder-everything-announced-at-samsung-unpacked-july-2026/",
-            "summary": "We've got the scoop on where you can preorder the newest Samsung devices announced today, including the Galaxy Watch Ultra 2 and Galaxy Watch 9.",
-            "published_utc": "2026-07-22T14:07:14+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "When Identity Verification Fails: Lessons from a Real-World SIM Swap and Near Account Takeover",
             "link": "https://www.securityweek.com/when-identity-verification-fails-lessons-from-a-real-world-sim-swap-and-near-account-takeover/",
             "summary": "",
             "published_utc": "2026-07-22T14:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I went hands-on with the Samsung Galaxy Z Flip 8, but it's not the upgrade I expected",
-            "link": "https://www.zdnet.com/article/samsung-galaxy-z-flip-8-hands-on/",
-            "summary": "The Samsung Galaxy Z Flip 8 received the much-needed battery upgrade, but not much else.",
-            "published_utc": "2026-07-22T13:39:14+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "T-Mobile will give you the new Samsung Galaxy Z Flip for under $100 - here's how to preorder",
-            "link": "https://www.zdnet.com/article/t-mobile-samsung-galaxy-z-flip-deal/",
-            "summary": "New and existing T-Mobile customers can save up to $1,100 on Samsung's latest flip phone now (including the pink color). Here's how.",
-            "published_utc": "2026-07-22T13:37:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -310,13 +359,6 @@
             "published_utc": "2026-07-22T11:40:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Fourth SharePoint Vulnerability Exploited in Past Month’s Wave of Attacks",
-            "link": "https://www.securityweek.com/fourth-sharepoint-vulnerability-exploited-in-past-months-wave-of-attacks/",
-            "summary": "",
-            "published_utc": "2026-07-22T11:29:16+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Stop renting storage space — this lifetime 2TB plan is yours for $59",
             "link": "https://www.bleepingcomputer.com/news/security/stop-renting-storage-space-this-lifetime-2tb-plan-is-yours-for-59/",
@@ -357,20 +399,6 @@
             "link": "https://www.wired.com/story/states-want-ice-agents-to-show-their-faces-the-trump-administration-is-blocking-them/",
             "summary": "Federal lawyers say anti-mask laws would endanger immigration agents, citing an ICE face-recognition art project that doesn’t actually work.",
             "published_utc": "2026-07-22T10:30:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Endpoint Security Firm Glow Launches With $180M in Funding at $1.2B Valuation",
-            "link": "https://www.securityweek.com/endpoint-security-firm-glow-launches-with-180m-in-funding-at-1-2b-valuation/",
-            "summary": "",
-            "published_utc": "2026-07-22T10:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Oracle Patches Over 1,400 Vulnerabilities With Quarterly Security Updates",
-            "link": "https://www.securityweek.com/oracle-patches-over-1400-vulnerabilities-with-quarterly-security-updates/",
-            "summary": "",
-            "published_utc": "2026-07-22T09:33:12+00:00"
         },
         {
             "source": "CSO Online",
@@ -427,20 +455,6 @@
             "link": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
             "summary": "The cybersecurity-focused models, including GPT-5.6 Sol, broke out of a testing sandbox, exploited a zero-day, and gained access to the open internet ...",
             "published_utc": "2026-07-21T22:50:01+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "FakeGit campaign uses 7,600 GitHub repos to push SmartLoader malware",
-            "link": "https://www.bleepingcomputer.com/news/security/fakegit-campaign-uses-7-600-github-repos-to-push-smartloader-malware/",
-            "summary": "A large-scale operation dubbed 'FakeGit' is pushing SmartLoader and StealC malware through 7,600 malicious GitHub repositories that accumulated more t...",
-            "published_utc": "2026-07-21T22:34:17+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Critical SharePoint RCE flaw exploited to steal machine keys",
-            "link": "https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/",
-            "summary": "Hackers are actively exploiting the critical CVE-2026-50522 vulnerability in Microsoft SharePoint to steal machine keys and maintain access even after...",
-            "published_utc": "2026-07-21T20:06:55+00:00"
         },
         {
             "source": "WIRED Security",
@@ -889,13 +903,6 @@
             "link": "https://www.infosecurity-magazine.com/news/progress-warns-security-threat/",
             "summary": "Progress Software, the provider of the popular file-sharing and data storage solutions, has urged customers to shut down the server hosting their Stor...",
             "published_utc": "2026-07-13T12:05:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "AI Data Centers and the Concentration of Wealth",
-            "link": "https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html",
-            "summary": "",
-            "published_utc": "2026-07-13T11:01:57+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2737,13 +2744,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ncsc-publishes-guidance-securing/",
             "summary": "The UK’s National Cyber Security Centre is helping organizations to understand agentic AI security risks",
             "published_utc": "2026-05-18T10:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Security Researchers Find 47 Zero-Days at Pwn2Own Berlin",
-            "link": "https://www.infosecurity-magazine.com/news/security-researchers-47-zerodays/",
-            "summary": "The research community was awarded $1.3m as it found dozens of novel vulnerabilities at Pwn2Own Berlin",
-            "published_utc": "2026-05-18T09:45:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
