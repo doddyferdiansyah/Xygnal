@@ -1,6 +1,69 @@
 {
-    "lastUpdatedUTC": "2026-07-23T11:10:52.565401+00:00",
+    "lastUpdatedUTC": "2026-07-23T14:02:28.567376+00:00",
     "articles": [
+        {
+            "source": "InfosecurityMag",
+            "title": "Microsoft Copilot Deployments Delayed Over Security Concerns",
+            "link": "https://www.infosecurity-magazine.com/news/microsoft-copilot-delayed-over/",
+            "summary": "CoreView research finds that security leadership is concerned about AI Assistant exposing confidential data",
+            "published_utc": "2026-07-23T14:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Abstract Raises $25 Million to Expand Composable Security Operations Platform",
+            "link": "https://www.securityweek.com/abstract-raises-25-million-to-expand-composable-security-operations-platform/",
+            "summary": "",
+            "published_utc": "2026-07-23T13:54:56+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "OpenAI's attack agent did exactly what it was told - just more relentlessly than expected",
+            "link": "https://www.zdnet.com/article/openai-hugging-face-attack-agent/",
+            "summary": "OpenAI's unintended attack on Hugging Face startled the world because its AI agent was acting on its own. But that's exactly what agentic AI is design...",
+            "published_utc": "2026-07-23T13:31:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Iranian Hackers Target Siemens and Schneider Industrial Systems, CISA Warns",
+            "link": "https://www.infosecurity-magazine.com/news/iran-hackers-siemen-schneider-ics/",
+            "summary": "US government agencies have warned that Iranian cyber actors are targeting US-based Siemens and Schneider industrial equipment",
+            "published_utc": "2026-07-23T13:30:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Nuclear-Sabotage Malware Benchmark Trips Up Most Frontier AI Models",
+            "link": "https://www.securityweek.com/nuclear-sabotage-malware-benchmark-trips-up-most-frontier-ai-models/",
+            "summary": "",
+            "published_utc": "2026-07-23T12:42:12+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "EU fines Google $1 billion for search, app store antitrust violations",
+            "link": "https://www.bleepingcomputer.com/news/google/eu-fines-google-1-billion-for-digital-markets-act-breaches-in-search-and-play-store/",
+            "summary": "The European Commission fined Google €890 million ($1 billion) on Thursday after finding the company had violated the European Union's Digital Markets...",
+            "published_utc": "2026-07-23T12:33:19+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I use Anthropic's Claude AI tools for very different jobs: How to pick between models, Code, and Cowork",
+            "link": "https://www.zdnet.com/article/anthropics-claude-lineup-cowork-code-ai/",
+            "summary": "Here's how Anthropic's AI tools work, what they can accomplish, and why security, cost, and your oversight still matter.",
+            "published_utc": "2026-07-23T12:26:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "New RefluXFS Linux flaw lets attackers gain root privileges",
+            "link": "https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/",
+            "summary": "A nine-year-old race condition vulnerability in the Linux kernel's XFS filesystem, tracked as CVE-2026-64600, allows local attackers to overwrite prot...",
+            "published_utc": "2026-07-23T11:40:16+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "AI Agents Now the Enterprises Fastest Growing Exposed Attack Surface",
+            "link": "https://www.infosecurity-magazine.com/news/ai-agents-attack-surface/",
+            "summary": "Sophos report warns that the rapid adoption of AI by businesses is leaving them vulnerable to a new source of cyber threats",
+            "published_utc": "2026-07-23T11:30:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "The best Wi-Fi routers of 2026: Expert tested and reviewed",
@@ -282,25 +345,11 @@
             "published_utc": "2026-07-22T14:58:53+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "T-Mobile, Verizon or AT&T? New study reveals best mobile carrier - ranks internet providers, too",
-            "link": "https://www.zdnet.com/article/mobile-carrier-internet-provider-t-mobile-at-t-fiber-ookla-speedtest/",
-            "summary": "Read this before switching your cell or internet service: Ookla's latest study measures speed, performance, and consistency among US telecom providers.",
-            "published_utc": "2026-07-22T14:34:57+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "Flaw in Adobe Extension With 300M Installs Enabled WhatsApp Data Theft",
             "link": "https://www.securityweek.com/flaw-in-adobe-extension-with-300m-installs-enabled-whatsapp-data-theft/",
             "summary": "",
             "published_utc": "2026-07-22T14:22:31+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Preorder the new Samsung Galaxy Z Fold 8 or Z Flip 8 at Verizon with no fees - here's how",
-            "link": "https://www.zdnet.com/article/verizon-samsung-galaxy-z-fold-deal-2026/",
-            "summary": "Samsung just dropped its newest foldable phone at its Unpacked event. Here's how to save on preorders at Verizon with no activation or upgrade fees.",
-            "published_utc": "2026-07-22T14:18:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -329,20 +378,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/adobe-chrome-extension-flaw-let-sites-access-private-whatsapp-chats/",
             "summary": "The Adobe Acrobat extension for Chrome could be used to access conversations and data rendered in WhatsApp Web without any form of authentication. [...]",
             "published_utc": "2026-07-22T13:22:20+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "StrongestLayer Raises $4.1 Million in Seed Funding Extension",
-            "link": "https://www.securityweek.com/strongestlayer-raises-4-1-million-in-seed-funding-extension/",
-            "summary": "",
-            "published_utc": "2026-07-22T13:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Vibe-Coded Apps Riddled With Exploitable Security Flaws",
-            "link": "https://www.securityweek.com/vibe-coded-apps-riddled-with-exploitable-security-flaws/",
-            "summary": "",
-            "published_utc": "2026-07-22T13:00:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -429,25 +464,11 @@
             "published_utc": "2026-07-22T06:30:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "OpenAI says its AI models hacked Hugging Face during testing",
-            "link": "https://www.bleepingcomputer.com/news/security/openai-says-its-ai-models-hacked-hugging-face-during-testing/",
-            "summary": "OpenAI says its AI models, including GPT‑5.6 Sol and a pre-release model, hacked into the Hugging Face artificial intelligence repository while being ...",
-            "published_utc": "2026-07-22T05:19:20+00:00"
-        },
-        {
             "source": "KrebsOnSecurity",
             "title": "LG to Ban Residential Proxies from Smart TV Apps",
             "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
             "summary": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an alw...",
             "published_utc": "2026-07-22T01:10:38+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Police dismantle Kratos phishing platform, arrest developer",
-            "link": "https://www.bleepingcomputer.com/news/security/police-dismantle-kratos-phishing-platform-arrest-developer/",
-            "summary": "Authorities in Germany and the U.S. dismantled the central infrastructure of Kratos, a phishing-as-a-service (PhaaS) platform with global reach, and i...",
-            "published_utc": "2026-07-21T23:07:33+00:00"
         },
         {
             "source": "WIRED Security",
@@ -2723,27 +2744,6 @@
             "link": "https://www.infosecurity-magazine.com/news/hackers-bypass-security-tools/",
             "summary": "Bridewell report calls out emergence of “fix-style” attacks",
             "published_utc": "2026-05-19T08:20:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Interpol Launches Sweeping Cybercrime Crackdown in MENA Region",
-            "link": "https://www.infosecurity-magazine.com/news/interpol-cybercrime-crackdown-mena/",
-            "summary": "Over 200 people were arrested in an anti-cybercrime operation that spanned 13 countries across the Middle East and North Africa",
-            "published_utc": "2026-05-18T14:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "The Infosecurity Europe Cyber Startup Competition: Meet the Finalists",
-            "link": "https://www.infosecurity-magazine.com/news/infosec-europe-cyber-startup/",
-            "summary": "New for 2026, the Infosecurity Europe Startup competition will see five finalists pitch their ideas in front of a live audience, including senior indu...",
-            "published_utc": "2026-05-18T13:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "NCSC Publishes Guidance on Securing Agentic AI Use",
-            "link": "https://www.infosecurity-magazine.com/news/ncsc-publishes-guidance-securing/",
-            "summary": "The UK’s National Cyber Security Centre is helping organizations to understand agentic AI security risks",
-            "published_utc": "2026-05-18T10:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
