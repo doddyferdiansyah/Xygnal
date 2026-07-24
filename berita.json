@@ -1,6 +1,20 @@
 {
-    "lastUpdatedUTC": "2026-07-24T14:55:50.081460+00:00",
+    "lastUpdatedUTC": "2026-07-24T16:43:35.114150+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "I fixed my home office's spotty Wi-Fi with Samsung's free diagnostic tool - and it took just minutes",
+            "link": "https://www.zdnet.com/article/samsung-connectivity-labs-wifi-diagnostic-tool-fix-office-setup/",
+            "summary": "A recent uptick in lag and disconnects led me to reevaluate my home office setup. Here's how I validated my solution.",
+            "published_utc": "2026-07-24T16:23:45+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft blames massive Microsoft 365 outage on maintenance bug",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/",
+            "summary": "Microsoft says a bug in its automated network maintenance request system caused Thursday's massive outage by mistakenly removing IP routes from more d...",
+            "published_utc": "2026-07-24T15:41:44+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "The 3 types of people who will excel in the AI agent era, according to tech leaders",
@@ -237,7 +251,7 @@
             "title": "Dell just dropped the price of this award-winning laptop to 50% off - and I highly recommend it",
             "link": "https://www.zdnet.com/article/dell-14-plus-deal/",
             "summary": "We granted the Dell 14 Plus an Editors' Choice award for great hardware and design. Now, the high-end version of the PC is over $1,000 off.",
-            "published_utc": "2026-07-23T18:14:03+00:00"
+            "published_utc": "2026-07-23T18:14:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -415,13 +429,6 @@
             "published_utc": "2026-07-23T11:06:06+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Should you replace a traditional Wi-Fi router with mesh? I compared the two, and here's my verdict",
-            "link": "https://www.zdnet.com/article/wifi-router-vs-mesh/",
-            "summary": "Choosing between one access point and full-home internet coverage? Here's the verdict after extended testing.",
-            "published_utc": "2026-07-23T11:05:47+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "End-to-End Encryption and “Going Dark”",
             "link": "https://www.schneier.com/blog/archives/2026/07/end-to-end-encryption-and-going-dark.html",
@@ -441,13 +448,6 @@
             "link": "https://www.infosecurity-magazine.com/news/new-dolphin-x-stealer-ai-targets/",
             "summary": "Dolphin X is a new infostealer that uses AI to sort and rank victims, giving cybercriminals a faster way to identify lucrative targets",
             "published_utc": "2026-07-23T10:19:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "New msaRAT malware uses Chrome, Edge browsers to route C2 traffic",
-            "link": "https://www.bleepingcomputer.com/news/security/new-msarat-malware-uses-chrome-edge-browsers-to-route-c2-traffic/",
-            "summary": "The Chaos ransomware gang is using a new backdoor dubbed msaRAT that hides command-and-control (C2) communication by routing it through the Chrome or ...",
-            "published_utc": "2026-07-23T10:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
