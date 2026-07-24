@@ -1,6 +1,76 @@
 {
-    "lastUpdatedUTC": "2026-07-24T10:19:02.974259+00:00",
+    "lastUpdatedUTC": "2026-07-24T12:19:30.178673+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "4 little-known Google Calendar tricks I use to plan my workweek - and save time",
+            "link": "https://www.zdnet.com/article/google-calendar-tricks/",
+            "summary": "If you're only using Google Calendar to track events, you're missing some of its most useful features.",
+            "published_utc": "2026-07-24T12:17:03+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "250 Eiffel Towers' worth of waste: The AI boom's toxic hardware problem",
+            "link": "https://www.zdnet.com/article/ai-data-center-boom-e-waste-problem/",
+            "summary": "Chips, servers, cables, and more could compound an already massive problem - here's who it affects and what's being done about it.",
+            "published_utc": "2026-07-24T12:05:31+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "AegisAI Raises $36 Million for AI-Powered Email Security",
+            "link": "https://www.securityweek.com/aegisai-raises-36-million-for-ai-powered-email-security/",
+            "summary": "",
+            "published_utc": "2026-07-24T12:01:18+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Hotel Wi-Fi Routers Compromised to Steal Corporate Login Credentials From Visitors",
+            "link": "https://www.infosecurity-magazine.com/news/hotel-wifi-dns-poisoning/",
+            "summary": "Researchers at ReliaQuest warned of widespread DNS poisoning attacks targeting the hospitality sector as part of a cyber espionage campaign",
+            "published_utc": "2026-07-24T12:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Industry Reactions to OpenAI Models Hacking Hugging Face: Feedback Friday",
+            "link": "https://www.securityweek.com/industry-reactions-to-openai-models-hacking-hugging-face-feedback-friday/",
+            "summary": "",
+            "published_utc": "2026-07-24T11:19:46+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Man gets six years for hacking 750 women's Snapchat accounts",
+            "link": "https://www.bleepingcomputer.com/news/security/man-gets-six-years-for-hacking-750-womens-snapchat-accounts/",
+            "summary": "An Illinois man was sentenced on Tuesday to 76 months in prison and three years of supervised release for hacking the Snapchat accounts of over 750 wo...",
+            "published_utc": "2026-07-24T11:17:19+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "ChatGPT Among Top 10 Most Impersonated Brands in Phishing Attacks, Says Check Point",
+            "link": "https://www.infosecurity-magazine.com/news/chatgpt-most-impersonated-brands/",
+            "summary": "OpenAI’s chatbot tool ChatGPT ranked among the top 10 most impersonated brands in phishing attacks for the first time",
+            "published_utc": "2026-07-24T11:15:00+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Why AI Needs a “Genie Coefficient”",
+            "link": "https://www.schneier.com/blog/archives/2026/07/why-ai-needs-a-genie-coefficient.html",
+            "summary": "",
+            "published_utc": "2026-07-24T11:03:06+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Top AIs invent same fake PyPl and npm package names",
+            "link": "https://www.csoonline.com/article/4201164/top-ais-invent-same-fake-pypl-and-npm-package-names-2.html",
+            "summary": "",
+            "published_utc": "2026-07-24T10:39:51+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Tycoon2FA takedown reshapes the phishing landscape",
+            "link": "https://www.csoonline.com/article/4201146/tycoon2fa-takedown-reshapes-the-phishing-landscape.html",
+            "summary": "",
+            "published_utc": "2026-07-24T10:23:03+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "One of these 13 gadgets could be the hero your junk drawer needs (here's why)",
@@ -352,13 +422,6 @@
             "published_utc": "2026-07-23T09:20:10+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "New Check Point Zero-Day Vulnerability Exploited in the Wild",
-            "link": "https://www.securityweek.com/new-check-point-zero-day-vulnerability-exploited-in-the-wild/",
-            "summary": "",
-            "published_utc": "2026-07-23T09:06:04+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Check Point warns of SmartConsole zero-day exploited in attacks",
             "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-smartconsole-zero-day-exploited-in-attacks/",
@@ -378,13 +441,6 @@
             "link": "https://www.csoonline.com/article/4200366/microsofts-3-day-patching-directive-comes-with-added-operational-risk.html",
             "summary": "",
             "published_utc": "2026-07-23T07:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "US Warns of Iranian Hackers Targeting Siemens, Schneider, and Rockwell ICS Devices",
-            "link": "https://www.securityweek.com/us-warns-of-iranian-hackers-targeting-siemens-schneider-and-rockwell-ics-devices/",
-            "summary": "",
-            "published_utc": "2026-07-23T05:28:50+00:00"
         },
         {
             "source": "CSO Online",
@@ -420,27 +476,6 @@
             "link": "https://www.zdnet.com/article/samsung-galaxy-z-flip-8-vs-moto-razr-ultra/",
             "summary": "The Moto Razr Ultra has some of the best software on a phone, but how does it compare to the new Samsung Z Flip 8?",
             "published_utc": "2026-07-22T20:22:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "South Korea discloses data breach impacting diplomats worldwide",
-            "link": "https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/",
-            "summary": "South Korea disclosed that hackers breached the National Diplomatic Academy's online education system for ten months and stole personal information be...",
-            "published_utc": "2026-07-22T20:06:54+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I lost 100 pounds in 7 months: How a smart scale and an Apple Watch helped track my progress",
-            "link": "https://www.zdnet.com/article/i-lost-100-pounds-in-7-months-smart-scale-apple-watch-tracked-my-progress/",
-            "summary": "While my iPhone and Apple Watch were core to my weight loss journey, I also have Android recommendations.",
-            "published_utc": "2026-07-22T19:24:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I tested this fan-equipped MagSafe charger in a heat wave - and it actually kept my iPhone cool",
-            "link": "https://www.zdnet.com/article/cryoboost-foldable-3-in-1-folding-magnetic-charging-station-review/",
-            "summary": "Extreme heat isn't just a problem for you. It's a problem for your tech, too. That's where ESR's phone charger with active cooling shines.",
-            "published_utc": "2026-07-22T19:05:45+00:00"
         },
         {
             "source": "CSO Online",
@@ -632,13 +667,6 @@
             "published_utc": "2026-07-20T15:00:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "AI adoption and business acceleration are changing the expectations of technology risk management",
-            "link": "https://www.csoonline.com/article/4198872/ai-adoption-and-business-acceleration-are-changing-the-expectations-of-technology-risk-management.html",
-            "summary": "",
-            "published_utc": "2026-07-20T14:35:48+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "JadePuffer Returns With Ransomware Designed to Wipe AI Models",
             "link": "https://www.infosecurity-magazine.com/news/jadepuffer-ai-model-ransomware/",
@@ -651,13 +679,6 @@
             "link": "https://www.infosecurity-magazine.com/news/researchers-wordpress-exploit/",
             "summary": "A researcher who discovered a critical vulnerability in WordPress has used OpenAI’s latest model to develop an exploit chain",
             "published_utc": "2026-07-20T14:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Patch now: WordPress REST API bug allows remote code execution",
-            "link": "https://www.csoonline.com/article/4198791/patch-now-wordpress-rest-api-bug-allows-remote-code-execution.html",
-            "summary": "",
-            "published_utc": "2026-07-20T12:30:13+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -889,13 +910,6 @@
             "link": "https://www.infosecurity-magazine.com/news/macos-malware-apple-crash-reporter/",
             "summary": "Researchers at Jamf Threat Labs detail CrashStealer, which steals passwords, cryptocurrency wallets and more",
             "published_utc": "2026-07-14T12:00:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Vulnerability in FIFA’s Network",
-            "link": "https://www.schneier.com/blog/archives/2026/07/vulnerability-in-fifas-network.html",
-            "summary": "",
-            "published_utc": "2026-07-14T11:06:51+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2723,20 +2737,6 @@
             "link": "https://www.infosecurity-magazine.com/news/microsoft-takes-down-fox-tempest/",
             "summary": "Microsoft’s Digital Crimes Unit has taken down the infrastructure of Fox Tempest, a prolific cybercrime-enabling threat group",
             "published_utc": "2026-05-19T15:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "AI Raises the Bar on Vulnerability Awareness and Secure-by-Design Software",
-            "link": "https://www.infosecurity-magazine.com/news/ai-raises-vulnerability-awareness/",
-            "summary": "AI-powered vulnerability scanning leaves no excuse for unpatched bugs as the EU Cyber Resilience Act pushes firms toward secure-by-design software",
-            "published_utc": "2026-05-19T12:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Agentic AI Accelerates Software Builds and Mobile App Attacks",
-            "link": "https://www.infosecurity-magazine.com/news/agentic-ai-accelerates-software/",
-            "summary": "Digital.ai data reveals 87% of apps were attacked over the past year",
-            "published_utc": "2026-05-19T12:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
