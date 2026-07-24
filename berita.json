@@ -1,6 +1,20 @@
 {
-    "lastUpdatedUTC": "2026-07-24T16:43:35.114150+00:00",
+    "lastUpdatedUTC": "2026-07-24T18:18:29.023398+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers hijack hotel Wi-Fi DNS to steal Microsoft 365 accounts",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/",
+            "summary": "Hackers are changing the DNS settings on Wi-Fi devices at hotels and conference centers to redirect users to fake Microsoft 365 login pages. [...]",
+            "published_utc": "2026-07-24T17:50:37+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Claude Opus 5 arrives with near Fable performance at half the price",
+            "link": "https://www.zdnet.com/article/claude-opus-5-near-fable-performance-at-half-the-price/",
+            "summary": "Anthropic's latest Claude upgrade targets developers and enterprises with stronger coding, better reasoning efficiency, prompt-cache-friendly tool cha...",
+            "published_utc": "2026-07-24T17:00:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "I fixed my home office's spotty Wi-Fi with Samsung's free diagnostic tool - and it took just minutes",
@@ -83,7 +97,7 @@
             "title": "250 Eiffel Towers' worth of waste: The AI boom's toxic hardware problem",
             "link": "https://www.zdnet.com/article/ai-data-center-boom-e-waste-problem/",
             "summary": "Chips, servers, cables, and more could compound an already massive problem - here's who it affects and what's being done about it.",
-            "published_utc": "2026-07-24T12:05:31+00:00"
+            "published_utc": "2026-07-24T12:05:00+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -408,25 +422,11 @@
             "published_utc": "2026-07-23T12:26:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "New RefluXFS Linux flaw lets attackers gain root privileges",
-            "link": "https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/",
-            "summary": "A nine-year-old race condition vulnerability in the Linux kernel's XFS filesystem, tracked as CVE-2026-64600, allows local attackers to overwrite prot...",
-            "published_utc": "2026-07-23T11:40:16+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "AI Agents Now the Enterprises Fastest Growing Exposed Attack Surface",
             "link": "https://www.infosecurity-magazine.com/news/ai-agents-attack-surface/",
             "summary": "Sophos report warns that the rapid adoption of AI by businesses is leaving them vulnerable to a new source of cyber threats",
             "published_utc": "2026-07-23T11:30:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The best Wi-Fi routers of 2026: Expert tested and reviewed",
-            "link": "https://www.zdnet.com/article/best-wifi-router/",
-            "summary": "The best Wi-Fi routers provide a strong internet connection, rapid speeds, and plenty of coverage for working, streaming, gaming, and more.",
-            "published_utc": "2026-07-23T11:06:06+00:00"
         },
         {
             "source": "Schneier",
