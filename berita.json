@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-07-27T20:23:08.886314+00:00",
+    "lastUpdatedUTC": "2026-07-27T22:08:40.457067+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "New Dysphoria DDoS botnet spreads to 200k devices worldwide",
+            "link": "https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/",
+            "summary": "A botnet called Dysphoria has compromised around 200,000 devices across the world and is using them for distributed denial of service (DDoS) attacks a...",
+            "published_utc": "2026-07-27T21:08:15+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "New Certighost PoC exploit lets attackers hijack Windows domains",
+            "link": "https://www.bleepingcomputer.com/news/security/new-certighost-poc-exploit-lets-attackers-hijack-windows-domains/",
+            "summary": "A proof-of-concept exploit for \"Certighost,\" a Windows Active Directory Certificate Services vulnerability, has been released that can allow authentic...",
+            "published_utc": "2026-07-27T21:00:25+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "DHS Official Resigns, Citing ‘War on Immigrants’",
+            "link": "https://www.wired.com/story/dhs-official-resigns-citing-war-on-immigrants/",
+            "summary": "The outgoing executive director of the Office of Homeland Security Statistics is one of very few federal officials to speak out against the Trump admi...",
+            "published_utc": "2026-07-27T20:34:04+00:00"
+        },
         {
             "source": "WIRED Security",
             "title": "Private Claude Chats Exposed in Google and Bing Search Results",
@@ -371,20 +392,6 @@
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/",
             "summary": "Microsoft says a bug in its automated network maintenance request system caused Thursday's massive outage by mistakenly removing IP routes from more d...",
             "published_utc": "2026-07-24T15:41:44+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Chick-fil-A data breach affects more than 13,000 customers",
-            "link": "https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/",
-            "summary": "Chick-fil-A has confirmed that over 13,000 customers had their accounts breached in a wave of credential stuffing attacks targeting its website and mo...",
-            "published_utc": "2026-07-24T14:04:29+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Slopsquatting, Phantom Domains, and HalluSquatting Are the Same AI Attack",
-            "link": "https://www.bleepingcomputer.com/news/security/slopsquatting-phantom-domains-and-hallusquatting-are-the-same-ai-attack/",
-            "summary": "Slopsquatting, phantom squatting, and HalluSquatting all exploit the same late-binding attack pattern, where AI coding agents trust hallucinated packa...",
-            "published_utc": "2026-07-24T14:01:11+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1778,13 +1785,6 @@
             "link": "https://www.infosecurity-magazine.com/news/threat-detection-across-nonemail/",
             "summary": "Half of cybersecurity leaders lack confidence in detecting threats on Slack, Teams and other non-email platforms, despite growing attacker focus",
             "published_utc": "2026-06-19T09:00:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "How the Peter Thiel-Linked Dialog Club Secretly Ranks Its Members",
-            "link": "https://www.wired.com/story/how-peter-thiels-private-dialog-club-secretly-ranks-its-members/",
-            "summary": "Leaked files show the invite-only network grades members by their money and fame, shaping who’s in, who’s out, and who pays.",
-            "published_utc": "2026-06-18T22:12:45+00:00"
         },
         {
             "source": "KrebsOnSecurity",
