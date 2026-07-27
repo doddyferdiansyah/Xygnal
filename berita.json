@@ -1,6 +1,90 @@
 {
-    "lastUpdatedUTC": "2026-07-27T11:23:15.537951+00:00",
+    "lastUpdatedUTC": "2026-07-27T14:36:25.789788+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "New GitHub, PyPI Policies Boost Supply Chain Security",
+            "link": "https://www.securityweek.com/new-github-pypi-policies-boost-supply-chain-security/",
+            "summary": "",
+            "published_utc": "2026-07-27T14:26:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Shadow AI agents are multiplying. Here's how to find and secure them.",
+            "link": "https://www.bleepingcomputer.com/news/security/shadow-ai-agents-are-multiplying-heres-how-to-find-and-secure-them/",
+            "summary": "Shadow AI agents are rapidly spreading across enterprise platforms, often without IT or security visibility. Nudge Security explains how organizations...",
+            "published_utc": "2026-07-27T14:01:11+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Assume AI cybersecurity attacks are the future: 43% of companies have already experienced it",
+            "link": "https://www.zdnet.com/article/assume-ai-cybersecurity-attacks-are-the-future-43-percent-of-companies-have-already-experienced-it/",
+            "summary": "New CDW research finds that AI is driving new phishing and malware-based threats. But are enough companies also using AI to fight them?",
+            "published_utc": "2026-07-27T14:00:40+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "PTC Windchill Vulnerability Exploited in Ransomware Campaign",
+            "link": "https://www.securityweek.com/ptc-windchill-vulnerability-exploited-in-ransomware-campaign/",
+            "summary": "",
+            "published_utc": "2026-07-27T13:19:30+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "MedusaHVNC Malware Uses Hidden Windows Desktops to Evade Detection",
+            "link": "https://www.securityweek.com/medusahvnc-malware-uses-hidden-windows-desktops-to-evade-detection/",
+            "summary": "",
+            "published_utc": "2026-07-27T13:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Nvidia and Tech Giants Launch AI Security Alliance",
+            "link": "https://www.securityweek.com/nvidia-and-tech-giants-launch-ai-security-alliance/",
+            "summary": "",
+            "published_utc": "2026-07-27T12:25:43+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I found a dual-display USB-C dock with 8 ports - and no bulky AC brick",
+            "link": "https://www.zdnet.com/article/ezquest-pro-series-8-in-1-hub-no-bulky-ac-brick/",
+            "summary": "EZQuest's Pro Series 8-in-1 hub runs on Intel's low-cut but high feature Hoover Ridge chipset, and two months in, it hasn't let me down.",
+            "published_utc": "2026-07-27T12:17:20+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I fixed my home office's spotty Wi-Fi with Samsung's free diagnostic tool - in minutes",
+            "link": "https://www.zdnet.com/article/samsung-connectivity-labs-wifi-diagnostic-tool-fix-office-setup/",
+            "summary": "There are some great non-Samsung alternatives, too.",
+            "published_utc": "2026-07-27T12:15:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How would AI data centers in space even work? A former NASA robotics chief explains",
+            "link": "https://www.zdnet.com/article/how-would-ai-data-centers-in-space-even-work-a-former-nasa-robotics-chief-explains/",
+            "summary": "'You collect electricity in space, and you eject heat in space. The only thing that comes to Earth is data.'",
+            "published_utc": "2026-07-27T12:05:41+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Certighost haunts Microsoft Active Directory Certificate Services",
+            "link": "https://www.csoonline.com/article/4201771/certighost-haunts-microsoft-active-directory-certificate-services.html",
+            "summary": "",
+            "published_utc": "2026-07-27T11:43:58+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "SourTrade Malvertising Campaign Secretly Builds Malware in the Browser",
+            "link": "https://www.infosecurity-magazine.com/news/malvertising-builds-malware-in/",
+            "summary": "Impersonating well-known cryptocurrency and trading sites, SourTrade has developed a novel technique to drop infostealers to victims",
+            "published_utc": "2026-07-27T11:30:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Coca-Cola Confirms Data Breach After Fairlife Ransomware Attack",
+            "link": "https://www.securityweek.com/coca-cola-confirms-data-breach-after-fairlife-ransomware-attack/",
+            "summary": "",
+            "published_utc": "2026-07-27T11:29:03+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "OpenAI not part of the new Open Secure AI Alliance",
@@ -77,13 +161,6 @@
             "link": "https://www.csoonline.com/article/4200382/how-cisos-can-rise-to-the-business-resilience-challenge.html",
             "summary": "",
             "published_utc": "2026-07-27T07:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "MCBS Data Breach Affects 1.2 Million Individuals",
-            "link": "https://www.securityweek.com/mcbs-data-breach-affects-1-2-million-individuals/",
-            "summary": "",
-            "published_utc": "2026-07-27T04:51:32+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -170,13 +247,6 @@
             "published_utc": "2026-07-25T08:30:43+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Rockwell Patches Code Execution Flaws in Arena Simulation Software",
-            "link": "https://www.securityweek.com/rockwell-patches-code-execution-flaws-in-arena-simulation-software/",
-            "summary": "",
-            "published_utc": "2026-07-25T08:30:00+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Friday Squid Blogging: Illex Squid Catch in the Falklands",
             "link": "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-illex-squid-catch-in-the-falklands.html",
@@ -219,13 +289,6 @@
             "published_utc": "2026-07-24T17:00:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I fixed my home office's spotty Wi-Fi with Samsung's free diagnostic tool - and it took just minutes",
-            "link": "https://www.zdnet.com/article/samsung-connectivity-labs-wifi-diagnostic-tool-fix-office-setup/",
-            "summary": "A recent uptick in lag and disconnects led me to reevaluate my home office setup. Here's how I validated my solution.",
-            "published_utc": "2026-07-24T16:23:45+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Microsoft blames massive Microsoft 365 outage on maintenance bug",
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/",
@@ -247,13 +310,6 @@
             "published_utc": "2026-07-24T14:27:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "In Other News: Dolphin X AI-Powered Malware, Car Anti-Theft Device Hack, 400 Linux Kernel Flaws",
-            "link": "https://www.securityweek.com/in-other-news-dolphin-x-ai-powered-malware-car-anti-theft-device-hack-400-linux-kernel-flaws/",
-            "summary": "",
-            "published_utc": "2026-07-24T14:20:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Chick-fil-A data breach affects more than 13,000 customers",
             "link": "https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/",
@@ -269,7 +325,7 @@
         },
         {
             "source": "ZDNet Security",
-            "title": "I tested Dell's new midrange work PC - It nails the sweet spot of price and performance",
+            "title": "I tested Dell's new midrange work PC - it nails the sweet spot of price and performance",
             "link": "https://www.zdnet.com/article/dell-14s-review/",
             "summary": "Dell's 14S pairs a sleek design with excellent battery life, making it one of the best midrange PC I've tested in 2026.",
             "published_utc": "2026-07-24T13:53:00+00:00"
@@ -303,25 +359,11 @@
             "published_utc": "2026-07-24T12:05:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "AegisAI Raises $36 Million for AI-Powered Email Security",
-            "link": "https://www.securityweek.com/aegisai-raises-36-million-for-ai-powered-email-security/",
-            "summary": "",
-            "published_utc": "2026-07-24T12:01:18+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Hotel Wi-Fi Routers Compromised to Steal Corporate Login Credentials From Visitors",
             "link": "https://www.infosecurity-magazine.com/news/hotel-wifi-dns-poisoning/",
             "summary": "Researchers at ReliaQuest warned of widespread DNS poisoning attacks targeting the hospitality sector as part of a cyber espionage campaign",
             "published_utc": "2026-07-24T12:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Industry Reactions to OpenAI Models Hacking Hugging Face: Feedback Friday",
-            "link": "https://www.securityweek.com/industry-reactions-to-openai-models-hacking-hugging-face-feedback-friday/",
-            "summary": "",
-            "published_utc": "2026-07-24T11:19:46+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -408,13 +450,6 @@
             "published_utc": "2026-07-24T00:29:34+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "New Dolphin X malware uses AI to rank high-value targets",
-            "link": "https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/",
-            "summary": "A new Dolphin X remote access trojan claims to use an AI-powered profiling feature to score and rank infected users, helping cybercriminals identify w...",
-            "published_utc": "2026-07-23T21:20:34+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Check Point hole grants unauthenticated attackers full SmartConsole admin privileges",
             "link": "https://www.csoonline.com/article/4200913/check-point-hole-grants-unauthenticated-attackers-full-smartconsole-admin-privileges.html",
@@ -429,32 +464,11 @@
             "published_utc": "2026-07-23T19:14:31+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "These 3 Fire TV Sticks are on sale at Best Buy - here's the one I recommend (and why)",
-            "link": "https://www.zdnet.com/article/fire-tv-stick-deals-best-buy-black-friday-in-july/",
-            "summary": "Fire TV Sticks are back down to all-time low prices for Best Buy's Black Friday in July sale. We'll break down just how good of a deal you can get.",
-            "published_utc": "2026-07-23T18:46:50+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "For Taylor Swift, Madison Square Garden’s Controversial Cameras Briefly Went Dark",
             "link": "https://www.wired.com/story/for-taylor-swift-madison-square-gardens-controversial-cameras-briefly-went-dark/",
             "summary": "MSG’s sprawling surveillance system can monitor guests down to the second. Its owners made an exception for the pop star’s rehearsal dinner.",
             "published_utc": "2026-07-23T18:18:46+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Dell just dropped the price of this award-winning laptop to 50% off - and I highly recommend it",
-            "link": "https://www.zdnet.com/article/dell-14-plus-deal/",
-            "summary": "We granted the Dell 14 Plus an Editors' Choice award for great hardware and design. Now, the high-end version of the PC is over $1,000 off.",
-            "published_utc": "2026-07-23T18:14:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Best Buy is selling the LG C5 OLED for nearly 50% off - and I recommend it",
-            "link": "https://www.zdnet.com/article/lg-c5-65-inch-oled-tv-best-buy-deal/",
-            "summary": "It may be one generation behind, but the LG C5 OLED TV still offers plenty of reasons to pick one up, especially at this price during the Black Friday...",
-            "published_utc": "2026-07-23T16:45:20+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -609,13 +623,6 @@
             "link": "https://www.csoonline.com/article/4188581/10-survival-tips-for-csos-who-report-to-the-ceo.html",
             "summary": "",
             "published_utc": "2026-07-22T07:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "New CISO appointments 2026",
-            "link": "https://www.csoonline.com/article/4186743/new-ciso-appointments-2026.html",
-            "summary": "",
-            "published_utc": "2026-07-22T06:30:00+00:00"
         },
         {
             "source": "KrebsOnSecurity",
@@ -2723,13 +2730,6 @@
             "link": "https://www.infosecurity-magazine.com/news/researchers-cypherloc-scareware/",
             "summary": "Barracuda reveals new CypherLoc scareware has featured in nearly three million attacks",
             "published_utc": "2026-05-20T10:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Verizon DBIR: Vulnerability Exploits Overtake Credentials as Top Access Vector",
-            "link": "https://www.infosecurity-magazine.com/news/verizon-dbir-exploits-top-access/",
-            "summary": "Verizon DBIR finds 31% of data breaches began with software flaws last year",
-            "published_utc": "2026-05-20T08:40:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
