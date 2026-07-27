@@ -1,6 +1,62 @@
 {
-    "lastUpdatedUTC": "2026-07-27T14:36:25.789788+00:00",
+    "lastUpdatedUTC": "2026-07-27T16:58:18.507236+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "I tested a new Debian Linux loaded with local AI - see if it's right for you",
+            "link": "https://www.zdnet.com/article/shadowfetch-debian-linux-with-local-ai/",
+            "summary": "Meet Shadowfetch: If AI is your jam and Linux is your OS, here's the best way to give this new Debian-based distribution a try.",
+            "published_utc": "2026-07-27T16:53:13+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Costco will take your old tech and gift you a gift card - here's what to know",
+            "link": "https://www.zdnet.com/article/costco-trade-in-offer-old-tech/",
+            "summary": "Got old gadgets lying around? Trade them in for gift cards at Costco - no membership required.",
+            "published_utc": "2026-07-27T16:01:10+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Is open source the answer to rogue AI agents? Nvidia's new alliance says yes",
+            "link": "https://www.zdnet.com/article/is-open-source-the-answer-to-rogue-ai-security-incidents-nvidia-thinks-so/",
+            "summary": "As AI cybersecurity incidents ramp up, companies are racing to find a fix.",
+            "published_utc": "2026-07-27T15:52:15+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Coca-Cola confirms data theft in Fairlife ransomware attack",
+            "link": "https://www.bleepingcomputer.com/news/security/coca-cola-confirms-data-theft-in-fairlife-ransomware-attack/",
+            "summary": "The Coca-Cola Company has confirmed that hackers stole data from its dairy subsidiary, Fairlife, during a ransomware attack earlier this month. [...]",
+            "published_utc": "2026-07-27T15:39:51+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Ernst & Young data breach claimed by ShinyHunters extortion gang",
+            "link": "https://www.bleepingcomputer.com/news/security/ernst-and-young-data-breach-claimed-by-shinyhunters-extortion-gang/",
+            "summary": "The ShinyHunters extortion gang has claimed responsibility for a recently disclosed Ernst & Young data breach, saying it obtained credentials for some...",
+            "published_utc": "2026-07-27T15:12:27+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I tried Framework's premium 'Linux-first' laptop: consider the bar raised",
+            "link": "https://www.zdnet.com/article/framework-laptop-13-pro-review/",
+            "summary": "Framework compiled user feedback to create the new Laptop 13 Pro, a sleek device with a haptic touchpad and excellent battery life.",
+            "published_utc": "2026-07-27T15:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Claude AI shared chats indexed by Google - see if your conversations were exposed",
+            "link": "https://www.zdnet.com/article/claude-ai-shared-chats-indexed-by-google/",
+            "summary": "Google wasn't supposed to see them, but then everyone on Reddit did. Here's how to handle the situation.",
+            "published_utc": "2026-07-27T14:58:25+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The best laptop docking stations you can buy: Expert tested",
+            "link": "https://www.zdnet.com/article/best-laptop-docking-station/",
+            "summary": "Organize your workspace with our top picks for the best laptop docking stations available now.",
+            "published_utc": "2026-07-27T14:49:24+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "New GitHub, PyPI Policies Boost Supply Chain Security",
@@ -77,13 +133,6 @@
             "link": "https://www.infosecurity-magazine.com/news/malvertising-builds-malware-in/",
             "summary": "Impersonating well-known cryptocurrency and trading sites, SourTrade has developed a novel technique to drop infostealers to victims",
             "published_utc": "2026-07-27T11:30:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Coca-Cola Confirms Data Breach After Fairlife Ransomware Attack",
-            "link": "https://www.securityweek.com/coca-cola-confirms-data-breach-after-fairlife-ransomware-attack/",
-            "summary": "",
-            "published_utc": "2026-07-27T11:29:03+00:00"
         },
         {
             "source": "CSO Online",
@@ -324,20 +373,6 @@
             "published_utc": "2026-07-24T14:01:11+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I tested Dell's new midrange work PC - it nails the sweet spot of price and performance",
-            "link": "https://www.zdnet.com/article/dell-14s-review/",
-            "summary": "Dell's 14S pairs a sleek design with excellent battery life, making it one of the best midrange PC I've tested in 2026.",
-            "published_utc": "2026-07-24T13:53:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I tested a $14 emergency radio with solar and hand-crank power - it's in my survival kit now",
-            "link": "https://www.zdnet.com/article/tiemahun-emergency-solar-hand-crank-noaa-radio-review/",
-            "summary": "AM/FM, NOAA weather band, solar and hand-crank charging, and a power bank - this tech is what actually works when the grid doesn't.",
-            "published_utc": "2026-07-24T13:31:17+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Europol flags 4,340 URLs for removal in 'The Com' crackdown",
             "link": "https://www.bleepingcomputer.com/news/security/europol-flags-4-340-urls-for-removal-in-the-com-crackdown/",
@@ -345,32 +380,11 @@
             "published_utc": "2026-07-24T12:56:53+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "4 little-known Google Calendar tricks I use to plan my workweek - and save time",
-            "link": "https://www.zdnet.com/article/google-calendar-tricks/",
-            "summary": "If you're only using Google Calendar to track events, you're missing some of its most useful features.",
-            "published_utc": "2026-07-24T12:17:03+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "250 Eiffel Towers' worth of waste: The AI boom's toxic hardware problem",
-            "link": "https://www.zdnet.com/article/ai-data-center-boom-e-waste-problem/",
-            "summary": "Chips, servers, cables, and more could compound an already massive problem - here's who it affects and what's being done about it.",
-            "published_utc": "2026-07-24T12:05:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Hotel Wi-Fi Routers Compromised to Steal Corporate Login Credentials From Visitors",
             "link": "https://www.infosecurity-magazine.com/news/hotel-wifi-dns-poisoning/",
             "summary": "Researchers at ReliaQuest warned of widespread DNS poisoning attacks targeting the hospitality sector as part of a cyber espionage campaign",
             "published_utc": "2026-07-24T12:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Man gets six years for hacking 750 women's Snapchat accounts",
-            "link": "https://www.bleepingcomputer.com/news/security/man-gets-six-years-for-hacking-750-womens-snapchat-accounts/",
-            "summary": "An Illinois man was sentenced on Tuesday to 76 months in prison and three years of supervised release for hacking the Snapchat accounts of over 750 wo...",
-            "published_utc": "2026-07-24T11:17:19+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -401,13 +415,6 @@
             "published_utc": "2026-07-24T10:23:03+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "One of these 13 gadgets could be the hero your junk drawer needs (here's why)",
-            "link": "https://www.zdnet.com/article/best-junk-drawer-gadgets-2026/",
-            "summary": "From tiny box cutters to bug-bite healers, these handy gadgets totally earn their place in your home for their form and function.",
-            "published_utc": "2026-07-24T10:00:39+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "Satellite Images Reveal How Suspected Scam Compounds Appear Out of Nowhere",
             "link": "https://www.wired.com/story/satellite-images-reveal-how-giant-scam-compounds-keep-on-expanding/",
@@ -415,25 +422,11 @@
             "published_utc": "2026-07-24T10:00:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "First look with the Galaxy Watch 9: I took it on a run in London - here's what I learned",
-            "link": "https://www.zdnet.com/article/galaxy-watch-9-first-look/",
-            "summary": "Samsung's Galaxy Watch 9 is light and comfortable, with helpful nudges to hydrate as you exercise.",
-            "published_utc": "2026-07-24T09:15:40+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Ransomware Attacks Targeting Universities on the Rise",
             "link": "https://www.infosecurity-magazine.com/news/university-ransomware-attacks-rise/",
             "summary": "Comparitech’s analysis of incidents in the first half of 2026 finds that the emergence of The Gentlemen ransomware has resulted in surge in attacks ag...",
             "published_utc": "2026-07-24T09:15:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Clop ransomware targets Windchill, FlexPLM in data theft attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-windchill-flexplm-in-data-theft-attacks/",
-            "summary": "The Clop ransomware gang (also tracked as Cl0p) is targeting Internet-exposed PTC Windchill and FlexPLM instances in a new data theft extortion campai...",
-            "published_utc": "2026-07-24T07:36:39+00:00"
         },
         {
             "source": "CSO Online",
