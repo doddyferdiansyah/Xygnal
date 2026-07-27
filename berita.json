@@ -1,6 +1,76 @@
 {
-    "lastUpdatedUTC": "2026-07-27T07:32:53.058949+00:00",
+    "lastUpdatedUTC": "2026-07-27T11:23:15.537951+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "OpenAI not part of the new Open Secure AI Alliance",
+            "link": "https://www.csoonline.com/article/4201761/openai-not-part-of-the-new-open-secure-ai-alliance.html",
+            "summary": "",
+            "published_utc": "2026-07-27T11:08:51+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Beelzebub Raises $3.4 Million for Hacker-Trapping Platform",
+            "link": "https://www.securityweek.com/beelzebub-raises-3-4-million-for-hacker-trapping-platform/",
+            "summary": "",
+            "published_utc": "2026-07-27T11:06:24+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Cognyte Sells a Mobile Cell Surveillance Van",
+            "link": "https://www.schneier.com/blog/archives/2026/07/cognyte-sells-a-mobile-cell-surveillance-van.html",
+            "summary": "",
+            "published_utc": "2026-07-27T11:04:30+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "What’s Hiding in Your Mobile Apps? Lookout MSEC Aims to Find Out",
+            "link": "https://www.securityweek.com/whats-hiding-in-your-mobile-apps-lookout-msec-aims-to-find-out/",
+            "summary": "",
+            "published_utc": "2026-07-27T11:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Hacked Public Wi-Fi Gateways Used to Harvest Corporate Credentials",
+            "link": "https://www.securityweek.com/hacked-public-wi-fi-gateways-used-to-harvest-corporate-credentials/",
+            "summary": "",
+            "published_utc": "2026-07-27T10:50:19+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Anthropic’s Opus 5 Nears Mythos 5 on Finding Bugs, but Falls Short on Exploits",
+            "link": "https://www.securityweek.com/anthropics-opus-5-nears-mythos-5-on-finding-bugs-but-falls-short-on-exploits/",
+            "summary": "",
+            "published_utc": "2026-07-27T10:02:41+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Ransomware Groups Increasingly Deploy EDR Kill Techniques",
+            "link": "https://www.infosecurity-magazine.com/news/ransomware-q2-2026-edr-kill/",
+            "summary": "Halcyon’s latest quarterly ransomware report showed that while ransomware attacks are declining, obfuscation techniques are getting harder to fight ag...",
+            "published_utc": "2026-07-27T10:01:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "The containment paradox: Why your ransomware playbook has the wrong people in charge",
+            "link": "https://www.csoonline.com/article/4200141/the-containment-paradox-why-your-ransomware-playbook-has-the-wrong-people-in-charge.html",
+            "summary": "",
+            "published_utc": "2026-07-27T10:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "DentaQuest Data Breach Potentially Impacts Over 23 Million People",
+            "link": "https://www.securityweek.com/dentaquest-data-breach-potentially-impacts-over-23-million-people/",
+            "summary": "",
+            "published_utc": "2026-07-27T09:34:12+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "When the hackers get hacked: The Klue breach and the new reality of third-party cyber risk",
+            "link": "https://www.csoonline.com/article/4200130/when-the-hackers-get-hacked-the-klue-breach-and-the-new-reality-of-third-party-cyber-risk.html",
+            "summary": "",
+            "published_utc": "2026-07-27T09:00:00+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "How CISOs can rise to the business resilience challenge",
@@ -331,13 +401,6 @@
             "published_utc": "2026-07-24T07:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Data Breach Confirmed After Australian Energy Giant Origin Is Hacked",
-            "link": "https://www.securityweek.com/data-breach-confirmed-after-australian-energy-giant-origin-is-hacked/",
-            "summary": "",
-            "published_utc": "2026-07-24T05:52:31+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "AgentForger proves AI agents can become persistent insider threats",
             "link": "https://www.csoonline.com/article/4200978/agentforger-proves-ai-agents-can-become-persistent-insider-threats.html",
@@ -408,39 +471,11 @@
             "published_utc": "2026-07-23T15:45:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "OpenAI Fixes ChatGPT Agent Flaw That Could Let Attackers Forge an AI Insider",
-            "link": "https://www.securityweek.com/openai-fixes-chatgpt-agent-flaw-that-could-let-attackers-forge-an-ai-insider/",
-            "summary": "",
-            "published_utc": "2026-07-23T15:09:59+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Is Patching Dead? Vulnerability Management in the Post-Mythos Era",
-            "link": "https://www.securityweek.com/is-patching-dead-vulnerability-management-in-the-post-mythos-era/",
-            "summary": "",
-            "published_utc": "2026-07-23T15:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Chick-fil-A Accounts Get Fried in Credential Stuffing Attack",
-            "link": "https://www.securityweek.com/chick-fil-a-accounts-get-fried-in-credential-stuffing-attack/",
-            "summary": "",
-            "published_utc": "2026-07-23T14:55:19+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Microsoft Copilot Deployments Delayed Over Security Concerns",
             "link": "https://www.infosecurity-magazine.com/news/microsoft-copilot-delayed-over/",
             "summary": "CoreView research finds that security leadership is concerned about AI Assistant exposing confidential data",
             "published_utc": "2026-07-23T14:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Abstract Raises $25 Million to Expand Composable Security Operations Platform",
-            "link": "https://www.securityweek.com/abstract-raises-25-million-to-expand-composable-security-operations-platform/",
-            "summary": "",
-            "published_utc": "2026-07-23T13:54:56+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -625,13 +660,6 @@
             "published_utc": "2026-07-21T12:00:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "AI agents can escape sandboxes without ever breaking them",
-            "link": "https://www.csoonline.com/article/4199408/ai-agents-can-escape-sandboxes-without-ever-breaking-them.html",
-            "summary": "",
-            "published_utc": "2026-07-21T11:46:02+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "MIT to Become Hotbed of AI Video Surveillance",
             "link": "https://www.schneier.com/blog/archives/2026/07/mit-to-become-hotbed-of-ai-video-surveillance.html",
@@ -658,20 +686,6 @@
             "link": "https://www.infosecurity-magazine.com/news/north-korean-clickfake-campaign/",
             "summary": "In a new campaign, North Korean hacking group Famous Chollima targeted crypto professionals through ClickFix lures to deliver Windows and macOS trojans",
             "published_utc": "2026-07-21T09:30:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Context bombing heralds a new AI era of deceptive defense",
-            "link": "https://www.csoonline.com/article/4198524/context-bombing-heralds-a-new-ai-era-of-deceptive-defense.html",
-            "summary": "",
-            "published_utc": "2026-07-21T07:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "White hat hacker Park Chan-am zeros in on the AI era’s key security challenges",
-            "link": "https://www.csoonline.com/article/4198528/security-in-the-age-of-ai-where-to-start-key-challenges-identified-by-white-hacker-ceo-park-chan-am.html",
-            "summary": "",
-            "published_utc": "2026-07-21T07:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -875,13 +889,6 @@
             "link": "https://www.infosecurity-magazine.com/news/progress-restores-sharefile/",
             "summary": "Progress has restored access to its ShareFile Storage Zones Controller after a four-day suspension triggered by a credible external security threat",
             "published_utc": "2026-07-15T12:00:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "A Video Screen That Is Also a Camera",
-            "link": "https://www.schneier.com/blog/archives/2026/07/a-video-screen-that-is-also-a-camera.html",
-            "summary": "",
-            "published_utc": "2026-07-15T11:04:06+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2730,13 +2737,6 @@
             "link": "https://www.welivesecurity.com/en/eset-research/webworm-new-burrowing-techniques/",
             "summary": "ESET researchers describe new tools and techniques that the Webworm APT group recently added to its arsenal",
             "published_utc": "2026-05-20T08:40:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Microsoft Takes Down Fox Tempest for Providing Ransomware-Enabling Signing Tool",
-            "link": "https://www.infosecurity-magazine.com/news/microsoft-takes-down-fox-tempest/",
-            "summary": "Microsoft’s Digital Crimes Unit has taken down the infrastructure of Fox Tempest, a prolific cybercrime-enabling threat group",
-            "published_utc": "2026-05-19T15:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
