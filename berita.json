@@ -1,6 +1,90 @@
 {
-    "lastUpdatedUTC": "2026-07-28T12:54:27.185806+00:00",
+    "lastUpdatedUTC": "2026-07-28T15:21:53.895235+00:00",
     "articles": [
+        {
+            "source": "InfosecurityMag",
+            "title": "Bugs in Hugging Face Diffusers Bypass Custom Code Safeguard",
+            "link": "https://www.infosecurity-magazine.com/news/hugging-face-diffusers-trust/",
+            "summary": "Three CVEs in Hugging Face diffusers let a malicious model repo run code on any machine that loads it",
+            "published_utc": "2026-07-28T15:15:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Cyera Acquiring Oasis Security in $1 Billion Deal",
+            "link": "https://www.securityweek.com/cyera-acquiring-oasis-security-in-1-billion-deal/",
+            "summary": "",
+            "published_utc": "2026-07-28T14:55:30+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "AI-Assisted Bug Hunt Uncovers Linux Kernel 0-Day in net/sched",
+            "link": "https://www.infosecurity-magazine.com/news/ai-linux-kernel-zero-day-net-sched/",
+            "summary": "AI-assisted research uncovered Linux kernel use-after-free allowing root escalation",
+            "published_utc": "2026-07-28T14:45:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Did ransomware attacks really decline? Here are your business' 4 best defenses",
+            "link": "https://www.zdnet.com/article/ransomware-attacks-decline-business-4-best-defenses/",
+            "summary": "Did it look like the ransomware threat was receding last year? New research suggests it was more of a reshuffle - and recommends renewed vigilance.",
+            "published_utc": "2026-07-28T14:21:25+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Apple Patches 87 Vulnerabilities in iOS, 155 in macOS Tahoe",
+            "link": "https://www.securityweek.com/apple-patches-87-vulnerabilities-in-ios-155-in-macos-tahoe/",
+            "summary": "",
+            "published_utc": "2026-07-28T14:19:31+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Is Your SSO Protected Against Modern Credential Attacks?",
+            "link": "https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/",
+            "summary": "A compromised SSO login can provide attackers with access to multiple enterprise applications and services. Specops Software explains how stronger pas...",
+            "published_utc": "2026-07-28T14:00:10+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I tested Sonos' new beta features on iOS and Android - how to opt in and what to expect",
+            "link": "https://www.zdnet.com/article/how-to-get-sonos-app-beta-ios-android/",
+            "summary": "Sonos's software comeback is nearly complete, with small but mighty fixes. Here's everything you need to know.",
+            "published_utc": "2026-07-28T14:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Why Apple's iOS 26.6 is worth installing (it's not just for the 91 security fixes)",
+            "link": "https://www.zdnet.com/article/apples-ios-26-6-siri-ai/",
+            "summary": "The latest update preps your phone for the new and improved Siri AI set to debut with iOS 27.",
+            "published_utc": "2026-07-28T13:59:33+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Token-maxing is an AI cost sink - how to use agents without busting your budget",
+            "link": "https://www.zdnet.com/article/token-maxing-ai-cost-sink-use-agents-without-busting-budget/",
+            "summary": "Professionals are burning through tokens, but smart business leaders are finding ways to balance costs and value creation.",
+            "published_utc": "2026-07-28T13:44:44+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "OT Security Startup Frenos Raises $1.52 Million",
+            "link": "https://www.securityweek.com/ot-security-startup-frenos-raises-1-52-million/",
+            "summary": "",
+            "published_utc": "2026-07-28T13:05:25+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Phishing Dominates as Initial Entry Method for Cyber-Attacks, as Hackers Hone Evasion Techniques",
+            "link": "https://www.infosecurity-magazine.com/news/phishing-dominates-initial-entry/",
+            "summary": "Analysis of real-life incident response cases by Cisco Talos warns that phishing remains a powerful method of initial compromise",
+            "published_utc": "2026-07-28T13:00:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Infoblox joins crowded EASM market with DNS-centric approach",
+            "link": "https://www.csoonline.com/article/4202205/infoblox-joins-crowded-easm-market-with-dns-centric-approach.html",
+            "summary": "",
+            "published_utc": "2026-07-28T13:00:00+00:00"
+        },
         {
             "source": "InfosecurityMag",
             "title": "Microsoft Launches Flurry of AI Security Initiatives to Combat AI-Enabled Threats",
@@ -163,25 +247,11 @@
             "published_utc": "2026-07-28T05:30:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Origin Energy Data Breach Affects 900,000 Australians",
-            "link": "https://www.securityweek.com/origin-energy-data-breach-affects-900000-australians/",
-            "summary": "",
-            "published_utc": "2026-07-28T05:01:05+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Hackers are compromising hotel Wi-Fi gateways to hijack Microsoft 365 accounts",
             "link": "https://www.csoonline.com/article/4202067/hackers-are-compromising-hotel-wi-fi-gateways-to-hijack-microsoft-365-accounts.html",
             "summary": "",
             "published_utc": "2026-07-28T02:28:22+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "For Some, So-Called ‘Skynet Day’ Came too Close to Sci-Fi After a Rogue Agent Hacked Into a Startup",
-            "link": "https://www.securityweek.com/for-some-so-called-skynet-day-came-too-close-to-sci-fi-after-a-rogue-agent-hacked-into-a-startup/",
-            "summary": "",
-            "published_utc": "2026-07-28T02:28:03+00:00"
         },
         {
             "source": "CSO Online",
@@ -192,8 +262,8 @@
         },
         {
             "source": "CSO Online",
-            "title": "Samsung’s AI-powered glasses could be looking at enterprise data",
-            "link": "https://www.csoonline.com/article/4201977/samsungs-entry-into-ai-powered-glasses-forces-cisos-to-again-consider-corporate-risk.html",
+            "title": "Samsung’s AI-powered glasses could be looking at your data",
+            "link": "https://www.csoonline.com/article/4201977/samsungs-ai-powered-glasses-could-be-looking-at-your-data.html",
             "summary": "",
             "published_utc": "2026-07-28T01:42:36+00:00"
         },
@@ -292,7 +362,7 @@
             "source": "ZDNet Security",
             "title": "I tried Framework's premium 'Linux-first' laptop: consider the bar raised",
             "link": "https://www.zdnet.com/article/framework-laptop-13-pro-review/",
-            "summary": "Framework compiled user feedback to create the new Laptop 13 Pro, a sleek device with a haptic touchpad and excellent battery life.",
+            "summary": "Framework compiled user feedback to create the new Laptop 13 Pro, a sleek device with great battery life. But you'll have to pay to play.",
             "published_utc": "2026-07-27T15:00:00+00:00"
         },
         {
@@ -308,13 +378,6 @@
             "link": "https://www.zdnet.com/article/best-laptop-docking-station/",
             "summary": "Organize your workspace with our top picks for the best laptop docking stations available now.",
             "published_utc": "2026-07-27T14:49:24+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "New GitHub, PyPI Policies Boost Supply Chain Security",
-            "link": "https://www.securityweek.com/new-github-pypi-policies-boost-supply-chain-security/",
-            "summary": "",
-            "published_utc": "2026-07-27T14:26:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -343,13 +406,6 @@
             "link": "https://www.zdnet.com/article/samsung-connectivity-labs-wifi-diagnostic-tool-fix-office-setup/",
             "summary": "There are some great non-Samsung alternatives, too.",
             "published_utc": "2026-07-27T12:15:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How would AI data centers in space even work? A former NASA robotics chief explains",
-            "link": "https://www.zdnet.com/article/how-would-ai-data-centers-in-space-even-work-a-former-nasa-robotics-chief-explains/",
-            "summary": "'You collect electricity in space, and you eject heat in space. The only thing that comes to Earth is data.'",
-            "published_utc": "2026-07-27T12:05:41+00:00"
         },
         {
             "source": "CSO Online",
@@ -415,20 +471,6 @@
             "published_utc": "2026-07-26T14:13:39+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Samsung Galaxy Z Fold 8 vs. Z Flip 8: How Samsung's two new foldables compare",
-            "link": "https://www.zdnet.com/article/samsung-galaxy-z-fold-8-vs-z-flip-8/",
-            "summary": "Samsung's new foldables are impressive, but how different are they really, by the specs? Let's compare.",
-            "published_utc": "2026-07-26T11:45:39+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Samsung Galaxy Z Fold 8 Ultra vs. Motorola Razr Ultra: How Samsung fares against its foldable rival",
-            "link": "https://www.zdnet.com/article/galaxy-z-fold-8-ultra-vs-motorola-razr-ultra-comparison/",
-            "summary": "Samsung isn't the only brand with flagship foldables. Here's how it compares to Motorola's Razr Ultra - one of my favorite phones of the year.",
-            "published_utc": "2026-07-26T08:00:40+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Steam forum ClickFix attacks infect gamers with XMRig cryptominers",
             "link": "https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/",
@@ -450,25 +492,11 @@
             "published_utc": "2026-07-25T14:16:26+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Samsung's new Ultra foldable is impressive, but I'd pay close attention to this model",
-            "link": "https://www.zdnet.com/article/samsung-galaxy-z-fold-8-ultra-hands-on/",
-            "summary": "The Galaxy Z Fold 8 Ultra is sure to impress power users, but Samsung took a risk with the Galaxy Z Fold 8, and it could pay off.",
-            "published_utc": "2026-07-25T12:15:45+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
             "link": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
             "summary": "Plus: Russian hackers are trying to steal US nuclear scientists’ emails, the State Department bans known scammers from entering the United States, and...",
             "published_utc": "2026-07-25T10:30:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "OpenAI confirms ChatGPT is down worldwide",
-            "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/",
-            "summary": "ChatGPT, the famous artificial intelligence chatbot that allows users to converse with various personalities and topics, has connectivity issues world...",
-            "published_utc": "2026-07-25T09:31:09+00:00"
         },
         {
             "source": "Schneier",
@@ -630,13 +658,6 @@
             "link": "https://www.csoonline.com/article/4200215/german-law-enforcement-claims-to-have-dismantled-mega-phishing-as-a-service-group-kratos.html",
             "summary": "",
             "published_utc": "2026-07-22T23:48:12+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Critical Zimbra security update fixes 9 vulnerabilities",
-            "link": "https://www.csoonline.com/article/4200221/critical-zimbra-security-update-fixes-9-vulnerabilities.html",
-            "summary": "",
-            "published_utc": "2026-07-22T20:26:09+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2709,27 +2730,6 @@
             "link": "https://www.infosecurity-magazine.com/news/threequarters-knowingly-ship/",
             "summary": "AI risks threaten to permeate supply chains through unvetted code and unaudited suppliers",
             "published_utc": "2026-05-21T13:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Nine-Year-Old Linux Kernel Flaw Leaks SSH Keys and Password Hashes",
-            "link": "https://www.infosecurity-magazine.com/news/linux-kernel-ptrace-flaw-ssh-keys/",
-            "summary": "Qualys finds nine-year-old Linux ptrace flaw exposing SSH keys and password hashes locally",
-            "published_utc": "2026-05-21T12:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Grafana Labs Says Code Breach Stemmed from TanStack Attack",
-            "link": "https://www.infosecurity-magazine.com/news/grafana-labs-code-breach-tanstack/",
-            "summary": "Grafana Labs has confirmed a recent data breach was caused by the TanStack supply chain attack",
-            "published_utc": "2026-05-21T08:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Android Malware Campaign Used Hundreds of Fake Apps to Silently Charge Users",
-            "link": "https://www.infosecurity-magazine.com/news/android-carrier-billing-fraud-four/",
-            "summary": "Premium Deception campaign uses 250 Android apps to silently sign victims up to paid services",
-            "published_utc": "2026-05-20T15:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
