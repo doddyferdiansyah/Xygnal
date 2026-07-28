@@ -1,6 +1,20 @@
 {
-    "lastUpdatedUTC": "2026-07-28T19:25:32.980313+00:00",
+    "lastUpdatedUTC": "2026-07-28T21:09:06.832938+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "OpenAI models used Artifactory zero-days to escape to the internet",
+            "link": "https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/",
+            "summary": "JFrog has confirmed that OpenAI models exploited zero-day vulnerabilities in self-hosted Artifactory servers to help escape an isolated testing enviro...",
+            "published_utc": "2026-07-28T20:37:06+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "12 keychain gadgets worth carrying every day (and why they're worth it)",
+            "link": "https://www.zdnet.com/article/best-keychain-gadgets-everyday-carry/",
+            "summary": "We test dozens of gadgets each year - these are some of our favorite keychain accessories we're still using.",
+            "published_utc": "2026-07-28T19:27:39+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "CISA shares advice on isolating vital systems during cyberattacks",
@@ -408,13 +422,6 @@
             "published_utc": "2026-07-27T15:12:27+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I tried Framework's premium 'Linux-first' laptop: consider the bar raised",
-            "link": "https://www.zdnet.com/article/framework-laptop-13-pro-review/",
-            "summary": "Framework compiled user feedback to create the new Laptop 13 Pro, a sleek device with great battery life. But you'll have to pay to play.",
-            "published_utc": "2026-07-27T15:00:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Shadow AI agents are multiplying. Here's how to find and secure them.",
             "link": "https://www.bleepingcomputer.com/news/security/shadow-ai-agents-are-multiplying-heres-how-to-find-and-secure-them/",
@@ -483,13 +490,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
             "summary": "GitHub and PyPI (Python Package Index) have introduced a time-based mechanism in the Dependabot dependency management tool to protect against supply-c...",
             "published_utc": "2026-07-26T14:13:39+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Steam forum ClickFix attacks infect gamers with XMRig cryptominers",
-            "link": "https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/",
-            "summary": "Steam discussion forums are being abused in ClickFix attacks that pretend to be fixes for game and computer problems but actually infect devices with ...",
-            "published_utc": "2026-07-25T22:37:47+00:00"
         },
         {
             "source": "WIRED Security",
