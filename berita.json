@@ -1,6 +1,20 @@
 {
-    "lastUpdatedUTC": "2026-07-27T22:08:40.457067+00:00",
+    "lastUpdatedUTC": "2026-07-28T00:03:12.765970+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers target US firms in FastJson RCE zero-day attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/",
+            "summary": "Hackers are actively exploiting a vulnerability in the FastJson open-source Java library, allowing remote code execution without user interaction or e...",
+            "published_utc": "2026-07-27T23:49:44+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Arista patches VeloCloud Orchestrator zero-day exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/",
+            "summary": "Arista has patched a maximum-severity command injection vulnerability in on-premises VeloCloud Orchestrator deployments that is being actively exploit...",
+            "published_utc": "2026-07-27T22:49:44+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "New Dysphoria DDoS botnet spreads to 200k devices worldwide",
@@ -373,25 +387,11 @@
             "published_utc": "2026-07-24T18:56:08+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Hackers hijack hotel Wi-Fi DNS to steal Microsoft 365 accounts",
-            "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/",
-            "summary": "Hackers are changing the DNS settings on Wi-Fi devices at hotels and conference centers to redirect users to fake Microsoft 365 login pages. [...]",
-            "published_utc": "2026-07-24T17:50:37+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "Claude Opus 5 arrives with near Fable performance at half the price",
             "link": "https://www.zdnet.com/article/claude-opus-5-near-fable-performance-at-half-the-price/",
             "summary": "Anthropic's latest Claude upgrade targets developers and enterprises with stronger coding, better reasoning efficiency, prompt-cache-friendly tool cha...",
             "published_utc": "2026-07-24T17:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft blames massive Microsoft 365 outage on maintenance bug",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/",
-            "summary": "Microsoft says a bug in its automated network maintenance request system caused Thursday's massive outage by mistakenly removing IP routes from more d...",
-            "published_utc": "2026-07-24T15:41:44+00:00"
         },
         {
             "source": "InfosecurityMag",
