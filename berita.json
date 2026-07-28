@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-07-28T17:35:18.110353+00:00",
+    "lastUpdatedUTC": "2026-07-28T19:25:32.980313+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "CISA shares advice on isolating vital systems during cyberattacks",
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/",
+            "summary": "The U.S. and Australian governments have released new guidance urging critical infrastructure organizations to prepare to isolate vital operational te...",
+            "published_utc": "2026-07-28T18:41:04+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "You can lease an iPhone through Klarna now - but should you? I did the math",
+            "link": "https://www.zdnet.com/article/should-you-finance-pay-in-full-or-apple-upgrade/",
+            "summary": "Apple Upgrade allows customers to lease their devices ahead of a future upgrade -- but does it make sense for you?",
+            "published_utc": "2026-07-28T18:40:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "vBulletin fixes critical pre-auth RCE flaw with public exploit",
+            "link": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
+            "summary": "A critical vulnerability in the vBulletin forum software allows unauthenticated attackers to execute arbitrary PHP code through template rendering. [...]",
+            "published_utc": "2026-07-28T18:08:50+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "How much storage does your phone really need in 2026? Probably less than you think",
@@ -394,13 +415,6 @@
             "published_utc": "2026-07-27T15:00:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Claude AI shared chats indexed by Google - see if your conversations were exposed",
-            "link": "https://www.zdnet.com/article/claude-ai-shared-chats-indexed-by-google/",
-            "summary": "Google wasn't supposed to see them, but then everyone on Reddit did. Here's how to handle the situation.",
-            "published_utc": "2026-07-27T14:58:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Shadow AI agents are multiplying. Here's how to find and secure them.",
             "link": "https://www.bleepingcomputer.com/news/security/shadow-ai-agents-are-multiplying-heres-how-to-find-and-secure-them/",
@@ -476,20 +490,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/",
             "summary": "Steam discussion forums are being abused in ClickFix attacks that pretend to be fixes for game and computer problems but actually infect devices with ...",
             "published_utc": "2026-07-25T22:37:47+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Malicious sites use JavaScript to build malware in browser memory",
-            "link": "https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/",
-            "summary": "A massive malvertising campaign is using fake Solana, Luno, and TradingView webpages with malicious JavaScript that instructs browsers to assemble mal...",
-            "published_utc": "2026-07-25T15:21:09+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "ShinyHunters data leaks fuel $2,000 sextortion email scam",
-            "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/",
-            "summary": "Threat actors are using email addresses exposed in data breaches leaked by the ShinyHunters extortion group to send sextortion emails demanding $2,000...",
-            "published_utc": "2026-07-25T14:16:26+00:00"
         },
         {
             "source": "WIRED Security",
