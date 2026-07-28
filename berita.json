@@ -1,6 +1,13 @@
 {
-    "lastUpdatedUTC": "2026-07-28T21:09:06.832938+00:00",
+    "lastUpdatedUTC": "2026-07-28T23:00:14.375036+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "CubePilot drone software dev hit by DNS hijacking to intercept traffic",
+            "link": "https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/",
+            "summary": "CubePilot, an Australian firm that designs flight controllers for drones (UAVs), announced a severe operational disruption caused by a DNS hijacking a...",
+            "published_utc": "2026-07-28T21:17:39+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "OpenAI models used Artifactory zero-days to escape to the internet",
@@ -483,13 +490,6 @@
             "link": "https://www.csoonline.com/article/4200382/how-cisos-can-rise-to-the-business-resilience-challenge.html",
             "summary": "",
             "published_utc": "2026-07-27T07:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "GitHub, PyPI add time-based defenses against supply chain attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
-            "summary": "GitHub and PyPI (Python Package Index) have introduced a time-based mechanism in the Dependabot dependency management tool to protect against supply-c...",
-            "published_utc": "2026-07-26T14:13:39+00:00"
         },
         {
             "source": "WIRED Security",
