@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2026-07-29T00:05:42.111575+00:00",
+    "lastUpdatedUTC": "2026-07-29T04:12:41.926038+00:00",
     "articles": [
+        {
+            "source": "Schneier",
+            "title": "Measuring LLMs’ Ability to Perform Cryptanalysis",
+            "link": "https://www.schneier.com/blog/archives/2026/07/measuring-llms-ability-to-perform-cryptanalysis.html",
+            "summary": "",
+            "published_utc": "2026-07-29T01:47:05+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Fortinet’s new FortiGate platform converges firewall, SASE technologies",
+            "link": "https://www.csoonline.com/article/4202566/fortinets-new-fortigate-platform-converges-firewall-sase-technologies-2.html",
+            "summary": "",
+            "published_utc": "2026-07-29T01:35:11+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "A 13-year-old flaw is exposing tens of thousands of data center management systems",
+            "link": "https://www.csoonline.com/article/4202530/a-13-year-old-flaw-is-exposing-tens-of-thousands-of-data-center-management-systems.html",
+            "summary": "",
+            "published_utc": "2026-07-29T01:34:10+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "The CSO’s blind spot: Why platform engineering 2.0 is now a security imperative",
+            "link": "https://www.csoonline.com/article/4202540/the-csos-blind-spot-why-platform-engineering-2-0-is-now-a-security-imperative.html",
+            "summary": "",
+            "published_utc": "2026-07-29T01:09:14+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Arista patches maximum severity vulnerability that is already being exploited",
+            "link": "https://www.csoonline.com/article/4202502/arista-patches-maximum-severity-vulnerability-that-is-already-being-exploited.html",
+            "summary": "",
+            "published_utc": "2026-07-29T00:43:54+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face",
+            "link": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
+            "summary": "In a new disclosure, OpenAI says its agent used exposed logins to gain access to at least four “publicly available services” in its unhinged quest to ...",
+            "published_utc": "2026-07-29T00:15:30+00:00"
+        },
         {
             "source": "WIRED Security",
             "title": "A Typo Landed an Innocent Gamer in Prison for 18 Months",
@@ -583,13 +625,6 @@
             "published_utc": "2026-07-23T20:14:58+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "4 ways AI-driven defense is rewriting the cybersecurity playbook",
-            "link": "https://www.csoonline.com/article/4200895/4-ways-ai-driven-defense-is-rewriting-the-cybersecurity-playbook-2.html",
-            "summary": "",
-            "published_utc": "2026-07-23T19:14:31+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "For Taylor Swift, Madison Square Garden’s Controversial Cameras Briefly Went Dark",
             "link": "https://www.wired.com/story/for-taylor-swift-madison-square-gardens-controversial-cameras-briefly-went-dark/",
@@ -602,13 +637,6 @@
             "link": "https://www.infosecurity-magazine.com/news/russian-hackers-zero-click/",
             "summary": "International agencies issue joint alert over state-backed campaign exploiting a critical vulnerability in the Zimbra Collaboration Suite",
             "published_utc": "2026-07-23T15:50:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Linux XFS has a decade-old race condition allowing full root access",
-            "link": "https://www.csoonline.com/article/4200808/linux-xfs-has-a-decade-old-race-condition-allowing-full-root-access-2.html",
-            "summary": "",
-            "published_utc": "2026-07-23T15:45:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -651,20 +679,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ai-boosts-ransomware-effectiveness/",
             "summary": "A new study of organizations which have fallen victim to ransomware suggests the rise of AI-tools being used by hackers is making life harder for defe...",
             "published_utc": "2026-07-23T08:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Microsoft’s 3-day patching directive comes with added operational risk",
-            "link": "https://www.csoonline.com/article/4200366/microsofts-3-day-patching-directive-comes-with-added-operational-risk.html",
-            "summary": "",
-            "published_utc": "2026-07-23T07:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "German law enforcement claims to have ‘dismantled’ mega phishing-as-a-service group Kratos",
-            "link": "https://www.csoonline.com/article/4200215/german-law-enforcement-claims-to-have-dismantled-mega-phishing-as-a-service-group-kratos.html",
-            "summary": "",
-            "published_utc": "2026-07-22T23:48:12+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -868,13 +882,6 @@
             "link": "https://www.infosecurity-magazine.com/news/23andme-18m-data-breach-settlement/",
             "summary": "23andMe has agreed to an $18m settlement with 42 US attorneys general over its 2023 data breach, including enhanced data protection requirements",
             "published_utc": "2026-07-17T14:30:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Details of Alan Turing’s Voice Encryption System",
-            "link": "https://www.schneier.com/blog/archives/2026/07/details-of-alan-turings-voice-encryption-system.html",
-            "summary": "",
-            "published_utc": "2026-07-17T11:02:21+00:00"
         },
         {
             "source": "WIRED Security",
@@ -1799,13 +1806,6 @@
             "link": "https://www.infosecurity-magazine.com/news/klue-breach-compromise/",
             "summary": "At least four cybersecurity firms confirmed they have been affected by a breach of business intelligence platform Klue via Salesforce integration",
             "published_utc": "2026-06-22T10:15:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "World Cup Scams Are Getting Harder to Spot",
-            "link": "https://www.wired.com/story/world-cup-scams-are-getting-harder-to-spot/",
-            "summary": "From fake tickets to cloned websites, AI is magnifying World Cup scams. Can fans distinguish between what’s real and what’s not?",
-            "published_utc": "2026-06-22T09:30:00+00:00"
         },
         {
             "source": "InfosecurityMag",
