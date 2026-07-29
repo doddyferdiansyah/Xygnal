@@ -1,6 +1,69 @@
 {
-    "lastUpdatedUTC": "2026-07-29T13:01:21.639644+00:00",
+    "lastUpdatedUTC": "2026-07-29T15:49:43.178693+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "Mythos takes its first shot at post-quantum cryptography",
+            "link": "https://www.csoonline.com/article/4202920/mythos-takes-its-first-shot-at-post-quantum-cryptography.html",
+            "summary": "",
+            "published_utc": "2026-07-29T15:17:06+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Russian-Alligned TA488 Returns With Persistent Outlook Web Access Attack",
+            "link": "https://www.infosecurity-magazine.com/news/ta488-outlook-half-click-owareaper/",
+            "summary": "TA488 returned with OWA half-click exploit deploying OWAReaper implant that survived re-imaging",
+            "published_utc": "2026-07-29T15:10:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Open weights vs. closed: An AI civil war's afoot, and the stakes are existential",
+            "link": "https://www.zdnet.com/article/open-weight-ai-civil-war/",
+            "summary": "It started as China vs. the US, but it's become a face-off between two fundamentally different ways of building LLMs. And the safety of everything is ...",
+            "published_utc": "2026-07-29T15:00:45+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers target over 30 Minnesota water utilities in coordinated OT attack",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/",
+            "summary": "The Minnesota IT Services (MNIT) agency activated its cybersecurity incident response capabilities across the entire state after hackers targeted more...",
+            "published_utc": "2026-07-29T14:55:57+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Your AI Agents Are Guessing at Scale: Permissions Decide the Damage",
+            "link": "https://www.bleepingcomputer.com/news/security/your-ai-agents-are-guessing-at-scale-permissions-decide-the-damage/",
+            "summary": "AI agents are designed to improvise as they complete tasks, making broad permissions a growing security risk. Token Security explains why identity, in...",
+            "published_utc": "2026-07-29T14:02:12+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Windows 11 KB5101684 update released with 42 changes and fixes",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101684-update-released-with-42-changes-and-fixes/",
+            "summary": "​​Microsoft has released the KB5101684 preview cumulative update for Windows 11 24H2 and 25H2, which 42 bug fixes and additional feature improvements ...",
+            "published_utc": "2026-07-29T13:56:22+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "US Bans Foreign-Made Humanoid Robots, Targeting China Over National Security",
+            "link": "https://www.securityweek.com/us-bans-foreign-made-humanoid-robots-targeting-china-over-national-security/",
+            "summary": "",
+            "published_utc": "2026-07-29T13:31:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I tested a premium Linux laptop that's as light as it is powerful - here's why I love it",
+            "link": "https://www.zdnet.com/article/kubuntu-focus-air-gen-1-review/",
+            "summary": "The Ar Gen 1 is an impressive device, suitable for anyone from students to developers to business owners.",
+            "published_utc": "2026-07-29T13:15:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How to remap the Windows 11 Copilot key and restore your missing Right Ctrl button",
+            "link": "https://www.zdnet.com/article/remap-windows-copilot-key/",
+            "summary": "Pressing the Copilot key on your laptop keyboard launches Copilot. But whether or not you use Microsoft's AI, you can remap the key to trigger a diffe...",
+            "published_utc": "2026-07-29T13:01:00+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "OpenAI rogue AI agent’s attack expanded beyond Hugging Face",
@@ -24,10 +87,10 @@
         },
         {
             "source": "ZDNet Security",
-            "title": "75% of workers ask AI questions instead of colleagues - with potentially serious consequences",
-            "link": "https://www.zdnet.com/article/75-of-workers-ask-ai-questions-instead-of-colleagues/",
+            "title": "74% of workers ask AI questions instead of colleagues - with potentially serious consequences",
+            "link": "https://www.zdnet.com/article/74-of-workers-ask-ai-questions-instead-of-colleagues/",
             "summary": "A series of studies revealed that employees are spending less time asking their coworkers for help. Here's how that tactic could backfire and how orga...",
-            "published_utc": "2026-07-29T12:19:27+00:00"
+            "published_utc": "2026-07-29T12:19:00+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -290,13 +353,6 @@
         },
         {
             "source": "ZDNet Security",
-            "title": "How to remap the Copilot key on your keyboard to something more helpful",
-            "link": "https://www.zdnet.com/article/remap-copilot-key/",
-            "summary": "Pressing the Copilot key on your laptop keyboard launches Copilot. But whether or not you use Microsoft's AI, you can remap the key to trigger a diffe...",
-            "published_utc": "2026-07-28T15:58:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
             "title": "Is your smart TV a secret proxy? LG to suspend rogue apps, Samsung sets impacted too",
             "link": "https://www.zdnet.com/article/smart-tv-secret-proxy-lg-to-suspend-rogue-apps/",
             "summary": "One of your smart TV's apps could be relaying someone else's internet traffic. Here's how to check if you're affected.",
@@ -308,13 +364,6 @@
             "link": "https://www.infosecurity-magazine.com/news/hugging-face-diffusers-trust/",
             "summary": "Three CVEs in Hugging Face diffusers let a malicious model repo run code on any machine that loads it",
             "published_utc": "2026-07-28T15:15:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Cyera Acquiring Oasis Security in $1 Billion Deal",
-            "link": "https://www.securityweek.com/cyera-acquiring-oasis-security-in-1-billion-deal/",
-            "summary": "",
-            "published_utc": "2026-07-28T14:55:30+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -356,7 +405,7 @@
             "title": "Token-maxing is an AI cost sink - how to use agents without busting your budget",
             "link": "https://www.zdnet.com/article/token-maxing-ai-cost-sink-use-agents-without-busting-budget/",
             "summary": "Professionals are burning through tokens, but smart business leaders are finding ways to balance costs and value creation.",
-            "published_utc": "2026-07-28T13:44:44+00:00"
+            "published_utc": "2026-07-28T13:44:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -399,13 +448,6 @@
             "link": "https://www.zdnet.com/article/aio-launcher-is-the-coolest-minimal-launcher/",
             "summary": "A minimal Android launcher can simplify your phone interactions, but simple doesn't have to mean boring.",
             "published_utc": "2026-07-28T12:16:20+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "My 5 favorite Windows Insider features in 2026 so far",
-            "link": "https://www.zdnet.com/article/my-5-favorite-windows-insider-features-in-2026-so-far/",
-            "summary": "Microsoft's Windows 11 insider builds let you preview and try upcoming new features and settings. Here are my five favorites this year so far and how ...",
-            "published_utc": "2026-07-28T12:14:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -534,27 +576,6 @@
             "published_utc": "2026-07-27T20:08:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Apple sued over fake App Store crypto wallet app stealing $1.8M in Bitcoin",
-            "link": "https://www.bleepingcomputer.com/news/apple/apple-sued-over-fake-app-store-crypto-wallet-app-stealing-18m-in-bitcoin/",
-            "summary": "Apple is being sued by three people who claim approximately $1.8 million in Bitcoin was stolen after downloading and using a fraudulent Sparrow Wallet...",
-            "published_utc": "2026-07-27T17:29:07+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Coca-Cola confirms data theft in Fairlife ransomware attack",
-            "link": "https://www.bleepingcomputer.com/news/security/coca-cola-confirms-data-theft-in-fairlife-ransomware-attack/",
-            "summary": "The Coca-Cola Company has confirmed that hackers stole data from its dairy subsidiary, Fairlife, during a ransomware attack earlier this month. [...]",
-            "published_utc": "2026-07-27T15:39:51+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Ernst & Young data breach claimed by ShinyHunters extortion gang",
-            "link": "https://www.bleepingcomputer.com/news/security/ernst-and-young-data-breach-claimed-by-shinyhunters-extortion-gang/",
-            "summary": "The ShinyHunters extortion gang has claimed responsibility for a recently disclosed Ernst & Young data breach, saying it obtained credentials for some...",
-            "published_utc": "2026-07-27T15:12:27+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Certighost haunts Microsoft Active Directory Certificate Services",
             "link": "https://www.csoonline.com/article/4201771/certighost-haunts-microsoft-active-directory-certificate-services.html",
@@ -602,13 +623,6 @@
             "link": "https://www.csoonline.com/article/4200130/when-the-hackers-get-hacked-the-klue-breach-and-the-new-reality-of-third-party-cyber-risk.html",
             "summary": "",
             "published_utc": "2026-07-27T09:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "How CISOs can rise to the business resilience challenge",
-            "link": "https://www.csoonline.com/article/4200382/how-cisos-can-rise-to-the-business-resilience-challenge.html",
-            "summary": "",
-            "published_utc": "2026-07-27T07:00:00+00:00"
         },
         {
             "source": "WIRED Security",
@@ -2709,13 +2723,6 @@
             "link": "https://www.infosecurity-magazine.com/news/how-fraudsters-target-f1-fans/",
             "summary": "From fake F1 streams to counterfeit merch, fraudsters are exploiting fans online and the Bitdefender Cybersecurity Grand Prix Fan Threat Index details...",
             "published_utc": "2026-05-25T09:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Fake Gemini and Claude Code Sites Spread Infostealers Through SEO Poisoning",
-            "link": "https://www.infosecurity-magazine.com/news/gemini-claude-infostealers-seo/",
-            "summary": "The infostealer payload in this campaign collect a vast amount of data, from collaboration authentication keys to cryptocurrency wallets",
-            "published_utc": "2026-05-22T11:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
