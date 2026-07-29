@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-07-29T15:49:43.178693+00:00",
+    "lastUpdatedUTC": "2026-07-29T17:15:48.615100+00:00",
     "articles": [
+        {
+            "source": "Schneier",
+            "title": "Measuring the Tendency of AI Agents to Go Rogue",
+            "link": "https://www.schneier.com/blog/archives/2026/07/measuring-the-tendency-of-ai-agents-to-go-rogue.html",
+            "summary": "",
+            "published_utc": "2026-07-29T17:07:53+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "OpenAI agent used exposed credentials at 4 services in Hugging Face breach",
+            "link": "https://www.bleepingcomputer.com/news/security/openai-agent-used-exposed-credentials-at-4-services-in-hugging-face-breach/",
+            "summary": "In a new update, OpenAI says its AI models also used publicly exposed credentials to compromise accounts on four third-party services during the recen...",
+            "published_utc": "2026-07-29T16:04:59+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "LogoKit Phishing Kit Screenshots Victim Sites in Real Time",
+            "link": "https://www.infosecurity-magazine.com/news/logokit-phishing-real-time/",
+            "summary": "LogoKit now builds per-victim phishing pages using live screenshots of the target's real website",
+            "published_utc": "2026-07-29T16:00:00+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "Mythos takes its first shot at post-quantum cryptography",
@@ -555,13 +576,6 @@
             "published_utc": "2026-07-27T21:08:15+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "New Certighost PoC exploit lets attackers hijack Windows domains",
-            "link": "https://www.bleepingcomputer.com/news/security/new-certighost-poc-exploit-lets-attackers-hijack-windows-domains/",
-            "summary": "A proof-of-concept exploit for \"Certighost,\" a Windows Active Directory Certificate Services vulnerability, has been released that can allow authentic...",
-            "published_utc": "2026-07-27T21:00:25+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "DHS Official Resigns, Citing ‘War on Immigrants’",
             "link": "https://www.wired.com/story/dhs-official-resigns-citing-war-on-immigrants/",
@@ -868,13 +882,6 @@
             "link": "https://www.infosecurity-magazine.com/news/hollowgraph-microsoft-calendars/",
             "summary": "Researchers have linked HollowGraph malware to the Cavern framework after discovering its use of Microsoft 365 calendars and Microsoft Graph APIs as a...",
             "published_utc": "2026-07-20T12:30:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "On Flock License Plate Tracking Cameras",
-            "link": "https://www.schneier.com/blog/archives/2026/07/on-flock-license-plate-tracking-cameras.html",
-            "summary": "",
-            "published_utc": "2026-07-20T11:03:45+00:00"
         },
         {
             "source": "WIRED Security",
@@ -2716,13 +2723,6 @@
             "link": "https://www.infosecurity-magazine.com/news/fbi-kali365-phishing-kit-m365/",
             "summary": "The Kali365 phishing-as-a-service platform lowers the barrier of entry for cybercriminals, said the FBI",
             "published_utc": "2026-05-25T09:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Fake Streams, Counterfeit Merch and Other Scams: How Fraudsters Target F1 Fans",
-            "link": "https://www.infosecurity-magazine.com/news/how-fraudsters-target-f1-fans/",
-            "summary": "From fake F1 streams to counterfeit merch, fraudsters are exploiting fans online and the Bitdefender Cybersecurity Grand Prix Fan Threat Index details...",
-            "published_utc": "2026-05-25T09:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
