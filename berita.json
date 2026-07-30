@@ -1,6 +1,69 @@
 {
-    "lastUpdatedUTC": "2026-07-30T06:29:21.140337+00:00",
+    "lastUpdatedUTC": "2026-07-30T09:31:40.246851+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "1 in 5 Data Center Assets Are Within Easy Reach of Attackers",
+            "link": "https://www.securityweek.com/1-in-5-data-center-assets-are-within-easy-reach-of-attackers/",
+            "summary": "",
+            "published_utc": "2026-07-30T09:28:37+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Google Releases Patches for 370 Vulnerabilities in Chrome 151",
+            "link": "https://www.infosecurity-magazine.com/news/google-patches-370-vulnerabilities/",
+            "summary": "The new version of Chrome, 151, comes with 370 vulnerability patches, including for seven critical flaws",
+            "published_utc": "2026-07-30T09:15:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How to qualify for Apple's education discount - and get a $499 MacBook Neo for school",
+            "link": "https://www.zdnet.com/article/macbook-neo-499-educational-price-how-to/",
+            "summary": "Apple's budget MacBook Neo is already affordable, but if you're an educator or student, you can get one for even less.",
+            "published_utc": "2026-07-30T09:00:44+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "This docking station's 'hidden compartment' disrupted my desktop - for the better",
+            "link": "https://www.zdnet.com/article/satechi-thunderbolt-5-cubedock-review/",
+            "summary": "Satechi's CubeDock combines a high-speed docking station with a built-in SSD enclosure - and it works so well.",
+            "published_utc": "2026-07-30T08:45:54+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "NCSC Calls on Vendors to Embed ‘Forensic Observability’ in Network Devices",
+            "link": "https://www.infosecurity-magazine.com/news/ncsc-calls-device-manufacturers/",
+            "summary": "The UK’s National Cyber Security Centre wants network device makers to improve forensic observability",
+            "published_utc": "2026-07-30T08:25:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "A Scattered Spider member was indicted. Microsoft’s GDID went to trial.",
+            "link": "https://www.csoonline.com/article/4203079/a-scattered-spider-member-was-indicted-microsofts-gdid-went-to-trial.html",
+            "summary": "",
+            "published_utc": "2026-07-30T08:25:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "US and Allies Update SBOM Guidance",
+            "link": "https://www.securityweek.com/us-and-allies-update-sbom-guidance/",
+            "summary": "",
+            "published_utc": "2026-07-30T08:21:19+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Chrome 151 Patches 370 Vulnerabilities",
+            "link": "https://www.securityweek.com/chrome-151-patches-370-vulnerabilities/",
+            "summary": "",
+            "published_utc": "2026-07-30T07:51:24+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Cisco Secure FMC Zero-Day Exploited in the Wild",
+            "link": "https://www.securityweek.com/cisco-secure-fmc-zero-day-exploited-in-the-wild/",
+            "summary": "",
+            "published_utc": "2026-07-30T06:31:31+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "CISA unveils a six-step blueprint for isolating critical infrastructure during cyberattacks",
@@ -268,13 +331,6 @@
             "published_utc": "2026-07-29T09:15:40+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Spur Raises $200 Million for IP Intelligence Platform",
-            "link": "https://www.securityweek.com/spur-raises-200-million-for-ip-intelligence-platform/",
-            "summary": "",
-            "published_utc": "2026-07-29T09:12:19+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Risk-based patching is the future. AI made it table stakes",
             "link": "https://www.csoonline.com/article/4202381/risk-based-patching-is-the-future-ai-made-it-table-stakes.html",
@@ -287,13 +343,6 @@
             "link": "https://www.wired.com/story/ices-new-detention-contracts-declare-state-law-shall-not-apply/",
             "summary": "One day after a federal judge ordered an ICE detention center opened to state health inspectors, the agency posted new contract terms that would void ...",
             "published_utc": "2026-07-29T09:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "JFrog Zero-Days Exploited in OpenAI-Hugging Face Hack",
-            "link": "https://www.securityweek.com/jfrog-zero-days-exploited-in-openai-hugging-face-hack/",
-            "summary": "",
-            "published_utc": "2026-07-29T08:46:30+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -317,25 +366,11 @@
             "published_utc": "2026-07-29T08:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Dozens of Minnesota Water Utilities Targeted in Coordinated OT Attacks",
-            "link": "https://www.securityweek.com/dozens-of-minnesota-water-utilities-targeted-in-coordinated-ot-attacks/",
-            "summary": "",
-            "published_utc": "2026-07-29T07:53:22+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Ransomware report: VPNs in the crosshairs, AI attacks",
             "link": "https://www.csoonline.com/article/4201372/ransomware-report-vpns-in-the-crosshairs-ai-attacks.html",
             "summary": "",
             "published_utc": "2026-07-29T07:30:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "ShinyHunters Claims Ernst & Young Hack",
-            "link": "https://www.securityweek.com/shinyhunters-claims-ernst-young-hack/",
-            "summary": "",
-            "published_utc": "2026-07-29T06:23:34+00:00"
         },
         {
             "source": "Schneier",
@@ -464,25 +499,11 @@
             "published_utc": "2026-07-28T14:45:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Did ransomware attacks really decline? Here are your business' 4 best defenses",
-            "link": "https://www.zdnet.com/article/ransomware-attacks-decline-business-4-best-defenses/",
-            "summary": "Did it look like the ransomware threat was receding last year? New research suggests it was more of a reshuffle - and recommends renewed vigilance.",
-            "published_utc": "2026-07-28T14:21:25+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Is Your SSO Protected Against Modern Credential Attacks?",
             "link": "https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/",
             "summary": "A compromised SSO login can provide attackers with access to multiple enterprise applications and services. Specops Software explains how stronger pas...",
             "published_utc": "2026-07-28T14:00:10+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I tested Sonos' new beta features on iOS and Android - how to opt in and what to expect",
-            "link": "https://www.zdnet.com/article/how-to-get-sonos-app-beta-ios-android/",
-            "summary": "Sonos's software comeback is nearly complete, with small but mighty fixes. Here's everything you need to know.",
-            "published_utc": "2026-07-28T14:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -630,13 +651,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ransomware-q2-2026-edr-kill/",
             "summary": "Halcyon’s latest quarterly ransomware report showed that while ransomware attacks are declining, obfuscation techniques are getting harder to fight ag...",
             "published_utc": "2026-07-27T10:01:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "The containment paradox: Why your ransomware playbook has the wrong people in charge",
-            "link": "https://www.csoonline.com/article/4200141/the-containment-paradox-why-your-ransomware-playbook-has-the-wrong-people-in-charge.html",
-            "summary": "",
-            "published_utc": "2026-07-27T10:00:00+00:00"
         },
         {
             "source": "WIRED Security",
@@ -2704,25 +2718,11 @@
             "published_utc": "2026-05-26T10:30:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "Iran-Linked Hackers Target US Aviation with Phishing and SEO Poisoning Campaign",
-            "link": "https://www.infosecurity-magazine.com/news/iranian-hackers-us-aviation/",
-            "summary": "Iran's Nimbus Manticore pushes AI-built MiniFast backdoor via phishing and SEO poisoning",
-            "published_utc": "2026-05-26T09:10:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "BTMOB: A stealthy RAT burrowing deep into Android devices",
             "link": "https://www.welivesecurity.com/en/malware/btmob-stealthy-rat-burrowing-deep-android-devices/",
             "summary": "The malware pairs remote access capabilities with ready-made campaign tools, lowering the barrier for full device compromise",
             "published_utc": "2026-05-26T08:50:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "FBI Warns 'Kali365' Phishing Kit Hijacks Microsoft 365 OAuth Tokens",
-            "link": "https://www.infosecurity-magazine.com/news/fbi-kali365-phishing-kit-m365/",
-            "summary": "The Kali365 phishing-as-a-service platform lowers the barrier of entry for cybercriminals, said the FBI",
-            "published_utc": "2026-05-25T09:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
