@@ -1,6 +1,62 @@
 {
-    "lastUpdatedUTC": "2026-07-30T14:03:53.477842+00:00",
+    "lastUpdatedUTC": "2026-07-30T16:27:06.750721+00:00",
     "articles": [
+        {
+            "source": "Schneier",
+            "title": "American Being Prosecuted for Wiping His Phone Before Handing It Over to Border Officials",
+            "link": "https://www.schneier.com/blog/archives/2026/07/american-being-prosecuted-for-wiping-his-phone-before-handing-it-over-to-border-officials.html",
+            "summary": "",
+            "published_utc": "2026-07-30T16:20:30+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Your Windows download keeps getting bigger, and AI is to blame - here's why it matters",
+            "link": "https://www.zdnet.com/article/windows-installation-files-getting-bigger-blame-ai/",
+            "summary": "It's not your imagination. Windows installation files have been creeping up in size. It might even be fair to call them bloated. And you'll never gues...",
+            "published_utc": "2026-07-30T16:18:20+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "OpenAI's rogue agent didn't stop at Hugging Face - here's what we know",
+            "link": "https://www.zdnet.com/article/openais-rogue-ai-models-attacked-other-companies-besides-hugging-face/",
+            "summary": "The same autonomous OpenAI agent that escaped its test environment and breached Hugging Face was also busy hacking other AI systems. Lucky us.",
+            "published_utc": "2026-07-30T16:06:50+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft Teams vishing attacks lead to Chaos ransomware attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-vishing-attacks-lead-to-chaos-ransomware-attacks/",
+            "summary": "Threat actors are impersonating IT support staff in Microsoft Teams calls to gain remote access to corporate devices and deploy Chaos ransomware in at...",
+            "published_utc": "2026-07-30T15:56:33+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Timeless Compliance: Why Better Questions Beat Bigger Frameworks",
+            "link": "https://www.securityweek.com/timeless-compliance-why-better-questions-beat-bigger-frameworks/",
+            "summary": "",
+            "published_utc": "2026-07-30T15:46:17+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Field service is 95% on board with AI but these legacy issues need attention",
+            "link": "https://www.zdnet.com/article/state-of-field-service-and-ai-adoption/",
+            "summary": "Almost all field service organizations use AI, and revenue gains in key areas offer insights for professionals in other business functions.",
+            "published_utc": "2026-07-30T15:32:27+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Analog Devices discloses data breach, says operations unaffected",
+            "link": "https://www.bleepingcomputer.com/news/security/analog-devices-discloses-data-breach-says-operations-unaffected/",
+            "summary": "American semiconductor company Analog Devices announced that an unauthorized party accessed some of its systems and exfiltrated certain files. [...]",
+            "published_utc": "2026-07-30T15:12:25+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "After the Break-In: What Attackers Do Once They're Already Inside",
+            "link": "https://www.bleepingcomputer.com/news/security/after-the-break-in-what-attackers-do-once-theyre-already-inside/",
+            "summary": "Attackers rarely stop after gaining initial access. Huntress analyzes a real-world intrusion to show how threat actors establish persistence, disable ...",
+            "published_utc": "2026-07-30T14:01:11+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "DataBahn Raises $40 Million for Agentic Data Pipeline Management",
@@ -108,7 +164,7 @@
         },
         {
             "source": "WIRED Security",
-            "title": "OpenAI’s Hacking Debacle Was a Human Mistake",
+            "title": "OpenAI’s Hacking Debacle Comes Down to Human Error",
             "link": "https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake/",
             "summary": "If the generative AI giant had followed well-known security best practices, it’s likely that its AI agent would never have escaped to the open interne...",
             "published_utc": "2026-07-30T10:30:00+00:00"
@@ -189,13 +245,6 @@
             "link": "https://www.securityweek.com/us-and-allies-update-sbom-guidance/",
             "summary": "",
             "published_utc": "2026-07-30T08:21:19+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Chrome 151 Patches 370 Vulnerabilities",
-            "link": "https://www.securityweek.com/chrome-151-patches-370-vulnerabilities/",
-            "summary": "",
-            "published_utc": "2026-07-30T07:51:24+00:00"
         },
         {
             "source": "CSO Online",
@@ -294,6 +343,13 @@
             "link": "https://www.csoonline.com/article/4202920/mythos-takes-its-first-shot-at-post-quantum-cryptography.html",
             "summary": "",
             "published_utc": "2026-07-29T15:17:06+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Sweet Security Brings Autonomous Protection to the AI Enterprise with New Blocking Capabilities",
+            "link": "https://www.csoonline.com/article/4203485/sweet-security-brings-autonomous-protection-to-the-ai-enterprise-with-new-blocking-capabilities.html",
+            "summary": "",
+            "published_utc": "2026-07-29T15:11:16+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -415,13 +471,6 @@
             "published_utc": "2026-07-29T09:30:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I tested the Ultrahuman Ring Pro: Rich in features, but still a hard sell",
-            "link": "https://www.zdnet.com/article/ultrahuman-ring-pro-review/",
-            "summary": "The latest ring from Ultrahuman is packed with features, but it's both larger and more expensive than its predecessor.",
-            "published_utc": "2026-07-29T09:15:40+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Risk-based patching is the future. AI made it table stakes",
             "link": "https://www.csoonline.com/article/4202381/risk-based-patching-is-the-future-ai-made-it-table-stakes.html",
@@ -441,13 +490,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ncsc-publishes-guidance-incident/",
             "summary": "The National Cyber Security Centre has released a detailed framework to assist with incident response and recovery",
             "published_utc": "2026-07-29T08:30:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "5 ways I speed up my Android phone beyond clearing system cache - all for free",
-            "link": "https://www.zdnet.com/article/5-ways-i-speed-up-my-android-phone-beyond-clearing-system-cache/",
-            "summary": "Here's how I improve the performance of my Google Pixel, Samsung, and even Motorola. Or at least make it seem that way.",
-            "published_utc": "2026-07-29T08:15:43+00:00"
         },
         {
             "source": "CSO Online",
@@ -527,25 +569,11 @@
             "published_utc": "2026-07-28T20:37:06+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "12 keychain gadgets worth carrying every day (and why they're worth it)",
-            "link": "https://www.zdnet.com/article/best-keychain-gadgets-everyday-carry/",
-            "summary": "We test dozens of gadgets each year - these are some of our favorite keychain accessories we're still using.",
-            "published_utc": "2026-07-28T19:27:39+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "CISA shares advice on isolating vital systems during cyberattacks",
             "link": "https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/",
             "summary": "The U.S. and Australian governments have released new guidance urging critical infrastructure organizations to prepare to isolate vital operational te...",
             "published_utc": "2026-07-28T18:41:04+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "vBulletin fixes critical pre-auth RCE flaw with public exploit",
-            "link": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
-            "summary": "A critical vulnerability in the vBulletin forum software allows unauthenticated attackers to execute arbitrary PHP code through template rendering. [...]",
-            "published_utc": "2026-07-28T18:08:50+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -560,13 +588,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ai-linux-kernel-zero-day-net-sched/",
             "summary": "AI-assisted research uncovered Linux kernel use-after-free allowing root escalation",
             "published_utc": "2026-07-28T14:45:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Is Your SSO Protected Against Modern Credential Attacks?",
-            "link": "https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/",
-            "summary": "A compromised SSO login can provide attackers with access to multiple enterprise applications and services. Specops Software explains how stronger pas...",
-            "published_utc": "2026-07-28T14:00:10+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -588,13 +609,6 @@
             "link": "https://www.infosecurity-magazine.com/news/microsoft-ai-security-initiatives/",
             "summary": "Microsoft has launched a new agentic security system for cyber defenders as well as its first cyber-focused AI model",
             "published_utc": "2026-07-28T12:45:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Over 24,000 exposed server BMCs leak password hash via decades-old flaw",
-            "link": "https://www.bleepingcomputer.com/news/security/over-24-000-exposed-server-bmcs-leak-password-hash-via-decades-old-flaw/",
-            "summary": "More than 24,000 internet-exposed servers are leaking authentication password hashes due to a 20-year-old vulnerability in their Baseboard Management ...",
-            "published_utc": "2026-07-28T12:10:23+00:00"
         },
         {
             "source": "Schneier",
@@ -651,13 +665,6 @@
             "link": "https://www.csoonline.com/article/4202067/hackers-are-compromising-hotel-wi-fi-gateways-to-hijack-microsoft-365-accounts.html",
             "summary": "",
             "published_utc": "2026-07-28T02:28:22+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Microsoft unveils multi-model agentic cyber stack for security operations",
-            "link": "https://www.csoonline.com/article/4202080/microsoft-unveils-multi-model-agentic-cyber-stack-for-security-operations.html",
-            "summary": "",
-            "published_utc": "2026-07-28T02:25:00+00:00"
         },
         {
             "source": "WIRED Security",
@@ -812,13 +819,6 @@
             "link": "https://www.infosecurity-magazine.com/news/open-ai-hacked-another-company/",
             "summary": "Hugging Face recently disclosed a security breach. OpenAI has now said that it was its AI models which broke containment and hacked Hugging Face thems...",
             "published_utc": "2026-07-22T11:40:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "First-Person Identity Theft Story",
-            "link": "https://www.schneier.com/blog/archives/2026/07/first-person-identity-theft-story.html",
-            "summary": "",
-            "published_utc": "2026-07-22T11:02:26+00:00"
         },
         {
             "source": "InfosecurityMag",
