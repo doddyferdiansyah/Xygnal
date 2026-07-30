@@ -1,6 +1,62 @@
 {
-    "lastUpdatedUTC": "2026-07-30T09:31:40.246851+00:00",
+    "lastUpdatedUTC": "2026-07-30T11:52:21.347241+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Semiconductor Firm Analog Devices Discloses Data Breach",
+            "link": "https://www.securityweek.com/semiconductor-firm-analog-devices-discloses-data-breach/",
+            "summary": "",
+            "published_utc": "2026-07-30T11:16:23+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Should You Use AI for a Task? Here’s a Simple Way to Decide",
+            "link": "https://www.schneier.com/blog/archives/2026/07/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide.html",
+            "summary": "",
+            "published_utc": "2026-07-30T11:01:32+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Russian hackers turn Exchange flaw into ‘half-click’ mailbox takeover",
+            "link": "https://www.csoonline.com/article/4203349/russian-hackers-turn-exchange-flaw-into-half-click-mailbox-takeover.html",
+            "summary": "",
+            "published_utc": "2026-07-30T10:45:02+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "OpenAI’s Hacking Debacle Was a Human Mistake",
+            "link": "https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake/",
+            "summary": "If the generative AI giant had followed well-known security best practices, it’s likely that its AI agent would never have escaped to the open interne...",
+            "published_utc": "2026-07-30T10:30:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Amazon is selling this Samsung 2TB SATA SSD for over 60% off right now",
+            "link": "https://www.zdnet.com/article/samsung-870-evo-ssd-deal/",
+            "summary": "While not as speedy as its NVMe cousins, the Samsung 870 Evo 2TB SSD is still a great choice for both work and play - especially at this price.",
+            "published_utc": "2026-07-30T10:00:40+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "A Civilian Plane Crashed in New Mexico. Was the Military’s Tech to Blame?",
+            "link": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
+            "summary": "Drone warfare is making the skies more dangerous, even for airplanes far from the battlefield.",
+            "published_utc": "2026-07-30T10:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Critical Ruflo Flaw Lets Attackers Spawn Rogue AI Swarms",
+            "link": "https://www.securityweek.com/critical-ruflo-flaw-lets-attackers-spawn-rogue-ai-swarms/",
+            "summary": "",
+            "published_utc": "2026-07-30T09:56:10+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "AI Scammers Are Better at Building Trust Than Humans",
+            "link": "https://www.wired.com/story/ai-scammers-are-better-at-building-trust-than-humans/",
+            "summary": "Researchers pitted a person against a Claude agent and found that, after a week of texting, the AI chatbot was more effective at creating “exploitable...",
+            "published_utc": "2026-07-30T09:30:00+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "1 in 5 Data Center Assets Are Within Easy Reach of Attackers",
@@ -282,25 +338,11 @@
             "published_utc": "2026-07-29T11:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "US, Australia Release OT Isolation Guidance for Critical Infrastructure",
-            "link": "https://www.securityweek.com/us-australia-release-ot-isolation-guidance-for-critical-infrastructure/",
-            "summary": "",
-            "published_utc": "2026-07-29T10:58:44+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Just 1% of AI-Discovered Vulnerabilities Exploited in the Wild, Research Shows",
             "link": "https://www.infosecurity-magazine.com/news/one-percent-ai-vulnerabilities/",
             "summary": "For now, the use of AI benefits vulnerability research more than vulnerability exploitation, a VulnCheck researcher said",
             "published_utc": "2026-07-29T10:15:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "OpenAI’s Rogue AI Ventured Beyond Hugging Face",
-            "link": "https://www.securityweek.com/openais-rogue-ai-ventured-beyond-hugging-face/",
-            "summary": "",
-            "published_utc": "2026-07-29T10:10:09+00:00"
         },
         {
             "source": "CSO Online",
@@ -478,13 +520,6 @@
             "published_utc": "2026-07-28T16:59:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Is your smart TV a secret proxy? LG to suspend rogue apps, Samsung sets impacted too",
-            "link": "https://www.zdnet.com/article/smart-tv-secret-proxy-lg-to-suspend-rogue-apps/",
-            "summary": "One of your smart TV's apps could be relaying someone else's internet traffic. Here's how to check if you're affected.",
-            "published_utc": "2026-07-28T15:37:10+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Bugs in Hugging Face Diffusers Bypass Custom Code Safeguard",
             "link": "https://www.infosecurity-magazine.com/news/hugging-face-diffusers-trust/",
@@ -630,13 +665,6 @@
             "link": "https://www.infosecurity-magazine.com/news/malvertising-builds-malware-in/",
             "summary": "Impersonating well-known cryptocurrency and trading sites, SourTrade has developed a novel technique to drop infostealers to victims",
             "published_utc": "2026-07-27T11:30:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "OpenAI not part of the new Open Secure AI Alliance",
-            "link": "https://www.csoonline.com/article/4201761/openai-not-part-of-the-new-open-secure-ai-alliance.html",
-            "summary": "",
-            "published_utc": "2026-07-27T11:08:51+00:00"
         },
         {
             "source": "Schneier",
@@ -840,13 +868,6 @@
             "link": "https://www.infosecurity-magazine.com/news/fbi-deepfake-videos-ic3/",
             "summary": "FBI warned of deepfake videos of IC3 leadership directing users to spoofed complaint sites",
             "published_utc": "2026-07-21T12:00:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "MIT to Become Hotbed of AI Video Surveillance",
-            "link": "https://www.schneier.com/blog/archives/2026/07/mit-to-become-hotbed-of-ai-video-surveillance.html",
-            "summary": "",
-            "published_utc": "2026-07-21T11:07:13+00:00"
         },
         {
             "source": "WIRED Security",
@@ -1640,13 +1661,6 @@
             "published_utc": "2026-06-27T10:30:00+00:00"
         },
         {
-            "source": "WIRED Security",
-            "title": "The Pentagon Is Looking Into the Dialog Data Exposure for Unmasking National Security Officials",
-            "link": "https://www.wired.com/story/the-pentagon-is-looking-into-the-dialog-data-exposure-for-unmasking-national-security-officials/",
-            "summary": "Exposed records from the private group included the personal information of a senior White House intelligence official and an active-duty special oper...",
-            "published_utc": "2026-06-26T16:30:33+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "China-Linked Hackers Strike Asian Critical Infrastructure with TinyRCT Backdoor",
             "link": "https://www.infosecurity-magazine.com/news/china-hackers-asian-cni-backdoor/",
@@ -1710,13 +1724,6 @@
             "published_utc": "2026-06-25T10:45:00+00:00"
         },
         {
-            "source": "WIRED Security",
-            "title": "British Police Built a Sprawling Crime-Prediction Machine. Some Results Couldn’t Be Trusted",
-            "link": "https://www.wired.com/story/british-police-built-a-sprawling-crime-prediction-machine-some-results-couldnt-be-trusted/",
-            "summary": "As UK police embrace the AI revolution, a WIRED investigation reveals the messy inside story of one region’s experiment with predictive analytics.",
-            "published_utc": "2026-06-25T10:00:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "Gamaredon in 2025: Leveraging tunnels, workers, dead drops, and new alliances",
             "link": "https://www.welivesecurity.com/en/eset-research/gamaredon-2025-leveraging-tunnels-workers-dead-drops-new-alliances/",
@@ -1778,13 +1785,6 @@
             "link": "https://www.infosecurity-magazine.com/news/mps-criticize-government-museum/",
             "summary": "Public Accounts Committee (PAC) warns that museums and galleries aren’t getting enough government support on cyber",
             "published_utc": "2026-06-24T08:40:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "Dialog Claims It Was Hacked. A Misconfigured Website Left Its Members Exposed",
-            "link": "https://www.wired.com/story/dialog-hack-website-misconfiguration/",
-            "summary": "The private events group, cofounded by Peter Thiel, says a “criminal” hacker is behind a breach that exposed members’ personal details. WIRED found no...",
-            "published_utc": "2026-06-23T19:18:51+00:00"
         },
         {
             "source": "KrebsOnSecurity",
