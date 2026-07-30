@@ -1,6 +1,62 @@
 {
-    "lastUpdatedUTC": "2026-07-30T16:27:06.750721+00:00",
+    "lastUpdatedUTC": "2026-07-30T18:16:34.802245+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Amazon links Debug, Chalk NPM supply-chain attacks to North Korean hackers",
+            "link": "https://www.bleepingcomputer.com/news/security/amazon-links-debug-chalk-npm-supply-chain-attacks-to-north-korean-hackers/",
+            "summary": "Amazon linked multiple high-profile open-source software supply chain attacks targeting the Node Package Manager (npm) ecosystem to North Korean hacke...",
+            "published_utc": "2026-07-30T18:13:24+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "VMware fixes three critical flaws allowing auth bypass, VM escapes",
+            "link": "https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes/",
+            "summary": "Broadcom has released security updates to fix five vulnerabilities in VMware vCenter, ESX, Workstation, and Fusion, including three critical flaws tha...",
+            "published_utc": "2026-07-30T18:00:51+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "What the FCC ban on foreign-made robot vacuums means for your Roomba",
+            "link": "https://www.zdnet.com/article/fcc-ban-on-foreign-made-robot-vacuums-and-your-roomba/",
+            "summary": "The FCC's robot ban includes many of the world's most popular vacuums and lawn mowers. Is that Roomba in your closet a security risk?",
+            "published_utc": "2026-07-30T17:11:47+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I compared these popular sleep earbuds to my Oura Ring 5 - the results surprised me",
+            "link": "https://www.zdnet.com/article/ozlo-sleepbuds-2-review/",
+            "summary": "The Ozlo Sleepbuds 2 improve on what made me fall in love with the first generation, but they're not perfect.",
+            "published_utc": "2026-07-30T17:10:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Google says AI helped Chrome fix 1,072 security bugs in two releases",
+            "link": "https://www.bleepingcomputer.com/news/google/google-says-ai-helped-chrome-fix-1-072-security-bugs-in-two-releases/",
+            "summary": "Google says artificial intelligence is dramatically increasing the number of security vulnerabilities it can find and fix in Chrome, with more than 1,...",
+            "published_utc": "2026-07-30T17:00:00+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "Chrome Needs Twice-a-Week Patching Thanks to AI Bug Hunting",
+            "link": "https://www.wired.com/story/chrome-needs-twice-a-week-patching-thanks-to-ai-bug-hunting-for-now/",
+            "summary": "The two Chrome updates in June patched more bugs than the 23 updates before them. Now, Google is ramping up its patching schedule thanks to AI-assiste...",
+            "published_utc": "2026-07-30T17:00:00+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Read This Before You Buy That TV Streaming Stick",
+            "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+            "summary": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-t...",
+            "published_utc": "2026-07-30T16:49:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "ShinyHunters claims Brinks Home breach, threatens to leak stolen data",
+            "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-brinks-home-breach-threatens-to-leak-stolen-data/",
+            "summary": "Residential security company Brinks Home has disclosed that hackers breached some of its systems and are threatening to leak allegedly stolen data. [...]",
+            "published_utc": "2026-07-30T16:46:15+00:00"
+        },
         {
             "source": "Schneier",
             "title": "American Being Prosecuted for Wiping His Phone Before Handing It Over to Border Officials",
@@ -13,7 +69,7 @@
             "title": "Your Windows download keeps getting bigger, and AI is to blame - here's why it matters",
             "link": "https://www.zdnet.com/article/windows-installation-files-getting-bigger-blame-ai/",
             "summary": "It's not your imagination. Windows installation files have been creeping up in size. It might even be fair to call them bloated. And you'll never gues...",
-            "published_utc": "2026-07-30T16:18:20+00:00"
+            "published_utc": "2026-07-30T16:18:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -415,20 +471,6 @@
             "published_utc": "2026-07-29T12:25:18+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "74% of workers ask AI questions instead of colleagues - with potentially serious consequences",
-            "link": "https://www.zdnet.com/article/74-of-workers-ask-ai-questions-instead-of-colleagues/",
-            "summary": "A series of studies revealed that employees are spending less time asking their coworkers for help. Here's how that tactic could backfire and how orga...",
-            "published_utc": "2026-07-29T12:19:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "These near-mint ASUS Chromebook refurbs are only $145",
-            "link": "https://www.bleepingcomputer.com/news/security/these-near-mint-asus-chromebook-refurbs-are-only-145/",
-            "summary": "Buying a new computer in 2026 is a unique experience. Rather than deal with incredibly high tech prices, more shoppers are opting for high-quality ref...",
-            "published_utc": "2026-07-29T11:12:19+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Long-Lived Vulnerability in Microsoft Secure Boot",
             "link": "https://www.schneier.com/blog/archives/2026/07/long-lived-vulnerability-in-microsoft-secure-boot.html",
@@ -455,13 +497,6 @@
             "link": "https://www.csoonline.com/article/4202383/its-easier-to-steal-cargo-than-toothpaste.html",
             "summary": "",
             "published_utc": "2026-07-29T10:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Get Apple Music's student discount plus Apple TV for just $6 a month - here's how",
-            "link": "https://www.zdnet.com/article/how-to-get-an-apple-music-student-discount-subscription/",
-            "summary": "Students can save big on an Apple Music subscription. Here's how to get it.",
-            "published_utc": "2026-07-29T09:30:45+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -553,27 +588,6 @@
             "link": "https://www.wired.com/story/a-typo-landed-an-innocent-gamer-in-prison-for-18-months/",
             "summary": "How much could a single underscore in a username really matter? Just ask Brandon Klayme, who served 18 months in prison before realizing how authoriti...",
             "published_utc": "2026-07-28T23:30:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "CubePilot drone software dev hit by DNS hijacking to intercept traffic",
-            "link": "https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/",
-            "summary": "CubePilot, an Australian firm that designs flight controllers for drones (UAVs), announced a severe operational disruption caused by a DNS hijacking a...",
-            "published_utc": "2026-07-28T21:17:39+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "OpenAI models used Artifactory zero-days to escape to the internet",
-            "link": "https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/",
-            "summary": "JFrog has confirmed that OpenAI models exploited zero-day vulnerabilities in self-hosted Artifactory servers to help escape an isolated testing enviro...",
-            "published_utc": "2026-07-28T20:37:06+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "CISA shares advice on isolating vital systems during cyberattacks",
-            "link": "https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/",
-            "summary": "The U.S. and Australian governments have released new guidance urging critical infrastructure organizations to prepare to isolate vital operational te...",
-            "published_utc": "2026-07-28T18:41:04+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1668,13 +1682,6 @@
             "published_utc": "2026-06-29T08:15:00+00:00"
         },
         {
-            "source": "WIRED Security",
-            "title": "Security News This Week: LastPass Users Had Their Data Stolen—Again",
-            "link": "https://www.wired.com/story/security-news-this-week-lastpass-users-had-their-data-stolen-again/",
-            "summary": "Plus: Former national security advisor John Bolton pleads guilty in classified-materials case, Microsoft helps take down major infostealer infrastruct...",
-            "published_utc": "2026-06-27T10:30:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "China-Linked Hackers Strike Asian Critical Infrastructure with TinyRCT Backdoor",
             "link": "https://www.infosecurity-magazine.com/news/china-hackers-asian-cni-backdoor/",
@@ -2534,13 +2541,6 @@
             "link": "https://www.infosecurity-magazine.com/news/business-leaders-struggle-threat/",
             "summary": "A new Silobreaker and SANS Institute paper examines the ‘Intelligence-Stakeholder Gap’ and what organizations must do to achieve business buy-in on th...",
             "published_utc": "2026-06-02T08:30:00+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
-            "link": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
-            "summary": "The Instagram accounts for the Obama White House and the Chief Master Sergeant of the U.S. Space Force were briefly defaced with pro-Iranian images an...",
-            "published_utc": "2026-06-01T17:32:50+00:00"
         },
         {
             "source": "InfosecurityMag",
