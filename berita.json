@@ -1,6 +1,83 @@
 {
-    "lastUpdatedUTC": "2026-07-31T07:50:57.617167+00:00",
+    "lastUpdatedUTC": "2026-07-31T10:40:09.106190+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Google AI Uncovers 13-Year-Old Chrome Flaw Amid Record Patching Pace",
+            "link": "https://www.securityweek.com/googles-ai-agent-uncovers-13-year-old-chrome-flaw-amid-record-patching-pace/",
+            "summary": "",
+            "published_utc": "2026-07-31T10:28:45+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "The New Defcon Badges Pack a Unique Open Source Chip That Doubles as a Security Key",
+            "link": "https://www.wired.com/story/defcon-34-badge-baochip-andrew-bunnie-huang/",
+            "summary": "Created by legendary hardware hacker Andrew “bunnie” Huang, the badges for this year’s famed security conference aim to push the boundaries of securit...",
+            "published_utc": "2026-07-31T10:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "AWS Blames North Korean Group for Axios and Other npm Supply Chain Attacks",
+            "link": "https://www.infosecurity-magazine.com/news/aws-north-korea-axios-npm-supply/",
+            "summary": "AWS has linked North Korea to the axios campaign to other attacks on npm libraries",
+            "published_utc": "2026-07-31T09:50:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Prompted by OpenAI Disclosure, Anthropic Finds Its Own Models Hacked 3 Organizations",
+            "link": "https://www.securityweek.com/after-openai-disclosure-anthropic-finds-its-own-models-hacked-3-organizations/",
+            "summary": "",
+            "published_utc": "2026-07-31T09:39:57+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I installed these smart window shades in 10 minutes - now I want them all over my house",
+            "link": "https://www.zdnet.com/article/smartwings-smart-window-shades-review/",
+            "summary": "The Smartwings window shades are convenient and fully customizable, making them a good option for non-standard windows.",
+            "published_utc": "2026-07-31T09:30:51+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Critical Flaw Led to Azure Cosmos DB Pwnage",
+            "link": "https://www.securityweek.com/critical-flaw-led-to-azure-cosmos-db-pwnage/",
+            "summary": "",
+            "published_utc": "2026-07-31T09:04:02+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "After OpenAI, Anthropic finds Claude breached three organizations during cyber tests",
+            "link": "https://www.csoonline.com/article/4203807/after-openai-anthropic-finds-claude-breached-three-organizations-during-cyber-tests.html",
+            "summary": "",
+            "published_utc": "2026-07-31T08:55:13+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Anthropic Reveals Claude Escaped Testing, Breaching Three Companies",
+            "link": "https://www.infosecurity-magazine.com/news/anthropic-claude-breached-three/",
+            "summary": "Anthropic has revealed that Claude AI models broke free of sandbox to compromise third-party organizations",
+            "published_utc": "2026-07-31T08:35:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How long should you keep your phone for? I did the math - it's likely not what you think",
+            "link": "https://www.zdnet.com/article/how-long-should-you-keep-your-phone-for/",
+            "summary": "Annual upgrades matter less these days, and better software support lets you hold onto your phone for longer.",
+            "published_utc": "2026-07-31T08:30:41+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "5 key priorities for your Black Hat agenda — and what to avoid",
+            "link": "https://www.csoonline.com/article/4203086/5-key-priorities-for-your-black-hat-agenda-and-what-to-avoid.html",
+            "summary": "",
+            "published_utc": "2026-07-31T08:25:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "CareCloud Data Breach Impacts Over 350,000",
+            "link": "https://www.securityweek.com/carecloud-data-breach-impacts-over-350000/",
+            "summary": "",
+            "published_utc": "2026-07-31T07:51:43+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Critical Code Execution Vulnerability Patched in TeamCity",
@@ -226,20 +303,6 @@
             "published_utc": "2026-07-30T13:12:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Cantina Emerges From Stealth With $8 Million in Funding",
-            "link": "https://www.securityweek.com/cantina-emerges-from-stealth-with-8-million-in-funding/",
-            "summary": "",
-            "published_utc": "2026-07-30T13:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Discern Security Raises $13 Million in Series A Funding",
-            "link": "https://www.securityweek.com/discern-security-raises-13-million-in-series-a-funding/",
-            "summary": "",
-            "published_utc": "2026-07-30T13:00:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "AI and Automation Fall Short of Sysadmin Expectations",
             "link": "https://www.infosecurity-magazine.com/news/ai-automation-fall-short-sysadmin/",
@@ -268,25 +331,11 @@
             "published_utc": "2026-07-30T12:29:58+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Onyx Security Raises $113 Million to Control AI Agents in the Enterprise",
-            "link": "https://www.securityweek.com/onyx-security-raises-113-million-to-control-ai-agents-in-the-enterprise/",
-            "summary": "",
-            "published_utc": "2026-07-30T12:29:03+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "How I free up Windows disk space and shred sensitive data for free with open-source BleachBit",
             "link": "https://www.zdnet.com/article/bleachbit-free-windows-utility-free-up-disk-space/",
             "summary": "Running low on hard disk space or just want to get rid of junk files? The free BleachBit utility can easily handle that assignment. Here's why it beat...",
             "published_utc": "2026-07-30T12:25:28+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "‘DangleGeddon’: AI Could Weaponize Forgotten DNS Records at Global Scale",
-            "link": "https://www.securityweek.com/danglegeddon-ai-could-weaponize-forgotten-dns-records-at-global-scale/",
-            "summary": "",
-            "published_utc": "2026-07-30T12:15:24+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -499,20 +548,6 @@
             "published_utc": "2026-07-29T15:00:45+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I tested a premium Linux laptop that's as light as it is powerful - here's why I love it",
-            "link": "https://www.zdnet.com/article/kubuntu-focus-air-gen-1-review/",
-            "summary": "The Ar Gen 1 is an impressive device, suitable for anyone from students to developers to business owners.",
-            "published_utc": "2026-07-29T13:15:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How to remap the Windows 11 Copilot key and restore your missing Right Ctrl button",
-            "link": "https://www.zdnet.com/article/remap-windows-copilot-key/",
-            "summary": "Pressing the Copilot key on your laptop keyboard launches Copilot. But whether or not you use Microsoft's AI, you can remap the key to trigger a diffe...",
-            "published_utc": "2026-07-29T13:01:00+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "OpenAI rogue AI agent’s attack expanded beyond Hugging Face",
             "link": "https://www.csoonline.com/article/4202852/openai-rogue-ai-agents-attack-expanded-beyond-hugging-face.html",
@@ -660,13 +695,6 @@
             "published_utc": "2026-07-28T13:00:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Infoblox joins crowded EASM market with DNS-centric approach",
-            "link": "https://www.csoonline.com/article/4202205/infoblox-joins-crowded-easm-market-with-dns-centric-approach.html",
-            "summary": "",
-            "published_utc": "2026-07-28T13:00:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Microsoft Launches Flurry of AI Security Initiatives to Combat AI-Enabled Threats",
             "link": "https://www.infosecurity-magazine.com/news/microsoft-ai-security-initiatives/",
@@ -693,13 +721,6 @@
             "link": "https://www.infosecurity-magazine.com/news/nvidia-open-security-ai-alliance/",
             "summary": "NVIDIA has launched a new Open Secure AI Alliance to build an “open defense stack for agents”",
             "published_utc": "2026-07-28T09:40:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Why your AI safety certificates are worthless at runtime",
-            "link": "https://www.csoonline.com/article/4201919/why-your-ai-safety-certificates-are-worthless-at-runtime.html",
-            "summary": "",
-            "published_utc": "2026-07-28T09:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1595,13 +1616,6 @@
             "title": "Microsoft Accelerates Quantum-Safe Push with New Timeline",
             "link": "https://www.infosecurity-magazine.com/news/microsoft-accelerates-quantumsafe/",
             "summary": "Microsoft has brought forward its timelines for transitioning to post-quantum cryptography (PQC)",
-            "published_utc": "2026-07-01T10:00:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "Claude Helped a Hacker Find a Way to Issue Tickets to Almost Every US Music Festival",
-            "link": "https://www.wired.com/story/claude-helped-a-hacker-find-a-way-to-issue-tickets-to-almost-every-us-music-festival/",
-            "summary": "A researcher found that using Anthropic’s Claude Opus 4.7, he could break into the website of Front Gate—used by every festival from Lollapalooza to B...",
             "published_utc": "2026-07-01T10:00:00+00:00"
         },
         {
@@ -2702,20 +2716,6 @@
             "link": "https://www.infosecurity-magazine.com/news/all-major-llms-exposed-to-multi/",
             "summary": "",
             "published_utc": "2026-05-27T13:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Thousands of Fake FIFA Domains Target World Cup Fans",
-            "link": "https://www.infosecurity-magazine.com/news/ghost-stadium-fifa-world-cup-fraud/",
-            "summary": "Group-IB uncovered Ghost Stadium phishing and 4300 fake FIFA World Cup domains targeting fans",
-            "published_utc": "2026-05-27T11:28:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "68% of UK Firms Plan to Increase Cyber Spending as AI Risks Rise",
-            "link": "https://www.infosecurity-magazine.com/news/uk-firms-cyber-spending-ai-risks/",
-            "summary": "UK firms plan higher cyber spending as AI adoption raises security concerns",
-            "published_utc": "2026-05-27T09:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
