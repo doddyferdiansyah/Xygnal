@@ -1,6 +1,83 @@
 {
-    "lastUpdatedUTC": "2026-07-31T15:22:06.668186+00:00",
+    "lastUpdatedUTC": "2026-07-31T17:39:28.151872+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "Amazon is splitting its $600 million tariff refund with customers - here's who's eligible",
+            "link": "https://www.zdnet.com/article/amazon-600-million-tariff-refund-with-customers/",
+            "summary": "What you'll get back depends on how much you spent - but don't expect much.",
+            "published_utc": "2026-07-31T17:36:09+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Hacker uses DeepSeek AI to autonomously attack vulnerable servers",
+            "link": "https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/",
+            "summary": "A Chinese-speaking threat actor is using the DeepSeek AI model and the open-source Hermes Agent to conduct autonomous cyberattacks on exposed servers ...",
+            "published_utc": "2026-07-31T17:35:35+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Anthropic’s Opus 5 Is Better at Resisting Prompt Injection",
+            "link": "https://www.schneier.com/blog/archives/2026/07/anthropics-opus-5-is-better-at-resisting-prompt-injection.html",
+            "summary": "",
+            "published_utc": "2026-07-31T17:23:16+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "CISA warns of cyberattacks disrupting U.S. water utilities",
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-disrupting-us-water-utilities/",
+            "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a significant increase in attacks targeting internet-exposed programmab...",
+            "published_utc": "2026-07-31T16:49:49+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How to keep your AI conversations as private as possible",
+            "link": "https://www.zdnet.com/article/ai-conversations-private/",
+            "summary": "Worried about your personal AI chats being exposed? Here's how to tighten your privacy across several of the major chatbots.",
+            "published_utc": "2026-07-31T16:48:26+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Not just OpenAI - Anthropic says Claude's hacking spree 'falls short of ideal behavior'",
+            "link": "https://www.zdnet.com/article/anthropic-claude-ai-hacked-organizations-during-security-tests/",
+            "summary": "Three Claude models go rogue during Capture the Flag security challenges. Here's the trail of damage each left behind.",
+            "published_utc": "2026-07-31T16:45:36+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How OpenAI's agent escaped: Sprung by humans in a series of preventable events",
+            "link": "https://www.zdnet.com/article/how-openais-agent-escaped-mapping-a-series-of-preventable-events/",
+            "summary": "Behind the rogue agent's attack on Hugging Face was a particular sequence of human decisions. We all need to pay better attention - because threat act...",
+            "published_utc": "2026-07-31T16:45:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "LinkedIn's new 'Seems like AI slop' button lets you report all those cringey posts",
+            "link": "https://www.zdnet.com/article/thought-leadership-cultivate-and-align-ai-slop-is-all-over-linkedin-but-its-fighting-back/",
+            "summary": "LinkedIn's 'Seems like AI slop' button is coming to users, and its existence signals a changing perspective on AI infiltrating digital communities.",
+            "published_utc": "2026-07-31T16:42:21+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Looking for a new budget phone? This Motorola model is just $100, but only for a limited time",
+            "link": "https://www.zdnet.com/article/motorola-moto-g-play-2024-deal/",
+            "summary": "Over at Best Buy, the 2024 Moto G Play dropped down to $100, making this Android one of the budget buys around.",
+            "published_utc": "2026-07-31T16:28:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "DefCon security conference bans smart glasses with recording capabilities",
+            "link": "https://www.csoonline.com/article/4203981/defcon-security-conference-bans-smart-glasses-with-recording-capabilities.html",
+            "summary": "",
+            "published_utc": "2026-07-31T15:53:28+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "In Other News: OpenAI Open Source Tool, AWS Links Hacks to North Korea, Mythos Crypto Research",
+            "link": "https://www.securityweek.com/in-other-news-openai-open-source-tool-aws-links-hacks-to-north-korea-mythos-crypto-research/",
+            "summary": "",
+            "published_utc": "2026-07-31T15:47:02+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "The best laptop cooling pads of 2026: Expert tested",
@@ -164,8 +241,8 @@
         },
         {
             "source": "CSO Online",
-            "title": "Microsoft confirms an AI worm is propagating through Copilot and other MS apps",
-            "link": "https://www.csoonline.com/article/4203630/microsoft-confirms-an-ai-worm-is-propagating-through-copilot-and-other-ms-apps.html",
+            "title": "Copilot worm can spread through Microsoft Word docs",
+            "link": "https://www.csoonline.com/article/4203630/copilot-worm-can-spread-through-microsoft-word-docs.html",
             "summary": "",
             "published_utc": "2026-07-31T01:13:39+00:00"
         },
@@ -231,13 +308,6 @@
             "link": "https://www.zdnet.com/article/i-tried-android-auto-offline-while-on-a-road-trip-and-it-beats-mobile-data-in-2-ways/",
             "summary": "A recent trip upstate revealed the benefits and limitations of running Android Auto in low- to no-signal areas.",
             "published_utc": "2026-07-30T20:08:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Okta to Acquire Identity Threat Detection Firm Permiso",
-            "link": "https://www.securityweek.com/okta-to-acquire-identity-threat-detection-firm-permiso/",
-            "summary": "",
-            "published_utc": "2026-07-30T19:10:26+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -450,25 +520,11 @@
             "published_utc": "2026-07-30T09:15:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "How to qualify for Apple's education discount - and get a $499 MacBook Neo for school",
-            "link": "https://www.zdnet.com/article/macbook-neo-499-educational-price-how-to/",
-            "summary": "Apple's budget MacBook Neo is already affordable, but if you're an educator or student, you can get one for even less.",
-            "published_utc": "2026-07-30T09:00:44+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "Beyond the screenshot: Why you should verify what you see",
             "link": "https://www.welivesecurity.com/en/cybersecurity/beyond-screenshot-why-verify-you-see/",
             "summary": "The screenshot may look convincing, but it doesn’t necessarily prove that the payment, booking or conversation is genuine",
             "published_utc": "2026-07-30T08:50:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "This docking station's 'hidden compartment' disrupted my desktop - for the better",
-            "link": "https://www.zdnet.com/article/satechi-thunderbolt-5-cubedock-review/",
-            "summary": "Satechi's CubeDock combines a high-speed docking station with a built-in SSD enclosure - and it works so well.",
-            "published_utc": "2026-07-30T08:45:54+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -504,48 +560,6 @@
             "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/",
             "summary": "Claude is down for some users, with Anthropic confirming elevated errors across multiple AI models. The disruption is causing requests to fail with a ...",
             "published_utc": "2026-07-29T21:39:29+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Cisco warns of FMC static credential flaw exploited in zero-day attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/",
-            "summary": "Cisco is warning that a high-severity Secure Firewall Management Center (FMC) static credential vulnerability, tracked as CVE-2026-20316, was actively...",
-            "published_utc": "2026-07-29T21:35:40+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "What 'mAh' means for your phone's battery, and why I focus on another metric instead",
-            "link": "https://www.zdnet.com/article/what-mah-means-for-phones-battery-life/",
-            "summary": "New smartphones boast batteries with higher-than-ever mAh numbers, but it's actually a small factor in how long the battery lasts.",
-            "published_utc": "2026-07-29T21:00:47+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I replaced my paid streaming apps with free ones - here's what surprised me",
-            "link": "https://www.zdnet.com/article/are-free-streaming-services-worth-it-vs-paid-streaming-apps/",
-            "summary": "Are free streaming services that bad? I swapped my paid subscriptions for free ones to see.",
-            "published_utc": "2026-07-29T19:42:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "ZDNET readers are skeptical of a foldable iPhone in 2026. Here's what they think instead",
-            "link": "https://www.zdnet.com/article/apple-guessing-game-round-2-answers/",
-            "summary": "We asked ZDNET readers to predict the iPhone 18 specs for a chance to win a new Apple Watch. Hot takes welcome.",
-            "published_utc": "2026-07-29T19:30:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Google Home vs. Sonos Era 100: I used both smart speakers, here's what I recommend",
-            "link": "https://www.zdnet.com/article/google-home-speaker-vs-sonos-era-100-smart-speaker-comparison-2026/",
-            "summary": "With the new Google Home Speaker hitting store shelves, you may wonder if the Sonos Era 100 is still the best choice.",
-            "published_utc": "2026-07-29T18:25:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Health-ISAC warns of rising ShinyHunters data theft attacks on healthcare",
-            "link": "https://www.bleepingcomputer.com/news/security/health-isac-warns-of-rising-shinyhunters-data-theft-attacks-on-healthcare/",
-            "summary": "Health-ISAC, a cybersecurity information-sharing organization for the health sector, is warning healthcare and medical technology organizations of an ...",
-            "published_utc": "2026-07-29T17:54:05+00:00"
         },
         {
             "source": "Schneier",
@@ -651,13 +665,6 @@
             "link": "https://www.csoonline.com/article/570795/how-to-hack-2fa.html",
             "summary": "",
             "published_utc": "2026-07-29T08:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Ransomware report: VPNs in the crosshairs, AI attacks",
-            "link": "https://www.csoonline.com/article/4201372/ransomware-report-vpns-in-the-crosshairs-ai-attacks.html",
-            "summary": "",
-            "published_utc": "2026-07-29T07:30:00+00:00"
         },
         {
             "source": "Schneier",
@@ -805,13 +812,6 @@
             "link": "https://www.infosecurity-magazine.com/news/chatgpt-most-impersonated-brands/",
             "summary": "OpenAI’s chatbot tool ChatGPT ranked among the top 10 most impersonated brands in phishing attacks for the first time",
             "published_utc": "2026-07-24T11:15:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Why AI Needs a “Genie Coefficient”",
-            "link": "https://www.schneier.com/blog/archives/2026/07/why-ai-needs-a-genie-coefficient.html",
-            "summary": "",
-            "published_utc": "2026-07-24T11:03:06+00:00"
         },
         {
             "source": "WIRED Security",
