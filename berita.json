@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2026-07-31T12:56:45.914235+00:00",
+    "lastUpdatedUTC": "2026-07-31T15:22:06.668186+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "The best laptop cooling pads of 2026: Expert tested",
+            "link": "https://www.zdnet.com/article/best-laptop-cooling-pad/",
+            "summary": "We tested the best laptop cooling pads to keep your device running smooth with powerful cooling, RGB lights, high RPM and more.",
+            "published_utc": "2026-07-31T15:19:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Cyberattacks on Minnesota Water Systems Investigated as Officials Warn About Iranian Hackers",
+            "link": "https://www.securityweek.com/cyberattacks-on-minnesota-water-systems-investigated-as-officials-warn-about-iranian-hackers/",
+            "summary": "",
+            "published_utc": "2026-07-31T15:17:41+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Data Byte: This router's signal strength beat most competitors in our lab test",
+            "link": "https://www.zdnet.com/article/netgear-orbi-370-router-lab-test-data-byte/",
+            "summary": "ZDNET's latest Data Byte highlights the Netgear Orbi 370's performance in our lab testing. Here's what the numbers say.",
+            "published_utc": "2026-07-31T15:09:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "ESET tracks rise in malicious AI skills and adaptable malware",
+            "link": "https://www.bleepingcomputer.com/news/security/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware/",
+            "summary": "Attackers are adapting established techniques to AI platforms, emerging technologies, and changing user behavior. ESET's new threat report examines th...",
+            "published_utc": "2026-07-31T14:01:11+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Google adds to confusion with new names for threat actors",
+            "link": "https://www.csoonline.com/article/4203952/google-adds-to-confusion-with-new-names-for-threat-actors.html",
+            "summary": "",
+            "published_utc": "2026-07-31T13:52:22+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Broadcom patches vulnerabilities all over VMware",
+            "link": "https://www.csoonline.com/article/4203947/broadcom-patches-vulnerabilities-all-over-vmware.html",
+            "summary": "",
+            "published_utc": "2026-07-31T13:38:24+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "Microsoft almost gave away the keys to everyone’s Azure Cosmos DBs",
@@ -66,7 +108,7 @@
         },
         {
             "source": "SecurityWeek",
-            "title": "Critical Flaw Led to Azure Cosmos DB Pwnage",
+            "title": "Critical Flaw Allowed to Azure Cosmos DB Pwnage",
             "link": "https://www.securityweek.com/critical-flaw-led-to-azure-cosmos-db-pwnage/",
             "summary": "",
             "published_utc": "2026-07-31T09:04:02+00:00"
@@ -115,9 +157,9 @@
         },
         {
             "source": "WIRED Security",
-            "title": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
+            "title": "Anthropic Says Claude Hacked Into 3 Organizations During Cybersecurity Tests",
             "link": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
-            "summary": "In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real organizations during third-part...",
+            "summary": "In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real-world organizations during thir...",
             "published_utc": "2026-07-31T01:24:26+00:00"
         },
         {
@@ -273,13 +315,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-vishing-attacks-lead-to-chaos-ransomware-attacks/",
             "summary": "Threat actors are impersonating IT support staff in Microsoft Teams calls to gain remote access to corporate devices and deploy Chaos ransomware in at...",
             "published_utc": "2026-07-30T15:56:33+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Timeless Compliance: Why Better Questions Beat Bigger Frameworks",
-            "link": "https://www.securityweek.com/timeless-compliance-why-better-questions-beat-bigger-frameworks/",
-            "summary": "",
-            "published_utc": "2026-07-30T15:46:17+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -506,13 +541,6 @@
             "published_utc": "2026-07-29T18:25:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "The best smartwatches of 2026: Expert tested and reviewed",
-            "link": "https://www.zdnet.com/article/best-smartwatch/",
-            "summary": "I've tested the best smartwatches, including the newest Samsung Galaxy Watch Ultra 2. Here's how to choose the right one.",
-            "published_utc": "2026-07-29T18:20:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Health-ISAC warns of rising ShinyHunters data theft attacks on healthcare",
             "link": "https://www.bleepingcomputer.com/news/security/health-isac-warns-of-rising-shinyhunters-data-theft-attacks-on-healthcare/",
@@ -525,13 +553,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/07/measuring-the-tendency-of-ai-agents-to-go-rogue.html",
             "summary": "",
             "published_utc": "2026-07-29T17:07:53+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "OpenAI agent used exposed credentials at 4 services in Hugging Face breach",
-            "link": "https://www.bleepingcomputer.com/news/security/openai-agent-used-exposed-credentials-at-4-services-in-hugging-face-breach/",
-            "summary": "In a new update, OpenAI says its AI models also used publicly exposed credentials to compromise accounts on four third-party services during the recen...",
-            "published_utc": "2026-07-29T16:04:59+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -560,13 +581,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ta488-outlook-half-click-owareaper/",
             "summary": "TA488 returned with OWA half-click exploit deploying OWAReaper implant that survived re-imaging",
             "published_utc": "2026-07-29T15:10:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Open weights vs. closed: An AI civil war's afoot, and the stakes are existential",
-            "link": "https://www.zdnet.com/article/open-weight-ai-civil-war/",
-            "summary": "It started as China vs. the US, but it's become a face-off between two fundamentally different ways of building LLMs. And the safety of everything is ...",
-            "published_utc": "2026-07-29T15:00:45+00:00"
         },
         {
             "source": "CSO Online",
@@ -651,20 +665,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/07/measuring-llms-ability-to-perform-cryptanalysis.html",
             "summary": "",
             "published_utc": "2026-07-29T01:47:05+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Fortinet’s new FortiGate platform converges firewall, SASE technologies",
-            "link": "https://www.csoonline.com/article/4202566/fortinets-new-fortigate-platform-converges-firewall-sase-technologies-2.html",
-            "summary": "",
-            "published_utc": "2026-07-29T01:35:11+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "A 13-year-old flaw is exposing tens of thousands of data center management systems",
-            "link": "https://www.csoonline.com/article/4202530/a-13-year-old-flaw-is-exposing-tens-of-thousands-of-data-center-management-systems.html",
-            "summary": "",
-            "published_utc": "2026-07-29T01:34:10+00:00"
         },
         {
             "source": "WIRED Security",
