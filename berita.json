@@ -1,12 +1,40 @@
 {
-    "lastUpdatedUTC": "2026-07-31T10:40:09.106190+00:00",
+    "lastUpdatedUTC": "2026-07-31T12:56:45.914235+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "Microsoft almost gave away the keys to everyone’s Azure Cosmos DBs",
+            "link": "https://www.csoonline.com/article/4203921/microsoft-almost-gave-away-the-keys-to-everyones-azure-cosmos-dbs.html",
+            "summary": "",
+            "published_utc": "2026-07-31T12:53:47+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Facial Recognition at Madison Square Garden",
+            "link": "https://www.schneier.com/blog/archives/2026/07/facial-recognition-at-madison-square-garden.html",
+            "summary": "",
+            "published_utc": "2026-07-31T11:08:44+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "JetBrains says a crafted HTTP request could break TeamCity",
+            "link": "https://www.csoonline.com/article/4203872/jetbrains-says-a-crafted-http-request-could-break-teamcity.html",
+            "summary": "",
+            "published_utc": "2026-07-31T10:46:30+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Google AI Uncovers 13-Year-Old Chrome Flaw Amid Record Patching Pace",
             "link": "https://www.securityweek.com/googles-ai-agent-uncovers-13-year-old-chrome-flaw-amid-record-patching-pace/",
             "summary": "",
             "published_utc": "2026-07-31T10:28:45+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "EU to Crack Down on AI Deepfakes, Illicit Imagery and Hacking With New Team in Brussels",
+            "link": "https://www.securityweek.com/eu-to-crack-down-on-ai-deepfakes-illicit-imagery-and-hacking-with-new-team-in-brussels/",
+            "summary": "",
+            "published_utc": "2026-07-31T10:00:00+00:00"
         },
         {
             "source": "WIRED Security",
@@ -54,7 +82,7 @@
             "source": "InfosecurityMag",
             "title": "Anthropic Reveals Claude Escaped Testing, Breaching Three Companies",
             "link": "https://www.infosecurity-magazine.com/news/anthropic-claude-breached-three/",
-            "summary": "Anthropic has revealed that Claude AI models broke free of sandbox to compromise third-party organizations",
+            "summary": "Anthropic has revealed that Claude AI models compromised third-party organizations",
             "published_utc": "2026-07-31T08:35:00+00:00"
         },
         {
@@ -280,13 +308,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/after-the-break-in-what-attackers-do-once-theyre-already-inside/",
             "summary": "Attackers rarely stop after gaining initial access. Huntress analyzes a real-world intrusion to show how threat actors establish persistence, disable ...",
             "published_utc": "2026-07-30T14:01:11+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "DataBahn Raises $40 Million for Agentic Data Pipeline Management",
-            "link": "https://www.securityweek.com/databahn-raises-40-million-for-agentic-data-pipeline-management/",
-            "summary": "",
-            "published_utc": "2026-07-30T14:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -646,20 +667,6 @@
             "published_utc": "2026-07-29T01:34:10+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "The CSO’s blind spot: Why platform engineering 2.0 is now a security imperative",
-            "link": "https://www.csoonline.com/article/4202540/the-csos-blind-spot-why-platform-engineering-2-0-is-now-a-security-imperative.html",
-            "summary": "",
-            "published_utc": "2026-07-29T01:09:14+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Arista patches maximum severity vulnerability that is already being exploited",
-            "link": "https://www.csoonline.com/article/4202502/arista-patches-maximum-severity-vulnerability-that-is-already-being-exploited.html",
-            "summary": "",
-            "published_utc": "2026-07-29T00:43:54+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face",
             "link": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
@@ -854,13 +861,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ai-agents-attack-surface/",
             "summary": "Sophos report warns that the rapid adoption of AI by businesses is leaving them vulnerable to a new source of cyber threats",
             "published_utc": "2026-07-23T11:30:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "End-to-End Encryption and “Going Dark”",
-            "link": "https://www.schneier.com/blog/archives/2026/07/end-to-end-encryption-and-going-dark.html",
-            "summary": "",
-            "published_utc": "2026-07-23T11:03:50+00:00"
         },
         {
             "source": "InfosecurityMag",
