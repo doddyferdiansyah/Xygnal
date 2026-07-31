@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-07-31T00:02:44.455794+00:00",
+    "lastUpdatedUTC": "2026-07-31T04:22:43.861795+00:00",
     "articles": [
+        {
+            "source": "WIRED Security",
+            "title": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
+            "link": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
+            "summary": "In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real organizations during third-part...",
+            "published_utc": "2026-07-31T01:24:26+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Microsoft confirms an AI worm is propagating through Copilot and other MS apps",
+            "link": "https://www.csoonline.com/article/4203630/microsoft-confirms-an-ai-worm-is-propagating-through-copilot-and-other-ms-apps.html",
+            "summary": "",
+            "published_utc": "2026-07-31T01:13:39+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests",
+            "link": "https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/",
+            "summary": "One of Anthropic's Claude models built and uploaded a malicious Python package to PyPI during a botched security evaluation, where it ran on 15 real s...",
+            "published_utc": "2026-07-31T00:57:25+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "South Korea fines telco giant KT $39 million for customer data breach",
@@ -163,6 +184,13 @@
             "published_utc": "2026-07-30T15:12:25+00:00"
         },
         {
+            "source": "InfosecurityMag",
+            "title": "Cryptominer Abuses Linux PAM to Hide From SOC Analysts",
+            "link": "https://www.infosecurity-magazine.com/news/xmrig-linux-pam-forensic/",
+            "summary": "Cryptomining crew abandoned root to impersonate low-privileged Linux users and evade SOC alerts",
+            "published_utc": "2026-07-30T14:30:00+00:00"
+        },
+        {
             "source": "BleepingComputer",
             "title": "After the Break-In: What Attackers Do Once They're Already Inside",
             "link": "https://www.bleepingcomputer.com/news/security/after-the-break-in-what-attackers-do-once-theyre-already-inside/",
@@ -174,6 +202,13 @@
             "title": "DataBahn Raises $40 Million for Agentic Data Pipeline Management",
             "link": "https://www.securityweek.com/databahn-raises-40-million-for-agentic-data-pipeline-management/",
             "summary": "",
+            "published_utc": "2026-07-30T14:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "AiTM Phishing Becomes Top Initial Access Threat to Law Firms",
+            "link": "https://www.infosecurity-magazine.com/news/aitm-phishing-top-entry-point-law/",
+            "summary": "AiTM phishing is now the top entry point into law firms, with identity behind 56% of threats",
             "published_utc": "2026-07-30T14:00:00+00:00"
         },
         {
@@ -457,13 +492,6 @@
             "published_utc": "2026-07-29T15:00:45+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Hackers disrupt over 30 Minnesota water utilities in coordinated OT attack",
-            "link": "https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/",
-            "summary": "The Minnesota IT Services (MNIT) agency activated its cybersecurity incident response capabilities across the entire state after hackers targeted more...",
-            "published_utc": "2026-07-29T14:55:57+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "I tested a premium Linux laptop that's as light as it is powerful - here's why I love it",
             "link": "https://www.zdnet.com/article/kubuntu-focus-air-gen-1-review/",
@@ -672,13 +700,6 @@
             "link": "https://www.infosecurity-magazine.com/news/crest-ai-pentesting-accreditation/",
             "summary": "CREST’s new AI standards are optional add-on requirements for cybersecurity service providers wishing to demonstrate responsible AI usage",
             "published_utc": "2026-07-28T08:57:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Hugging Face breach shows why incident response needs a multi-model AI strategy",
-            "link": "https://www.csoonline.com/article/4201361/hugging-face-breach-shows-why-incident-response-needs-a-multi-model-ai-strategy.html",
-            "summary": "",
-            "published_utc": "2026-07-28T08:00:00+00:00"
         },
         {
             "source": "WIRED Security",
@@ -1631,13 +1652,6 @@
             "link": "https://www.infosecurity-magazine.com/news/over-300-uk-firms-hit-ransomware/",
             "summary": "Report Fraud data reveals that more than half of 323 UK ransomware victims last year were SMEs",
             "published_utc": "2026-06-30T08:00:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
-            "link": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
-            "summary": "Hundreds of contractors working on a project for Meta pretended to be kids in order to see how other chatbots like Gemini and ChatGPT would respond to...",
-            "published_utc": "2026-06-29T21:49:26+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2702,20 +2716,6 @@
             "link": "https://www.welivesecurity.com/en/privacy/what-consider-asking-ai-chatbot-health-advice/",
             "summary": "Using chatbots for medical advice could elicit hallucinations and even expose you to security and privacy risks. Here’s what’s at stake and how to sta...",
             "published_utc": "2026-05-27T08:50:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "PureLogs Variant Steals Data via Purchase Order Lures",
-            "link": "https://www.infosecurity-magazine.com/news/purelogs-phishing-purchase-order/",
-            "summary": "FortiGuard Labs detailed a PureLogs campaign using JavaScript, PowerShell and process hollowing",
-            "published_utc": "2026-05-27T08:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Chinese Threat Actors Ditch Static Phishing Pages for Live Credential Interception",
-            "link": "https://www.infosecurity-magazine.com/news/chinese-phishing-live-credential/",
-            "summary": "Almost all organizations impersonated by Chinese phishing platforms are non-Chinese entities, suggesting operators deliberately avoid domestic targets",
-            "published_utc": "2026-05-26T14:45:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
