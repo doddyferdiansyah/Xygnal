@@ -1,6 +1,20 @@
 {
-    "lastUpdatedUTC": "2026-08-01T10:41:03.815306+00:00",
+    "lastUpdatedUTC": "2026-08-01T12:02:35.138385+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Ruby on Rails Patches Critical Vulnerability",
+            "link": "https://www.securityweek.com/ruby-on-rails-patches-critical-vulnerability/",
+            "summary": "",
+            "published_utc": "2026-08-01T11:15:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Why your Windows installation files keep getting bigger - AI is filling up smaller drives",
+            "link": "https://www.zdnet.com/article/windows-installation-files-getting-bigger-blame-ai/",
+            "summary": "It's not your imagination. Microsoft's ISO downloads for Windows have been creeping up in size. It might even be fair to call them bloated. And you'll...",
+            "published_utc": "2026-08-01T11:00:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "The 5 laptop features worth spending extra on (and 3 that are mostly hype)",
@@ -196,13 +210,6 @@
             "link": "https://www.infosecurity-magazine.com/news/chinese-hacker-deepseek-ai/",
             "summary": "A Chinese-speaking threat actor has been using DeepSeek’s AI models to orchestrate cyber-attacks targeting Asian organizations",
             "published_utc": "2026-07-31T15:00:00+00:00"
-        },
-        {
-            "source": "WeLiveSecurity",
-            "title": "This month in security with Tony Anscombe – July 2026 edition",
-            "link": "https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-july-2026/",
-            "summary": "OpenAI models going rogue, the first documented agentic ransomware operation, and an emergent AI-driven supply chain threat made for a packed July rou...",
-            "published_utc": "2026-07-31T14:14:15+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -401,13 +408,6 @@
             "published_utc": "2026-07-30T21:20:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Bank of America to Acquire Cybersecurity Firm MDSec",
-            "link": "https://www.securityweek.com/bank-of-america-to-acquire-cybersecurity-firm-mdsec/",
-            "summary": "",
-            "published_utc": "2026-07-30T21:02:21+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "I tried Android Auto offline while on a road trip, and it beats mobile data in 2 ways",
             "link": "https://www.zdnet.com/article/i-tried-android-auto-offline-while-on-a-road-trip-and-it-beats-mobile-data-in-2-ways/",
@@ -469,13 +469,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/07/american-being-prosecuted-for-wiping-his-phone-before-handing-it-over-to-border-officials.html",
             "summary": "",
             "published_utc": "2026-07-30T16:20:30+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Your Windows download keeps getting bigger, and AI is to blame - here's why it matters",
-            "link": "https://www.zdnet.com/article/windows-installation-files-getting-bigger-blame-ai/",
-            "summary": "It's not your imagination. Windows installation files have been creeping up in size. It might even be fair to call them bloated. And you'll never gues...",
-            "published_utc": "2026-07-30T16:18:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -1652,6 +1645,13 @@
             "link": "https://www.infosecurity-magazine.com/news/simplehelp-rmm-vulnerability/",
             "summary": "Attackers exploited a critical SimpleHelp RMM bug to deploy TaskWeaver and Djinn Stealer malware",
             "published_utc": "2026-06-30T15:34:00+00:00"
+        },
+        {
+            "source": "WeLiveSecurity",
+            "title": "This month in security with Tony Anscombe – June 2026 edition",
+            "link": "https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-june-2026/",
+            "summary": "Three-day patching deadlines, exposed fuel-tank systems, scams costing billions of dollars, and social media bans for children all gave Tony plenty to...",
+            "published_utc": "2026-06-30T14:39:37+00:00"
         },
         {
             "source": "InfosecurityMag",
