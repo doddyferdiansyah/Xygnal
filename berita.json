@@ -1,6 +1,76 @@
 {
-    "lastUpdatedUTC": "2026-08-03T08:29:54.361409+00:00",
+    "lastUpdatedUTC": "2026-08-03T12:24:35.120843+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Brinks Home Discloses Data Breach as Hackers Leak Files",
+            "link": "https://www.securityweek.com/brinks-home-discloses-data-breach-as-hackers-leak-files/",
+            "summary": "",
+            "published_utc": "2026-08-03T11:45:14+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "HollowFrame Loader Uses Fake Python DLL to Evade Defender",
+            "link": "https://www.infosecurity-magazine.com/news/hollowframe-fake-python-dll/",
+            "summary": "New HollowFrame loader hid Go code in a fake Python DLL after pre-staging Defender exclusions",
+            "published_utc": "2026-08-03T11:26:00+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "The OpenAI Hack Shows the Genie Is Out of the Bottle",
+            "link": "https://www.schneier.com/blog/archives/2026/08/the-openai-hack-shows-the-genie-is-out-of-the-bottle.html",
+            "summary": "",
+            "published_utc": "2026-08-03T10:47:47+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Recent SonicWall Vulnerabilities Exploited in Ransomware Attacks",
+            "link": "https://www.securityweek.com/recent-sonicwall-vulnerabilities-exploited-in-ransomware-attacks/",
+            "summary": "",
+            "published_utc": "2026-08-03T10:39:41+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "ICE Collected Nearly 1 Million People’s DNA Last Year—Including Young Children",
+            "link": "https://www.wired.com/story/ice-dna-collection-fbi-codis/",
+            "summary": "Internal documents show ICE's DNA collection has skyrocketed in the second Trump administration. Now hundreds of thousands of people never convicted o...",
+            "published_utc": "2026-08-03T10:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Korea’s Largest Telco KT Fined $38m After Femtocell Campaign",
+            "link": "https://www.infosecurity-magazine.com/news/koreas-largest-telco-kt-fine-39m/",
+            "summary": "Korean telco KT has been fined $39m for a year-long breach linked to femtocell compromise",
+            "published_utc": "2026-08-03T09:36:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Russian State APT Linked to Recent Public Wi-Fi Gateway Hacking",
+            "link": "https://www.securityweek.com/russian-state-apt-linked-to-recent-public-wi-fi-gateway-hacking/",
+            "summary": "",
+            "published_utc": "2026-08-03T09:17:37+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Stop depending on heroics and start operationalizing third-party risk",
+            "link": "https://www.csoonline.com/article/4204027/stop-depending-on-heroics-and-start-operationalizing-third-party-risk.html",
+            "summary": "",
+            "published_utc": "2026-08-03T09:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "US Water Cyberattacks Extend Beyond Minnesota to at Least 6 Other States",
+            "link": "https://www.securityweek.com/us-water-cyberattacks-extend-beyond-minnesota-to-at-least-6-other-states/",
+            "summary": "",
+            "published_utc": "2026-08-03T08:48:02+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Coldcard Users Lose $89m After Bitcoin Wallet Is Hacked",
+            "link": "https://www.infosecurity-magazine.com/news/coldcard-users-lose-89m-bitcoin/",
+            "summary": "A hacker has drained nearly $89m from Coldcard Bitcoin wallets after exploiting a legacy bug",
+            "published_utc": "2026-08-03T08:40:00+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "AI is making cybersecurity fundamentals more important than ever",
@@ -359,25 +429,11 @@
             "published_utc": "2026-07-31T09:50:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Prompted by OpenAI Disclosure, Anthropic Finds Its Own Models Hacked 3 Organizations",
-            "link": "https://www.securityweek.com/after-openai-disclosure-anthropic-finds-its-own-models-hacked-3-organizations/",
-            "summary": "",
-            "published_utc": "2026-07-31T09:39:57+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "I installed these smart window shades in 10 minutes - now I want them all over my house",
             "link": "https://www.zdnet.com/article/smartwings-smart-window-shades-review/",
             "summary": "The Smartwings window shades are convenient and fully customizable, making them a good option for non-standard windows.",
             "published_utc": "2026-07-31T09:30:51+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Critical Flaw Allowed to Azure Cosmos DB Pwnage",
-            "link": "https://www.securityweek.com/critical-flaw-led-to-azure-cosmos-db-pwnage/",
-            "summary": "",
-            "published_utc": "2026-07-31T09:04:02+00:00"
         },
         {
             "source": "CSO Online",
@@ -406,20 +462,6 @@
             "link": "https://www.csoonline.com/article/4203086/5-key-priorities-for-your-black-hat-agenda-and-what-to-avoid.html",
             "summary": "",
             "published_utc": "2026-07-31T08:25:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "CareCloud Data Breach Impacts Over 350,000",
-            "link": "https://www.securityweek.com/carecloud-data-breach-impacts-over-350000/",
-            "summary": "",
-            "published_utc": "2026-07-31T07:51:43+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Critical Code Execution Vulnerability Patched in TeamCity",
-            "link": "https://www.securityweek.com/critical-code-execution-vulnerability-patched-in-teamcity/",
-            "summary": "",
-            "published_utc": "2026-07-31T06:50:30+00:00"
         },
         {
             "source": "WIRED Security",
@@ -688,13 +730,6 @@
             "published_utc": "2026-07-29T09:30:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Risk-based patching is the future. AI made it table stakes",
-            "link": "https://www.csoonline.com/article/4202381/risk-based-patching-is-the-future-ai-made-it-table-stakes.html",
-            "summary": "",
-            "published_utc": "2026-07-29T09:00:00+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "ICE’s New Detention Center Contracts Declare State Laws ‘Shall Not Apply’",
             "link": "https://www.wired.com/story/ices-new-detention-contracts-declare-state-law-shall-not-apply/",
@@ -812,13 +847,6 @@
             "link": "https://www.infosecurity-magazine.com/news/malvertising-builds-malware-in/",
             "summary": "Impersonating well-known cryptocurrency and trading sites, SourTrade has developed a novel technique to drop infostealers to victims",
             "published_utc": "2026-07-27T11:30:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Cognyte Sells a Mobile Cell Surveillance Van",
-            "link": "https://www.schneier.com/blog/archives/2026/07/cognyte-sells-a-mobile-cell-surveillance-van.html",
-            "summary": "",
-            "published_utc": "2026-07-27T11:04:30+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1449,13 +1477,6 @@
             "link": "https://www.wired.com/story/onlyfans-creators-dmca-hacked-government-websites/",
             "summary": "Scammers are hijacking government websites to upload ads for “leaked” OnlyFans content. Thousands of copyright complaints from adult creators are help...",
             "published_utc": "2026-07-08T10:30:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "What Happens if China Hacks the US Water Supply? I Went to a Secret War Game to Find Out",
-            "link": "https://www.wired.com/story/what-happens-if-china-hacks-the-us-water-supply-war-game-volt-typhoon/",
-            "summary": "Burst water mains. Evacuated hospitals. In a closed-door simulation, insurers played out their response to a mass disruption by China’s Volt Typhoon h...",
-            "published_utc": "2026-07-08T10:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
@@ -2690,32 +2711,11 @@
             "published_utc": "2026-05-28T10:01:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "GCHQ Chief Urges Action as AI Reshapes Cyber Threats",
-            "link": "https://www.infosecurity-magazine.com/news/gchq-keast-butler-cyber-action-ai/",
-            "summary": "GCHQ director urges urgent business cyber action as AI and quantum reshape the threat",
-            "published_utc": "2026-05-28T09:30:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "ESET APT Activity Report Q4 2025–Q1 2026",
             "link": "https://www.welivesecurity.com/en/eset-research/eset-apt-activity-report-q4-2025-q1-2026/",
             "summary": "An overview of the activities of selected APT groups investigated and analyzed by ESET Research in Q4 2025 and Q1 2026",
             "published_utc": "2026-05-28T08:45:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "CrowdStrike, Google Take Down Glassworm Botnet",
-            "link": "https://www.infosecurity-magazine.com/news/crowdstrike-google-takedown/",
-            "summary": "Operators of the malicious Glassworm botnet have been targeting software developers since at least early 2025",
-            "published_utc": "2026-05-27T14:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Infosecurity Europe: Why Burnout in Cybersecurity Demands Risk-Based Response",
-            "link": "https://www.infosecurity-magazine.com/news/why-burnout-cybersecurity-risk/",
-            "summary": "Cybermindz warns that cybersecurity burnout is a growing risk, urging organizations to move beyond wellness initiatives and adopt a measurable, risk-b...",
-            "published_utc": "2026-05-27T13:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
