@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2026-08-03T15:43:41.177319+00:00",
+    "lastUpdatedUTC": "2026-08-03T17:51:50.888355+00:00",
     "articles": [
+        {
+            "source": "Schneier",
+            "title": "More on the OpenAI Agent’s Attack on Hugging Face",
+            "link": "https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html",
+            "summary": "",
+            "published_utc": "2026-08-03T17:02:46+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "N-able warns of N-central auth bypass flaw exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/",
+            "summary": "N-able is warning customers that hackers are exploiting an authentication bypass vulnerability (CVE-2026-18577) affecting both hosted and on-premises ...",
+            "published_utc": "2026-08-03T17:00:56+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "AI shopping searches surged 200% in one year - and it's a top priority for commerce leaders now",
+            "link": "https://www.zdnet.com/article/ai-shopping-searches-surging-commerce-leaders-top-priority/",
+            "summary": "Eighty-six percent of commerce leaders believe AI is raising the bar for customer expectations.",
+            "published_utc": "2026-08-03T16:12:16+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "This free Linux tool makes it easy to check your PC battery and disk usage - here's how",
+            "link": "https://www.zdnet.com/article/mission-center-makes-it-even-easier-for-you-to-check-battery-and-disk-usage/",
+            "summary": "The Mission Center system monitor for Linux adds some new features that will appeal to a broader user base, especially those with laptops.",
+            "published_utc": "2026-08-03T15:53:44+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Black Hat USA 2026 – Summary of Vendor Announcements (Part 1)",
+            "link": "https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-1/",
+            "summary": "",
+            "published_utc": "2026-08-03T15:50:00+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Visa to Acquire Fraud Intelligence Firm BioCatch for $2.4 Billion",
@@ -247,13 +282,6 @@
             "published_utc": "2026-08-01T12:30:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Ruby on Rails Patches Critical Vulnerability",
-            "link": "https://www.securityweek.com/ruby-on-rails-patches-critical-vulnerability/",
-            "summary": "",
-            "published_utc": "2026-08-01T11:15:00+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "Why your Windows installation files keep getting bigger - AI is filling up smaller drives",
             "link": "https://www.zdnet.com/article/windows-installation-files-getting-bigger-blame-ai/",
@@ -387,20 +415,6 @@
             "published_utc": "2026-07-31T16:45:36+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "How OpenAI's agent escaped: Sprung by humans in a series of preventable events",
-            "link": "https://www.zdnet.com/article/how-openais-agent-escaped-mapping-a-series-of-preventable-events/",
-            "summary": "Behind the rogue agent's attack on Hugging Face was a particular sequence of human decisions. We all need to pay better attention - because threat act...",
-            "published_utc": "2026-07-31T16:45:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "LinkedIn's new 'Seems like AI slop' button lets you report all those cringey posts",
-            "link": "https://www.zdnet.com/article/thought-leadership-cultivate-and-align-ai-slop-is-all-over-linkedin-but-its-fighting-back/",
-            "summary": "LinkedIn's 'Seems like AI slop' button is coming to users, and its existence signals a changing perspective on AI infiltrating digital communities.",
-            "published_utc": "2026-07-31T16:42:21+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "DefCon security conference bans smart glasses with recording capabilities",
             "link": "https://www.csoonline.com/article/4203981/defcon-security-conference-bans-smart-glasses-with-recording-capabilities.html",
@@ -518,13 +532,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/",
             "summary": "One of Anthropic's Claude models built and uploaded a malicious Python package to PyPI during a botched security evaluation, where it ran on 15 real s...",
             "published_utc": "2026-07-31T00:57:25+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "South Korea fines telco giant KT $39 million for customer data breach",
-            "link": "https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/",
-            "summary": "South Korea's Personal Information Protection Commission (PIPC) has fined telecommunications giant KT Corporation KRW 53.979 billion ($39 million) ove...",
-            "published_utc": "2026-07-30T22:28:30+00:00"
         },
         {
             "source": "CSO Online",
@@ -805,13 +812,6 @@
             "link": "https://www.infosecurity-magazine.com/news/microsoft-ai-security-initiatives/",
             "summary": "Microsoft has launched a new agentic security system for cyber defenders as well as its first cyber-focused AI model",
             "published_utc": "2026-07-28T12:45:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Axon Is Another License Plate Surveillance Company",
-            "link": "https://www.schneier.com/blog/archives/2026/07/axon-is-another-license-plate-surveillance-company.html",
-            "summary": "",
-            "published_utc": "2026-07-28T11:06:30+00:00"
         },
         {
             "source": "InfosecurityMag",
