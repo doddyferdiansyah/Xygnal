@@ -1,6 +1,13 @@
 {
-    "lastUpdatedUTC": "2026-08-04T20:24:59.502226+00:00",
+    "lastUpdatedUTC": "2026-08-04T22:12:56.295933+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Phishing service spoofs RingCentral to steal Microsoft 365 accounts",
+            "link": "https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/",
+            "summary": "The Greatness phishing-as-a-service (PhaaS) platform has expanded from credential phishing to adversary-in-the-middle attacks and device-code phishing...",
+            "published_utc": "2026-08-04T21:45:36+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "New XCSSET variant targets macOS devs via compromised Xcode projects",
@@ -304,7 +311,7 @@
         },
         {
             "source": "CSO Online",
-            "title": "Attackers are crafting malicious AI instruction files to turn your agentic workflows into quiet criminal helpers",
+            "title": "Attackers are crafting malicious AI instruction files to turn agents into criminal helpers",
             "link": "https://www.csoonline.com/article/4204731/attackers-are-crafting-malicious-ai-instruction-files-to-turn-your-agentic-workflows-into-quiet-criminal-helpers.html",
             "summary": "",
             "published_utc": "2026-08-04T08:25:00+00:00"
@@ -497,13 +504,6 @@
             "link": "https://www.wired.com/story/best-password-managers/",
             "summary": "Keep your logins locked down with our favorite password management apps for PC, Mac, Android, iPhone, and web browsers.",
             "published_utc": "2026-08-02T11:30:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Rails patches critical Active Storage flaw with RCE potential",
-            "link": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
-            "summary": "A critical vulnerability in the Active Storage framework can allow an unauthenticated attacker to read arbitrary files from a Rails application, and p...",
-            "published_utc": "2026-08-01T14:20:30+00:00"
         },
         {
             "source": "WIRED Security",
