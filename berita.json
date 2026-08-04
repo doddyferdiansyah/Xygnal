@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-08-04T18:27:38.839946+00:00",
+    "lastUpdatedUTC": "2026-08-04T20:24:59.502226+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "New XCSSET variant targets macOS devs via compromised Xcode projects",
+            "link": "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/",
+            "summary": "A new version of the XCSSET malware is targeting thousands of macOS users through compromised Xcode projects and GitHub repositories. [...]",
+            "published_utc": "2026-08-04T19:03:09+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Iran Cyberattacks Against Minnesota Water Systems",
+            "link": "https://www.schneier.com/blog/archives/2026/08/iran-cyberattacks-against-minnesota-water-systems.html",
+            "summary": "",
+            "published_utc": "2026-08-04T19:00:53+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "77 Open VSX extensions found harvesting developer info",
+            "link": "https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/",
+            "summary": "77 extensions on the Open VSX marketplace impersonated legitimate developer tools while transmitting information about the systems and development env...",
+            "published_utc": "2026-08-04T18:50:55+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Marshall Stanmore IV vs. Sonos Era 300: I tested both to find the ultimate home speaker",
@@ -499,20 +520,6 @@
             "published_utc": "2026-08-01T09:30:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Amgen says cloud data breach exposed patient health, proprietary info",
-            "link": "https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/",
-            "summary": "Pharmaceutical company Amgen says it suffered a data breach after threat actors stole corporate data and patient information stored in multiple cloud ...",
-            "published_utc": "2026-07-31T22:16:42+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Arch Linux disables AUR package adoption to stop malware flood",
-            "link": "https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/",
-            "summary": "The Arch Linux project has temporarily disabled adoption of Arch User Repository (AUR) packages after a surge in malicious takeovers of existing packa...",
-            "published_utc": "2026-07-31T21:38:08+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Friday Squid Blogging: Squid Helps Discover New Marine Species",
             "link": "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squid-helps-discover-new-marine-species.html",
@@ -770,13 +777,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ta488-outlook-half-click-owareaper/",
             "summary": "TA488 returned with OWA half-click exploit deploying OWAReaper implant that survived re-imaging",
             "published_utc": "2026-07-29T15:10:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Long-Lived Vulnerability in Microsoft Secure Boot",
-            "link": "https://www.schneier.com/blog/archives/2026/07/long-lived-vulnerability-in-microsoft-secure-boot.html",
-            "summary": "",
-            "published_utc": "2026-07-29T11:01:09+00:00"
         },
         {
             "source": "InfosecurityMag",
