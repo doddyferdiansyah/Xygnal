@@ -1,6 +1,34 @@
 {
-    "lastUpdatedUTC": "2026-08-05T19:35:49.161620+00:00",
+    "lastUpdatedUTC": "2026-08-05T21:09:36.514928+00:00",
     "articles": [
+        {
+            "source": "WIRED Security",
+            "title": "DHS Wants Protesters’ Signal Group Chats",
+            "link": "https://www.wired.com/story/dhs-wants-protesters-signal-group-chats/",
+            "summary": "A lawsuit accuses Homeland Security of violating protesters’ free-speech rights—but the agency is using it to try to get access to the plaintiffs’ enc...",
+            "published_utc": "2026-08-05T20:38:54+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers run khunt post-exploitation toolkit from Oracle database",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/",
+            "summary": "Hackers exploited a SQL injection vulnerability to install a post-exploitation toolkit directly inside an Oracle database that was used to breach a co...",
+            "published_utc": "2026-08-05T19:55:25+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "The Most Dangerous AI Hacking Techniques Still Have Humans in the Loop",
+            "link": "https://www.wired.com/story/the-most-dangerous-ai-hacking-techniques-still-have-human-input/",
+            "summary": "Security researcher James Kettle tried to push the limit of AI’s hacking abilities—and discovered how effective it can be when combined with human exp...",
+            "published_utc": "2026-08-05T19:42:12+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "How a $50,000 Exploit Chain Turned Bixby Against Samsung Phones",
+            "link": "https://www.securityweek.com/how-a-50000-exploit-chain-turned-bixby-against-samsung-phones/",
+            "summary": "",
+            "published_utc": "2026-08-05T19:40:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "This round mini PC is big on personality - here's why I recommend it",
@@ -532,13 +560,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/",
             "summary": "A new Russian loader-as-a-service named DOUBLECUP uses ClickFix attacks to hide malicious code in PNG images cached by victims' browsers, ultimately d...",
             "published_utc": "2026-08-03T20:01:22+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Fake Roblox Xeno script launcher pushes infostealer, RAT malware",
-            "link": "https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/",
-            "summary": "Fake Xeno Executor installers are infecting unsuspecting Roblox players with malware that provides remote access and steals sensitive information. [...]",
-            "published_utc": "2026-08-03T19:25:10+00:00"
         },
         {
             "source": "Schneier",
@@ -1423,13 +1444,6 @@
             "published_utc": "2026-07-13T10:40:00+00:00"
         },
         {
-            "source": "WIRED Security",
-            "title": "A Leak of San Francisco Police Drone Footage Exposes the New Reality of Urban Surveillance",
-            "link": "https://www.wired.com/story/sfpd-drone-video-leak-surveillance/",
-            "summary": "The SFPD’s exposure of hours of videos from drone platform Skydio reveals how broadly it’s watching the city from above—and how the results can spill ...",
-            "published_utc": "2026-07-13T10:00:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Hacker Extradited from Ukraine Pleads Guilty to Ryuk Ransomware Charges",
             "link": "https://www.infosecurity-magazine.com/news/hacker-extradited-ukraine-guilty/",
@@ -1442,13 +1456,6 @@
             "link": "https://www.infosecurity-magazine.com/news/australia-warns-global-cms/",
             "summary": "Australian Cyber Security Centre warns CMS users of mass scanning and exploitation campaign",
             "published_utc": "2026-07-13T08:30:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "AI Found a Root Bug in Linux That Everyone Missed for 15 Years",
-            "link": "https://www.wired.com/story/security-news-this-week-ai-found-a-root-bug-in-linux-that-everyone-missed-for-15-years/",
-            "summary": "Plus: The Pentagon is training amateurs to become part of its hacker army, a Flock license plate reader error led to cops surrounding a car reviewer, ...",
-            "published_utc": "2026-07-11T10:30:00+00:00"
         },
         {
             "source": "InfosecurityMag",
