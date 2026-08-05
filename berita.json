@@ -1,9 +1,58 @@
 {
-    "lastUpdatedUTC": "2026-08-05T10:35:52.587419+00:00",
+    "lastUpdatedUTC": "2026-08-05T12:52:55.898880+00:00",
     "articles": [
         {
             "source": "SecurityWeek",
-            "title": "AI Security Institute Reports Anthropic and OpenAI Models Going Rogue Against Organizations",
+            "title": "New Attack Methods Enable Malware to Hijack Passkey-Protected Accounts",
+            "link": "https://www.securityweek.com/new-attack-methods-enable-malware-to-hijack-passkey-protected-accounts/",
+            "summary": "",
+            "published_utc": "2026-08-05T12:48:49+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Desktop Linux just cracked 10% market share - and Windows 11 is mostly to blame",
+            "link": "https://www.zdnet.com/article/the-linux-desktop-finally-cracks-the-10-market-share-barrier/",
+            "summary": "Windows is in decline, and both Macs and Linux are gaining ground at its expense.",
+            "published_utc": "2026-08-05T12:42:03+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Critical Paperclip bugs expose AI agent trust failures",
+            "link": "https://www.csoonline.com/article/4205630/critical-paperclip-bugs-expose-ai-agent-trust-failures.html",
+            "summary": "",
+            "published_utc": "2026-08-05T12:00:17+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "OpenAI, Anthropic AI agents resorted to deception in new cybersecurity incidents",
+            "link": "https://www.csoonline.com/article/4205612/openai-anthropic-ai-agents-resorted-to-deception-in-new-cybersecurity-incidents.html",
+            "summary": "",
+            "published_utc": "2026-08-05T11:41:46+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "311,000 Impacted by Brown Health Medical Group-MA Data Breach",
+            "link": "https://www.securityweek.com/311000-impacted-by-brown-health-medical-group-ma-data-breach/",
+            "summary": "",
+            "published_utc": "2026-08-05T11:35:23+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Cybersecurity Alliance Drafts SAFE Guidelines for Sharing AI Incident Data",
+            "link": "https://www.securityweek.com/cybersecurity-alliance-drafts-safe-guidelines-for-sharing-ai-incident-data/",
+            "summary": "",
+            "published_utc": "2026-08-05T11:11:29+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Prompt Injection Remains Biggest LLM Risk, Despite Limited Incidents",
+            "link": "https://www.infosecurity-magazine.com/news/prompt-injection-llm-risk/",
+            "summary": "Prompt injection remains the most dangerous security threat to LLMs, according to OWASP’s latest Top 10 LLM Applications list",
+            "published_utc": "2026-08-05T11:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "AI Agents Targeted Real People and Projects During Cybersecurity Tests",
             "link": "https://www.securityweek.com/ai-security-institute-reports-anthropic-and-openai-models-going-rogue-against-organizations/",
             "summary": "",
             "published_utc": "2026-08-05T10:33:41+00:00"
@@ -261,13 +310,6 @@
             "published_utc": "2026-08-04T14:54:29+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "CISO Conversations: Russ Kirby – Passion Is the Antidote to Burnout",
-            "link": "https://www.securityweek.com/ciso-conversation-russ-kirby-passion-is-the-antidote-to-burnout/",
-            "summary": "",
-            "published_utc": "2026-08-04T14:30:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "WhatsApp Scam Hijacks Accounts via Linked Devices Feature",
             "link": "https://www.infosecurity-magazine.com/news/whatsapp-voting-scam-linked/",
@@ -303,25 +345,11 @@
             "published_utc": "2026-08-04T14:00:10+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Weaponized Email AI Assistants Could Help Attackers Hijack Accounts",
-            "link": "https://www.securityweek.com/weaponized-email-ai-assistants-could-help-attackers-hijack-accounts/",
-            "summary": "",
-            "published_utc": "2026-08-04T13:54:13+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "Microsoft finally realized Windows 11 is too annoying. Can it be fixed?",
             "link": "https://www.zdnet.com/article/microsoft-finally-realized-windows-11-is-too-annoying-can-it-be-fixed/",
             "summary": "Microsoft's latest progress report details much-needed Windows 11 improvements in reliability, performance, stability, and usability. But pressure to ...",
             "published_utc": "2026-08-04T13:43:26+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Zenity Raises $125 Million in Series C Funding",
-            "link": "https://www.securityweek.com/zenity-raises-125-million-in-series-c-funding/",
-            "summary": "",
-            "published_utc": "2026-08-04T13:40:42+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -455,13 +483,6 @@
             "link": "https://www.zdnet.com/article/ember-smart-mug-deal-best-buy/",
             "summary": "Keep your coffee, tea, or hot chocolate at the perfect temperature with the Ember self-heating mug.",
             "published_utc": "2026-08-03T19:43:52+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "T-Mobile will give you the new Samsung Galaxy Z Flip for practically nothing if you preorder now",
-            "link": "https://www.zdnet.com/article/t-mobile-samsung-galaxy-z-flip-deal/",
-            "summary": "New and existing T-Mobile customers can save up to $1,100 on Samsung's latest flip phone now (including the pink color). Here's how.",
-            "published_utc": "2026-08-03T19:31:01+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -637,20 +658,6 @@
             "link": "https://www.csoonline.com/article/4203952/google-adds-to-confusion-with-new-names-for-threat-actors.html",
             "summary": "",
             "published_utc": "2026-07-31T13:52:22+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Broadcom patches vulnerabilities all over VMware",
-            "link": "https://www.csoonline.com/article/4203947/broadcom-patches-vulnerabilities-all-over-vmware.html",
-            "summary": "",
-            "published_utc": "2026-07-31T13:38:24+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Microsoft almost gave away the keys to everyone’s Azure Cosmos DBs",
-            "link": "https://www.csoonline.com/article/4203921/microsoft-almost-gave-away-the-keys-to-everyones-azure-cosmos-dbs.html",
-            "summary": "",
-            "published_utc": "2026-07-31T12:53:47+00:00"
         },
         {
             "source": "Schneier",
@@ -2709,13 +2716,6 @@
             "link": "https://www.infosecurity-magazine.com/news/gamaredon-worm-ntfs-data-streams/",
             "summary": "FSB-linked Gamaredon concealed a fileless worm in NTFS data streams to spy on Ukraine targets",
             "published_utc": "2026-06-01T11:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Attackers Abuse Shared Content for ChatGPT Phishing Campaign",
-            "link": "https://www.infosecurity-magazine.com/news/attackers-shared-content-chatgpt/",
-            "summary": "Push Security says threat actors are delivering malware hosted on chatgpt.com/s/ domain",
-            "published_utc": "2026-06-01T09:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
