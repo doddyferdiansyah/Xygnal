@@ -1,6 +1,34 @@
 {
-    "lastUpdatedUTC": "2026-08-04T22:12:56.295933+00:00",
+    "lastUpdatedUTC": "2026-08-05T00:03:50.521223+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "OpenAI, Anthropic AI agents targeted real people and systems in cyber tests",
+            "link": "https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/",
+            "summary": "OpenAI and Anthropic have confirmed that their AI models were involved in separate, newly disclosed third-party cybersecurity testing incidents that r...",
+            "published_utc": "2026-08-04T23:39:59+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "OK, Well, Rogue AI Agents Are Hacking Again",
+            "link": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents/",
+            "summary": "Rogue AI agents from OpenAI and Anthropic have again been caught trying to disrupt servers and software—and leaving instructions for future bad behavior.",
+            "published_utc": "2026-08-04T23:11:31+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "ChainDrop credential stealing worm infects over 400 npm packages",
+            "link": "https://www.csoonline.com/article/4205276/chaindrop-credential-stealing-worm-infects-over-400-npm-packages.html",
+            "summary": "",
+            "published_utc": "2026-08-04T22:37:24+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "TP-Link patches Omada ZTP flaws allowing hackers to breach networks",
+            "link": "https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/",
+            "summary": "TP-Link has patched 15 vulnerabilities in the zero-touch provisioning (ZTP) mechanism of its Omada network devices that could be chained with previous...",
+            "published_utc": "2026-08-04T22:18:20+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Phishing service spoofs RingCentral to steal Microsoft 365 accounts",
@@ -485,20 +513,6 @@
             "published_utc": "2026-08-02T22:31:41+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft",
-            "link": "https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/",
-            "summary": "A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal an estimated $88.6 million in Bitcoin from thousands of wallets whose ...",
-            "published_utc": "2026-08-02T21:14:29+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Google Chrome may soon block New Tab hijacker extensions by default",
-            "link": "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/",
-            "summary": "Google is preparing a new Chrome security feature that would block policy-installed extensions from hijacking the New Tab page or changing the default...",
-            "published_utc": "2026-08-02T14:17:16+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "8 Best Password Managers (2026), Tested and Reviewed",
             "link": "https://www.wired.com/story/best-password-managers/",
@@ -692,13 +706,6 @@
             "title": "AI and Automation Fall Short of Sysadmin Expectations",
             "link": "https://www.infosecurity-magazine.com/news/ai-automation-fall-short-sysadmin/",
             "summary": "Action1 report finds sysadmins overestimated their use of AI in predictions made two years ago",
-            "published_utc": "2026-07-30T13:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "AI agents gain access to financial workflows amid growing governance gaps",
-            "link": "https://www.csoonline.com/article/4203384/ai-agents-gain-access-to-financial-workflows-amid-growing-governance-gaps.html",
-            "summary": "",
             "published_utc": "2026-07-30T13:00:00+00:00"
         },
         {
