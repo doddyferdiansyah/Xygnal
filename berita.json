@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-08-06T00:06:49.711133+00:00",
+    "lastUpdatedUTC": "2026-08-06T04:13:08.038363+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "DuckDuckGo's new iPhone feature is a privacy win - I recommend getting it now",
+            "link": "https://www.zdnet.com/article/duckduckgo-is-adding-a-feature-for-iphone-that-everyone-should-have/",
+            "summary": "The iPhone version of the DuckDuckGo app has a new feature that makes sharing links easier and safer.",
+            "published_utc": "2026-08-06T02:00:43+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I ran a dumpstate analysis on my Samsung phone and found 3 useful system diagnostics",
+            "link": "https://www.zdnet.com/article/how-to-run-dumpstate-analysis-on-android-phone/",
+            "summary": "The hidden diagnostic file breaks down all the logging your Pixel, Samsung, or even Motorola does daily. Here's how I've been using it.",
+            "published_utc": "2026-08-06T00:24:00+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
+            "link": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
+            "summary": "At the Black Hat security conference, the AI giant revealed new details about how its agents went rogue, hacked several other companies—and did it all...",
+            "published_utc": "2026-08-06T00:15:04+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "Report: Passkey security issues could allow account takeover",
@@ -10,16 +31,16 @@
         },
         {
             "source": "WIRED Security",
-            "title": "OpenAI’s Browser Could Be Hijacked to Spam Your WhatsApp Contacts",
-            "link": "https://www.wired.com/story/openais-browser-could-be-hijacked-to-spam-your-whatsapp-contacts/",
-            "summary": "Researchers at security firm Zenity found more than a dozen flaws in AI browsers—and managed to get OpenAI’s Atlas to make an unauthorized Amazon purc...",
+            "title": "A Security Pro Hacked North Korean Hackers. He Found They’d Breached Hundreds of Networks Worldwide",
+            "link": "https://www.wired.com/story/a-security-pro-hacked-north-korean-hackers-he-found-theyd-breached-hundreds-of-networks-worldwide/",
+            "summary": "For nearly two years, researcher Vangelis Stykas has maintained access to North Korean hackers’ servers. His work shows they pulled off intrusions in ...",
             "published_utc": "2026-08-05T23:30:00+00:00"
         },
         {
             "source": "WIRED Security",
-            "title": "A Security Pro Hacked North Korean Hackers. He Found They’d Breached Hundreds of Networks Worldwide",
-            "link": "https://www.wired.com/story/a-security-pro-hacked-north-korean-hackers-he-found-theyd-breached-hundreds-of-networks-worldwide/",
-            "summary": "For nearly two years, researcher Vangelis Stykas has maintained access to North Korean hackers’ servers. His work shows they pulled off intrusions in ...",
+            "title": "OpenAI’s Browser Could Be Hijacked to Spam Your WhatsApp Contacts",
+            "link": "https://www.wired.com/story/openais-browser-could-be-hijacked-to-spam-your-whatsapp-contacts/",
+            "summary": "Researchers at security firm Zenity found more than a dozen flaws in AI browsers—and managed to get OpenAI’s Atlas to make an unauthorized Amazon purc...",
             "published_utc": "2026-08-05T23:30:00+00:00"
         },
         {
@@ -112,13 +133,6 @@
             "link": "https://www.zdnet.com/article/t-mobile-outage-credit/",
             "summary": "T-Mobile customers affected by the outage in July have been requesting credit. Though $10 is standard, the more persistent you are, the more you may b...",
             "published_utc": "2026-08-05T17:18:59+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I ran a dumpstate analysis on my Android phone - 3 system diagnostics to check for free",
-            "link": "https://www.zdnet.com/article/how-to-run-dumpstate-analysis-on-android-phone/",
-            "summary": "The hidden diagnostic file breaks down all the logging your Pixel, Samsung, or even Motorola does daily. Here's what you can learn from it.",
-            "published_utc": "2026-08-05T17:15:43+00:00"
         },
         {
             "source": "WIRED Security",
@@ -497,13 +511,6 @@
             "link": "https://www.infosecurity-magazine.com/news/whatsapp-voting-scam-linked/",
             "summary": "WhatsApp scam abused the Linked devices feature to hijack accounts without stealing any passwords",
             "published_utc": "2026-08-04T14:30:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Home batteries cost thousands. So why would 91% of owners buy one again?",
-            "link": "https://www.zdnet.com/article/home-batteries-cost-thousands-so-why-do-91-of-owners-say-they-would-buy-one-again/",
-            "summary": "Up-front cost is a big barrier for those considering battery systems, but homeowner experience shows why the value overshadows the sticker shock almos...",
-            "published_utc": "2026-08-04T14:20:14+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -1239,13 +1246,6 @@
             "link": "https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/",
             "summary": "Plus: Russian cyberspies turn to infrastructure hacking, DHS repeatedly fails to realize it’d been hacked, a breach exposes an AI music generator’s sc...",
             "published_utc": "2026-07-18T10:30:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
-            "link": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
-            "summary": "“Context bombing” tricks malicious AI agents into shutting down before they can do harm.",
-            "published_utc": "2026-07-18T09:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
