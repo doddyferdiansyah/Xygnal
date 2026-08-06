@@ -1,6 +1,62 @@
 {
-    "lastUpdatedUTC": "2026-08-06T07:40:13.546425+00:00",
+    "lastUpdatedUTC": "2026-08-06T10:40:07.308768+00:00",
     "articles": [
+        {
+            "source": "InfosecurityMag",
+            "title": "Canadian Hacker Pleads Guilty Over Snowflake Extortion Campaign",
+            "link": "https://www.infosecurity-magazine.com/news/canadian-hacker-guilty-snowflake/",
+            "summary": "A Canadian hacker has admitted involvement in the widespread compromise of 165 Snowflake customer accounts used to steal data and extort victims",
+            "published_utc": "2026-08-06T10:15:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Why the ‘rogue AI’ problem will lead to an era of headaches for security practitioners",
+            "link": "https://www.csoonline.com/article/4205718/why-the-rogue-ai-problem-will-lead-to-an-era-of-headaches-for-security-practitioners.html",
+            "summary": "",
+            "published_utc": "2026-08-06T10:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Meta AI Hacked External Systems During Cybersecurity Testing",
+            "link": "https://www.securityweek.com/meta-ai-hacked-external-systems-during-cybersecurity-testing/",
+            "summary": "",
+            "published_utc": "2026-08-06T09:56:26+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Belarusian Ransom Cartel Mastermind Gets 16 Years in Prison",
+            "link": "https://www.securityweek.com/belarusian-ransom-cartel-mastermind-gets-16-years-in-prison/",
+            "summary": "",
+            "published_utc": "2026-08-06T09:30:30+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The best 75-inch TVs of 2026: Expert tested",
+            "link": "https://www.zdnet.com/article/best-75-inch-tv/",
+            "summary": "A 75-inch TV gives you a big-screen experience without overwhelming your space. And we've tested the best from Samsung, Sony, LG, and more to help you...",
+            "published_utc": "2026-08-06T09:00:49+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Practical lessons from deploying AI securely at scale",
+            "link": "https://www.csoonline.com/article/4205710/practical-lessons-from-deploying-ai-securely-at-scale.html",
+            "summary": "",
+            "published_utc": "2026-08-06T09:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "NVIDIA Group Proposes SAFE Initiative for Agentic Threat Intel Sharing",
+            "link": "https://www.infosecurity-magazine.com/news/safe-initiative-agentic-threat/",
+            "summary": "The Open Secure AI Alliance has announced plans for the Shared AI Findings Exchange (SAFE)",
+            "published_utc": "2026-08-06T08:30:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Evidence points to cybercriminals stepping up their AI game",
+            "link": "https://www.csoonline.com/article/4205861/evidence-points-to-cybercriminals-stepping-up-their-ai-game.html",
+            "summary": "",
+            "published_utc": "2026-08-06T08:25:00+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Cisco Patches Critical SD-WAN, IOS XE, FMC Vulnerabilities",
@@ -45,16 +101,16 @@
         },
         {
             "source": "WIRED Security",
-            "title": "A Security Pro Hacked North Korean Hackers. He Found They’d Breached Hundreds of Networks Worldwide",
-            "link": "https://www.wired.com/story/a-security-pro-hacked-north-korean-hackers-he-found-theyd-breached-hundreds-of-networks-worldwide/",
-            "summary": "For nearly two years, researcher Vangelis Stykas has maintained access to North Korean hackers’ servers. His work shows they pulled off intrusions in ...",
+            "title": "OpenAI’s Browser Could Be Hijacked to Spam Your WhatsApp Contacts",
+            "link": "https://www.wired.com/story/openais-browser-could-be-hijacked-to-spam-your-whatsapp-contacts/",
+            "summary": "Researchers at security firm Zenity found more than a dozen flaws in AI browsers—and managed to get OpenAI’s Atlas to make an unauthorized Amazon purc...",
             "published_utc": "2026-08-05T23:30:00+00:00"
         },
         {
             "source": "WIRED Security",
-            "title": "OpenAI’s Browser Could Be Hijacked to Spam Your WhatsApp Contacts",
-            "link": "https://www.wired.com/story/openais-browser-could-be-hijacked-to-spam-your-whatsapp-contacts/",
-            "summary": "Researchers at security firm Zenity found more than a dozen flaws in AI browsers—and managed to get OpenAI’s Atlas to make an unauthorized Amazon purc...",
+            "title": "A Security Pro Hacked North Korean Hackers. He Found They’d Breached Hundreds of Networks Worldwide",
+            "link": "https://www.wired.com/story/a-security-pro-hacked-north-korean-hackers-he-found-theyd-breached-hundreds-of-networks-worldwide/",
+            "summary": "For nearly two years, researcher Vangelis Stykas has maintained access to North Korean hackers’ servers. His work shows they pulled off intrusions in ...",
             "published_utc": "2026-08-05T23:30:00+00:00"
         },
         {
@@ -282,20 +338,6 @@
             "published_utc": "2026-08-05T11:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "AI Agents Targeted Real People and Projects During Cybersecurity Tests",
-            "link": "https://www.securityweek.com/ai-security-institute-reports-anthropic-and-openai-models-going-rogue-against-organizations/",
-            "summary": "",
-            "published_utc": "2026-08-05T10:33:41+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The best 98-inch TVs of 2026: Expert tested",
-            "link": "https://www.zdnet.com/article/best-98-inch-tv/",
-            "summary": "Create the ultimate movie theater experience at home with 98-inch TVs from Hisense, Samsung, and more.",
-            "published_utc": "2026-08-05T10:00:49+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "ChainDrop Worm Hits 400+ npm Packages with Two Billion Monthly Installs",
             "link": "https://www.infosecurity-magazine.com/news/chaindrop-worm-400-npm-two-billion/",
@@ -308,13 +350,6 @@
             "link": "https://www.csoonline.com/article/4205129/one-c2-kit-30-customers-2-governments.html",
             "summary": "",
             "published_utc": "2026-08-05T10:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "CISA Warns of Exploited Langflow, N-central, and Tomcat Vulnerabilities",
-            "link": "https://www.securityweek.com/cisa-warns-of-exploited-langflow-n-central-and-tomcat-vulnerabilities/",
-            "summary": "",
-            "published_utc": "2026-08-05T09:44:50+00:00"
         },
         {
             "source": "Schneier",
@@ -499,13 +534,6 @@
             "published_utc": "2026-08-04T15:06:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "3 overlooked CarPlay features you'll wish you tried sooner - and why",
-            "link": "https://www.zdnet.com/article/overlooked-carplay-features-youll-wish-you-tried-sooner-why/",
-            "summary": "You can get more from CarPlay - beyond Maps and Music - with these free features.",
-            "published_utc": "2026-08-04T14:54:29+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "WhatsApp Scam Hijacks Accounts via Linked Devices Feature",
             "link": "https://www.infosecurity-magazine.com/news/whatsapp-voting-scam-linked/",
@@ -590,13 +618,6 @@
             "published_utc": "2026-08-04T08:40:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Attackers are crafting malicious AI instruction files to turn your agents into quiet criminal helpers",
-            "link": "https://www.csoonline.com/article/4204731/attackers-are-crafting-malicious-ai-instruction-files-to-turn-your-agentic-workflows-into-quiet-criminal-helpers.html",
-            "summary": "",
-            "published_utc": "2026-08-04T08:25:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts",
             "link": "https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/",
@@ -625,13 +646,6 @@
             "published_utc": "2026-08-03T14:30:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Zero Networks targets AI agent security gaps with network-level ‘Least Agency’ controls",
-            "link": "https://www.csoonline.com/article/4204394/zero-networks-targets-ai-agent-security-gaps-with-network-level-least-agency-controls.html",
-            "summary": "",
-            "published_utc": "2026-08-03T13:00:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "HollowFrame Loader Uses Fake Python DLL to Evade Defender",
             "link": "https://www.infosecurity-magazine.com/news/hollowframe-fake-python-dll/",
@@ -658,13 +672,6 @@
             "link": "https://www.infosecurity-magazine.com/news/koreas-largest-telco-kt-fine-39m/",
             "summary": "Korean telco KT has been fined $39m for a year-long breach linked to femtocell compromise",
             "published_utc": "2026-08-03T09:36:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Stop depending on heroics and start operationalizing third-party risk",
-            "link": "https://www.csoonline.com/article/4204027/stop-depending-on-heroics-and-start-operationalizing-third-party-risk.html",
-            "summary": "",
-            "published_utc": "2026-08-03T09:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2702,20 +2709,6 @@
             "link": "https://www.infosecurity-magazine.com/news/business-leaders-struggle-threat/",
             "summary": "A new Silobreaker and SANS Institute paper examines the ‘Intelligence-Stakeholder Gap’ and what organizations must do to achieve business buy-in on th...",
             "published_utc": "2026-06-02T08:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Critical Flowise Flaw Gives Attackers Full Server Control",
-            "link": "https://www.infosecurity-magazine.com/news/flowise-mcp-rce-poc/",
-            "summary": "Obsidian publishes PoC for a 1-click Flowise RCE that can fully compromise self-hosted servers",
-            "published_utc": "2026-06-01T14:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Infosecurity Europe: Tabletop Exercise to Test How CISOs Respond to Major Supermarket Cyber-Attack",
-            "link": "https://www.infosecurity-magazine.com/news/infosecurity-europe-semperis/",
-            "summary": "Semperis is set to bring ‘Enter the War Room: A Tabletop Experience’ to Infosecurity Europe to help cybersecurity leaders prepare to face real incidents",
-            "published_utc": "2026-06-01T13:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
