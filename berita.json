@@ -1,6 +1,13 @@
 {
-    "lastUpdatedUTC": "2026-08-08T13:46:17.171948+00:00",
+    "lastUpdatedUTC": "2026-08-08T14:32:18.427041+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers breach TrueConf to trojanize client installers with backdoors",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/",
+            "summary": "The Head Mare hacktivist group has been exploiting vulnerabilities in unpatched TrueConf video conferencing servers to replace client installers with ...",
+            "published_utc": "2026-08-08T14:16:23+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Critical One-Click Vulnerability in Atlassian’s Rovo AI Exposed Enterprise Data",
@@ -588,13 +595,6 @@
             "link": "https://www.wired.com/story/dhs-wants-protesters-signal-group-chats/",
             "summary": "A lawsuit accuses Homeland Security of violating protesters’ free-speech rights—but the agency is using it to try to get access to the plaintiffs’ enc...",
             "published_utc": "2026-08-05T20:38:54+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Hackers run khunt post-exploitation toolkit from Oracle database",
-            "link": "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/",
-            "summary": "Hackers exploited a SQL injection vulnerability to install a post-exploitation toolkit directly inside an Oracle database that was used to breach a co...",
-            "published_utc": "2026-08-05T19:55:25+00:00"
         },
         {
             "source": "WIRED Security",
