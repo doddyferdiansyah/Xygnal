@@ -1,6 +1,69 @@
 {
-    "lastUpdatedUTC": "2026-08-10T13:09:10.793090+00:00",
+    "lastUpdatedUTC": "2026-08-10T14:59:03.972213+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "CISA: SonicWall SMA1000 flaws now exploited by ransomware gangs",
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs/",
+            "summary": "CISA has confirmed that ransomware gangs have begun exploiting two recently patched SonicWall SMA1000 vulnerabilities, including a maximum-severity se...",
+            "published_utc": "2026-08-10T14:34:32+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "OpenAI’s Upcoming Astra Model Raises Autonomous Cyberattack Concerns",
+            "link": "https://www.securityweek.com/openais-upcoming-astra-model-raises-autonomous-cyberattack-concerns/",
+            "summary": "",
+            "published_utc": "2026-08-10T14:33:36+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "WordPress Plugins Compromised Without a Single File Change",
+            "link": "https://www.infosecurity-magazine.com/news/bdthemes-wordpress-poisoned-api/",
+            "summary": "Poisoned JSON feed let attackers backdoor WordPress sites without changing any plugin files",
+            "published_utc": "2026-08-10T14:30:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I tried a solar-powered AirTag alternative that lasts 2 years - and looks like my Apple Watch",
+            "link": "https://www.zdnet.com/article/ugreen-finder-pro-solar-powered-finder-tag-review/",
+            "summary": "This finder tag has excellent range, and it's built for the outdoors.",
+            "published_utc": "2026-08-10T14:25:56+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "This Mac dock gives me lag-free dual displays with no sketchy drivers - for $150",
+            "link": "https://www.zdnet.com/article/startech-driverless-dual-display-universal-mac-docking-station-review/",
+            "summary": "I finally get full support for two displays - without paying Thunderbolt prices. But there is a catch.",
+            "published_utc": "2026-08-10T14:24:15+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Stealthium Targets Security Blind Spots in AI Accelerators and Neo-Clouds",
+            "link": "https://www.securityweek.com/stealthium-targets-security-blind-spots-in-ai-accelerators-and-neo-clouds/",
+            "summary": "",
+            "published_utc": "2026-08-10T14:19:36+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Cisco Warns of High-Severity ClamAV Vulnerabilities With Public PoC",
+            "link": "https://www.securityweek.com/cisco-warns-of-high-severity-clamav-vulnerabilities-with-public-poc/",
+            "summary": "",
+            "published_utc": "2026-08-10T14:07:48+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "When Credentials Are No Longer Enough: Device Trust in the AI Era",
+            "link": "https://www.bleepingcomputer.com/news/security/when-credentials-are-no-longer-enough-device-trust-in-the-ai-era/",
+            "summary": "AI is making phishing, credential theft, and social engineering faster and more efficient, while traditional trust signals such as passwords, MFA, IP ...",
+            "published_utc": "2026-08-10T14:01:11+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "We lab-tested Ecovac's next-gen robot mop - here's where it shines (and struggles)",
+            "link": "https://www.zdnet.com/article/deebot-x12-omnicyclone-review-ecovacs-robot-vacuum/",
+            "summary": "The Ecovacs Deebot X12 OmniCyclone is not just a mouthful; it's a market leader in features and intelligence.",
+            "published_utc": "2026-08-10T13:45:00+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "‘Ghostjacking’ Attack Uses Poisoned Logs to Turn AI Agents Bad",
@@ -156,13 +219,6 @@
             "published_utc": "2026-08-08T14:16:23+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Critical One-Click Vulnerability in Atlassian’s Rovo AI Exposed Enterprise Data",
-            "link": "https://www.securityweek.com/critical-one-click-vulnerability-in-atlassians-rovo-ai-exposed-enterprise-data/",
-            "summary": "",
-            "published_utc": "2026-08-08T11:30:00+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "Flock’s Plans for Rideshare Dashcams and Coaching Police, Revealed",
             "link": "https://www.wired.com/story/flocks-plans-for-rideshare-dashcams-and-coaching-police-revealed/",
@@ -268,13 +324,6 @@
             "published_utc": "2026-08-07T14:48:48+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "In Other News: AI Slop Limits Apple Bounties, North Carolina Port Attacks, Hackers Target Wall Street",
-            "link": "https://www.securityweek.com/in-other-news-ai-slop-limits-apple-bounties-north-carolina-port-attacks-hackers-target-wall-street/",
-            "summary": "",
-            "published_utc": "2026-08-07T14:26:42+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "I compared Google's pricier Pixel 11 series to Samsung's Galaxy lineup - here's the better value now",
             "link": "https://www.zdnet.com/article/google-pricier-pixel-11-series-compared-to-samsung-galaxy-lineup-heres-the-better-value/",
@@ -338,13 +387,6 @@
             "published_utc": "2026-08-07T12:01:15+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Vishing Extortion Group UNC6671 Rebrands After Making Millions",
-            "link": "https://www.securityweek.com/vishing-extortion-group-unc6671-rebrands-after-making-millions/",
-            "summary": "",
-            "published_utc": "2026-08-07T11:06:01+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Healthcare and Victim Support Charities Affected by Beacon Cyber Incident",
             "link": "https://www.infosecurity-magazine.com/news/healthcare-victim-charities-beacon/",
@@ -380,13 +422,6 @@
             "published_utc": "2026-08-07T09:01:07+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "The best electric screwdrivers of 2026: Expert tested and reviewed",
-            "link": "https://www.zdnet.com/article/best-electric-screwdriver/",
-            "summary": "I tested dozens of the best electric screwdrivers on the market to help you find the perfect one to take the strain out of your DIY tasks.",
-            "published_utc": "2026-08-07T09:00:49+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Python package security in 2026: How supply chain attacks are targeting your AI development environment",
             "link": "https://www.csoonline.com/article/4206245/python-package-security-in-2026.html",
@@ -413,13 +448,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ransomware-surges-july-q2-lull/",
             "summary": "Finance, technology and healthcare sectors were particularly heavily targeted in July, according to Comparitech",
             "published_utc": "2026-08-07T08:20:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The best Samsung Galaxy Z Fold 8 and Fold 8 Ultra cases of 2026: Expert recommended",
-            "link": "https://www.zdnet.com/article/best-samsung-galaxy-z-fold-8-cases/",
-            "summary": "Samsung's new Galaxy Z Fold 8 phones are here, and we found the best phone cases from brands like Spigen, Dbrand, and more to protect your new device.",
-            "published_utc": "2026-08-07T08:00:49+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -450,13 +478,6 @@
             "published_utc": "2026-08-06T21:35:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Google's new Pixel 11 series comes next week - here's what we know from leaks",
-            "link": "https://www.zdnet.com/article/google-pixel-11-series-leaks-everything-we-know/",
-            "summary": "The Pixel 11 lineup isn't bringing drastic changes, but the incoming additions will still have fans excited.",
-            "published_utc": "2026-08-06T20:20:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Hedge fund cyberattacks tied to BlackFile-linked UNC6671 extortion group",
             "link": "https://www.bleepingcomputer.com/news/security/hedge-fund-cyberattacks-tied-to-blackfile-linked-unc6671-extortion-group/",
@@ -469,20 +490,6 @@
             "link": "https://www.csoonline.com/article/4206299/natjack-exploits-put-nat-security-assumptions-to-the-test-at-black-hat-2.html",
             "summary": "",
             "published_utc": "2026-08-06T18:55:35+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Swiss government SharePoint breach compromised 200 accounts",
-            "link": "https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/",
-            "summary": "Switzerland's federal IT office says hackers exploited vulnerabilities to breach its Microsoft SharePoint servers and compromised approximately 200 ac...",
-            "published_utc": "2026-08-06T18:14:19+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "New TONTOU CPU attack bypasses Spectre v2 fixes, leaks Linux password hashes",
-            "link": "https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/",
-            "summary": "Researchers found a way to bypass recent mitigations for Spectre v2 speculative execution side-channel attacks and developed an exploit to leak secret...",
-            "published_utc": "2026-08-06T18:03:45+00:00"
         },
         {
             "source": "KrebsOnSecurity",
@@ -2702,13 +2709,6 @@
             "link": "https://www.infosecurity-magazine.com/news/infosecurity-europe-board-cyber/",
             "summary": "Cybersecurity leaders major companies discuss how they got support from the board on cyber risk",
             "published_utc": "2026-06-03T10:10:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Anthropic Expands Mythos Access to 150 More Organizations",
-            "link": "https://www.infosecurity-magazine.com/news/anthropic-glasswing-expansion/",
-            "summary": "Anthropic widens Project Glasswing access to 150 more firms as patching becomes the bottleneck",
-            "published_utc": "2026-06-03T09:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
