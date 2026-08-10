@@ -1,6 +1,55 @@
 {
-    "lastUpdatedUTC": "2026-08-10T09:22:18.977365+00:00",
+    "lastUpdatedUTC": "2026-08-10T11:09:06.592687+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Metabase Patches Vulnerability Exploited as Zero-Day",
+            "link": "https://www.securityweek.com/metabase-patches-vulnerability-exploited-as-zero-day/",
+            "summary": "",
+            "published_utc": "2026-08-10T11:03:55+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Python Now Has a Post-Quantum Encryption Library",
+            "link": "https://www.schneier.com/blog/archives/2026/08/python-now-has-a-post-quantum-encryption-library.html",
+            "summary": "",
+            "published_utc": "2026-08-10T11:02:26+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "“Ghostjacking” Exploits AI Agents’ Trusted Access to Evade Firewall Controls",
+            "link": "https://www.infosecurity-magazine.com/news/ghostjacking-ai-gents-access/",
+            "summary": "Tenet reported that half of Fortune 500 companies are vulnerable to the Ghostjacking technique, which involves tricking AI agents with fake reports",
+            "published_utc": "2026-08-10T10:45:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Novel Private APN Pivot Let Hackers Sabotage Second Polish Energy Facility",
+            "link": "https://www.securityweek.com/novel-private-apn-pivot-let-hackers-sabotage-second-polish-energy-facility/",
+            "summary": "",
+            "published_utc": "2026-08-10T10:01:52+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Go-Based macOS Malware Steals Crypto and Secrets",
+            "link": "https://www.infosecurity-magazine.com/news/gobased-macos-malware-crypto-and/",
+            "summary": "A macOS malware variant has been detected stealing crypto, passwords and more",
+            "published_utc": "2026-08-10T10:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Critical Progress LoadMaster flaw now actively exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-progress-loadmaster-flaw-exploited-in-attacks/",
+            "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity Progress Kemp LoadMaster comma...",
+            "published_utc": "2026-08-10T09:49:37+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "CISA Urges Immediate Patching of Exploited Progress LoadMaster Vulnerability",
+            "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-progress-loadmaster-vulnerability/",
+            "summary": "",
+            "published_utc": "2026-08-10T09:31:51+00:00"
+        },
         {
             "source": "InfosecurityMag",
             "title": "US Sanctions Iranian $6bn Crypto “Exchange” Shelbit",
@@ -275,13 +324,6 @@
             "published_utc": "2026-08-07T09:24:22+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Microsoft, Apple Release Fresh Security Updates",
-            "link": "https://www.securityweek.com/microsoft-apple-release-fresh-security-updates/",
-            "summary": "",
-            "published_utc": "2026-08-07T09:09:54+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "My 10 favorite gadgets to upgrade your school or work setup this fall",
             "link": "https://www.zdnet.com/article/10-must-have-back-to-school-accessories/",
@@ -336,20 +378,6 @@
             "link": "https://www.zdnet.com/article/best-samsung-galaxy-z-fold-8-cases/",
             "summary": "Samsung's new Galaxy Z Fold 8 phones are here, and we found the best phone cases from brands like Spigen, Dbrand, and more to protect your new device.",
             "published_utc": "2026-08-07T08:00:49+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "3.8 Million Impacted by Unlimited Technology Systems Data Breach",
-            "link": "https://www.securityweek.com/3-8-million-impacted-by-unlimited-technology-systems-data-breach/",
-            "summary": "",
-            "published_utc": "2026-08-07T07:22:05+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Critical Vulnerabilities Patched With Chrome 151 Update",
-            "link": "https://www.securityweek.com/critical-vulnerabilities-patched-with-chrome-151-update/",
-            "summary": "",
-            "published_utc": "2026-08-07T06:56:56+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -590,13 +618,6 @@
             "published_utc": "2026-08-05T23:00:50+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Canadian pleads guilty to Snowflake cloud data-theft attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/",
-            "summary": "A Canadian man pleaded guilty today to his role in accessing company accounts at cloud storage provider Snowflake and stealing data from at least 165 ...",
-            "published_utc": "2026-08-05T21:53:26+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "DHS Wants Protesters’ Signal Group Chats",
             "link": "https://www.wired.com/story/dhs-wants-protesters-signal-group-chats/",
@@ -819,13 +840,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squid-helps-discover-new-marine-species.html",
             "summary": "",
             "published_utc": "2026-07-31T21:06:46+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Anthropic’s Opus 5 Is Better at Resisting Prompt Injection",
-            "link": "https://www.schneier.com/blog/archives/2026/07/anthropics-opus-5-is-better-at-resisting-prompt-injection.html",
-            "summary": "",
-            "published_utc": "2026-07-31T17:23:16+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2697,25 +2711,11 @@
             "published_utc": "2026-06-03T09:30:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "Infosecurity Europe: Patch Responsibility Remains Up for Grabs as AI Unearths Decades of Flaws",
-            "link": "https://www.infosecurity-magazine.com/news/patch-responsibility-ai-infosec/",
-            "summary": "The emergence of AI models capable to autonomously find and fix vulnerabilities at scale is having a significant impact on patching management, expert...",
-            "published_utc": "2026-06-03T09:00:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "Lessons for life: Why children’s data is a long-term identity risk",
             "link": "https://www.welivesecurity.com/en/kids-online/lessons-life-childrens-data-long-term-identity-risk/",
             "summary": "Your child’s first data breach may happen before they’ve even opened a bank account. Here’s how to keep their digital life safe.",
             "published_utc": "2026-06-03T08:50:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Infosecurity Europe: Execs Must Treat Cyber Threats as Statecraft, ISACA Expert Say",
-            "link": "https://www.infosecurity-magazine.com/news/execs-cisos-must-treat-cyber/",
-            "summary": "Private firms are being targeted by nation-state groups for reasons beyond finance, argued ISACA’s Bharat Thakrar",
-            "published_utc": "2026-06-03T08:15:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
