@@ -1,6 +1,69 @@
 {
-    "lastUpdatedUTC": "2026-08-11T13:06:31.765509+00:00",
+    "lastUpdatedUTC": "2026-08-11T14:57:56.630583+00:00",
     "articles": [
+        {
+            "source": "InfosecurityMag",
+            "title": "Cursor Security Bug Allowed Repositories to Execute Commands Before Trust Verification",
+            "link": "https://www.infosecurity-magazine.com/news/cursor-security-bug-command/",
+            "summary": "Cursor fixed a pre-trust code execution path in three days then closed the report as informative",
+            "published_utc": "2026-08-11T14:30:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "SAP Patches Critical Code Injection, Memory Corruption Vulnerabilities",
+            "link": "https://www.securityweek.com/sap-patches-critical-code-injection-memory-corruption-vulnerabilities/",
+            "summary": "",
+            "published_utc": "2026-08-11T14:14:32+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "US Water Systems Get Cyber Boost From New Senate Bill and ‘Water Watch Center’",
+            "link": "https://www.securityweek.com/us-water-systems-get-cyber-boost-from-new-senate-bill-and-water-watch-center/",
+            "summary": "",
+            "published_utc": "2026-08-11T14:03:32+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Linux desktop use surged to 22% on one workday, Cloudflare data shows",
+            "link": "https://www.zdnet.com/article/linux-desktop-use-surged-on-one-workday-cloudflare-data-shows/",
+            "summary": "The Linux desktop's popularity is growing fast, and there are a few reasons why.",
+            "published_utc": "2026-08-11T13:55:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Mozilla updates GPG signing key for Firefox releases after exposure",
+            "link": "https://www.bleepingcomputer.com/news/security/mozilla-updates-gpg-key-for-signing-firefox-thunderbird-releases-after-exposure/",
+            "summary": "Mozilla announced today that it updated the GPG key used to sign Firefox and Thunderbird releases after it was accidentally exposed on GitHub. [...]",
+            "published_utc": "2026-08-11T13:20:28+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Vague Task, Total Access: When AI Delegation Becomes a Security Risk",
+            "link": "https://www.bleepingcomputer.com/news/security/vague-task-total-access-when-ai-delegation-becomes-a-security-risk/",
+            "summary": "AI agents can improvise beyond the intended scope of a task when they are given broad access to enterprise systems and data. Token Security explains w...",
+            "published_utc": "2026-08-11T13:15:24+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I tried Opera's new vertical tabs - and it might be the best implementation yet",
+            "link": "https://www.zdnet.com/article/i-tried-operas-new-vertical-tabs/",
+            "summary": "If the lack of vertical tabs has kept you from adopting the Opera browser, you might want to take another look.",
+            "published_utc": "2026-08-11T13:09:23+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "DDoS attacks over 1 Tbps surged fivefold in the second quarter",
+            "link": "https://www.bleepingcomputer.com/news/security/ddos-attacks-over-1-tbps-surged-fivefold-in-the-second-quarter/",
+            "summary": "Cloudflare says it mitigated more than 800 network-layer distributed denial-of-service (DDoS) attacks exceeding 1 Tbps in the second quarter of the ye...",
+            "published_utc": "2026-08-11T13:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Nvidia's open Nemotron 3.5 Lightning model is all about specialized, local agentic AI",
+            "link": "https://www.zdnet.com/article/ai-model-release-tracker/",
+            "summary": "Our AI Model Release Tracker keeps new models in context with their peers, so you know which are worth your time.",
+            "published_utc": "2026-08-11T13:00:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "This $50 power bank is safer than my lithium-ion battery - and it's coming on my next flight",
@@ -282,13 +345,6 @@
             "published_utc": "2026-08-10T13:45:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "‘Ghostjacking’ Attack Uses Poisoned Logs to Turn AI Agents Bad",
-            "link": "https://www.securityweek.com/ghostjacking-attack-uses-poisoned-logs-to-turn-ai-agents-bad/",
-            "summary": "",
-            "published_utc": "2026-08-10T12:59:34+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Member of The Com sent to prison for blackmail, sextortion",
             "link": "https://www.bleepingcomputer.com/news/security/member-of-the-com-sent-to-prison-for-blackmail-sextortion/",
@@ -331,13 +387,6 @@
             "published_utc": "2026-08-10T11:47:55+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "New Jersey, Alabama Join States Targeted in Water Cyberattacks",
-            "link": "https://www.securityweek.com/new-jersey-alabama-join-states-targeted-in-water-cyberattacks/",
-            "summary": "",
-            "published_utc": "2026-08-10T11:44:26+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Python Now Has a Post-Quantum Encryption Library",
             "link": "https://www.schneier.com/blog/archives/2026/08/python-now-has-a-post-quantum-encryption-library.html",
@@ -357,13 +406,6 @@
             "link": "https://www.infosecurity-magazine.com/news/gobased-macos-malware-crypto-and/",
             "summary": "A macOS malware variant has been detected stealing crypto, passwords and more",
             "published_utc": "2026-08-10T10:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Critical Progress LoadMaster flaw now actively exploited in attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-progress-loadmaster-flaw-exploited-in-attacks/",
-            "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity Progress Kemp LoadMaster comma...",
-            "published_utc": "2026-08-10T09:49:37+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -401,13 +443,6 @@
             "published_utc": "2026-08-09T10:15:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Hackers breach TrueConf to trojanize client installers with backdoors",
-            "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/",
-            "summary": "The Head Mare hacktivist group has been exploiting vulnerabilities in unpatched TrueConf video conferencing servers to replace client installers with ...",
-            "published_utc": "2026-08-08T14:16:23+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "Flock’s Plans for Rideshare Dashcams and Coaching Police, Revealed",
             "link": "https://www.wired.com/story/flocks-plans-for-rideshare-dashcams-and-coaching-police-revealed/",
@@ -427,13 +462,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-arctic-bobtail-squid-video.html",
             "summary": "",
             "published_utc": "2026-08-07T21:07:04+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Metabase SQLi zero-day exploited in customer data-theft attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/",
-            "summary": "A critical Metabase SQL injection vulnerability was exploited in zero-day attacks to breach customer instances in data theft attacks, known to impact ...",
-            "published_utc": "2026-08-07T20:14:46+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -469,27 +497,6 @@
             "link": "https://www.zdnet.com/article/marshall-stanmore-iv-review/",
             "summary": "The Marshall Stanmore IV is a more expensive home speaker, but there's so much to like that $430 sounds like a good value.",
             "published_utc": "2026-08-07T16:06:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Your phone doesn't block SIM swapping attacks by default: Turn on these carrier settings now",
-            "link": "https://www.zdnet.com/article/your-phone-doesnt-block-sim-swapping-attacks-turn-on-carrier-settings/",
-            "summary": "A SIM swapping attack could compromise your phone, your personal accounts, and even your identity. Here's how to thwart them.",
-            "published_utc": "2026-08-07T15:36:59+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Samsung Galaxy Z Fold 8 review: The compact foldable I've wanted all along",
-            "link": "https://www.zdnet.com/article/samsung-galaxy-z-fold-8-review/",
-            "summary": "With its unique size, the Galaxy Z Fold 8 is a refreshing take on foldable phones, and I'm all for it.",
-            "published_utc": "2026-08-07T15:16:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I read Microsoft's Windows 11 'quality' progress report - and the subtext says it all",
-            "link": "https://www.zdnet.com/article/i-read-microsofts-windows-11-quality-progress-report-and-the-subtext-says-it-all/",
-            "summary": "Microsoft's latest progress report details much-needed Windows 11 improvements in reliability, performance, stability, and usability. But here's what ...",
-            "published_utc": "2026-08-07T15:09:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -2702,13 +2709,6 @@
             "link": "https://www.infosecurity-magazine.com/news/mythos-gpt-chrome-exploits/",
             "summary": "A Bugcrowd researcher has unveiled ExploitBench, an independent benchmark of AI models for vulnerability exploitation",
             "published_utc": "2026-06-04T13:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Infosecurity Europe: How Proton Fights Against Cybercriminals Using Its Services",
-            "link": "https://www.infosecurity-magazine.com/news/how-proton-fights-against/",
-            "summary": "Proton uses machine learning models to detect abuse of its services – especially email addresses used by cybercriminals",
-            "published_utc": "2026-06-04T12:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
