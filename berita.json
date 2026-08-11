@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2026-08-11T10:04:17.912780+00:00",
+    "lastUpdatedUTC": "2026-08-11T11:43:38.739601+00:00",
     "articles": [
+        {
+            "source": "InfosecurityMag",
+            "title": "OpenAI Launches Two-Tier Security Access Program Alongside GPT 5.6 Cyber",
+            "link": "https://www.infosecurity-magazine.com/news/openai-daybreak-blue-red-gpt-cyber/",
+            "summary": "Daybreak Blue removes some OpenAI-made guardrails while Daybreak Red grants the use of cyber-focused frontier AI models",
+            "published_utc": "2026-08-11T11:30:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "OpenAI launches GPT-5.6-Cyber as AI narrows vulnerability response window",
+            "link": "https://www.csoonline.com/article/4207896/openai-launches-gpt-5-6-cyber-as-ai-narrows-vulnerability-response-window.html",
+            "summary": "",
+            "published_utc": "2026-08-11T11:29:27+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "AI for Military Support",
+            "link": "https://www.schneier.com/blog/archives/2026/08/ai-for-military-support.html",
+            "summary": "",
+            "published_utc": "2026-08-11T11:18:07+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Extension Banned for Stealing AI Chats Returns to Chrome Store, Resumes Malicious Activities",
+            "link": "https://www.securityweek.com/extension-banned-for-stealing-ai-chats-returns-to-chrome-store-resumes-malicious-activities/",
+            "summary": "",
+            "published_utc": "2026-08-11T11:15:15+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Cisco warns of high-severity ClamAV flaws with public exploits",
+            "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-high-severity-clamav-flaws-with-public-exploits/",
+            "summary": "Cisco warned of two high-severity vulnerabilities affecting the Secure Endpoint Connector that allow threat actors to crash the ClamAV scanning proces...",
+            "published_utc": "2026-08-11T11:03:01+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Logistics Giant Ceva Suffers Data Breach Impacting European Clients",
+            "link": "https://www.infosecurity-magazine.com/news/logistics-ceva-data-breach/",
+            "summary": "Supply chain attack and data breach at Ceva Logistics appears to have a large blast radius",
+            "published_utc": "2026-08-11T10:45:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Best robot mowers of 2026: Expert tested",
@@ -184,13 +226,6 @@
             "published_utc": "2026-08-10T14:19:36+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Cisco Warns of High-Severity ClamAV Vulnerabilities With Public PoC",
-            "link": "https://www.securityweek.com/cisco-warns-of-high-severity-clamav-vulnerabilities-with-public-poc/",
-            "summary": "",
-            "published_utc": "2026-08-10T14:07:48+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "When Credentials Are No Longer Enough: Device Trust in the AI Era",
             "link": "https://www.bleepingcomputer.com/news/security/when-credentials-are-no-longer-enough-device-trust-in-the-ai-era/",
@@ -280,13 +315,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ghostjacking-ai-gents-access/",
             "summary": "Tenet reported that half of Fortune 500 companies are vulnerable to the Ghostjacking technique, which involves tricking AI agents with fake reports",
             "published_utc": "2026-08-10T10:45:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Novel Private APN Pivot Let Hackers Sabotage Second Polish Energy Facility",
-            "link": "https://www.securityweek.com/novel-private-apn-pivot-let-hackers-sabotage-second-polish-energy-facility/",
-            "summary": "",
-            "published_utc": "2026-08-10T10:01:52+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -406,13 +434,6 @@
             "link": "https://www.zdnet.com/article/marshall-stanmore-iv-review/",
             "summary": "The Marshall Stanmore IV is a more expensive home speaker, but there's so much to like that $430 sounds like a good value.",
             "published_utc": "2026-08-07T16:06:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Levi Strauss & Co. says hackers stole corporate data in cyberattack",
-            "link": "https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/",
-            "summary": "Levi Strauss & Co. (Levi's) says that hackers used social engineering on three of its employees to gain access to and steal corporate data stored on t...",
-            "published_utc": "2026-08-07T15:48:20+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -588,13 +609,6 @@
             "link": "https://www.csoonline.com/article/4206138/cybersecurity-needs-a-new-operating-model.html",
             "summary": "",
             "published_utc": "2026-08-06T12:48:42+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "The exploit window is shrinking. Most security workflows are not",
-            "link": "https://www.csoonline.com/article/4206128/the-exploit-window-is-shrinking-most-security-workflows-are-not.html",
-            "summary": "",
-            "published_utc": "2026-08-06T12:34:22+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -861,13 +875,6 @@
             "link": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
             "summary": "Both major AI labs’ models broke containment, escaped onto the internet, and hacked other companies. If a human had done that, the law would likely be...",
             "published_utc": "2026-08-01T09:30:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Friday Squid Blogging: Squid Helps Discover New Marine Species",
-            "link": "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squid-helps-discover-new-marine-species.html",
-            "summary": "",
-            "published_utc": "2026-07-31T21:06:46+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2695,20 +2702,6 @@
             "link": "https://www.infosecurity-magazine.com/news/infosecurity-europe-cybersecurity/",
             "summary": "Cybersecurity and business leaders with experience of dealing with major incidents from within the NCSC and at JLR detail what you need to prioritize ...",
             "published_utc": "2026-06-04T09:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Infosecurity Europe: Ukraine’s Experience Highlights the Need for Preparation and Resilience in Cybersecurity",
-            "link": "https://www.infosecurity-magazine.com/news/resilience-perseverance-ukraine/",
-            "summary": "Former Ukrainian foreign minister, Dmytro Kuleba, urges Infosecurity Europe attendees to fight the good fight",
-            "published_utc": "2026-06-04T09:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Infosecurity Europe: Raise Security Concerns with Procurement Now, Because Quantum Can’t Wait",
-            "link": "https://www.infosecurity-magazine.com/news/raise-security-procurement-quantum/",
-            "summary": "Forescout VP of security intelligence, Rik Ferguson, warns that Q-day is fast approaching",
-            "published_utc": "2026-06-04T07:45:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
