@@ -1,6 +1,34 @@
 {
-    "lastUpdatedUTC": "2026-08-11T17:56:56.647034+00:00",
+    "lastUpdatedUTC": "2026-08-11T19:06:55.769103+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "August 2026 Patch Tuesday: Microsoft Fixes 421 CVEs, One Exploited Zero-Day",
+            "link": "https://www.securityweek.com/august-2026-patch-tuesday-microsoft-fixes-421-cves-one-exploited-zero-day/",
+            "summary": "",
+            "published_utc": "2026-08-11T18:46:07+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees",
+            "link": "https://www.bleepingcomputer.com/news/security/delta-probes-wi-fi-deauth-attack-on-flight-carrying-def-con-attendees/",
+            "summary": "Delta Air Lines is investigating an unauthorized Wi-Fi network that appeared aboard a flight from Las Vegas to Atlanta carrying passengers who had att...",
+            "published_utc": "2026-08-11T18:34:23+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft releases Windows 10 KB5120249 extended security update",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5120249-cumulative-update-released-with-fixes/",
+            "summary": "Microsoft has released Windows 10 KB5120249 Extended Security Updates for versions 22H2 and 21H2 to fix security vulnerabilities and bugs. [...]",
+            "published_utc": "2026-08-11T18:26:03+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/",
+            "summary": "Today is Microsoft's August 2026 Patch Tuesday, and with it comes security updates for a massive 400 flaws, including one actively exploited and two p...",
+            "published_utc": "2026-08-11T18:08:50+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Windows 11 KB5121003 & KB5120240 cumulative updates released",
@@ -261,13 +289,6 @@
             "published_utc": "2026-08-11T08:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Mozilla Issues New Firefox GPG Key Following Exposure",
-            "link": "https://www.securityweek.com/mozilla-issues-new-firefox-gpg-key-following-exposure/",
-            "summary": "",
-            "published_utc": "2026-08-11T06:16:01+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "The future of AI security research isn’t autonomous, it’s human-amplified",
             "link": "https://www.csoonline.com/article/4207666/the-future-of-ai-security-research-isnt-autonomous-its-human-amplified.html",
@@ -345,13 +366,6 @@
             "published_utc": "2026-08-10T15:30:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "CISA: SonicWall SMA1000 flaws now exploited by ransomware gangs",
-            "link": "https://www.bleepingcomputer.com/news/security/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs/",
-            "summary": "CISA has confirmed that ransomware gangs have begun exploiting two recently patched SonicWall SMA1000 vulnerabilities, including a maximum-severity se...",
-            "published_utc": "2026-08-10T14:34:32+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "WordPress Plugins Compromised Without a Single File Change",
             "link": "https://www.infosecurity-magazine.com/news/bdthemes-wordpress-poisoned-api/",
@@ -373,25 +387,11 @@
             "published_utc": "2026-08-10T14:24:15+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "When Credentials Are No Longer Enough: Device Trust in the AI Era",
-            "link": "https://www.bleepingcomputer.com/news/security/when-credentials-are-no-longer-enough-device-trust-in-the-ai-era/",
-            "summary": "AI is making phishing, credential theft, and social engineering faster and more efficient, while traditional trust signals such as passwords, MFA, IP ...",
-            "published_utc": "2026-08-10T14:01:11+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "We lab-tested Ecovac's next-gen robot mop - here's where it shines (and struggles)",
             "link": "https://www.zdnet.com/article/deebot-x12-omnicyclone-review-ecovacs-robot-vacuum/",
             "summary": "The Ecovacs Deebot X12 OmniCyclone is not just a mouthful; it's a market leader in features and intelligence.",
             "published_utc": "2026-08-10T13:45:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Member of The Com sent to prison for blackmail, sextortion",
-            "link": "https://www.bleepingcomputer.com/news/security/member-of-the-com-sent-to-prison-for-blackmail-sextortion/",
-            "summary": "A member of \"The Com,\" a loose-knit online cybercrime collective that targets children and teenagers, has been sentenced to two years in prison for bl...",
-            "published_utc": "2026-08-10T12:56:28+00:00"
         },
         {
             "source": "ZDNet Security",
