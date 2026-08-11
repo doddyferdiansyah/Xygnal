@@ -1,6 +1,13 @@
 {
-    "lastUpdatedUTC": "2026-08-11T05:09:15.807722+00:00",
+    "lastUpdatedUTC": "2026-08-11T07:08:42.401795+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Mozilla Issues New Firefox GPG Key Following Exposure",
+            "link": "https://www.securityweek.com/mozilla-issues-new-firefox-gpg-key-following-exposure/",
+            "summary": "",
+            "published_utc": "2026-08-11T06:16:01+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "The future of AI security research isn’t autonomous, it’s human-amplified",
@@ -72,6 +79,13 @@
             "published_utc": "2026-08-10T15:56:48+00:00"
         },
         {
+            "source": "InfosecurityMag",
+            "title": "Researchers Uncover RovoBlast Vulnerability in Atlassian AI Assistant",
+            "link": "https://www.infosecurity-magazine.com/news/rovoblast-atlassian-rovo-url/",
+            "summary": "Atlassian fixed a flaw letting one crafted link make its Rovo AI assistant exfiltrate company data",
+            "published_utc": "2026-08-10T15:30:00+00:00"
+        },
+        {
             "source": "BleepingComputer",
             "title": "CISA: SonicWall SMA1000 flaws now exploited by ransomware gangs",
             "link": "https://www.bleepingcomputer.com/news/security/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs/",
@@ -84,6 +98,13 @@
             "link": "https://www.securityweek.com/openais-upcoming-astra-model-raises-autonomous-cyberattack-concerns/",
             "summary": "",
             "published_utc": "2026-08-10T14:33:36+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "WordPress Plugins Compromised Without a Single File Change",
+            "link": "https://www.infosecurity-magazine.com/news/bdthemes-wordpress-poisoned-api/",
+            "summary": "Poisoned JSON feed let attackers backdoor WordPress sites without changing any plugin files",
+            "published_utc": "2026-08-10T14:30:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -198,11 +219,25 @@
             "published_utc": "2026-08-10T11:02:26+00:00"
         },
         {
+            "source": "InfosecurityMag",
+            "title": "“Ghostjacking” Exploits AI Agents’ Trusted Access to Evade Firewall Controls",
+            "link": "https://www.infosecurity-magazine.com/news/ghostjacking-ai-gents-access/",
+            "summary": "Tenet reported that half of Fortune 500 companies are vulnerable to the Ghostjacking technique, which involves tricking AI agents with fake reports",
+            "published_utc": "2026-08-10T10:45:00+00:00"
+        },
+        {
             "source": "SecurityWeek",
             "title": "Novel Private APN Pivot Let Hackers Sabotage Second Polish Energy Facility",
             "link": "https://www.securityweek.com/novel-private-apn-pivot-let-hackers-sabotage-second-polish-energy-facility/",
             "summary": "",
             "published_utc": "2026-08-10T10:01:52+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Go-Based macOS Malware Steals Crypto and Secrets",
+            "link": "https://www.infosecurity-magazine.com/news/gobased-macos-malware-crypto-and/",
+            "summary": "A macOS malware variant has been detected stealing crypto, passwords and more",
+            "published_utc": "2026-08-10T10:00:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -217,6 +252,13 @@
             "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-progress-loadmaster-vulnerability/",
             "summary": "",
             "published_utc": "2026-08-10T09:31:51+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "US Sanctions Iranian $6bn Crypto “Exchange” Shelbit",
+            "link": "https://www.infosecurity-magazine.com/news/us-sanctions-iranian-6bn-crypto/",
+            "summary": "TRM Labs explains that sanctioned Iranian firm Shelbit was a fake crypto exchange",
+            "published_utc": "2026-08-10T09:00:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -238,13 +280,6 @@
             "link": "https://www.csoonline.com/article/3829666/7-key-trends-defining-the-cybersecurity-market-today.html",
             "summary": "",
             "published_utc": "2026-08-10T08:25:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Critical Flaws Discovered in Belgian eID Software Used by 2 Million People",
-            "link": "https://www.securityweek.com/critical-flaws-discovered-in-belgian-eid-software-used-by-2-million-people/",
-            "summary": "",
-            "published_utc": "2026-08-10T04:44:32+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -401,11 +436,25 @@
             "published_utc": "2026-08-07T12:37:57+00:00"
         },
         {
+            "source": "InfosecurityMag",
+            "title": "Healthcare and Victim Support Charities Affected by Beacon Cyber Incident",
+            "link": "https://www.infosecurity-magazine.com/news/healthcare-victim-charities-beacon/",
+            "summary": "Beacon has informed around 1500 customer charities that its CRM databases were accessed and likely exfiltrated by an unauthorized actor",
+            "published_utc": "2026-08-07T10:45:00+00:00"
+        },
+        {
             "source": "Schneier",
             "title": "ICE Is Buying Access to Credit Card Records",
             "link": "https://www.schneier.com/blog/archives/2026/08/ice-is-buying-access-to-credit-card-records.html",
             "summary": "",
             "published_utc": "2026-08-07T10:26:41+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Google Links Redact Extortion Group to BlackFile Rebrand",
+            "link": "https://www.infosecurity-magazine.com/news/redact-extortion-group-blackfile/",
+            "summary": "BlackFile has rebranded as Redact after an alleged affiliate hijack, with Google linking the group to ongoing vishing and extortion campaigns",
+            "published_utc": "2026-08-07T09:40:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -427,6 +476,13 @@
             "link": "https://www.csoonline.com/article/567697/what-is-the-cost-of-a-data-breach-3.html",
             "summary": "",
             "published_utc": "2026-08-07T08:25:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Ransomware Surges in July After Q2 Lull",
+            "link": "https://www.infosecurity-magazine.com/news/ransomware-surges-july-q2-lull/",
+            "summary": "Finance, technology and healthcare sectors were particularly heavily targeted in July, according to Comparitech",
+            "published_utc": "2026-08-07T08:20:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -457,6 +513,20 @@
             "published_utc": "2026-08-06T17:00:56+00:00"
         },
         {
+            "source": "InfosecurityMag",
+            "title": "Toolkit Hidden Inside Oracle Database Evades Endpoint Tools",
+            "link": "https://www.infosecurity-magazine.com/news/khunt-toolkit-oracle-database-sql/",
+            "summary": "Attackers used SQL injection to compile a post-exploitation toolkit inside an Oracle database",
+            "published_utc": "2026-08-06T15:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "TeamPCP Traced Back to 2020 Cryptojacking Operation",
+            "link": "https://www.infosecurity-magazine.com/news/teampcp-shadowray-ta-natalstatus/",
+            "summary": "Oligo Security has linked TeamPCP to ShadowRay 2.0 and to cryptojacking infrastructure dating back to 2020",
+            "published_utc": "2026-08-06T14:15:00+00:00"
+        },
+        {
             "source": "CSO Online",
             "title": "How a software provider closed unknown paths to cloud compromise",
             "link": "https://www.csoonline.com/article/4206219/how-a-software-provider-closed-unknown-paths-to-cloud-compromise.html",
@@ -469,6 +539,13 @@
             "link": "https://www.csoonline.com/article/4206204/how-a-global-investment-firm-reduced-security-surprises.html",
             "summary": "",
             "published_utc": "2026-08-06T13:45:02+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Meta Joins OpenAI and Anthropic in Reporting AI Exploit Incident",
+            "link": "https://www.infosecurity-magazine.com/news/meta-ai-exploit-incident/",
+            "summary": "One of Meta’s AI models exploited a third-party security flaw during an evaluation, the latest in a series of similar incidents involving advanced AI ...",
+            "published_utc": "2026-08-06T13:40:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -506,11 +583,32 @@
             "published_utc": "2026-08-06T12:23:17+00:00"
         },
         {
+            "source": "InfosecurityMag",
+            "title": "Violent Physical Crypto Thefts Surge to $30m in Losses",
+            "link": "https://www.infosecurity-magazine.com/news/violent-physical-crypto-thefts/",
+            "summary": "So-called “wrench attacks” have resulted in $30m in losses so far in 2026, says Chainalysis",
+            "published_utc": "2026-08-06T12:00:00+00:00"
+        },
+        {
             "source": "Schneier",
             "title": "Adversarial Clothing Designed to Fool Facial Recognition Systems",
             "link": "https://www.schneier.com/blog/archives/2026/08/adversarial-clothing-designed-to-fool-facial-recognition-systems.html",
             "summary": "",
             "published_utc": "2026-08-06T11:04:51+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Canadian Hacker Pleads Guilty Over Snowflake Extortion Campaign",
+            "link": "https://www.infosecurity-magazine.com/news/canadian-hacker-guilty-snowflake/",
+            "summary": "A Canadian hacker has admitted involvement in the widespread compromise of 165 Snowflake customer accounts used to steal data and extort victims",
+            "published_utc": "2026-08-06T10:15:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "NVIDIA Group Proposes SAFE Initiative for Agentic Threat Intel Sharing",
+            "link": "https://www.infosecurity-magazine.com/news/safe-initiative-agentic-threat/",
+            "summary": "The Open Secure AI Alliance has announced plans for the Shared AI Findings Exchange (SAFE)",
+            "published_utc": "2026-08-06T08:30:00+00:00"
         },
         {
             "source": "WIRED Security",
@@ -562,11 +660,53 @@
             "published_utc": "2026-08-05T16:26:36+00:00"
         },
         {
+            "source": "InfosecurityMag",
+            "title": "Fake Open VSX Extensions Harvest Private Repo and CI Data",
+            "link": "https://www.infosecurity-magazine.com/news/open-vsx-evil-twin-extensions-git/",
+            "summary": "77 counterfeit Open VSX extensions beaconed to one domain, 19 harvesting git and CI identity",
+            "published_utc": "2026-08-05T15:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Paperclip AI Flaws Let Unauthenticated Attackers Run Commands",
+            "link": "https://www.infosecurity-magazine.com/news/paperclip-ai-vulnerabilities-rce/",
+            "summary": "3 Paperclip flaws exposed data & allowed unauthenticated command execution in two deployment modes",
+            "published_utc": "2026-08-05T14:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Prompt Injection Remains Biggest LLM Risk, Despite Limited Incidents",
+            "link": "https://www.infosecurity-magazine.com/news/prompt-injection-llm-risk/",
+            "summary": "Prompt injection remains the most dangerous security threat to LLMs, according to OWASP’s latest Top 10 LLM Applications list",
+            "published_utc": "2026-08-05T11:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "ChainDrop Worm Hits 400+ npm Packages with Two Billion Monthly Installs",
+            "link": "https://www.infosecurity-magazine.com/news/chaindrop-worm-400-npm-two-billion/",
+            "summary": "A new npm worm has compromised packages with over two billion monthly installs",
+            "published_utc": "2026-08-05T10:00:00+00:00"
+        },
+        {
             "source": "Schneier",
             "title": "Vulnerabilities in Car Anti-Theft Device",
             "link": "https://www.schneier.com/blog/archives/2026/08/vulnerabilities-in-car-anti-theft-device.html",
             "summary": "",
             "published_utc": "2026-08-05T09:42:43+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Frontier Models Engage in Unsanctioned Behavior During Testing",
+            "link": "https://www.infosecurity-magazine.com/news/frontier-models-unsanctioned/",
+            "summary": "Anthropic and OpenAI models attacked “real people and organizations” during AI Security Institute tests",
+            "published_utc": "2026-08-05T08:45:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Fake Bank of America Phishing Scam Installs Remote Access Malware",
+            "link": "https://www.infosecurity-magazine.com/news/fake-bank-of-america-phishing-scam/",
+            "summary": "Cybercriminals are using a fake Bank of America phishing campaign to trick users into downloading a malicious script that installs ScreenConnect, enab...",
+            "published_utc": "2026-08-05T08:00:00+00:00"
         },
         {
             "source": "WIRED Security",
@@ -590,6 +730,27 @@
             "published_utc": "2026-08-04T15:29:45+00:00"
         },
         {
+            "source": "InfosecurityMag",
+            "title": "WhatsApp Scam Hijacks Accounts via Linked Devices Feature",
+            "link": "https://www.infosecurity-magazine.com/news/whatsapp-voting-scam-linked/",
+            "summary": "WhatsApp scam abused the Linked devices feature to hijack accounts without stealing any passwords",
+            "published_utc": "2026-08-04T14:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Cybercriminals Bypass AI Safety Controls by Splitting Malicious Tasks Across Multiple Sessions",
+            "link": "https://www.infosecurity-magazine.com/news/talos-attackers-split-tasks-evade/",
+            "summary": "Talos read attacker prompt logs and found guardrails fell to task splitting and ownership claims",
+            "published_utc": "2026-08-04T13:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Cloud and SaaS Environments Now Top Targets for Attackers",
+            "link": "https://www.infosecurity-magazine.com/news/cloud-saas-targets-attackers/",
+            "summary": "Cloud and SaaS are now the preferred operating environments for threat actors, amid a continued shift to identity attacks",
+            "published_utc": "2026-08-04T11:30:00+00:00"
+        },
+        {
             "source": "Schneier",
             "title": "Some Claude Chats Are Searchable on Google",
             "link": "https://www.schneier.com/blog/archives/2026/08/some-claude-chats-are-searchable-on-google.html",
@@ -597,11 +758,46 @@
             "published_utc": "2026-08-04T10:13:58+00:00"
         },
         {
+            "source": "InfosecurityMag",
+            "title": "AI Accounts for Over Half of Cybercrime in Africa, Says Interpol",
+            "link": "https://www.infosecurity-magazine.com/news/ai-accounts-over-half-cybercrime/",
+            "summary": "Interpol claims AI is driving a surge in cybercrime in Africa, with related losses doubling",
+            "published_utc": "2026-08-04T10:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "UK’s Police National Legal Database Reveals Data Breach",
+            "link": "https://www.infosecurity-magazine.com/news/uks-police-national-legal-database/",
+            "summary": "The UK’s Police National Legal Database and Ask the Police service have been breached",
+            "published_utc": "2026-08-04T08:40:00+00:00"
+        },
+        {
             "source": "Schneier",
             "title": "More on the OpenAI Agent’s Attack on Hugging Face",
             "link": "https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html",
             "summary": "",
             "published_utc": "2026-08-03T17:02:46+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "China-Linked Threat Actors Weaponize New Vulnerabilities in Under a Day",
+            "link": "https://www.infosecurity-magazine.com/news/chinalinked-threat-actors/",
+            "summary": "Chinese actors exploited the critical React2Shell exploit inside a day, while 88% of exploited vulnerabilities in H1 2026 were compromised within 48 h...",
+            "published_utc": "2026-08-03T15:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Midnight Blizzard Targets Travelers via Captive Portals",
+            "link": "https://www.infosecurity-magazine.com/news/captivecrunch-midnight-blizzard/",
+            "summary": "Russian actor Storm-2945 hijacked hotel captive portals to push fake updates and steal tokens",
+            "published_utc": "2026-08-03T14:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "HollowFrame Loader Uses Fake Python DLL to Evade Defender",
+            "link": "https://www.infosecurity-magazine.com/news/hollowframe-fake-python-dll/",
+            "summary": "New HollowFrame loader hid Go code in a fake Python DLL after pre-staging Defender exclusions",
+            "published_utc": "2026-08-03T11:26:00+00:00"
         },
         {
             "source": "Schneier",
@@ -616,6 +812,20 @@
             "link": "https://www.wired.com/story/ice-dna-collection-fbi-codis/",
             "summary": "Internal documents show ICE's DNA collection has skyrocketed in the second Trump administration. Now hundreds of thousands of people never convicted o...",
             "published_utc": "2026-08-03T10:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Korea’s Largest Telco KT Fined $38m After Femtocell Campaign",
+            "link": "https://www.infosecurity-magazine.com/news/koreas-largest-telco-kt-fine-39m/",
+            "summary": "Korean telco KT has been fined $39m for a year-long breach linked to femtocell compromise",
+            "published_utc": "2026-08-03T09:36:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Coldcard Users Lose $89m After Bitcoin Wallet Is Hacked",
+            "link": "https://www.infosecurity-magazine.com/news/coldcard-users-lose-89m-bitcoin/",
+            "summary": "A hacker has drained nearly $89m from Coldcard Bitcoin wallets after exploiting a legacy bug",
+            "published_utc": "2026-08-03T08:40:00+00:00"
         },
         {
             "source": "WIRED Security",
@@ -646,6 +856,13 @@
             "published_utc": "2026-07-31T21:06:46+00:00"
         },
         {
+            "source": "InfosecurityMag",
+            "title": "Chinese Hacker Uses DeepSeek AI to Orchestrate Vulnerability Exploits",
+            "link": "https://www.infosecurity-magazine.com/news/chinese-hacker-deepseek-ai/",
+            "summary": "A Chinese-speaking threat actor has been using DeepSeek’s AI models to orchestrate cyber-attacks targeting Asian organizations",
+            "published_utc": "2026-07-31T15:00:00+00:00"
+        },
+        {
             "source": "WeLiveSecurity",
             "title": "This month in security with Tony Anscombe – July 2026 edition",
             "link": "https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-july-2026/",
@@ -658,6 +875,20 @@
             "link": "https://www.wired.com/story/defcon-34-badge-baochip-andrew-bunnie-huang/",
             "summary": "Created by legendary hardware hacker Andrew “bunnie” Huang, the badges for this year’s famed security conference aim to push the boundaries of securit...",
             "published_utc": "2026-07-31T10:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "AWS Blames North Korean Group for Axios and Other npm Supply Chain Attacks",
+            "link": "https://www.infosecurity-magazine.com/news/aws-north-korea-axios-npm-supply/",
+            "summary": "AWS has linked North Korea to the axios campaign to other attacks on npm libraries",
+            "published_utc": "2026-07-31T09:50:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Anthropic Reveals Claude Escaped Testing, Breaching Three Companies",
+            "link": "https://www.infosecurity-magazine.com/news/anthropic-claude-breached-three/",
+            "summary": "Anthropic has revealed that Claude AI models compromised third-party organizations",
+            "published_utc": "2026-07-31T08:35:00+00:00"
         },
         {
             "source": "WIRED Security",
@@ -688,6 +919,34 @@
             "published_utc": "2026-07-30T16:49:00+00:00"
         },
         {
+            "source": "InfosecurityMag",
+            "title": "Cryptominer Abuses Linux PAM to Hide From SOC Analysts",
+            "link": "https://www.infosecurity-magazine.com/news/xmrig-linux-pam-forensic/",
+            "summary": "Cryptomining crew abandoned root to impersonate low-privileged Linux users and evade SOC alerts",
+            "published_utc": "2026-07-30T14:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "AiTM Phishing Becomes Top Initial Access Threat to Law Firms",
+            "link": "https://www.infosecurity-magazine.com/news/aitm-phishing-top-entry-point-law/",
+            "summary": "AiTM phishing is now the top entry point into law firms, with identity behind 56% of threats",
+            "published_utc": "2026-07-30T14:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "AI and Automation Fall Short of Sysadmin Expectations",
+            "link": "https://www.infosecurity-magazine.com/news/ai-automation-fall-short-sysadmin/",
+            "summary": "Action1 report finds sysadmins overestimated their use of AI in predictions made two years ago",
+            "published_utc": "2026-07-30T13:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Teams-Themed Phishing Campaign Abused Legitimate Microsoft Login Pages",
+            "link": "https://www.infosecurity-magazine.com/news/teams-phishing-abused-legit/",
+            "summary": "Check Point researchers detail phishing attack as an example of attackers dropping fake Microsoft login pages in favor of abusing Microsoft’s legitima...",
+            "published_utc": "2026-07-30T12:00:00+00:00"
+        },
+        {
             "source": "WIRED Security",
             "title": "OpenAI’s Hacking Debacle Comes Down to Human Error",
             "link": "https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake/",
@@ -709,6 +968,13 @@
             "published_utc": "2026-07-30T09:30:00+00:00"
         },
         {
+            "source": "InfosecurityMag",
+            "title": "Google Releases Patches for 370 Vulnerabilities in Chrome 151",
+            "link": "https://www.infosecurity-magazine.com/news/google-patches-370-vulnerabilities/",
+            "summary": "The new version of Chrome, 151, comes with 370 vulnerability patches, including for seven critical flaws",
+            "published_utc": "2026-07-30T09:15:00+00:00"
+        },
+        {
             "source": "WeLiveSecurity",
             "title": "Beyond the screenshot: Why you should verify what you see",
             "link": "https://www.welivesecurity.com/en/cybersecurity/beyond-screenshot-why-verify-you-see/",
@@ -716,11 +982,60 @@
             "published_utc": "2026-07-30T08:50:00+00:00"
         },
         {
+            "source": "InfosecurityMag",
+            "title": "NCSC Calls on Vendors to Embed ‘Forensic Observability’ in Network Devices",
+            "link": "https://www.infosecurity-magazine.com/news/ncsc-calls-device-manufacturers/",
+            "summary": "The UK’s National Cyber Security Centre wants network device makers to improve forensic observability",
+            "published_utc": "2026-07-30T08:25:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "LogoKit Phishing Kit Screenshots Victim Sites in Real Time",
+            "link": "https://www.infosecurity-magazine.com/news/logokit-phishing-real-time/",
+            "summary": "LogoKit now builds per-victim phishing pages using live screenshots of the target's real website",
+            "published_utc": "2026-07-29T16:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Russian-Alligned TA488 Returns With Persistent Outlook Web Access Attack",
+            "link": "https://www.infosecurity-magazine.com/news/ta488-outlook-half-click-owareaper/",
+            "summary": "TA488 returned with OWA half-click exploit deploying OWAReaper implant that survived re-imaging",
+            "published_utc": "2026-07-29T15:10:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "The Average Cost of a Data Breach Rises to $5 Million",
+            "link": "https://www.infosecurity-magazine.com/news/cost-of-a-data-breach-5m-ibm/",
+            "summary": "IBM Cost of a Data Breach Report warns that the global average cost of a data breach has reached a record high of $4.99m – and AI-backed attacks have ...",
+            "published_utc": "2026-07-29T11:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Just 1% of AI-Discovered Vulnerabilities Exploited in the Wild, Research Shows",
+            "link": "https://www.infosecurity-magazine.com/news/one-percent-ai-vulnerabilities/",
+            "summary": "For now, the use of AI benefits vulnerability research more than vulnerability exploitation, a VulnCheck researcher said",
+            "published_utc": "2026-07-29T10:15:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Researchers Warn of AI-Enhanced Phone Fraud Ecosystem",
+            "link": "https://www.infosecurity-magazine.com/news/researchers-aienhanced-phone-fraud/",
+            "summary": "AI is dramatically reducing the barriers to entry for scam phone farm operators, Human Security warns",
+            "published_utc": "2026-07-29T09:30:00+00:00"
+        },
+        {
             "source": "WIRED Security",
             "title": "ICE’s New Detention Center Contracts Declare State Laws ‘Shall Not Apply’",
             "link": "https://www.wired.com/story/ices-new-detention-contracts-declare-state-law-shall-not-apply/",
             "summary": "One day after a federal judge ordered an ICE detention center opened to state health inspectors, the agency posted new contract terms that would void ...",
             "published_utc": "2026-07-29T09:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "NCSC Publishes Guidance to Aid Incident Response and Recovery",
+            "link": "https://www.infosecurity-magazine.com/news/ncsc-publishes-guidance-incident/",
+            "summary": "The National Cyber Security Centre has released a detailed framework to assist with incident response and recovery",
+            "published_utc": "2026-07-29T08:30:00+00:00"
         },
         {
             "source": "WIRED Security",
@@ -735,6 +1050,55 @@
             "link": "https://www.wired.com/story/a-typo-landed-an-innocent-gamer-in-prison-for-18-months/",
             "summary": "How much could a single underscore in a username really matter? Just ask Brandon Klayme, who served 18 months in prison before realizing how authoriti...",
             "published_utc": "2026-07-28T23:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Bugs in Hugging Face Diffusers Bypass Custom Code Safeguard",
+            "link": "https://www.infosecurity-magazine.com/news/hugging-face-diffusers-trust/",
+            "summary": "Three CVEs in Hugging Face diffusers let a malicious model repo run code on any machine that loads it",
+            "published_utc": "2026-07-28T15:15:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "AI-Assisted Bug Hunt Uncovers Linux Kernel 0-Day in net/sched",
+            "link": "https://www.infosecurity-magazine.com/news/ai-linux-kernel-zero-day-net-sched/",
+            "summary": "AI-assisted research uncovered Linux kernel use-after-free allowing root escalation",
+            "published_utc": "2026-07-28T14:45:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Phishing Dominates as Initial Entry Method for Cyber-Attacks, as Hackers Hone Evasion Techniques",
+            "link": "https://www.infosecurity-magazine.com/news/phishing-dominates-initial-entry/",
+            "summary": "Analysis of real-life incident response cases by Cisco Talos warns that phishing remains a powerful method of initial compromise",
+            "published_utc": "2026-07-28T13:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Microsoft Launches Flurry of AI Security Initiatives to Combat AI-Enabled Threats",
+            "link": "https://www.infosecurity-magazine.com/news/microsoft-ai-security-initiatives/",
+            "summary": "Microsoft has launched a new agentic security system for cyber defenders as well as its first cyber-focused AI model",
+            "published_utc": "2026-07-28T12:45:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Coca-Cola Reveals Subsidiary Fairlife Suffered Data Breach",
+            "link": "https://www.infosecurity-magazine.com/news/coca-cola-subsidiary-fairlife-data/",
+            "summary": "Coca Cola claims data was stolen from its Fairlife business after a recent ransomware attack",
+            "published_utc": "2026-07-28T11:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "NVIDIA’s Open Secure AI Alliance Is Missing Some Big Names",
+            "link": "https://www.infosecurity-magazine.com/news/nvidia-open-security-ai-alliance/",
+            "summary": "NVIDIA has launched a new Open Secure AI Alliance to build an “open defense stack for agents”",
+            "published_utc": "2026-07-28T09:40:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "New CREST AI Standards to Deliver AI-Enabled Pentesting Accreditation",
+            "link": "https://www.infosecurity-magazine.com/news/crest-ai-pentesting-accreditation/",
+            "summary": "CREST’s new AI standards are optional add-on requirements for cybersecurity service providers wishing to demonstrate responsible AI usage",
+            "published_utc": "2026-07-28T08:57:00+00:00"
         },
         {
             "source": "WIRED Security",
@@ -758,11 +1122,39 @@
             "published_utc": "2026-07-27T20:08:00+00:00"
         },
         {
+            "source": "InfosecurityMag",
+            "title": "SourTrade Malvertising Campaign Secretly Builds Malware in the Browser",
+            "link": "https://www.infosecurity-magazine.com/news/malvertising-builds-malware-in/",
+            "summary": "Impersonating well-known cryptocurrency and trading sites, SourTrade has developed a novel technique to drop infostealers to victims",
+            "published_utc": "2026-07-27T11:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Ransomware Groups Increasingly Deploy EDR Kill Techniques",
+            "link": "https://www.infosecurity-magazine.com/news/ransomware-q2-2026-edr-kill/",
+            "summary": "Halcyon’s latest quarterly ransomware report showed that while ransomware attacks are declining, obfuscation techniques are getting harder to fight ag...",
+            "published_utc": "2026-07-27T10:01:00+00:00"
+        },
+        {
             "source": "WIRED Security",
             "title": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
             "link": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
             "summary": "Plus: Russian hackers are trying to steal US nuclear scientists’ emails, the State Department bans known scammers from entering the United States, and...",
             "published_utc": "2026-07-25T10:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Hotel Wi-Fi Routers Compromised to Steal Corporate Login Credentials From Visitors",
+            "link": "https://www.infosecurity-magazine.com/news/hotel-wifi-dns-poisoning/",
+            "summary": "Researchers at ReliaQuest warned of widespread DNS poisoning attacks targeting the hospitality sector as part of a cyber espionage campaign",
+            "published_utc": "2026-07-24T12:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "ChatGPT Among Top 10 Most Impersonated Brands in Phishing Attacks, Says Check Point",
+            "link": "https://www.infosecurity-magazine.com/news/chatgpt-most-impersonated-brands/",
+            "summary": "OpenAI’s chatbot tool ChatGPT ranked among the top 10 most impersonated brands in phishing attacks for the first time",
+            "published_utc": "2026-07-24T11:15:00+00:00"
         },
         {
             "source": "WIRED Security",
@@ -772,11 +1164,88 @@
             "published_utc": "2026-07-24T10:00:00+00:00"
         },
         {
+            "source": "InfosecurityMag",
+            "title": "Ransomware Attacks Targeting Universities on the Rise",
+            "link": "https://www.infosecurity-magazine.com/news/university-ransomware-attacks-rise/",
+            "summary": "Comparitech’s analysis of incidents in the first half of 2026 finds that the emergence of The Gentlemen ransomware has resulted in surge in attacks ag...",
+            "published_utc": "2026-07-24T09:15:00+00:00"
+        },
+        {
             "source": "WIRED Security",
             "title": "For Taylor Swift, Madison Square Garden’s Controversial Cameras Briefly Went Dark",
             "link": "https://www.wired.com/story/for-taylor-swift-madison-square-gardens-controversial-cameras-briefly-went-dark/",
             "summary": "MSG’s sprawling surveillance system can monitor guests down to the second. Its owners made an exception for the pop star’s rehearsal dinner.",
             "published_utc": "2026-07-23T18:18:46+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Russian Hackers Exploit New ‘Zero-Click’  Attack Against Western Organizations",
+            "link": "https://www.infosecurity-magazine.com/news/russian-hackers-zero-click/",
+            "summary": "International agencies issue joint alert over state-backed campaign exploiting a critical vulnerability in the Zimbra Collaboration Suite",
+            "published_utc": "2026-07-23T15:50:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Microsoft Copilot Deployments Delayed Over Security Concerns",
+            "link": "https://www.infosecurity-magazine.com/news/microsoft-copilot-delayed-over/",
+            "summary": "CoreView research finds that security leadership is concerned about AI Assistant exposing confidential data",
+            "published_utc": "2026-07-23T14:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Iranian Hackers Target Siemens and Schneider Industrial Systems, CISA Warns",
+            "link": "https://www.infosecurity-magazine.com/news/iran-hackers-siemen-schneider-ics/",
+            "summary": "US government agencies have warned that Iranian cyber actors are targeting US-based Siemens and Schneider industrial equipment",
+            "published_utc": "2026-07-23T13:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "AI Agents Now the Enterprises Fastest Growing Exposed Attack Surface",
+            "link": "https://www.infosecurity-magazine.com/news/ai-agents-attack-surface/",
+            "summary": "Sophos report warns that the rapid adoption of AI by businesses is leaving them vulnerable to a new source of cyber threats",
+            "published_utc": "2026-07-23T11:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "New Dolphin X Stealer Employs AI Profiling to Prioritize Targets",
+            "link": "https://www.infosecurity-magazine.com/news/new-dolphin-x-stealer-ai-targets/",
+            "summary": "Dolphin X is a new infostealer that uses AI to sort and rank victims, giving cybercriminals a faster way to identify lucrative targets",
+            "published_utc": "2026-07-23T10:19:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Two-Thirds of Ransomware Victims Say AI Boosted Attack Effectiveness",
+            "link": "https://www.infosecurity-magazine.com/news/ai-boosts-ransomware-effectiveness/",
+            "summary": "A new study of organizations which have fallen victim to ransomware suggests the rise of AI-tools being used by hackers is making life harder for defe...",
+            "published_utc": "2026-07-23T08:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "TrickBot Ditches HTTP for DNS Tunneling in Latest Variant",
+            "link": "https://www.infosecurity-magazine.com/news/trickbot-dns-tunneling-c2/",
+            "summary": "New TrickBot variant hides C2 communication inside DNS queries, replacing decade-old HTTP pattern",
+            "published_utc": "2026-07-22T15:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Open AI Claims Its AI Models Went Rogue and Hacked Another Company",
+            "link": "https://www.infosecurity-magazine.com/news/open-ai-hacked-another-company/",
+            "summary": "Hugging Face recently disclosed a security breach. OpenAI has now said that it was its AI models which broke containment and hacked Hugging Face thems...",
+            "published_utc": "2026-07-22T11:40:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Ubuntu snap-confine Vulnerability Enables Local Root Access",
+            "link": "https://www.infosecurity-magazine.com/news/ubuntu-snap-confine-local-root-cve/",
+            "summary": "New Ubuntu snap-confine race condition lets local users escalate to root on default installs",
+            "published_utc": "2026-07-22T10:50:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Google Makes CodeMender Available as Managed AI Security Agent",
+            "link": "https://www.infosecurity-magazine.com/news/google-codemender-available-ai/",
+            "summary": "CodeMender actively builds and runs exploits in customer-managed sandboxes to verify if vulnerabilities are truly exploitable",
+            "published_utc": "2026-07-22T10:30:00+00:00"
         },
         {
             "source": "WIRED Security",
@@ -807,11 +1276,193 @@
             "published_utc": "2026-07-21T16:08:44+00:00"
         },
         {
+            "source": "InfosecurityMag",
+            "title": "Russian Hacker Turns Jailbroken Claude Into Pentest Platform",
+            "link": "https://www.infosecurity-magazine.com/news/trim-jailbroken-claude-ai-pentest/",
+            "summary": "Russian-speaking actor Trim built a commercial offensive AI pentest tool on jailbroken Claude models",
+            "published_utc": "2026-07-21T14:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "A New Ransomware Threat Actor Emerges Every Week, Warns Report",
+            "link": "https://www.infosecurity-magazine.com/news/new-ransomware-weekly/",
+            "summary": "Analysis by Black Kite warns that ransomware ecosystem is becoming bigger and more fragmented",
+            "published_utc": "2026-07-21T13:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "FBI Warns of Deepfake Videos Impersonating IC3 Leadership",
+            "link": "https://www.infosecurity-magazine.com/news/fbi-deepfake-videos-ic3/",
+            "summary": "FBI warned of deepfake videos of IC3 leadership directing users to spoofed complaint sites",
+            "published_utc": "2026-07-21T12:00:00+00:00"
+        },
+        {
             "source": "WIRED Security",
             "title": "A Device Hidden in Cars Across the US Leaves Them Vulnerable to Hacking and Paralysis. Patch It Now",
             "link": "https://www.wired.com/story/a-device-hidden-in-cars-across-the-us-leaves-them-vulnerable-to-hacking-and-paralysis-patch-it-now/",
             "summary": "Dealerships installed alarms in millions of vehicles—and left them in even if the buyer didn’t want them. Now researchers warn they can be hacked to u...",
             "published_utc": "2026-07-21T10:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "US Hospital Finance Software Provider Craneware Reports Data Theft",
+            "link": "https://www.infosecurity-magazine.com/news/craneware-reports-data-theft/",
+            "summary": "Craneware, a provider of financial software for US healthcare organizations, has disclosed a cyber incident involving unauthorized access and data theft",
+            "published_utc": "2026-07-21T09:38:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Researchers Uncover North Korean 'ClickFake' Campaign Targeting Web3 Pros",
+            "link": "https://www.infosecurity-magazine.com/news/north-korean-clickfake-campaign/",
+            "summary": "In a new campaign, North Korean hacking group Famous Chollima targeted crypto professionals through ClickFix lures to deliver Windows and macOS trojans",
+            "published_utc": "2026-07-21T09:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Cruciferra Crypter Uses Process Ghosting to Evade Detection",
+            "link": "https://www.infosecurity-magazine.com/news/cruciferra-crypter-process-ghosting/",
+            "summary": "Cruciferra crypter used process ghosting and 90 custom ciphers to hide payloads for multiple actors",
+            "published_utc": "2026-07-20T15:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "JadePuffer Returns With Ransomware Designed to Wipe AI Models",
+            "link": "https://www.infosecurity-magazine.com/news/jadepuffer-ai-model-ransomware/",
+            "summary": "JadePuffer follow-up campaign deployed ENCFORGE locker built to destroy AI model artifacts",
+            "published_utc": "2026-07-20T14:05:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Researchers Build WordPress Exploit Using OpenAI's GPT",
+            "link": "https://www.infosecurity-magazine.com/news/researchers-wordpress-exploit/",
+            "summary": "A researcher who discovered a critical vulnerability in WordPress has used OpenAI’s latest model to develop an exploit chain",
+            "published_utc": "2026-07-20T14:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "New HollowGraph Malware Hijacks Microsoft 365 Calendars for Covert C2 Communications",
+            "link": "https://www.infosecurity-magazine.com/news/hollowgraph-microsoft-calendars/",
+            "summary": "Researchers have linked HollowGraph malware to the Cavern framework after discovering its use of Microsoft 365 calendars and Microsoft Graph APIs as a...",
+            "published_utc": "2026-07-20T12:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Police Chiefs Cite TfL Hack in Push for Cybercrime Risk Orders",
+            "link": "https://www.infosecurity-magazine.com/news/police-chiefs-tfl-cybercrime-risk/",
+            "summary": "Two chiefs of UK policing agencies said the Transport for London prosecution demonstrates the need for Cybercrime Risk Orders",
+            "published_utc": "2026-07-20T09:45:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Government Agencies Falling Victim to Ransomware Daily, Warns Study",
+            "link": "https://www.infosecurity-magazine.com/news/government-ransomware-daily/",
+            "summary": "Government organizations are targeted by attackers who know agencies cannot afford disruption to public services",
+            "published_utc": "2026-07-17T15:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "23andMe Faces New Security Mandates in $18m Data Breach Settlement",
+            "link": "https://www.infosecurity-magazine.com/news/23andme-18m-data-breach-settlement/",
+            "summary": "23andMe has agreed to an $18m settlement with 42 US attorneys general over its 2023 data breach, including enhanced data protection requirements",
+            "published_utc": "2026-07-17T14:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "CISA Mandates Urgent Patch for Actively Exploited Critical Fortinet Vulnerabilities",
+            "link": "https://www.infosecurity-magazine.com/news/cisa-urgent-patch-fortinet/",
+            "summary": "US government agencies have until July 19 to patch two critical Fortinet vulnerabilities",
+            "published_utc": "2026-07-17T09:45:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "The Gentlemen Overtakes Qilin as Most Prolific Ransomware Threat",
+            "link": "https://www.infosecurity-magazine.com/news/the-gentlemen-most-prolific/",
+            "summary": "Analysis of ransomware incidents by ReliaQuest indicates a shift in the ransomware landscape",
+            "published_utc": "2026-07-17T09:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Phishing Campaign Hides Lua Loader as TrueType Font File",
+            "link": "https://www.infosecurity-magazine.com/news/phishing-lua-loader-truetype-font/",
+            "summary": "Global phishing campaign disguised a Lua loader as a font file to deploy RATs and infostealers",
+            "published_utc": "2026-07-16T15:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Modular macOS Stealer Uses Kill Loops to Force Password Entry",
+            "link": "https://www.infosecurity-magazine.com/news/clicklock-macos-stealer-clickfix/",
+            "summary": "New ClickLock macOS stealer locked victims out of their own system until they surrendered a password",
+            "published_utc": "2026-07-16T13:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Single Prompt Enables ChatGPT to Execute Full Cyber-Attack Chain, Researchers Claim",
+            "link": "https://www.infosecurity-magazine.com/news/chatgpt55-to-execute-full/",
+            "summary": "Cybersecurity researchers tested Open AI GPT 5.5’s offensive cyber capabilities – and the results showed how effective a frontier LLM can be for hackers",
+            "published_utc": "2026-07-16T13:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "\"Selfish Bravado\"  Behind TfL Cyber-Attack, Judge Says as Pair Jailed",
+            "link": "https://www.infosecurity-magazine.com/news/selfish-bravado-behind-tfl/",
+            "summary": "The perpetrators of the 2024 TfL cyber-attack have been jailed for five and a half years each after pleading guilty to Computer Misuse Act offences",
+            "published_utc": "2026-07-16T11:51:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "SANS Warns of AI Governance Gap as Use by Security Teams Surges",
+            "link": "https://www.infosecurity-magazine.com/news/sans-warns-of-ai-governance-gap/",
+            "summary": "SANS Institute says governance programs are still nascent even as AI failures and threats grow",
+            "published_utc": "2026-07-16T09:25:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "US Launches Gold Eagle to Coordinate AI-Driven Vulnerability Management",
+            "link": "https://www.infosecurity-magazine.com/news/us-gold-eagle-ai-vulnerability/",
+            "summary": "The White House announced Gold Eagle to help accelerate the discovery, prioritization and patching of flaws found by AI",
+            "published_utc": "2026-07-16T08:50:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Phishing Campaign Abuses eCards to Deploy RMM Tools",
+            "link": "https://www.infosecurity-magazine.com/news/seasonalinvite-phishing-ecards-rmm/",
+            "summary": "Six-month phishing campaign used seasonal eCard lures to plant legitimate RMM tools on victims",
+            "published_utc": "2026-07-15T15:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Eleven Vulnerable UEFI Shims Enable Secure Boot Bypass",
+            "link": "https://www.infosecurity-magazine.com/news/uefi-shims-secure-boot-bypass/",
+            "summary": "Eleven forgotten Microsoft-signed UEFI shims can bypass Secure Boot on almost any machine",
+            "published_utc": "2026-07-15T14:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Compromised Logins Surge as the Most Common Entry Point for Ransomware Attacks",
+            "link": "https://www.infosecurity-magazine.com/news/compromised-logins-ransomware-entry/",
+            "summary": "Research of incidents by Sophos finds that phishing, brute force attacks and other identity-based threats have surpassed software vulnerabilities as m...",
+            "published_utc": "2026-07-15T12:45:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Progress Restores ShareFile Storage Zones Access After Security Warning",
+            "link": "https://www.infosecurity-magazine.com/news/progress-restores-sharefile/",
+            "summary": "Progress has restored access to its ShareFile Storage Zones Controller after a four-day suspension triggered by a credible external security threat",
+            "published_utc": "2026-07-15T12:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Microsoft Patches 570 CVEs in Record Patch Tuesday",
+            "link": "https://www.infosecurity-magazine.com/news/microsoft-570-cves-patch-tuesday/",
+            "summary": "Microsoft released fixes for a record 570 CVEs in its July Patch Tuesday update, as experts warn AI is dramatically accelerating vulnerability discove...",
+            "published_utc": "2026-07-15T09:20:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Government Updates UK’s National Risk Register with Cyber Warnings",
+            "link": "https://www.infosecurity-magazine.com/news/uk-national-risk-register-cyber/",
+            "summary": "The UK government is warning of the potential impact of catastrophic cyber-attacks",
+            "published_utc": "2026-07-15T08:48:00+00:00"
         },
         {
             "source": "KrebsOnSecurity",
@@ -821,11 +1472,46 @@
             "published_utc": "2026-07-14T19:22:42+00:00"
         },
         {
+            "source": "InfosecurityMag",
+            "title": "US: Pentagon Suspends CMMC Phase II Requirements for Defense Contractors",
+            "link": "https://www.infosecurity-magazine.com/news/us-pentagon-suspends-cmmc-2/",
+            "summary": "The US Department of Defense announced the immediate suspension of the CMMC Phase II requirements until further review",
+            "published_utc": "2026-07-14T15:28:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "New MacOS Malware Exploits Legitimate Developer ID to Pose as Apple Crash Reporter",
+            "link": "https://www.infosecurity-magazine.com/news/macos-malware-apple-crash-reporter/",
+            "summary": "Researchers at Jamf Threat Labs detail CrashStealer, which steals passwords, cryptocurrency wallets and more",
+            "published_utc": "2026-07-14T12:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Lidl Notifies Customers of Third-Party Data Breach",
+            "link": "https://www.infosecurity-magazine.com/news/lidl-notifies-customers-of/",
+            "summary": "Supermarket giant Lidl has revealed details of a supplier breach impacting customer data",
+            "published_utc": "2026-07-14T09:43:00+00:00"
+        },
+        {
             "source": "WeLiveSecurity",
             "title": "Forgotten UEFI shims undermining Secure Boot",
             "link": "https://www.welivesecurity.com/en/eset-research/forgotten-uefi-shims-undermining-secure-boot/",
             "summary": "ESET researchers discovered 11 vulnerable UEFI shim bootloaders signed by Microsoft that allow attackers to bypass UEFI Secure Boot by exploiting deca...",
             "published_utc": "2026-07-14T08:53:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Five Charged in “Russian Coms” Fraud Platform Case",
+            "link": "https://www.infosecurity-magazine.com/news/five-charged-in-russian-coms-fraud/",
+            "summary": "Five UK residents have been charged in relation to supplying Russian Coms fraud devices and apps",
+            "published_utc": "2026-07-14T08:21:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Open Directory Exposes Three Evilginx Phishing Operators",
+            "link": "https://www.infosecurity-magazine.com/news/open-directory-exposes-evilginx/",
+            "summary": "Misconfigured server exposed three phishing operators running Evilginx forks to bypass MFA",
+            "published_utc": "2026-07-13T15:30:00+00:00"
         },
         {
             "source": "KrebsOnSecurity",
@@ -835,11 +1521,165 @@
             "published_utc": "2026-07-13T15:03:28+00:00"
         },
         {
+            "source": "InfosecurityMag",
+            "title": "Pakistani Police Systems Hit by Chinese and Indian Espionage",
+            "link": "https://www.infosecurity-magazine.com/news/chinese-indian-espionage-pakistani/",
+            "summary": "Chinese and Indian spies converged on the same Balochistan police force, SentinelLabs found",
+            "published_utc": "2026-07-13T14:45:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Novel OAuth Client ID Spoofing Technique Targets Cloud Environments",
+            "link": "https://www.infosecurity-magazine.com/news/novel-spoofing-technique-targets/",
+            "summary": "New research reveals cyber-attackers can spoof OAuth Client IDs in Microsoft Entra ID, creating a stealthy path into cloud environments",
+            "published_utc": "2026-07-13T13:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Progress Software Warns of \"External Security Threat\" to ShareFile",
+            "link": "https://www.infosecurity-magazine.com/news/progress-warns-security-threat/",
+            "summary": "Progress Software, the provider of the popular file-sharing and data storage solutions, has urged customers to shut down the server hosting their Stor...",
+            "published_utc": "2026-07-13T12:05:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Russian State Hackers Target Vulnerable Routers Worldwide, Joint Advisory Warns",
+            "link": "https://www.infosecurity-magazine.com/news/russian-state-hackers-vulnerable/",
+            "summary": "Cybersecurity agencies from 12 countries have warned that Russian state-backed hackers are actively targeting vulnerable routers using weak SNMP crede...",
+            "published_utc": "2026-07-13T10:40:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Hacker Extradited from Ukraine Pleads Guilty to Ryuk Ransomware Charges",
+            "link": "https://www.infosecurity-magazine.com/news/hacker-extradited-ukraine-guilty/",
+            "summary": "An Armenian man has pleaded guilty to his role in the infamous Ryuk ransomware operation",
+            "published_utc": "2026-07-13T09:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Australian Cyber Agency Warns of Global CMS Exploitation Campaign",
+            "link": "https://www.infosecurity-magazine.com/news/australia-warns-global-cms/",
+            "summary": "Australian Cyber Security Centre warns CMS users of mass scanning and exploitation campaign",
+            "published_utc": "2026-07-13T08:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "CISA Details Incident Response to Exposed AWS GovCloud Keys",
+            "link": "https://www.infosecurity-magazine.com/news/cisa-incident-response-exposed-aws/",
+            "summary": "CISA reveals how it responded after sensitive AWS GovCloud credentials and internal data were exposed in a public GitHub repository",
+            "published_utc": "2026-07-10T16:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Microsoft Warns New 'GigaWiper' Malware Combines Espionage and Destructive Capabilities",
+            "link": "https://www.infosecurity-magazine.com/news/new-gigawiper-espionage-destructive/",
+            "summary": "A new multi-purpose backdoor allows cyber threat actors to conduct both quiet espionage activity and destructive wiping operations",
+            "published_utc": "2026-07-10T15:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Anthropic and OpenAI Security Tools Could Fuel Cyber-Attacks, Researchers Warn",
+            "link": "https://www.infosecurity-magazine.com/news/anthropic-openai-report-exploit/",
+            "summary": "Researchers at the AI Now Institute developed a proof-of-concept exploit showing common AI tools used for security could backfire",
+            "published_utc": "2026-07-10T13:45:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "New Ransomware Exploits Malicious Driver to Remove Cybersecurity Protections",
+            "link": "https://www.infosecurity-magazine.com/news/ransomware-removes-cybersecurity/",
+            "summary": "GodDamn ransomware uses remote desktop application to secretly move around networks and drop the malicious PoisonX kernel driver",
+            "published_utc": "2026-07-10T13:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Microsoft Warns of Increase in Number of Security Updates",
+            "link": "https://www.infosecurity-magazine.com/news/microsoft-increase-number-security/",
+            "summary": "Microsoft has said the volume of Windows security updates is set to grow as it uses AI to find new bugs",
+            "published_utc": "2026-07-10T09:33:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "NHS Warns Staff Over Unauthorized Access to Patient Data",
+            "link": "https://www.infosecurity-magazine.com/news/nhs-warns-staff-unauthorized/",
+            "summary": "NHS tells staff they could face prison for “inappropriate” access to patients’ medical records",
+            "published_utc": "2026-07-10T09:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Vibe-Coded Malware Caught in Active Directory Attack",
+            "link": "https://www.infosecurity-magazine.com/news/vibe-coded-malware-ai-powershell/",
+            "summary": "Huntress found a threat actor using vibe-coded PowerShell to map an Active Directory network",
+            "published_utc": "2026-07-09T14:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "75% CISOs Fear Executives Don’t Understand Cybersecurity Risks Employees Face",
+            "link": "https://www.infosecurity-magazine.com/news/cisos-fear-execs-dont-understand/",
+            "summary": "Survey of cybersecurity leaders by MetaCompliance finds that many feel boards are uninterested in ever-evolving cyber risks",
+            "published_utc": "2026-07-09T12:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Chinese-Funded Interpol Cybercrime Crackdown Leads to 5,800 Arrests",
+            "link": "https://www.infosecurity-magazine.com/news/china-interpol-cybercrime-crackdown/",
+            "summary": "Operation First Light 2026, coordinated by Interpol and funded by the Chinese government, has led to 5,811 arrests",
+            "published_utc": "2026-07-09T11:45:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "GhostApproval Flaw Hits Six Major AI Coding Assistants",
+            "link": "https://www.infosecurity-magazine.com/news/ghostapproval-flaw-ai-coding/",
+            "summary": "Wiz discovered GhostApproval, a symlink flaw in six major AI coding assistants that bypasses approval",
+            "published_utc": "2026-07-09T11:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "New AI Security Charter Backed by Over 70 Cyber Firms",
+            "link": "https://www.infosecurity-magazine.com/news/crest-ai-security-charter-cyber/",
+            "summary": "Over 70 cybersecurity organizations have signed the CREST AI Charter detailing responsible use of AI for security",
+            "published_utc": "2026-07-09T09:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Cybercriminals Plant Malicious AI Agents in Open Source Tool Repositories",
+            "link": "https://www.infosecurity-magazine.com/news/cybercriminals-plant-ai-agents/",
+            "summary": "Cybersecurity researchers at ESET identify big rise in suspicious and malicious toolsets which put users at risk from cyber-attacks",
+            "published_utc": "2026-07-09T07:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "RedWing Android Spyware Sold as a Service on Telegram",
+            "link": "https://www.infosecurity-magazine.com/news/redwing-android-spyware-maas/",
+            "summary": "Zimperium found RedWing, an Android spyware sold as a service via Telegram to target banking apps",
+            "published_utc": "2026-07-08T15:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "China-Linked APT Expands Proxy Network With New Malware",
+            "link": "https://www.infosecurity-magazine.com/news/uat-7810-china-apt-orb-proxy/",
+            "summary": "Cisco Talos said China-linked APT UAT-7810 is growing its proxy relay network with new malware",
+            "published_utc": "2026-07-08T14:30:00+00:00"
+        },
+        {
             "source": "KrebsOnSecurity",
             "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
             "link": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
             "summary": "A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right co...",
             "published_utc": "2026-07-08T12:31:39+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Threat Actors Uses Agentic AI to Rapidly Compromise Cloud Target",
+            "link": "https://www.infosecurity-magazine.com/news/threat-actor-agentic-ai-cloud/",
+            "summary": "Sygnia report details how agentic AI accelerated weeks-long attack to just 72 hours",
+            "published_utc": "2026-07-08T12:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "New Malicious Campaign Delivers Vidar Infostealer and Monero Crypto Miner",
+            "link": "https://www.infosecurity-magazine.com/news/new-campaign-vidar-stealer-monero/",
+            "summary": "Cyber threat actors are infecting victims with the Vidar stealer and the XMRig cryptocurrency miner in a new malicious campaign",
+            "published_utc": "2026-07-08T11:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
@@ -849,11 +1689,109 @@
             "published_utc": "2026-07-08T08:45:00+00:00"
         },
         {
+            "source": "InfosecurityMag",
+            "title": "NCSC Touts National Scale, AI-Powered “Cyber Shield” for Defense",
+            "link": "https://www.infosecurity-magazine.com/news/ncsc-national-cyber-sheild-ai/",
+            "summary": "The National Cyber Security Centre wants to work with AI partners to build a new “Cyber Shield” to defend the UK",
+            "published_utc": "2026-07-08T08:10:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Suspected Chinese Threat Group Targets Universities via Vulnerable Roundcube Servers",
+            "link": "https://www.infosecurity-magazine.com/news/china-aligned-cluster-roundcube/",
+            "summary": "A suspected Chinese threat cluster is exploiting Roundcube vulnerabilities to compromise university networks in the US and Canada and harvest user cre...",
+            "published_utc": "2026-07-07T15:40:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Scattered Spider’s Structure More Like a Cybercrime Collective Than a Unified Gang",
+            "link": "https://www.infosecurity-magazine.com/news/scattered-spider-as-cybercrime/",
+            "summary": "Group-IB analysis argued Scattered Spider is a decentralized collective of independent clusters",
+            "published_utc": "2026-07-07T14:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "UK Government Launches Cyber Resilience Pledge, Claiming 60+ Signatories",
+            "link": "https://www.infosecurity-magazine.com/news/uk-gov-launches-cyber-resilience/",
+            "summary": "More than 60 organizations, including M&amp;S, Microsoft UK and Vodafone, have signed the UK government's Cyber Resilience Pledge, a new initiative ai...",
+            "published_utc": "2026-07-07T10:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Hackers Exploit Maximum Severity Adobe ColdFusion Flaw",
+            "link": "https://www.infosecurity-magazine.com/news/exploit-maximum-severity-adobe/",
+            "summary": "Threat actors are exploiting an Adobe ColdFusion vulnerability which has a CVSS score of 10.0",
+            "published_utc": "2026-07-07T08:20:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Phishing Attacks Targeted Facebook Users With Fake Verification Offer",
+            "link": "https://www.infosecurity-magazine.com/news/phishing-facebook-fake-verification/",
+            "summary": "Attacks also used a compromised chatbot in campaign to steal sensitive information from Business Users",
+            "published_utc": "2026-07-07T07:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "New Iran-Nexus Hacking Group Targets Israel Government and IT Sectors",
+            "link": "https://www.infosecurity-magazine.com/news/new-iran-hacking-group-targets/",
+            "summary": "Check Point researchers have identified a new cyber adversary targeting Israeli government and IT businesses, tracked as ‘Cavern Manticore’",
+            "published_utc": "2026-07-06T16:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Indirect Prompt Injection in Web Content Targets AI Agents",
+            "link": "https://www.infosecurity-magazine.com/news/indirect-prompt-injection-web/",
+            "summary": "Zscaler found sites hiding prompt-injection text to manipulate AI agents into crypto payments",
+            "published_utc": "2026-07-06T15:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Opera GX Flaw Let Sites Auto-Install Mods to Steal Data",
+            "link": "https://www.infosecurity-magazine.com/news/opera-gx-flaw-gx-mods-css/",
+            "summary": "Opera GX flaw let sites automatically install mods to steal data from other pages, now patched",
+            "published_utc": "2026-07-06T14:15:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "NCA Issues Warning to Parents As Shared Child Photos Exploited by AI Tools",
+            "link": "https://www.infosecurity-magazine.com/news/nca-warn-parents-volume/",
+            "summary": "IWF and NCA warn that growing numbers of images and videos are being manipulated into sexual abuse material",
+            "published_utc": "2026-07-06T09:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Researchers Claim First Fully Agentic Ransomware: JadePuffer",
+            "link": "https://www.infosecurity-magazine.com/news/researchers-first-agentic/",
+            "summary": "Researchers have revealed JadePuffer, the first agentic AI-powered ransomware campaign, highlighting how autonomous agents can automate cyber-attacks",
+            "published_utc": "2026-07-06T08:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Qilin Dominates Ransomware Market Amid Growing Cybercrime Consolidation",
+            "link": "https://www.infosecurity-magazine.com/news/qilin-dominates-ransomware-market/",
+            "summary": "The ransomware landscape is reconsolidating around major players, with Qilin emerging as the leading RaaS operation, researchers say",
+            "published_utc": "2026-07-03T13:00:00+00:00"
+        },
+        {
             "source": "WeLiveSecurity",
             "title": "Cyber readiness for SMBs: Getting the basics right",
             "link": "https://www.welivesecurity.com/en/business-security/cyber-readiness-smbs-getting-basics-right/",
             "summary": "AI is changing cybercrime, but SMB cyber readiness still largely depends on closing the familiar gaps",
             "published_utc": "2026-07-03T12:36:41+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Warning Over “Industrialized” Cyber-Attacks After Ransomware Gang Partners With TeamPCP",
+            "link": "https://www.infosecurity-magazine.com/news/industrialized-cyberattacks/",
+            "summary": "Researchers warn that collaboration could lead to “unprecedented” ransomware attacks, as FBI also issues warning",
+            "published_utc": "2026-07-03T11:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "FBI, Google Take Down NetNut Proxy Network Used by Cyber Threat Actors",
+            "link": "https://www.infosecurity-magazine.com/news/fbi-google-take-down-netnut-proxy/",
+            "summary": "The NetNut proxy network and the ‘Popa’ botnet are known to have infected devices with variants of Mirai DDoS botnets",
+            "published_utc": "2026-07-03T09:35:00+00:00"
         },
         {
             "source": "KrebsOnSecurity",
@@ -863,11 +1801,158 @@
             "published_utc": "2026-07-02T19:27:33+00:00"
         },
         {
+            "source": "InfosecurityMag",
+            "title": "Researcher Behind 'Exploitarium' Explains Release of Undisclosed Zero-Day Exploits",
+            "link": "https://www.infosecurity-magazine.com/news/researcher-exploitarium-exploits/",
+            "summary": "Infosecurity spoke with the researcher who dumped over 30 proof-of-concept exploits without disclosing the vulnerabilities first",
+            "published_utc": "2026-07-02T12:51:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Cybercriminals Pose as Interpol in Phishing Emails to Infect Victims With Ransomware",
+            "link": "https://www.infosecurity-magazine.com/news/cybercriminals-pose-interpol/",
+            "summary": "Bitdefender researchers warned of curious ransomware campaign which has targeted businesses around the world",
+            "published_utc": "2026-07-02T12:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "NCSC Shares Tips on How to Make a Pen Tester’s Job Harder",
+            "link": "https://www.infosecurity-magazine.com/news/ncsc-tips-make-pen-testers-job/",
+            "summary": "The NCSC has shared best practice advice from pen testers which could help improve system resilience",
+            "published_utc": "2026-07-02T10:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Alleged Scattered Spider Member Extradited to US",
+            "link": "https://www.infosecurity-magazine.com/news/scattered-spider-member-extradited/",
+            "summary": "A teenager accused of hacking as part of Scattered Spider has been arrested",
+            "published_utc": "2026-07-02T08:45:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Fileless Malware Abuses Google Blogspot to Deploy Infostealer in Memory",
+            "link": "https://www.infosecurity-magazine.com/news/veil-drop-blogspot-purelog-stealer/",
+            "summary": "Securonix said the Veil#Drop campaign abuses Google Blogspot to deliver PureLog Stealer in memory",
+            "published_utc": "2026-07-01T14:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Brazilian Banking Trojan Ousaban Targets Spain and Portugal",
+            "link": "https://www.infosecurity-magazine.com/news/ousaban-banking-trojan-spain/",
+            "summary": "FortiGuard says the Brazilian banking trojan Ousaban is targeting Spain and Portugal via phishing",
+            "published_utc": "2026-07-01T13:45:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Anthropic's Fable 5 and Mythos 5 Are Back with New Security Guardrails",
+            "link": "https://www.infosecurity-magazine.com/news/anthropic-fable-mythos-back/",
+            "summary": "The new classifier in Fable 5 blocks the jailbreak technique that prompted the US export controls “in over 99% of cases”",
+            "published_utc": "2026-07-01T11:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Microsoft Accelerates Quantum-Safe Push with New Timeline",
+            "link": "https://www.infosecurity-magazine.com/news/microsoft-accelerates-quantumsafe/",
+            "summary": "Microsoft has brought forward its timelines for transitioning to post-quantum cryptography (PQC)",
+            "published_utc": "2026-07-01T10:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Insurance Giant Aflac Discloses Data Breach Impacting Millions",
+            "link": "https://www.infosecurity-magazine.com/news/insurance-giant-aflac-data-breach/",
+            "summary": "Aflac Japan has notified regulators that policy details and personal and banking information have been compromised",
+            "published_utc": "2026-07-01T09:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Nissan Discloses Employee Data Breach Linked to Oracle Zero-Day",
+            "link": "https://www.infosecurity-magazine.com/news/nissan-oracle-peoplesoft-zero-day/",
+            "summary": "Nissan says employees' data was stolen via the Oracle PeopleSoft zero-day campaign",
+            "published_utc": "2026-06-30T16:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Critical SimpleHelp Vulnerability Exploited For Malware Delivery",
+            "link": "https://www.infosecurity-magazine.com/news/simplehelp-rmm-vulnerability/",
+            "summary": "Attackers exploited a critical SimpleHelp RMM bug to deploy TaskWeaver and Djinn Stealer malware",
+            "published_utc": "2026-06-30T15:34:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "ClickFix Now Cybercriminals' Favorite Malware Delivery Technique",
+            "link": "https://www.infosecurity-magazine.com/news/clickfix-cybercriminals-favorite/",
+            "summary": "ReliaQuest report warns of a surge in ClickFix social engineering attacks against Windows and macOS users",
+            "published_utc": "2026-06-30T12:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Hackers Leverage Blockchain to Hit Japan's Hotels Through Booking.com Phishing",
+            "link": "https://www.infosecurity-magazine.com/news/hackers-blockchain-japan-hotels/",
+            "summary": "A wave of phishing emails sent to Booking.com partner accommodations in Japan in May led to blockchain-hosted malware",
+            "published_utc": "2026-06-30T10:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "UK Healthcare Sector Records Tenfold Increase in Cyber-Attacks",
+            "link": "https://www.infosecurity-magazine.com/news/uk-healthcare-tenfold-increase/",
+            "summary": "SonicWall records 264,000 events in first five months of 2026 as UK hospitals come under siege",
+            "published_utc": "2026-06-30T09:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Over 300 UK Firms Hit by Ransomware in a Year",
+            "link": "https://www.infosecurity-magazine.com/news/over-300-uk-firms-hit-ransomware/",
+            "summary": "Report Fraud data reveals that more than half of 323 UK ransomware victims last year were SMEs",
+            "published_utc": "2026-06-30T08:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "OpenAI Reveals GPT-5.6 Sol Cybersecurity Model, Restricts Early Access",
+            "link": "https://www.infosecurity-magazine.com/news/openai-gpt-5-6-sol-limited-preview/",
+            "summary": "OpenAI is previewing its GPT-5.6 Sol model to a vetted few at the US government's request",
+            "published_utc": "2026-06-29T15:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Telegram-Based Millenium RAT Campaign Infects 60,000 Devices",
+            "link": "https://www.infosecurity-magazine.com/news/millenium-rat-telegram-60000/",
+            "summary": "Group-IB says Millenium RAT, now rewritten in C++, has hit 62,289 devices in 160+ countries",
+            "published_utc": "2026-06-29T14:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "US Federal Insurance Regulator Confirms Data Breach Via Oracle Flaw",
+            "link": "https://www.infosecurity-magazine.com/news/us-insurance-regulator-confirms/",
+            "summary": "An attacker has exploited a zero day in Oracle Peoplesoft to gain access to the IT systems of the NAIC, the standard-setting association for the US fe...",
+            "published_utc": "2026-06-29T10:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Russian Hackers Accused of Destructive Cyber-Attack on Jaguar Land Rover",
+            "link": "https://www.infosecurity-magazine.com/news/russian-hackers-destructive-jaguar/",
+            "summary": "Experts warn the Jaguar Land Rover breach bears hallmarks of Kremlin-backed hackers, citing novel ransomware, strategic timing and efforts to obscure ...",
+            "published_utc": "2026-06-29T09:15:00+00:00"
+        },
+        {
             "source": "WeLiveSecurity",
             "title": "Inside the inbox: Why cybercriminals want to break into your email account",
             "link": "https://www.welivesecurity.com/en/cybersecurity/inside-inbox-cybercriminals-want-break-email-account/",
             "summary": "Your inbox is an identity system all of its own: whoever owns it may own a lot more",
             "published_utc": "2026-06-29T08:50:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "FBI Sounds Alarm Over Russian Intelligence Signal Phishing",
+            "link": "https://www.infosecurity-magazine.com/news/fbi-alarm-russian-intelligence/",
+            "summary": "The FBI claims Russian spies are targeting Signal backup keys",
+            "published_utc": "2026-06-29T08:15:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "China-Linked Hackers Strike Asian Critical Infrastructure with TinyRCT Backdoor",
+            "link": "https://www.infosecurity-magazine.com/news/china-hackers-asian-cni-backdoor/",
+            "summary": "A China-linked threat group has been targeting critical infrastructure in Southeast Asia with a new custom backdoor called TinyRCT",
+            "published_utc": "2026-06-26T10:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
@@ -877,11 +1962,88 @@
             "published_utc": "2026-06-26T08:50:00+00:00"
         },
         {
+            "source": "InfosecurityMag",
+            "title": "CMC Releases Analysis and Guidance for Education Sector After Canvas Data Breach",
+            "link": "https://www.infosecurity-magazine.com/news/cmc-analysis-education-canvas-data/",
+            "summary": "The UK Cyber Monitoring Centre reviews the Canvas breach affecting 160 UK universities, highlighting data theft risks and financial impacts of cyber i...",
+            "published_utc": "2026-06-26T08:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Cisco Vulnerability Exploited Months Before Disclosure, Google Warns",
+            "link": "https://www.infosecurity-magazine.com/news/cisco-vulnerability-exploited/",
+            "summary": "A high-severity flaw in Cisco Catalyst SD-WAN Manager disclosed in early June was exploited as early as March",
+            "published_utc": "2026-06-25T14:15:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Twenty Million US IP Connections Used by Proxy Services",
+            "link": "https://www.infosecurity-magazine.com/news/twenty-million-us-ip-connections/",
+            "summary": "Digital Citizens Alliance report claims that millions of Americans may have unwittingly had IP connections used by cybercriminals",
+            "published_utc": "2026-06-25T13:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Trust in Automated AI Vulnerability Scanning Collapses to 9%, New Study Finds",
+            "link": "https://www.infosecurity-magazine.com/news/trust-ai-vulnerability-scanning/",
+            "summary": "Cobalt study finds 20-percentage-point drop in number of organizations relying solely on AI automation for testing",
+            "published_utc": "2026-06-25T12:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "New CISA Guide Helps Agencies Adopt SASE For Zero Trust",
+            "link": "https://www.infosecurity-magazine.com/news/cisa-sase-tic-3-0-zero-trust/",
+            "summary": "New CISA guidance shows federal agencies how to use SASE to move from legacy TIC 2.0 to zero trust",
+            "published_utc": "2026-06-25T11:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "macOS Flaw Lets Standard Users Disable EDR and MDM",
+            "link": "https://www.infosecurity-magazine.com/news/macos-xpc-flaw-disable-edr-mdm/",
+            "summary": "macos-xpc-flaw-disable-edr-mdm-standard-user-xm-cyber",
+            "published_utc": "2026-06-25T11:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Major Increase in Ransomware Attacks Targeting Europe, Warns New Report",
+            "link": "https://www.infosecurity-magazine.com/news/increase-ransomware-europe/",
+            "summary": "Analysis of ransomware incidents by researchers at Black Kite found that attacks have risen by over 50% in the last year, with supply chain attacks in...",
+            "published_utc": "2026-06-25T10:45:00+00:00"
+        },
+        {
             "source": "WeLiveSecurity",
             "title": "Gamaredon in 2025: Leveraging tunnels, workers, dead drops, and new alliances",
             "link": "https://www.welivesecurity.com/en/eset-research/gamaredon-2025-leveraging-tunnels-workers-dead-drops-new-alliances/",
             "summary": "ESET Research analyzes Gamaredon’s new toolset and the group’s growing reliance on legitimate online services to hide its C&amp;C infrastructure and e...",
             "published_utc": "2026-06-25T08:45:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Researchers Trick AI Browsers Into Leaking Credentials",
+            "link": "https://www.infosecurity-magazine.com/news/bioshocking-ai-browser-prompt/",
+            "summary": "LayerX tricked AI browsers including ChatGPT Atlas and Comet into bypassing their guardrails",
+            "published_utc": "2026-06-24T16:05:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Europol-Led Operation Endgame Takes Down StealC and Amadey Infostealers",
+            "link": "https://www.infosecurity-magazine.com/news/operation-endgame-stealc-amadey/",
+            "summary": "Operation Endgame seized around 50 domains and nearly 200 active IP-based servers associated with the infostealers",
+            "published_utc": "2026-06-24T15:25:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "macOS Backdoor Uses Prompt Injection to Evade AI Triage",
+            "link": "https://www.infosecurity-magazine.com/news/macos-gaslight-rust-backdoor/",
+            "summary": "SentinelLabs found a North Korea-linked macOS backdoor using prompt injection on AI triage tools",
+            "published_utc": "2026-06-24T14:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "KDDI Breach Affects Six Japanese ISPs, Exposes 14.2 Email Credentials",
+            "link": "https://www.infosecurity-magazine.com/news/kddi-breach-japanese-telcos/",
+            "summary": "Customers of the affected Japanese email services are “strongly advised” to change their email passwords",
+            "published_utc": "2026-06-24T12:45:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
@@ -891,11 +2053,137 @@
             "published_utc": "2026-06-24T12:35:24+00:00"
         },
         {
+            "source": "InfosecurityMag",
+            "title": "Iran-Linked MuddyWater Poses as Ransomware Gang to Mask Cyber Espionage",
+            "link": "https://www.infosecurity-magazine.com/news/iranlinked-muddywater-poses-as/",
+            "summary": "An NCC Group report warns state-backed hackers are attempting to hide activity by posing as ransomware groups and deploying commercially available mal...",
+            "published_utc": "2026-06-24T12:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "AI Is Making Attacks Cheaper, Faster and More Covert, Says ReliaQuest",
+            "link": "https://www.infosecurity-magazine.com/news/ai-attacks-cheaper-faster-covert/",
+            "summary": "New ReliaQuest study reveals the six ways AI is practically being used in attacks today",
+            "published_utc": "2026-06-24T09:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "UK Museums Face Cybersecurity Risks, MPs Warn",
+            "link": "https://www.infosecurity-magazine.com/news/mps-criticize-government-museum/",
+            "summary": "Public Accounts Committee (PAC) warns that museums and galleries aren’t getting enough government support on cyber",
+            "published_utc": "2026-06-24T08:40:00+00:00"
+        },
+        {
             "source": "KrebsOnSecurity",
             "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
             "link": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
             "summary": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London...",
             "published_utc": "2026-06-23T16:12:49+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Lookalike npm Package Hides a Multi-Stage Windows RAT",
+            "link": "https://www.infosecurity-magazine.com/news/lookalike-npm-package-postcss/",
+            "summary": "JFrog found an npm package impersonating postcss-selector-parser to drop a multi-stage Windows RAT",
+            "published_utc": "2026-06-23T15:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "OpenAI Expands Daybreak to Help Defenders Patch Flaws",
+            "link": "https://www.infosecurity-magazine.com/news/openai-daybreak-gpt-5-5-cyber/",
+            "summary": "OpenAI expanded Daybreak with a full GPT-5.5-Cyber release to help defenders patch software flaws",
+            "published_utc": "2026-06-23T14:15:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Trump Issues Executive Order to Fast-Track Post-Quantum Migration",
+            "link": "https://www.infosecurity-magazine.com/news/trump-eo-post-quantum-migration/",
+            "summary": "All US federal agencies will have to complete their post-quantum cryptography transition by 2031, according to a new Trump Executive Order",
+            "published_utc": "2026-06-23T14:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "GTA 6 Scams Emerge as Pre-Orders Open",
+            "link": "https://www.infosecurity-magazine.com/news/gta-6-scams-emerge-as-preorders/",
+            "summary": "Cybercriminals launch fake GTA 6 pre-order sites offering early access for crypto payments",
+            "published_utc": "2026-06-23T13:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Scattered Spider Teens Convicted of TfL Cyber-Attack",
+            "link": "https://www.infosecurity-magazine.com/news/scattered-spider-teens-convicted/",
+            "summary": "Two young British men have pleaded guilty to hacking Transport for London as part of a Scattered Spider plot",
+            "published_utc": "2026-06-23T09:29:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Five Eyes Group Issues Urgent Call to Tackle Frontier AI Threats",
+            "link": "https://www.infosecurity-magazine.com/news/five-eyes-issues-urgent-call/",
+            "summary": "The Five Eyes Alliance has published a rare call to action for organizations facing AI threats",
+            "published_utc": "2026-06-23T08:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "GentleKiller Framework Disables Victims' Security Software",
+            "link": "https://www.infosecurity-magazine.com/news/gentlekiller-gentlemen-ransomware/",
+            "summary": "ESET details GentleKiller, the EDR-killer framework the Gentlemen ransomware gang gives affiliates",
+            "published_utc": "2026-06-22T15:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Unpatchable BootROM Flaw Impacts Apple A12, A13 Chips",
+            "link": "https://www.infosecurity-magazine.com/news/apple-bootrom-exploit-a12-a13/",
+            "summary": "Apple BootROM exploit exposes unpatchable USB flaw on A12 and A13 devices",
+            "published_utc": "2026-06-22T14:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Microsoft Attributes Mastra AI Supply Chain Attack to North Korea",
+            "link": "https://www.infosecurity-magazine.com/news/mastra-ai-supply-chain-attack/",
+            "summary": "North Korean threat actor Sapphire Sleet has been linked to a supply chain attack targeting Mastra, according to Microsoft security researchers",
+            "published_utc": "2026-06-22T11:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Klue Breach Enables Hackers to Compromise Cybersecurity Firms via OAuth Tokens",
+            "link": "https://www.infosecurity-magazine.com/news/klue-breach-compromise/",
+            "summary": "At least four cybersecurity firms confirmed they have been affected by a breach of business intelligence platform Klue via Salesforce integration",
+            "published_utc": "2026-06-22T10:15:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "UK Information Commissioner Resigns After Workplace Investigation",
+            "link": "https://www.infosecurity-magazine.com/news/information-commissioner-resigns/",
+            "summary": "The UK’s data protection regulator the information commissioner has resigned after his position became “untenable”",
+            "published_utc": "2026-06-22T09:20:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "NCSC Urges Fortinet Customers to Tackle FortiBleed Fallout",
+            "link": "https://www.infosecurity-magazine.com/news/ncsc-fortinet-customers-tackle/",
+            "summary": "The NCSC has released guidance for Fortinet customers impacted by the FortiBleed threat campaign",
+            "published_utc": "2026-06-22T08:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "AWS Unveils 'Continuum,' an AI-Powered Vulnerability Management Platform",
+            "link": "https://www.infosecurity-magazine.com/news/aws-continuum-ai-vulnerability/",
+            "summary": "Working with frontier AI models, this new platform aims to help discovering, prioritizing, validating and remediating code vulnerabilities",
+            "published_utc": "2026-06-19T11:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Operation Endgame Disrupts Malware Network Linked to Major Ransomware Gang",
+            "link": "https://www.infosecurity-magazine.com/news/operation-endgame-socgholish-evil/",
+            "summary": "SocGholish malware has been removed from 15,000 sites associated with Evil Corp hackers",
+            "published_utc": "2026-06-19T10:15:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Confidence Lacks in Threat Detection Across Non-Email Channels like Slack and Teams",
+            "link": "https://www.infosecurity-magazine.com/news/threat-detection-across-nonemail/",
+            "summary": "Half of cybersecurity leaders lack confidence in detecting threats on Slack, Teams and other non-email platforms, despite growing attacker focus",
+            "published_utc": "2026-06-19T09:00:00+00:00"
         },
         {
             "source": "KrebsOnSecurity",
@@ -905,11 +2193,102 @@
             "published_utc": "2026-06-18T17:37:58+00:00"
         },
         {
+            "source": "InfosecurityMag",
+            "title": "Fake GitHub Stars and AI Videos Mask a Crypto Clipper",
+            "link": "https://www.infosecurity-magazine.com/news/crypto-clipboard-hijacker-fake/",
+            "summary": "A Rust crypto clipper hides behind fake GitHub stars and AI-narrated YouTube videos",
+            "published_utc": "2026-06-18T15:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "ICO Cautions Healthcare Worker After Princess of Wales Incident",
+            "link": "https://www.infosecurity-magazine.com/news/ico-cautions-healthcare-worker/",
+            "summary": "Hospital insider escapes criminal prosecution after attempting to sell royal’s medical records",
+            "published_utc": "2026-06-18T14:45:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Cybercriminals Are Worried About AI Taking Their Jobs Too",
+            "link": "https://www.infosecurity-magazine.com/news/cybercriminals-worried-ai-take/",
+            "summary": "Analysis of chatter on underground forums by Sophos finds that hackers fear AI could take work away from them",
+            "published_utc": "2026-06-18T12:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "LATAM Infrastructure Hit by Fortinet and Ivanti Exploits",
+            "link": "https://www.infosecurity-magazine.com/news/operation-escaneo-cloudsek-latam/",
+            "summary": "CloudSEK maps Operation Escaneo, a campaign hitting Latin American infrastructure via perimeter bugs",
+            "published_utc": "2026-06-18T11:30:00+00:00"
+        },
+        {
             "source": "WeLiveSecurity",
             "title": "Killing me gently: Inside Gentlemen’s EDR killer framework",
             "link": "https://www.welivesecurity.com/en/eset-research/killing-me-gently-inside-gentlemens-edr-killer-framework/",
             "summary": "ESET Research shares the results of a months-long investigation into the suite of EDR killers maintained by the RaaS gang Gentlemen",
             "published_utc": "2026-06-18T09:46:32+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Hostile States Behind 75% of Cyber-Attacks on UK Critical Infrastructure, NCSC Warns",
+            "link": "https://www.infosecurity-magazine.com/news/hostile-states-cni-75-percent-ncsc/",
+            "summary": "Richard Horne, the NCSC CEO, said three-quarters of cyber-attacks targeting UK critical infrastructure came from nation-state actors",
+            "published_utc": "2026-06-18T09:10:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Cybercrime Surges in APAC as Digitalization Takes Hold",
+            "link": "https://www.infosecurity-magazine.com/news/cybercrime-surges-apac-digitization/",
+            "summary": "Interpol claims cybercrime accounts for third of crime in over half of Asia and South Pacific countries",
+            "published_utc": "2026-06-18T08:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "North Korean Hiring Fraud Runs on AI and US Laptop Farms",
+            "link": "https://www.infosecurity-magazine.com/news/north-korea-it-worker-fraud-ai/",
+            "summary": "Nisos infiltrated a North Korean IT-worker fraud cell running on AI interviews and a US laptop farm",
+            "published_utc": "2026-06-17T15:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Serverless Phishing Kit on GitHub Targets Mexican Banks",
+            "link": "https://www.infosecurity-magazine.com/news/gitbait-github-pages-sheetbest/",
+            "summary": "GitBait phishing kit abuses GitHub Pages and the SheetBest API to steal Mexican banking credentials",
+            "published_utc": "2026-06-17T14:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Sensitive Enterprise Data Uploads to AI Models Double in a Year",
+            "link": "https://www.infosecurity-magazine.com/news/sensitive-ai-data-upload-doubles/",
+            "summary": "The rise of AI-assistants and applications in the enterprise has seen a 93% increase in employees attempting to upload sensitive data, bringing securi...",
+            "published_utc": "2026-06-17T13:15:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "AI Threats and Alert Fatigue Challenge Cybersecurity Teams",
+            "link": "https://www.infosecurity-magazine.com/news/ai-threats-alert-fatigue-challenge/",
+            "summary": "Filigran survey at Infosecurity Europe 2026 reveals AI-powered attacks as the top concern, with false positives, alert fatigue and manual processes dr...",
+            "published_utc": "2026-06-17T12:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "EU Security Experts to Support Ukrainian Organizations in Case of Cyber-Attacks",
+            "link": "https://www.infosecurity-magazine.com/news/ukraine-included-eu-cyber-reserve/",
+            "summary": "Ukraine has been added to the EU Cybersecurity Reserve, which provides incident response services against large-scale incidents",
+            "published_utc": "2026-06-17T09:45:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Fifteen JetBrains Marketplace Plugins Found Stealing API Keys",
+            "link": "https://www.infosecurity-magazine.com/news/fifteen-jetbrains-marketplace/",
+            "summary": "Aikido Security has discovered at least 15 IDE plugins on the JetBrains Marketplace",
+            "published_utc": "2026-06-17T09:10:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Staffing Is Top SOC Challenge Even as AI Proliferates, Says SANS",
+            "link": "https://www.infosecurity-magazine.com/news/staffing-top-soc-challenge-ai/",
+            "summary": "SANS Institute study finds few SOCs have built AI into defined workflows, despite widespread adoption",
+            "published_utc": "2026-06-17T08:45:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
@@ -919,11 +2298,88 @@
             "published_utc": "2026-06-17T08:45:00+00:00"
         },
         {
+            "source": "InfosecurityMag",
+            "title": "SprySOCKS Backdoor Expands From Linux to Windows",
+            "link": "https://www.infosecurity-magazine.com/news/sprysocks-backdoor-windows/",
+            "summary": "China-linked SprySOCKS backdoor gains stealthy Windows variants and 30-plus C2 commands",
+            "published_utc": "2026-06-16T14:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Rokarolla Trojan Combines Banking Fraud With Device Surveillance",
+            "link": "https://www.infosecurity-magazine.com/news/rokarolla-android-banking-trojan/",
+            "summary": "Rokarolla Android trojan steals banking logins and spies on victims while blocking fraud alerts",
+            "published_utc": "2026-06-16T13:15:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Over Two-Thirds of Security Pros Say Cyber Is Getting Harder",
+            "link": "https://www.infosecurity-magazine.com/news/security-pros-cyber-cyber-harder/",
+            "summary": "ISSA study finds most security professionals feel challenged by colleagues’ involvement in cyber",
+            "published_utc": "2026-06-16T12:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "DragonForce Ransomware Exploited Microsoft Teams to Hide in Attack Against Major Company",
+            "link": "https://www.infosecurity-magazine.com/news/dragonforce-ransomware-hidden/",
+            "summary": "Command and control traffic exploited a Teams visitor token to make malicious activity look legitimate to defenders",
+            "published_utc": "2026-06-16T11:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Chainguard, JPMorgan, BNY Team Up to Secure Open Source from AI Threats",
+            "link": "https://www.infosecurity-magazine.com/news/chainguard-bny-open-source-athena/",
+            "summary": "Athena is a new an industry coalition to fix the vulnerabilities frontier AI models find before attackers can exploit them",
+            "published_utc": "2026-06-16T11:00:00+00:00"
+        },
+        {
             "source": "WeLiveSecurity",
             "title": "FishMonger’s arsenal upgraded: SprySOCKS for Windows",
             "link": "https://www.welivesecurity.com/en/eset-research/fishmongers-arsenal-upgraded-sprysocks-windows/",
             "summary": "ESET researchers have discovered SprySOCKS for Windows, FishMonger’s backdoor weaponizing a kernel driver for advanced stealthiness",
             "published_utc": "2026-06-16T08:54:04+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "FBI Warns Courier Cash Pickups Are Driving Crypto Scams",
+            "link": "https://www.infosecurity-magazine.com/news/fbi-warns-courier-cash-pickups/",
+            "summary": "The FBI claims couriers are being used to circumvent bank transfers in crypto investment schemes",
+            "published_utc": "2026-06-16T08:15:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Attackers Hijack Popular WordPress Plugins to Deploy Backdoors",
+            "link": "https://www.infosecurity-magazine.com/news/wordpress-plugin-supply-chain/",
+            "summary": "Tampered OptinMonster and sister plugins plant hidden backdoors on 1.2 million WordPress sites",
+            "published_utc": "2026-06-15T17:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Adriatic Port Cyber-Attack by Anubis Sparks Warning Over Maritime Security Risks",
+            "link": "https://www.infosecurity-magazine.com/news/anubis-ransomware-adriatic-port/",
+            "summary": "How the Anubis ransomware group stole and leaked an Italian Adriatic port authority's data",
+            "published_utc": "2026-06-15T16:15:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Cybersecurity Experts Urge US to Lift Ban on Anthropic's Frontier AI Models",
+            "link": "https://www.infosecurity-magazine.com/news/cyber-experts-urge-us-lift-ban/",
+            "summary": "Access to two Anthropic large language models, Mythos 5 and Fable 5, has effectively been banned to any non-US nationals by the Trump administration",
+            "published_utc": "2026-06-15T10:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "UK Government Finds 400+ Vulnerabilities in AI Hackathons",
+            "link": "https://www.infosecurity-magazine.com/news/uk-government-400-vulnerabilities/",
+            "summary": "Government departments find hundreds of vulnerabilities after testing frontier models",
+            "published_utc": "2026-06-15T09:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Maine Takes Breach Reporting Portal Offline After Fake Entries",
+            "link": "https://www.infosecurity-magazine.com/news/maine-breach-reporting-portal/",
+            "summary": "The Office of the Maine Attorney General has suspended its breach reporting portal",
+            "published_utc": "2026-06-15T09:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
@@ -933,11 +2389,95 @@
             "published_utc": "2026-06-15T08:55:00+00:00"
         },
         {
+            "source": "InfosecurityMag",
+            "title": "Ransomware Payment Crypto Laundering Platform Taken Out by FBI and Europol",
+            "link": "https://www.infosecurity-magazine.com/news/ransomware-crypto-laundering/",
+            "summary": "Domain of dark web money laundering platform AudiA6 seized and suspects arrested in joint operation by the FBI, Europol and others",
+            "published_utc": "2026-06-12T14:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "GitHub to Update npm to Thwart Software Supply Chain Attacks",
+            "link": "https://www.infosecurity-magazine.com/news/github-update-npm-supply-chain/",
+            "summary": "NPM, part of GitHub, announced a new version of the npm package manager with several security improvements, including disabling install scripts",
+            "published_utc": "2026-06-12T13:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Over 80% of Sports Organizations Targeted by Hackers in the Last Year",
+            "link": "https://www.infosecurity-magazine.com/news/sports-organizations-targeted-by/",
+            "summary": "As the FIFA World Cup 2026 kicks off, a new Darktrace report warns that sports teams and bodies are a major target for cyber criminals",
+            "published_utc": "2026-06-12T11:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "CISA Orders Agencies to Patch by Risk, Not Severity",
+            "link": "https://www.infosecurity-magazine.com/news/cisa-orders-agencies-to-patch-by/",
+            "summary": "New CISA directive tells federal agencies to patch by real-world risk, not CVSS severity scores",
+            "published_utc": "2026-06-11T15:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Cybercriminals Use Fake AI Guides and Dev Tools to Spread AsyncRAT Malware",
+            "link": "https://www.infosecurity-magazine.com/news/fake-ai-guides-dev-tools-spread/",
+            "summary": "Fake AI guides hide a multi-stage chain that drops AsyncRAT, with signs of AI-assisted coding",
+            "published_utc": "2026-06-11T14:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Most Cybersecurity Teams Struggle to Find Time for Training on New Cyber Threats",
+            "link": "https://www.infosecurity-magazine.com/news/cybersecurity-training-time/",
+            "summary": "Organizations are aware of the challenges that new technologies like AI bring: but cybersecurity staff struggle to make time for the required training...",
+            "published_utc": "2026-06-11T12:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Interpol Dismantles SniperDz Phishing-as-a-Service Platform",
+            "link": "https://www.infosecurity-magazine.com/news/interpol-dismantles-sniperdz/",
+            "summary": "New revelations by Group-IB expose the full scale of the decade-old SniperDz phishing operation",
+            "published_utc": "2026-06-11T11:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Extortion-Only Attacks Increase, With Data Theft Dominating Ransomware Claims",
+            "link": "https://www.infosecurity-magazine.com/news/extortion-only-attacks-surge/",
+            "summary": "Extortion-only attacks are increasing as data theft drives most ransomware claims, with many organizations unable to stop stolen data from being exposed",
+            "published_utc": "2026-06-11T10:20:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "New “Agentjacking” Attacks Could Hijack AI Coding Agents",
+            "link": "https://www.infosecurity-magazine.com/news/agentjacking-attacks-hijack-ai/",
+            "summary": "Tenet Security researchers reveal how new “agentjacking” attacks could trick coding agents into executing arbitrary code",
+            "published_utc": "2026-06-11T09:15:00+00:00"
+        },
+        {
             "source": "WeLiveSecurity",
             "title": "OceanLotus: From external espionage to domestic targeting",
             "link": "https://www.welivesecurity.com/en/eset-research/oceanlotus-external-espionage-domestic-targeting/",
             "summary": "A shift in operational pattern of the infamous Vietnam-aligned APT group",
             "published_utc": "2026-06-11T08:45:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Fake Software Tutorials on TikTok Spread Vidar Stealer",
+            "link": "https://www.infosecurity-magazine.com/news/fake-software-videos-tiktok-vidar/",
+            "summary": "Threat actors push fake free-software tutorials on TikTok and Instagram to spread Vidar stealer",
+            "published_utc": "2026-06-10T16:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "New SilabRAT Trojan Hijacks Sessions to Steal Crypto",
+            "link": "https://www.infosecurity-magazine.com/news/silabrat-trojan-session-hijacking/",
+            "summary": "MaaS trojan SilabRAT uses HVNC and browser cloning to hijack sessions and steal crypto",
+            "published_utc": "2026-06-10T15:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Cybersecurity Software Fails to Detect Fifth of Brower-Based Phishing Attacks",
+            "link": "https://www.infosecurity-magazine.com/news/cybersecurity-fails-to-detect/",
+            "summary": "Menlo Security research warns that as enterprise applications become increasingly browser based, traditional cybersecurity tools leave them vulnerable...",
+            "published_utc": "2026-06-10T15:30:00+00:00"
         },
         {
             "source": "KrebsOnSecurity",
@@ -947,6 +2487,20 @@
             "published_utc": "2026-06-10T14:03:44+00:00"
         },
         {
+            "source": "InfosecurityMag",
+            "title": "New Fable 5 Is a \"Mythos-Class\" LLM Available to All, Anthropic Announces",
+            "link": "https://www.infosecurity-magazine.com/news/fable-5-mythos-class-anthropic/",
+            "summary": "Anthropic unveils Claude Mythos 5 and Fable 5, a restricted-access frontier AI model and guardrailed version for everyone to use",
+            "published_utc": "2026-06-10T11:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Over a Quarter of Identity Crime Victims Hit by Multiple Incidents, ITRC Data Shows",
+            "link": "https://www.infosecurity-magazine.com/news/quarter-identity-crime-victims/",
+            "summary": "Nearly 26% of identity crime victims faced multiple incidents in the past year, as ITRC warns of a growing \"multi-layered crisis\"",
+            "published_utc": "2026-06-10T10:15:00+00:00"
+        },
+        {
             "source": "WeLiveSecurity",
             "title": "Unpacking SMB cyber-readiness – and what makes or breaks it",
             "link": "https://www.welivesecurity.com/en/business-security/smb-cyber-readiness-what-makes-breaks-it/",
@@ -954,11 +2508,207 @@
             "published_utc": "2026-06-10T09:00:00+00:00"
         },
         {
+            "source": "InfosecurityMag",
+            "title": "Microsoft Fixes 200 CVEs in June Patch Tuesday",
+            "link": "https://www.infosecurity-magazine.com/news/microsoft-fixes-200-cves-in-june/",
+            "summary": "Microsoft has patched 200 vulnerabilities including three zero-days",
+            "published_utc": "2026-06-10T08:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "75% of Firms Deploy Vulnerable Code Amid Pressure on CISOs, Report Finds",
+            "link": "https://www.infosecurity-magazine.com/news/firms-deploy-vulnerable-code/",
+            "summary": "Checkmarx report warns that business pressure is among the reason security leaders let security compliance slip",
+            "published_utc": "2026-06-09T15:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "AI Coding Adoption Hits 97% but Governance Lags Behind",
+            "link": "https://www.infosecurity-magazine.com/news/ai-coding-adoption-governance-lags/",
+            "summary": "Most dev teams use AI coding assistants but only 30% have full governance in place",
+            "published_utc": "2026-06-09T15:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Critical phpBB Flaw Lets Attackers Hijack Any Account with One Request",
+            "link": "https://www.infosecurity-magazine.com/news/phpbb-authentication-bypass/",
+            "summary": "Critical phpBB authentication bypass lets attackers hijack any account with one request",
+            "published_utc": "2026-06-09T14:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Google Releases Patch for Chrome Vulnerability Exploited in the Wild",
+            "link": "https://www.infosecurity-magazine.com/news/google-patch-chrome-vulnerability/",
+            "summary": "The flaw, CVE-2026-11645, can allow a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page",
+            "published_utc": "2026-06-09T10:15:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Check Point Warns Critical Auth Bypass Bug Exploited in the Wild",
+            "link": "https://www.infosecurity-magazine.com/news/check-point-critical-auth-bypass/",
+            "summary": "Check Point says a critical vulnerability in its Remote Access VPN and Mobile Access solutions has been exploited by Qilin",
+            "published_utc": "2026-06-09T09:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Infosecurity Europe: Why JLR’s CISO Enforced In-Person Password Resets Following Cyber-Attack",
+            "link": "https://www.infosecurity-magazine.com/news/jlr-cyberattack-ciso-inperson/",
+            "summary": "Speaking at Infosecurity Europe, Ashish Shrestha, former CISO at Jaguar Land Rover revealed why he wanted over 30,000 employees to change their passwo...",
+            "published_utc": "2026-06-09T09:00:00+00:00"
+        },
+        {
             "source": "WeLiveSecurity",
             "title": "Cybercriminals: the 'auditors' you never hired",
             "link": "https://www.welivesecurity.com/en/business-security/cybercriminals-auditors-never-hired/",
             "summary": "Every organisation gets audited. The question is who does the auditing.",
             "published_utc": "2026-06-09T08:50:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "WhatsApp Discovers NSO Group-Linked Spearphishing Attempts",
+            "link": "https://www.infosecurity-magazine.com/news/whatsapp-nso-group-spearphishing/",
+            "summary": "Meta’s WhatsApp demands contempt ruling after users report NSO Group-linked phishing",
+            "published_utc": "2026-06-09T08:15:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "North Korean Hackers Use Fake Coding Tasks to Steal Crypto",
+            "link": "https://www.infosecurity-magazine.com/news/north-korean-hackers-developers/",
+            "summary": "North Korean actor UNK_DeadDrop targeted developers with fake coding tasks to steal crypto",
+            "published_utc": "2026-06-08T15:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "OpenAI Unveils ChatGPT Account Security Controls",
+            "link": "https://www.infosecurity-magazine.com/news/chatgpt-lockdown-mode-active/",
+            "summary": "OpenAI brings Lockdown Mode and Active Sessions to ChatGPT to curb prompt injection data theft",
+            "published_utc": "2026-06-08T14:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Infosecurity Europe: Prompt Injection Remains Unsolved, OWASP Researcher Warns",
+            "link": "https://www.infosecurity-magazine.com/news/infosec-europe-prompt-injection/",
+            "summary": "At Infosecurity Europe 2026, OWASP’s Ariel Fogel warned that prompt injection remains an “unresolved problem” within generative AI architecture",
+            "published_utc": "2026-06-08T10:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Two-Thirds of Open Source Community Unaware of Cyber Resilience Act",
+            "link": "https://www.infosecurity-magazine.com/news/open-source-unaware-cyber/",
+            "summary": "",
+            "published_utc": "2026-06-08T09:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Infosecurity Europe: How DSIT Protects Thousands of UK Orgs from Cyber Vulnerabilities",
+            "link": "https://www.infosecurity-magazine.com/news/infosecurity-europe-dsit-cyber/",
+            "summary": "The Department of Science, Innovation and Technology details how a combination of hands-on human advice and technology systems keeps government agenci...",
+            "published_utc": "2026-06-08T08:15:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Meta AI Bug Exposes Over 20,000 Instagram Accounts",
+            "link": "https://www.infosecurity-magazine.com/news/over-20000-instagram-accounts/",
+            "summary": "Meta confirms an AI tool vulnerability led to unauthorized access to Instagram accounts after a failure in email verification during password reset",
+            "published_utc": "2026-06-08T08:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Infosecurity Europe: Practical Lessons From Lloyds' Agentic AI Security Playbook",
+            "link": "https://www.infosecurity-magazine.com/news/lloyds-agentic-ai-security-playbook/",
+            "summary": "Lloyds Banking Group shared its approach for securing agentic AI workflows, with a mix of hands on experimentation and cross functional governance",
+            "published_utc": "2026-06-05T11:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Infosecurity Europe: OWASP Introduces Agentic AI Security Maturity Framework",
+            "link": "https://www.infosecurity-magazine.com/news/owasp-agentic-ai-security-maturity/",
+            "summary": "The OWASP agentic AI security framework helps organizations assess governance maturity vs adoption and adjust governance as needed",
+            "published_utc": "2026-06-05T10:45:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Infosecurity Europe: AI Coding Tools Need Built-In Security for Agentic Development Era",
+            "link": "https://www.infosecurity-magazine.com/news/ai-coding-tools-security-agentic/",
+            "summary": "Ox Security field CTO, Boaz Barzel, makes the case for vibe security to tackle AI agent coding risks",
+            "published_utc": "2026-06-05T09:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Infosecurity Europe: Reactive Security Is Failing Healthcare Organizations, Experts Warn",
+            "link": "https://www.infosecurity-magazine.com/news/reactive-security-failing/",
+            "summary": "A perfect storm of legacy devices, hyper connectivity and human fatigue is bad news for the healthcare sector, warns Cyber Salus",
+            "published_utc": "2026-06-05T08:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Everest Forms Pro Vulnerability Allows Remote Code Execution on WordPress Sites",
+            "link": "https://www.infosecurity-magazine.com/news/everest-forms-pro-rce-actively/",
+            "summary": "Critical Everest Forms Pro RCE flaw exploited to create rogue WordPress admin accounts",
+            "published_utc": "2026-06-04T16:15:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Chinese-Speaking Actor TA4922 Widens Its Global Reach",
+            "link": "https://www.infosecurity-magazine.com/news/ta4922-global-expansion/",
+            "summary": "Newly named Chinese-speaking actor TA4922 expands from East Asia into Europe and Africa",
+            "published_utc": "2026-06-04T14:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Infosecurity Europe: AI Adoption Creates New Opportunities for Attackers to Distribute Malware, Microsoft Warns",
+            "link": "https://www.infosecurity-magazine.com/news/attackers-ai-adoption-malware/",
+            "summary": "Microsoft Detection and Response Team (DART) details how it has uncovered malicious AI applications as cyber criminals manipulate organizations adopti...",
+            "published_utc": "2026-06-04T14:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Infosecurity Europe: Mythos Outperforms GPT5.5 on Google Chrome Vulnerability Exploits, Says New Benchmark",
+            "link": "https://www.infosecurity-magazine.com/news/mythos-gpt-chrome-exploits/",
+            "summary": "A Bugcrowd researcher has unveiled ExploitBench, an independent benchmark of AI models for vulnerability exploitation",
+            "published_utc": "2026-06-04T13:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Infosecurity Europe: How Proton Fights Against Cybercriminals Using Its Services",
+            "link": "https://www.infosecurity-magazine.com/news/how-proton-fights-against/",
+            "summary": "Proton uses machine learning models to detect abuse of its services – especially email addresses used by cybercriminals",
+            "published_utc": "2026-06-04T12:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Infosecurity Europe: How Businesses Can Prepare for a Cybersecurity Crisis with Effective Plans",
+            "link": "https://www.infosecurity-magazine.com/news/infosecurity-europe-cybersecurity/",
+            "summary": "Cybersecurity and business leaders with experience of dealing with major incidents from within the NCSC and at JLR detail what you need to prioritize ...",
+            "published_utc": "2026-06-04T09:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Infosecurity Europe: Ukraine’s Experience Highlights the Need for Preparation and Resilience in Cybersecurity",
+            "link": "https://www.infosecurity-magazine.com/news/resilience-perseverance-ukraine/",
+            "summary": "Former Ukrainian foreign minister, Dmytro Kuleba, urges Infosecurity Europe attendees to fight the good fight",
+            "published_utc": "2026-06-04T09:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Infosecurity Europe: Raise Security Concerns with Procurement Now, Because Quantum Can’t Wait",
+            "link": "https://www.infosecurity-magazine.com/news/raise-security-procurement-quantum/",
+            "summary": "Forescout VP of security intelligence, Rik Ferguson, warns that Q-day is fast approaching",
+            "published_utc": "2026-06-04T07:45:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Infosecurity Europe: Vulnerability Management Innovator Konvu Wins Cyber Startup Award",
+            "link": "https://www.infosecurity-magazine.com/news/konvu-wins-cyber-startup-award/",
+            "summary": "Inaugural Infosecurity Europe Cyber Startup Award Winner Impresses Panel with Ability Help Prioritize Vulnerabilities in AI era",
+            "published_utc": "2026-06-03T13:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Trump Signs Order Inviting Voluntary Review of Frontier AI Models",
+            "link": "https://www.infosecurity-magazine.com/news/trump-eo-voluntary-frontier-ai/",
+            "summary": "Trump's executive order invites voluntary pre-release review of frontier AI models",
+            "published_utc": "2026-06-03T11:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
