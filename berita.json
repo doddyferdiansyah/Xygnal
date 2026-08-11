@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2026-08-11T14:57:56.630583+00:00",
+    "lastUpdatedUTC": "2026-08-11T16:04:19.677232+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Wesco confirms security incident after ExfilSquad claims data theft",
+            "link": "https://www.bleepingcomputer.com/news/security/wesco-confirms-security-incident-after-exfilsquad-claims-data-theft/",
+            "summary": "Global supply chain and distribution giant Wesco has confirmed in a statement for BleepingComputer that it is investigating a cybersecurity incident. ...",
+            "published_utc": "2026-08-11T15:59:35+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "AI Genie in the Wild",
+            "link": "https://www.schneier.com/blog/archives/2026/08/ai-genie-in-the-wild.html",
+            "summary": "",
+            "published_utc": "2026-08-11T15:55:11+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Zoom Patches Zero-Click Code Execution Vulnerability",
+            "link": "https://www.securityweek.com/zoom-patches-zero-click-code-execution-vulnerability/",
+            "summary": "",
+            "published_utc": "2026-08-11T15:49:53+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "The AI Governance Gap Is a Leadership Problem: Waiting Won’t Close It",
+            "link": "https://www.securityweek.com/the-ai-governance-gap-is-a-leadership-problem-waiting-wont-close-it/",
+            "summary": "",
+            "published_utc": "2026-08-11T15:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Six npm Packages Read C2 Addresses From Ethereum Wallet",
+            "link": "https://www.infosecurity-magazine.com/news/npm-packages-ethereum-wallet-c2/",
+            "summary": "Six npm packages queried an Ethereum wallet to locate C2 infrastructure",
+            "published_utc": "2026-08-11T15:00:00+00:00"
+        },
         {
             "source": "InfosecurityMag",
             "title": "Cursor Security Bug Allowed Repositories to Execute Commands Before Trust Verification",
@@ -324,13 +359,6 @@
             "published_utc": "2026-08-10T14:24:15+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Stealthium Targets Security Blind Spots in AI Accelerators and Neo-Clouds",
-            "link": "https://www.securityweek.com/stealthium-targets-security-blind-spots-in-ai-accelerators-and-neo-clouds/",
-            "summary": "",
-            "published_utc": "2026-08-10T14:19:36+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "When Credentials Are No Longer Enough: Device Trust in the AI Era",
             "link": "https://www.bleepingcomputer.com/news/security/when-credentials-are-no-longer-enough-device-trust-in-the-ai-era/",
@@ -378,13 +406,6 @@
             "link": "https://www.csoonline.com/article/4207306/one-click-flaw-in-atlassian-rovo-exposed-enterprise-data-via-prompt-injection-attack.html",
             "summary": "",
             "published_utc": "2026-08-10T11:59:41+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Valve notifies Steam hardware customers of a data breach",
-            "link": "https://www.bleepingcomputer.com/news/security/valve-notifies-steam-hardware-customers-of-a-data-breach/",
-            "summary": "Video game publisher and digital distribution giant Valve is notifying Steam hardware customers in Europe that hackers stole their data after hacking ...",
-            "published_utc": "2026-08-10T11:47:55+00:00"
         },
         {
             "source": "Schneier",
@@ -854,13 +875,6 @@
             "link": "https://www.infosecurity-magazine.com/news/hollowframe-fake-python-dll/",
             "summary": "New HollowFrame loader hid Go code in a fake Python DLL after pre-staging Defender exclusions",
             "published_utc": "2026-08-03T11:26:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "The OpenAI Hack Shows the Genie Is Out of the Bottle",
-            "link": "https://www.schneier.com/blog/archives/2026/08/the-openai-hack-shows-the-genie-is-out-of-the-bottle.html",
-            "summary": "",
-            "published_utc": "2026-08-03T10:47:47+00:00"
         },
         {
             "source": "WIRED Security",
@@ -2702,13 +2716,6 @@
             "link": "https://www.infosecurity-magazine.com/news/attackers-ai-adoption-malware/",
             "summary": "Microsoft Detection and Response Team (DART) details how it has uncovered malicious AI applications as cyber criminals manipulate organizations adopti...",
             "published_utc": "2026-06-04T14:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Infosecurity Europe: Mythos Outperforms GPT5.5 on Google Chrome Vulnerability Exploits, Says New Benchmark",
-            "link": "https://www.infosecurity-magazine.com/news/mythos-gpt-chrome-exploits/",
-            "summary": "A Bugcrowd researcher has unveiled ExploitBench, an independent benchmark of AI models for vulnerability exploitation",
-            "published_utc": "2026-06-04T13:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
