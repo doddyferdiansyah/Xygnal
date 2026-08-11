@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2026-08-11T11:43:38.739601+00:00",
+    "lastUpdatedUTC": "2026-08-11T13:06:31.765509+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "This $50 power bank is safer than my lithium-ion battery - and it's coming on my next flight",
+            "link": "https://www.zdnet.com/article/reelcharge-5000mah-semi-solid-state-power-bank-review/",
+            "summary": "Lithium-ion power banks keep catching fire. Is semi-solid-state the safer solution?",
+            "published_utc": "2026-08-11T12:53:53+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call",
+            "link": "https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/",
+            "summary": "Researchers say it took fewer than 20 prompts for a public AI tool to find a flaw (now fixed) allowing anyone on a Zoom call to hijack another partici...",
+            "published_utc": "2026-08-11T12:37:12+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "CISA: Microsoft SharePoint flaw now exploited in ransomware attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-flaw-now-exploited-in-ransomware-attacks/",
+            "summary": "CISA confirmed today that ransomware gangs have begun abusing a high-severity Microsoft SharePoint remote code execution vulnerability, which has been...",
+            "published_utc": "2026-08-11T12:12:16+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "GitHub already has an EDR. You just have to listen to it",
+            "link": "https://www.csoonline.com/article/4207927/github-already-has-an-edr-you-just-have-to-listen-to-it.html",
+            "summary": "",
+            "published_utc": "2026-08-11T12:02:23+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Corma Raises $60 Million for Defensive Cybersecurity AI Model",
+            "link": "https://www.securityweek.com/corma-raises-60-million-for-defensive-cybersecurity-ai-model/",
+            "summary": "",
+            "published_utc": "2026-08-11T12:01:46+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Suisan City, California, Responds to Cyber Incident Amid Wave of US Local Government Attacks",
+            "link": "https://www.infosecurity-magazine.com/news/suisan-cyber-incident-government/",
+            "summary": "Police and fire response has been impacted by the attack on Suisan City, while two other local authorities have been hit by cyber incidents in the pas...",
+            "published_utc": "2026-08-11T12:00:00+00:00"
+        },
         {
             "source": "InfosecurityMag",
             "title": "OpenAI Launches Two-Tier Security Access Program Alongside GPT 5.6 Cyber",
@@ -296,13 +338,6 @@
             "published_utc": "2026-08-10T11:44:26+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Metabase Patches Vulnerability Exploited as Zero-Day",
-            "link": "https://www.securityweek.com/metabase-patches-vulnerability-exploited-as-zero-day/",
-            "summary": "",
-            "published_utc": "2026-08-10T11:03:55+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Python Now Has a Post-Quantum Encryption Library",
             "link": "https://www.schneier.com/blog/archives/2026/08/python-now-has-a-post-quantum-encryption-library.html",
@@ -342,6 +377,13 @@
             "title": "4 million fake applications and one blind spot: A SOC playbook for OAuth client ID spoofing",
             "link": "https://www.csoonline.com/article/4206750/4-million-fake-applications-and-one-blind-spot-a-soc-playbook-for-oauth-client-id-spoofing.html",
             "summary": "",
+            "published_utc": "2026-08-10T09:00:00+00:00"
+        },
+        {
+            "source": "WeLiveSecurity",
+            "title": "Are AI tutors safe for your kids?",
+            "link": "https://www.welivesecurity.com/en/kids-online/ai-tutors-safe-kids/",
+            "summary": "AI tutors can offer useful support, but their quality and safeguards vary widely. Here’s what parents should check before handing one to a child.",
             "published_utc": "2026-08-10T09:00:00+00:00"
         },
         {
@@ -392,13 +434,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/",
             "summary": "A critical Metabase SQL injection vulnerability was exploited in zero-day attacks to breach customer instances in data theft attacks, known to impact ...",
             "published_utc": "2026-08-07T20:14:46+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Unlimited Technology Systems breach impacts 3.8 million people",
-            "link": "https://www.bleepingcomputer.com/news/security/unlimited-technology-systems-breach-impacts-38-million-people/",
-            "summary": "Healthcare software company Unlimited Technology Systems reported that more than 3.8 million people were impacted by a data breach incident that occur...",
-            "published_utc": "2026-08-07T19:30:41+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -462,13 +497,6 @@
             "link": "https://www.csoonline.com/article/4206782/moonshots-kimi-ai-model-has-also-escaped-from-a-test-environment.html",
             "summary": "",
             "published_utc": "2026-08-07T14:48:48+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I compared Google's pricier Pixel 11 series to Samsung's Galaxy lineup - here's the better value now",
-            "link": "https://www.zdnet.com/article/google-pricier-pixel-11-series-compared-to-samsung-galaxy-lineup-heres-the-better-value/",
-            "summary": "The Pixel 11 may cost more, but Google's software advantage may make it worth it for you.",
-            "published_utc": "2026-08-07T14:10:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -602,13 +630,6 @@
             "link": "https://www.csoonline.com/article/4206147/youre-only-as-secure-as-your-last-evaluation.html",
             "summary": "",
             "published_utc": "2026-08-06T13:02:17+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Cybersecurity needs a new operating model",
-            "link": "https://www.csoonline.com/article/4206138/cybersecurity-needs-a-new-operating-model.html",
-            "summary": "",
-            "published_utc": "2026-08-06T12:48:42+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1316,13 +1337,6 @@
             "link": "https://www.infosecurity-magazine.com/news/fbi-deepfake-videos-ic3/",
             "summary": "FBI warned of deepfake videos of IC3 leadership directing users to spoofed complaint sites",
             "published_utc": "2026-07-21T12:00:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "A Device Hidden in Cars Across the US Leaves Them Vulnerable to Hacking and Paralysis. Patch It Now",
-            "link": "https://www.wired.com/story/a-device-hidden-in-cars-across-the-us-leaves-them-vulnerable-to-hacking-and-paralysis-patch-it-now/",
-            "summary": "Dealerships installed alarms in millions of vehicles—and left them in even if the buyer didn’t want them. Now researchers warn they can be hacked to u...",
-            "published_utc": "2026-07-21T10:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2697,13 +2711,6 @@
             "published_utc": "2026-06-04T12:30:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "Infosecurity Europe: How Businesses Can Prepare for a Cybersecurity Crisis with Effective Plans",
-            "link": "https://www.infosecurity-magazine.com/news/infosecurity-europe-cybersecurity/",
-            "summary": "Cybersecurity and business leaders with experience of dealing with major incidents from within the NCSC and at JLR detail what you need to prioritize ...",
-            "published_utc": "2026-06-04T09:30:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "Lessons for life: Why children’s data is a long-term identity risk",
             "link": "https://www.welivesecurity.com/en/kids-online/lessons-life-childrens-data-long-term-identity-risk/",
@@ -3241,13 +3248,6 @@
             "link": "https://www.welivesecurity.com/en/cybersecurity/in-memoriam-david-harley/",
             "summary": "Former colleagues and friends remember the cybersecurity researcher, author, and mentor whose work bridged the human and technical sides of security",
             "published_utc": "2025-11-07T13:46:10+00:00"
-        },
-        {
-            "source": "WeLiveSecurity",
-            "title": "The who, where, and how of APT attacks in Q2 2025–Q3 2025",
-            "link": "https://www.welivesecurity.com/en/videos/who-where-how-apt-attacks-q2-2025-q3-2025/",
-            "summary": "ESET Chief Security Evangelist Tony Anscombe highlights some of the key findings from the latest issue of the ESET APT Activity Report",
-            "published_utc": "2025-11-07T12:34:37+00:00"
         },
         {
             "source": "Threatpost",
