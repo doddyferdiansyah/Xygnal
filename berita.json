@@ -1,12 +1,75 @@
 {
-    "lastUpdatedUTC": "2026-08-12T08:17:52.876766+00:00",
+    "lastUpdatedUTC": "2026-08-12T10:05:55.638895+00:00",
     "articles": [
+        {
+            "source": "WIRED Security",
+            "title": "‘The Worst I’ve Ever Seen’: Cargo Thefts Have Turned Violent in Pursuit of AI Hardware",
+            "link": "https://www.wired.com/story/the-worst-ive-ever-seen-cargo-thieves-are-turning-violent-in-pursuit-of-ai-hardware/",
+            "summary": "Experts allege that two recent incidents in California show the extreme lengths that criminal organizations are willing to go to to steal servers and ...",
+            "published_utc": "2026-08-12T10:00:00+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Prompt Injections for Defense",
+            "link": "https://www.schneier.com/blog/archives/2026/08/prompt-injections-for-defense.html",
+            "summary": "",
+            "published_utc": "2026-08-12T09:56:37+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Over 2,500 Organizations Impacted by LiteLLM Supply Chain Attack",
+            "link": "https://www.securityweek.com/over-2500-organizations-impacted-by-litellm-supply-chain-attack/",
+            "summary": "",
+            "published_utc": "2026-08-12T09:55:45+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Russian-Linked Hackers Accessed Polish Power Plant OT Network Through Private APN, Says CERT.PL",
+            "link": "https://www.infosecurity-magazine.com/news/attack-polish-power-plant-2025-led/",
+            "summary": "The Polish CERT has released details of another 2025 attack on a combined heat and power plant in the country",
+            "published_utc": "2026-08-12T09:30:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Google Magnifier helps me see very small print (when I can't find my glasses)",
+            "link": "https://www.zdnet.com/article/google-magnifier-helps-me-see-very-small-print-when-i-cant-find-my-glasses/",
+            "summary": "If you regularly find yourself in a situation where you've left your glasses behind and you need to read fine print or something far away, Google has ...",
+            "published_utc": "2026-08-12T09:18:35+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "4 gaps slowing AI in enterprise SOCs",
+            "link": "https://www.csoonline.com/article/4208086/4-gaps-slowing-ai-in-enterprise-socs.html",
+            "summary": "",
+            "published_utc": "2026-08-12T09:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Fresh Windows Zero-Day Exploited in North Korean Cyberattacks",
+            "link": "https://www.securityweek.com/fresh-windows-zero-day-exploited-in-north-korean-cyberattacks/",
+            "summary": "",
+            "published_utc": "2026-08-12T08:45:53+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "The AI harness is the new attack surface",
+            "link": "https://www.csoonline.com/article/4208236/the-ai-harness-is-the-new-attack-surface.html",
+            "summary": "",
+            "published_utc": "2026-08-12T08:25:00+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Ivanti EPM Update Patches Remotely Exploitable Flaws",
             "link": "https://www.securityweek.com/ivanti-epm-update-patches-remotely-exploitable-flaws/",
             "summary": "",
             "published_utc": "2026-08-12T08:14:46+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Microsoft Fixes 400 Flaws on August Patch Tuesday",
+            "link": "https://www.infosecurity-magazine.com/news/microsoft-fixes-400-flaws-august/",
+            "summary": "Microsoft has issued another massive batch of security updates with 400 fixed in the August Patch Tuesday",
+            "published_utc": "2026-08-12T08:12:00+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -196,20 +259,6 @@
             "link": "https://www.infosecurity-magazine.com/news/cursor-security-bug-command/",
             "summary": "Cursor fixed a pre-trust code execution path in three days then closed the report as informative",
             "published_utc": "2026-08-11T14:30:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "SAP Patches Critical Code Injection, Memory Corruption Vulnerabilities",
-            "link": "https://www.securityweek.com/sap-patches-critical-code-injection-memory-corruption-vulnerabilities/",
-            "summary": "",
-            "published_utc": "2026-08-11T14:14:32+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "US Water Systems Get Cyber Boost From New Senate Bill and ‘Water Watch Center’",
-            "link": "https://www.securityweek.com/us-water-systems-get-cyber-boost-from-new-senate-bill-and-water-watch-center/",
-            "summary": "",
-            "published_utc": "2026-08-11T14:03:32+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -541,13 +590,6 @@
             "published_utc": "2026-08-07T21:07:04+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "This 6-port USB-C charger replaced my ugly power brick - and powers my entire desk",
-            "link": "https://www.zdnet.com/article/satechi-chargeview-240w-desktop-charger-review/",
-            "summary": "The Satechi ChargeView 240W desktop charger ticks all the right boxes for this charging geek.",
-            "published_utc": "2026-08-07T17:55:36+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Trojanized AI skills gain 1.7M installs in agent-targeted attack",
             "link": "https://www.csoonline.com/article/4206851/trojanized-ai-skills-gain-1-7m-installs-in-agent-targeted-attack.html",
@@ -618,25 +660,11 @@
             "published_utc": "2026-08-07T08:20:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Why exposure management is replacing vulnerability management",
-            "link": "https://www.csoonline.com/article/4206354/why-exposure-management-is-replacing-vulnerability-management.html",
-            "summary": "",
-            "published_utc": "2026-08-06T21:42:35+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "Hackers Stalked Me by Hijacking a Smartwatch for Kids",
             "link": "https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/",
             "summary": "Security researchers tracked and eavesdropped on a WIRED reporter using vulnerabilities in a pink plastic smartwatch. It’s just one piece of a deeply ...",
             "published_utc": "2026-08-06T21:35:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "NatJack exploits put NAT security assumptions to the test at Black Hat",
-            "link": "https://www.csoonline.com/article/4206299/natjack-exploits-put-nat-security-assumptions-to-the-test-at-black-hat-2.html",
-            "summary": "",
-            "published_utc": "2026-08-06T18:55:35+00:00"
         },
         {
             "source": "KrebsOnSecurity",
@@ -854,13 +882,6 @@
             "link": "https://www.infosecurity-magazine.com/news/uks-police-national-legal-database/",
             "summary": "The UK’s Police National Legal Database and Ask the Police service have been breached",
             "published_utc": "2026-08-04T08:40:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "More on the OpenAI Agent’s Attack on Hugging Face",
-            "link": "https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html",
-            "summary": "",
-            "published_utc": "2026-08-03T17:02:46+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1337,13 +1358,6 @@
             "link": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
             "summary": "The cybersecurity-focused models, including GPT-5.6 Sol, broke out of a testing sandbox, exploited a zero-day, and gained access to the open internet ...",
             "published_utc": "2026-07-21T22:50:01+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "A Sneaky Hacking Tool Targeting AI Infrastructure Is Lurking in Victims’ Blind Spots",
-            "link": "https://www.wired.com/story/a-sneaky-hacking-tool-targeting-ai-infrastructure-is-lurking-in-victims-blind-spots/",
-            "summary": "A new type of malware can worm deep into AI coding systems to steal data and logins—and can flip a “death switch” to destroy files and keep out real u...",
-            "published_utc": "2026-07-21T16:08:44+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2702,20 +2716,6 @@
             "link": "https://www.infosecurity-magazine.com/news/everest-forms-pro-rce-actively/",
             "summary": "Critical Everest Forms Pro RCE flaw exploited to create rogue WordPress admin accounts",
             "published_utc": "2026-06-04T16:15:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Chinese-Speaking Actor TA4922 Widens Its Global Reach",
-            "link": "https://www.infosecurity-magazine.com/news/ta4922-global-expansion/",
-            "summary": "Newly named Chinese-speaking actor TA4922 expands from East Asia into Europe and Africa",
-            "published_utc": "2026-06-04T14:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Infosecurity Europe: AI Adoption Creates New Opportunities for Attackers to Distribute Malware, Microsoft Warns",
-            "link": "https://www.infosecurity-magazine.com/news/attackers-ai-adoption-malware/",
-            "summary": "Microsoft Detection and Response Team (DART) details how it has uncovered malicious AI applications as cyber criminals manipulate organizations adopti...",
-            "published_utc": "2026-06-04T14:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
