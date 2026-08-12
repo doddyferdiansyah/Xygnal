@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2026-08-12T11:46:51.927508+00:00",
+    "lastUpdatedUTC": "2026-08-12T13:10:45.509178+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "WhatsApp Unveils New Scam Alert Feature",
+            "link": "https://www.securityweek.com/whatsapp-unveils-new-scam-alert-feature/",
+            "summary": "",
+            "published_utc": "2026-08-12T13:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "NIST Seeks Public Input on AI-Ready NVD Modernization",
+            "link": "https://www.infosecurity-magazine.com/news/nist-seeks-public-input-ai-nvd/",
+            "summary": "The US National Institute for Standards and Technology wants to modernize its National Vulnerability Database to embrace AI-powered vulnerability rese...",
+            "published_utc": "2026-08-12T12:30:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers leverage new Microsoft SharePoint exploit in attacks",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/",
+            "summary": "Hackers have already begun using a proof-of-concept (PoC) exploit for a critical Microsoft SharePoint vulnerability, published by cybersecurity compan...",
+            "published_utc": "2026-08-12T12:25:37+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Is Aptoide safe? I tried Android's first alternative app store on Google Play - and it's a mess",
+            "link": "https://www.zdnet.com/article/is-aptoide-safe-android-first-alternative-app-store-on-google-play-is-a-mess/",
+            "summary": "Aptoide Games just landed in the Play Store - no sideloading required. I tested it, and caution is advised.",
+            "published_utc": "2026-08-12T12:15:00+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "This Coin-Sized Device Can Hack a Boeing 737",
+            "link": "https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/",
+            "summary": "Security researchers found that in less than 60 seconds, they could open a hatch on a plane’s exterior, plug in a tiny device, and redirect the aircra...",
+            "published_utc": "2026-08-12T12:00:00+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Ceva Logistics Operations Disrupted by Cyberattack",
@@ -254,13 +289,6 @@
             "published_utc": "2026-08-11T16:55:09+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Adobe Urges Immediate Patching of Critical ColdFusion, Campaign Classic Flaws",
-            "link": "https://www.securityweek.com/adobe-urges-immediate-patching-of-critical-coldfusion-campaign-classic-flaws/",
-            "summary": "",
-            "published_utc": "2026-08-11T16:50:19+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Wesco confirms security incident after ExfilSquad claims data theft",
             "link": "https://www.bleepingcomputer.com/news/security/wesco-confirms-security-incident-after-exfilsquad-claims-data-theft/",
@@ -343,13 +371,6 @@
             "link": "https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/",
             "summary": "Researchers say it took fewer than 20 prompts for a public AI tool to find a flaw (now fixed) allowing anyone on a Zoom call to hijack another partici...",
             "published_utc": "2026-08-11T12:37:12+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "CISA: Microsoft SharePoint flaw now exploited in ransomware attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-flaw-now-exploited-in-ransomware-attacks/",
-            "summary": "CISA confirmed today that ransomware gangs have begun abusing a high-severity Microsoft SharePoint remote code execution vulnerability, which has been...",
-            "published_utc": "2026-08-11T12:12:16+00:00"
         },
         {
             "source": "CSO Online",
@@ -504,13 +525,6 @@
             "link": "https://www.zdnet.com/article/deebot-x12-omnicyclone-review-ecovacs-robot-vacuum/",
             "summary": "The Ecovacs Deebot X12 OmniCyclone is not just a mouthful; it's a market leader in features and intelligence.",
             "published_utc": "2026-08-10T13:45:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Claude's Record-a-Skill cut my research from hours to 30 minutes - but the magic has limits",
-            "link": "https://www.zdnet.com/article/how-i-use-claude-cowork-record-a-skill-for-automated-research/",
-            "summary": "I used Claude Cowork to automate a workflow, and the result was remarkably effective, but it exposed four drawbacks.",
-            "published_utc": "2026-08-10T12:26:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -1351,13 +1365,6 @@
             "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
             "summary": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an alw...",
             "published_utc": "2026-07-22T01:10:38+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "OpenAI Models Escaped Containment and Hacked Hugging Face",
-            "link": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
-            "summary": "The cybersecurity-focused models, including GPT-5.6 Sol, broke out of a testing sandbox, exploited a zero-day, and gained access to the open internet ...",
-            "published_utc": "2026-07-21T22:50:01+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2709,13 +2716,6 @@
             "link": "https://www.infosecurity-magazine.com/news/reactive-security-failing/",
             "summary": "A perfect storm of legacy devices, hyper connectivity and human fatigue is bad news for the healthcare sector, warns Cyber Salus",
             "published_utc": "2026-06-05T08:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Everest Forms Pro Vulnerability Allows Remote Code Execution on WordPress Sites",
-            "link": "https://www.infosecurity-magazine.com/news/everest-forms-pro-rce-actively/",
-            "summary": "Critical Everest Forms Pro RCE flaw exploited to create rogue WordPress admin accounts",
-            "published_utc": "2026-06-04T16:15:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
