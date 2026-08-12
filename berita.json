@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2026-08-12T10:05:55.638895+00:00",
+    "lastUpdatedUTC": "2026-08-12T11:46:51.927508+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Ceva Logistics Operations Disrupted by Cyberattack",
+            "link": "https://www.securityweek.com/ceva-logistics-operations-disrupted-by-cyberattack/",
+            "summary": "",
+            "published_utc": "2026-08-12T11:37:28+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I ditched T-Mobile for Mint after 10 years, and saved $120/month - without any service issues",
+            "link": "https://www.zdnet.com/article/switching-from-t-mobile-to-mint-saving-money-on-mobile/",
+            "summary": "The main reason I switched to Mint was that the service uses the same 5G and LTE networks as T-Mobile. So why pay a lot more for basically the same se...",
+            "published_utc": "2026-08-12T11:32:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Fake CCleaner downloads turn Chrome into a credential-stealing surveillance tool",
+            "link": "https://www.csoonline.com/article/4208565/fake-ccleaner-downloads-turn-chrome-into-a-credential-stealing-surveillance-tool.html",
+            "summary": "",
+            "published_utc": "2026-08-12T11:26:50+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Signal adds new security feature to thwart man-in-the-middle attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/signal-adds-new-security-feature-to-thwart-man-in-the-middle-attacks/",
+            "summary": "​Signal has introduced Automatic Key Verification, a new security feature that gives users a new way to ensure their encrypted chats haven't been inte...",
+            "published_utc": "2026-08-12T11:21:42+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Chipmaker Patch Tuesday: Intel, AMD Fix Over 80 Vulnerabilities Combined",
+            "link": "https://www.securityweek.com/chipmaker-patch-tuesday-intel-amd-fix-over-80-vulnerabilities-combined/",
+            "summary": "",
+            "published_utc": "2026-08-12T10:55:04+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges",
+            "link": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/",
+            "summary": "Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \"ShieldBreak\" after Microsoft released the August 2026 Patch Tuesday se...",
+            "published_utc": "2026-08-12T10:15:22+00:00"
+        },
         {
             "source": "WIRED Security",
             "title": "‘The Worst I’ve Ever Seen’: Cargo Thefts Have Turned Violent in Pursuit of AI Hardware",
@@ -31,10 +73,10 @@
         },
         {
             "source": "ZDNet Security",
-            "title": "Google Magnifier helps me see very small print (when I can't find my glasses)",
+            "title": "How I use Google Magnifier to see very small print (when I can't find my glasses)",
             "link": "https://www.zdnet.com/article/google-magnifier-helps-me-see-very-small-print-when-i-cant-find-my-glasses/",
             "summary": "If you regularly find yourself in a situation where you've left your glasses behind and you need to read fine print or something far away, Google has ...",
-            "published_utc": "2026-08-12T09:18:35+00:00"
+            "published_utc": "2026-08-12T09:18:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -233,20 +275,6 @@
             "published_utc": "2026-08-11T15:55:11+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Zoom Patches Zero-Click Code Execution Vulnerability",
-            "link": "https://www.securityweek.com/zoom-patches-zero-click-code-execution-vulnerability/",
-            "summary": "",
-            "published_utc": "2026-08-11T15:49:53+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "The AI Governance Gap Is a Leadership Problem: Waiting Won’t Close It",
-            "link": "https://www.securityweek.com/the-ai-governance-gap-is-a-leadership-problem-waiting-wont-close-it/",
-            "summary": "",
-            "published_utc": "2026-08-11T15:00:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Six npm Packages Read C2 Addresses From Ethereum Wallet",
             "link": "https://www.infosecurity-magazine.com/news/npm-packages-ethereum-wallet-c2/",
@@ -359,13 +387,6 @@
             "published_utc": "2026-08-11T11:18:07+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Cisco warns of high-severity ClamAV flaws with public exploits",
-            "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-high-severity-clamav-flaws-with-public-exploits/",
-            "summary": "Cisco warned of two high-severity vulnerabilities affecting the Secure Endpoint Connector that allow threat actors to crash the ClamAV scanning proces...",
-            "published_utc": "2026-08-11T11:03:01+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Logistics Giant Ceva Suffers Data Breach Impacting European Clients",
             "link": "https://www.infosecurity-magazine.com/news/logistics-ceva-data-breach/",
@@ -378,13 +399,6 @@
             "link": "https://www.zdnet.com/article/best-robot-mower/",
             "summary": "I went hands-on with the best robot mowers that can cut your lawn regularly, so you can kick back and relax this summer.",
             "published_utc": "2026-08-11T10:00:57+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "US and South Korea warn of Gunra ransomware targeting govt agencies",
-            "link": "https://www.bleepingcomputer.com/news/security/us-warns-of-gunra-ransomware-attacks-against-government-critical-infrastructure/",
-            "summary": "U.S. federal agencies and South Korea's National Policy Agency warned government and critical infrastructure organizations worldwide to secure their s...",
-            "published_utc": "2026-08-11T09:47:06+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -562,13 +576,6 @@
             "published_utc": "2026-08-10T08:25:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Made by Google 2026: How to watch and what to expect from the Pixel 11 event",
-            "link": "https://www.zdnet.com/article/what-to-expect-rumors-made-by-google-2026/",
-            "summary": "Google is set to announce its Pixel 11 series phones - here's what we know.",
-            "published_utc": "2026-08-09T10:15:00+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "Flock’s Plans for Rideshare Dashcams and Coaching Police, Revealed",
             "link": "https://www.wired.com/story/flocks-plans-for-rideshare-dashcams-and-coaching-police-revealed/",
@@ -644,13 +651,6 @@
             "link": "https://www.csoonline.com/article/4206598/human-oversight-is-still-critical-as-ai-patching-tools-miss-security-risks.html",
             "summary": "",
             "published_utc": "2026-08-07T08:50:54+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "What does a data breach cost? AI is a sizable factor",
-            "link": "https://www.csoonline.com/article/567697/what-is-the-cost-of-a-data-breach-3.html",
-            "summary": "",
-            "published_utc": "2026-08-07T08:25:00+00:00"
         },
         {
             "source": "InfosecurityMag",
