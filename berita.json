@@ -1,6 +1,34 @@
 {
-    "lastUpdatedUTC": "2026-08-13T10:06:55.646635+00:00",
+    "lastUpdatedUTC": "2026-08-13T11:47:12.418274+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Venture Firm Team8 Secures Additional $365 Million",
+            "link": "https://www.securityweek.com/venture-firm-team8-secures-additional-365-million/",
+            "summary": "",
+            "published_utc": "2026-08-13T11:42:48+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Android can now tap to share for contact info, photos, and more - which phones get it first",
+            "link": "https://www.zdnet.com/article/android-tap-to-share-feature/",
+            "summary": "The process of sending someone a file or sharing your information on Android just got a lot simpler.",
+            "published_utc": "2026-08-13T11:35:07+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Separating AI’s Technological Problems from Its Capitalism Problems",
+            "link": "https://www.schneier.com/blog/archives/2026/08/separating-ais-technological-problems-from-its-capitalism-problems.html",
+            "summary": "",
+            "published_utc": "2026-08-13T11:07:19+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Fortinet Patches Authentication Flaws in FortiWeb and FortiManager",
+            "link": "https://www.securityweek.com/fortinet-patches-authentication-flaws-in-fortiweb-and-fortimanager/",
+            "summary": "",
+            "published_utc": "2026-08-13T10:40:57+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "White House Mobilizes Security Firms for Operations Against Foreign Cybercrime Gangs",
@@ -261,18 +289,18 @@
             "published_utc": "2026-08-12T14:00:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Google Pixel 11 vs Samsung Galaxy Z Fold 8: I compared the latest flagships - here's my take",
-            "link": "https://www.zdnet.com/article/google-pixel-11-vs-samsung-galaxy-z-fold-8/",
-            "summary": "The Pixel 11 and the Galaxy Z Fold 8 offer very different user experiences. Which is for you? Here's how they compare.",
-            "published_utc": "2026-08-12T14:00:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Lazarus Used Post-Quantum Key Exchange to Deliver Zero-Day",
             "link": "https://www.infosecurity-magazine.com/news/lazarus-post-quantum-key-dream-job/",
             "summary": "Lazarus malware used post-quantum key exchange to protect delivery of a Windows zero-day exploit",
             "published_utc": "2026-08-12T13:35:00+00:00"
+        },
+        {
+            "source": "WeLiveSecurity",
+            "title": "Black Hat USA 2026: AI is racing ahead of cybersecurity controls",
+            "link": "https://www.welivesecurity.com/en/business-security/black-hat-usa-2026-ai-racing-cybersecurity-controls/",
+            "summary": "AI took center stage, but the clearest lesson was less about what AI can do than about who is accountable when something goes wrong",
+            "published_utc": "2026-08-12T13:28:07+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -345,13 +373,6 @@
             "published_utc": "2026-08-12T11:21:42+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Chipmaker Patch Tuesday: Intel, AMD Fix Over 80 Vulnerabilities Combined",
-            "link": "https://www.securityweek.com/chipmaker-patch-tuesday-intel-amd-fix-over-80-vulnerabilities-combined/",
-            "summary": "",
-            "published_utc": "2026-08-12T10:55:04+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges",
             "link": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/",
@@ -371,13 +392,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/08/prompt-injections-for-defense.html",
             "summary": "",
             "published_utc": "2026-08-12T09:56:37+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Over 2,500 Organizations Impacted by LiteLLM Supply Chain Attack",
-            "link": "https://www.securityweek.com/over-2500-organizations-impacted-by-litellm-supply-chain-attack/",
-            "summary": "",
-            "published_utc": "2026-08-12T09:55:45+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -917,13 +931,6 @@
             "link": "https://www.infosecurity-magazine.com/news/cloud-saas-targets-attackers/",
             "summary": "Cloud and SaaS are now the preferred operating environments for threat actors, amid a continued shift to identity attacks",
             "published_utc": "2026-08-04T11:30:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Some Claude Chats Are Searchable on Google",
-            "link": "https://www.schneier.com/blog/archives/2026/08/some-claude-chats-are-searchable-on-google.html",
-            "summary": "",
-            "published_utc": "2026-08-04T10:13:58+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -3248,13 +3255,6 @@
             "link": "https://www.welivesecurity.com/en/business-security/shadow-ai-security-blind-spot/",
             "summary": "From unintentional data leakage to buggy code, here’s why you should care about unsanctioned AI use in your company",
             "published_utc": "2025-11-11T10:00:00+00:00"
-        },
-        {
-            "source": "WeLiveSecurity",
-            "title": "In memoriam: David Harley",
-            "link": "https://www.welivesecurity.com/en/cybersecurity/in-memoriam-david-harley/",
-            "summary": "Former colleagues and friends remember the cybersecurity researcher, author, and mentor whose work bridged the human and technical sides of security",
-            "published_utc": "2025-11-07T13:46:10+00:00"
         },
         {
             "source": "Threatpost",
