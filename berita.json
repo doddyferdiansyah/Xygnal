@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2026-08-13T14:57:53.168266+00:00",
+    "lastUpdatedUTC": "2026-08-13T16:03:02.506383+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "This Micro RGB TV rivals pricier OLED models - and I'd recommend it, especially on sale",
+            "link": "https://www.zdnet.com/article/samsung-r95h-micro-rgb-deal-best-buy/",
+            "summary": "The Samsung R95H is built with an all-new Micro RGB panel that delivers truly impressive color and contrast.",
+            "published_utc": "2026-08-13T16:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Exposed AWS Access Key Linked to Data Breach Affecting 1500+ UK Charities",
+            "link": "https://www.infosecurity-magazine.com/news/exposed-aws-key-data-charities/",
+            "summary": "CRM provider Beacon has revealed that a compromised AWS access key was the likely root cause of the breach of 1500 UK charities’ data",
+            "published_utc": "2026-08-13T15:30:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I wore Samsung's and Apple's Ultra smartwatches for 3 weeks - apps made all the difference",
+            "link": "https://www.zdnet.com/article/samsung-galaxy-watch-ultra-2-vs-apple-watch-ultra-3/",
+            "summary": "The Apple Watch Ultra 3 and the Samsung Galaxy Watch Ultra 2 are top-tier rugged smartwatches with similar features, but one stands out.",
+            "published_utc": "2026-08-13T15:30:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "You're using DND all wrong: 5 powerful Do Not Disturb settings to try on your iPhone today",
+            "link": "https://www.zdnet.com/article/iphone-do-not-disturb-tips/",
+            "summary": "DND is so much more than a way to silence your phone.",
+            "published_utc": "2026-08-13T15:18:33+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Trezor discloses data breach affecting nearly 14,000 customers",
+            "link": "https://www.bleepingcomputer.com/news/security/trezor-discloses-data-breach-affecting-nearly-14-000-customers/",
+            "summary": "Hardware wallet manufacturer Trezor disclosed a data breach affecting nearly 14,000 of its customers after ShipMonk, its shipping and logistics provid...",
+            "published_utc": "2026-08-13T15:13:19+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Google Cloud Targets 2027 for First Major Post-Quantum Security Milestone",
+            "link": "https://www.infosecurity-magazine.com/news/google-cloud-post-quantum-roadmap/",
+            "summary": "Google Cloud has set a 2027 deadline to mitigate store-now-decrypt-later risks as part of its post-quantum cryptography roadmap, with wider migration ...",
+            "published_utc": "2026-08-13T15:00:00+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Cybersecurity M&A Roundup: 21 Deals Announced in July 2026",
@@ -345,27 +387,6 @@
             "published_utc": "2026-08-12T14:01:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Google Pixel 11 Pro vs. Apple iPhone 17 Pro: Which Pro model should you buy?",
-            "link": "https://www.zdnet.com/article/google-pixel-11-pro-vs-apple-iphone-17-pro/",
-            "summary": "The two Google and Apple phones go neck to neck against each other, but only one will suit your needs.",
-            "published_utc": "2026-08-12T14:01:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Google Pixel Watch 5 vs. Apple Watch Series 11: How Google competes against Apple",
-            "link": "https://www.zdnet.com/article/google-pixel-watch-5-vs-apple-watch-series-11/",
-            "summary": "The Google Pixel Watch 5 is a big upgrade over its predecessor, but is it enough to take on the Apple Watch Series 11?",
-            "published_utc": "2026-08-12T14:01:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Pixel Watch 4 vs. Pixel Watch 5: Buy the old Android smartwatch or opt for the newest?",
-            "link": "https://www.zdnet.com/article/pixel-watch-4-vs-pixel-watch-5/",
-            "summary": "Considering an upgrade to the new Pixel Watch 5? It comes down to these factors.",
-            "published_utc": "2026-08-12T14:01:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Lazarus Used Post-Quantum Key Exchange to Deliver Zero-Day",
             "link": "https://www.infosecurity-magazine.com/news/lazarus-post-quantum-key-dream-job/",
@@ -490,13 +511,6 @@
             "link": "https://www.csoonline.com/article/4208307/metabase-sqli-exploit-grants-attackers-total-access.html",
             "summary": "",
             "published_utc": "2026-08-12T02:40:58+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Google says Chrome cuts 7 billion unwanted Android notifications a day to fight abuse",
-            "link": "https://www.bleepingcomputer.com/news/security/google-says-chrome-cuts-7-billion-unwanted-android-notifications-a-day-to-fight-abuse/",
-            "summary": "Google says Chrome's anti-abuse systems reduced unwanted notifications on Android by more than 7 billion per day during the first quarter of 2026. [...]",
-            "published_utc": "2026-08-12T01:15:55+00:00"
         },
         {
             "source": "CSO Online",
@@ -2709,20 +2723,6 @@
             "link": "https://www.infosecurity-magazine.com/news/north-korean-hackers-developers/",
             "summary": "North Korean actor UNK_DeadDrop targeted developers with fake coding tasks to steal crypto",
             "published_utc": "2026-06-08T15:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "OpenAI Unveils ChatGPT Account Security Controls",
-            "link": "https://www.infosecurity-magazine.com/news/chatgpt-lockdown-mode-active/",
-            "summary": "OpenAI brings Lockdown Mode and Active Sessions to ChatGPT to curb prompt injection data theft",
-            "published_utc": "2026-06-08T14:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Infosecurity Europe: Prompt Injection Remains Unsolved, OWASP Researcher Warns",
-            "link": "https://www.infosecurity-magazine.com/news/infosec-europe-prompt-injection/",
-            "summary": "At Infosecurity Europe 2026, OWASP’s Ariel Fogel warned that prompt injection remains an “unresolved problem” within generative AI architecture",
-            "published_utc": "2026-06-08T10:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
