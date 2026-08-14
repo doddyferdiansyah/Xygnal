@@ -1,6 +1,55 @@
 {
-    "lastUpdatedUTC": "2026-08-14T10:02:46.372228+00:00",
+    "lastUpdatedUTC": "2026-08-14T11:43:22.417316+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Trivy, Not LiteLLM Behind the 2,500 Org Compromise",
+            "link": "https://www.securityweek.com/trivy-not-litellm-behind-the-2500-org-compromise/",
+            "summary": "",
+            "published_utc": "2026-08-14T11:35:23+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Who’s Tracking You? Use This New Service to Find Out",
+            "link": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
+            "summary": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every...",
+            "published_utc": "2026-08-14T11:24:35+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "If the Markets Reject OpenAI and Anthropic, the US Should Nationalize Them",
+            "link": "https://www.schneier.com/blog/archives/2026/08/if-the-markets-reject-openai-and-anthropic-the-us-should-nationalize-them.html",
+            "summary": "",
+            "published_utc": "2026-08-14T11:03:50+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Google Cloud Sets Out Post-Quantum Roadmap With 2029 Readiness Goal",
+            "link": "https://www.securityweek.com/google-cloud-sets-out-post-quantum-roadmap-with-2029-readiness-goal/",
+            "summary": "",
+            "published_utc": "2026-08-14T11:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "RingCentral data breach exposed info of 1.6 million accounts",
+            "link": "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/",
+            "summary": "The ShinyHunters extortion group stole personal information from 1.6 million RingCentral accounts after hacking the company in July, according to the ...",
+            "published_utc": "2026-08-14T10:52:05+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Novel macOS Infostealer AmnesiaStealer Spread via ClickFix",
+            "link": "https://www.infosecurity-magazine.com/news/macos-infostealer-spread-clickfix/",
+            "summary": "AmnesiaStealer contains novel functions, including the attackers gaining remote control over the victim’s browser to steal cookie data",
+            "published_utc": "2026-08-14T10:45:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "1.6 Million Likely Impacted by RingCentral Data Breach",
+            "link": "https://www.securityweek.com/1-6-million-likely-impacted-by-ringcentral-data-breach/",
+            "summary": "",
+            "published_utc": "2026-08-14T10:24:03+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Over 1,000 Charities Hit by Beacon CRM Data Breach",
@@ -289,13 +338,6 @@
             "published_utc": "2026-08-13T11:50:22+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Venture Firm Team8 Secures Additional $365 Million",
-            "link": "https://www.securityweek.com/venture-firm-team8-secures-additional-365-million/",
-            "summary": "",
-            "published_utc": "2026-08-13T11:42:48+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "Android can now tap to share for contact info, photos, and more - which phones get it first",
             "link": "https://www.zdnet.com/article/android-tap-to-share-feature/",
@@ -308,20 +350,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/08/separating-ais-technological-problems-from-its-capitalism-problems.html",
             "summary": "",
             "published_utc": "2026-08-13T11:07:19+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Fortinet Patches Authentication Flaws in FortiWeb and FortiManager",
-            "link": "https://www.securityweek.com/fortinet-patches-authentication-flaws-in-fortiweb-and-fortimanager/",
-            "summary": "",
-            "published_utc": "2026-08-13T10:40:57+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "White House Mobilizes Security Firms for Operations Against Foreign Cybercrime Gangs",
-            "link": "https://www.securityweek.com/white-house-mobilizes-security-firms-for-operations-against-foreign-cybercrime-gangs/",
-            "summary": "",
-            "published_utc": "2026-08-13T09:53:04+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -399,13 +427,6 @@
             "link": "https://www.csoonline.com/article/4208760/researcher-bypasses-microsoft-defender-security-patch-seizing-control.html",
             "summary": "",
             "published_utc": "2026-08-12T21:07:24+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Hackers exploit critical Adobe Commerce flaw to hijack customer accounts",
-            "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/",
-            "summary": "Attempts to exploit a critical vulnerability (CVE-2026-71362) in Adobe's Commerce and Magento e-commerce platforms have been detected, potentially all...",
-            "published_utc": "2026-08-12T20:54:59+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -945,13 +966,6 @@
             "link": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents/",
             "summary": "Rogue AI agents from OpenAI and Anthropic have again been caught trying to disrupt servers and software—and leaving instructions for future bad behavior.",
             "published_utc": "2026-08-04T23:11:31+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Iran Cyberattacks Against Minnesota Water Systems",
-            "link": "https://www.schneier.com/blog/archives/2026/08/iran-cyberattacks-against-minnesota-water-systems.html",
-            "summary": "",
-            "published_utc": "2026-08-04T19:00:53+00:00"
         },
         {
             "source": "WIRED Security",
@@ -2361,13 +2375,6 @@
             "published_utc": "2026-06-19T09:00:00+00:00"
         },
         {
-            "source": "KrebsOnSecurity",
-            "title": "‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm",
-            "link": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
-            "summary": "For the past four years, a sprawling Android-based botnet called Popa has forced millions of consumer TV boxes to relay Internet traffic linked to adv...",
-            "published_utc": "2026-06-18T17:37:58+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Fake GitHub Stars and AI Videos Mask a Crypto Clipper",
             "link": "https://www.infosecurity-magazine.com/news/crypto-clipboard-hijacker-fake/",
@@ -2730,13 +2737,6 @@
             "link": "https://www.welivesecurity.com/en/business-security/cybercriminals-auditors-never-hired/",
             "summary": "Every organisation gets audited. The question is who does the auditing.",
             "published_utc": "2026-06-09T08:50:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "WhatsApp Discovers NSO Group-Linked Spearphishing Attempts",
-            "link": "https://www.infosecurity-magazine.com/news/whatsapp-nso-group-spearphishing/",
-            "summary": "Meta’s WhatsApp demands contempt ruling after users report NSO Group-linked phishing",
-            "published_utc": "2026-06-09T08:15:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
