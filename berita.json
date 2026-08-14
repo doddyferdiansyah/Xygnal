@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2026-08-14T08:16:12.379718+00:00",
+    "lastUpdatedUTC": "2026-08-14T10:02:46.372228+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Over 1,000 Charities Hit by Beacon CRM Data Breach",
+            "link": "https://www.securityweek.com/over-1000-charities-hit-by-beacon-crm-data-breach/",
+            "summary": "",
+            "published_utc": "2026-08-14T09:20:28+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Akira ransomware reboots into Windows Safe Mode to knock EDR offline",
+            "link": "https://www.csoonline.com/article/4209606/akira-ransomware-reboots-into-windows-safe-mode-to-knock-edr-offline.html",
+            "summary": "",
+            "published_utc": "2026-08-14T09:12:37+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "The cybersecurity backlog is not a security problem",
+            "link": "https://www.csoonline.com/article/4209334/the-cybersecurity-backlog-is-not-a-security-problem.html",
+            "summary": "",
+            "published_utc": "2026-08-14T09:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Data analyst sent to prison for stealing data, extorting employer",
+            "link": "https://www.bleepingcomputer.com/news/security/data-analyst-sent-to-prison-for-stealing-data-extorting-employer/",
+            "summary": "A former data analyst contractor for Brightly Software has been sentenced to two years in prison for targeting his employer in a $2.5 million extortio...",
+            "published_utc": "2026-08-14T08:27:18+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "How CSOs can turn cybersecurity into a business growth strategy",
+            "link": "https://www.csoonline.com/article/4208202/how-csos-can-turn-cybersecurity-into-a-business-growth-strategy.html",
+            "summary": "",
+            "published_utc": "2026-08-14T08:25:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "14,000 Trezor Customers Impacted by Data Breach at ShipMonk",
+            "link": "https://www.securityweek.com/14000-trezor-customers-impacted-by-data-breach-at-shipmonk/",
+            "summary": "",
+            "published_utc": "2026-08-14T08:16:00+00:00"
+        },
         {
             "source": "InfosecurityMag",
             "title": "Researchers Link 'Jewelbug' Chinese APT to Hack-for-Hire Operations",
@@ -296,13 +338,6 @@
             "published_utc": "2026-08-13T09:30:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Critical VMware vCenter Vulnerability in Attackers’ Crosshairs",
-            "link": "https://www.securityweek.com/critical-vmware-vcenter-vulnerability-in-attackers-crosshairs/",
-            "summary": "",
-            "published_utc": "2026-08-13T09:06:40+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "The best password managers of 2026: Expert tested",
             "link": "https://www.zdnet.com/article/best-password-manager/",
@@ -322,13 +357,6 @@
             "link": "https://www.zdnet.com/article/best-antivirus-2026/",
             "summary": "Our favorite antivirus software protects your PC, laptop, and mobile devices from malware without costing a fortune.",
             "published_utc": "2026-08-13T09:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Nightmare Eclipse Drops Windows Zero-Day Exploit ‘ShieldBreak’",
-            "link": "https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-shieldbreak/",
-            "summary": "",
-            "published_utc": "2026-08-13T08:38:03+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -378,13 +406,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/",
             "summary": "Attempts to exploit a critical vulnerability (CVE-2026-71362) in Adobe's Commerce and Magento e-commerce platforms have been detected, potentially all...",
             "published_utc": "2026-08-12T20:54:59+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Hundreds of fake Chrome VPN extensions route traffic through a proxy",
-            "link": "https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/",
-            "summary": "More than 737 browser extensions published on the Chrome Web Store impersonated well-known VPN and proxy services while routing users' traffic through...",
-            "published_utc": "2026-08-12T18:54:57+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -660,13 +681,6 @@
             "published_utc": "2026-08-11T08:00:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "The future of AI security research isn’t autonomous, it’s human-amplified",
-            "link": "https://www.csoonline.com/article/4207666/the-future-of-ai-security-research-isnt-autonomous-its-human-amplified.html",
-            "summary": "",
-            "published_utc": "2026-08-11T02:18:14+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Researchers Uncover RovoBlast Vulnerability in Atlassian AI Assistant",
             "link": "https://www.infosecurity-magazine.com/news/rovoblast-atlassian-rovo-url/",
@@ -679,20 +693,6 @@
             "link": "https://www.infosecurity-magazine.com/news/bdthemes-wordpress-poisoned-api/",
             "summary": "Poisoned JSON feed let attackers backdoor WordPress sites without changing any plugin files",
             "published_utc": "2026-08-10T14:30:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "OpenAI says Astra could reach ‘critical’ cyber capability, tightens safeguards",
-            "link": "https://www.csoonline.com/article/4207311/openai-says-astra-could-reach-critical-cyber-capability-tightens-safeguards.html",
-            "summary": "",
-            "published_utc": "2026-08-10T12:07:10+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "One-click flaw in Atlassian Rovo exposed enterprise data via prompt injection attack",
-            "link": "https://www.csoonline.com/article/4207306/one-click-flaw-in-atlassian-rovo-exposed-enterprise-data-via-prompt-injection-attack.html",
-            "summary": "",
-            "published_utc": "2026-08-10T11:59:41+00:00"
         },
         {
             "source": "Schneier",
