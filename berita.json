@@ -1,6 +1,34 @@
 {
-    "lastUpdatedUTC": "2026-08-14T11:43:22.417316+00:00",
+    "lastUpdatedUTC": "2026-08-14T13:07:23.142458+00:00",
     "articles": [
+        {
+            "source": "InfosecurityMag",
+            "title": "New Mirai-Based Linux Botnet ‘Evooo1Bot’ Turns Victims Into Proxies",
+            "link": "https://www.infosecurity-magazine.com/news/new-linux-botnet-evooo1bot-victims/",
+            "summary": "Evooo1Bot is a newly observed botnet based on the Mirai framework but equipped with advanced features, turning edge devices into persistent proxies",
+            "published_utc": "2026-08-14T13:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "In Other News: Rapid7 Layoffs, Hacking a Boeing 737, Refrigeration System Vulnerabilities",
+            "link": "https://www.securityweek.com/in-other-news-rapid7-layoffs-hacking-a-boeing-737-refrigeration-system-vulnerabilities/",
+            "summary": "",
+            "published_utc": "2026-08-14T11:57:51+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Shell investigates 'potential incident' after Clop data theft claims",
+            "link": "https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/",
+            "summary": "Oil giant Shell has confirmed it is investigating a potential security incident after the Clop ransomware gang claimed it stole 89GB of data. [...]",
+            "published_utc": "2026-08-14T11:55:45+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I used OpenFactory to build my own Linux distro overnight - this AI tool is going to be big",
+            "link": "https://www.zdnet.com/article/openfactory-is-an-impressive-new-service-that-allows-you-to-build-your-own-linux-distribution/",
+            "summary": "Need a custom Linux distribution, but don't have time to learn how to build one? OpenFactory can help you.",
+            "published_utc": "2026-08-14T11:53:42+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Trivy, Not LiteLLM Behind the 2,500 Org Compromise",
@@ -296,13 +324,6 @@
             "published_utc": "2026-08-13T13:23:10+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "WordPress 7.0.4 Patches Remote Code Execution Vulnerability",
-            "link": "https://www.securityweek.com/wordpress-7-0-4-patches-remote-code-execution-vulnerability/",
-            "summary": "",
-            "published_utc": "2026-08-13T12:53:56+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Trump Authorizes Private Sector Participation in Offensive Cyber Operations",
             "link": "https://www.infosecurity-magazine.com/news/trump-private-offensive-cyber/",
@@ -415,13 +436,6 @@
             "published_utc": "2026-08-12T23:07:23+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Android malware combo takes out loans and relays victims' credit cards",
-            "link": "https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/",
-            "summary": "A new Android NFC relay malware called WindRelay is being used alongside the SpyNote remote administration tool (RAT) to steal live card data and send...",
-            "published_utc": "2026-08-12T22:22:57+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Researcher bypasses Microsoft Defender security patch, seizing control",
             "link": "https://www.csoonline.com/article/4208760/researcher-bypasses-microsoft-defender-security-patch-seizing-control.html",
@@ -483,13 +497,6 @@
             "link": "https://www.zdnet.com/article/best-google-pixel-11-cases/",
             "summary": "Google's latest Pixel phones are here, and we found the best cases to protect your new Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL, or Pixel 11 Pro Fold.",
             "published_utc": "2026-08-12T14:16:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Microsoft fixes 421 bugs and a Windows zero-day in August Patch Tuesday - update ASAP",
-            "link": "https://www.zdnet.com/article/microsoft-august-windows-update-421-bugs-zero-day-exploited/",
-            "summary": "The exploited zero-day flaw could allow an attacker to gain system privileges on a Windows PC.",
-            "published_utc": "2026-08-12T14:15:33+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2723,13 +2730,6 @@
             "link": "https://www.infosecurity-magazine.com/news/check-point-critical-auth-bypass/",
             "summary": "Check Point says a critical vulnerability in its Remote Access VPN and Mobile Access solutions has been exploited by Qilin",
             "published_utc": "2026-06-09T09:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Infosecurity Europe: Why JLR’s CISO Enforced In-Person Password Resets Following Cyber-Attack",
-            "link": "https://www.infosecurity-magazine.com/news/jlr-cyberattack-ciso-inperson/",
-            "summary": "Speaking at Infosecurity Europe, Ashish Shrestha, former CISO at Jaguar Land Rover revealed why he wanted over 30,000 employees to change their passwo...",
-            "published_utc": "2026-06-09T09:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
