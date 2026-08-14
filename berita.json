@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-08-14T06:14:02.342272+00:00",
+    "lastUpdatedUTC": "2026-08-14T08:16:12.379718+00:00",
     "articles": [
+        {
+            "source": "InfosecurityMag",
+            "title": "Researchers Link 'Jewelbug' Chinese APT to Hack-for-Hire Operations",
+            "link": "https://www.infosecurity-magazine.com/news/researchers-link-chinese-apt-hack/",
+            "summary": "Threat intelligence researchers from Broadcom revealed that a known Chinese APT group may be linked to a lucrative crypto fraud operation",
+            "published_utc": "2026-08-14T07:30:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Hackers Exploiting Unpatched GeoServer Zero-Day",
+            "link": "https://www.securityweek.com/hackers-exploiting-unpatched-geoserver-zero-day/",
+            "summary": "",
+            "published_utc": "2026-08-14T07:01:56+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "AmnesiaStealer macOS Malware Steals Data, Controls Browser Sessions",
+            "link": "https://www.securityweek.com/amnesiastealer-macos-malware-steals-data-controls-browser-sessions/",
+            "summary": "",
+            "published_utc": "2026-08-14T06:41:43+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "5 key takeaways from Black Hat USA 2026",
@@ -133,6 +154,13 @@
             "link": "https://www.securityweek.com/cybersecurity-ma-roundup-21-deals-announced-in-july-2026/",
             "summary": "",
             "published_utc": "2026-08-13T14:41:44+00:00"
+        },
+        {
+            "source": "WeLiveSecurity",
+            "title": "Black Hat USA 2026: Will vulnerability discovery eventually decline in the AI era?",
+            "link": "https://www.welivesecurity.com/en/business-security/black-hat-usa-2026-vulnerability-discovery-decline-ai-era/",
+            "summary": "And will today’s surge in AI-driven vulnerability discovery eventually make tomorrow’s software safer?",
+            "published_utc": "2026-08-13T14:30:00+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -282,6 +310,13 @@
             "published_utc": "2026-08-13T09:00:43+00:00"
         },
         {
+            "source": "WeLiveSecurity",
+            "title": "Black Hat USA 2026: What the Hugging Face hack tells us about human responsibility",
+            "link": "https://www.welivesecurity.com/en/business-security/black-hat-usa-2026-hugging-face-hack-human-responsibility/",
+            "summary": "The incident involving OpenAI models shows that autonomous hacks make human oversight more important, not less",
+            "published_utc": "2026-08-13T09:00:00+00:00"
+        },
+        {
             "source": "ZDNet Security",
             "title": "The best antivirus software to protect your computer in 2026",
             "link": "https://www.zdnet.com/article/best-antivirus-2026/",
@@ -387,13 +422,6 @@
             "published_utc": "2026-08-12T15:23:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "SharePoint Vulnerability Exploited Shortly After PoC Release",
-            "link": "https://www.securityweek.com/sharepoint-vulnerability-exploited-shortly-after-poc-release/",
-            "summary": "",
-            "published_utc": "2026-08-12T14:47:01+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "WindRelay Malware Pairs With SpyNote RAT in Live-Call Scam",
             "link": "https://www.infosecurity-magazine.com/news/windrelay-nfc-relay-spynote-rat/",
@@ -434,13 +462,6 @@
             "link": "https://www.welivesecurity.com/en/business-security/black-hat-usa-2026-ai-racing-cybersecurity-controls/",
             "summary": "AI took center stage, but the clearest lesson was less about what AI can do than about who is accountable when something goes wrong",
             "published_utc": "2026-08-12T13:28:07+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Mindgard Raises $30 Million to Protect AI Systems",
-            "link": "https://www.securityweek.com/mindgard-raises-30-million-to-protect-ai-systems/",
-            "summary": "",
-            "published_utc": "2026-08-12T13:24:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2718,13 +2739,6 @@
             "published_utc": "2026-06-09T08:15:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "North Korean Hackers Use Fake Coding Tasks to Steal Crypto",
-            "link": "https://www.infosecurity-magazine.com/news/north-korean-hackers-developers/",
-            "summary": "North Korean actor UNK_DeadDrop targeted developers with fake coding tasks to steal crypto",
-            "published_utc": "2026-06-08T15:00:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "Lessons for life: Why children’s data is a long-term identity risk",
             "link": "https://www.welivesecurity.com/en/kids-online/lessons-life-childrens-data-long-term-identity-risk/",
@@ -3241,20 +3255,6 @@
             "link": "https://www.welivesecurity.com/en/privacy/romantic-ai-chatbot-keep-secret/",
             "summary": "Does your chatbot know too much? Here's why you should think twice before you tell your AI companion everything.",
             "published_utc": "2025-11-17T10:00:00+00:00"
-        },
-        {
-            "source": "WeLiveSecurity",
-            "title": "How password managers can be hacked – and how to stay safe",
-            "link": "https://www.welivesecurity.com/en/cybersecurity/password-managers-under-attack-what-you-should-know/",
-            "summary": "Look no further to learn how cybercriminals could try to crack your vault and how you can keep your logins safe",
-            "published_utc": "2025-11-13T10:00:00+00:00"
-        },
-        {
-            "source": "WeLiveSecurity",
-            "title": "Why shadow AI could be your biggest security blind spot",
-            "link": "https://www.welivesecurity.com/en/business-security/shadow-ai-security-blind-spot/",
-            "summary": "From unintentional data leakage to buggy code, here’s why you should care about unsanctioned AI use in your company",
-            "published_utc": "2025-11-11T10:00:00+00:00"
         },
         {
             "source": "Threatpost",
