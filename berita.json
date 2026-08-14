@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2026-08-14T15:52:32.938393+00:00",
+    "lastUpdatedUTC": "2026-08-14T16:53:37.934996+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "I tested an Android app that lets anyone fight censorship - and shows your impact in real time",
+            "link": "https://www.zdnet.com/article/snowflake-volunteer-censorship-fighting-android-app-tor/",
+            "summary": "Most apps make our personal lives easier. This one helps the oppressed communicate by turning your phone into a Tor proxy. No technical knowledge needed.",
+            "published_utc": "2026-08-14T16:15:34+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Apple is warning users of new spyware attacks - what to do if you're a target",
+            "link": "https://www.zdnet.com/article/apple-warns-targetted-spyware-attacks-what-to-do/",
+            "summary": "New spyware attacks are aimed at journalists, activists, politicians, diplomats, and others. Here's how Apple is notifying them and what they should d...",
+            "published_utc": "2026-08-14T16:08:11+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Upcoming Speaking Engagements",
+            "link": "https://www.schneier.com/blog/archives/2026/08/upcoming-speaking-engagements-59.html",
+            "summary": "",
+            "published_utc": "2026-08-14T16:01:59+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Dell XPS 13 review: The first budget laptop to rival Neo raises the bar for all PCs",
+            "link": "https://www.zdnet.com/article/dell-xps-13-spotlight/",
+            "summary": "The Dell XPS 13 flaunts build quality rarely seen at this price point, but not without trade-offs.",
+            "published_utc": "2026-08-14T16:00:46+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "ChatGPT's new Computer History tracks your Mac activity to create a timeline -  but should you let it?",
+            "link": "https://www.zdnet.com/article/chatgpt-computer-history/",
+            "summary": "Rolling out to ChatGPT's Mac app, Computer History creates a timeline from your activities across the apps and websites you use on your Mac. Is that a...",
+            "published_utc": "2026-08-14T16:00:16+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Hackers exploit macOS Screen Sharing flaw to deploy Monero miner",
@@ -223,7 +258,7 @@
             "title": "I tried the new ChatGPT Desktop App for Linux - but I'll stick to my browser for now",
             "link": "https://www.zdnet.com/article/openai-brings-the-chatgpt-desktop-app-to-linux/",
             "summary": "This preview release of ChatGPT Desktop for Linux supports Ubuntu, Debian, and Fedora is here.",
-            "published_utc": "2026-08-13T20:46:54+00:00"
+            "published_utc": "2026-08-13T20:46:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -485,39 +520,11 @@
             "published_utc": "2026-08-12T15:37:36+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Every Pixel 11 deal at T-Mobile right now: Trade-in offers, free phones with new line, and more",
-            "link": "https://www.zdnet.com/article/t-mobile-google-pixel-deals/",
-            "summary": "Google's new flagship Pixel series was just announced, and T-Mobile has plenty of preorder offers to choose from.",
-            "published_utc": "2026-08-12T15:29:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How to preorder every new Google Pixel device - and the best deals I found",
-            "link": "https://www.zdnet.com/article/how-to-preorder-everything-announced-at-made-by-google-2026/",
-            "summary": "We've got the scoop on where you can preorder the latest Google devices announced at Made by Google, including the Pixel 11 lineup and the Pixel Watch 5.",
-            "published_utc": "2026-08-12T15:23:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "WindRelay Malware Pairs With SpyNote RAT in Live-Call Scam",
             "link": "https://www.infosecurity-magazine.com/news/windrelay-nfc-relay-spynote-rat/",
             "summary": "New WindRelay NFC malware paired with SpyNote RAT let a fraudster clone a card mid-call",
             "published_utc": "2026-08-12T14:30:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The Pixel Tag is Google's $29 AirTag alternative - with one big advantage",
-            "link": "https://www.zdnet.com/article/google-pixel-tag-ultra-wideband-bluetooth-channel-sounding/",
-            "summary": "Google's new finder tags use an emerging Bluetooth technology to stand apart from competing devices made by Apple and Samsung.",
-            "published_utc": "2026-08-12T14:30:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The best Pixel 11 and Pixel 11 Pro cases of 2026: Expert recommended",
-            "link": "https://www.zdnet.com/article/best-google-pixel-11-cases/",
-            "summary": "Google's latest Pixel phones are here, and we found the best cases to protect your new Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL, or Pixel 11 Pro Fold.",
-            "published_utc": "2026-08-12T14:16:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -952,13 +959,6 @@
             "link": "https://www.infosecurity-magazine.com/news/chaindrop-worm-400-npm-two-billion/",
             "summary": "A new npm worm has compromised packages with over two billion monthly installs",
             "published_utc": "2026-08-05T10:00:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Vulnerabilities in Car Anti-Theft Device",
-            "link": "https://www.schneier.com/blog/archives/2026/08/vulnerabilities-in-car-anti-theft-device.html",
-            "summary": "",
-            "published_utc": "2026-08-05T09:42:43+00:00"
         },
         {
             "source": "InfosecurityMag",
