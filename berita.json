@@ -1,6 +1,13 @@
 {
-    "lastUpdatedUTC": "2026-08-15T13:30:35.737381+00:00",
+    "lastUpdatedUTC": "2026-08-15T14:22:44.838556+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "New Evooo1Bot Linux botnet turns routers into traffic relay nodes",
+            "link": "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/",
+            "summary": "A new Mirai-based modular Linux botnet malware called Evooo1Bot has been targeting internet-facing gateway devices, turning them into SOCKS5 traffic r...",
+            "published_utc": "2026-08-15T14:14:38+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "No space for bookshelf speakers? The Victrola Soundstage sits neatly under my turntable",
@@ -336,13 +343,6 @@
             "link": "https://www.zdnet.com/article/gemini-voice-calling-on-android-auto-keeps-failing-google-must-fix-by-september/",
             "summary": "With Google Assistant shutting down this fall, Android users will be left with inferior voice calling, thanks to Gemini.",
             "published_utc": "2026-08-13T17:07:04+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Critical VMware vCenter RCE flaw exploited for reverse SSH access",
-            "link": "https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/",
-            "summary": "A recently patched critical vulnerability (CVE-2026-59310) in VMware vCenter Syslog Server is being exploited in an active campaign to deploy a revers...",
-            "published_utc": "2026-08-13T16:40:23+00:00"
         },
         {
             "source": "ZDNet Security",
