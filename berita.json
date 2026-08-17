@@ -1,6 +1,13 @@
 {
-    "lastUpdatedUTC": "2026-08-17T12:44:25.583496+00:00",
+    "lastUpdatedUTC": "2026-08-17T13:39:31.812503+00:00",
     "articles": [
+        {
+            "source": "InfosecurityMag",
+            "title": "WordPress Plugin Flaw Exposes 40,000 Sites to Admin Takeover",
+            "link": "https://www.infosecurity-magazine.com/news/wordpress-plugin-flaw-40000-sites/",
+            "summary": "Critical User Profile Builder flaw let unauthenticated attackers access administrator accounts",
+            "published_utc": "2026-08-17T13:30:00+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Windows Server 2022 reaches end of mainstream support in 60 days",
@@ -2723,13 +2730,6 @@
             "link": "https://www.infosecurity-magazine.com/news/microsoft-fixes-200-cves-in-june/",
             "summary": "Microsoft has patched 200 vulnerabilities including three zero-days",
             "published_utc": "2026-06-10T08:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "75% of Firms Deploy Vulnerable Code Amid Pressure on CISOs, Report Finds",
-            "link": "https://www.infosecurity-magazine.com/news/firms-deploy-vulnerable-code/",
-            "summary": "Checkmarx report warns that business pressure is among the reason security leaders let security compliance slip",
-            "published_utc": "2026-06-09T15:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
