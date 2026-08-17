@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2026-08-17T11:26:22.913662+00:00",
+    "lastUpdatedUTC": "2026-08-17T12:44:25.583496+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Windows Server 2022 reaches end of mainstream support in 60 days",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/",
+            "summary": "Microsoft has reminded IT administrators that Windows Server 2022 is rapidly approaching its mainstream end date of October 2026, when it will switch ...",
+            "published_utc": "2026-08-17T12:33:11+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Zhipu says new coding AI developed advanced cyber skills faster than expected",
+            "link": "https://www.csoonline.com/article/4210501/zhipu-says-new-coding-ai-developed-advanced-cyber-skills-faster-than-expected-2.html",
+            "summary": "",
+            "published_utc": "2026-08-17T12:12:01+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Irregular Details How a Naming Error Let AI Models Attack a Real Company",
+            "link": "https://www.securityweek.com/irregular-details-how-a-naming-error-let-ai-models-attack-a-real-company/",
+            "summary": "",
+            "published_utc": "2026-08-17T12:11:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "This Google Play Store trick saved me over $100 on the Pixel 11 Pro XL - here's how",
+            "link": "https://www.zdnet.com/article/this-google-play-store-trick-might-save-you-up-to-175-on-the-pixel-11-heres-how-to-do-it/",
+            "summary": "Here's how I saved hundreds on a new phone and watch in just a few seconds.",
+            "published_utc": "2026-08-17T12:04:21+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Google Workspace lets Gemini access your company data by default - how to shut it down",
+            "link": "https://www.zdnet.com/article/google-workspace-lets-gemini-access-your-company-data-by-default-how-to-shut-it-down/",
+            "summary": "In Google Workspace, Gemini has access to Gmail, Docs, Calendar, Chat, and more by default. Here's why it matters, and how administrators can disable ...",
+            "published_utc": "2026-08-17T11:38:51+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "New macOS malware turns stolen browsers into attacker-controlled sessions",
+            "link": "https://www.csoonline.com/article/4210464/new-macos-malware-turns-stolen-browsers-into-attacker-controlled-sessions.html",
+            "summary": "",
+            "published_utc": "2026-08-17T11:35:40+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Philips and GE investigating Clop ransomware data theft claims",
@@ -338,13 +380,6 @@
             "published_utc": "2026-08-14T11:00:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "RingCentral data breach exposed info of 1.6 million accounts",
-            "link": "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/",
-            "summary": "The ShinyHunters extortion group stole personal information from 1.6 million RingCentral accounts after hacking the company in July, according to the ...",
-            "published_utc": "2026-08-14T10:52:05+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Novel macOS Infostealer AmnesiaStealer Spread via ClickFix",
             "link": "https://www.infosecurity-magazine.com/news/macos-infostealer-spread-clickfix/",
@@ -357,13 +392,6 @@
             "link": "https://www.securityweek.com/1-6-million-likely-impacted-by-ringcentral-data-breach/",
             "summary": "",
             "published_utc": "2026-08-14T10:24:03+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Over 1,000 Charities Hit by Beacon CRM Data Breach",
-            "link": "https://www.securityweek.com/over-1000-charities-hit-by-beacon-crm-data-breach/",
-            "summary": "",
-            "published_utc": "2026-08-14T09:20:28+00:00"
         },
         {
             "source": "CSO Online",
@@ -513,20 +541,6 @@
             "published_utc": "2026-08-13T12:14:45+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "75% of developers I surveyed prefer Claude Code - here's why they choose it over Codex",
-            "link": "https://www.zdnet.com/article/why-most-developers-prefer-claude-code-over-codex/",
-            "summary": "Three out of four of the 138 developers I surveyed use Claude Code. Here's what they say matters in daily AI coding workflows.",
-            "published_utc": "2026-08-13T12:06:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Android can now tap to share for contact info, photos, and more - which phones get it first",
-            "link": "https://www.zdnet.com/article/android-tap-to-share-feature/",
-            "summary": "The process of sending someone a file or sharing your information on Android just got a lot simpler.",
-            "published_utc": "2026-08-13T11:35:07+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Separating AI’s Technological Problems from Its Capitalism Problems",
             "link": "https://www.schneier.com/blog/archives/2026/08/separating-ais-technological-problems-from-its-capitalism-problems.html",
@@ -672,20 +686,6 @@
             "link": "https://www.csoonline.com/article/570815/old-software-bugs-that-took-way-too-long-to-squash.html",
             "summary": "",
             "published_utc": "2026-08-12T07:30:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Metabase SQLi exploit grants attackers total access",
-            "link": "https://www.csoonline.com/article/4208307/metabase-sqli-exploit-grants-attackers-total-access.html",
-            "summary": "",
-            "published_utc": "2026-08-12T02:40:58+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Patch Tuesday August 2026: A zero-day WinSock driver hole under exploit, and a maximum severity SAP vulnerability",
-            "link": "https://www.csoonline.com/article/4208185/patch-tuesday-august-2026-a-zero-day-winsock-driver-hole-under-exploit-and-a-maximum-severity-sap-vulnerability.html",
-            "summary": "",
-            "published_utc": "2026-08-12T00:45:42+00:00"
         },
         {
             "source": "KrebsOnSecurity",
