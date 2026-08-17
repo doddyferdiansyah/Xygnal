@@ -1,6 +1,13 @@
 {
-    "lastUpdatedUTC": "2026-08-17T15:25:33.463580+00:00",
+    "lastUpdatedUTC": "2026-08-17T16:28:05.034852+00:00",
     "articles": [
+        {
+            "source": "InfosecurityMag",
+            "title": "UNISOC Modem Flaw Enables Remote Code Execution via Video Calls",
+            "link": "https://www.infosecurity-magazine.com/news/unisoc-modem-flaw-rce-calls/",
+            "summary": "UNISOC modem flaw enabled kernel-level code execution through video calls",
+            "published_utc": "2026-08-17T15:45:00+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Microsoft confirms GitHub is down worldwide",
@@ -2723,13 +2730,6 @@
             "link": "https://www.welivesecurity.com/en/business-security/smb-cyber-readiness-what-makes-breaks-it/",
             "summary": "A company that's expecting a cyberattack but hasn’t actively prepared for it risks making the hardest decisions at the worst possible moment",
             "published_utc": "2026-06-10T09:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Microsoft Fixes 200 CVEs in June Patch Tuesday",
-            "link": "https://www.infosecurity-magazine.com/news/microsoft-fixes-200-cves-in-june/",
-            "summary": "Microsoft has patched 200 vulnerabilities including three zero-days",
-            "published_utc": "2026-06-10T08:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
