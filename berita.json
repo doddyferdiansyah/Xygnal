@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-08-17T13:39:31.812503+00:00",
+    "lastUpdatedUTC": "2026-08-17T14:28:08.270517+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Certighost and the Privilege Hiding in Your Certificate Authority",
+            "link": "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/",
+            "summary": "CVE-2026-54121 lets a standard domain user turn your Enterprise CA into a Domain Controller. The patch is the easy part. The lesson is standing privil...",
+            "published_utc": "2026-08-17T14:00:10+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Why data quality dictates security operations success",
+            "link": "https://www.csoonline.com/article/4206800/why-data-quality-dictates-security-operations-success.html",
+            "summary": "",
+            "published_utc": "2026-08-17T13:54:32+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "680,000 Impacted by French Tax Authority Data Breach",
+            "link": "https://www.securityweek.com/680000-impacted-by-french-tax-authority-data-breach/",
+            "summary": "",
+            "published_utc": "2026-08-17T13:53:55+00:00"
+        },
         {
             "source": "InfosecurityMag",
             "title": "WordPress Plugin Flaw Exposes 40,000 Sites to Admin Takeover",
@@ -345,13 +366,6 @@
             "published_utc": "2026-08-14T11:57:51+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Shell investigates 'potential incident' after Clop data theft claims",
-            "link": "https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/",
-            "summary": "Oil giant Shell has confirmed it is investigating a potential security incident after the Clop ransomware gang claimed it stole 89GB of data. [...]",
-            "published_utc": "2026-08-14T11:55:45+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "I used OpenFactory to build my own Linux distro overnight - this AI tool is going to be big",
             "link": "https://www.zdnet.com/article/openfactory-is-an-impressive-new-service-that-allows-you-to-build-your-own-linux-distribution/",
@@ -392,13 +406,6 @@
             "link": "https://www.infosecurity-magazine.com/news/macos-infostealer-spread-clickfix/",
             "summary": "AmnesiaStealer contains novel functions, including the attackers gaining remote control over the victim’s browser to steal cookie data",
             "published_utc": "2026-08-14T10:45:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "1.6 Million Likely Impacted by RingCentral Data Breach",
-            "link": "https://www.securityweek.com/1-6-million-likely-impacted-by-ringcentral-data-breach/",
-            "summary": "",
-            "published_utc": "2026-08-14T10:24:03+00:00"
         },
         {
             "source": "CSO Online",
@@ -686,13 +693,6 @@
             "link": "https://www.infosecurity-magazine.com/news/microsoft-fixes-400-flaws-august/",
             "summary": "Microsoft has issued another massive batch of security updates with 400 fixed in the August Patch Tuesday",
             "published_utc": "2026-08-12T08:12:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "17 old software bugs that took way too long to squash",
-            "link": "https://www.csoonline.com/article/570815/old-software-bugs-that-took-way-too-long-to-squash.html",
-            "summary": "",
-            "published_utc": "2026-08-12T07:30:00+00:00"
         },
         {
             "source": "KrebsOnSecurity",
