@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2026-08-18T11:25:40.218970+00:00",
+    "lastUpdatedUTC": "2026-08-18T12:46:52.800672+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Xpander Raises $7.5 Million for AI Management and Governance",
+            "link": "https://www.securityweek.com/xpander-raises-7-5-million-for-ai-management-and-governance/",
+            "summary": "",
+            "published_utc": "2026-08-18T12:29:08+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Fortinet Acquires AI Security Company Virtue AI",
+            "link": "https://www.securityweek.com/fortinet-acquires-ai-security-company-virtue-ai/",
+            "summary": "",
+            "published_utc": "2026-08-18T12:06:21+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I found an Android magnifier app for my aging eyes that beats camera zoom - and it's free",
+            "link": "https://www.zdnet.com/article/i-found-a-magnifier-tool-that-works-with-any-android-phone/",
+            "summary": "Is the fine print getting harder to read? There's an app that can help with that.",
+            "published_utc": "2026-08-18T11:55:57+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Want to run a full Linux distro on your Android phone? I found the easiest way",
+            "link": "https://www.zdnet.com/article/userland-makes-it-easy-to-run-a-full-linux-distribution-on-an-android-device/",
+            "summary": "Have you ever wanted to run a Linux distribution on your Android device? If so, your best bet is UserLAnd.",
+            "published_utc": "2026-08-18T11:42:32+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I asked Canonical if Ubuntu on Windows will outgrow native installs as rumored - it's a no",
+            "link": "https://www.zdnet.com/article/ubuntu-on-windows-outgrowing-native-installs-not-according-to-canonical/",
+            "summary": "There's some confusion about Ubuntu's popularity on Windows Subsystem for Linux, so I asked Canonical's Jon Seager directly.",
+            "published_utc": "2026-08-18T11:38:16+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Your iPhone's built-in magnifier does way more than help you see the fine print - how to use it",
+            "link": "https://www.zdnet.com/article/how-iphone-magnifier-helps-you-see-the-fine-print/",
+            "summary": "Forgot your glasses? You can easily use your iPhone to read small text, or words from far away. Here's how.",
+            "published_utc": "2026-08-18T11:31:55+00:00"
+        },
         {
             "source": "InfosecurityMag",
             "title": "Cyber Incident Disrupts Student Services at UT San Antonio",
@@ -338,11 +380,11 @@
             "published_utc": "2026-08-17T09:05:33+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Recent macOS Screen Sharing Vulnerability Exploited in Attacks",
-            "link": "https://www.securityweek.com/recent-macos-screen-sharing-vulnerability-exploited-in-attacks/",
-            "summary": "",
-            "published_utc": "2026-08-17T08:47:38+00:00"
+            "source": "WeLiveSecurity",
+            "title": "How QR-code phishing can slip past corporate security measures",
+            "link": "https://www.welivesecurity.com/en/business-security/qr-code-phishing-slip-past-corporate-security-measures/",
+            "summary": "Quishing has become a popular alternative to traditional phishing. Here’s how businesses can close the gap.",
+            "published_utc": "2026-08-17T09:00:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -357,13 +399,6 @@
             "link": "https://www.csoonline.com/article/4208210/what-the-ciso-role-will-look-like-in-2029.html",
             "summary": "",
             "published_utc": "2026-08-17T08:25:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Critical SAP Commerce Cloud Vulnerability Exploited 3 Days After Disclosure",
-            "link": "https://www.securityweek.com/critical-sap-commerce-cloud-vulnerability-exploited-3-days-after-disclosure/",
-            "summary": "",
-            "published_utc": "2026-08-17T08:13:07+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -450,39 +485,11 @@
             "published_utc": "2026-08-14T16:54:29+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I tested an Android app that lets anyone fight censorship - and shows your impact in real time",
-            "link": "https://www.zdnet.com/article/snowflake-volunteer-censorship-fighting-android-app-tor/",
-            "summary": "Most apps make our personal lives easier. This one helps the oppressed communicate by turning your phone into a Tor proxy. No technical knowledge needed.",
-            "published_utc": "2026-08-14T16:15:34+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Apple is warning users of new spyware attacks - what to do if you're a target",
-            "link": "https://www.zdnet.com/article/apple-warns-targetted-spyware-attacks-what-to-do/",
-            "summary": "New spyware attacks are aimed at journalists, activists, politicians, diplomats, and others. Here's how Apple is notifying them and what they should d...",
-            "published_utc": "2026-08-14T16:08:11+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Upcoming Speaking Engagements",
             "link": "https://www.schneier.com/blog/archives/2026/08/upcoming-speaking-engagements-59.html",
             "summary": "",
             "published_utc": "2026-08-14T16:01:59+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "ChatGPT's new Computer History tracks your Mac activity to create a timeline -  but should you let it?",
-            "link": "https://www.zdnet.com/article/chatgpt-computer-history/",
-            "summary": "Rolling out to ChatGPT's Mac app, Computer History creates a timeline from your activities across the apps and websites you use on your Mac. Is that a...",
-            "published_utc": "2026-08-14T16:00:16+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Dell XPS 13 review: The first budget laptop to rival Neo raises the bar for all PCs",
-            "link": "https://www.zdnet.com/article/dell-xps-13-spotlight/",
-            "summary": "The Dell XPS 13 flaunts build quality rarely seen at this price point, but not without trade-offs.",
-            "published_utc": "2026-08-14T16:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -3248,13 +3255,6 @@
             "link": "https://www.welivesecurity.com/en/eset-research/plushdaemon-compromises-network-devices-for-adversary-in-the-middle-attacks/",
             "summary": "ESET researchers have discovered a network implant used by the China-aligned PlushDaemon APT group to perform adversary-in-the-middle attacks",
             "published_utc": "2025-11-19T09:55:00+00:00"
-        },
-        {
-            "source": "WeLiveSecurity",
-            "title": "What if your romantic AI chatbot can’t keep a secret?",
-            "link": "https://www.welivesecurity.com/en/privacy/romantic-ai-chatbot-keep-secret/",
-            "summary": "Does your chatbot know too much? Here's why you should think twice before you tell your AI companion everything.",
-            "published_utc": "2025-11-17T10:00:00+00:00"
         },
         {
             "source": "Threatpost",
