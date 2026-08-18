@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-08-18T07:38:23.447695+00:00",
+    "lastUpdatedUTC": "2026-08-18T08:37:22.740059+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "AI can find zero-days but still can’t reliably write secure code",
+            "link": "https://www.csoonline.com/article/4210735/ai-can-find-zero-days-but-still-cant-reliably-write-secure-code.html",
+            "summary": "",
+            "published_utc": "2026-08-18T08:25:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "UK Legal Regulator Raises AI Misuse Concerns",
+            "link": "https://www.infosecurity-magazine.com/news/uk-legal-regulator-raises-ai/",
+            "summary": "Solicitors Regulation Authority sounds the alarm over AI hallucinations and data leaks",
+            "published_utc": "2026-08-18T08:17:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft starts removing WMIC tool used by cybercriminals",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wmic-lolbin-tool-in-windows-11-beta-builds/",
+            "summary": "Microsoft announced that it removed the Windows Management Instrumentation Command-line (WMIC) tool from Windows 11 24H2 and 25H2, as well as from Win...",
+            "published_utc": "2026-08-18T08:12:08+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Dozens of WebKit Vulnerabilities Patched With Fresh macOS, iOS Security Updates",
@@ -212,13 +233,6 @@
             "published_utc": "2026-08-17T09:05:33+00:00"
         },
         {
-            "source": "WeLiveSecurity",
-            "title": "How QR-code phishing can slip past corporate security measures",
-            "link": "https://www.welivesecurity.com/en/business-security/qr-code-phishing-slip-past-corporate-security-measures/",
-            "summary": "Quishing has become a popular alternative to traditional phishing. Here’s how businesses can close the gap.",
-            "published_utc": "2026-08-17T09:00:00+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "Recent macOS Screen Sharing Vulnerability Exploited in Attacks",
             "link": "https://www.securityweek.com/recent-macos-screen-sharing-vulnerability-exploited-in-attacks/",
@@ -350,13 +364,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-searching-for-the-colossal-squid-2.html",
             "summary": "",
             "published_utc": "2026-08-14T21:01:49+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Hackers arrested over €30M bank fraud exploiting service provider flaw",
-            "link": "https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/",
-            "summary": "Four cybercriminals were arrested in Brazil, and three others were charged in Europe over allegations that they exploited a vulnerability at a service...",
-            "published_utc": "2026-08-14T18:04:26+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -693,13 +700,6 @@
             "link": "https://www.infosecurity-magazine.com/news/attack-polish-power-plant-2025-led/",
             "summary": "The Polish CERT has released details of another 2025 attack on a combined heat and power plant in the country",
             "published_utc": "2026-08-12T09:30:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "4 gaps slowing AI in enterprise SOCs",
-            "link": "https://www.csoonline.com/article/4208086/4-gaps-slowing-ai-in-enterprise-socs.html",
-            "summary": "",
-            "published_utc": "2026-08-12T09:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2725,13 +2725,6 @@
             "published_utc": "2026-06-10T11:00:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "Over a Quarter of Identity Crime Victims Hit by Multiple Incidents, ITRC Data Shows",
-            "link": "https://www.infosecurity-magazine.com/news/quarter-identity-crime-victims/",
-            "summary": "Nearly 26% of identity crime victims faced multiple incidents in the past year, as ITRC warns of a growing \"multi-layered crisis\"",
-            "published_utc": "2026-06-10T10:15:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "Unpacking SMB cyber-readiness – and what makes or breaks it",
             "link": "https://www.welivesecurity.com/en/business-security/smb-cyber-readiness-what-makes-breaks-it/",
@@ -3255,6 +3248,13 @@
             "link": "https://www.welivesecurity.com/en/eset-research/plushdaemon-compromises-network-devices-for-adversary-in-the-middle-attacks/",
             "summary": "ESET researchers have discovered a network implant used by the China-aligned PlushDaemon APT group to perform adversary-in-the-middle attacks",
             "published_utc": "2025-11-19T09:55:00+00:00"
+        },
+        {
+            "source": "WeLiveSecurity",
+            "title": "What if your romantic AI chatbot can’t keep a secret?",
+            "link": "https://www.welivesecurity.com/en/privacy/romantic-ai-chatbot-keep-secret/",
+            "summary": "Does your chatbot know too much? Here's why you should think twice before you tell your AI companion everything.",
+            "published_utc": "2025-11-17T10:00:00+00:00"
         },
         {
             "source": "Threatpost",
