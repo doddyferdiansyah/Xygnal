@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2026-08-18T14:33:51.119715+00:00",
+    "lastUpdatedUTC": "2026-08-18T15:32:08.864753+00:00",
     "articles": [
+        {
+            "source": "InfosecurityMag",
+            "title": "Wiz AI Agent Finds Critical Snowflake GitHub Repo Flaw Advanced Security Missed",
+            "link": "https://www.infosecurity-magazine.com/news/wiz-ai-agent-finds-snowflake/",
+            "summary": "The security flaw in Snowflake’s GitHub Actions workflow had been missed by a GitHub Advanced Security scan, said a Wiz researcher",
+            "published_utc": "2026-08-18T15:30:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Google's AI can see your business data by default in Workspace - unless you disable it",
+            "link": "https://www.zdnet.com/article/googles-ai-can-see-your-business-data-by-default-in-workspace-unless-you-disable-it/",
+            "summary": "In Google Workspace, Gemini has access to Gmail, Docs, Calendar, Chat, and more by default. Here's why it matters, and how administrators can disable ...",
+            "published_utc": "2026-08-18T15:11:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Webinar Today: Rethinking Cyber Defense for AI-Speed Attacks",
+            "link": "https://www.securityweek.com/webinar-today-rethinking-cyber-defense-for-ai-speed-attacks/",
+            "summary": "",
+            "published_utc": "2026-08-18T15:03:30+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Enterprise Applications Carry 4.31x More Critical and High Vulnerabilities",
+            "link": "https://www.infosecurity-magazine.com/news/enterprise-apps-critical-high/",
+            "summary": "Enterprise software creation has accelerated as vulnerability levels rise, Sonatype finds",
+            "published_utc": "2026-08-18T15:00:00+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "Meta Ran Ads for an App That Promised to Nudify Female Politicians",
+            "link": "https://www.wired.com/story/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
+            "summary": "One advertisement featured a pornographic video with a deepfake closely resembling a prominent US politician. Apple removed the app from the App Store...",
+            "published_utc": "2026-08-18T14:45:33+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Microsoft reveals customizable context menu for Windows users - how to try it out",
@@ -265,7 +300,7 @@
             "title": "Business adoption of AI agents tripled this year - as measurable ROI emerges",
             "link": "https://www.zdnet.com/article/ai-agent-adoption-tripled-measurable-roi/",
             "summary": "Industries are finding the strategies that work best for their business needs, according to Salesforce's latest Agentic Enterprise Index.",
-            "published_utc": "2026-08-17T18:35:45+00:00"
+            "published_utc": "2026-08-17T18:35:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -345,25 +380,11 @@
             "published_utc": "2026-08-17T12:12:01+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Irregular Details How a Naming Error Let AI Models Attack a Real Company",
-            "link": "https://www.securityweek.com/irregular-details-how-a-naming-error-let-ai-models-attack-a-real-company/",
-            "summary": "",
-            "published_utc": "2026-08-17T12:11:00+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "This Google Play Store trick saved me over $100 on the Pixel 11 Pro XL - here's how",
             "link": "https://www.zdnet.com/article/this-google-play-store-trick-might-save-you-up-to-175-on-the-pixel-11-heres-how-to-do-it/",
             "summary": "Here's how I saved hundreds on a new phone and watch in just a few seconds.",
             "published_utc": "2026-08-17T12:04:21+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Google Workspace lets Gemini access your company data by default - how to shut it down",
-            "link": "https://www.zdnet.com/article/google-workspace-lets-gemini-access-your-company-data-by-default-how-to-shut-it-down/",
-            "summary": "In Google Workspace, Gemini has access to Gmail, Docs, Calendar, Chat, and more by default. Here's why it matters, and how administrators can disable ...",
-            "published_utc": "2026-08-17T11:38:51+00:00"
         },
         {
             "source": "CSO Online",
@@ -1435,13 +1456,6 @@
             "link": "https://www.wired.com/story/dhs-official-resigns-citing-war-on-immigrants/",
             "summary": "The outgoing executive director of the Office of Homeland Security Statistics is one of very few federal officials to speak out against the Trump admi...",
             "published_utc": "2026-07-27T20:34:04+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "Private Claude Chats Exposed in Google and Bing Search Results",
-            "link": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/",
-            "summary": "The screwup shows how tricky it can be to stop web crawlers from making ostensibly private conversations with AI chatbots entirely too public.",
-            "published_utc": "2026-07-27T20:08:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2711,25 +2725,11 @@
             "published_utc": "2026-06-11T10:20:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "New “Agentjacking” Attacks Could Hijack AI Coding Agents",
-            "link": "https://www.infosecurity-magazine.com/news/agentjacking-attacks-hijack-ai/",
-            "summary": "Tenet Security researchers reveal how new “agentjacking” attacks could trick coding agents into executing arbitrary code",
-            "published_utc": "2026-06-11T09:15:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "OceanLotus: From external espionage to domestic targeting",
             "link": "https://www.welivesecurity.com/en/eset-research/oceanlotus-external-espionage-domestic-targeting/",
             "summary": "A shift in operational pattern of the infamous Vietnam-aligned APT group",
             "published_utc": "2026-06-11T08:45:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Fake Software Tutorials on TikTok Spread Vidar Stealer",
-            "link": "https://www.infosecurity-magazine.com/news/fake-software-videos-tiktok-vidar/",
-            "summary": "Threat actors push fake free-software tutorials on TikTok and Instagram to spread Vidar stealer",
-            "published_utc": "2026-06-10T16:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
