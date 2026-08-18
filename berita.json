@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2026-08-18T13:42:03.707611+00:00",
+    "lastUpdatedUTC": "2026-08-18T14:33:51.119715+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "Microsoft reveals customizable context menu for Windows users - how to try it out",
+            "link": "https://www.zdnet.com/article/microsoft-customizable-context-menu-windows-11/",
+            "summary": "You'll be able to tweak the right-click context menus in Windows to remove items you don't want, thereby decreasing the clutter.",
+            "published_utc": "2026-08-18T14:30:25+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "CISO Conversations: Nico Waisman – From Self-Taught Hacker to AI-Driven Offensive Security at XBOW",
+            "link": "https://www.securityweek.com/ciso-conversations-nico-waisman-from-self-taught-hacker-to-ai-driven-offensive-security-at-xbow/",
+            "summary": "",
+            "published_utc": "2026-08-18T14:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "NASA Ground Control Software Flaw Enables Unauthenticated Commands",
+            "link": "https://www.infosecurity-magazine.com/news/nasa-ground-control-software-flaw/",
+            "summary": "Critical AIT-GUI flaws expose spacecraft commands and scripts to unauthenticated attackers",
+            "published_utc": "2026-08-18T14:30:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Apple's iOS 26.6.1 patches 29 security flaws - here's why you'll want to install it",
+            "link": "https://www.zdnet.com/article/apples-ios-26-6-1-29-security-flaws/",
+            "summary": "Along with MacOS and iPadOS, the latest update to iOS fixes a host of security bugs that could otherwise leave your device vulnerable to compromise or...",
+            "published_utc": "2026-08-18T14:12:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Your Controls Block Known Attacks. What About the Behavior?",
+            "link": "https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/",
+            "summary": "Security controls can block a familiar attack method while missing quieter ways to achieve the same objective. Picus Security's Blue Report 2026 shows...",
+            "published_utc": "2026-08-18T14:01:11+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "How to avoid Claude watermarking your content",
@@ -359,13 +394,6 @@
             "published_utc": "2026-08-17T11:15:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Conflicting Test Goals Pushed Claude Agents to Deploy Self-Replicating Malware",
-            "link": "https://www.securityweek.com/conflicting-test-goals-pushed-claude-agents-to-deploy-self-replicating-malware/",
-            "summary": "",
-            "published_utc": "2026-08-17T11:09:57+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "French tax authority data breach affects 678,000 individuals",
             "link": "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/",
@@ -436,13 +464,6 @@
             "published_utc": "2026-08-16T22:28:57+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Large-scale DDoS attacks disrupted Threema secure messaging service",
-            "link": "https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/",
-            "summary": "Multiple distributed denial-of-service (DDoS) attacks targeted the Threema secure messaging service earlier this week, causing severe disruptions to c...",
-            "published_utc": "2026-08-16T17:29:52+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "The Pixel's new 'HiLight' reminds me of the golden days of Android phones",
             "link": "https://www.zdnet.com/article/google-pixel-11-pro-hilight-feature-android-golden-days/",
@@ -455,20 +476,6 @@
             "link": "https://www.zdnet.com/article/google-pixel-11-pro-vs-apple-iphone-17-pro/",
             "summary": "I've tested both phones, and they're neck and neck. Here's where they each succeed (and have room for improvement).",
             "published_utc": "2026-08-16T10:45:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Google Pixel 11 vs. Pixel 9: Why I'm considering the upgrade this year",
-            "link": "https://www.zdnet.com/article/google-pixel-11-vs-pixel-9/",
-            "summary": "If you didn't upgrade last year (or the year before), there's a good case to be made for the new Pixel 11.",
-            "published_utc": "2026-08-16T10:15:45+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "No space for bookshelf speakers? The Victrola Soundstage sits neatly under my turntable",
-            "link": "https://www.zdnet.com/article/victrola-soundstage-review/",
-            "summary": "The Victrola Soundstage is ideal for those who want to build their vinyl system up rather than out, with plenty of digital and analog connections for ...",
-            "published_utc": "2026-08-15T10:00:42+00:00"
         },
         {
             "source": "WIRED Security",
@@ -2723,13 +2730,6 @@
             "link": "https://www.infosecurity-magazine.com/news/fake-software-videos-tiktok-vidar/",
             "summary": "Threat actors push fake free-software tutorials on TikTok and Instagram to spread Vidar stealer",
             "published_utc": "2026-06-10T16:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "New SilabRAT Trojan Hijacks Sessions to Steal Crypto",
-            "link": "https://www.infosecurity-magazine.com/news/silabrat-trojan-session-hijacking/",
-            "summary": "MaaS trojan SilabRAT uses HVNC and browser cloning to hijack sessions and steal crypto",
-            "published_utc": "2026-06-10T15:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
