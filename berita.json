@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2026-08-18T08:37:22.740059+00:00",
+    "lastUpdatedUTC": "2026-08-18T09:34:13.747327+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft confirms outage affecting search in Microsoft 365 apps",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-bug-behind-microsoft-365-search-issues/",
+            "summary": "Microsoft says some users are experiencing issues searching in Microsoft 365 apps, including Outlook on the web, Outlook desktop, SharePoint Online, a...",
+            "published_utc": "2026-08-18T09:24:49+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Heights Finance Data Breach Impacts at Least 1.2 Million Individuals",
+            "link": "https://www.securityweek.com/heights-finance-data-breach-impacts-at-least-1-2-million-individuals/",
+            "summary": "",
+            "published_utc": "2026-08-18T09:18:34+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Finally, smart blinds that actually match my home's decor - here's why they're worth it",
+            "link": "https://www.zdnet.com/article/selectblinds-smart-shades-and-blinds-review/",
+            "summary": "The SelectBlinds window treatments come in dozens of styles and designs, so you don't have to sacrifice aesthetics for convenience.",
+            "published_utc": "2026-08-18T09:16:37+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "What you say during a cyber breach can — and will — be used against you",
+            "link": "https://www.csoonline.com/article/4210677/what-you-say-during-a-cyber-breach-can-and-will-be-used-against-you.html",
+            "summary": "",
+            "published_utc": "2026-08-18T09:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "GitLab Patches Critical Code Injection Vulnerability",
+            "link": "https://www.securityweek.com/gitlab-patches-critical-code-injection-vulnerability/",
+            "summary": "",
+            "published_utc": "2026-08-18T08:51:07+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "AI can find zero-days but still can’t reliably write secure code",
@@ -80,7 +115,7 @@
         },
         {
             "source": "ZDNet Security",
-            "title": "Google wants you to use its phones less and its AI more - but who's buying it?",
+            "title": "Google wants you to use its phones less and its AI more - but I'm skeptical",
             "link": "https://www.zdnet.com/article/google-wants-you-to-use-its-phones-less-and-its-ai-more/",
             "summary": "Google is leveraging our poor relationship to technology to sell its new phones - the same relationship it had a hand in creating.",
             "published_utc": "2026-08-17T17:10:00+00:00"
@@ -233,6 +268,13 @@
             "published_utc": "2026-08-17T09:05:33+00:00"
         },
         {
+            "source": "WeLiveSecurity",
+            "title": "How QR-code phishing can slip past corporate security measures",
+            "link": "https://www.welivesecurity.com/en/business-security/qr-code-phishing-slip-past-corporate-security-measures/",
+            "summary": "Quishing has become a popular alternative to traditional phishing. Here’s how businesses can close the gap.",
+            "published_utc": "2026-08-17T09:00:00+00:00"
+        },
+        {
             "source": "SecurityWeek",
             "title": "Recent macOS Screen Sharing Vulnerability Exploited in Attacks",
             "link": "https://www.securityweek.com/recent-macos-screen-sharing-vulnerability-exploited-in-attacks/",
@@ -345,13 +387,6 @@
             "published_utc": "2026-08-15T10:00:42+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "How Anthropic plans to watermark Claude's AI-generated text",
-            "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/",
-            "summary": "It could soon become easier to identify AI-generated content, even if it's not the usual \"It's Not X, it's Y\" type of post you'd come across on Linked...",
-            "published_utc": "2026-08-14T23:24:17+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "New York City Lawmakers Push to ‘Ban the Scan’ at MSG",
             "link": "https://www.wired.com/story/new-york-city-lawmakers-push-to-ban-the-scan-at-msg/",
@@ -436,25 +471,11 @@
             "published_utc": "2026-08-14T13:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "In Other News: Rapid7 Layoffs, Hacking a Boeing 737, Refrigeration System Vulnerabilities",
-            "link": "https://www.securityweek.com/in-other-news-rapid7-layoffs-hacking-a-boeing-737-refrigeration-system-vulnerabilities/",
-            "summary": "",
-            "published_utc": "2026-08-14T11:57:51+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "I used OpenFactory to build my own Linux distro overnight - this AI tool is going to be big",
             "link": "https://www.zdnet.com/article/openfactory-is-an-impressive-new-service-that-allows-you-to-build-your-own-linux-distribution/",
             "summary": "Need a custom Linux distribution, but don't have time to learn how to build one? OpenFactory can help you.",
             "published_utc": "2026-08-14T11:53:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Trivy, Not LiteLLM Behind the 2,500 Org Compromise",
-            "link": "https://www.securityweek.com/trivy-not-litellm-behind-the-2500-org-compromise/",
-            "summary": "",
-            "published_utc": "2026-08-14T11:35:23+00:00"
         },
         {
             "source": "KrebsOnSecurity",
@@ -511,13 +532,6 @@
             "link": "https://www.csoonline.com/article/4209429/5-key-takeaways-from-black-hat-usa-2026.html",
             "summary": "",
             "published_utc": "2026-08-14T02:45:14+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "This free Android assistant fixes my biggest Gemini frustration - and keeps my data private",
-            "link": "https://www.zdnet.com/article/dicio-free-android-assistant-gemini-keeps-data-private/",
-            "summary": "With Google set to retire Assistant, and Gemini not exactly the replacement many of us want, Dicio is a solid option. There's one catch.",
-            "published_utc": "2026-08-14T00:00:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -672,13 +686,6 @@
             "link": "https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/",
             "summary": "Security researchers found that in less than 60 seconds, they could open a hatch on a plane’s exterior, plug in a tiny device, and redirect the aircra...",
             "published_utc": "2026-08-12T12:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Fake CCleaner downloads turn Chrome into a credential-stealing surveillance tool",
-            "link": "https://www.csoonline.com/article/4208565/fake-ccleaner-downloads-turn-chrome-into-a-credential-stealing-surveillance-tool.html",
-            "summary": "",
-            "published_utc": "2026-08-12T11:26:50+00:00"
         },
         {
             "source": "WIRED Security",
@@ -3248,13 +3255,6 @@
             "link": "https://www.welivesecurity.com/en/eset-research/plushdaemon-compromises-network-devices-for-adversary-in-the-middle-attacks/",
             "summary": "ESET researchers have discovered a network implant used by the China-aligned PlushDaemon APT group to perform adversary-in-the-middle attacks",
             "published_utc": "2025-11-19T09:55:00+00:00"
-        },
-        {
-            "source": "WeLiveSecurity",
-            "title": "What if your romantic AI chatbot can’t keep a secret?",
-            "link": "https://www.welivesecurity.com/en/privacy/romantic-ai-chatbot-keep-secret/",
-            "summary": "Does your chatbot know too much? Here's why you should think twice before you tell your AI companion everything.",
-            "published_utc": "2025-11-17T10:00:00+00:00"
         },
         {
             "source": "Threatpost",
