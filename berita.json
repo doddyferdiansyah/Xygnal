@@ -1,6 +1,55 @@
 {
-    "lastUpdatedUTC": "2026-08-19T08:37:57.411699+00:00",
+    "lastUpdatedUTC": "2026-08-19T09:34:25.603912+00:00",
     "articles": [
+        {
+            "source": "InfosecurityMag",
+            "title": "ICO Urges Police to Improve Data Governance in Facial Recognition Rollouts",
+            "link": "https://www.infosecurity-magazine.com/news/ico-police-data-governance-facial/",
+            "summary": "The UK’s privacy watchdog has called on police using facial recognition to follow its recommendations",
+            "published_utc": "2026-08-19T09:30:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "943 Patches Rolled Out With Oracle’s August 2026 Security Update",
+            "link": "https://www.securityweek.com/943-patches-rolled-out-with-oracles-august-2026-security-update/",
+            "summary": "",
+            "published_utc": "2026-08-19T09:14:51+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Windows 11 24H2 Home and Pro reach end of support in 2 months",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-2-months/",
+            "summary": "Microsoft has reminded customers that systems running Home and Pro editions of Windows 11 24H2 will stop receiving updates in two months. [...]",
+            "published_utc": "2026-08-19T09:10:20+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Most organizations aren’t ready for a Hugging Face-level event",
+            "link": "https://www.csoonline.com/article/4211112/most-organizations-arent-ready-for-a-hugging-face-level-event.html",
+            "summary": "",
+            "published_utc": "2026-08-19T09:00:00+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
+            "link": "https://www.wired.com/story/flock-safety-os-investigate/",
+            "summary": "Flock’s surveillance cameras have already sparked outrage. WIRED reconstructed its next-generation AI system, already in use by some police, to confir...",
+            "published_utc": "2026-08-19T09:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "If you use AI, Firefox is the browser to beat right now - here's why",
+            "link": "https://www.zdnet.com/article/firefox-smart-window-ai-browser-tools/",
+            "summary": "Mozilla has finally released the beta of Firefox Smart Window. I ran it through its paces and found features that might lure me back to my old favorit...",
+            "published_utc": "2026-08-19T08:54:17+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "UK Fraud Cases Hit Record High in 2026",
+            "link": "https://www.infosecurity-magazine.com/news/uk-fraud-cases-hit-record-high/",
+            "summary": "Cifas data finds account takeover and identity fraud are driving a surge in fraud cases",
+            "published_utc": "2026-08-19T08:45:00+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "CISOs are struggling to threat-model AI. Can 15-minute sessions help?",
@@ -345,13 +394,6 @@
             "published_utc": "2026-08-18T09:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "GitLab Patches Critical Code Injection Vulnerability",
-            "link": "https://www.securityweek.com/gitlab-patches-critical-code-injection-vulnerability/",
-            "summary": "",
-            "published_utc": "2026-08-18T08:51:07+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "AI can find zero-days but still can’t reliably write secure code",
             "link": "https://www.csoonline.com/article/4210735/ai-can-find-zero-days-but-still-cant-reliably-write-secure-code.html",
@@ -399,13 +441,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/",
             "summary": "Pokémon Center is notifying customers in the United Kingdom and Germany that it suffered a third-party data breach after hackers stole customer person...",
             "published_utc": "2026-08-17T19:12:39+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Business adoption of AI agents tripled this year - as measurable ROI emerges",
-            "link": "https://www.zdnet.com/article/ai-agent-adoption-tripled-measurable-roi/",
-            "summary": "Industries are finding the strategies that work best for their business needs, according to Salesforce's latest Agentic Enterprise Index.",
-            "published_utc": "2026-08-17T18:35:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -483,13 +518,6 @@
             "link": "https://www.infosecurity-magazine.com/news/etsi-proposes-17-cybersecurity/",
             "summary": "The European Telecommunications Standards Institute has launched an approval process for standards vendors will have to meet under the Cyber Resilienc...",
             "published_utc": "2026-08-17T11:15:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "French tax authority data breach affects 678,000 individuals",
-            "link": "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/",
-            "summary": "The French Ministry of the Economy and Finance has disclosed a data breach after an attacker accessed the General Directorate of Public Finances (DGFi...",
-            "published_utc": "2026-08-17T10:09:48+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -665,13 +693,6 @@
             "link": "https://www.infosecurity-magazine.com/news/vcenter-cve-2026-59310-exploited/",
             "summary": "Attackers exploited a critical-severity vCenter flaw five days after Broadcom disclosed it",
             "published_utc": "2026-08-13T14:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "AI agents wage near-autonomous cyberattack on Asian government networks",
-            "link": "https://www.csoonline.com/article/4209210/ai-agents-wage-near-autonomous-cyberattack-on-asian-government-networks.html",
-            "summary": "",
-            "published_utc": "2026-08-13T13:23:10+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1449,13 +1470,6 @@
             "link": "https://www.infosecurity-magazine.com/news/crest-ai-pentesting-accreditation/",
             "summary": "CREST’s new AI standards are optional add-on requirements for cybersecurity service providers wishing to demonstrate responsible AI usage",
             "published_utc": "2026-07-28T08:57:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "Hugging Face Has a Deepfake Nudes Problem",
-            "link": "https://www.wired.com/story/hugging-face-has-a-nonconsensual-deepfakes-problem/",
-            "summary": "Researchers tested top image editing models on Hugging Face and found they could easily create explicit deepfakes—and 1,000 image editing prompts show...",
-            "published_utc": "2026-07-28T05:30:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2709,20 +2723,6 @@
             "link": "https://www.infosecurity-magazine.com/news/cybersecurity-training-time/",
             "summary": "Organizations are aware of the challenges that new technologies like AI bring: but cybersecurity staff struggle to make time for the required training...",
             "published_utc": "2026-06-11T12:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Interpol Dismantles SniperDz Phishing-as-a-Service Platform",
-            "link": "https://www.infosecurity-magazine.com/news/interpol-dismantles-sniperdz/",
-            "summary": "New revelations by Group-IB expose the full scale of the decade-old SniperDz phishing operation",
-            "published_utc": "2026-06-11T11:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Extortion-Only Attacks Increase, With Data Theft Dominating Ransomware Claims",
-            "link": "https://www.infosecurity-magazine.com/news/extortion-only-attacks-surge/",
-            "summary": "Extortion-only attacks are increasing as data theft drives most ransomware claims, with many organizations unable to stop stolen data from being exposed",
-            "published_utc": "2026-06-11T10:20:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
