@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2026-08-19T15:31:48.252749+00:00",
+    "lastUpdatedUTC": "2026-08-19T16:32:11.408837+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "I replaced my Samsung with the Google Pixel 11 Pro Fold - a week later, I'm going back",
+            "link": "https://www.zdnet.com/article/google-pixel-11-pro-fold-review/",
+            "summary": "The subtle changes are nice, but not enough to justify spending $1,900 on Google's latest foldable phone when better alternatives exist.",
+            "published_utc": "2026-08-19T16:01:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I've tested dozens of rugged smartwatches - this one's battery is on a different level",
+            "link": "https://www.zdnet.com/article/suunto-core-2-review/",
+            "summary": "The Suunto Core 2 provides key outdoor metrics, storm alerts, and up to 15 months of battery life.",
+            "published_utc": "2026-08-19T16:01:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Pixel 11 XL Pro: Google's big flagship is more Pro than ever, but the camera is no big thing",
+            "link": "https://www.zdnet.com/article/pixel-11-pro-xl-review/",
+            "summary": "The Pixel 11 Pro XL has some gorgeous hardware and some neat AI tricks, but the cameras need good lighting to shine.",
+            "published_utc": "2026-08-19T16:00:46+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "US charges Iranian hackers over $3.4 billion intellectual property theft",
+            "link": "https://www.bleepingcomputer.com/news/security/us-charges-iranian-hackers-over-34-billion-intellectual-property-theft/",
+            "summary": "The U.S. has charged 17 Iranians, alleged members of a hacking-for-hire company called Mabna Institute, involved in years-long operations that stole d...",
+            "published_utc": "2026-08-19T15:56:09+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I tried the Fairphone 6+ and - hoo boy! - this repairable phone could be the one",
+            "link": "https://www.zdnet.com/article/repairable-phones-finally-hit-the-us-market/",
+            "summary": "Fairphone is finally selling its latest model in the US. The $649 handset has 12 swappable parts, and a replacement battery is only $40. This is truly...",
+            "published_utc": "2026-08-19T15:53:08+00:00"
+        },
         {
             "source": "InfosecurityMag",
             "title": "Exclusive: Linux Foundation's Akrites to Go Live in September",
@@ -331,32 +366,11 @@
             "published_utc": "2026-08-18T15:51:37+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Ubuntu on Windows outgrowing native installs? Not according to Canonical's Jon Seager",
-            "link": "https://www.zdnet.com/article/ubuntu-on-windows-outgrowing-native-installs-not-according-to-canonicals-jon-seager/",
-            "summary": "There's some confusion about Ubuntu's popularity on Windows Subsystem for Linux, so I asked Canonical directly.",
-            "published_utc": "2026-08-18T15:44:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "T-Mobile will cover your first month of 5G home internet and give you up to $200 back - here's how",
-            "link": "https://www.zdnet.com/article/t-mobile-5g-home-internet-deal-month-200-back/",
-            "summary": "The latest T-Mobile 5G Home Internet offer will get you a first month on T-Mobile and up to $200 back, with a price that won't change for five years.",
-            "published_utc": "2026-08-18T15:33:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Wiz AI Agent Finds Critical Snowflake GitHub Repo Flaw Advanced Security Missed",
             "link": "https://www.infosecurity-magazine.com/news/wiz-ai-agent-finds-snowflake/",
             "summary": "The security flaw in Snowflake’s GitHub Actions workflow had been missed by a GitHub Advanced Security scan, said a Wiz researcher",
             "published_utc": "2026-08-18T15:30:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Google's AI can see your business data by default in Workspace - unless you disable it",
-            "link": "https://www.zdnet.com/article/googles-ai-can-see-your-business-data-by-default-in-workspace-unless-you-disable-it/",
-            "summary": "In Google Workspace, Gemini has access to Gmail, Docs, Calendar, Chat, and more by default. Here's why it matters, and how administrators can disable ...",
-            "published_utc": "2026-08-18T15:11:00+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -378,13 +392,6 @@
             "link": "https://www.wired.com/story/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
             "summary": "One advertisement featured a pornographic video with a deepfake closely resembling a prominent US politician. Apple removed the app from the App Store...",
             "published_utc": "2026-08-18T14:45:33+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Microsoft reveals customizable context menu for Windows users - how to try it out",
-            "link": "https://www.zdnet.com/article/microsoft-customizable-context-menu-windows-11/",
-            "summary": "You'll be able to tweak the right-click context menus in Windows to remove items you don't want, thereby decreasing the clutter.",
-            "published_utc": "2026-08-18T14:30:25+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -525,13 +532,6 @@
             "link": "https://www.infosecurity-magazine.com/news/unisoc-modem-flaw-rce-calls/",
             "summary": "UNISOC modem flaw enabled kernel-level code execution through video calls",
             "published_utc": "2026-08-17T15:45:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft confirms GitHub is down worldwide",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/",
-            "summary": "GitHub is down for some users as a widespread outage is causing errors across the website, API, Actions, Pull Requests, and several other services. [...]",
-            "published_utc": "2026-08-17T14:47:08+00:00"
         },
         {
             "source": "CSO Online",
