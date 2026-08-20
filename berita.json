@@ -1,6 +1,20 @@
 {
-    "lastUpdatedUTC": "2026-08-20T14:36:38.138254+00:00",
+    "lastUpdatedUTC": "2026-08-20T15:34:23.895002+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Hackers Target Zimbra Servers in Active Exploitation Campaign",
+            "link": "https://www.securityweek.com/hackers-target-zimbra-servers-in-active-exploitation-campaign/",
+            "summary": "",
+            "published_utc": "2026-08-20T14:50:49+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
+            "summary": "A critical vulnerability in the Elementor Pro WordPress plugin could allow attackers to upload executable files for remote code execution on the serve...",
+            "published_utc": "2026-08-20T14:39:48+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Surveillance – Everything You Wanted to Know, But Were Afraid to Ask",
@@ -90,7 +104,7 @@
             "title": "You can earn your Google Al Professional Certificate for free - and I highly recommend it",
             "link": "https://www.zdnet.com/article/you-can-earn-your-google-al-professional-certificate-for-free/",
             "summary": "From AI fundamentals to data analysis and app building, Google's certificate covers quite a lot. And there's a way to avoid paying anything to earn yo...",
-            "published_utc": "2026-08-20T11:49:14+00:00"
+            "published_utc": "2026-08-20T11:49:00+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -205,13 +219,6 @@
             "published_utc": "2026-08-20T07:48:24+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Hackers Using AI to Target Siemens PLCs in Critical US Sectors",
-            "link": "https://www.securityweek.com/hackers-using-ai-to-target-siemens-plcs-in-critical-us-sectors/",
-            "summary": "",
-            "published_utc": "2026-08-20T07:02:02+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Microsoft says August Windows updates may cause gaming issues",
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/",
@@ -304,16 +311,16 @@
         },
         {
             "source": "ZDNet Security",
-            "title": "I've tested dozens of rugged smartwatches - this one's battery is on a different level",
-            "link": "https://www.zdnet.com/article/suunto-core-2-review/",
-            "summary": "The Suunto Core 2 provides key outdoor metrics, storm alerts, and up to 15 months of battery life.",
+            "title": "I replaced my Samsung with the Google Pixel 11 Pro Fold - a week later, I'm going back",
+            "link": "https://www.zdnet.com/article/google-pixel-11-pro-fold-review/",
+            "summary": "The subtle changes are nice, but not enough to justify spending $1,900 on Google's latest foldable phone when better alternatives exist.",
             "published_utc": "2026-08-19T16:01:00+00:00"
         },
         {
             "source": "ZDNet Security",
-            "title": "I replaced my Samsung with the Google Pixel 11 Pro Fold - a week later, I'm going back",
-            "link": "https://www.zdnet.com/article/google-pixel-11-pro-fold-review/",
-            "summary": "The subtle changes are nice, but not enough to justify spending $1,900 on Google's latest foldable phone when better alternatives exist.",
+            "title": "I've tested dozens of rugged smartwatches - this one's battery is on a different level",
+            "link": "https://www.zdnet.com/article/suunto-core-2-review/",
+            "summary": "The Suunto Core 2 provides key outdoor metrics, storm alerts, and up to 15 months of battery life.",
             "published_utc": "2026-08-19T16:01:00+00:00"
         },
         {
@@ -399,13 +406,6 @@
             "link": "https://www.infosecurity-magazine.com/news/openai-tightens-ai-safeguards/",
             "summary": "OpenAI is strengthening safeguards for its most advanced AI models, citing growing risks as frontier systems gain more powerful cyber capabilities",
             "published_utc": "2026-08-19T12:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft fixes known issue causing Windows Defender crashes",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-causing-windows-defender-crashes/",
-            "summary": "Microsoft has resolved a bug that caused Windows Defender to crash after a recent security update, resulting in 0xc0000005 access violation errors on ...",
-            "published_utc": "2026-08-19T11:14:28+00:00"
         },
         {
             "source": "CSO Online",
