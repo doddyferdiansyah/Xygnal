@@ -1,6 +1,20 @@
 {
-    "lastUpdatedUTC": "2026-08-20T08:38:59.949410+00:00",
+    "lastUpdatedUTC": "2026-08-20T09:35:10.246313+00:00",
     "articles": [
+        {
+            "source": "InfosecurityMag",
+            "title": "Def Con Attendees Targeted by Persistent Phishing Campaign",
+            "link": "https://www.infosecurity-magazine.com/news/def-con-attendees-persistent/",
+            "summary": "Huntress researcher explains how they were targeted by an elaborate and persistent phishing scam following Def Con",
+            "published_utc": "2026-08-20T09:30:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Exploitation Expected for Critical Authentication Bypass Patched in Citrix NetScaler",
+            "link": "https://www.securityweek.com/exploitation-expected-for-critical-authentication-bypass-patched-in-citrix-netscaler/",
+            "summary": "",
+            "published_utc": "2026-08-20T08:33:25+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Critical GitLab Flaw Exploited Shortly After Disclosure",
@@ -108,16 +122,16 @@
         },
         {
             "source": "ZDNet Security",
-            "title": "I've tested dozens of rugged smartwatches - this one's battery is on a different level",
-            "link": "https://www.zdnet.com/article/suunto-core-2-review/",
-            "summary": "The Suunto Core 2 provides key outdoor metrics, storm alerts, and up to 15 months of battery life.",
+            "title": "I replaced my Samsung with the Google Pixel 11 Pro Fold - a week later, I'm going back",
+            "link": "https://www.zdnet.com/article/google-pixel-11-pro-fold-review/",
+            "summary": "The subtle changes are nice, but not enough to justify spending $1,900 on Google's latest foldable phone when better alternatives exist.",
             "published_utc": "2026-08-19T16:01:00+00:00"
         },
         {
             "source": "ZDNet Security",
-            "title": "I replaced my Samsung with the Google Pixel 11 Pro Fold - a week later, I'm going back",
-            "link": "https://www.zdnet.com/article/google-pixel-11-pro-fold-review/",
-            "summary": "The subtle changes are nice, but not enough to justify spending $1,900 on Google's latest foldable phone when better alternatives exist.",
+            "title": "I've tested dozens of rugged smartwatches - this one's battery is on a different level",
+            "link": "https://www.zdnet.com/article/suunto-core-2-review/",
+            "summary": "The Suunto Core 2 provides key outdoor metrics, storm alerts, and up to 15 months of battery life.",
             "published_utc": "2026-08-19T16:01:00+00:00"
         },
         {
@@ -392,13 +406,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs/",
             "summary": "The FBI said Tuesday that the Medusa ransomware gang has breached more than 500 critical infrastructure organizations in the United States since June ...",
             "published_utc": "2026-08-19T08:00:48+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "CareCloud Data Breach Impact Grows to 3.7 Million Individuals",
-            "link": "https://www.securityweek.com/carecloud-data-breach-impact-grows-to-3-7-million-individuals/",
-            "summary": "",
-            "published_utc": "2026-08-19T06:56:43+00:00"
         },
         {
             "source": "CSO Online",
@@ -2716,13 +2723,6 @@
             "link": "https://www.welivesecurity.com/en/cybercrime/eviltokens-phishing-doesnt-steal-password/",
             "summary": "A phishing kit subverting Microsoft’s legitimate authentication flow lets attackers break into accounts without stealing passwords or creating fake lo...",
             "published_utc": "2026-06-15T08:55:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Ransomware Payment Crypto Laundering Platform Taken Out by FBI and Europol",
-            "link": "https://www.infosecurity-magazine.com/news/ransomware-crypto-laundering/",
-            "summary": "Domain of dark web money laundering platform AudiA6 seized and suspects arrested in joint operation by the FBI, Europol and others",
-            "published_utc": "2026-06-12T14:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
