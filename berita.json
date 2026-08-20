@@ -1,6 +1,76 @@
 {
-    "lastUpdatedUTC": "2026-08-20T11:26:33.368068+00:00",
+    "lastUpdatedUTC": "2026-08-20T12:50:53.897012+00:00",
     "articles": [
+        {
+            "source": "InfosecurityMag",
+            "title": "NCSC Urges Stronger Controls for Agentic AI Systems",
+            "link": "https://www.infosecurity-magazine.com/news/ncsc-stronger-controls-agentic-ai/",
+            "summary": "NCSC urged sandboxing, oversight and tight access controls for autonomous AI agents",
+            "published_utc": "2026-08-20T12:45:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "US Defense Contractors Admit Their Rising CMMC Scores May Not Be Accurate",
+            "link": "https://www.infosecurity-magazine.com/news/us-defense-contractors-cmmc-scores/",
+            "summary": "Defense contractors in the US are doubting their own self-assessment scores under CMMC Phase I, even as those scores hit an all-time high",
+            "published_utc": "2026-08-20T12:40:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Atlassian, Splunk Patch Dozens of Critical, High-Severity Vulnerabilities",
+            "link": "https://www.securityweek.com/atlassian-splunk-patch-dozens-of-critical-high-severity-vulnerabilities/",
+            "summary": "",
+            "published_utc": "2026-08-20T12:24:53+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Citrix urges admins to patch new NetScaler flaws as soon as possible",
+            "link": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/",
+            "summary": "Citrix has warned customers to immediately secure their systems against two vulnerabilities affecting NetScaler Gateway secure remote access solutions...",
+            "published_utc": "2026-08-20T12:14:38+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "MLflow Vulnerability Exploited for Cloud Credential Theft",
+            "link": "https://www.securityweek.com/mlflow-vulnerability-exploited-for-cloud-credential-theft/",
+            "summary": "",
+            "published_utc": "2026-08-20T12:05:55+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Kriminal breaks out of Grok, Claude guardrails at $12.99",
+            "link": "https://www.csoonline.com/article/4211952/kriminal-breaks-out-of-grok-claude-guardrails-at-12-99.html",
+            "summary": "",
+            "published_utc": "2026-08-20T12:00:08+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The best and worst AI for your privacy, ranked - and how each handles your data",
+            "link": "https://www.zdnet.com/article/best-and-worst-ai-for-your-privacy-ranked/",
+            "summary": "Incogni researchers analyze 13 AI platforms and the potential risks they each pose to your privacy. The larger the platform, the bigger the risk - wit...",
+            "published_utc": "2026-08-20T12:00:01+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Yes, you can change your Messages backgrounds on iPhone - but there's a catch",
+            "link": "https://www.zdnet.com/article/how-to-change-your-text-background-on-iphone/",
+            "summary": "Android has had the advantage when it comes to changing your message wallpaper - but there is an easy way to do it in iOS 26, too, as long as you don'...",
+            "published_utc": "2026-08-20T11:50:51+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "You can earn your Google Al Professional Certificate for free - and I highly recommend it",
+            "link": "https://www.zdnet.com/article/you-can-earn-your-google-al-professional-certificate-for-free/",
+            "summary": "From AI fundamentals to data analysis and app building, Google's certificate covers quite a lot. And there's a way to avoid paying anything to earn yo...",
+            "published_utc": "2026-08-20T11:49:14+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Cisco Patches Critical Crosswork, Secure Workload Vulnerabilities",
+            "link": "https://www.securityweek.com/cisco-patches-critical-crosswork-secure-workload-vulnerabilities/",
+            "summary": "",
+            "published_utc": "2026-08-20T11:46:04+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "AI-Assisted Tool Helped Secure Satellite Communication System After 2022 Russian Hacking",
@@ -206,16 +276,16 @@
         },
         {
             "source": "ZDNet Security",
-            "title": "I've tested dozens of rugged smartwatches - this one's battery is on a different level",
-            "link": "https://www.zdnet.com/article/suunto-core-2-review/",
-            "summary": "The Suunto Core 2 provides key outdoor metrics, storm alerts, and up to 15 months of battery life.",
+            "title": "I replaced my Samsung with the Google Pixel 11 Pro Fold - a week later, I'm going back",
+            "link": "https://www.zdnet.com/article/google-pixel-11-pro-fold-review/",
+            "summary": "The subtle changes are nice, but not enough to justify spending $1,900 on Google's latest foldable phone when better alternatives exist.",
             "published_utc": "2026-08-19T16:01:00+00:00"
         },
         {
             "source": "ZDNet Security",
-            "title": "I replaced my Samsung with the Google Pixel 11 Pro Fold - a week later, I'm going back",
-            "link": "https://www.zdnet.com/article/google-pixel-11-pro-fold-review/",
-            "summary": "The subtle changes are nice, but not enough to justify spending $1,900 on Google's latest foldable phone when better alternatives exist.",
+            "title": "I've tested dozens of rugged smartwatches - this one's battery is on a different level",
+            "link": "https://www.zdnet.com/article/suunto-core-2-review/",
+            "summary": "The Suunto Core 2 provides key outdoor metrics, storm alerts, and up to 15 months of battery life.",
             "published_utc": "2026-08-19T16:01:00+00:00"
         },
         {
@@ -317,13 +387,6 @@
             "published_utc": "2026-08-19T12:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "US Charges 17 Iranian Hackers, Offers $10 Million Rewards for 5 of Them",
-            "link": "https://www.securityweek.com/us-charges-17-iranian-hackers-offers-10-million-rewards-for-5-of-them/",
-            "summary": "",
-            "published_utc": "2026-08-19T11:30:33+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Microsoft fixes known issue causing Windows Defender crashes",
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-causing-windows-defender-crashes/",
@@ -345,34 +408,6 @@
             "published_utc": "2026-08-19T11:08:23+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Cl0p Ransomware Group Names Over 40 Victims of PTC Windchill Campaign",
-            "link": "https://www.securityweek.com/cl0p-ransomware-group-names-over-40-victims-of-ptc-windchill-campaign/",
-            "summary": "",
-            "published_utc": "2026-08-19T11:07:21+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I tested the LG C6 OLED for a week, and the colors made me question my Mini LED loyalty",
-            "link": "https://www.zdnet.com/article/lg-c6-oled-review/",
-            "summary": "One of LG's flagship OLED TVs got a refresh with the C6, and it won a ZDNET Lab Award for the most accurate color reproduction.",
-            "published_utc": "2026-08-19T11:06:15+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The Hisense U8QG is one of the smartest TV buys I can recommend",
-            "link": "https://www.zdnet.com/article/hisense-u8qg-review/",
-            "summary": "The Hisense U8QG delivers premium features at a midrange price and wins a ZDNET Lab Award for the most accurate color reproduction.",
-            "published_utc": "2026-08-19T11:06:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "We lab-tested 7 TVs for color accuracy - and the winners weren't Sony or Samsung",
-            "link": "https://www.zdnet.com/article/most-accurate-color-reproduction-tvs-lab-tested/",
-            "summary": "ZDNET's latest Lab Award crowns two flagship TVs that have the most accurate color reproduction in SDR and HDR formats.",
-            "published_utc": "2026-08-19T11:00:51+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Over 500 Critical Infrastructure Organizations Hit by Medusa Ransomware",
             "link": "https://www.infosecurity-magazine.com/news/critical-infrastructure-medusa/",
@@ -385,13 +420,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/08/ice-collecting-dna-samples.html",
             "summary": "",
             "published_utc": "2026-08-19T10:46:37+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "CISA Urges Immediate Patching of Exploited Microsoft, VMware, Apple Vulnerabilities",
-            "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-microsoft-vmware-apple-vulnerabilities/",
-            "summary": "",
-            "published_utc": "2026-08-19T10:37:31+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -413,13 +441,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ico-police-data-governance-facial/",
             "summary": "The UK’s privacy watchdog has called on police using facial recognition to follow its recommendations",
             "published_utc": "2026-08-19T09:30:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Windows 11 24H2 Home and Pro reach end of support in 2 months",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-2-months/",
-            "summary": "Microsoft has reminded customers that systems running Home and Pro editions of Windows 11 24H2 will stop receiving updates in two months. [...]",
-            "published_utc": "2026-08-19T09:10:20+00:00"
         },
         {
             "source": "CSO Online",
@@ -728,13 +749,6 @@
             "link": "https://www.csoonline.com/article/4209606/akira-ransomware-reboots-into-windows-safe-mode-to-knock-edr-offline.html",
             "summary": "",
             "published_utc": "2026-08-14T09:12:37+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "The cybersecurity backlog is not a security problem",
-            "link": "https://www.csoonline.com/article/4209334/the-cybersecurity-backlog-is-not-a-security-problem.html",
-            "summary": "",
-            "published_utc": "2026-08-14T09:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2702,20 +2716,6 @@
             "link": "https://www.infosecurity-magazine.com/news/wordpress-plugin-supply-chain/",
             "summary": "Tampered OptinMonster and sister plugins plant hidden backdoors on 1.2 million WordPress sites",
             "published_utc": "2026-06-15T17:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Adriatic Port Cyber-Attack by Anubis Sparks Warning Over Maritime Security Risks",
-            "link": "https://www.infosecurity-magazine.com/news/anubis-ransomware-adriatic-port/",
-            "summary": "How the Anubis ransomware group stole and leaked an Italian Adriatic port authority's data",
-            "published_utc": "2026-06-15T16:15:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Cybersecurity Experts Urge US to Lift Ban on Anthropic's Frontier AI Models",
-            "link": "https://www.infosecurity-magazine.com/news/cyber-experts-urge-us-lift-ban/",
-            "summary": "Access to two Anthropic large language models, Mythos 5 and Fable 5, has effectively been banned to any non-US nationals by the Trump administration",
-            "published_utc": "2026-06-15T10:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
