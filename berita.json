@@ -1,6 +1,34 @@
 {
-    "lastUpdatedUTC": "2026-08-20T17:29:33.847809+00:00",
+    "lastUpdatedUTC": "2026-08-20T18:39:42.310748+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers poison arrayref Rust crate to push infostealer malware",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/",
+            "summary": "Hackers compromised the maintainer account behind the widely used Rust crate arrayref to introduce malware that executed on developers' systems during...",
+            "published_utc": "2026-08-20T17:53:52+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Apple's smart home springs a leak - here's everything we expect to see in September",
+            "link": "https://www.zdnet.com/article/apples-smart-home-leaked-product-list/",
+            "summary": "We're already waiting for the new gen-AI-powered Siri, but a home hub may be on the way as well.",
+            "published_utc": "2026-08-20T17:46:57+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Detailed Timeline of OpenAI’s Cyberattack on Hugging Face",
+            "link": "https://www.schneier.com/blog/archives/2026/08/detailed-timeline-of-openais-cyberattack-on-hugging-face.html",
+            "summary": "",
+            "published_utc": "2026-08-20T17:44:36+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Why replacing staff with AI backfires - and 5 ways smart leaders generate real value instead",
+            "link": "https://www.zdnet.com/article/why-replacing-staff-with-ai-backfires-and-how-smart-leaders-generate-real-value-instead/",
+            "summary": "Three-quarters of organizations have found AI layoffs cost more than they saved, and as many as nine in 10 companies would rethink them given the chance.",
+            "published_utc": "2026-08-20T17:34:55+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Wispr Flow is better than your device's built-in voice text tool - how to try it for free",
@@ -359,25 +387,11 @@
             "published_utc": "2026-08-19T16:01:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Pixel 11 XL Pro: Google's big flagship is more Pro than ever, but the camera is no big thing",
-            "link": "https://www.zdnet.com/article/pixel-11-pro-xl-review/",
-            "summary": "The Pixel 11 Pro XL has some gorgeous hardware and some neat AI tricks, but the cameras need good lighting to shine.",
-            "published_utc": "2026-08-19T16:00:46+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "US charges Iranian hackers over $3.4 billion intellectual property theft",
             "link": "https://www.bleepingcomputer.com/news/security/us-charges-iranian-hackers-over-34-billion-intellectual-property-theft/",
             "summary": "The U.S. has charged 17 Iranians, alleged members of a hacking-for-hire company called Mabna Institute, involved in years-long operations that stole d...",
             "published_utc": "2026-08-19T15:56:09+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I tried the Fairphone 6+ and - hoo boy! - this repairable phone could be the one",
-            "link": "https://www.zdnet.com/article/repairable-phones-finally-hit-the-us-market/",
-            "summary": "Fairphone is finally selling its latest model in the US. The $649 handset has 12 swappable parts, and a replacement battery is only $40. This is truly...",
-            "published_utc": "2026-08-19T15:53:08+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -392,13 +406,6 @@
             "link": "https://www.infosecurity-magazine.com/news/maas-clickfix-errtraffic-cruciferra/",
             "summary": "eSentire uncovered a malware campaign combining ClickFix lures with ErrTraffic and Cruciferra",
             "published_utc": "2026-08-19T15:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Password spraying attacks surge 155x as hackers exploit MFA gaps",
-            "link": "https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/",
-            "summary": "Huntress observed a 155x increase in password spraying attacks in H1 2026, including a campaign that generated more than 81 million login attempts in ...",
-            "published_utc": "2026-08-19T14:00:10+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -910,13 +917,6 @@
             "link": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
             "summary": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including on...",
             "published_utc": "2026-08-11T21:28:35+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "AI Genie in the Wild",
-            "link": "https://www.schneier.com/blog/archives/2026/08/ai-genie-in-the-wild.html",
-            "summary": "",
-            "published_utc": "2026-08-11T15:55:11+00:00"
         },
         {
             "source": "InfosecurityMag",
