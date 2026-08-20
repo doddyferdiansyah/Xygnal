@@ -1,6 +1,13 @@
 {
-    "lastUpdatedUTC": "2026-08-20T18:39:42.310748+00:00",
+    "lastUpdatedUTC": "2026-08-20T19:31:35.843727+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "Citrix issues critical security updates for its NetScaler devices",
+            "link": "https://www.csoonline.com/article/4212082/citrix-issues-critical-security-updates-for-its-netscaler-devices.html",
+            "summary": "",
+            "published_utc": "2026-08-20T18:54:09+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Hackers poison arrayref Rust crate to push infostealer malware",
@@ -756,13 +763,6 @@
             "link": "https://www.infosecurity-magazine.com/news/macos-infostealer-spread-clickfix/",
             "summary": "AmnesiaStealer contains novel functions, including the attackers gaining remote control over the victim’s browser to steal cookie data",
             "published_utc": "2026-08-14T10:45:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Akira ransomware reboots into Windows Safe Mode to knock EDR offline",
-            "link": "https://www.csoonline.com/article/4209606/akira-ransomware-reboots-into-windows-safe-mode-to-knock-edr-offline.html",
-            "summary": "",
-            "published_utc": "2026-08-14T09:12:37+00:00"
         },
         {
             "source": "InfosecurityMag",
