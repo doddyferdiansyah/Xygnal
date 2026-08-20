@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-08-20T13:46:59.896396+00:00",
+    "lastUpdatedUTC": "2026-08-20T14:36:38.138254+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Surveillance – Everything You Wanted to Know, But Were Afraid to Ask",
+            "link": "https://www.securityweek.com/surveillance-everything-you-wanted-to-know-but-were-afraid-to-ask/",
+            "summary": "",
+            "published_utc": "2026-08-20T14:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "JFrog Artifactory Flaws Enable Software Supply Chain Attacks",
+            "link": "https://www.infosecurity-magazine.com/news/jfrog-flaws-software-supply-chain/",
+            "summary": "Two Artifactory flaws allowed attackers to poison package metadata across software repositories",
+            "published_utc": "2026-08-20T14:30:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "How MSPs can catch phishing attacks email filters miss",
+            "link": "https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/",
+            "summary": "AI is making phishing attacks more personalized, convincing, and difficult for traditional email filters to detect. Kaseya explains how MSPs can monit...",
+            "published_utc": "2026-08-20T14:01:11+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Threat Actor Hacks 14,000 IP Cameras in Ukraine and Russia",
@@ -359,13 +380,6 @@
             "published_utc": "2026-08-19T14:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Virtual Event Today: CodeSecCon – Secure Your Code and Applications",
-            "link": "https://www.securityweek.com/virtual-event-today-codeseccon-secure-your-code-and-applications/",
-            "summary": "",
-            "published_utc": "2026-08-19T13:36:17+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "The best TVs of 2026: Expert tested and recommended",
             "link": "https://www.zdnet.com/article/best-tv/",
@@ -420,13 +434,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/08/ice-collecting-dna-samples.html",
             "summary": "",
             "published_utc": "2026-08-19T10:46:37+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Critical RCE flaw in Windows IKE Extension now actively exploited",
-            "link": "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/",
-            "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity remote code execution (RCE) fl...",
-            "published_utc": "2026-08-19T10:12:24+00:00"
         },
         {
             "source": "WIRED Security",
@@ -2709,13 +2716,6 @@
             "link": "https://www.infosecurity-magazine.com/news/fbi-warns-courier-cash-pickups/",
             "summary": "The FBI claims couriers are being used to circumvent bank transfers in crypto investment schemes",
             "published_utc": "2026-06-16T08:15:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Attackers Hijack Popular WordPress Plugins to Deploy Backdoors",
-            "link": "https://www.infosecurity-magazine.com/news/wordpress-plugin-supply-chain/",
-            "summary": "Tampered OptinMonster and sister plugins plant hidden backdoors on 1.2 million WordPress sites",
-            "published_utc": "2026-06-15T17:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
