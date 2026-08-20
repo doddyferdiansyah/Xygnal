@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2026-08-20T09:35:10.246313+00:00",
+    "lastUpdatedUTC": "2026-08-20T10:30:50.952197+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "New Manic Android malware can exfiltrate data through nearby devices",
+            "link": "https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/",
+            "summary": "A new Android malware named Manic targeting users in multiple European countries has a fallback data exfiltration mechanism that uses nearby infected ...",
+            "published_utc": "2026-08-20T10:02:02+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "These 2 WFH items are a splurge - but I'd highly recommend them",
+            "link": "https://www.zdnet.com/article/eureka-ark-sd-desk-flexispot-c7-morpher-chair-testimonial/",
+            "summary": "Eureka's Ark SD desk and the FlexiSpot C7 Morpher chair completely elevated my work-from-home experience.",
+            "published_utc": "2026-08-20T10:00:50+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Updated ToxicPanda Variant Targets 140+ Banking and Crypto Apps",
+            "link": "https://www.infosecurity-magazine.com/news/updated-toxicpanda-140-banking/",
+            "summary": "Zimperium lifts the lid on the ToxicPanda 2.0 Android banking Trojan",
+            "published_utc": "2026-08-20T10:00:00+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Police Are Hiding Their Use of Flock Surveillance Cameras",
+            "link": "https://www.schneier.com/blog/archives/2026/08/police-are-hiding-their-use-of-flock-surveillance-cameras.html",
+            "summary": "",
+            "published_utc": "2026-08-20T09:48:55+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Critical Zimbra RCE flaw now actively exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks/",
+            "summary": "CERT Polska, the Polish Computer Emergency Response Team (CERT), warned that attackers have begun exploiting a critical vulnerability in Zimbra Collab...",
+            "published_utc": "2026-08-20T09:46:54+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How to use your TV as a PC monitor in 3 simple steps (and without buying anything)",
+            "link": "https://www.zdnet.com/article/how-to-use-your-tv-as-a-pc-monitor/",
+            "summary": "Breathe new life into an old TV by setting it up as a PC monitor with gear you may already have around the house.",
+            "published_utc": "2026-08-20T09:45:42+00:00"
+        },
         {
             "source": "InfosecurityMag",
             "title": "Def Con Attendees Targeted by Persistent Phishing Campaign",
@@ -394,13 +436,6 @@
             "published_utc": "2026-08-19T08:19:09+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "The 6 AI-free Linux distros I recommend most - and why they're likely to stay that way",
-            "link": "https://www.zdnet.com/article/top-6-ai-free-linux-distros/",
-            "summary": "If AI isn't your jam, and you're looking for an operating system that doesn't (and won't) force it on you, look no further than these Linux distributi...",
-            "published_utc": "2026-08-19T08:01:05+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "CISA: Medusa ransomware hit over 500 critical infrastructure orgs",
             "link": "https://www.bleepingcomputer.com/news/security/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs/",
@@ -415,20 +450,6 @@
             "published_utc": "2026-08-19T02:27:16+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I tested GNOME's glassy new look - and it's simply spectacular",
-            "link": "https://www.zdnet.com/article/gnome-desktop-liquid-glass-aura-glass/",
-            "summary": "GNOME is finally catching up to other desktop environments, thanks to Aura Glass, a fluid, modern desktop inspired by Apple's Liquid Glass.",
-            "published_utc": "2026-08-18T20:32:12+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Comcast turns your Xfinity WiFi into a home motion detector",
-            "link": "https://www.bleepingcomputer.com/news/security/comcast-turns-your-xfinity-wifi-into-a-home-motion-detector/",
-            "summary": "Comcast is promoting WiFi-based motion detection as a part of its new Xfinity Shield home protection platform, allowing routers and wireless devices t...",
-            "published_utc": "2026-08-18T20:14:58+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Critical GitLab flaw allows attackers to delete and modify public repos",
             "link": "https://www.csoonline.com/article/4211140/critical-gitlab-flaw-allows-attackers-to-delete-and-modify-public-repos.html",
@@ -441,13 +462,6 @@
             "link": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/",
             "summary": "The ChatGPT maker says its upcoming Astra model may have reached “critical” cyber capabilities, prompting it to halt a significant number of training ...",
             "published_utc": "2026-08-18T18:33:11+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Clop created custom web shell for Windchill data theft attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/",
-            "summary": "A custom Java web shell likely linked to the Clop ransomware gang was designed specifically for PTC Windchill and FlexPLM servers, with built-in featu...",
-            "published_utc": "2026-08-18T17:29:51+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -910,13 +924,6 @@
             "link": "https://www.infosecurity-magazine.com/news/openai-daybreak-blue-red-gpt-cyber/",
             "summary": "Daybreak Blue removes some OpenAI-made guardrails while Daybreak Red grants the use of cyber-focused frontier AI models",
             "published_utc": "2026-08-11T11:30:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "AI for Military Support",
-            "link": "https://www.schneier.com/blog/archives/2026/08/ai-for-military-support.html",
-            "summary": "",
-            "published_utc": "2026-08-11T11:18:07+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2709,13 +2716,6 @@
             "link": "https://www.infosecurity-magazine.com/news/uk-government-400-vulnerabilities/",
             "summary": "Government departments find hundreds of vulnerabilities after testing frontier models",
             "published_utc": "2026-06-15T09:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Maine Takes Breach Reporting Portal Offline After Fake Entries",
-            "link": "https://www.infosecurity-magazine.com/news/maine-breach-reporting-portal/",
-            "summary": "The Office of the Maine Attorney General has suspended its breach reporting portal",
-            "published_utc": "2026-06-15T09:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
