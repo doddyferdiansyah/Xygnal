@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-08-21T13:45:17.022412+00:00",
+    "lastUpdatedUTC": "2026-08-21T14:35:16.231044+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Encrypted Prompts Bypass AI Safety Guardrails in Grok and Gemini",
+            "link": "https://www.securityweek.com/encrypted-prompts-bypass-ai-safety-guardrails-in-grok-and-gemini/",
+            "summary": "",
+            "published_utc": "2026-08-21T14:34:05+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "New Phishing Toolkit Uses Passkeys to Maintain Access After Password Resets",
+            "link": "https://www.securityweek.com/new-phishing-toolkit-uses-passkeys-to-maintain-access-after-password-resets/",
+            "summary": "",
+            "published_utc": "2026-08-21T14:22:06+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Is Online Privacy Possible? How Digital Identities Can Help",
+            "link": "https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/",
+            "summary": "Using the same email, phone number, payment method, and other identifiers makes it easier for data brokers and attackers to profile your activity. Ano...",
+            "published_utc": "2026-08-21T14:00:10+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "I tried the free Wispr Flow voice dictation tool everyone's talking about - and I'm hooked",
@@ -296,25 +317,11 @@
             "published_utc": "2026-08-20T12:40:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Atlassian, Splunk Patch Dozens of Critical, High-Severity Vulnerabilities",
-            "link": "https://www.securityweek.com/atlassian-splunk-patch-dozens-of-critical-high-severity-vulnerabilities/",
-            "summary": "",
-            "published_utc": "2026-08-20T12:24:53+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Citrix urges admins to patch new NetScaler flaws as soon as possible",
             "link": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/",
             "summary": "Citrix has warned customers to immediately secure their systems against two vulnerabilities affecting NetScaler Gateway secure remote access solutions...",
             "published_utc": "2026-08-20T12:14:38+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "MLflow Vulnerability Exploited for Cloud Credential Theft",
-            "link": "https://www.securityweek.com/mlflow-vulnerability-exploited-for-cloud-credential-theft/",
-            "summary": "",
-            "published_utc": "2026-08-20T12:05:55+00:00"
         },
         {
             "source": "CSO Online",
@@ -448,13 +455,6 @@
             "link": "https://www.csoonline.com/article/4211672/openai-temporarily-slows-scaling-efforts-also-promises-zero-data-retention-for-select-frontier-model-customers-2.html",
             "summary": "",
             "published_utc": "2026-08-20T00:12:50+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Rogue ransomware affiliate poses as recovery firm to steal payments",
-            "link": "https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm/",
-            "summary": "A suspected ransomware affiliate is posing as a ransomware recovery service called \"Ransom Busters,\" contacting the victims before the attacks become ...",
-            "published_utc": "2026-08-19T20:59:58+00:00"
         },
         {
             "source": "InfosecurityMag",
