@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2026-08-21T11:26:08.185034+00:00",
+    "lastUpdatedUTC": "2026-08-21T12:49:04.780030+00:00",
     "articles": [
+        {
+            "source": "InfosecurityMag",
+            "title": "North Korean Hackers Tied to Rust Supply Chain Attack",
+            "link": "https://www.infosecurity-magazine.com/news/north-korean-rust-supply-chain/",
+            "summary": "Cybersecurity researchers have linked a malicious backdoor in compromised Rust packages to previous North Korean supply chain attacks",
+            "published_utc": "2026-08-21T12:40:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Critical Isolated-vm Vulnerability Leads to RCE on Host",
+            "link": "https://www.securityweek.com/critical-isolated-vm-vulnerability-leads-to-rce-on-host/",
+            "summary": "",
+            "published_utc": "2026-08-21T12:26:07+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "CISA orders feds to patch actively exploited TrueConf Server flaws",
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/",
+            "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered U.S. federal agencies to prioritize patching two actively exploited vulnerabi...",
+            "published_utc": "2026-08-21T12:25:33+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "New Agent Tesla Malware Variant Boosts Evasion Capabilities",
+            "link": "https://www.infosecurity-magazine.com/news/agent-tesla-malware-evasion/",
+            "summary": "An Agent Tesla v4 malware campaign used novel emoji-based code obfuscation to evade detection, KnowBe4 has revealed",
+            "published_utc": "2026-08-21T12:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "A low-tech solution from the past may be your best defense against AI deepfakes",
+            "link": "https://www.zdnet.com/article/ai-deepfakes-passwords-defense/",
+            "summary": "AI-enabled identity theft is getting too sophisticated to have predictable tells anymore, so experts recommend answering with a seemingly old-fashione...",
+            "published_utc": "2026-08-21T11:36:51+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The best large tablets of 2026: Expert tested and reviewed",
+            "link": "https://www.zdnet.com/article/best-large-tablet/",
+            "summary": "We tested the best big-screen tablets from Apple, Samsung, Microsoft, and more, to help you choose the right one.",
+            "published_utc": "2026-08-21T11:30:45+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "China joins Europe in scrapping Windows for Linux",
@@ -14,13 +56,6 @@
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
             "summary": "Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attack...",
             "published_utc": "2026-08-21T11:04:10+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The best small tablets of 2026: Expert tested and reviewed",
-            "link": "https://www.zdnet.com/article/best-small-tablet/",
-            "summary": "Looking for a small tablet to take with you on your next trip, one that you can throw in your bag before the workday begins, or a kid-friendly option?...",
-            "published_utc": "2026-08-21T11:00:43+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -87,7 +122,7 @@
         },
         {
             "source": "SecurityWeek",
-            "title": "Microsoft Rolls Out 22 Fresh Security Patches",
+            "title": "Microsoft Patches Exploited Entra ID Vulnerability",
             "link": "https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/",
             "summary": "",
             "published_utc": "2026-08-21T08:12:19+00:00"
@@ -303,13 +338,6 @@
             "published_utc": "2026-08-20T11:49:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Cisco Patches Critical Crosswork, Secure Workload Vulnerabilities",
-            "link": "https://www.securityweek.com/cisco-patches-critical-crosswork-secure-workload-vulnerabilities/",
-            "summary": "",
-            "published_utc": "2026-08-20T11:46:04+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "CISA warns of hackers exploiting critical MLflow vulnerability",
             "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/",
@@ -401,13 +429,6 @@
             "published_utc": "2026-08-20T04:55:04+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Is leasing an iPhone right for you? How Apple's Upgrade Program works and who it's for",
-            "link": "https://www.zdnet.com/article/leasing-iphone-right-how-apples-upgrade-program-works/",
-            "summary": "Apple recently partnered with Klarna to revamp its Upgrade Program, which lets you lease some Apple devices for a low monthly fee.",
-            "published_utc": "2026-08-20T01:01:23+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "OpenAI confirms ChatGPT is down as logins and signups fail",
             "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/",
@@ -434,20 +455,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/sakura-internet-hack-exposes-data-of-up-to-136-million-accounts/",
             "summary": "Japanese cloud and data center service provider Sakura Internet disclosed that hackers accessed its sales management system, where customer contract a...",
             "published_utc": "2026-08-19T20:53:38+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Healthtech firm CareCloud data breach impacts 3.7 million patients",
-            "link": "https://www.bleepingcomputer.com/news/security/healthtech-firm-carecloud-data-breach-impacts-37-million-patients/",
-            "summary": "U.S. healthcare IT company CareCloud disclosed that the data breach incident it suffered earlier this year has impacted more than 3.7 million individu...",
-            "published_utc": "2026-08-19T20:07:12+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Can MainstreamOS finally make Linux a household name? I tried it to find out",
-            "link": "https://www.zdnet.com/article/mainstreamos-linux-distro-arch-hyprland/",
-            "summary": "Finally, there's a Linux distro that makes Arch and Hyprland easy - while adding the polish of MacOS. What's not to love about MainstreamOS?",
-            "published_utc": "2026-08-19T17:20:50+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2697,25 +2704,11 @@
             "published_utc": "2026-06-16T11:30:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "Chainguard, JPMorgan, BNY Team Up to Secure Open Source from AI Threats",
-            "link": "https://www.infosecurity-magazine.com/news/chainguard-bny-open-source-athena/",
-            "summary": "Athena is a new an industry coalition to fix the vulnerabilities frontier AI models find before attackers can exploit them",
-            "published_utc": "2026-06-16T11:00:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "FishMonger’s arsenal upgraded: SprySOCKS for Windows",
             "link": "https://www.welivesecurity.com/en/eset-research/fishmongers-arsenal-upgraded-sprysocks-windows/",
             "summary": "ESET researchers have discovered SprySOCKS for Windows, FishMonger’s backdoor weaponizing a kernel driver for advanced stealthiness",
             "published_utc": "2026-06-16T08:54:04+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "FBI Warns Courier Cash Pickups Are Driving Crypto Scams",
-            "link": "https://www.infosecurity-magazine.com/news/fbi-warns-courier-cash-pickups/",
-            "summary": "The FBI claims couriers are being used to circumvent bank transfers in crypto investment schemes",
-            "published_utc": "2026-06-16T08:15:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
