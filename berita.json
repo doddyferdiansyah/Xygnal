@@ -1,6 +1,13 @@
 {
-    "lastUpdatedUTC": "2026-08-22T12:39:44.445925+00:00",
+    "lastUpdatedUTC": "2026-08-22T13:31:59.908670+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Named Pipes Under Attack: Securing Windows Interprocess Communication",
+            "link": "https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/",
+            "summary": "Windows named pipes provide fast interprocess communication, but weak access controls can expose privileged services to untrusted processes. ThreatLoc...",
+            "published_utc": "2026-08-22T13:00:09+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Pixel Watch 4 vs. Pixel Watch 5: Is Google's new model worth it? It comes down to this",
@@ -434,13 +441,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ics-ai-attacks-siemens/",
             "summary": "A US government advisory warned that attackers are deploying AI-generated exploitation scripts against exposed Siemens S7 Series PLCs",
             "published_utc": "2026-08-20T11:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "New Manic Android malware can exfiltrate data through nearby devices",
-            "link": "https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/",
-            "summary": "A new Android malware named Manic targeting users in multiple European countries has a fallback data exfiltration mechanism that uses nearby infected ...",
-            "published_utc": "2026-08-20T10:02:02+00:00"
         },
         {
             "source": "InfosecurityMag",
