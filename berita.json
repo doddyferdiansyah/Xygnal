@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2026-08-24T11:29:06.758065+00:00",
+    "lastUpdatedUTC": "2026-08-24T12:51:16.945673+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "Google's AI-first Googlebook laptop is almost here - can it avoid the Copilot+ PC problem?",
+            "link": "https://www.zdnet.com/article/googlebook-laptop-is-almost-here-can-it-avoid-copilot-pc-problem/",
+            "summary": "It won't be another high-end Chromebook like the Pixel, and Google has to hope it'll succeed where Copilot+ PCs have fallen short.",
+            "published_utc": "2026-08-24T12:48:57+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Uber Fined Nearly $1 Billion by Dutch Regulators Over Automated Suspensions of Driver Accounts",
+            "link": "https://www.securityweek.com/uber-fined-nearly-1-billion-by-dutch-regulators-over-automated-suspensions-of-driver-accounts/",
+            "summary": "",
+            "published_utc": "2026-08-24T12:42:09+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft: August updates break printing, PDF export in WPF apps",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-updates-break-printing-pdf-export-in-wpf-apps/",
+            "summary": "Microsoft has confirmed that .NET Framework updates released as part of the August 2026 Patch Tuesday are breaking printing and PDF export in WPF appl...",
+            "published_utc": "2026-08-24T12:40:21+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How to use ChatGPT Work - and my top 10 tips for getting started with agentic AI",
+            "link": "https://www.zdnet.com/article/how-to-use-chatgpt-work-and-my-top-tips/",
+            "summary": "Curious about ChatGPT Work? Here's how the agentic AI handles research, files, and multistep projects, plus its risks and limits.",
+            "published_utc": "2026-08-24T11:59:05+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "91 Vulnerabilities Patched in Spring Application Framework",
+            "link": "https://www.securityweek.com/91-vulnerabilities-patched-in-spring-application-framework/",
+            "summary": "",
+            "published_utc": "2026-08-24T11:58:28+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Windows Defender’s own driver can leave systems defenseless",
+            "link": "https://www.csoonline.com/article/4212929/windows-defenders-own-driver-can-leave-systems-defenseless.html",
+            "summary": "",
+            "published_utc": "2026-08-24T11:47:59+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Venezuelan Gets Record Federal Prison Term for ATM Jackpotting",
@@ -254,25 +296,11 @@
             "published_utc": "2026-08-21T15:30:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "In Other News: Zombie Card Attack, T-Mobile Cut Cable to Stop Hackers, GitHub Denies AI Caused Bug",
-            "link": "https://www.securityweek.com/in-other-news-zombie-card-attack-t-mobile-cut-cable-to-stop-hackers-github-denies-ai-caused-bug/",
-            "summary": "",
-            "published_utc": "2026-08-21T15:11:16+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Microsoft blames Windows gaming issues on RGB lighting devices",
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/",
             "summary": "Microsoft says ongoing issues causing games to crash or fail to launch after installing the August 2026 Windows updates may be caused by peripherals w...",
             "published_utc": "2026-08-21T14:54:49+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Encrypted Prompts Bypass AI Safety Guardrails in Grok and Gemini",
-            "link": "https://www.securityweek.com/encrypted-prompts-bypass-ai-safety-guardrails-in-grok-and-gemini/",
-            "summary": "",
-            "published_utc": "2026-08-21T14:34:05+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -408,13 +436,6 @@
             "published_utc": "2026-08-20T21:00:59+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Google Pixel Watch 5 vs. Garmin Fenix 8 Pro: Which has more accurate GPS?",
-            "link": "https://www.zdnet.com/article/google-pixel-watch-5-vs-garmin-fenix-8-pro/",
-            "summary": "Google says its new Pixel Watch 5 outperforms the location tracking on the Garmin Fenix 8 Pro. I put them to the test.",
-            "published_utc": "2026-08-20T21:00:46+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "China Is Strapping ‘Digital Bombs’ to Civilian Infrastructure—Is the US Ready?",
             "link": "https://www.wired.com/story/china-is-strapping-digital-bombs-to-civilian-infrastructure-is-the-us-ready/",
@@ -427,13 +448,6 @@
             "link": "https://www.csoonline.com/article/4212082/citrix-issues-critical-security-updates-for-its-netscaler-devices.html",
             "summary": "",
             "published_utc": "2026-08-20T18:54:09+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Hackers poison arrayref Rust crate to push infostealer malware",
-            "link": "https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/",
-            "summary": "Hackers compromised the maintainer account behind the widely used Rust crate arrayref to introduce malware that executed on developers' systems during...",
-            "published_utc": "2026-08-20T17:53:52+00:00"
         },
         {
             "source": "Schneier",
@@ -721,13 +735,6 @@
             "link": "https://www.infosecurity-magazine.com/news/unisoc-modem-flaw-rce-calls/",
             "summary": "UNISOC modem flaw enabled kernel-level code execution through video calls",
             "published_utc": "2026-08-17T15:45:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Why data quality dictates security operations success",
-            "link": "https://www.csoonline.com/article/4206800/why-data-quality-dictates-security-operations-success.html",
-            "summary": "",
-            "published_utc": "2026-08-17T13:54:32+00:00"
         },
         {
             "source": "InfosecurityMag",
