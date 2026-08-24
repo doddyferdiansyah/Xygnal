@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-08-24T10:37:32.596603+00:00",
+    "lastUpdatedUTC": "2026-08-24T11:29:06.758065+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Venezuelan Gets Record Federal Prison Term for ATM Jackpotting",
+            "link": "https://www.securityweek.com/venezuelan-gets-record-federal-prison-term-for-atm-jackpotting/",
+            "summary": "",
+            "published_utc": "2026-08-24T10:59:30+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "CISA orders urgent patching of actively exploited Zimbra flaw",
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/",
+            "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies to patch an actively exploited vulnerability in Zimbr...",
+            "published_utc": "2026-08-24T10:45:12+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Criminal Deception in Silicon Valley",
+            "link": "https://www.schneier.com/blog/archives/2026/08/criminal-deception-in-silicon-valley.html",
+            "summary": "",
+            "published_utc": "2026-08-24T10:38:29+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Personal Information Exposed in Apollo Global Data Breach",
@@ -254,13 +275,6 @@
             "published_utc": "2026-08-21T14:34:05+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "New Phishing Toolkit Uses Passkeys to Maintain Access After Password Resets",
-            "link": "https://www.securityweek.com/new-phishing-toolkit-uses-passkeys-to-maintain-access-after-password-resets/",
-            "summary": "",
-            "published_utc": "2026-08-21T14:22:06+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Is Online Privacy Possible? How Digital Identities Can Help",
             "link": "https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/",
@@ -327,7 +341,7 @@
             "source": "BleepingComputer",
             "title": "Microsoft patches max severity code execution, privilege escalation flaws",
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
-            "summary": "Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attack...",
+            "summary": "Microsoft has patched multiple maximum-severity vulnerabilities in Entra ID, Azure Arc, and Exchange Online that allowed attackers to gain remote code...",
             "published_utc": "2026-08-21T11:04:10+00:00"
         },
         {
@@ -427,13 +441,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/08/detailed-timeline-of-openais-cyberattack-on-hugging-face.html",
             "summary": "",
             "published_utc": "2026-08-20T17:44:36+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
-            "summary": "A critical vulnerability in the Elementor Pro WordPress plugin could allow attackers to upload executable files for remote code execution on the serve...",
-            "published_utc": "2026-08-20T14:39:48+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -777,13 +784,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-searching-for-the-colossal-squid-2.html",
             "summary": "",
             "published_utc": "2026-08-14T21:01:49+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Upcoming Speaking Engagements",
-            "link": "https://www.schneier.com/blog/archives/2026/08/upcoming-speaking-engagements-59.html",
-            "summary": "",
-            "published_utc": "2026-08-14T16:01:59+00:00"
         },
         {
             "source": "InfosecurityMag",
