@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2026-08-24T14:42:25.109764+00:00",
+    "lastUpdatedUTC": "2026-08-24T15:39:35.276210+00:00",
     "articles": [
+        {
+            "source": "InfosecurityMag",
+            "title": "NIST Warns of Unique Security Risks in Multi-Cloud Environments",
+            "link": "https://www.infosecurity-magazine.com/news/nist-risks-multi-cloud/",
+            "summary": "NIST has set out 23 novel challenges that arise in multi-cloud environments and has encouraged the cyber community to find solutions",
+            "published_utc": "2026-08-24T15:30:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "ReliaQuest confirms failed data-theft attack after ShinyHunters breach",
+            "link": "https://www.bleepingcomputer.com/news/security/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach/",
+            "summary": "Cybersecurity company ReliaQuest has confirmed that one of its employees was targeted in a social engineering attack after hackers impersonated a memb...",
+            "published_utc": "2026-08-24T15:17:16+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I dumped Firefox, but these 5 features finally won me back - here's why",
+            "link": "https://www.zdnet.com/article/firefox-wins-me-back-on-me-back-5-features/",
+            "summary": "It's been a bumpy road for Mozilla's browser, but as the dust of doubt settles, Firefox has once again become my default browser on all platforms.",
+            "published_utc": "2026-08-24T15:01:12+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Fake Codex Download Uses Google Sites to Deliver macOS Malware",
+            "link": "https://www.infosecurity-magazine.com/news/fake-codex-download-google-sites/",
+            "summary": "Fake Codex pages used Google Sites, sponsored search and ClickFix to target Mac users",
+            "published_utc": "2026-08-24T15:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "After years with an Apple Watch, a Pebble Time 2 'downgrade' was exactly what I needed",
+            "link": "https://www.zdnet.com/article/pebble-time-2-review-downgrade-from-apple-watch/",
+            "summary": "The Pebble Time 2 is a no-frills smartwatch that helps you disconnect from the digital world.",
+            "published_utc": "2026-08-24T14:51:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Amazon hikes prices on Echos, Kindles, Fire TVs as much as 60% - here's what you'll pay now",
+            "link": "https://www.zdnet.com/article/amazon-raises-prices-echos-kindles/",
+            "summary": "Be prepared to pay more for an Echo Dot, 16 GB Kindle, Fire TV Stick HD, and Amazon eero 7 mesh router, among several other products.",
+            "published_utc": "2026-08-24T14:45:00+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Microsoft Teams now lets admins block external bots from meetings",
@@ -364,34 +406,6 @@
             "link": "https://www.infosecurity-magazine.com/news/agent-tesla-malware-evasion/",
             "summary": "An Agent Tesla v4 malware campaign used novel emoji-based code obfuscation to evade detection, KnowBe4 has revealed",
             "published_utc": "2026-08-21T12:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "A low-tech solution from the past may be your best defense against AI deepfakes",
-            "link": "https://www.zdnet.com/article/ai-deepfakes-passwords-defense/",
-            "summary": "AI-enabled identity theft is getting too sophisticated to have predictable tells anymore, so experts recommend answering with a seemingly old-fashione...",
-            "published_utc": "2026-08-21T11:36:51+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The best large tablets of 2026: Expert tested and reviewed",
-            "link": "https://www.zdnet.com/article/best-large-tablet/",
-            "summary": "We tested the best big-screen tablets from Apple, Samsung, Microsoft, and more, to help you choose the right one.",
-            "published_utc": "2026-08-21T11:30:45+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "China joins Europe in scrapping Windows for Linux",
-            "link": "https://www.zdnet.com/article/china-drops-windows-for-linux/",
-            "summary": "The specialized Chinese version of Windows was already scheduled for retirement in February 2027, but now its end-of-life date has been moved up.",
-            "published_utc": "2026-08-21T11:18:30+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft patches max severity code execution, privilege escalation flaws",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
-            "summary": "Microsoft has patched multiple maximum-severity vulnerabilities in Entra ID, Azure Arc, and Exchange Online that allowed attackers to gain remote code...",
-            "published_utc": "2026-08-21T11:04:10+00:00"
         },
         {
             "source": "CSO Online",
@@ -2690,25 +2704,11 @@
             "published_utc": "2026-06-17T09:10:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "Staffing Is Top SOC Challenge Even as AI Proliferates, Says SANS",
-            "link": "https://www.infosecurity-magazine.com/news/staffing-top-soc-challenge-ai/",
-            "summary": "SANS Institute study finds few SOCs have built AI into defined workflows, despite widespread adoption",
-            "published_utc": "2026-06-17T08:45:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "Protecting legacy OT systems against modern cyberthreats",
             "link": "https://www.welivesecurity.com/en/critical-infrastructure/protecting-legacy-ot-systems-modern-threats/",
             "summary": "Many manufacturing plants depend on OT systems that stay in service for many years. That long run can hide significant cybersecurity risks.",
             "published_utc": "2026-06-17T08:45:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "SprySOCKS Backdoor Expands From Linux to Windows",
-            "link": "https://www.infosecurity-magazine.com/news/sprysocks-backdoor-windows/",
-            "summary": "China-linked SprySOCKS backdoor gains stealthy Windows variants and 30-plus C2 commands",
-            "published_utc": "2026-06-16T14:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
