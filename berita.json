@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2026-08-24T08:01:16.537319+00:00",
+    "lastUpdatedUTC": "2026-08-24T09:48:56.435686+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft shares temporary fix for Windows 11 gaming issues",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temporary-fix-for-windows-11-gaming-issues/",
+            "summary": "Microsoft has shared a temporary fix for ongoing gaming issues caused by Windows 11 updates released during the August 2026 Patch Tuesday. [...]",
+            "published_utc": "2026-08-24T09:42:05+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Iran-Linked Hackers Shut Down UK Power Plant for Four Days",
+            "link": "https://www.securityweek.com/iran-linked-hackers-shut-down-uk-power-plant-for-four-days/",
+            "summary": "",
+            "published_utc": "2026-08-24T09:22:09+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "TikTok Reaches $400 Million Settlement With US Justice Department Over Children’s Privacy",
+            "link": "https://www.securityweek.com/tiktok-reaches-400-million-settlement-with-us-justice-department-over-childrens-privacy/",
+            "summary": "",
+            "published_utc": "2026-08-24T09:11:11+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Wake-Up Call for CNI After Iranian Attack Shuts Down UK Power Plant",
+            "link": "https://www.infosecurity-magazine.com/news/cni-iranian-attack-shuts-uk-power/",
+            "summary": "Experts argue Iranian cyber-attack on UK power plant lays bare frailty of critical national infrastructure",
+            "published_utc": "2026-08-24T09:01:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "7 ways AI can be used to enhance security operations",
+            "link": "https://www.csoonline.com/article/4212560/7-ways-ai-can-be-used-to-enhance-security-operations.html",
+            "summary": "",
+            "published_utc": "2026-08-24T08:25:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Researchers Uncover Thousands of Leaked AWS Keys",
+            "link": "https://www.infosecurity-magazine.com/news/researchers-thousands-eaked-aws/",
+            "summary": "Truffle Security says it found over 9000 publicly accessible and active AWS key pairs",
+            "published_utc": "2026-08-24T08:05:00+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Anthropic Expands Mythos 5 Access to More Defenders, Unveils $35M Open Source Fund",
@@ -324,25 +366,11 @@
             "published_utc": "2026-08-21T09:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Contractors’ CMMC Confidence Rises as Ability to Prove It Falls Behind",
-            "link": "https://www.securityweek.com/contractors-cmmc-confidence-rises-as-ability-to-prove-it-falls-behind/",
-            "summary": "",
-            "published_utc": "2026-08-21T08:41:06+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Ransomware takes aim at enterprise resilience",
             "link": "https://www.csoonline.com/article/4212157/ransomware-takes-aim-at-enterprise-resilience.html",
             "summary": "",
             "published_utc": "2026-08-21T08:25:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Microsoft Patches Exploited Entra ID Vulnerability",
-            "link": "https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/",
-            "summary": "",
-            "published_utc": "2026-08-21T08:12:19+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -406,13 +434,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
             "summary": "A critical vulnerability in the Elementor Pro WordPress plugin could allow attackers to upload executable files for remote code execution on the serve...",
             "published_utc": "2026-08-20T14:39:48+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "How MSPs can catch phishing attacks email filters miss",
-            "link": "https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/",
-            "summary": "AI is making phishing attacks more personalized, convincing, and difficult for traditional email filters to detect. Kaseya explains how MSPs can monit...",
-            "published_utc": "2026-08-20T14:01:11+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -707,13 +728,6 @@
             "link": "https://www.infosecurity-magazine.com/news/wordpress-plugin-flaw-40000-sites/",
             "summary": "Critical User Profile Builder flaw let unauthenticated attackers access administrator accounts",
             "published_utc": "2026-08-17T13:30:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Zhipu says new coding AI developed advanced cyber skills faster than expected",
-            "link": "https://www.csoonline.com/article/4210501/zhipu-says-new-coding-ai-developed-advanced-cyber-skills-faster-than-expected-2.html",
-            "summary": "",
-            "published_utc": "2026-08-17T12:12:01+00:00"
         },
         {
             "source": "Schneier",
@@ -2688,20 +2702,6 @@
             "link": "https://www.infosecurity-magazine.com/news/rokarolla-android-banking-trojan/",
             "summary": "Rokarolla Android trojan steals banking logins and spies on victims while blocking fraud alerts",
             "published_utc": "2026-06-16T13:15:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Over Two-Thirds of Security Pros Say Cyber Is Getting Harder",
-            "link": "https://www.infosecurity-magazine.com/news/security-pros-cyber-cyber-harder/",
-            "summary": "ISSA study finds most security professionals feel challenged by colleagues’ involvement in cyber",
-            "published_utc": "2026-06-16T12:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "DragonForce Ransomware Exploited Microsoft Teams to Hide in Attack Against Major Company",
-            "link": "https://www.infosecurity-magazine.com/news/dragonforce-ransomware-hidden/",
-            "summary": "Command and control traffic exploited a Teams visitor token to make malicious activity look legitimate to defenders",
-            "published_utc": "2026-06-16T11:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
