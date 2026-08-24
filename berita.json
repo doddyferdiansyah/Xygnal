@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-08-24T13:57:17.918917+00:00",
+    "lastUpdatedUTC": "2026-08-24T14:42:25.109764+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft Teams now lets admins block external bots from meetings",
+            "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-now-lets-admins-block-external-bots-from-meetings/",
+            "summary": "Microsoft is rolling out a new Teams meeting protection policy that allows administrators to automatically block all identified external bots from joi...",
+            "published_utc": "2026-08-24T14:00:19+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "South Korean startup platform breach exposes key management failures",
+            "link": "https://www.bleepingcomputer.com/news/security/south-korean-startup-platform-breach-exposes-key-management-failures/",
+            "summary": "A breach at South Korea's government-backed startup platform exposed encrypted personal data after an encryption key was included in an API. Penta Sec...",
+            "published_utc": "2026-08-24T14:00:10+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Hired for One Job, Judged on Another: The CISO’s Real Problem",
+            "link": "https://www.securityweek.com/hired-for-one-job-judged-on-another-the-cisos-real-problem/",
+            "summary": "",
+            "published_utc": "2026-08-24T14:00:00+00:00"
+        },
         {
             "source": "InfosecurityMag",
             "title": "Doubloon Dredger Abuses Notion to Harvest Authentication Tokens",
@@ -241,10 +262,10 @@
         },
         {
             "source": "ZDNet Security",
-            "title": "Sonos' improved Voice Control points to an intriguing smart home future",
+            "title": "Sonos could make headphones part of your smart home - and I'm intrigued",
             "link": "https://www.zdnet.com/article/sonos-improved-voice-control-intriguing-smart-home-future/",
             "summary": "Reports suggest that Sonos is preparing to compete in the evolving smart speaker market, readying new hardware and an AI-backed overhaul of its voice ...",
-            "published_utc": "2026-08-21T19:14:13+00:00"
+            "published_utc": "2026-08-21T19:14:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -280,13 +301,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/08/ai-is-learning-to-write-genetic-code.html",
             "summary": "",
             "published_utc": "2026-08-21T16:51:50+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Former NSA Director Paul Nakasone Launches National Security Advisory Firm",
-            "link": "https://www.securityweek.com/former-nsa-director-paul-nakasone-launches-national-security-advisory-firm/",
-            "summary": "",
-            "published_utc": "2026-08-21T16:27:52+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -378,20 +392,6 @@
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
             "summary": "Microsoft has patched multiple maximum-severity vulnerabilities in Entra ID, Azure Arc, and Exchange Online that allowed attackers to gain remote code...",
             "published_utc": "2026-08-21T11:04:10+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Hackers abuse FTP server banners to deliver new Windows malware",
-            "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/",
-            "summary": "Threat actors are abusing FTP banners to hide commands that deliver two previously undocumented remote access trojans named E4del and PINHOLE. [...]",
-            "published_utc": "2026-08-21T11:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "SickKids data breach exposes employee and job applicant info",
-            "link": "https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/",
-            "summary": "Toronto's Hospital for Sick Children (SickKids) says a cybersecurity incident exposed the personal information of some current and former employees an...",
-            "published_utc": "2026-08-21T10:10:42+00:00"
         },
         {
             "source": "CSO Online",
