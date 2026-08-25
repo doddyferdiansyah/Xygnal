@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2026-08-25T10:33:24.750732+00:00",
+    "lastUpdatedUTC": "2026-08-25T11:27:50.887121+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "First Malware Built Specifically for Car Head Units Fuels Botnet",
+            "link": "https://www.securityweek.com/first-malware-built-specifically-for-car-head-units-fuels-botnet/",
+            "summary": "",
+            "published_utc": "2026-08-25T11:18:22+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Australia Warns of Active Exploitation of Critical TeamCity Server Flaw",
+            "link": "https://www.infosecurity-magazine.com/news/australia-exploitation-teamcity/",
+            "summary": "Australian officials are urging TeamCity customers to patch an actively exploited critical flaw, which follows a similar warning from the US government",
+            "published_utc": "2026-08-25T11:00:00+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "The County Prosecutors Who Became ICE Informants",
+            "link": "https://www.wired.com/story/the-county-prosecutors-who-became-ice-informants/",
+            "summary": "Illinois prosecutors shared defendants’ personal data with federal immigration agents without criminal warrants, public disclosure, or legislative ove...",
+            "published_utc": "2026-08-25T11:00:00+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Black Hat State of Security Vendors",
+            "link": "https://www.schneier.com/blog/archives/2026/08/black-hat-state-of-security-vendors.html",
+            "summary": "",
+            "published_utc": "2026-08-25T10:54:50+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Police arrests dozens of suspects in global cybercrime crackdown",
+            "link": "https://www.bleepingcomputer.com/news/security/police-arrests-dozens-of-suspects-in-global-cybercrime-crackdown/",
+            "summary": "Law enforcement agencies from 22 countries helped identify 263 suspects and arrested 58 individuals linked to cybercrime networks coordinated by Afric...",
+            "published_utc": "2026-08-25T10:53:20+00:00"
+        },
         {
             "source": "InfosecurityMag",
             "title": "Fake Minecraft Clients Deliver WeedHack Malware Despite Infrastructure Takedown",
@@ -282,13 +317,6 @@
             "published_utc": "2026-08-24T10:00:44+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Rethinking Application Security for the AI Era",
-            "link": "https://www.securityweek.com/rethinking-application-security-for-the-ai-era/",
-            "summary": "",
-            "published_utc": "2026-08-24T10:00:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Microsoft shares temporary fix for Windows 11 gaming issues",
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temporary-fix-for-windows-11-gaming-issues/",
@@ -420,13 +448,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/",
             "summary": "More than 9,300 Amazon Web Services (AWS) access keys publicly exposed between August 2022 and August 2026 are still active and valid. [...]",
             "published_utc": "2026-08-21T15:55:15+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft blames Windows gaming issues on RGB lighting devices",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/",
-            "summary": "Microsoft says ongoing issues causing games to crash or fail to launch after installing the August 2026 Windows updates may be caused by peripherals w...",
-            "published_utc": "2026-08-21T14:54:49+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -833,13 +854,6 @@
             "link": "https://www.wired.com/story/new-york-city-lawmakers-push-to-ban-the-scan-at-msg/",
             "summary": "At a press conference outside Madison Square Garden, politicians, musicians, and privacy advocates argued for tighter restrictions on how public venue...",
             "published_utc": "2026-08-14T21:43:17+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Friday Squid Blogging: Searching for the Colossal Squid",
-            "link": "https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-searching-for-the-colossal-squid-2.html",
-            "summary": "",
-            "published_utc": "2026-08-14T21:01:49+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1505,13 +1519,6 @@
             "link": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
             "summary": "Drone warfare is making the skies more dangerous, even for airplanes far from the battlefield.",
             "published_utc": "2026-07-30T10:00:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "AI Scammers Are Better at Building Trust Than Humans",
-            "link": "https://www.wired.com/story/ai-scammers-are-better-at-building-trust-than-humans/",
-            "summary": "Researchers pitted a person against a Claude agent and found that, after a week of texting, the AI chatbot was more effective at creating “exploitable...",
-            "published_utc": "2026-07-30T09:30:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2695,13 +2702,6 @@
             "link": "https://www.infosecurity-magazine.com/news/north-korea-it-worker-fraud-ai/",
             "summary": "Nisos infiltrated a North Korean IT-worker fraud cell running on AI interviews and a US laptop farm",
             "published_utc": "2026-06-17T15:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Serverless Phishing Kit on GitHub Targets Mexican Banks",
-            "link": "https://www.infosecurity-magazine.com/news/gitbait-github-pages-sheetbest/",
-            "summary": "GitBait phishing kit abuses GitHub Pages and the SheetBest API to steal Mexican banking credentials",
-            "published_utc": "2026-06-17T14:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
