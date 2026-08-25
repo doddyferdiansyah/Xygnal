@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2026-08-25T13:50:55.544497+00:00",
+    "lastUpdatedUTC": "2026-08-25T14:45:24.867098+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Hospital operator Nutex Health says data stolen in cyberattack",
+            "link": "https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/",
+            "summary": "Healthcare and services provider Nutex is investigating a data breach incident where an unauthorized third party exfiltrated information from company ...",
+            "published_utc": "2026-08-25T14:44:16+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "ZeroTokens Phishing Platform Steers Attacks in Real Time",
+            "link": "https://www.infosecurity-magazine.com/news/zerotokens-phishing-real-time/",
+            "summary": "ZeroTokens gives phishing operators live control of victim sessions targeting 53 financial brands",
+            "published_utc": "2026-08-25T14:30:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Alice Raises $140M to Expand AI Model Defenses and Enterprise Guardrails",
+            "link": "https://www.securityweek.com/alice-raises-140m-to-expand-ai-model-defenses-and-enterprise-guardrails/",
+            "summary": "",
+            "published_utc": "2026-08-25T14:11:59+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "From Fake Workers to Account Recovery: The Growing Identity Verification Risk",
+            "link": "https://www.bleepingcomputer.com/news/security/from-fake-workers-to-account-recovery-the-growing-identity-verification-risk/",
+            "summary": "Attackers are increasingly targeting the processes used to establish or recover identity rather than attacking the login itself. Specops explains how ...",
+            "published_utc": "2026-08-25T14:01:11+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft PowerToys adds Alt+Tab-style switching for an app's windows",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-alt-plustab-style-switching-for-an-apps-windows/",
+            "summary": "Microsoft updated its Windows PowerToys toolset with a new utility dubbed \"Window Hopper\" that lets users switch between an app's windows more quickly...",
+            "published_utc": "2026-08-25T13:51:58+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "WordPress Websites Targeted via MiniOrange Plugin Vulnerabilities",
@@ -331,13 +366,6 @@
             "published_utc": "2026-08-24T12:48:57+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Uber Fined Nearly $1 Billion by Dutch Regulators Over Automated Suspensions of Driver Accounts",
-            "link": "https://www.securityweek.com/uber-fined-nearly-1-billion-by-dutch-regulators-over-automated-suspensions-of-driver-accounts/",
-            "summary": "",
-            "published_utc": "2026-08-24T12:42:09+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Microsoft: August updates break printing, PDF export in WPF apps",
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-updates-break-printing-pdf-export-in-wpf-apps/",
@@ -408,13 +436,6 @@
             "published_utc": "2026-08-24T08:05:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "ToxicPanda Android malware uses VPN permissions to block Google Play",
-            "link": "https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/",
-            "summary": "The ToxicPanda Android malware has evolved with new malicious functionality, expanding its targeting to 349 applications and adding support for 167 re...",
-            "published_utc": "2026-08-23T14:23:46+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "How to turn your TV in a computer monitor in 3 easy steps - and for free",
             "link": "https://www.zdnet.com/article/how-to-use-your-tv-as-a-computer-monitor/",
@@ -441,20 +462,6 @@
             "link": "https://www.zdnet.com/article/i-cant-stop-80-of-developers-find-ai-coding-more-addictive-than-helpful/",
             "summary": "A Coddy Developer Survey revealed that AI coding is leading to a new kind of burnout.",
             "published_utc": "2026-08-22T16:24:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Hackers infect Android car head units with proxy botnet malware",
-            "link": "https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/",
-            "summary": "A supply-chain attack targeting Android-based car head units is using a legitimate device-update app to spread malware that enlists compromised device...",
-            "published_utc": "2026-08-22T14:14:24+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Named Pipes Under Attack: Securing Windows Interprocess Communication",
-            "link": "https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/",
-            "summary": "Windows named pipes provide fast interprocess communication, but weak access controls can expose privileged services to untrusted processes. ThreatLoc...",
-            "published_utc": "2026-08-22T13:00:09+00:00"
         },
         {
             "source": "WIRED Security",
@@ -2695,13 +2702,6 @@
             "link": "https://www.infosecurity-magazine.com/news/hostile-states-cni-75-percent-ncsc/",
             "summary": "Richard Horne, the NCSC CEO, said three-quarters of cyber-attacks targeting UK critical infrastructure came from nation-state actors",
             "published_utc": "2026-06-18T09:10:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Cybercrime Surges in APAC as Digitalization Takes Hold",
-            "link": "https://www.infosecurity-magazine.com/news/cybercrime-surges-apac-digitization/",
-            "summary": "Interpol claims cybercrime accounts for third of crime in over half of Asia and South Pacific countries",
-            "published_utc": "2026-06-18T08:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
