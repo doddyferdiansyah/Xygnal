@@ -1,6 +1,20 @@
 {
-    "lastUpdatedUTC": "2026-08-25T21:28:46.267785+00:00",
+    "lastUpdatedUTC": "2026-08-25T22:27:49.097437+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "LACMA data breach last year exposed social security and medical data",
+            "link": "https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/",
+            "summary": "The Los Angeles County Museum of Art (LACMA) has announced that a breach last year exposed customer and employee information. [...]",
+            "published_utc": "2026-08-25T21:58:14+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers abuse npm mirrors to host phishing redirect pages",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-npm-mirrors-to-host-phishing-redirect-pages/",
+            "summary": "Threat actors are abusing npm and its mirrors to host malicious HTML pages that impersonate Cloudflare CAPTCHAs to redirect visitors to attacker-contr...",
+            "published_utc": "2026-08-25T21:39:01+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "AnonyMousKIT PhaaS uses voice AI agents to phish iPhone passcodes",
@@ -408,25 +422,11 @@
             "published_utc": "2026-08-24T14:00:19+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "South Korean startup platform breach exposes key management failures",
-            "link": "https://www.bleepingcomputer.com/news/security/south-korean-startup-platform-breach-exposes-key-management-failures/",
-            "summary": "A breach at South Korea's government-backed startup platform exposed encrypted personal data after an encryption key was included in an API. Penta Sec...",
-            "published_utc": "2026-08-24T14:00:10+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Doubloon Dredger Abuses Notion to Harvest Authentication Tokens",
             "link": "https://www.infosecurity-magazine.com/news/doubloon-dredger-notion/",
             "summary": "Doubloon Dredger abused Notion and malicious PDFs to harvest Microsoft authentication tokens",
             "published_utc": "2026-08-24T13:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft: August updates break printing, PDF export in WPF apps",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-updates-break-printing-pdf-export-in-wpf-apps/",
-            "summary": "Microsoft has confirmed that .NET Framework updates released as part of the August 2026 Patch Tuesday are breaking printing and PDF export in WPF appl...",
-            "published_utc": "2026-08-24T12:40:21+00:00"
         },
         {
             "source": "CSO Online",
