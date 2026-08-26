@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-08-26T13:54:43.274327+00:00",
+    "lastUpdatedUTC": "2026-08-26T14:44:22.124006+00:00",
     "articles": [
+        {
+            "source": "InfosecurityMag",
+            "title": "Tortoiseshell Expands Malware Toolset With New Backdoor, SSH Tunnel",
+            "link": "https://www.infosecurity-magazine.com/news/tortoiseshell-new-backdoor-ssh/",
+            "summary": "Group-IB uncovered new Tortoiseshell infrastructure, including a backdoor and SSH tunneling tool",
+            "published_utc": "2026-08-26T14:30:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "FBI disrupts proxy network enabling Chinese espionage operations",
+            "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-proxy-network-enabling-chinese-espionage-operations/",
+            "summary": "The FBI has disrupted infrastructure associated with a technical \"quartermaster\" that provided reconnaissance, proxy management, and operational routi...",
+            "published_utc": "2026-08-26T14:17:59+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Snowflake ends service-account passwords. Now comes the hard part",
+            "link": "https://www.bleepingcomputer.com/news/security/snowflake-ends-service-account-passwords-now-comes-the-hard-part/",
+            "summary": "Snowflake is ending password authentication for legacy service accounts, forcing organizations to migrate them to passwordless methods. Token Security...",
+            "published_utc": "2026-08-26T14:01:11+00:00"
+        },
         {
             "source": "InfosecurityMag",
             "title": "Interpol Operation Jackal IV Identifies 263 Cybercrime Suspects",
@@ -441,20 +462,6 @@
             "link": "https://www.csoonline.com/article/4213266/how-equifax-is-using-ai-to-elevate-its-cybersecurity.html",
             "summary": "",
             "published_utc": "2026-08-25T08:25:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
-            "link": "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/",
-            "summary": "An unpatched vulnerability in Calix GS7 XGS (GS5239XG) residential routers used by multiple U.S. broadband providers allows remote, unauthenticated at...",
-            "published_utc": "2026-08-24T21:14:30+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Hackers target WordPress sites in miniOrange auth bypass attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/",
-            "summary": "Hackers are attempting to exploit two critical authentication bypass vulnerabilities in the miniOrange SAML 2.0 Single Sign On plugin for WordPress th...",
-            "published_utc": "2026-08-24T19:26:32+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -2688,13 +2695,6 @@
             "link": "https://www.infosecurity-magazine.com/news/operation-endgame-socgholish-evil/",
             "summary": "SocGholish malware has been removed from 15,000 sites associated with Evil Corp hackers",
             "published_utc": "2026-06-19T10:15:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Confidence Lacks in Threat Detection Across Non-Email Channels like Slack and Teams",
-            "link": "https://www.infosecurity-magazine.com/news/threat-detection-across-nonemail/",
-            "summary": "Half of cybersecurity leaders lack confidence in detecting threats on Slack, Teams and other non-email platforms, despite growing attacker focus",
-            "published_utc": "2026-06-19T09:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
