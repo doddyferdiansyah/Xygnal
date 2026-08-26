@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-08-26T19:03:34.388333+00:00",
+    "lastUpdatedUTC": "2026-08-26T22:49:03.647805+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Critical Avada WordPress theme flaw enables zero-click RCE",
+            "link": "https://www.bleepingcomputer.com/news/security/critical-avada-wordpress-theme-flaw-enables-zero-click-rce/",
+            "summary": "A critical vulnerability chain in the popular Avada theme for WordPress can be exploited by an unauthenticated attacker to execute arbitrary PHP code ...",
+            "published_utc": "2026-08-26T21:33:20+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Apple sets its iPhone 18 event for September: A new foldable and CEO could steal the show",
+            "link": "https://www.zdnet.com/article/what-to-expect-from-apples-confirmed-sept-9-launch-event/",
+            "summary": "Is a foldable iPhone finally in our future? We'll be on the ground on Sept. 9 to find out.",
+            "published_utc": "2026-08-26T19:18:00+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "What We Still Don’t Know About OpenAI’s Hugging Face Hack",
+            "link": "https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/",
+            "summary": "The AI giant acknowledges that it could have done far more to prevent its AI agents from going rogue. But it still fails to explain why it didn't see ...",
+            "published_utc": "2026-08-26T19:16:42+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "New GPUThor attack defeats NVIDIA ECC protection for root access",
@@ -307,7 +328,7 @@
             "title": "Some Spectrum internet customers can get free Amazon Prime - see if you're eligible",
             "link": "https://www.zdnet.com/article/spectrum-internet-customers-free-amazon-prime/",
             "summary": "The offer is open to subscribers on any tier, but it is location-based.",
-            "published_utc": "2026-08-25T17:55:25+00:00"
+            "published_utc": "2026-08-25T17:55:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -359,13 +380,6 @@
             "published_utc": "2026-08-25T15:41:54+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "How I turned my ancient Windows PC into a Chromebook for free - with FydeOS",
-            "link": "https://www.zdnet.com/article/fydeos-chromeos-clone-revive-aging-pc/",
-            "summary": "FydeOS aims to bring a Google Chromebook-like experience to standard PCs, and it succeeds - with a caveat or two.",
-            "published_utc": "2026-08-25T15:37:30+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Hospital operator Nutex Health says data stolen in cyberattack",
             "link": "https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/",
@@ -385,13 +399,6 @@
             "link": "https://www.securityweek.com/alice-raises-140m-to-expand-ai-model-defenses-and-enterprise-guardrails/",
             "summary": "",
             "published_utc": "2026-08-25T14:11:59+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "From Fake Workers to Account Recovery: The Growing Identity Verification Risk",
-            "link": "https://www.bleepingcomputer.com/news/security/from-fake-workers-to-account-recovery-the-growing-identity-verification-risk/",
-            "summary": "Attackers are increasingly targeting the processes used to establish or recover identity rather than attacking the login itself. Specops explains how ...",
-            "published_utc": "2026-08-25T14:01:11+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -1568,13 +1575,6 @@
             "link": "https://www.infosecurity-magazine.com/news/teams-phishing-abused-legit/",
             "summary": "Check Point researchers detail phishing attack as an example of attackers dropping fake Microsoft login pages in favor of abusing Microsoft’s legitima...",
             "published_utc": "2026-07-30T12:00:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "OpenAI’s Hacking Debacle Comes Down to Human Error",
-            "link": "https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake/",
-            "summary": "If the generative AI giant had followed well-known security best practices, it’s likely that its AI agent would never have escaped to the open interne...",
-            "published_utc": "2026-07-30T10:30:00+00:00"
         },
         {
             "source": "InfosecurityMag",
