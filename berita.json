@@ -1,9 +1,51 @@
 {
-    "lastUpdatedUTC": "2026-08-26T16:17:56.002856+00:00",
+    "lastUpdatedUTC": "2026-08-26T19:03:34.388333+00:00",
     "articles": [
         {
+            "source": "BleepingComputer",
+            "title": "New GPUThor attack defeats NVIDIA ECC protection for root access",
+            "link": "https://www.bleepingcomputer.com/news/security/new-gputhor-attack-defeats-nvidia-ecc-protection-for-root-access/",
+            "summary": "A newly disclosed Rowhammer attack called GPUThor can bypass error-correcting code (ECC) protections on NVIDIA GPUs, enabling denial-of-service (DoS) ...",
+            "published_utc": "2026-08-26T18:48:24+00:00"
+        },
+        {
             "source": "ZDNet Security",
-            "title": "Google Pixel 11 Review: Why the base model is still my favorite, even this year",
+            "title": "This 120Hz tablet replaced my Kindle and iPad for $220 - here's why I recommend it",
+            "link": "https://www.zdnet.com/article/tcl-nxtpaper-11-plus-tablet-deal-labor-day-2026/",
+            "summary": "The TCL Nxtpaper 11 Plus is an 11.5-inch Android tablet that can be all you need, especially with this early Labor Day deal.",
+            "published_utc": "2026-08-26T18:16:11+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "FBI Disrupts Chinese Proxy Tools Used in Mass Hacking of US Agencies and Infrastructure",
+            "link": "https://www.wired.com/story/fbi-disrupts-chinese-proxy-tools-used-in-mass-hacking-of-us-agencies-and-infrastructure/",
+            "summary": "China’s hacking campaign targeted NASA, the Federal Reserve, the US Senate, the Justice Department, and more, according to the DOJ.",
+            "published_utc": "2026-08-26T17:57:06+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How to sideload Android apps on your phone in 2026 - and what's behind the changes",
+            "link": "https://www.zdnet.com/article/how-to-sideload-android-apps-on-your-phone-in-2026/",
+            "summary": "If you're into installing Android apps outside the Google Play Store, you should be aware that the process has changed and now includes a waiting period.",
+            "published_utc": "2026-08-26T17:34:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Meta agrees to $18 billion settlement over teen social media harms",
+            "link": "https://www.bleepingcomputer.com/news/technology/meta-agrees-to-18-billion-settlement-over-teen-social-media-harms/",
+            "summary": "Meta has reached a proposed settlement worth up to approximately $18 billion with a bipartisan coalition of 52 attorneys generals over allegations tha...",
+            "published_utc": "2026-08-26T16:41:05+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Will plug-in solar plus batteries solve your power problem? I did the math",
+            "link": "https://www.zdnet.com/article/plug-in-solar-plus-batteries-save-money/",
+            "summary": "It can't be just about harvesting solar power - it's also about storage, and time-shifting cheap, off-peak power to times when it's more expensive.",
+            "published_utc": "2026-08-26T16:30:48+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Google Pixel 11 review: Why the base model is still my favorite, even this year",
             "link": "https://www.zdnet.com/article/google-pixel-11-review/",
             "summary": "In a year of iterative upgrades, Google is introducing smart features that make the base Pixel still the one to buy for most people.",
             "published_utc": "2026-08-26T15:55:00+00:00"
@@ -324,13 +366,6 @@
             "published_utc": "2026-08-25T15:37:30+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Apple's M5 Ultra is its most powerful chip ever - with 4x faster AI performance than M3 Ultra",
-            "link": "https://www.zdnet.com/article/mac-mini-mac-studio-new-m6-m5-max-ultra/",
-            "summary": "The Mac Studio with the M5 Ultra will feature up to a whopping 512GB of unified memory, and drive up to eight external displays.",
-            "published_utc": "2026-08-25T15:29:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Hospital operator Nutex Health says data stolen in cyberattack",
             "link": "https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/",
@@ -359,25 +394,11 @@
             "published_utc": "2026-08-25T14:01:11+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Microsoft PowerToys adds Alt+Tab-style switching for an app's windows",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-alt-plustab-style-switching-for-an-apps-windows/",
-            "summary": "Microsoft updated its Windows PowerToys toolset with a new utility dubbed \"Window Hopper\" that lets users switch between an app's windows more quickly...",
-            "published_utc": "2026-08-25T13:51:58+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "WordPress Websites Targeted via MiniOrange Plugin Vulnerabilities",
             "link": "https://www.securityweek.com/wordpress-websites-targeted-via-miniorange-plugin-vulnerabilities/",
             "summary": "",
             "published_utc": "2026-08-25T13:33:12+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "WhatsApp adds stronger two-step verification, multiple passkeys",
-            "link": "https://www.bleepingcomputer.com/news/security/whatsapp-adds-stronger-two-step-verification-multiple-passkeys/",
-            "summary": "WhatsApp has started rolling out several new account security features, including support for multiple passkeys and stronger two-step verification. [...]",
-            "published_utc": "2026-08-25T13:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -392,20 +413,6 @@
             "link": "https://www.csoonline.com/article/4213644/nucleus-wants-to-get-ahead-of-scanners-on-new-vulnerabilities.html",
             "summary": "",
             "published_utc": "2026-08-25T13:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Portable Computer is Perplexity's new local AI agent - why it's a game changer",
-            "link": "https://www.zdnet.com/article/portable-computer-perplexity-local-ai-agent/",
-            "summary": "Running an AI model locally, Perplexity's new Portable Computer can deliver faster performance, tighter security, and lower costs. But it has some str...",
-            "published_utc": "2026-08-25T13:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "'Just a hobby, won't be big': Linus Torvalds introduced Linux 35 years ago - and almost called it Freax",
-            "link": "https://www.zdnet.com/article/just-a-hobby-linus-torvalds-introduced-linux-35-years-ago-almost-called-it-freax/",
-            "summary": "It's been 35 years since Finnish graduate student Linus Torvalds drafted a brief note saying he was starting a hobby operating system. The world will ...",
-            "published_utc": "2026-08-25T12:21:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -1568,13 +1575,6 @@
             "link": "https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake/",
             "summary": "If the generative AI giant had followed well-known security best practices, it’s likely that its AI agent would never have escaped to the open interne...",
             "published_utc": "2026-07-30T10:30:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "A Civilian Plane Crashed in New Mexico. Was the Military’s Tech to Blame?",
-            "link": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
-            "summary": "Drone warfare is making the skies more dangerous, even for airplanes far from the battlefield.",
-            "published_utc": "2026-07-30T10:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
