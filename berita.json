@@ -1,6 +1,160 @@
 {
-    "lastUpdatedUTC": "2026-08-28T01:19:04.389987+00:00",
+    "lastUpdatedUTC": "2026-08-28T13:54:00.133872+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "91% of professionals say their firm still falls short on AI - how to fix that",
+            "link": "https://www.zdnet.com/article/thomson-reuters-report-ai-value-gap-business/",
+            "summary": "Research suggests a gap between AI ambition and on-the-ground reality, but the good news is that professionals can fill it by focusing on well-grounde...",
+            "published_utc": "2026-08-28T13:32:37+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I've tested dozens of robot vacuums - this new $599 Roborock has all the features I need",
+            "link": "https://www.zdnet.com/article/roborock-qrevo-2-pro-review/",
+            "summary": "The Roborock Qrevo 2 Pro is a midrange robot vacuum and mop with a hands-free cleaning experience.",
+            "published_utc": "2026-08-28T13:00:48+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Fake Voicemail SVG Attachments Fuel Large-Scale Phishing Campaign",
+            "link": "https://www.infosecurity-magazine.com/news/fake-voicemail-svg-files-bypass/",
+            "summary": "A large-scale phishing campaign used fake voicemail SVG attachments to bypass email defenses, targeting 5527 organizations with over 26,000 malicious ...",
+            "published_utc": "2026-08-28T13:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Over 8,300 Gitea servers vulnerable to code execution attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/",
+            "summary": "Over 8,300 Internet-exposed Gitea instances are still unpatched against a critical security flaw exploited in ongoing remote code execution attacks, a...",
+            "published_utc": "2026-08-28T12:58:43+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "OpenAI Agents Exploited Linux Kernel Flaw on Company’s Own Systems",
+            "link": "https://www.securityweek.com/openai-agents-exploited-linux-kernel-flaw-on-companys-own-systems/",
+            "summary": "",
+            "published_utc": "2026-08-28T12:36:53+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Want a free Apple Watch? Play ZDNET's 'Guessing Game' to win one - only 4 days left",
+            "link": "https://www.zdnet.com/article/big-guessing-game-apple-edition-round-3/",
+            "summary": "It's the third and final round of ZDNET's Big Guessing Game. What do you think Apple will announce?",
+            "published_utc": "2026-08-28T11:57:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Even an AI cost-management vendor can lose control of its agent spending",
+            "link": "https://www.zdnet.com/article/even-an-ai-cost-management-vendor-can-lose-control-of-its-agent-spending/",
+            "summary": "In one instance, an AI agent stayed open for four days and ran 4,819 calls for almost $4,000. No one had budgeted for this cost.",
+            "published_utc": "2026-08-28T11:51:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Toy-making giant Hasbro disclose data breach affecting employees",
+            "link": "https://www.bleepingcomputer.com/news/security/toy-making-giant-hasbro-disclose-data-breach-affecting-employees/",
+            "summary": "Hasbro, one of the world's largest toy and game companies, has disclosed that attackers have accessed the personal and financial information of an und...",
+            "published_utc": "2026-08-28T11:46:57+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How to get free Google AI Pro for an entire year - and save $240: 3 ways",
+            "link": "https://www.zdnet.com/article/how-to-get-free-google-ai-pro-subscription-for-one-year/",
+            "summary": "Google is offering its premium AI subscription plan for free. It usually costs $20 a month - and comes with many benefits.",
+            "published_utc": "2026-08-28T11:45:00+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "AI Doesn’t Mean the End of Mathematics—at Least Not Yet",
+            "link": "https://www.schneier.com/blog/archives/2026/08/ai-doesnt-mean-the-end-of-mathematics-at-least-not-yet.html",
+            "summary": "",
+            "published_utc": "2026-08-28T11:02:22+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Tech, Cybersecurity Giants Unite Behind OpenAI-Led Cyber Defense Pledge",
+            "link": "https://www.securityweek.com/tech-cybersecurity-giants-unite-behind-openai-led-cyber-defense-pledge/",
+            "summary": "",
+            "published_utc": "2026-08-28T11:01:22+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Think You’ve Eliminated Chinese AI? Check the Model’s Lineage, Cisco Says",
+            "link": "https://www.securityweek.com/think-youve-eliminated-chinese-ai-check-the-models-lineage-cisco-says/",
+            "summary": "",
+            "published_utc": "2026-08-28T10:30:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "ServiceNow warns of three max severity security vulnerabilities",
+            "link": "https://www.bleepingcomputer.com/news/security/servicenow-warns-of-three-max-severity-security-vulnerabilities/",
+            "summary": "ServiceNow released security patches for three new maximum-severity AI Platform vulnerabilities that can be exploited in code injection, SQL injection...",
+            "published_utc": "2026-08-28T10:29:42+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "These Mammotion robot lawn mowers can climb hills - and they're up to $560 off right now",
+            "link": "https://www.zdnet.com/article/mammotion-robot-mowers-deal-luba-3-awd-3000h-luba-mini-2-awd-1500h/",
+            "summary": "The Mammotion LUBA 3 AWD 3000H and the LUBA Mini 2 mowers are both heavily discounted - here's which you should get.",
+            "published_utc": "2026-08-28T10:00:43+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "The first 24 hours of an AI agent security incident",
+            "link": "https://www.csoonline.com/article/4214961/the-first-24-hours-of-an-ai-agent-security-incident.html",
+            "summary": "",
+            "published_utc": "2026-08-28T10:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Window to Tackle Surge in AI-Enabled Cyber Attacks Narrowing, Tech Giants Warn",
+            "link": "https://www.infosecurity-magazine.com/news/window-ai-attacks-narrowing-tech/",
+            "summary": "More than 100 companies, including OpenAI, Anthropic, Google and Microsoft, have urged collective action to unlock the power of AI to protect critical...",
+            "published_utc": "2026-08-28T09:30:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Windows 11 KB5120998 update released with 35 changes and fixes",
+            "link": "https://www.bleepingcomputer.com/news/security/windows-11-kb5120998-update-released-with-35-changes-and-fixes/",
+            "summary": "Microsoft released the KB5120998 preview cumulative update for Windows 11 versions 25H2 and 24H2, which comes with 35 changes, including improvements ...",
+            "published_utc": "2026-08-28T09:10:13+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Beyond compliance: Designing systems that earn customer trust",
+            "link": "https://www.csoonline.com/article/4214953/beyond-compliance-designing-systems-that-earn-customer-trust.html",
+            "summary": "",
+            "published_utc": "2026-08-28T09:00:00+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "How an Atlanta Suburb Ended Up Sharing Flock Data With More Than 2,000 Organizations",
+            "link": "https://www.wired.com/story/how-an-atlanta-suburb-ended-up-sharing-flock-data-with-more-than-2000-organizations/",
+            "summary": "Alpharetta, Georgia, cops share data with thousands of Flock users, ranging from federal agencies to a fish and wildlife commission. The reasons why s...",
+            "published_utc": "2026-08-28T09:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "PaperCut Releases Emergency Patch for Exploited Zero-Day",
+            "link": "https://www.securityweek.com/papercut-releases-emergency-patch-for-exploited-zero-day/",
+            "summary": "",
+            "published_utc": "2026-08-28T08:40:36+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "CTEM can give your security team a contextual edge",
+            "link": "https://www.csoonline.com/article/4215083/ctem-redefines-the-approach-to-cybersecurity-in-organizations.html",
+            "summary": "",
+            "published_utc": "2026-08-28T08:25:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Threat Actors Abuse Cursor Agent AI to Assist Ransomware Operations",
+            "link": "https://www.infosecurity-magazine.com/news/abuse-cursor-agent-ransomware/",
+            "summary": "Aurora ransomware operators are abusing SpaceX’s Cursor Agent AI tool to conduct tasks such as reconnaissance and exploitation activities",
+            "published_utc": "2026-08-28T08:00:00+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Nearly 700 rogue AI agents coordinated in the Hugging Face attack",
@@ -118,7 +272,7 @@
             "title": "Is your really old iPhone still worth anything or just e-waste? How to tell",
             "link": "https://www.zdnet.com/article/is-old-iphone-still-worth-anything-or-just-e-waste-how-to-tell/",
             "summary": "I found my old iPhone 4 in a drawer and wondered: Does it work? Is it worth anything? What should I do with it? I went looking for answers.",
-            "published_utc": "2026-08-27T13:28:37+00:00"
+            "published_utc": "2026-08-27T13:28:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -240,13 +394,6 @@
             "published_utc": "2026-08-27T10:18:27+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "The Future of AI-Driven Security Depends on Complete Data",
-            "link": "https://www.securityweek.com/the-future-of-ai-driven-security-depends-on-complete-data/",
-            "summary": "",
-            "published_utc": "2026-08-27T10:00:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Boston Scientific Reveals Global Disruption After Cyber Incident",
             "link": "https://www.infosecurity-magazine.com/news/boston-scientific-global/",
@@ -275,13 +422,6 @@
             "published_utc": "2026-08-27T09:15:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "US Disrupts Chinese Hacking Platform Used in Military and Critical Infrastructure Attacks",
-            "link": "https://www.securityweek.com/us-disrupts-chinese-hacking-platform-used-in-military-and-critical-infrastructure-attacks/",
-            "summary": "",
-            "published_utc": "2026-08-27T09:01:06+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "The best iPad Air cases of 2026: Expert tested",
             "link": "https://www.zdnet.com/article/best-ipad-air-case/",
@@ -303,34 +443,6 @@
             "published_utc": "2026-08-27T08:13:50+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Pro-Russian Hackers Claim Responsibility for Major Cyberattack on Norway’s Public Digital Services",
-            "link": "https://www.securityweek.com/pro-russian-hackers-claim-responsibility-for-major-cyberattack-on-norways-public-digital-services/",
-            "summary": "",
-            "published_utc": "2026-08-27T08:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Recent Citrix NetScaler Vulnerability Exploited in the Wild",
-            "link": "https://www.securityweek.com/recent-citrix-netscaler-vulnerability-exploited-in-the-wild/",
-            "summary": "",
-            "published_utc": "2026-08-27T04:39:19+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Critical Avada WordPress theme flaw enables zero-click RCE",
-            "link": "https://www.bleepingcomputer.com/news/security/critical-avada-wordpress-theme-flaw-enables-zero-click-rce/",
-            "summary": "A critical vulnerability chain in the popular Avada theme for WordPress can be exploited by an unauthenticated attacker to execute arbitrary PHP code ...",
-            "published_utc": "2026-08-26T21:33:20+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Apple sets iPhone 18 event for September: A new foldable and CEO could steal the show",
-            "link": "https://www.zdnet.com/article/what-to-expect-from-apples-confirmed-sept-9-launch-event/",
-            "summary": "Is a foldable iPhone finally in our future? We'll be on the ground on Sept. 9 to find out.",
-            "published_utc": "2026-08-26T19:18:00+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "What We Still Don’t Know About OpenAI’s Hugging Face Hack",
             "link": "https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/",
@@ -338,67 +450,11 @@
             "published_utc": "2026-08-26T19:16:42+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "New GPUThor attack defeats NVIDIA ECC protection for root access",
-            "link": "https://www.bleepingcomputer.com/news/security/new-gputhor-attack-defeats-nvidia-ecc-protection-for-root-access/",
-            "summary": "A newly disclosed Rowhammer attack called GPUThor can bypass error-correcting code (ECC) protections on NVIDIA GPUs, enabling denial-of-service (DoS) ...",
-            "published_utc": "2026-08-26T18:48:24+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "This 120Hz tablet replaced my Kindle and iPad for $220 - here's why I recommend it",
-            "link": "https://www.zdnet.com/article/tcl-nxtpaper-11-plus-tablet-deal-labor-day-2026/",
-            "summary": "The TCL Nxtpaper 11 Plus is an 11.5-inch Android tablet that can be all you need, especially with this early Labor Day deal.",
-            "published_utc": "2026-08-26T18:16:11+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "FBI Disrupts Chinese Proxy Tools Used in Mass Hacking of US Agencies and Infrastructure",
             "link": "https://www.wired.com/story/fbi-disrupts-chinese-proxy-tools-used-in-mass-hacking-of-us-agencies-and-infrastructure/",
             "summary": "China’s hacking campaign targeted NASA, the Federal Reserve, the US Senate, the Justice Department, and more, according to the DOJ.",
             "published_utc": "2026-08-26T17:57:06+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How to sideload Android apps on your phone in 2026 - and what's behind the changes",
-            "link": "https://www.zdnet.com/article/how-to-sideload-android-apps-on-your-phone-in-2026/",
-            "summary": "If you're into installing Android apps outside the Google Play Store, you should be aware that the process has changed and now includes a waiting period.",
-            "published_utc": "2026-08-26T17:34:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Meta agrees to $18 billion settlement over teen social media harms",
-            "link": "https://www.bleepingcomputer.com/news/technology/meta-agrees-to-18-billion-settlement-over-teen-social-media-harms/",
-            "summary": "Meta has reached a proposed settlement worth up to approximately $18 billion with a bipartisan coalition of 52 attorneys generals over allegations tha...",
-            "published_utc": "2026-08-26T16:41:05+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Will plug-in solar plus batteries solve your power problem? I did the math",
-            "link": "https://www.zdnet.com/article/plug-in-solar-plus-batteries-save-money/",
-            "summary": "It can't be just about harvesting solar power - it's also about storage, and time-shifting cheap, off-peak power to times when it's more expensive.",
-            "published_utc": "2026-08-26T16:30:48+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Google Pixel 11 review: Why the base model is still my favorite, even this year",
-            "link": "https://www.zdnet.com/article/google-pixel-11-review/",
-            "summary": "In a year of iterative upgrades, Google is introducing smart features that make the base Pixel still the one to buy for most people.",
-            "published_utc": "2026-08-26T15:55:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Boston Scientific says cyberattack disrupted operations globally",
-            "link": "https://www.bleepingcomputer.com/news/security/boston-scientific-says-cyberattack-disrupted-operations-globally/",
-            "summary": "Medical technology company Boston Scientific has been targeted in a cyberattack that disrupted some of its IT systems, causing operational disruptions...",
-            "published_utc": "2026-08-26T15:19:21+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "July was the worst month for ransomware victim claims in 2026 - or was it?",
-            "link": "https://www.zdnet.com/article/ransomware-july-victim-count-spiked-in-july-but-whats-behind-it/",
-            "summary": "We shouldn't ignore agentic AI ransomware threats, but the claims of a new ransomware group might be skewing the numbers.",
-            "published_utc": "2026-08-26T15:00:40+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -737,13 +793,6 @@
             "published_utc": "2026-08-20T12:40:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Kriminal breaks out of Grok, Claude guardrails at $12.99",
-            "link": "https://www.csoonline.com/article/4211952/kriminal-breaks-out-of-grok-claude-guardrails-at-12-99.html",
-            "summary": "",
-            "published_utc": "2026-08-20T12:00:08+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "ICS Operators Warned of AI-Driven Attacks on Siemens PLCs",
             "link": "https://www.infosecurity-magazine.com/news/ics-ai-attacks-siemens/",
@@ -770,20 +819,6 @@
             "link": "https://www.infosecurity-magazine.com/news/def-con-attendees-persistent/",
             "summary": "Huntress researcher explains how they were targeted by an elaborate and persistent phishing scam following Def Con",
             "published_utc": "2026-08-20T09:30:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Airlock Digital Completes Independent IRAP Assessment at the PROTECTED Level",
-            "link": "https://www.csoonline.com/article/4211754/airlock-digital-completes-independent-irap-assessment-at-the-protected-level.html",
-            "summary": "",
-            "published_utc": "2026-08-20T04:55:04+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "OpenAI ‘temporarily slows’ scaling efforts, also promises zero data retention for select frontier model customers",
-            "link": "https://www.csoonline.com/article/4211672/openai-temporarily-slows-scaling-efforts-also-promises-zero-data-retention-for-select-frontier-model-customers-2.html",
-            "summary": "",
-            "published_utc": "2026-08-20T00:12:50+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -819,13 +854,6 @@
             "link": "https://www.infosecurity-magazine.com/news/critical-infrastructure-medusa/",
             "summary": "The FBI warned that the RaaS operation has significantly enhanced its tactics, techniques and procedures, making it harder for defenders to counter",
             "published_utc": "2026-08-19T10:50:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "ICE Collecting DNA Samples",
-            "link": "https://www.schneier.com/blog/archives/2026/08/ice-collecting-dna-samples.html",
-            "summary": "",
-            "published_utc": "2026-08-19T10:46:37+00:00"
         },
         {
             "source": "WIRED Security",
@@ -1575,13 +1603,6 @@
             "link": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
             "summary": "In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real-world organizations during thir...",
             "published_utc": "2026-07-31T01:24:26+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "A Leaked Memo Ties Cyberattacks on Minnesota Water Utilities to Iran",
-            "link": "https://www.wired.com/story/a-leaked-memo-ties-cyberattacks-on-minnesota-water-utilities-to-iran/",
-            "summary": "A memo obtained by WIRED, issued by the water utilities information sharing group WaterISAC, links dozens of cyberattacks against Minnesota water util...",
-            "published_utc": "2026-07-30T21:20:00+00:00"
         },
         {
             "source": "KrebsOnSecurity",
@@ -2674,27 +2695,6 @@
             "link": "https://www.infosecurity-magazine.com/news/five-eyes-issues-urgent-call/",
             "summary": "The Five Eyes Alliance has published a rare call to action for organizations facing AI threats",
             "published_utc": "2026-06-23T08:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "GentleKiller Framework Disables Victims' Security Software",
-            "link": "https://www.infosecurity-magazine.com/news/gentlekiller-gentlemen-ransomware/",
-            "summary": "ESET details GentleKiller, the EDR-killer framework the Gentlemen ransomware gang gives affiliates",
-            "published_utc": "2026-06-22T15:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Unpatchable BootROM Flaw Impacts Apple A12, A13 Chips",
-            "link": "https://www.infosecurity-magazine.com/news/apple-bootrom-exploit-a12-a13/",
-            "summary": "Apple BootROM exploit exposes unpatchable USB flaw on A12 and A13 devices",
-            "published_utc": "2026-06-22T14:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Microsoft Attributes Mastra AI Supply Chain Attack to North Korea",
-            "link": "https://www.infosecurity-magazine.com/news/mastra-ai-supply-chain-attack/",
-            "summary": "North Korean threat actor Sapphire Sleet has been linked to a supply chain attack targeting Mastra, according to Microsoft security researchers",
-            "published_utc": "2026-06-22T11:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
