@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-08-30T10:17:59.202147+00:00",
+    "lastUpdatedUTC": "2026-08-30T15:11:07.632645+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "FulcrumSec claims Manchester Airports hack, theft of 86 GB of data",
+            "link": "https://www.bleepingcomputer.com/news/security/fulcrumsec-claims-manchester-airports-hack-theft-of-86-gb-of-data/",
+            "summary": "FulcrumSec claims it stole 86 GB of data from Manchester Airports Group. BleepingComputer validated one traveller's record, while samples revealed det...",
+            "published_utc": "2026-08-30T15:00:21+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Anthropic warns infostealer malware is hijacking Claude sessions to drain usage",
+            "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/",
+            "summary": "Anthropic is warning some Claude users that infostealer malware on their PCs has stolen active Claude login sessions, allowing attackers to access acc...",
+            "published_utc": "2026-08-30T14:30:25+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Chrome Web Store extensions caught stealing crypto, browser data",
+            "link": "https://www.bleepingcomputer.com/news/security/chrome-web-store-extensions-caught-stealing-crypto-browser-data/",
+            "summary": "Multiple extensions for Google Chrome and Microsoft Edge delivered a malware framework that deployed modules to steal cryptocurrency, sensitive data, ...",
+            "published_utc": "2026-08-30T14:17:44+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Anthropic is cutting Claude Code's current weekly limits by 17%",
@@ -352,20 +373,6 @@
             "published_utc": "2026-08-27T16:34:28+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "PaperCut warns of NG, MF flaw exploited in zero-day attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/papercut-warns-of-ng-mf-flaw-exploited-in-zero-day-attacks/",
-            "summary": "PaperCut is warning that hackers are actively exploiting a vulnerability in all versions of its PaperCut NG and PaperCut MF print management software ...",
-            "published_utc": "2026-08-27T16:31:53+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Manchester Airports Group says hackers stole travelers' data",
-            "link": "https://www.bleepingcomputer.com/news/security/manchester-airports-group-says-hackers-stole-travelers-data/",
-            "summary": "The Manchester Airports Group (MAG) disclosed that hackers breached its systems and stole customer data, including Wi-Fi sign-ups from Manchester, Sta...",
-            "published_utc": "2026-08-27T16:12:26+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "AI a 'force multiplier' for low-skilled threat actors: 4 ways organizations should respond",
             "link": "https://www.zdnet.com/article/ai-armed-script-kiddies-power-of-state-threat-actors-unit-42/",
@@ -385,13 +392,6 @@
             "link": "https://www.securityweek.com/trump-order-aims-to-block-foreign-backdoors-in-us-power-grid-gear/",
             "summary": "",
             "published_utc": "2026-08-27T14:17:26+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "How Threat Research and MDR Help SMBs Build a Defensive Edge",
-            "link": "https://www.bleepingcomputer.com/news/security/how-threat-research-and-mdr-help-smbs-build-a-defensive-edge/",
-            "summary": "Threat research gives security teams insight into how attackers operate, while MDR turns that intelligence into faster detection and response. ESET ex...",
-            "published_utc": "2026-08-27T14:00:10+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2982,6 +2982,13 @@
             "link": "https://www.welivesecurity.com/en/business-security/what-cybersecurity-actually-does-for-your-business/",
             "summary": "The ability to continue operating safely in an unsafe environment where competitors cannot is a competitive advantage that is rarely measured or discu...",
             "published_utc": "2026-03-06T10:00:00+00:00"
+        },
+        {
+            "source": "WeLiveSecurity",
+            "title": "How SMBs use threat research and MDR to build a defensive edge",
+            "link": "https://www.welivesecurity.com/en/business-security/how-smbs-use-threat-research-mdr-build-defensive-edge/",
+            "summary": "We speak to Director of ESET Threat Research Jean-Ian Boutin about where solutions that blend advanced technology with human expertise provide the mos...",
+            "published_utc": "2026-03-05T10:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
