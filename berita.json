@@ -1,6 +1,55 @@
 {
-    "lastUpdatedUTC": "2026-09-01T13:10:33.832964+00:00",
+    "lastUpdatedUTC": "2026-09-01T17:39:26.653060+00:00",
     "articles": [
+        {
+            "source": "Schneier",
+            "title": "What’s the Scam?",
+            "link": "https://www.schneier.com/blog/archives/2026/09/whats-the-scam.html",
+            "summary": "",
+            "published_utc": "2026-09-01T17:36:13+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Leaked Russian Cyber-Operations Training Materials",
+            "link": "https://www.schneier.com/blog/archives/2026/09/leaked-russian-cyber-operations-training-materials.html",
+            "summary": "",
+            "published_utc": "2026-09-01T16:29:10+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers push malicious Virtualizor update in BGP hijacking attack",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-push-malicious-virtualizor-update-in-bgp-hijacking-attack/",
+            "summary": "Hackers delivered malicious updates to the Virtualizor VPS management software after hijacking BGP routing for its update infrastructure and redirecti...",
+            "published_utc": "2026-09-01T14:45:06+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Attackers Steal METR API Key and Burn $600,000 in AI Credits",
+            "link": "https://www.infosecurity-magazine.com/news/attackers-steal-metr-api-key/",
+            "summary": "Attackers used a stolen METR API key for three weeks, consuming model credits worth $600,000",
+            "published_utc": "2026-09-01T14:30:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Novocure data breach affects more than 1,400 cancer patients",
+            "link": "https://www.bleepingcomputer.com/news/security/novocure-data-breach-affects-more-than-1-400-cancer-patients/",
+            "summary": "Healthtech company Novocure says the data of an undisclosed number of employees and more than 1,400 U.S. cancer patients has been exposed in a mid-Aug...",
+            "published_utc": "2026-09-01T14:28:40+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Why Even the Best Edge Security Still Misses High-Risk Sessions",
+            "link": "https://www.bleepingcomputer.com/news/security/why-even-the-best-edge-security-still-misses-high-risk-sessions/",
+            "summary": "Attackers can hide behind residential proxies, VPNs, and other infrastructure that makes malicious sessions appear legitimate to existing edge securit...",
+            "published_utc": "2026-09-01T14:01:11+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "65% of Enterprises Have Seen AI Agents Act Out of Scope",
+            "link": "https://www.infosecurity-magazine.com/news/65-percent-enterprises-ai-agents/",
+            "summary": "EMA survey finds 65% of enterprises have seen AI agents act beyond intended scope",
+            "published_utc": "2026-09-01T13:30:00+00:00"
+        },
         {
             "source": "InfosecurityMag",
             "title": "White House Launches Pilot Program in Texas to Protect Water Infrastructure",
@@ -268,32 +317,11 @@
             "published_utc": "2026-08-31T08:55:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Microsoft asks users to ignore 'Antivirus is turned off' errors",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-antivirus-is-turned-off-errors/",
-            "summary": "Microsoft asked customers this week to ignore alerts that Defender Antivirus has been turned off after installing the latest Defender updates. [...]",
-            "published_utc": "2026-08-31T08:29:42+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Is your cloud security strategy ready for AI’s looming threat?",
             "link": "https://www.csoonline.com/article/4215419/is-your-cloud-security-strategy-ready-for-ais-looming-threat.html",
             "summary": "",
             "published_utc": "2026-08-31T08:25:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "FulcrumSec claims Manchester Airports hack, theft of 86 GB of data",
-            "link": "https://www.bleepingcomputer.com/news/security/fulcrumsec-claims-manchester-airports-hack-theft-of-86-gb-of-data/",
-            "summary": "FulcrumSec claims it stole 86 GB of data from Manchester Airports Group. BleepingComputer validated one traveller's record, while samples revealed det...",
-            "published_utc": "2026-08-30T15:00:21+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Anthropic warns infostealer malware is hijacking Claude sessions to drain usage",
-            "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/",
-            "summary": "Anthropic is warning some Claude users that infostealer malware on their PCs has stolen active Claude login sessions, allowing attackers to access acc...",
-            "published_utc": "2026-08-30T14:30:25+00:00"
         },
         {
             "source": "WIRED Security",
@@ -646,13 +674,6 @@
             "published_utc": "2026-08-24T13:00:00+00:00"
         },
         {
-            "source": "Schneier",
-            "title": "Criminal Deception in Silicon Valley",
-            "link": "https://www.schneier.com/blog/archives/2026/08/criminal-deception-in-silicon-valley.html",
-            "summary": "",
-            "published_utc": "2026-08-24T10:38:29+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Wake-Up Call for CNI After Iranian Attack Shuts Down UK Power Plant",
             "link": "https://www.infosecurity-magazine.com/news/cni-iranian-attack-shuts-uk-power/",
@@ -672,13 +693,6 @@
             "link": "https://www.wired.com/story/security-news-this-week-your-expired-visa-card-could-be-zombiefied-to-make-contactless-payments/",
             "summary": "Plus: Apple sends out an “unprecedented” number of spyware warnings, Ukraine hits a Russian ecommerce giant with cyber and drone attacks, and more.",
             "published_utc": "2026-08-22T10:30:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Friday Squid Blogging: Neon Flying Squid",
-            "link": "https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-neon-flying-squid.html",
-            "summary": "",
-            "published_utc": "2026-08-21T21:07:20+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2548,20 +2562,6 @@
             "link": "https://www.infosecurity-magazine.com/news/lookalike-npm-package-postcss/",
             "summary": "JFrog found an npm package impersonating postcss-selector-parser to drop a multi-stage Windows RAT",
             "published_utc": "2026-06-23T15:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "OpenAI Expands Daybreak to Help Defenders Patch Flaws",
-            "link": "https://www.infosecurity-magazine.com/news/openai-daybreak-gpt-5-5-cyber/",
-            "summary": "OpenAI expanded Daybreak with a full GPT-5.5-Cyber release to help defenders patch software flaws",
-            "published_utc": "2026-06-23T14:15:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Trump Issues Executive Order to Fast-Track Post-Quantum Migration",
-            "link": "https://www.infosecurity-magazine.com/news/trump-eo-post-quantum-migration/",
-            "summary": "All US federal agencies will have to complete their post-quantum cryptography transition by 2031, according to a new Trump Executive Order",
-            "published_utc": "2026-06-23T14:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
