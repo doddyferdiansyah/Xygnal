@@ -1,6 +1,20 @@
 {
-    "lastUpdatedUTC": "2026-09-01T20:40:16.107217+00:00",
+    "lastUpdatedUTC": "2026-09-01T23:04:50.909344+00:00",
     "articles": [
+        {
+            "source": "KrebsOnSecurity",
+            "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+            "link": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+            "summary": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the ...",
+            "published_utc": "2026-09-01T22:40:28+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers abuse Faronics Deploy admin tool to install ScreenConnect",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-faronics-deploy-admin-tool-to-install-screenconnect/",
+            "summary": "Phishing actors are abusing the legitimate Faronics Deploy endpoint-management platform to gain remote administrative control over victim computers an...",
+            "published_utc": "2026-09-01T20:53:23+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Palo Alto Networks Acquires AI Agent Platform Console",
@@ -287,13 +301,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/file-servers-are-here-to-stay-heres-how-to-manage-them-securely/",
             "summary": "File servers remain a critical part of many IT environments, but managing access securely can become complex as permissions accumulate. tenfold Softwa...",
             "published_utc": "2026-08-31T14:00:10+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Berlin confirms data theft after Rhysida ransomware attack claims",
-            "link": "https://www.bleepingcomputer.com/news/security/berlin-confirms-data-theft-after-rhysida-ransomware-attack-claims/",
-            "summary": "Berlin's city administration has confirmed that cybercriminals are attempting to extort the city after the Rhysida ransomware gang listed it on their ...",
-            "published_utc": "2026-08-31T13:30:01+00:00"
         },
         {
             "source": "CSO Online",
@@ -2275,13 +2282,6 @@
             "link": "https://www.infosecurity-magazine.com/news/fbi-google-take-down-netnut-proxy/",
             "summary": "The NetNut proxy network and the ‘Popa’ botnet are known to have infected devices with variants of Mirai DDoS botnets",
             "published_utc": "2026-07-03T09:35:00+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
-            "link": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
-            "summary": "The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling...",
-            "published_utc": "2026-07-02T19:27:33+00:00"
         },
         {
             "source": "InfosecurityMag",
