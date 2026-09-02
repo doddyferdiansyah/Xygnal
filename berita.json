@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2026-09-02T03:19:59.376119+00:00",
+    "lastUpdatedUTC": "2026-09-02T08:29:22.000029+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "How China industrialized the infrastructure behind state hacking",
+            "link": "https://www.csoonline.com/article/4217274/how-china-industrialized-the-infrastructure-behind-state-hacking.html",
+            "summary": "",
+            "published_utc": "2026-09-02T08:25:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "FulcrumSec Claims Responsibility for Manchester Airport Group Breach",
+            "link": "https://www.infosecurity-magazine.com/news/fulcrumsec-manchester-airport/",
+            "summary": "Threat group FulcrumSec claims MAG breach and leaks 550GB of data online",
+            "published_utc": "2026-09-02T08:15:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Sality botnet infrastructure dismantled in joint global takedown",
+            "link": "https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/",
+            "summary": "International law enforcement agencies and private partners have seized Sality malware infrastructure in a joint action aiming to disrupt and take dow...",
+            "published_utc": "2026-09-02T08:00:43+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "SonicWall warns of actively exploited SMA1000 zero-day flaws",
+            "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/",
+            "summary": "SonicWall warned customers that threat actors are chaining two new SMA1000 zero-day vulnerabilities in remote code execution attacks. [...]",
+            "published_utc": "2026-09-02T06:39:29+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "SonicWall Warns of Two SMA1000 Zero-Days Exploited in Attacks",
+            "link": "https://www.securityweek.com/sonicwall-warns-of-two-sma1000-zero-days-exploited-in-attacks/",
+            "summary": "",
+            "published_utc": "2026-09-02T05:04:52+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "Anthropic makes changes to stop AI agents running amok again",
@@ -233,13 +268,6 @@
             "published_utc": "2026-09-01T09:09:34+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "WatchGuard Patches Critical Vulnerabilities",
-            "link": "https://www.securityweek.com/watchguard-patches-critical-vulnerabilities/",
-            "summary": "",
-            "published_utc": "2026-09-01T08:50:04+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Healthcare Giant McKesson Investigates Data Breach Incident",
             "link": "https://www.infosecurity-magazine.com/news/healthcare-mckesson-investigates/",
@@ -301,20 +329,6 @@
             "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-outage-as-users-report-errors/",
             "summary": "ChatGPT Work is experiencing a partial outage, and users across multiple subscription plans may be unable to start or continue tasks. [...]",
             "published_utc": "2026-08-31T16:50:50+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Chinese Fire Ant hackers turn Cisco routers into spying platforms",
-            "link": "https://www.bleepingcomputer.com/news/security/chinese-fire-ant-hackers-turn-cisco-routers-into-spying-platforms/",
-            "summary": "The researchers discovered Fire Ant's new tactic after finding an active GRE (Generic Routing Encapsulation) tunnel interface on a Cisco IOS XR router...",
-            "published_utc": "2026-08-31T14:52:03+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "File servers are here to stay. Here’s how to manage them securely",
-            "link": "https://www.bleepingcomputer.com/news/security/file-servers-are-here-to-stay-heres-how-to-manage-them-securely/",
-            "summary": "File servers remain a critical part of many IT environments, but managing access securely can become complex as permissions accumulate. tenfold Softwa...",
-            "published_utc": "2026-08-31T14:00:10+00:00"
         },
         {
             "source": "CSO Online",
@@ -581,13 +595,6 @@
             "link": "https://www.csoonline.com/article/4214156/nemoclaws-ai-can-be-poisoned-through-a-browser-tab.html",
             "summary": "",
             "published_utc": "2026-08-26T11:35:43+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Microsoft warns patch window is collapsing, urges shift to network-level containment",
-            "link": "https://www.csoonline.com/article/4214135/microsoft-warns-patch-window-is-collapsing-urges-shift-to-network-level-containment.html",
-            "summary": "",
-            "published_utc": "2026-08-26T11:07:52+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2555,13 +2562,6 @@
             "link": "https://www.infosecurity-magazine.com/news/mps-criticize-government-museum/",
             "summary": "Public Accounts Committee (PAC) warns that museums and galleries aren’t getting enough government support on cyber",
             "published_utc": "2026-06-24T08:40:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Lookalike npm Package Hides a Multi-Stage Windows RAT",
-            "link": "https://www.infosecurity-magazine.com/news/lookalike-npm-package-postcss/",
-            "summary": "JFrog found an npm package impersonating postcss-selector-parser to drop a multi-stage Windows RAT",
-            "published_utc": "2026-06-23T15:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
