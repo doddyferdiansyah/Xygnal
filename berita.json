@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-09-02T17:40:05.916115+00:00",
+    "lastUpdatedUTC": "2026-09-02T20:38:13.260345+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "OpenLeash Adds a Human Check to Risky AI Agent Actions",
+            "link": "https://www.securityweek.com/openleash-adds-a-human-check-to-risky-ai-agent-actions/",
+            "summary": "",
+            "published_utc": "2026-09-02T19:30:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "WordPress backup plugin flaw exposes millions of sites to takeover attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/",
+            "summary": "An SQL injection vulnerability in the All-in-One WP Migration and Backup plugin for WordPress could allow unauthenticated attackers to execute remote ...",
+            "published_utc": "2026-09-02T19:28:46+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "AI Agents Are Now Emailing Me with Their Security Concerns",
+            "link": "https://www.schneier.com/blog/archives/2026/09/ai-agents-are-now-emailing-me-with-their-security-concerns.html",
+            "summary": "",
+            "published_utc": "2026-09-02T18:28:08+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Hackers exploit critical JFrog Artifactory flaw to forge admin tokens",
@@ -212,13 +233,6 @@
             "published_utc": "2026-09-01T20:53:23+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Palo Alto Networks Acquires AI Agent Platform Console",
-            "link": "https://www.securityweek.com/palo-alto-networks-acquires-ai-agent-platform-console/",
-            "summary": "",
-            "published_utc": "2026-09-01T20:29:42+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
             "link": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
@@ -350,13 +364,6 @@
             "link": "https://www.infosecurity-magazine.com/news/financial-stability-board-alarm/",
             "summary": "The Financial Stability Board has warned G20 banking leaders about the cyber risks of frontier AI",
             "published_utc": "2026-09-01T09:20:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Five Venezuelans plead guilty to ATM jackpotting attacks in US",
-            "link": "https://www.bleepingcomputer.com/news/security/five-venezuelans-plead-guilty-to-atm-jackpotting-attacks-in-us/",
-            "summary": "Five Venezuelan nationals pleaded guilty to attempting to empty automated teller machines (ATMs) using malware in a series of ATM jackpotting attacks....",
-            "published_utc": "2026-09-01T09:15:07+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -616,13 +623,6 @@
             "link": "https://www.infosecurity-magazine.com/news/four-in-five-ai-tools-no-it/",
             "summary": "Reco report reveals growing shadow AI problem and surge in vulnerability disclosures",
             "published_utc": "2026-08-26T13:00:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Spyware for Babies",
-            "link": "https://www.schneier.com/blog/archives/2026/08/spyware-for-babies.html",
-            "summary": "",
-            "published_utc": "2026-08-26T12:05:52+00:00"
         },
         {
             "source": "InfosecurityMag",
