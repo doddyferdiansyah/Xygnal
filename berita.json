@@ -1,6 +1,13 @@
 {
-    "lastUpdatedUTC": "2026-09-02T20:38:13.260345+00:00",
+    "lastUpdatedUTC": "2026-09-02T23:02:37.079027+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers exploit Sangoma Switchvox flaw to deploy reverse shells",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/",
+            "summary": "Attackers are actively exploiting CVE-2026-9586, an unauthenticated SQL injection vulnerability in the Sangoma Switchvox VoIP platform that can lead t...",
+            "published_utc": "2026-09-02T21:00:13+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "OpenLeash Adds a Human Check to Risky AI Agent Actions",
@@ -315,13 +322,6 @@
             "link": "https://www.infosecurity-magazine.com/news/white-house-texas-protect-water/",
             "summary": "Project Watershed 250 will see water providers in Texas provided with federal and private sector cybersecurity resources amid rising nation-state threats",
             "published_utc": "2026-09-01T12:45:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Nearly 22,000 Microsoft Exchange servers vulnerable to hijack attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/nearly-22-000-microsoft-exchange-servers-vulnerable-to-hijack-attacks/",
-            "summary": "Nearly 22,000 Microsoft Exchange servers exposed online remain unpatched against a high-severity authentication bypass vulnerability that allows attac...",
-            "published_utc": "2026-09-01T12:38:35+00:00"
         },
         {
             "source": "CSO Online",
