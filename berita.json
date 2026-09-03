@@ -1,6 +1,20 @@
 {
-    "lastUpdatedUTC": "2026-09-03T17:34:43.354218+00:00",
+    "lastUpdatedUTC": "2026-09-03T20:37:09.355324+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Coder's registry infrastructure compromised to push malicious modules",
+            "link": "https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/",
+            "summary": "Attackers compromised Coder's Cloudflare infrastructure and added unauthorized registry servers that delivered malicious Terraform modules containing ...",
+            "published_utc": "2026-09-03T20:04:24+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "HPE patches critical ArubaOS-CX remote code execution flaw",
+            "link": "https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/",
+            "summary": "Hewlett Packard Enterprise (HPE) has patched a critical vulnerability in the ArubaOS-CX network operating system that could lead to remote code execut...",
+            "published_utc": "2026-09-03T18:28:12+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Manchester Airports Group Data on 8.8 Million People Leaked After Ransom Refusal",
@@ -310,25 +324,11 @@
             "published_utc": "2026-09-02T10:45:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Microsoft Defender flags legitimate Google search links as malicious",
-            "link": "https://www.bleepingcomputer.com/news/security/microsoft-defender-flags-legitimate-google-search-links-as-malicious/",
-            "summary": "Microsoft is investigating an issue causing the Defender for Office 365 security software to mistakenly block access to legitimate Google search links...",
-            "published_utc": "2026-09-02T10:29:39+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Wireless Routers as Motion Detectors",
             "link": "https://www.schneier.com/blog/archives/2026/09/wireless-routers-as-motion-detectors.html",
             "summary": "",
             "published_utc": "2026-09-02T10:22:46+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "US charges Russian for infecting 80,000 freelancers with malware",
-            "link": "https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/",
-            "summary": "A California federal grand jury has indicted a Russian national for his role in a phishing campaign that infected thousands of freelancers with TVRAT ...",
-            "published_utc": "2026-09-02T09:06:48+00:00"
         },
         {
             "source": "InfosecurityMag",
