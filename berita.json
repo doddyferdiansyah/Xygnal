@@ -1,6 +1,90 @@
 {
-    "lastUpdatedUTC": "2026-09-04T13:12:34.578038+00:00",
+    "lastUpdatedUTC": "2026-09-04T17:24:00.855725+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "IDScan sued over alleged data breach affecting 153 million drivers",
+            "link": "https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/",
+            "summary": "Multiple lawsuits have been filed against identity verification company IDScan after hackers allegedly breached the service and offered to sell more t...",
+            "published_utc": "2026-09-04T16:56:45+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Using a VM to Contain an AI Agent",
+            "link": "https://www.schneier.com/blog/archives/2026/09/using-a-vm-to-contain-an-ai-agent.html",
+            "summary": "",
+            "published_utc": "2026-09-04T16:31:38+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "In Other News: Microsoft’s Cloud Patches, Hacked Dropbox Accounts, Guardio’s $1.1B Valuation",
+            "link": "https://www.securityweek.com/in-other-news-microsofts-cloud-patches-hacked-dropbox-accounts-guardios-1-1b-valuation/",
+            "summary": "",
+            "published_utc": "2026-09-04T16:18:30+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "HPE Patches Critical RCE Vulnerabilities in AOS-CX",
+            "link": "https://www.securityweek.com/hpe-patches-critical-rce-vulnerabilities-in-aos-cx/",
+            "summary": "",
+            "published_utc": "2026-09-04T16:11:06+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "OpenAI Pledges $1 Billion to Bring Frontier AI to Critical Infrastructure Defenders",
+            "link": "https://www.securityweek.com/openai-pledges-1-billion-to-bring-frontier-ai-to-critical-infrastructure-defenders/",
+            "summary": "",
+            "published_utc": "2026-09-04T16:07:22+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Critical Citrix NetScaler auth bypass now leveraged in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/",
+            "summary": "Attackers have begun targeting a critical-severity Citrix NetScaler auth bypass flaw (CVE-2026-19490) in the wild, according to vulnerability intellig...",
+            "published_utc": "2026-09-04T15:25:59+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft says some users can’t open the Teams desktop client",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/",
+            "summary": "Microsoft is working to resolve a known issue that causes delays or blocks some users from opening the Microsoft Teams desktop client on Windows syste...",
+            "published_utc": "2026-09-04T14:30:15+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "39 New Methods That Compromise Passkey Authentication",
+            "link": "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/",
+            "summary": "Passkeys eliminate many password-based attacks, but researchers have documented 39 methods for compromising authentication built around them. Token ex...",
+            "published_utc": "2026-09-04T14:01:11+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "FBI investigates breach of 153 million driving license records at IDscan.net",
+            "link": "https://www.csoonline.com/article/4218789/fbi-investigates-breach-of-153-million-driving-license-records-at-idscan-net.html",
+            "summary": "",
+            "published_utc": "2026-09-04T13:47:47+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Bidding war for defunct Spirit Airlines’ employee data will not die",
+            "link": "https://www.csoonline.com/article/4218769/bidding-war-for-defunct-spirit-airlines-employee-data-will-not-die.html",
+            "summary": "",
+            "published_utc": "2026-09-04T13:29:51+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Sangoma Switchvox Vulnerabilities Exploited in the Wild",
+            "link": "https://www.securityweek.com/sangoma-switchvox-vulnerabilities-exploited-in-the-wild/",
+            "summary": "",
+            "published_utc": "2026-09-04T13:23:12+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges",
+            "link": "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/",
+            "summary": "An anonymous security researcher who uses the \"Nightmare Eclipse\" handle released a CrowdStrike Falcon zero-day exploit named \"FalconFlank\" that lets ...",
+            "published_utc": "2026-09-04T13:22:01+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Exchange Online outage causes email delays, 'Server busy' errors",
@@ -163,13 +247,6 @@
             "published_utc": "2026-09-03T15:22:33+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Capsule Security Launches ‘AI Circuit Breaker’ to Stop Rogue Agents",
-            "link": "https://www.securityweek.com/capsule-security-launches-ai-circuit-breaker-to-stop-rogue-agents/",
-            "summary": "",
-            "published_utc": "2026-09-03T15:15:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "OpenAI confirms ChatGPT is down ahead of 'Astra' model launch",
             "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/",
@@ -212,27 +289,6 @@
             "published_utc": "2026-09-03T13:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "HiddenLayer Raises $100 Million for AI Runtime Security",
-            "link": "https://www.securityweek.com/hiddenlayer-raises-100-million-for-ai-runtime-security/",
-            "summary": "",
-            "published_utc": "2026-09-03T12:17:30+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft says KB5120998 Windows update resets desktop settings",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-kb5120998-windows-update-resets-desktop-settings/",
-            "summary": "Microsoft has confirmed that desktop settings are lost or reset on some Windows devices after installing the KB5120998 August 2026 preview update. [...]",
-            "published_utc": "2026-09-03T12:16:32+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "AI Agent Firewall Startup AIR Security Emerges From Stealth With $50 Million",
-            "link": "https://www.securityweek.com/ai-agent-firewall-startup-air-security-emerges-from-stealth-with-50-million/",
-            "summary": "",
-            "published_utc": "2026-09-03T12:00:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "US and Canadian Court Records Breached Following Thomson Reuters Incident",
             "link": "https://www.infosecurity-magazine.com/news/us-canada-court-breach-thomson/",
@@ -259,20 +315,6 @@
             "link": "https://www.csoonline.com/article/4218075/counterfeit-installers-turn-routine-software-downloads-into-enterprise-breaches.html",
             "summary": "",
             "published_utc": "2026-09-03T11:17:32+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Plex warns users to patch security vulnerabilities immediately",
-            "link": "https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerabilities-immediately/",
-            "summary": "Plex urged users this week to update their desktop clients and media servers immediately to patch multiple security vulnerabilities. [...]",
-            "published_utc": "2026-09-03T11:02:22+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "153 Million Driver License Images Offered on Dark Web",
-            "link": "https://www.securityweek.com/153-million-driver-license-images-offered-on-dark-web/",
-            "summary": "",
-            "published_utc": "2026-09-03T10:54:18+00:00"
         },
         {
             "source": "WIRED Security",
@@ -303,13 +345,6 @@
             "published_utc": "2026-09-03T09:00:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Microsoft Teams, Outlook fail to launch on ARM-based Windows PCs",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outlook-fail-to-launch-on-arm-based-windows-pcs/",
-            "summary": "Microsoft is working to fix a known issue that causes crashes and launch failures for Microsoft Teams and New Outlook users after installing updates r...",
-            "published_utc": "2026-09-03T08:55:25+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "International Operation Disrupts Sality P2P Botnet",
             "link": "https://www.infosecurity-magazine.com/news/international-operation-disrupts/",
@@ -329,20 +364,6 @@
             "link": "https://www.csoonline.com/article/4217682/sonicwall-reports-two-major-security-holes-under-active-exploit-2.html",
             "summary": "",
             "published_utc": "2026-09-02T23:22:10+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Hackers exploit Sangoma Switchvox flaw to deploy reverse shells",
-            "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/",
-            "summary": "Attackers are actively exploiting CVE-2026-9586, an unauthenticated SQL injection vulnerability in the Sangoma Switchvox VoIP platform that can lead t...",
-            "published_utc": "2026-09-02T21:00:13+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "WordPress backup plugin flaw exposes millions of sites to takeover attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/",
-            "summary": "An SQL injection vulnerability in the All-in-One WP Migration and Backup plugin for WordPress could allow unauthenticated attackers to execute remote ...",
-            "published_utc": "2026-09-02T19:28:46+00:00"
         },
         {
             "source": "Schneier",
@@ -527,13 +548,6 @@
             "published_utc": "2026-09-01T09:59:07+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "China-linked hackers turn Cisco routers into covert attack infrastructure",
-            "link": "https://www.csoonline.com/article/4216875/china-linked-hackers-turn-cisco-routers-into-covert-attack-infrastructure.html",
-            "summary": "",
-            "published_utc": "2026-09-01T09:44:09+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Financial Stability Board Sounds the Alarm Over Frontier AI Risks",
             "link": "https://www.infosecurity-magazine.com/news/financial-stability-board-alarm/",
@@ -548,25 +562,11 @@
             "published_utc": "2026-09-01T08:25:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Microsoft nudges enterprise security closer to its passwordless future. But ‘123456’ will survive.",
-            "link": "https://www.csoonline.com/article/4215429/microsoft-nudges-enterprise-security-closer-to-its-passwordless-future-but-123456-will-survive.html",
-            "summary": "",
-            "published_utc": "2026-09-01T08:25:00+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Is Someone Hacking DoD Refrigerators?",
             "link": "https://www.schneier.com/blog/archives/2026/08/is-someone-hacking-dod-refrigerators.html",
             "summary": "",
             "published_utc": "2026-08-31T18:20:35+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Hiding Prompt Injection in Legal Filing",
-            "link": "https://www.schneier.com/blog/archives/2026/08/hiding-prompt-injection-in-legal-filing.html",
-            "summary": "",
-            "published_utc": "2026-08-31T11:03:40+00:00"
         },
         {
             "source": "WIRED Security",
