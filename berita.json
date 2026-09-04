@@ -1,6 +1,104 @@
 {
-    "lastUpdatedUTC": "2026-09-04T08:32:37.662846+00:00",
+    "lastUpdatedUTC": "2026-09-04T13:12:34.578038+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Exchange Online outage causes email delays, 'Server busy' errors",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/",
+            "summary": "Microsoft is working to resolve an ongoing Exchange Online outage that is delaying email sent to and received from external domains. [...]",
+            "published_utc": "2026-09-04T12:22:30+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "12-Year-Old PostgreSQL Vulnerability Enables Database, Server Takeover",
+            "link": "https://www.securityweek.com/12-year-old-postgresql-vulnerability-enables-database-server-takeover/",
+            "summary": "",
+            "published_utc": "2026-09-04T12:06:13+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Catch Raises $5 Million for AI Executive Assistant With Guardrails",
+            "link": "https://www.securityweek.com/catch-raises-5-million-for-ai-executive-assistant-with-guardrails/",
+            "summary": "",
+            "published_utc": "2026-09-04T11:55:17+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Google warns of new Chrome zero-day flaw exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/",
+            "summary": "Google has updated the Chrome browser to address an actively exploited high-severity zero-day flaw in the V8 engine and 11 other vulnerabilities. [...]",
+            "published_utc": "2026-09-04T11:48:17+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "VMware Workstation and Fusion Updates Patch Critical Vulnerability",
+            "link": "https://www.securityweek.com/vmware-workstation-and-fusion-updates-patch-critical-vulnerability/",
+            "summary": "",
+            "published_utc": "2026-09-04T11:42:55+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Google Patches 6th Chrome Zero-Day of 2026",
+            "link": "https://www.securityweek.com/google-patches-6th-chrome-zero-day-of-2026/",
+            "summary": "",
+            "published_utc": "2026-09-04T11:31:52+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Security Vulnerability in a Voting System",
+            "link": "https://www.schneier.com/blog/archives/2026/09/security-vulnerability-in-a-voting-system.html",
+            "summary": "",
+            "published_utc": "2026-09-04T11:09:35+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "AI Coding Agents Are Installing Unknown/Untrusted Code on Corporate Networks",
+            "link": "https://www.schneier.com/blog/archives/2026/09/ai-coding-agents-are-installing-unknown-untrusted-code-on-corporate-networks.html",
+            "summary": "",
+            "published_utc": "2026-09-04T10:35:17+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "ICE Wants to Know Everyone Who Bought a Certain Green Beanie From REI in the Last 2 Years",
+            "link": "https://www.wired.com/story/ice-wants-to-know-who-bought-a-certain-green-beanie-from-rei-in-the-last-2-years/",
+            "summary": "Homeland Security Investigations agents hit the outdoor retailer with a controversial subpoena as part of a dragnet search for the identities of prote...",
+            "published_utc": "2026-09-04T10:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "OpenAI Pledges $1bn to Bring its AI Cybersecurity Tools to Essential Services",
+            "link": "https://www.infosecurity-magazine.com/news/openai-pledges-ai-tools-essential/",
+            "summary": "OpenAI has committed to subsidizing access to Daybreak, helping defenders deploy its AI models in its existing cybersecurity infrastructure",
+            "published_utc": "2026-09-04T10:15:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Nvidia Is Buying AI Platform Hugging Face for $13 Billion",
+            "link": "https://www.securityweek.com/nvidia-is-buying-ai-platform-hugging-face-for-13-billion/",
+            "summary": "",
+            "published_utc": "2026-09-04T10:00:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "OpenAI launches GPT-6 Astra, its first model to cross a critical cybersecurity threshold",
+            "link": "https://www.csoonline.com/article/4218679/openai-launches-gpt-6-astra-its-first-model-to-cross-a-critical-cybersecurity-threshold.html",
+            "summary": "",
+            "published_utc": "2026-09-04T09:37:21+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "G7 Urges Fast-Track on Quantum-Safe Cybersecurity Rules",
+            "link": "https://www.infosecurity-magazine.com/news/g7-urges-quantum-safe-cyber-rules/",
+            "summary": "The G7 has published a call to action, urging governments to launch national strategies dedicated to the post-quantum encryption transition",
+            "published_utc": "2026-09-04T09:25:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "The democratization of cyber warfare — and what it means for CISOs",
+            "link": "https://www.csoonline.com/article/4218244/the-democratization-of-cyber-warfare-and-what-it-means-for-cisos.html",
+            "summary": "",
+            "published_utc": "2026-09-04T09:00:00+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "French hospital fined €500,000 after breach exposes data of 727,000",
@@ -177,20 +275,6 @@
             "published_utc": "2026-09-03T10:54:18+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Over 3 Million WordPress Sites Affected by Migration Plugin Vulnerability",
-            "link": "https://www.securityweek.com/over-3-million-wordpress-sites-affected-by-migration-plugin-vulnerability/",
-            "summary": "",
-            "published_utc": "2026-09-03T10:40:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Cisco Warns of Unpatched Secure Email Flaws, Patches Critical Switch Vulnerabilities",
-            "link": "https://www.securityweek.com/cisco-warns-of-unpatched-secure-email-flaws-patches-critical-switch-vulnerabilities/",
-            "summary": "",
-            "published_utc": "2026-09-03T10:30:00+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "This Is Flock’s AI Search Tool for Cops",
             "link": "https://www.wired.com/story/flock-ai-search-user-interface/",
@@ -254,13 +338,6 @@
             "published_utc": "2026-09-02T21:00:13+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "OpenLeash Adds a Human Check to Risky AI Agent Actions",
-            "link": "https://www.securityweek.com/openleash-adds-a-human-check-to-risky-ai-agent-actions/",
-            "summary": "",
-            "published_utc": "2026-09-02T19:30:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "WordPress backup plugin flaw exposes millions of sites to takeover attacks",
             "link": "https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/",
@@ -275,32 +352,11 @@
             "published_utc": "2026-09-02T18:28:08+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Hackers exploit critical JFrog Artifactory flaw to forge admin tokens",
-            "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/",
-            "summary": "A critical authentication bypass vulnerability (CVE-2026-82329) in JFrog Artifactory is being exploited in attacks to create tokens that provide admin...",
-            "published_utc": "2026-09-02T15:47:08+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "UK Moves to Block High-Risk Tech Suppliers From Critical Infrastructure",
-            "link": "https://www.securityweek.com/uk-moves-to-block-high-risk-tech-suppliers-from-critical-infrastructure/",
-            "summary": "",
-            "published_utc": "2026-09-02T15:45:08+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Russian Man Extradited Over Malware Campaign Targeting Freelancers",
             "link": "https://www.infosecurity-magazine.com/news/russian-man-extradited-malware/",
             "summary": "Russian man extradited to US over malware campaign that targeted 80,000 freelance users",
             "published_utc": "2026-09-02T15:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Ransomware protection for MSPs: A 6-point checklist for faster recovery",
-            "link": "https://www.bleepingcomputer.com/news/security/ransomware-protection-for-msps-a-6-point-checklist-for-faster-recovery/",
-            "summary": "Ransomware resilience requires more than backups or endpoint detection alone. Acronis outlines six capabilities MSPs should test across client environ...",
-            "published_utc": "2026-09-02T14:02:12+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -315,13 +371,6 @@
             "link": "https://www.csoonline.com/article/4217538/anthropic-introduces-zero-retention-ai-safety-monitoring-for-enterprises.html",
             "summary": "",
             "published_utc": "2026-09-02T12:46:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Rockwell Automation Patches Over a Dozen Vulnerabilities Across Products",
-            "link": "https://www.securityweek.com/rockwell-automation-patches-over-a-dozen-vulnerabilities-across-products/",
-            "summary": "",
-            "published_utc": "2026-09-02T12:39:07+00:00"
         },
         {
             "source": "CSO Online",
@@ -506,25 +555,11 @@
             "published_utc": "2026-09-01T08:25:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Windows bug incorrectly tells users that Microsoft Defender Antivirus is turned off",
-            "link": "https://www.csoonline.com/article/4216607/windows-bug-incorrectly-tells-users-that-microsoft-defender-antivirus-is-turned-off-2.html",
-            "summary": "",
-            "published_utc": "2026-08-31T20:19:16+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Is Someone Hacking DoD Refrigerators?",
             "link": "https://www.schneier.com/blog/archives/2026/08/is-someone-hacking-dod-refrigerators.html",
             "summary": "",
             "published_utc": "2026-08-31T18:20:35+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "OpenAI-led coalition warns AI will compress cyberattack timelines, expose enterprise weaknesses",
-            "link": "https://www.csoonline.com/article/4215838/openai-led-coalition-warns-ai-will-compress-cyberattack-timelines-expose-enterprise-weaknesses.html",
-            "summary": "",
-            "published_utc": "2026-08-31T11:22:28+00:00"
         },
         {
             "source": "Schneier",
@@ -555,13 +590,6 @@
             "published_utc": "2026-08-29T10:30:00+00:00"
         },
         {
-            "source": "Schneier",
-            "title": "Friday Squid Blogging: Truckload of Squid Spills in Rhode Island",
-            "link": "https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-truckload-of-squid-spills-in-rhode-island.html",
-            "summary": "",
-            "published_utc": "2026-08-28T21:02:44+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "Microsoft Teams Has Become a Haven for Scammers in China",
             "link": "https://www.wired.com/story/microsoft-teams-is-becoming-a-haven-for-chinese-scammers/",
@@ -574,13 +602,6 @@
             "link": "https://www.infosecurity-magazine.com/news/fake-voicemail-svg-files-bypass/",
             "summary": "A large-scale phishing campaign used fake voicemail SVG attachments to bypass email defenses, targeting 5527 organizations with over 26,000 malicious ...",
             "published_utc": "2026-08-28T13:00:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "AI Doesn’t Mean the End of Mathematics—at Least Not Yet",
-            "link": "https://www.schneier.com/blog/archives/2026/08/ai-doesnt-mean-the-end-of-mathematics-at-least-not-yet.html",
-            "summary": "",
-            "published_utc": "2026-08-28T11:02:22+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1449,13 +1470,6 @@
             "link": "https://www.wired.com/story/the-most-dangerous-ai-hacking-techniques-still-have-human-input/",
             "summary": "Security researcher James Kettle tried to push the limit of AI’s hacking abilities—and discovered how effective it can be when combined with human exp...",
             "published_utc": "2026-08-05T19:42:12+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "DHS Is Hiring Bounty Hunters to Find and Photograph Deported People’s Homes Abroad",
-            "link": "https://www.wired.com/story/dhs-is-hiring-bounty-hunters-to-find-and-photograph-deported-peoples-homes-abroad/",
-            "summary": "Homeland Security told immigrants that leaving the US would wipe out fines it claims they owe. Now it wants private investigators to find them in thei...",
-            "published_utc": "2026-08-05T17:24:01+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2541,20 +2555,6 @@
             "link": "https://www.infosecurity-magazine.com/news/cisco-vulnerability-exploited/",
             "summary": "A high-severity flaw in Cisco Catalyst SD-WAN Manager disclosed in early June was exploited as early as March",
             "published_utc": "2026-06-25T14:15:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Twenty Million US IP Connections Used by Proxy Services",
-            "link": "https://www.infosecurity-magazine.com/news/twenty-million-us-ip-connections/",
-            "summary": "Digital Citizens Alliance report claims that millions of Americans may have unwittingly had IP connections used by cybercriminals",
-            "published_utc": "2026-06-25T13:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Trust in Automated AI Vulnerability Scanning Collapses to 9%, New Study Finds",
-            "link": "https://www.infosecurity-magazine.com/news/trust-ai-vulnerability-scanning/",
-            "summary": "Cobalt study finds 20-percentage-point drop in number of organizations relying solely on AI automation for testing",
-            "published_utc": "2026-06-25T12:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
