@@ -1,6 +1,13 @@
 {
-    "lastUpdatedUTC": "2026-09-05T13:42:05.771175+00:00",
+    "lastUpdatedUTC": "2026-09-05T16:34:49.722862+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain",
+            "link": "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/",
+            "summary": "A massive cybercriminal operation is leveraging thousands of compromised small-business websites to deliver ClickFix payloads stored in smart contract...",
+            "published_utc": "2026-09-05T14:29:13+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites",
@@ -280,13 +287,6 @@
             "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected/",
             "summary": "Claude is experiencing an outage, with users encountering elevated errors when sending requests to multiple Anthropic AI models. [...]",
             "published_utc": "2026-09-03T15:02:52+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Critical Elementor Pro flaw exploited to take over WordPress sites",
-            "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/",
-            "summary": "A recently patched critical vulnerability (CVE-2026-32475) in the Elementor Pro plugin for WordPress is being exploited in attacks that deliver a webs...",
-            "published_utc": "2026-09-03T14:52:20+00:00"
         },
         {
             "source": "InfosecurityMag",
