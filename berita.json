@@ -1,6 +1,20 @@
 {
-    "lastUpdatedUTC": "2026-09-07T15:33:07.301096+00:00",
+    "lastUpdatedUTC": "2026-09-07T19:38:48.230553+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Magento StyleSmuggler zero-day exploited to deploy Linux backdoor",
+            "link": "https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/",
+            "summary": "A zero-day vulnerability dubbed \"StyleSmuggler\" affecting all versions of Magento and Adobe Commerce is being exploited in attacks to deploy a backdoo...",
+            "published_utc": "2026-09-07T16:50:29+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations",
+            "link": "https://www.bleepingcomputer.com/news/security/bigbear-microsoft-365-phishing-service-bypassed-mfa-at-258-organizations/",
+            "summary": "A phishing-as-a-service framework called BigBear 2.0 has been used to bypass multi-factor authentication at 258 organizations and steal more than 5,00...",
+            "published_utc": "2026-09-07T15:39:51+00:00"
+        },
         {
             "source": "InfosecurityMag",
             "title": "NCSC Warns Shadow AI Creates New Security Risks",
@@ -247,13 +261,6 @@
             "published_utc": "2026-09-04T14:30:15+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "39 New Methods That Compromise Passkey Authentication",
-            "link": "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/",
-            "summary": "Passkeys eliminate many password-based attacks, but researchers have documented 39 methods for compromising authentication built around them. Token ex...",
-            "published_utc": "2026-09-04T14:01:11+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "FBI investigates breach of 153 million driving license records at IDscan.net",
             "link": "https://www.csoonline.com/article/4218789/fbi-investigates-breach-of-153-million-driving-license-records-at-idscan-net.html",
@@ -273,13 +280,6 @@
             "link": "https://www.securityweek.com/sangoma-switchvox-vulnerabilities-exploited-in-the-wild/",
             "summary": "",
             "published_utc": "2026-09-04T13:23:12+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges",
-            "link": "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/",
-            "summary": "An anonymous security researcher who uses the \"Nightmare Eclipse\" handle released a CrowdStrike Falcon zero-day exploit named \"FalconFlank\" that lets ...",
-            "published_utc": "2026-09-04T13:22:01+00:00"
         },
         {
             "source": "Schneier",
