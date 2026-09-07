@@ -1,6 +1,139 @@
 {
-    "lastUpdatedUTC": "2026-09-07T09:01:06.408631+00:00",
+    "lastUpdatedUTC": "2026-09-07T15:33:07.301096+00:00",
     "articles": [
+        {
+            "source": "InfosecurityMag",
+            "title": "NCSC Warns Shadow AI Creates New Security Risks",
+            "link": "https://www.infosecurity-magazine.com/news/ncsc-warns-shadow-ai-security-risks/",
+            "summary": "NCSC warns unapproved AI tools can expose corporate data and create new security risks",
+            "published_utc": "2026-09-07T14:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Mathspace discloses data breach affecting over 1 million people",
+            "link": "https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/",
+            "summary": "Online maths learning platform Mathspace disclosed over the weekend that attackers stole data from more than 1 million students, staff, and parents af...",
+            "published_utc": "2026-09-07T13:05:11+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "N-able Releases Hotfix for Critical Remote Code Execution Vulnerability",
+            "link": "https://www.infosecurity-magazine.com/news/nable-hotfix-critical-rce/",
+            "summary": "The vulnerability, CVE-2026-86218, was allocated a maximum-severity rating by the software provider itself",
+            "published_utc": "2026-09-07T12:45:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Trezor data breach impact now reaches 81,000 customers",
+            "link": "https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/",
+            "summary": "Cryptocurrency hardware wallet maker Trezor says an August data breach at its shipping and logistics provider, ShipMonk, affects an additional 67,000 ...",
+            "published_utc": "2026-09-07T12:16:32+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Nightmare Eclipse Drops CrowdStrike, Nvidia, Avast Zero-Day Exploits",
+            "link": "https://www.securityweek.com/nightmare-eclipse-drops-crowdstrike-nvidia-avast-zero-day-exploits/",
+            "summary": "",
+            "published_utc": "2026-09-07T12:15:57+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Sam Altman calls GPT-6 Astra rollout ‘messy’ as enterprise users wait for access",
+            "link": "https://www.csoonline.com/article/4219249/sam-altman-calls-gpt-6-astra-rollout-messy-as-enterprise-users-wait-for-access.html",
+            "summary": "",
+            "published_utc": "2026-09-07T12:14:18+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "North Korean Hackers Deploy New Linux Espionage Toolkit",
+            "link": "https://www.securityweek.com/north-korean-hackers-deploy-new-linux-espionage-toolkit/",
+            "summary": "",
+            "published_utc": "2026-09-07T12:12:08+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "OpenAI Agents Hijack Another Victim Website",
+            "link": "https://www.securityweek.com/openai-agents-hijack-another-victim-website/",
+            "summary": "",
+            "published_utc": "2026-09-07T12:03:04+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Rhysida Publishes Berlin Government Data After €2m Extortion Demand Refused",
+            "link": "https://www.infosecurity-magazine.com/news/rhysida-berlin-data-extortion/",
+            "summary": "The ransomware group’s published dataset reportedly includes Berlin state employee data, as well as highly sensitive emergency plans",
+            "published_utc": "2026-09-07T12:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
+            "link": "https://www.securityweek.com/adobe-commerce-zero-day-exploited-to-backdoor-online-stores/",
+            "summary": "",
+            "published_utc": "2026-09-07T11:58:37+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Back-to-back N-able bugs send admins on a patching spree",
+            "link": "https://www.csoonline.com/article/4219242/back-to-back-n-able-bugs-send-admins-on-a-patching-spree.html",
+            "summary": "",
+            "published_utc": "2026-09-07T11:53:54+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Modified ScreenConnect Clients Used in Worm-Like Campaign",
+            "link": "https://www.securityweek.com/modified-screenconnect-clients-used-in-worm-like-campaign/",
+            "summary": "",
+            "published_utc": "2026-09-07T11:45:48+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Automobile Camouflage to Hide from Flock Cameras",
+            "link": "https://www.schneier.com/blog/archives/2026/09/automobile-camouflage-to-hide-from-flock-cameras.html",
+            "summary": "",
+            "published_utc": "2026-09-07T11:06:40+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "North Korea’s Lazarus Operates Through Six Distinct Cyber Clusters",
+            "link": "https://www.infosecurity-magazine.com/news/north-korea-lazarus-six-cyber/",
+            "summary": "Sekoia and Kudelski Security have observed that North Korea's Lazarus umbrella is split into six distinct clusters, focused on espionage, financial th...",
+            "published_utc": "2026-09-07T11:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "ChatGPT can now connect to your personal apps to mimic writing style",
+            "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-connect-to-your-personal-apps-to-mimic-writing-style/",
+            "summary": "OpenAI appears to be testing a new \"Writing Style\" feature for ChatGPT that can learn how you write by looking at examples from your connected apps. [...",
+            "published_utc": "2026-09-07T10:36:37+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers exploit new MikroTik RouterOS flaws to hijack routers",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/",
+            "summary": "Hackers are exploiting a chain of two recently disclosed vulnerabilities in MikroTik routers to take control of devices with SSH services exposed to t...",
+            "published_utc": "2026-09-07T10:32:40+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "New CISO appointments 2026",
+            "link": "https://www.csoonline.com/article/4186743/new-ciso-appointments-2026.html",
+            "summary": "",
+            "published_utc": "2026-09-07T10:09:50+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "ConnectWise warns of new ScreenConnect flaw without patch",
+            "link": "https://www.bleepingcomputer.com/news/security/connectwise-warns-of-new-screenconnect-flaw-without-patch/",
+            "summary": "ConnectWise has shared temporary mitigation measures for a new ScreenConnect Remote Access vulnerability that it plans to patch later this week. [...]",
+            "published_utc": "2026-09-07T10:06:38+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Multiple Class Action Lawsuits Filed Against IDScan",
+            "link": "https://www.infosecurity-magazine.com/news/multiple-class-action-lawsuits/",
+            "summary": "Several victims of a recent breach of driver’s license information have sued the company they believe responsible",
+            "published_utc": "2026-09-07T09:10:00+00:00"
+        },
         {
             "source": "InfosecurityMag",
             "title": "Researcher Publishes CrowdStrike Privilege Escalation Zero Day",
@@ -56,13 +189,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/",
             "summary": "OpenAI admits it did not disclose an incident where autonomous AI agents hijacked a German wiki, created 18,000 posts, shared answers, and bypassed re...",
             "published_utc": "2026-09-05T11:11:50+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "OpenAI Agents Hacked Another Website",
-            "link": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
-            "summary": "Plus: Tens of millions of US and Canadian drivers’ licenses go up for sale on the dark web, the US military finally tries to tackle the risk online ad...",
-            "published_utc": "2026-09-05T10:30:00+00:00"
         },
         {
             "source": "Schneier",
@@ -156,48 +282,6 @@
             "published_utc": "2026-09-04T13:22:01+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Exchange Online outage causes email delays, 'Server busy' errors",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/",
-            "summary": "Microsoft is working to resolve an ongoing Exchange Online outage that is delaying email sent to and received from external domains. [...]",
-            "published_utc": "2026-09-04T12:22:30+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "12-Year-Old PostgreSQL Vulnerability Enables Database, Server Takeover",
-            "link": "https://www.securityweek.com/12-year-old-postgresql-vulnerability-enables-database-server-takeover/",
-            "summary": "",
-            "published_utc": "2026-09-04T12:06:13+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Catch Raises $5 Million for AI Executive Assistant With Guardrails",
-            "link": "https://www.securityweek.com/catch-raises-5-million-for-ai-executive-assistant-with-guardrails/",
-            "summary": "",
-            "published_utc": "2026-09-04T11:55:17+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Google warns of new Chrome zero-day flaw exploited in attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/",
-            "summary": "Google has updated the Chrome browser to address an actively exploited high-severity zero-day flaw in the V8 engine and 11 other vulnerabilities. [...]",
-            "published_utc": "2026-09-04T11:48:17+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "VMware Workstation and Fusion Updates Patch Critical Vulnerability",
-            "link": "https://www.securityweek.com/vmware-workstation-and-fusion-updates-patch-critical-vulnerability/",
-            "summary": "",
-            "published_utc": "2026-09-04T11:42:55+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Google Patches 6th Chrome Zero-Day of 2026",
-            "link": "https://www.securityweek.com/google-patches-6th-chrome-zero-day-of-2026/",
-            "summary": "",
-            "published_utc": "2026-09-04T11:31:52+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Security Vulnerability in a Voting System",
             "link": "https://www.schneier.com/blog/archives/2026/09/security-vulnerability-in-a-voting-system.html",
@@ -226,13 +310,6 @@
             "published_utc": "2026-09-04T10:15:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Nvidia Is Buying AI Platform Hugging Face for $13 Billion",
-            "link": "https://www.securityweek.com/nvidia-is-buying-ai-platform-hugging-face-for-13-billion/",
-            "summary": "",
-            "published_utc": "2026-09-04T10:00:00+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "OpenAI launches GPT-6 Astra, its first model to cross a critical cybersecurity threshold",
             "link": "https://www.csoonline.com/article/4218679/openai-launches-gpt-6-astra-its-first-model-to-cross-a-critical-cybersecurity-threshold.html",
@@ -254,13 +331,6 @@
             "published_utc": "2026-09-04T09:00:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "French hospital fined €500,000 after breach exposes data of 727,000",
-            "link": "https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/",
-            "summary": "France's data protection authority (CNIL) has fined Hôpital privé de la Loire €500,000 ($580,000) for failing to adequately protect patients' and thei...",
-            "published_utc": "2026-09-03T22:01:37+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
             "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
@@ -280,20 +350,6 @@
             "link": "https://www.csoonline.com/article/4218373/openai-targets-small-utilities-with-1-billion-cyber-defense-initiative.html",
             "summary": "",
             "published_utc": "2026-09-03T21:28:53+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Coder's registry infrastructure compromised to push malicious modules",
-            "link": "https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/",
-            "summary": "Attackers compromised Coder's Cloudflare infrastructure and added unauthorized registry servers that delivered malicious Terraform modules containing ...",
-            "published_utc": "2026-09-03T20:04:24+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "HPE patches critical ArubaOS-CX remote code execution flaw",
-            "link": "https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/",
-            "summary": "Hewlett Packard Enterprise (HPE) has patched a critical vulnerability in the ArubaOS-CX network operating system that could lead to remote code execut...",
-            "published_utc": "2026-09-03T18:28:12+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -485,13 +541,6 @@
             "published_utc": "2026-09-02T01:38:28+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "What happens when AI models take aim at ICS exploits",
-            "link": "https://www.csoonline.com/article/4217212/what-happens-when-ai-models-take-aim-at-ics-exploits.html",
-            "summary": "",
-            "published_utc": "2026-09-01T23:31:59+00:00"
-        },
-        {
             "source": "KrebsOnSecurity",
             "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
             "link": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
@@ -504,13 +553,6 @@
             "link": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
             "summary": "The company will give select partners early access to its Astra AI model—so they have time to shore up their defenses.",
             "published_utc": "2026-09-01T20:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "CrowdStrike launches cyber frontier AI models, agentic security system",
-            "link": "https://www.csoonline.com/article/4217135/crowdstrike-launches-cyber-frontier-ai-models-agentic-security-system.html",
-            "summary": "",
-            "published_utc": "2026-09-01T18:45:36+00:00"
         },
         {
             "source": "Schneier",
@@ -548,25 +590,11 @@
             "published_utc": "2026-09-01T12:45:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "OpenClaw rolls out system-wide overhaul, updates security controls across agent platform",
-            "link": "https://www.csoonline.com/article/4216969/openclaw-rolls-out-system-wide-overhaul-updates-security-controls-across-agent-platform-2.html",
-            "summary": "",
-            "published_utc": "2026-09-01T12:30:38+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "Using High-Energy Laser, US Shoots Down Drones Near Mexico Border",
             "link": "https://www.wired.com/story/high-energy-laser-us-shoots-down-drones-near-mexico-border/",
             "summary": "The US Army’s laser system is part of a new generation of directed-energy weapons capable of detecting, tracking, and destroying drones with a concent...",
             "published_utc": "2026-09-01T12:00:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Rewiring Democracy Series on The Renovator",
-            "link": "https://www.schneier.com/blog/archives/2026/09/rewiring-democracy-series-on-the-renovator.html",
-            "summary": "",
-            "published_utc": "2026-09-01T09:59:07+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2508,20 +2536,6 @@
             "published_utc": "2026-06-29T14:30:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "US Federal Insurance Regulator Confirms Data Breach Via Oracle Flaw",
-            "link": "https://www.infosecurity-magazine.com/news/us-insurance-regulator-confirms/",
-            "summary": "An attacker has exploited a zero day in Oracle Peoplesoft to gain access to the IT systems of the NAIC, the standard-setting association for the US fe...",
-            "published_utc": "2026-06-29T10:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Russian Hackers Accused of Destructive Cyber-Attack on Jaguar Land Rover",
-            "link": "https://www.infosecurity-magazine.com/news/russian-hackers-destructive-jaguar/",
-            "summary": "Experts warn the Jaguar Land Rover breach bears hallmarks of Kremlin-backed hackers, citing novel ransomware, strategic timing and efforts to obscure ...",
-            "published_utc": "2026-06-29T09:15:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "Inside the inbox: Why cybercriminals want to break into your email account",
             "link": "https://www.welivesecurity.com/en/cybersecurity/inside-inbox-cybercriminals-want-break-email-account/",
@@ -2529,32 +2543,11 @@
             "published_utc": "2026-06-29T08:50:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "FBI Sounds Alarm Over Russian Intelligence Signal Phishing",
-            "link": "https://www.infosecurity-magazine.com/news/fbi-alarm-russian-intelligence/",
-            "summary": "The FBI claims Russian spies are targeting Signal backup keys",
-            "published_utc": "2026-06-29T08:15:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "China-Linked Hackers Strike Asian Critical Infrastructure with TinyRCT Backdoor",
-            "link": "https://www.infosecurity-magazine.com/news/china-hackers-asian-cni-backdoor/",
-            "summary": "A China-linked threat group has been targeting critical infrastructure in Southeast Asia with a new custom backdoor called TinyRCT",
-            "published_utc": "2026-06-26T10:30:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "SMB cyber readiness: the road to resilience starts here",
             "link": "https://www.welivesecurity.com/en/business-security/smb-cyber-readiness-road-resilience-starts-here/",
             "summary": "Your business may be small, but its attack surface is anything but. Readiness is the first step to resilience.",
             "published_utc": "2026-06-26T08:50:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "CMC Releases Analysis and Guidance for Education Sector After Canvas Data Breach",
-            "link": "https://www.infosecurity-magazine.com/news/cmc-analysis-education-canvas-data/",
-            "summary": "The UK Cyber Monitoring Centre reviews the Canvas breach affecting 160 UK universities, highlighting data theft risks and financial impacts of cyber i...",
-            "published_utc": "2026-06-26T08:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
