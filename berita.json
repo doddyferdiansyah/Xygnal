@@ -1,6 +1,83 @@
 {
-    "lastUpdatedUTC": "2026-09-08T14:56:50.494239+00:00",
+    "lastUpdatedUTC": "2026-09-08T18:24:41.377224+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-patch-tuesday-fixes-966-flaws-2-zero-days/",
+            "summary": "Today is Microsoft's September 2026 Patch Tuesday, with security updates released for a record-breaking 966 flaws, including two actively exploited ze...",
+            "published_utc": "2026-09-08T18:18:05+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Windows 11 cumulative updates KB5124008 & KB5122880 released",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5124008-and-kb5122880-released/",
+            "summary": "Microsoft has released Windows 11 KB5124008 and KB5122880 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, an...",
+            "published_utc": "2026-09-08T17:57:03+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "CISA tells operators to harden Siemens S7 PLCs. Here’s how to do it without disrupting production",
+            "link": "https://www.csoonline.com/article/4219765/cisa-tells-operators-to-harden-siemens-s7-plcs-heres-how-to-do-it-without-disrupting-production.html",
+            "summary": "",
+            "published_utc": "2026-09-08T17:16:39+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "AIs as Modern Genies",
+            "link": "https://www.schneier.com/blog/archives/2026/09/ais-as-modern-genies.html",
+            "summary": "",
+            "published_utc": "2026-09-08T17:12:42+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "The Hidden Instructions That Can Hijack AI Agents",
+            "link": "https://www.securityweek.com/the-hidden-instructions-that-can-hijack-ai-agents/",
+            "summary": "",
+            "published_utc": "2026-09-08T17:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Hackers Return $263 Million Stolen From Liquid Network",
+            "link": "https://www.securityweek.com/hackers-return-263-million-stolen-from-liquid-network/",
+            "summary": "",
+            "published_utc": "2026-09-08T16:35:54+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "ShinyHunters hackers claim breach of Florida \"DAVID\" DMV database",
+            "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hackers-claim-breach-of-florida-david-dmv-database/",
+            "summary": "The ShinyHunters extortion gang claims it breached an online platform for the Florida Department of Motor Vehicles database known as \"DAVID\" and stole...",
+            "published_utc": "2026-09-08T16:35:47+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "OpenAI says ChatGPT outage causes image generation errors",
+            "link": "https://www.bleepingcomputer.com/news/technology/openai-says-chatgpt-outage-causes-image-generation-errors/",
+            "summary": "OpenAI is investigating an ongoing incident causing ChatGPT image generation failures and delays when uploading files. [...]",
+            "published_utc": "2026-09-08T16:28:42+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "August updates trigger 0xc0000409 errors on Windows Server 2016",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/august-updates-trigger-0xc0000409-errors-on-windows-server-2016/",
+            "summary": "Microsoft says the August 2026 security update may trigger 0xc0000409 errors on Windows Server 2016 systems where the Compatibility Appraiser diagnost...",
+            "published_utc": "2026-09-08T15:22:33+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Cylake Raises $245 Million Ahead of Cybersecurity Platform Beta",
+            "link": "https://www.securityweek.com/cylake-raises-245-million-ahead-of-cybersecurity-platform-beta/",
+            "summary": "",
+            "published_utc": "2026-09-08T15:21:01+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Mars Security Debuts Automated Threat Engine Processing Live Cyber Intelligence Into Validated Rules Within Minutes",
+            "link": "https://www.csoonline.com/article/4219725/mars-security-debuts-automated-threat-engine-processing-live-cyber-intelligence-into-validated-rules-within-minutes.html",
+            "summary": "",
+            "published_utc": "2026-09-08T15:05:30+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "SAP warns of maximum severity 'OVERPASS' kernel vulnerability",
@@ -212,13 +289,6 @@
             "published_utc": "2026-09-07T12:45:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Trezor data breach impact now reaches 81,000 customers",
-            "link": "https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/",
-            "summary": "Cryptocurrency hardware wallet maker Trezor says an August data breach at its shipping and logistics provider, ShipMonk, affects an additional 67,000 ...",
-            "published_utc": "2026-09-07T12:16:32+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "Nightmare Eclipse Drops CrowdStrike, Nvidia, Avast Zero-Day Exploits",
             "link": "https://www.securityweek.com/nightmare-eclipse-drops-crowdstrike-nvidia-avast-zero-day-exploits/",
@@ -240,13 +310,6 @@
             "published_utc": "2026-09-07T12:12:08+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "OpenAI Agents Hijack Another Victim Website",
-            "link": "https://www.securityweek.com/openai-agents-hijack-another-victim-website/",
-            "summary": "",
-            "published_utc": "2026-09-07T12:03:04+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Rhysida Publishes Berlin Government Data After €2m Extortion Demand Refused",
             "link": "https://www.infosecurity-magazine.com/news/rhysida-berlin-data-extortion/",
@@ -254,25 +317,11 @@
             "published_utc": "2026-09-07T12:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
-            "link": "https://www.securityweek.com/adobe-commerce-zero-day-exploited-to-backdoor-online-stores/",
-            "summary": "",
-            "published_utc": "2026-09-07T11:58:37+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Back-to-back N-able bugs send admins on a patching spree",
             "link": "https://www.csoonline.com/article/4219242/back-to-back-n-able-bugs-send-admins-on-a-patching-spree.html",
             "summary": "",
             "published_utc": "2026-09-07T11:53:54+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Modified ScreenConnect Clients Used in Worm-Like Campaign",
-            "link": "https://www.securityweek.com/modified-screenconnect-clients-used-in-worm-like-campaign/",
-            "summary": "",
-            "published_utc": "2026-09-07T11:45:48+00:00"
         },
         {
             "source": "Schneier",
@@ -289,32 +338,11 @@
             "published_utc": "2026-09-07T11:00:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "ChatGPT can now connect to your personal apps to mimic writing style",
-            "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-connect-to-your-personal-apps-to-mimic-writing-style/",
-            "summary": "OpenAI appears to be testing a new \"Writing Style\" feature for ChatGPT that can learn how you write by looking at examples from your connected apps. [...",
-            "published_utc": "2026-09-07T10:36:37+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Hackers exploit new MikroTik RouterOS flaws to hijack routers",
-            "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/",
-            "summary": "Hackers are exploiting a chain of two recently disclosed vulnerabilities in MikroTik routers to take control of devices with SSH services exposed to t...",
-            "published_utc": "2026-09-07T10:32:40+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "New CISO appointments 2026",
             "link": "https://www.csoonline.com/article/4186743/new-ciso-appointments-2026.html",
             "summary": "",
             "published_utc": "2026-09-07T10:09:50+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "ConnectWise warns of new ScreenConnect flaw without patch",
-            "link": "https://www.bleepingcomputer.com/news/security/connectwise-warns-of-new-screenconnect-flaw-without-patch/",
-            "summary": "ConnectWise has shared temporary mitigation measures for a new ScreenConnect Remote Access vulnerability that it plans to patch later this week. [...]",
-            "published_utc": "2026-09-07T10:06:38+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -338,11 +366,11 @@
             "published_utc": "2026-09-07T08:25:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "N-able patches max severity N-central flaw amid ongoing attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/n-able-patches-max-severity-n-central-flaw-amid-ongoing-attacks/",
-            "summary": "N-able has released an emergency hotfix for a maximum-severity remote code execution (RCE) flaw affecting its N-central remote monitoring and manageme...",
-            "published_utc": "2026-09-07T06:17:41+00:00"
+            "source": "WIRED Security",
+            "title": "OpenAI Agents Hacked Another Website",
+            "link": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
+            "summary": "Plus: Tens of millions of US and Canadian drivers’ licenses go up for sale on the dark web, the US military finally tries to tackle the risk online ad...",
+            "published_utc": "2026-09-05T10:30:00+00:00"
         },
         {
             "source": "Schneier",
@@ -527,20 +555,6 @@
             "published_utc": "2026-09-03T08:30:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Zero trust has a big AI agent problem ahead",
-            "link": "https://www.csoonline.com/article/4215449/zero-trust-has-a-big-ai-agent-problem-ahead.html",
-            "summary": "",
-            "published_utc": "2026-09-03T08:25:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "SonicWall reports two major security holes under active exploit",
-            "link": "https://www.csoonline.com/article/4217682/sonicwall-reports-two-major-security-holes-under-active-exploit-2.html",
-            "summary": "",
-            "published_utc": "2026-09-02T23:22:10+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "AI Agents Are Now Emailing Me with Their Security Concerns",
             "link": "https://www.schneier.com/blog/archives/2026/09/ai-agents-are-now-emailing-me-with-their-security-concerns.html",
@@ -609,13 +623,6 @@
             "link": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
             "summary": "The company will give select partners early access to its Astra AI model—so they have time to shore up their defenses.",
             "published_utc": "2026-09-01T20:00:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "What’s the Scam?",
-            "link": "https://www.schneier.com/blog/archives/2026/09/whats-the-scam.html",
-            "summary": "",
-            "published_utc": "2026-09-01T17:36:13+00:00"
         },
         {
             "source": "InfosecurityMag",
