@@ -1,6 +1,34 @@
 {
-    "lastUpdatedUTC": "2026-09-09T03:32:17.582206+00:00",
+    "lastUpdatedUTC": "2026-09-09T08:44:21.008599+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "50% of CISOs see Mythos as a sign to exit the profession",
+            "link": "https://www.csoonline.com/article/4218857/50-of-cisos-see-mythos-as-a-sign-to-exit-the-profession.html",
+            "summary": "",
+            "published_utc": "2026-09-09T08:25:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "SAP Patches Maximum Severity “Overpass” Flaw",
+            "link": "https://www.infosecurity-magazine.com/news/sap-patches-maximum-severity/",
+            "summary": "Onapsis urges SAP customers to patch “Overpass” vulnerability, which has a CVSS score of 10.0",
+            "published_utc": "2026-09-09T08:15:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "New Microsoft Defender 'ShieldCrash' zero-day grants SYSTEM access",
+            "link": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldcrash-zero-day-grants-system-access/",
+            "summary": "An anonymous security researcher known as Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \"ShieldCrash\" right after Mic...",
+            "published_utc": "2026-09-09T07:30:15+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Google warns of new Chrome zero-day bug exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/google-patches-seventh-chrome-zero-day-exploited-in-attacks-this-year/",
+            "summary": "Google has patched 230 vulnerabilities on Tuesday, including another actively exploited Chrome zero-day bug, the seventh such vulnerability patched si...",
+            "published_utc": "2026-09-09T06:25:48+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "September 2026 Patch Tuesday roundup: Plugs for two zero day holes among almost 1,000 fixes in Windows",
@@ -210,20 +238,6 @@
             "link": "https://www.infosecurity-magazine.com/news/grindr-settles-uk-data-privacy/",
             "summary": "Grindr settled UK claims over alleged unlawful processing of sensitive user data",
             "published_utc": "2026-09-08T13:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Webinar: The forgotten Google Workspace access that can lead to a breach",
-            "link": "https://www.bleepingcomputer.com/news/security/webinar-the-forgotten-google-workspace-access-that-can-lead-to-a-breach/",
-            "summary": "Third-party applications connected to Google Workspace can retain access long after their original purpose is forgotten. This webinar examines how ove...",
-            "published_utc": "2026-09-08T12:40:48+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Hackers build AI frameworks for widescale credential theft",
-            "link": "https://www.bleepingcomputer.com/news/security/hackers-build-ai-frameworks-for-widescale-credential-theft/",
-            "summary": "Threat actors are increasingly switching from AI-powered coding assistants to multi-agent frameworks that automate every stage of an attack. [...]",
-            "published_utc": "2026-09-08T12:03:03+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -539,13 +553,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/09/researching-employment-scams.html",
             "summary": "",
             "published_utc": "2026-09-03T11:18:14+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Counterfeit installers turn routine software downloads into enterprise breaches",
-            "link": "https://www.csoonline.com/article/4218075/counterfeit-installers-turn-routine-software-downloads-into-enterprise-breaches.html",
-            "summary": "",
-            "published_utc": "2026-09-03T11:17:32+00:00"
         },
         {
             "source": "WIRED Security",
@@ -2527,13 +2534,6 @@
             "link": "https://www.infosecurity-magazine.com/news/nissan-oracle-peoplesoft-zero-day/",
             "summary": "Nissan says employees' data was stolen via the Oracle PeopleSoft zero-day campaign",
             "published_utc": "2026-06-30T16:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Critical SimpleHelp Vulnerability Exploited For Malware Delivery",
-            "link": "https://www.infosecurity-magazine.com/news/simplehelp-rmm-vulnerability/",
-            "summary": "Attackers exploited a critical SimpleHelp RMM bug to deploy TaskWeaver and Djinn Stealer malware",
-            "published_utc": "2026-06-30T15:34:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
