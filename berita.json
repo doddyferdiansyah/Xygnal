@@ -1,6 +1,97 @@
 {
-    "lastUpdatedUTC": "2026-09-09T13:29:38.562549+00:00",
+    "lastUpdatedUTC": "2026-09-09T17:37:59.817966+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "HelmGuard Raises $7.3 Million for Agentic GRC and Security",
+            "link": "https://www.securityweek.com/helmguard-raises-7-3-million-for-agentic-grc-and-security/",
+            "summary": "",
+            "published_utc": "2026-09-09T17:23:58+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "AI Is Giving Lesser-Resourced Attackers Nation-State-Level Reach, Google Warns",
+            "link": "https://www.securityweek.com/ai-is-giving-lesser-resourced-attackers-nation-state-level-reach-google-warns/",
+            "summary": "",
+            "published_utc": "2026-09-09T16:56:25+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "US says Chinese firms extracted billions of tokens from frontier AI models",
+            "link": "https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/",
+            "summary": "U.S. cybersecurity and intelligence agencies say that six Chinese AI companies conducted industrial-scale distillation attacks on American frontier AI...",
+            "published_utc": "2026-09-09T16:48:33+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Android’s September 2026 Updates Patch 180 Vulnerabilities",
+            "link": "https://www.securityweek.com/androids-september-2026-updates-patch-180-vulnerabilities/",
+            "summary": "",
+            "published_utc": "2026-09-09T16:30:40+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "You Can Now Destroy Flock Cameras for Cash in GTA V",
+            "link": "https://www.wired.com/story/you-can-now-destroy-flock-cameras-for-cash-in-gta-v/",
+            "summary": "A new GTA mod lets you smash and shoot Flock’s automatic license plate readers around the fictional Los Santos.",
+            "published_utc": "2026-09-09T16:30:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Chipmaker Patch Tuesday: Nvidia, AMD, Arm Issue Security Advisories",
+            "link": "https://www.securityweek.com/chipmaker-patch-tuesday-nvidia-amd-arm-issue-security-advisories/",
+            "summary": "",
+            "published_utc": "2026-09-09T16:22:54+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Driver’s License Data for Sale",
+            "link": "https://www.schneier.com/blog/archives/2026/09/drivers-license-data-for-sale.html",
+            "summary": "",
+            "published_utc": "2026-09-09T16:05:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Veradigm warns of patient data breach after ransomware gang claims attack",
+            "link": "https://www.bleepingcomputer.com/news/security/veradigm-discloses-patient-data-breach-after-gentlemen-gang-claims-attack/",
+            "summary": "Healthcare technology company Veradigm disclosed a data breach after a cybersecurity incident at one of its third-party vendors exposed patients' pers...",
+            "published_utc": "2026-09-09T15:31:23+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Researchers Build WeChat Zero-Click Worm Hijacking Phones via Calls",
+            "link": "https://www.infosecurity-magazine.com/news/wechat-zeroclick-worm-hijack/",
+            "summary": "The hacking tool, built using a combination of AI models, is effective against Android and iOS devices",
+            "published_utc": "2026-09-09T15:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Fortinet Patches Critical Vulnerabilities in FortiMonitorOnSight, Chrome Extension",
+            "link": "https://www.securityweek.com/fortinet-patches-critical-vulnerabilities-in-fortimonitoronsight-chrome-extension/",
+            "summary": "",
+            "published_utc": "2026-09-09T14:33:52+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Gigabud Uses Android App Cloning to Evade Fraud Detection",
+            "link": "https://www.infosecurity-magazine.com/news/gigabud-android-app-cloning-fraud/",
+            "summary": "Gigabud clones banking apps into a work profile to break the link between malware alerts and fraud",
+            "published_utc": "2026-09-09T14:30:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "MFA's Weakest Link: Account Recovery Is the New Attack Path",
+            "link": "https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/",
+            "summary": "MFA makes account takeover harder, but attackers are increasingly targeting the recovery processes used to reset passwords and authentication methods....",
+            "published_utc": "2026-09-09T14:01:11+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "ClickFix Moves into the Browser to Steal Cryptocurrency",
+            "link": "https://www.infosecurity-magazine.com/news/clickfix-browser-cryptocurrency/",
+            "summary": "ClickFix campaign uses browser-injected JavaScript and Google Sheets to steal cryptocurrency",
+            "published_utc": "2026-09-09T13:45:00+00:00"
+        },
         {
             "source": "InfosecurityMag",
             "title": "NHIs Now the Number One Corporate Entry Point for Hackers",
@@ -79,25 +170,11 @@
             "published_utc": "2026-09-09T10:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "New Phishing Attack Creates Malicious Pages Inside the Victim’s Browser",
-            "link": "https://www.securityweek.com/new-phishing-attack-creates-malicious-pages-inside-the-victims-browser/",
-            "summary": "",
-            "published_utc": "2026-09-09T10:00:00+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "When the prompt becomes the payload: A practical pen-testing guide for GenAI, LLM and RAG applications",
             "link": "https://www.csoonline.com/article/4219801/when-the-prompt-becomes-the-payload-a-practical-pen-testing-guide-for-genai-llm-and-rag-applications.html",
             "summary": "",
             "published_utc": "2026-09-09T10:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Chrome 153 Patches Seventh Zero-Day of 2026",
-            "link": "https://www.securityweek.com/chrome-153-patches-seventh-zero-day-of-2026/",
-            "summary": "",
-            "published_utc": "2026-09-09T09:45:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -205,25 +282,11 @@
             "published_utc": "2026-09-08T20:08:55+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Microsoft Patches Record 974 Vulnerabilities, Including Two Exploited Zero-Days",
-            "link": "https://www.securityweek.com/microsoft-patches-record-974-vulnerabilities-including-two-exploited-zero-days/",
-            "summary": "",
-            "published_utc": "2026-09-08T19:20:06+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Microsoft releases Windows 10 KB5122878 extended security update",
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5122878-extended-security-update/",
             "summary": "Microsoft has released the Windows 10 KB5122878 extended security update, which includes this month's record-breaking September 2026 Patch Tuesday fix...",
             "published_utc": "2026-09-08T18:49:19+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Adobe Patches Over 170 Vulnerabilities, Including Commerce Zero-Day",
-            "link": "https://www.securityweek.com/adobe-patches-over-170-vulnerabilities-including-commerce-zero-day/",
-            "summary": "",
-            "published_utc": "2026-09-08T18:37:17+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -254,13 +317,6 @@
             "published_utc": "2026-09-08T17:12:42+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "The Hidden Instructions That Can Hijack AI Agents",
-            "link": "https://www.securityweek.com/the-hidden-instructions-that-can-hijack-ai-agents/",
-            "summary": "",
-            "published_utc": "2026-09-08T17:00:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "ShinyHunters hackers claim breach of Florida \"DAVID\" DMV database",
             "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hackers-claim-breach-of-florida-david-dmv-database/",
@@ -268,32 +324,11 @@
             "published_utc": "2026-09-08T16:35:47+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "OpenAI says ChatGPT outage causes image generation errors",
-            "link": "https://www.bleepingcomputer.com/news/technology/openai-says-chatgpt-outage-causes-image-generation-errors/",
-            "summary": "OpenAI is investigating an ongoing incident causing ChatGPT image generation failures and delays when uploading files. [...]",
-            "published_utc": "2026-09-08T16:28:42+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "August updates trigger 0xc0000409 errors on Windows Server 2016",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/august-updates-trigger-0xc0000409-errors-on-windows-server-2016/",
-            "summary": "Microsoft says the August 2026 security update may trigger 0xc0000409 errors on Windows Server 2016 systems where the Compatibility Appraiser diagnost...",
-            "published_utc": "2026-09-08T15:22:33+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Mars Security Debuts Automated Threat Engine Processing Live Cyber Intelligence Into Validated Rules Within Minutes",
             "link": "https://www.csoonline.com/article/4219725/mars-security-debuts-automated-threat-engine-processing-live-cyber-intelligence-into-validated-rules-within-minutes.html",
             "summary": "",
             "published_utc": "2026-09-08T15:05:30+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "SAP warns of maximum severity 'OVERPASS' kernel vulnerability",
-            "link": "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-overpass-kernel-vulnerability/",
-            "summary": "SAP has addressed 20 vulnerabilities across multiple products in its September 2026 security updates, including a maximum-severity memory corruption f...",
-            "published_utc": "2026-09-08T14:55:20+00:00"
         },
         {
             "source": "CSO Online",
@@ -595,13 +630,6 @@
             "link": "https://www.infosecurity-magazine.com/news/international-operation-disrupts/",
             "summary": "US-led action sinkholes machines caught up in Sality botnet",
             "published_utc": "2026-09-03T08:30:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "AI Agents Are Now Emailing Me with Their Security Concerns",
-            "link": "https://www.schneier.com/blog/archives/2026/09/ai-agents-are-now-emailing-me-with-their-security-concerns.html",
-            "summary": "",
-            "published_utc": "2026-09-02T18:28:08+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1570,13 +1598,6 @@
             "published_utc": "2026-08-06T00:15:04+00:00"
         },
         {
-            "source": "WIRED Security",
-            "title": "A Security Pro Hacked North Korean Hackers. He Found They’d Breached Hundreds of Networks Worldwide",
-            "link": "https://www.wired.com/story/a-security-pro-hacked-north-korean-hackers-he-found-theyd-breached-hundreds-of-networks-worldwide/",
-            "summary": "For nearly two years, researcher Vangelis Stykas has maintained access to North Korean hackers’ servers. His work shows they pulled off intrusions in ...",
-            "published_utc": "2026-08-05T23:30:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Fake Open VSX Extensions Harvest Private Repo and CI Data",
             "link": "https://www.infosecurity-magazine.com/news/open-vsx-evil-twin-extensions-git/",
@@ -2513,27 +2534,6 @@
             "link": "https://www.infosecurity-magazine.com/news/veil-drop-blogspot-purelog-stealer/",
             "summary": "Securonix said the Veil#Drop campaign abuses Google Blogspot to deliver PureLog Stealer in memory",
             "published_utc": "2026-07-01T14:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Brazilian Banking Trojan Ousaban Targets Spain and Portugal",
-            "link": "https://www.infosecurity-magazine.com/news/ousaban-banking-trojan-spain/",
-            "summary": "FortiGuard says the Brazilian banking trojan Ousaban is targeting Spain and Portugal via phishing",
-            "published_utc": "2026-07-01T13:45:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Anthropic's Fable 5 and Mythos 5 Are Back with New Security Guardrails",
-            "link": "https://www.infosecurity-magazine.com/news/anthropic-fable-mythos-back/",
-            "summary": "The new classifier in Fable 5 blocks the jailbreak technique that prompted the US export controls “in over 99% of cases”",
-            "published_utc": "2026-07-01T11:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Microsoft Accelerates Quantum-Safe Push with New Timeline",
-            "link": "https://www.infosecurity-magazine.com/news/microsoft-accelerates-quantumsafe/",
-            "summary": "Microsoft has brought forward its timelines for transitioning to post-quantum cryptography (PQC)",
-            "published_utc": "2026-07-01T10:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
