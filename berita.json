@@ -1,6 +1,34 @@
 {
-    "lastUpdatedUTC": "2026-09-09T20:35:19.580546+00:00",
+    "lastUpdatedUTC": "2026-09-09T22:59:49.633338+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/",
+            "summary": "Cisco has confirmed that a maximum-severity authentication bypass vulnerability tracked as CVE-2026-20079 in its Secure Firewall Management Center (FM...",
+            "published_utc": "2026-09-09T21:40:44+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "AdaptHealth confirms 4.1 million people exposed in July cyberattack",
+            "link": "https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/",
+            "summary": "Healthcare company AdaptHealth has confirmed that data of 4.1 million people was exposed in a cyberattack discovered in July that was attributed to th...",
+            "published_utc": "2026-09-09T21:30:36+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "San Francisco Orders Meta to Stop ‘Allowing’ AI Child Abuse Ads",
+            "link": "https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/",
+            "summary": "The City Attorney’s Office has asked Meta to explain how the harmful ads repeatedly ran on Facebook and Instagram. The company claims the ads are not ...",
+            "published_utc": "2026-09-09T21:15:27+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking",
+            "link": "https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/",
+            "summary": "The Carnegie Mellon University CERT Coordination Center (CERT/CC) is warning that Skullcandy Dime 3 wireless earbuds accept Bluetooth pairing requests...",
+            "published_utc": "2026-09-09T21:02:14+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "MikroTik patches flaws currently being exploited to take over routers",
@@ -303,20 +331,6 @@
             "published_utc": "2026-09-08T18:49:19+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-patch-tuesday-fixes-966-flaws-2-zero-days/",
-            "summary": "Today is Microsoft's September 2026 Patch Tuesday, with security updates released for a record-breaking 966 flaws, including two actively exploited ze...",
-            "published_utc": "2026-09-08T18:18:05+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Windows 11 cumulative updates KB5124008 & KB5122880 released",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5124008-and-kb5122880-released/",
-            "summary": "Microsoft has released Windows 11 KB5124008 and KB5122880 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, an...",
-            "published_utc": "2026-09-08T17:57:03+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "CISA tells operators to harden Siemens S7 PLCs. Here’s how to do it without disrupting production",
             "link": "https://www.csoonline.com/article/4219765/cisa-tells-operators-to-harden-siemens-s7-plcs-heres-how-to-do-it-without-disrupting-production.html",
@@ -329,13 +343,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/09/ais-as-modern-genies.html",
             "summary": "",
             "published_utc": "2026-09-08T17:12:42+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "ShinyHunters hackers claim breach of Florida \"DAVID\" DMV database",
-            "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hackers-claim-breach-of-florida-david-dmv-database/",
-            "summary": "The ShinyHunters extortion gang claims it breached an online platform for the Florida Department of Motor Vehicles database known as \"DAVID\" and stole...",
-            "published_utc": "2026-09-08T16:35:47+00:00"
         },
         {
             "source": "CSO Online",
@@ -1540,13 +1547,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ransomware-surges-july-q2-lull/",
             "summary": "Finance, technology and healthcare sectors were particularly heavily targeted in July, according to Comparitech",
             "published_utc": "2026-08-07T08:20:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "Hackers Stalked Me by Hijacking a Smartwatch for Kids",
-            "link": "https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/",
-            "summary": "Security researchers tracked and eavesdropped on a WIRED reporter using vulnerabilities in a pink plastic smartwatch. It’s just one piece of a deeply ...",
-            "published_utc": "2026-08-06T21:35:00+00:00"
         },
         {
             "source": "KrebsOnSecurity",
