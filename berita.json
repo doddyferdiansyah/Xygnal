@@ -1,6 +1,34 @@
 {
-    "lastUpdatedUTC": "2026-09-10T14:54:16.481791+00:00",
+    "lastUpdatedUTC": "2026-09-10T18:10:47.085295+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Cybersecurity M&A Roundup: 33 Deals Announced in August 2026",
+            "link": "https://www.securityweek.com/cybersecurity-ma-roundup-33-deals-announced-in-august-2026/",
+            "summary": "",
+            "published_utc": "2026-09-10T16:14:58+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "AI-powered attack exploited PaperCut flaws to hack 395 organizations",
+            "link": "https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/",
+            "summary": "A threat actor, likely Russian-speaking, used hundreds of AI agents to develop and launch a global exploitation campaign targeting vulnerable PaperCut...",
+            "published_utc": "2026-09-10T15:55:56+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Cisco FMC flaws exploited by ransomware gang, state-sponsored hackers",
+            "link": "https://www.bleepingcomputer.com/news/security/cisco-fmc-flaws-exploited-by-ransomware-gang-state-sponsored-hackers/",
+            "summary": "Cisco Talos says two recently patched Secure Firewall Management Center (FMC) vulnerabilities have been exploited by three separate threat clusters li...",
+            "published_utc": "2026-09-10T15:43:58+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "IDScan confirms breach tied to 153 million stolen driver’s licenses",
+            "link": "https://www.bleepingcomputer.com/news/security/idscan-confirms-breach-tied-to-153-million-stolen-drivers-licenses/",
+            "summary": "Identity verification company IDScan has confirmed that hackers accessed customer data stored in its cloud platform, days after reports linked the com...",
+            "published_utc": "2026-09-10T14:55:33+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Anthropic Researcher Resigns With Warning About the Dangers of AI Development",
@@ -191,13 +219,6 @@
             "published_utc": "2026-09-10T06:56:33+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Fortinet Code Execution Flaw Exploited in PivotC2 RAT Attacks",
-            "link": "https://www.securityweek.com/fortinet-code-execution-flaw-exploited-in-pivotc2-rat-attacks/",
-            "summary": "",
-            "published_utc": "2026-09-10T06:33:36+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
             "link": "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/",
@@ -331,13 +352,6 @@
             "published_utc": "2026-09-09T11:08:26+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Over 36,000 exposed Plex servers vulnerable to recent flaws",
-            "link": "https://www.bleepingcomputer.com/news/security/over-36-000-plex-servers-unpatched-against-recently-disclosed-flaws/",
-            "summary": "Over 36,000 Plex Media servers exposed online remain unpatched against multiple security vulnerabilities and are vulnerable to attacks. [...]",
-            "published_utc": "2026-09-09T10:11:29+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "When the prompt becomes the payload: A practical pen-testing guide for GenAI, LLM and RAG applications",
             "link": "https://www.csoonline.com/article/4219801/when-the-prompt-becomes-the-payload-a-practical-pen-testing-guide-for-genai-llm-and-rag-applications.html",
@@ -366,13 +380,6 @@
             "published_utc": "2026-09-09T09:00:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Man gets 15 years for extorting women with AI-generated porn videos",
-            "link": "https://www.bleepingcomputer.com/news/security/man-gets-15-years-in-prison-for-cyberstalking-and-sextortion/",
-            "summary": "An Ohio man was sentenced to 15 years in prison for multiple cybercrimes, including sextortion and cyberstalking of numerous victims using AI-generate...",
-            "published_utc": "2026-09-09T08:44:22+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "50% of CISOs see Mythos as a sign to exit the profession",
             "link": "https://www.csoonline.com/article/4218857/50-of-cisos-see-mythos-as-a-sign-to-exit-the-profession.html",
@@ -385,13 +392,6 @@
             "link": "https://www.infosecurity-magazine.com/news/sap-patches-maximum-severity/",
             "summary": "Onapsis urges SAP customers to patch “Overpass” vulnerability, which has a CVSS score of 10.0",
             "published_utc": "2026-09-09T08:15:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "New Microsoft Defender 'ShieldCrash' zero-day grants SYSTEM access",
-            "link": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldcrash-zero-day-grants-system-access/",
-            "summary": "An anonymous security researcher known as Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \"ShieldCrash\" right after Mic...",
-            "published_utc": "2026-09-09T07:30:15+00:00"
         },
         {
             "source": "CSO Online",
