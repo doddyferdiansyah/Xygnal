@@ -1,6 +1,111 @@
 {
-    "lastUpdatedUTC": "2026-09-10T10:49:08.622350+00:00",
+    "lastUpdatedUTC": "2026-09-10T14:54:16.481791+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Anthropic Researcher Resigns With Warning About the Dangers of AI Development",
+            "link": "https://www.securityweek.com/anthropic-researcher-resigns-with-warning-about-the-dangers-of-ai-development/",
+            "summary": "",
+            "published_utc": "2026-09-10T14:52:07+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Hacker Conversations: Vinnie Liu, Performer Turned Ringmaster",
+            "link": "https://www.securityweek.com/hacker-conversations-vinnie-liu-performer-turned-ringmaster/",
+            "summary": "",
+            "published_utc": "2026-09-10T14:30:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "New 'BlueMoon' kit exploited Windows and Chrome zero-day flaws",
+            "link": "https://www.bleepingcomputer.com/news/security/new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws/",
+            "summary": "Multiple cyber-espionage groups deployed an exploit kit dubbed \"BlueMoon\" that leveraged zero-day vulnerabilities in Microsoft Windows and Google Chro...",
+            "published_utc": "2026-09-10T14:11:34+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "The Top 4 Threats We Found by Investigating Every Alert for a Quarter",
+            "link": "https://www.bleepingcomputer.com/news/security/the-top-4-threats-we-found-by-investigating-every-alert-for-a-quarter/",
+            "summary": "Identity was the target in roughly half of all confirmed malicious activity. Prophet Security breaks down the four main attack patterns seen across cu...",
+            "published_utc": "2026-09-10T14:00:10+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "CISA Updates Insider Threat Guide With New Mitigation Advice",
+            "link": "https://www.infosecurity-magazine.com/news/cisa-updates-insider-threat-guide/",
+            "summary": "CISA has updated its insider threat guide with new advice on remote work, AI and risk detection",
+            "published_utc": "2026-09-10T14:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Deceptive Android Apps Exploit Google Play Early Access to Evade Reviews",
+            "link": "https://www.securityweek.com/deceptive-android-apps-exploit-google-play-early-access-to-evade-reviews/",
+            "summary": "",
+            "published_utc": "2026-09-10T13:39:52+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Webinar Today: Keep Pace With AI – A New Operating Model for Endpoint Remediation",
+            "link": "https://www.securityweek.com/webinar-today-keep-pace-with-ai-a-new-operating-model-for-endpoint-remediation/",
+            "summary": "",
+            "published_utc": "2026-09-10T13:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "MantaxOtax Android Malware Combines Ransomware With Spyware",
+            "link": "https://www.infosecurity-magazine.com/news/mantaxotax-android-malware/",
+            "summary": "MantaxOtax Android malware combines ransomware with extensive spyware capabilities",
+            "published_utc": "2026-09-10T13:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Critical NetScaler Vulnerability Exploited in Attacks",
+            "link": "https://www.securityweek.com/critical-netscaler-vulnerability-exploited-in-attacks/",
+            "summary": "",
+            "published_utc": "2026-09-10T12:20:21+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "FBI Publishes First-Ever Cyber Strategy, With Focus on Disrupting Threat Actors",
+            "link": "https://www.infosecurity-magazine.com/news/fbi-cyber-strategy-disrupting/",
+            "summary": "The new document appears to be part of a broader shift by the US government towards the proactive disruption of cyber threat actors",
+            "published_utc": "2026-09-10T12:15:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "AI workflows may be creating a dangerous new authorization blind spot",
+            "link": "https://www.csoonline.com/article/4220702/ai-workflows-may-be-creating-a-dangerous-new-authorization-blind-spot.html",
+            "summary": "",
+            "published_utc": "2026-09-10T12:04:44+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Widened Scan Turns Up Fourth Rogue Claude Cyber Incident",
+            "link": "https://www.securityweek.com/widened-scan-turns-up-fourth-rogue-claude-cyber-incident/",
+            "summary": "",
+            "published_utc": "2026-09-10T11:52:44+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Stealth rootkit targeting F5 BIG-IP could expose enterprise identity gateways",
+            "link": "https://www.csoonline.com/article/4220693/stealth-rootkit-targeting-f5-big-ip-could-expose-enterprise-identity-gateways.html",
+            "summary": "",
+            "published_utc": "2026-09-10T11:51:30+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "4.1 Million Impacted by AdaptHealth Data Breach",
+            "link": "https://www.securityweek.com/4-1-million-impacted-by-adapthealth-data-breach/",
+            "summary": "",
+            "published_utc": "2026-09-10T11:20:43+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft says September updates fix mouse settings reset issues",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-resolves-mouse-settings-reset-bug-windows-11-update/",
+            "summary": "Microsoft has fixed a known issue that wiped mouse settings on some Windows 11 systems after installing the KB5120998 August 2026 preview update. [...]",
+            "published_utc": "2026-09-10T11:14:28+00:00"
+        },
         {
             "source": "Schneier",
             "title": "AIs Compress Exploit Timeline",
@@ -135,20 +240,6 @@
             "published_utc": "2026-09-09T19:14:26+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "HelmGuard Raises $7.3 Million for Agentic GRC and Security",
-            "link": "https://www.securityweek.com/helmguard-raises-7-3-million-for-agentic-grc-and-security/",
-            "summary": "",
-            "published_utc": "2026-09-09T17:23:58+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "AI Is Giving Lesser-Resourced Attackers Nation-State-Level Reach, Google Warns",
-            "link": "https://www.securityweek.com/ai-is-giving-lesser-resourced-attackers-nation-state-level-reach-google-warns/",
-            "summary": "",
-            "published_utc": "2026-09-09T16:56:25+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "US says Chinese firms extracted billions of tokens from frontier AI models",
             "link": "https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/",
@@ -156,25 +247,11 @@
             "published_utc": "2026-09-09T16:48:33+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Android’s September 2026 Updates Patch 180 Vulnerabilities",
-            "link": "https://www.securityweek.com/androids-september-2026-updates-patch-180-vulnerabilities/",
-            "summary": "",
-            "published_utc": "2026-09-09T16:30:40+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "You Can Now Destroy Flock Cameras for Cash in GTA V",
             "link": "https://www.wired.com/story/you-can-now-destroy-flock-cameras-for-cash-in-gta-v/",
             "summary": "A new GTA mod lets you smash and shoot Flock’s automatic license plate readers around the fictional Los Santos.",
             "published_utc": "2026-09-09T16:30:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Chipmaker Patch Tuesday: Nvidia, AMD, Arm Issue Security Advisories",
-            "link": "https://www.securityweek.com/chipmaker-patch-tuesday-nvidia-amd-arm-issue-security-advisories/",
-            "summary": "",
-            "published_utc": "2026-09-09T16:22:54+00:00"
         },
         {
             "source": "Schneier",
@@ -196,13 +273,6 @@
             "link": "https://www.infosecurity-magazine.com/news/wechat-zeroclick-worm-hijack/",
             "summary": "The hacking tool, built using a combination of AI models, is effective against Android and iOS devices",
             "published_utc": "2026-09-09T15:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Fortinet Patches Critical Vulnerabilities in FortiMonitorOnSight, Chrome Extension",
-            "link": "https://www.securityweek.com/fortinet-patches-critical-vulnerabilities-in-fortimonitoronsight-chrome-extension/",
-            "summary": "",
-            "published_utc": "2026-09-09T14:33:52+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -231,20 +301,6 @@
             "link": "https://www.infosecurity-magazine.com/news/nhis-number-one-corporate-entry/",
             "summary": "SpyCloud claims non-human identities are the most likely route into the enterprise",
             "published_utc": "2026-09-09T13:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "US Agencies Warn China Is Systematically Extracting Frontier AI Capabilities",
-            "link": "https://www.securityweek.com/us-agencies-warn-china-is-systematically-extracting-frontier-ai-capabilities/",
-            "summary": "",
-            "published_utc": "2026-09-09T12:32:13+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Meta Launches Personal AI Agent, Muse, Emphasizes Safety and Privacy",
-            "link": "https://www.securityweek.com/meta-launches-personal-ai-agent-muse-emphasizes-safety-and-privacy/",
-            "summary": "",
-            "published_utc": "2026-09-09T12:00:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -338,13 +394,6 @@
             "published_utc": "2026-09-09T07:30:15+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Google warns of new Chrome zero-day bug exploited in attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/google-patches-seventh-chrome-zero-day-exploited-in-attacks-this-year/",
-            "summary": "Google has patched 230 vulnerabilities on Tuesday, including another actively exploited Chrome zero-day bug, the seventh such vulnerability patched si...",
-            "published_utc": "2026-09-09T06:25:48+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "September 2026 Patch Tuesday roundup: Plugs for two zero day holes among almost 1,000 fixes in Windows",
             "link": "https://www.csoonline.com/article/4219846/september-2026-patch-tuesday-roundup-plugs-for-two-zero-day-holes-among-almost-1000-fixes-in-windows.html",
@@ -359,25 +408,11 @@
             "published_utc": "2026-09-09T02:22:40+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Microsoft adds age-awareness APIs that can tell if users are children, teens, or adults",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-age-awareness-apis-that-can-tell-if-users-are-children-teens-or-adults/",
-            "summary": "Microsoft is adding new age-awareness APIs to Windows 11 that will allow apps to determine whether someone is a child, teenager, or adult without expo...",
-            "published_utc": "2026-09-09T01:16:27+00:00"
-        },
-        {
             "source": "KrebsOnSecurity",
             "title": "Microsoft Plugs Nearly 1,000 Security Holes",
             "link": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
             "summary": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest singl...",
             "published_utc": "2026-09-08T21:44:22+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "DoppelCart fraud network uses 119,000 fake shops to steal credit cards",
-            "link": "https://www.bleepingcomputer.com/news/security/doppelcart-fraud-network-uses-119-000-fake-shops-to-steal-credit-cards/",
-            "summary": "A massive operation dubbed \"DoppelCart\" uses more than 119,000 domains to run a network of fake e-shops that steal payment card details. [...]",
-            "published_utc": "2026-09-08T20:35:14+00:00"
         },
         {
             "source": "WIRED Security",
@@ -492,13 +527,6 @@
             "published_utc": "2026-09-08T09:00:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Securing AI agents: Key controls and best practices",
-            "link": "https://www.csoonline.com/article/4218440/securing-ai-agents-key-controls-and-best-practices.html",
-            "summary": "",
-            "published_utc": "2026-09-08T08:25:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "NCSC Warns Shadow AI Creates New Security Risks",
             "link": "https://www.infosecurity-magazine.com/news/ncsc-warns-shadow-ai-security-risks/",
@@ -511,13 +539,6 @@
             "link": "https://www.infosecurity-magazine.com/news/nable-hotfix-critical-rce/",
             "summary": "The vulnerability, CVE-2026-86218, was allocated a maximum-severity rating by the software provider itself",
             "published_utc": "2026-09-07T12:45:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Sam Altman calls GPT-6 Astra rollout ‘messy’ as enterprise users wait for access",
-            "link": "https://www.csoonline.com/article/4219249/sam-altman-calls-gpt-6-astra-rollout-messy-as-enterprise-users-wait-for-access.html",
-            "summary": "",
-            "published_utc": "2026-09-07T12:14:18+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2520,27 +2541,6 @@
             "link": "https://www.infosecurity-magazine.com/news/fbi-google-take-down-netnut-proxy/",
             "summary": "The NetNut proxy network and the ‘Popa’ botnet are known to have infected devices with variants of Mirai DDoS botnets",
             "published_utc": "2026-07-03T09:35:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Researcher Behind 'Exploitarium' Explains Release of Undisclosed Zero-Day Exploits",
-            "link": "https://www.infosecurity-magazine.com/news/researcher-exploitarium-exploits/",
-            "summary": "Infosecurity spoke with the researcher who dumped over 30 proof-of-concept exploits without disclosing the vulnerabilities first",
-            "published_utc": "2026-07-02T12:51:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Cybercriminals Pose as Interpol in Phishing Emails to Infect Victims With Ransomware",
-            "link": "https://www.infosecurity-magazine.com/news/cybercriminals-pose-interpol/",
-            "summary": "Bitdefender researchers warned of curious ransomware campaign which has targeted businesses around the world",
-            "published_utc": "2026-07-02T12:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "NCSC Shares Tips on How to Make a Pen Tester’s Job Harder",
-            "link": "https://www.infosecurity-magazine.com/news/ncsc-tips-make-pen-testers-job/",
-            "summary": "The NCSC has shared best practice advice from pen testers which could help improve system resilience",
-            "published_utc": "2026-07-02T10:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
