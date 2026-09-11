@@ -1,6 +1,34 @@
 {
-    "lastUpdatedUTC": "2026-09-11T17:35:55.850211+00:00",
+    "lastUpdatedUTC": "2026-09-11T20:36:14.690163+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers abused Claude to extract secrets from 1.8M Android apps",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/",
+            "summary": "Anthropic says multiple threat groups, including the financially motivated and state-sponsored espionage groups linked to Russia and China, tried to a...",
+            "published_utc": "2026-09-11T20:19:09+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Florida confirms DMV database breached via stolen police account",
+            "link": "https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/",
+            "summary": "The Florida Department of Highway Safety and Motor Vehicles (FLHSMV) has confirmed that its DAVID driver database suffered a data breach, saying the a...",
+            "published_utc": "2026-09-11T19:00:29+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
+            "link": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
+            "summary": "The proposed class action alleges Meta illegally harvested people’s Facebook and Instagram photos to train its AI image-generation models and to build...",
+            "published_utc": "2026-09-11T18:59:25+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "My Talk at DEF CON",
+            "link": "https://www.schneier.com/blog/archives/2026/09/my-talk-at-def-con.html",
+            "summary": "",
+            "published_utc": "2026-09-11T18:06:24+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft",
@@ -245,20 +273,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/cisco-fmc-flaws-exploited-by-ransomware-gang-state-sponsored-hackers/",
             "summary": "Cisco Talos says two recently patched Secure Firewall Management Center (FMC) vulnerabilities have been exploited by three separate threat clusters li...",
             "published_utc": "2026-09-10T15:43:58+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "IDScan confirms breach tied to 153 million stolen driver’s licenses",
-            "link": "https://www.bleepingcomputer.com/news/security/idscan-confirms-breach-tied-to-153-million-stolen-drivers-licenses/",
-            "summary": "Identity verification company IDScan has confirmed that hackers accessed customer data stored in its cloud platform, days after reports linked the com...",
-            "published_utc": "2026-09-10T14:55:33+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "New 'BlueMoon' kit exploited Windows and Chrome zero-day flaws",
-            "link": "https://www.bleepingcomputer.com/news/security/new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws/",
-            "summary": "Multiple cyber-espionage groups deployed an exploit kit dubbed \"BlueMoon\" that leveraged zero-day vulnerabilities in Microsoft Windows and Google Chro...",
-            "published_utc": "2026-09-10T14:11:34+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -630,13 +644,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/09/using-a-vm-to-contain-an-ai-agent.html",
             "summary": "",
             "published_utc": "2026-09-04T16:31:38+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Security Vulnerability in a Voting System",
-            "link": "https://www.schneier.com/blog/archives/2026/09/security-vulnerability-in-a-voting-system.html",
-            "summary": "",
-            "published_utc": "2026-09-04T11:09:35+00:00"
         },
         {
             "source": "WIRED Security",
@@ -1505,13 +1512,6 @@
             "link": "https://www.infosecurity-magazine.com/news/cursor-security-bug-command/",
             "summary": "Cursor fixed a pre-trust code execution path in three days then closed the report as informative",
             "published_utc": "2026-08-11T14:30:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call",
-            "link": "https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/",
-            "summary": "Researchers say it took fewer than 20 prompts for a public AI tool to find a flaw (now fixed) allowing anyone on a Zoom call to hijack another partici...",
-            "published_utc": "2026-08-11T12:37:12+00:00"
         },
         {
             "source": "InfosecurityMag",
