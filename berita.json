@@ -1,6 +1,34 @@
 {
-    "lastUpdatedUTC": "2026-09-11T03:27:33.735514+00:00",
+    "lastUpdatedUTC": "2026-09-11T08:40:32.017376+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "Google’s Early Access is creating a blind spot for malicious apps",
+            "link": "https://www.csoonline.com/article/4221068/googles-early-access-is-creating-a-blind-spot-for-malicious-apps.html",
+            "summary": "",
+            "published_utc": "2026-09-11T08:36:24+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "PaperCut Flaws Exploited in AI-Powered Attacks",
+            "link": "https://www.securityweek.com/papercut-flaws-exploited-in-ai-powered-attacks/",
+            "summary": "",
+            "published_utc": "2026-09-11T08:18:23+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Trezor: 347,000 users targeted in phishing attacks after Brevo breach",
+            "link": "https://www.bleepingcomputer.com/news/security/trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach/",
+            "summary": "Trezor has revealed that phishing attacks against its customers earlier this week targeted 347,000 email addresses and affected 2,500 users who clicke...",
+            "published_utc": "2026-09-11T07:55:15+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Conti ransomware gang member sentenced to 4 years in prison",
+            "link": "https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/",
+            "summary": "A Ukrainian national has been sentenced to four years in prison for his role in Conti ransomware attacks between 2021 and 2022. [...]",
+            "published_utc": "2026-09-11T06:48:37+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "Attackers are weaponizing the gap between Chromium fixes and Chrome patches",
@@ -184,13 +212,6 @@
             "published_utc": "2026-09-10T10:40:35+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Organizations Warned of Cisco Secure FMC Exploitation",
-            "link": "https://www.securityweek.com/organizations-warned-of-cisco-secure-fmc-exploitation/",
-            "summary": "",
-            "published_utc": "2026-09-10T10:06:20+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "The longitude problem: In the AI era, detection is won on facts, not guesses",
             "link": "https://www.csoonline.com/article/4220266/the-longitude-problem-in-the-ai-era-detection-is-won-on-facts-not-guesses.html",
@@ -252,20 +273,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/trezor-warns-users-of-email-provider-breach-phishing-attacks/",
             "summary": "Trezor warned customers on Wednesday that threat actors who breached its third-party email provider are targeting them in phishing attacks. [...]",
             "published_utc": "2026-09-10T06:56:33+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/",
-            "summary": "Cisco has confirmed that a maximum-severity authentication bypass vulnerability tracked as CVE-2026-20079 in its Secure Firewall Management Center (FM...",
-            "published_utc": "2026-09-09T21:40:44+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "AdaptHealth confirms 4.1 million people exposed in July cyberattack",
-            "link": "https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/",
-            "summary": "Healthcare company AdaptHealth has confirmed that data of 4.1 million people was exposed in a cyberattack discovered in July that was attributed to th...",
-            "published_utc": "2026-09-09T21:30:36+00:00"
         },
         {
             "source": "WIRED Security",
@@ -497,13 +504,6 @@
             "link": "https://www.infosecurity-magazine.com/news/thost9-android-rat-packed-loader/",
             "summary": "THost9 hides its payload and uses ADB to spread across exposed Android devices and containers",
             "published_utc": "2026-09-08T11:15:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "BigBear 2.0 phishing campaign hijacks Microsoft 365 sessions after MFA",
-            "link": "https://www.csoonline.com/article/4219606/bigbear-2-0-phishing-campaign-hijacks-microsoft-365-sessions-after-mfa.html",
-            "summary": "",
-            "published_utc": "2026-09-08T10:48:42+00:00"
         },
         {
             "source": "Schneier",
