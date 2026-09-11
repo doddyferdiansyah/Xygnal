@@ -1,6 +1,83 @@
 {
-    "lastUpdatedUTC": "2026-09-11T13:19:55.705946+00:00",
+    "lastUpdatedUTC": "2026-09-11T17:35:55.850211+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft",
+            "link": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/",
+            "summary": "Microsoft says threat actors linked to ShinyHunters, Helix, and other extortion gangs are using passkey and single sign-on-themed social engineering a...",
+            "published_utc": "2026-09-11T17:26:50+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Phishing Research Challenges Conventional Security Awareness Testing",
+            "link": "https://www.securityweek.com/phishing-research-challenges-conventional-security-awareness-testing/",
+            "summary": "",
+            "published_utc": "2026-09-11T17:23:36+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Update your firewall rules: Teams and Copilot are changing address",
+            "link": "https://www.csoonline.com/article/4221275/update-your-firewall-rules-teams-and-copilot-are-changing-address.html",
+            "summary": "",
+            "published_utc": "2026-09-11T17:00:20+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Artifactory flaws chained in attacks deploying backdoor malware",
+            "link": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/",
+            "summary": "Threat actors are exploiting critical and high-severity vulnerabilities in JFrog Artifactory to bypass authentication, gain administrative privileges,...",
+            "published_utc": "2026-09-11T16:29:44+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "ConnectWise patches critical ScreenConnect authentication failure after five days",
+            "link": "https://www.csoonline.com/article/4221263/connectwise-patches-critical-screenconnect-authentication-failure-after-five-days-2.html",
+            "summary": "",
+            "published_utc": "2026-09-11T16:17:07+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "GitLab Vulnerability Exploited One Day After Disclosure",
+            "link": "https://www.securityweek.com/gitlab-vulnerability-exploited-one-day-after-disclosure/",
+            "summary": "",
+            "published_utc": "2026-09-11T16:11:08+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "India’s STPI serves TerminalFix-style attack via fake Cloudflare check",
+            "link": "https://www.csoonline.com/article/4221243/indias-stpi-serves-terminalfix-style-attack-via-fake-cloudflare-check.html",
+            "summary": "",
+            "published_utc": "2026-09-11T15:26:58+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "In Other News: InjectEave Attack, SIM Swapper Sentenced, Glasswing Findings Review",
+            "link": "https://www.securityweek.com/in-other-news-injecteave-attack-sim-swapper-sentenced-glasswing-findings-review/",
+            "summary": "",
+            "published_utc": "2026-09-11T14:19:18+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Anthropic finds evidence of a fourth AI escaping from containment",
+            "link": "https://www.csoonline.com/article/4221160/anthropic-finds-evidence-of-a-fourth-ai-escaping-from-containment.html",
+            "summary": "",
+            "published_utc": "2026-09-11T14:13:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface",
+            "link": "https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/",
+            "summary": "Threat actors are abusing trusted AI platforms to host malicious content, poison search results, and trick users into installing malware. Huntress exa...",
+            "published_utc": "2026-09-11T14:01:11+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Hackers Favor US Eastern Business Hours in M365 Phishing Campaign",
+            "link": "https://www.infosecurity-magazine.com/news/hackers-us-business-hours-m365/",
+            "summary": "KnowBe4 researchers observed a new phishing campaign leveraging Microsoft 365’s Direct Send to send malicious emails",
+            "published_utc": "2026-09-11T13:30:00+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Trezor Says 347,000 Users Received Phishing Emails After Brevo Hack",
@@ -142,13 +219,6 @@
             "published_utc": "2026-09-10T20:34:37+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Mandiant Founder Kevin Mandia Joins Amazon Board",
-            "link": "https://www.securityweek.com/mandiant-founder-kevin-mandia-joins-amazon-board/",
-            "summary": "",
-            "published_utc": "2026-09-10T20:30:44+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Surfshark VPN says hackers breached internal testing, proxy servers",
             "link": "https://www.bleepingcomputer.com/news/security/surfshark-vpn-says-hackers-breached-internal-testing-proxy-servers/",
@@ -161,13 +231,6 @@
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-excel-kb5002914-update-breaks-copy-and-paste-for-some-users/",
             "summary": "Microsoft Excel users report that this week's KB5002914 Office security update is breaking copy-and-paste operations and formula dragging, with affect...",
             "published_utc": "2026-09-10T19:07:33+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Cybersecurity M&A Roundup: 33 Deals Announced in August 2026",
-            "link": "https://www.securityweek.com/cybersecurity-ma-roundup-33-deals-announced-in-august-2026/",
-            "summary": "",
-            "published_utc": "2026-09-10T16:14:58+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -191,25 +254,11 @@
             "published_utc": "2026-09-10T14:55:33+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Anthropic Researcher Resigns With Warning About the Dangers of AI Development",
-            "link": "https://www.securityweek.com/anthropic-researcher-resigns-with-warning-about-the-dangers-of-ai-development/",
-            "summary": "",
-            "published_utc": "2026-09-10T14:52:07+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "New 'BlueMoon' kit exploited Windows and Chrome zero-day flaws",
             "link": "https://www.bleepingcomputer.com/news/security/new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws/",
             "summary": "Multiple cyber-espionage groups deployed an exploit kit dubbed \"BlueMoon\" that leveraged zero-day vulnerabilities in Microsoft Windows and Google Chro...",
             "published_utc": "2026-09-10T14:11:34+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "The Top 4 Threats We Found by Investigating Every Alert for a Quarter",
-            "link": "https://www.bleepingcomputer.com/news/security/the-top-4-threats-we-found-by-investigating-every-alert-for-a-quarter/",
-            "summary": "Identity was the target in roughly half of all confirmed malicious activity. Prophet Security breaks down the four main attack patterns seen across cu...",
-            "published_utc": "2026-09-10T14:00:10+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -247,13 +296,6 @@
             "published_utc": "2026-09-10T11:51:30+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Microsoft says September updates fix mouse settings reset issues",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-resolves-mouse-settings-reset-bug-windows-11-update/",
-            "summary": "Microsoft has fixed a known issue that wiped mouse settings on some Windows 11 systems after installing the KB5120998 August 2026 preview update. [...]",
-            "published_utc": "2026-09-10T11:14:28+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "AIs Compress Exploit Timeline",
             "link": "https://www.schneier.com/blog/archives/2026/09/ais-compress-exploit-timeline.html",
@@ -275,17 +317,17 @@
             "published_utc": "2026-09-10T10:00:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "CISA: WatchGuard RCE flaw now exploited in ransomware attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/",
-            "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a critical WatchGuard Firebox...",
-            "published_utc": "2026-09-10T09:10:20+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Getting ahead of ‘harvest-now-decrypt-later’: Post-quantum cryptography planning",
             "link": "https://www.csoonline.com/article/4220259/getting-ahead-of-harvest-now-decrypt-later-post-quantum-cryptography-planning.html",
             "summary": "",
+            "published_utc": "2026-09-10T09:00:00+00:00"
+        },
+        {
+            "source": "WeLiveSecurity",
+            "title": "GuardBreaker: Derailing AI-assisted malware analysis with a code comment",
+            "link": "https://www.welivesecurity.com/en/business-security/guardbreaker-derailing-ai-assisted-malware-analysis-code-comment/",
+            "summary": "LLM-based code scanners won’t help attackers build a nuclear weapon, but that refusal could work in their favor",
             "published_utc": "2026-09-10T09:00:00+00:00"
         },
         {
@@ -443,20 +485,6 @@
             "published_utc": "2026-09-09T08:15:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "September 2026 Patch Tuesday roundup: Plugs for two zero day holes among almost 1,000 fixes in Windows",
-            "link": "https://www.csoonline.com/article/4219846/september-2026-patch-tuesday-roundup-plugs-for-two-zero-day-holes-among-almost-1000-fixes-in-windows.html",
-            "summary": "",
-            "published_utc": "2026-09-09T03:27:36+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Cisco bundles fixes for multiple vulnerabilities, some critical, into one patch",
-            "link": "https://www.csoonline.com/article/4219968/cisco-bundles-fixes-for-multiple-vulnerabilities-some-critical-into-one-patch-2.html",
-            "summary": "",
-            "published_utc": "2026-09-09T02:22:40+00:00"
-        },
-        {
             "source": "KrebsOnSecurity",
             "title": "Microsoft Plugs Nearly 1,000 Security Holes",
             "link": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
@@ -471,25 +499,11 @@
             "published_utc": "2026-09-08T20:12:51+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "CISA tells operators to harden Siemens S7 PLCs. Here’s how to do it without disrupting production",
-            "link": "https://www.csoonline.com/article/4219765/cisa-tells-operators-to-harden-siemens-s7-plcs-heres-how-to-do-it-without-disrupting-production.html",
-            "summary": "",
-            "published_utc": "2026-09-08T17:16:39+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "AIs as Modern Genies",
             "link": "https://www.schneier.com/blog/archives/2026/09/ais-as-modern-genies.html",
             "summary": "",
             "published_utc": "2026-09-08T17:12:42+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Mars Security Debuts Automated Threat Engine Processing Live Cyber Intelligence Into Validated Rules Within Minutes",
-            "link": "https://www.csoonline.com/article/4219725/mars-security-debuts-automated-threat-engine-processing-live-cyber-intelligence-into-validated-rules-within-minutes.html",
-            "summary": "",
-            "published_utc": "2026-09-08T15:05:30+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2536,13 +2550,6 @@
             "published_utc": "2026-07-03T12:36:41+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "Warning Over “Industrialized” Cyber-Attacks After Ransomware Gang Partners With TeamPCP",
-            "link": "https://www.infosecurity-magazine.com/news/industrialized-cyberattacks/",
-            "summary": "Researchers warn that collaboration could lead to “unprecedented” ransomware attacks, as FBI also issues warning",
-            "published_utc": "2026-07-03T11:30:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "Inside the inbox: Why cybercriminals want to break into your email account",
             "link": "https://www.welivesecurity.com/en/cybersecurity/inside-inbox-cybercriminals-want-break-email-account/",
@@ -3094,13 +3101,6 @@
             "link": "https://www.welivesecurity.com/en/business-security/oversharing-is-not-caring-stake-employees-post-too-much-online/",
             "summary": "From LinkedIn to X, GitHub to Instagram, there are plenty of opportunities to share work-related information. But posting could also get your company ...",
             "published_utc": "2025-12-01T10:00:00+00:00"
-        },
-        {
-            "source": "WeLiveSecurity",
-            "title": "What parents should know to protect their children from doxxing",
-            "link": "https://www.welivesecurity.com/en/kids-online/parents-protect-children-doxxing/",
-            "summary": "Online disagreements among young people can easily spiral out of control. Parents need to understand what’s at stake.",
-            "published_utc": "2025-11-27T10:00:00+00:00"
         },
         {
             "source": "Threatpost",
