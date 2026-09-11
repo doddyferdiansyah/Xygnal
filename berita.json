@@ -1,6 +1,97 @@
 {
-    "lastUpdatedUTC": "2026-09-11T08:40:32.017376+00:00",
+    "lastUpdatedUTC": "2026-09-11T13:19:55.705946+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Trezor Says 347,000 Users Received Phishing Emails After Brevo Hack",
+            "link": "https://www.securityweek.com/trezor-says-347000-users-received-phishing-emails-after-brevo-hack/",
+            "summary": "",
+            "published_utc": "2026-09-11T12:48:04+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Ukrainian Conti Ransomware Developer Sentenced to 4 Years in US Prison",
+            "link": "https://www.securityweek.com/ukrainian-conti-ransomware-developer-sentenced-to-4-years-in-us-prison/",
+            "summary": "",
+            "published_utc": "2026-09-11T11:29:09+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "GitLab urges users to patch max severity path traversal flaw",
+            "link": "https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/",
+            "summary": "GitLab urged users on Thursday to patch their servers immediately against a maximum-severity path traversal vulnerability tracked as CVE-2026-85706. [...",
+            "published_utc": "2026-09-11T11:15:22+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Check Point Patches Critical VPN Vulnerabilities",
+            "link": "https://www.securityweek.com/check-point-patches-critical-vpn-vulnerabilities/",
+            "summary": "",
+            "published_utc": "2026-09-11T11:10:02+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Cliff Stoll’s DEF CON Talk",
+            "link": "https://www.schneier.com/blog/archives/2026/09/cliff-stolls-def-con-talk.html",
+            "summary": "",
+            "published_utc": "2026-09-11T11:09:55+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Kiteworks Acquires Bonfy.AI to Fill the AI Gap in Data Governance",
+            "link": "https://www.securityweek.com/kiteworks-acquires-bonfy-ai-to-fill-the-ai-gap-in-data-governance/",
+            "summary": "",
+            "published_utc": "2026-09-11T10:56:16+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "How AI and cybersecurity are reshaping ServiceNow",
+            "link": "https://www.csoonline.com/article/4220438/how-ai-and-cybersecurity-are-reshaping-servicenow-2.html",
+            "summary": "",
+            "published_utc": "2026-09-11T10:15:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Attackers use passkey-themed scams to hijack Microsoft 365 accounts",
+            "link": "https://www.csoonline.com/article/4221110/attackers-use-passkey-themed-scams-to-hijack-microsoft-365-accounts.html",
+            "summary": "",
+            "published_utc": "2026-09-11T09:51:37+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Surfshark Systems Targeted by Hackers",
+            "link": "https://www.securityweek.com/surfshark-systems-targeted-by-hackers/",
+            "summary": "",
+            "published_utc": "2026-09-11T09:41:03+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft fixes Teams, Outlook launch failures on ARM Windows PCs",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs/",
+            "summary": "Microsoft has fixed a bug that prevented Teams and Outlook from launching on ARM-based Windows devices after installing updates released since the Aug...",
+            "published_utc": "2026-09-11T09:39:37+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Most Organizations Skip Permissions Reviews Before Deploying AI Tools",
+            "link": "https://www.infosecurity-magazine.com/news/organizations-skip-permissions-ai/",
+            "summary": "A new Syskit study has shown that only 43% of organizations with AI agents deployed in Microsoft 365 environments completed a permission review before...",
+            "published_utc": "2026-09-11T09:30:00+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "The US and Mexico Announce They’re Teaming Up Against Drones",
+            "link": "https://www.wired.com/story/us-and-mexico-announce-teaming-up-against-drones/",
+            "summary": "The new joint operation uses laser-based technology capable of detecting, tracking, and disabling commercial drones linked to human and drug trafficking.",
+            "published_utc": "2026-09-11T09:15:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Anthropic Says Russian Hackers Used Claude AI to Automate Malware Evasion",
+            "link": "https://www.securityweek.com/anthropic-says-russian-hackers-used-claude-ai-to-automate-malware-evasion/",
+            "summary": "",
+            "published_utc": "2026-09-11T08:47:07+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "Google’s Early Access is creating a blind spot for malicious apps",
@@ -107,13 +198,6 @@
             "published_utc": "2026-09-10T14:52:07+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Hacker Conversations: Vinnie Liu, Performer Turned Ringmaster",
-            "link": "https://www.securityweek.com/hacker-conversations-vinnie-liu-performer-turned-ringmaster/",
-            "summary": "",
-            "published_utc": "2026-09-10T14:30:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "New 'BlueMoon' kit exploited Windows and Chrome zero-day flaws",
             "link": "https://www.bleepingcomputer.com/news/security/new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws/",
@@ -135,32 +219,11 @@
             "published_utc": "2026-09-10T14:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Deceptive Android Apps Exploit Google Play Early Access to Evade Reviews",
-            "link": "https://www.securityweek.com/deceptive-android-apps-exploit-google-play-early-access-to-evade-reviews/",
-            "summary": "",
-            "published_utc": "2026-09-10T13:39:52+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Webinar Today: Keep Pace With AI – A New Operating Model for Endpoint Remediation",
-            "link": "https://www.securityweek.com/webinar-today-keep-pace-with-ai-a-new-operating-model-for-endpoint-remediation/",
-            "summary": "",
-            "published_utc": "2026-09-10T13:30:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "MantaxOtax Android Malware Combines Ransomware With Spyware",
             "link": "https://www.infosecurity-magazine.com/news/mantaxotax-android-malware/",
             "summary": "MantaxOtax Android malware combines ransomware with extensive spyware capabilities",
             "published_utc": "2026-09-10T13:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Critical NetScaler Vulnerability Exploited in Attacks",
-            "link": "https://www.securityweek.com/critical-netscaler-vulnerability-exploited-in-attacks/",
-            "summary": "",
-            "published_utc": "2026-09-10T12:20:21+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -177,25 +240,11 @@
             "published_utc": "2026-09-10T12:04:44+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Widened Scan Turns Up Fourth Rogue Claude Cyber Incident",
-            "link": "https://www.securityweek.com/widened-scan-turns-up-fourth-rogue-claude-cyber-incident/",
-            "summary": "",
-            "published_utc": "2026-09-10T11:52:44+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Stealth rootkit targeting F5 BIG-IP could expose enterprise identity gateways",
             "link": "https://www.csoonline.com/article/4220693/stealth-rootkit-targeting-f5-big-ip-could-expose-enterprise-identity-gateways.html",
             "summary": "",
             "published_utc": "2026-09-10T11:51:30+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "4.1 Million Impacted by AdaptHealth Data Breach",
-            "link": "https://www.securityweek.com/4-1-million-impacted-by-adapthealth-data-breach/",
-            "summary": "",
-            "published_utc": "2026-09-10T11:20:43+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -254,25 +303,11 @@
             "published_utc": "2026-09-10T08:25:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Microsoft fixes bug that wiped Windows desktop settings",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-wiped-windows-desktop-settings/",
-            "summary": "Microsoft says the September 2026 Patch Tuesday updates fix a known issue causing desktop settings to be lost or reset on some Windows devices. [...]",
-            "published_utc": "2026-09-10T08:08:16+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "OFAC Sanctions Chinese Scam Platform Xinbi Guarantee",
             "link": "https://www.infosecurity-magazine.com/news/ofac-sanctions-chinese-scam/",
             "summary": "The US Treasury has placed sanctions on notorious Chinese cybercrime marketplace Xinbi Guarantee",
             "published_utc": "2026-09-10T08:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Trezor warns users of email provider breach, phishing attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/trezor-warns-users-of-email-provider-breach-phishing-attacks/",
-            "summary": "Trezor warned customers on Wednesday that threat actors who breached its third-party email provider are targeting them in phishing attacks. [...]",
-            "published_utc": "2026-09-10T06:56:33+00:00"
         },
         {
             "source": "WIRED Security",
@@ -457,13 +492,6 @@
             "published_utc": "2026-09-08T15:05:30+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Reflectiz Launches Agentic Pentesting for Websites: Up to 10x Coverage vs Conventional Pentests",
-            "link": "https://www.csoonline.com/article/4219697/reflectiz-launches-agentic-pentesting-for-websites-up-to-10x-coverage-vs-conventional-pentests.html",
-            "summary": "",
-            "published_utc": "2026-09-08T14:41:21+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "France Establishes New Government-Focused Cyber Incident Response Unit",
             "link": "https://www.infosecurity-magazine.com/news/france-new-government-cyber/",
@@ -490,13 +518,6 @@
             "link": "https://www.wired.com/story/meta-failed-to-catch-hundreds-of-ai-child-abuse-ads-some-included-images-of-real-kids/",
             "summary": "Images of real children—including a member of a European royal family—were used to create some of the 350 ads containing child sexual abuse. Lawmakers...",
             "published_utc": "2026-09-08T12:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Adobe Commerce max-severity bug comes under active attack",
-            "link": "https://www.csoonline.com/article/4219626/adobe-commerce-max-severity-bug-comes-under-active-attack.html",
-            "summary": "",
-            "published_utc": "2026-09-08T11:36:48+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -602,13 +623,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/09/security-vulnerability-in-a-voting-system.html",
             "summary": "",
             "published_utc": "2026-09-04T11:09:35+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "AI Coding Agents Are Installing Unknown/Untrusted Code on Corporate Networks",
-            "link": "https://www.schneier.com/blog/archives/2026/09/ai-coding-agents-are-installing-unknown-untrusted-code-on-corporate-networks.html",
-            "summary": "",
-            "published_utc": "2026-09-04T10:35:17+00:00"
         },
         {
             "source": "WIRED Security",
@@ -1561,13 +1575,6 @@
             "link": "https://www.welivesecurity.com/en/kids-online/ai-tutors-safe-kids/",
             "summary": "AI tutors can offer useful support, but their quality and safeguards vary widely. Here’s what parents should check before handing one to a child.",
             "published_utc": "2026-08-10T09:00:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "Flock’s Plans for Rideshare Dashcams and Coaching Police, Revealed",
-            "link": "https://www.wired.com/story/flocks-plans-for-rideshare-dashcams-and-coaching-police-revealed/",
-            "summary": "Plus: A judge rules cell tower dumps unconstitutional, water utility hacks spread to a dozen states, a phishing email opens a missile-parts supplier’s...",
-            "published_utc": "2026-08-08T10:30:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2534,13 +2541,6 @@
             "link": "https://www.infosecurity-magazine.com/news/industrialized-cyberattacks/",
             "summary": "Researchers warn that collaboration could lead to “unprecedented” ransomware attacks, as FBI also issues warning",
             "published_utc": "2026-07-03T11:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "FBI, Google Take Down NetNut Proxy Network Used by Cyber Threat Actors",
-            "link": "https://www.infosecurity-magazine.com/news/fbi-google-take-down-netnut-proxy/",
-            "summary": "The NetNut proxy network and the ‘Popa’ botnet are known to have infected devices with variants of Mirai DDoS botnets",
-            "published_utc": "2026-07-03T09:35:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
