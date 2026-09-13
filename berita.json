@@ -1,6 +1,13 @@
 {
-    "lastUpdatedUTC": "2026-09-13T14:07:28.638835+00:00",
+    "lastUpdatedUTC": "2026-09-13T17:57:25.410135+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers exploit Tencent app flaw to deploy GrayRabbit malware",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/",
+            "summary": "Threat actors linked to a China-aligned espionage group are exploiting a critical vulnerability (CVE-2026-51990) in Tencent's Sogou Input Method for W...",
+            "published_utc": "2026-09-13T14:26:32+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Anthropic CEO Dario Amodei Says AI Industry Needs to Give Safety Measures Time to Catch Up",
@@ -287,13 +294,6 @@
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-excel-kb5002914-update-breaks-copy-and-paste-for-some-users/",
             "summary": "Microsoft Excel users report that this week's KB5002914 Office security update is breaking copy-and-paste operations and formula dragging, with affect...",
             "published_utc": "2026-09-10T19:07:33+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "AI-powered attack exploited PaperCut flaws to hack 395 organizations",
-            "link": "https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/",
-            "summary": "A threat actor, likely Russian-speaking, used hundreds of AI agents to develop and launch a global exploitation campaign targeting vulnerable PaperCut...",
-            "published_utc": "2026-09-10T15:55:56+00:00"
         },
         {
             "source": "InfosecurityMag",
