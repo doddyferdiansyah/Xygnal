@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2026-09-14T18:23:02.192408+00:00",
+    "lastUpdatedUTC": "2026-09-14T22:18:32.876264+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft releases emergency Windows updates to fix RDS failures",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-windows-updates-to-fix-rds-failures/",
+            "summary": "Microsoft has released emergency out-of-band Windows updates to fix Remote Desktop Services failures caused by this month's security updates, along wi...",
+            "published_utc": "2026-09-14T20:52:18+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Japan's Digital Agency says VPN flaw exposed 246,000 personnel records",
+            "link": "https://www.bleepingcomputer.com/news/security/japans-digital-agency-says-vpn-flaw-exposed-246-000-personnel-records/",
+            "summary": "Japan's Digital Agency has discovered a data breach that may have exposed around 246,000 record rows containing personal information of government emp...",
+            "published_utc": "2026-09-14T20:36:02+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Homebrew 7.0.0 gets built-in GUI, better security controls",
+            "link": "https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/",
+            "summary": "Homebrew package manager version 7.0.0 has been released with a built-in vulnerability scanner, stronger security controls, and the full release of it...",
+            "published_utc": "2026-09-14T19:51:04+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Twitch extension with 30K installs exposes users’ OAuth tokens",
+            "link": "https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/",
+            "summary": "A browser extension called Twitch Enhanced Viewer | JeetBot, available in the official Chrome and Firefox stores, sends users' Twitch OAuth session to...",
+            "published_utc": "2026-09-14T19:03:51+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Upcoming Speaking Engagements",
+            "link": "https://www.schneier.com/blog/archives/2026/09/upcoming-speaking-engagements-60.html",
+            "summary": "",
+            "published_utc": "2026-09-14T19:02:45+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers hijack HBO Max Reddit account to push malware in ClickFix ads",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/",
+            "summary": "Hackers compromised HBO Max's official Reddit account and used it to push malicious ads that launched ClickFix attacks to infect Windows and macOS dev...",
+            "published_utc": "2026-09-14T18:34:16+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "The latest Windows 11 update may mess with your device’s audio – here’s the workaround",
@@ -254,13 +296,6 @@
             "published_utc": "2026-09-11T20:19:09+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Florida confirms DMV database breached via stolen police account",
-            "link": "https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/",
-            "summary": "The Florida Department of Highway Safety and Motor Vehicles (FLHSMV) has confirmed that its DAVID driver database suffered a data breach, saying the a...",
-            "published_utc": "2026-09-11T19:00:29+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
             "link": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
@@ -282,13 +317,6 @@
             "published_utc": "2026-09-11T18:06:24+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft",
-            "link": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/",
-            "summary": "Microsoft says threat actors linked to ShinyHunters, Helix, and other extortion gangs are using passkey and single sign-on-themed social engineering a...",
-            "published_utc": "2026-09-11T17:26:50+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Update your firewall rules: Teams and Copilot are changing address",
             "link": "https://www.csoonline.com/article/4221275/update-your-firewall-rules-teams-and-copilot-are-changing-address.html",
@@ -301,13 +329,6 @@
             "link": "https://www.zdnet.com/business/apple-extends-free-satellite-service-to-older-iphones/",
             "summary": "This isn’t the first time that Apple has extended the free two-year trial.",
             "published_utc": "2026-09-11T16:35:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Artifactory flaws chained in attacks deploying backdoor malware",
-            "link": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/",
-            "summary": "Threat actors are exploiting critical and high-severity vulnerabilities in JFrog Artifactory to bypass authentication, gain administrative privileges,...",
-            "published_utc": "2026-09-11T16:29:44+00:00"
         },
         {
             "source": "CSO Online",
@@ -331,13 +352,6 @@
             "published_utc": "2026-09-11T14:13:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface",
-            "link": "https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/",
-            "summary": "Threat actors are abusing trusted AI platforms to host malicious content, poison search results, and trick users into installing malware. Huntress exa...",
-            "published_utc": "2026-09-11T14:01:11+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Hackers Favor US Eastern Business Hours in M365 Phishing Campaign",
             "link": "https://www.infosecurity-magazine.com/news/hackers-us-business-hours-m365/",
@@ -357,13 +371,6 @@
             "link": "https://www.zdnet.com/tech/apple-event-features-android-users-want/",
             "summary": "I hate to admit it, but I wish Android would do what Apple just did.",
             "published_utc": "2026-09-11T12:06:19+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "GitLab urges users to patch max severity path traversal flaw",
-            "link": "https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/",
-            "summary": "GitLab urged users on Thursday to patch their servers immediately against a maximum-severity path traversal vulnerability tracked as CVE-2026-85706. [...",
-            "published_utc": "2026-09-11T11:15:22+00:00"
         },
         {
             "source": "Schneier",
@@ -756,13 +763,6 @@
             "link": "https://www.infosecurity-magazine.com/news/thost9-android-rat-packed-loader/",
             "summary": "THost9 hides its payload and uses ADB to spread across exposed Android devices and containers",
             "published_utc": "2026-09-08T11:15:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Stealing AI Reasoning Traces",
-            "link": "https://www.schneier.com/blog/archives/2026/09/stealing-ai-reasoning-traces.html",
-            "summary": "",
-            "published_utc": "2026-09-08T10:20:04+00:00"
         },
         {
             "source": "InfosecurityMag",
