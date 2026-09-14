@@ -1,6 +1,97 @@
 {
-    "lastUpdatedUTC": "2026-09-14T12:03:06.902347+00:00",
+    "lastUpdatedUTC": "2026-09-14T18:23:02.192408+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "The latest Windows 11 update may mess with your device’s audio – here’s the workaround",
+            "link": "https://www.zdnet.com/business/windows-11-sept-update-audio-glitch-fix-2/",
+            "summary": "The September Patch Tuesday update is causing audio problems with certain USB devices, but you may be able to resolve it yourself.",
+            "published_utc": "2026-09-14T17:27:48+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "New York Seizes a Dozen Celebrity Deepfake Websites",
+            "link": "https://www.wired.com/story/new-york-seizes-a-dozen-celebrity-deepfake-websites/",
+            "summary": "In the biggest-ever legal action against harmful deepfake websites, the Manhattan District Attorney’s Office has seized 12 sites that collectively tar...",
+            "published_utc": "2026-09-14T16:50:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers target exposed Vite dev servers to steal AWS, Azure secrets",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/",
+            "summary": "A mass-scanning campaign targeting internet-exposed Vite development servers is attempting to steal cloud credentials and configurations from AWS and ...",
+            "published_utc": "2026-09-14T16:15:58+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Using AI for Weapons Development",
+            "link": "https://www.schneier.com/blog/archives/2026/09/using-ai-for-weapons-development.html",
+            "summary": "",
+            "published_utc": "2026-09-14T16:07:46+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Malicious Twitch Extension Exposes 31,000 Users' OAuth Tokens",
+            "link": "https://www.infosecurity-magazine.com/news/malicious-twitch-extension-oauth/",
+            "summary": "Socket has discovered a Twitch browser extension forwarding users' OAuth tokens to a Russian bot service",
+            "published_utc": "2026-09-14T15:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Beijing Hits Back at Anthropic CEO’s Call to Curb China’s AI Development",
+            "link": "https://www.securityweek.com/beijing-hits-back-at-anthropic-ceos-call-to-curb-chinas-ai-development/",
+            "summary": "",
+            "published_utc": "2026-09-14T14:28:26+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Human Attacker Hits Machine-Speed Exploitation of Marimo RCE",
+            "link": "https://www.infosecurity-magazine.com/news/human-attacker-machine-speed/",
+            "summary": "A human attacker exploited a Marimo RCE and reached an SSH bastion in eight seconds",
+            "published_utc": "2026-09-14T14:15:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Why Patch Automation Needs Brakes, Not Just an Accelerator",
+            "link": "https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/",
+            "summary": "Patch automation can help IT teams keep pace with growing update volumes, but deploying faster also means bad updates can spread faster. Action1 expla...",
+            "published_utc": "2026-09-14T14:01:11+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "New Warnings About the Risks of AI to Humanity Revive a Long-Running Debate",
+            "link": "https://www.securityweek.com/new-warnings-about-the-risks-of-ai-to-humanity-revive-a-long-running-debate/",
+            "summary": "",
+            "published_utc": "2026-09-14T13:31:15+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Personal, Financial Info Exposed in Revolut Data Breach",
+            "link": "https://www.securityweek.com/personal-financial-info-exposed-in-revolut-data-breach/",
+            "summary": "",
+            "published_utc": "2026-09-14T13:03:35+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "The Race to Control AI and Protect What Makes Us Human",
+            "link": "https://www.securityweek.com/the-race-to-control-ai-and-protect-what-makes-us-human/",
+            "summary": "",
+            "published_utc": "2026-09-14T13:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Defense Cyber Spending Set to Surge Amid Rising Attacks on Military Systems",
+            "link": "https://www.infosecurity-magazine.com/news/defense-cyber-spending-attacks/",
+            "summary": "MarketsandMarkets has projected the cyber warfare market to double by 2031, amid growing demand for defensive and offensive cyber capabilities in the ...",
+            "published_utc": "2026-09-14T12:45:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Webinar: How malicious OAuth apps can lead to Google Workspace breaches",
+            "link": "https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/",
+            "summary": "Attackers can combine social engineering with malicious OAuth applications to gain access to Google Workspace data without relying solely on stolen pa...",
+            "published_utc": "2026-09-14T12:15:23+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Chinese Hackers Exploit Critical Tencent Software Flaw for One-Click Code Execution",
@@ -135,25 +226,11 @@
             "published_utc": "2026-09-12T14:14:32+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "BlueMoon Exploit Kit Chains Recent Chrome, Windows Zero-Days",
-            "link": "https://www.securityweek.com/bluemoon-exploit-kit-chains-recent-chrome-windows-zero-days/",
-            "summary": "",
-            "published_utc": "2026-09-12T11:10:00+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
             "link": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
             "summary": "Plus: The US disrupts the internet’s biggest black market, a Conti ransomware hacker gets prison time, Meta fails to stop AI-generated videos of child...",
             "published_utc": "2026-09-12T10:30:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Users in Houthi-Held Yemen Tried to Develop Advanced Weapons With AI, Anthropic Says",
-            "link": "https://www.securityweek.com/users-in-houthi-held-yemen-tried-to-develop-advanced-weapons-with-ai-anthropic-says/",
-            "summary": "",
-            "published_utc": "2026-09-12T01:50:53+00:00"
         },
         {
             "source": "CSO Online",
@@ -191,6 +268,13 @@
             "published_utc": "2026-09-11T18:59:25+00:00"
         },
         {
+            "source": "ZDNet Security",
+            "title": "Switzerland takes a Swiss Army knife to Microsoft 365",
+            "link": "https://www.zdnet.com/business/switzerland-replaces-microsoft-365-open-source-opendesk/",
+            "summary": "Two divisions of Switzerland’s government are shifting from Microsoft 365 to open-source openDesk. Here’s why.",
+            "published_utc": "2026-09-11T18:57:47+00:00"
+        },
+        {
             "source": "Schneier",
             "title": "My Talk at DEF CON",
             "link": "https://www.schneier.com/blog/archives/2026/09/my-talk-at-def-con.html",
@@ -205,18 +289,18 @@
             "published_utc": "2026-09-11T17:26:50+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Phishing Research Challenges Conventional Security Awareness Testing",
-            "link": "https://www.securityweek.com/phishing-research-challenges-conventional-security-awareness-testing/",
-            "summary": "",
-            "published_utc": "2026-09-11T17:23:36+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Update your firewall rules: Teams and Copilot are changing address",
             "link": "https://www.csoonline.com/article/4221275/update-your-firewall-rules-teams-and-copilot-are-changing-address.html",
             "summary": "",
             "published_utc": "2026-09-11T17:00:20+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Your older iPhone just got free satellite service for another year – here’s why",
+            "link": "https://www.zdnet.com/business/apple-extends-free-satellite-service-to-older-iphones/",
+            "summary": "This isn’t the first time that Apple has extended the free two-year trial.",
+            "published_utc": "2026-09-11T16:35:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -231,13 +315,6 @@
             "link": "https://www.csoonline.com/article/4221263/connectwise-patches-critical-screenconnect-authentication-failure-after-five-days-2.html",
             "summary": "",
             "published_utc": "2026-09-11T16:17:07+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "GitLab Vulnerability Exploited One Day After Disclosure",
-            "link": "https://www.securityweek.com/gitlab-vulnerability-exploited-one-day-after-disclosure/",
-            "summary": "",
-            "published_utc": "2026-09-11T16:11:08+00:00"
         },
         {
             "source": "CSO Online",
@@ -268,6 +345,20 @@
             "published_utc": "2026-09-11T13:30:00+00:00"
         },
         {
+            "source": "ZDNet Security",
+            "title": "This CIO doesn’t ‘hire engineers to write code’: 3 AI fundamentals he prioritizes instead",
+            "link": "https://www.zdnet.com/innovation/chase-cio-ai-fundamentals/",
+            "summary": "Gill Haus explains Chase’s approach to AI – and getting the core fundamentals right.",
+            "published_utc": "2026-09-11T12:20:31+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I’ve been an Android user all my life, but I’m jealous of 3 things Apple just announced",
+            "link": "https://www.zdnet.com/tech/apple-event-features-android-users-want/",
+            "summary": "I hate to admit it, but I wish Android would do what Apple just did.",
+            "published_utc": "2026-09-11T12:06:19+00:00"
+        },
+        {
             "source": "BleepingComputer",
             "title": "GitLab urges users to patch max severity path traversal flaw",
             "link": "https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/",
@@ -296,13 +387,6 @@
             "published_utc": "2026-09-11T09:51:37+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Microsoft fixes Teams, Outlook launch failures on ARM Windows PCs",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs/",
-            "summary": "Microsoft has fixed a bug that prevented Teams and Outlook from launching on ARM-based Windows devices after installing updates released since the Aug...",
-            "published_utc": "2026-09-11T09:39:37+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Most Organizations Skip Permissions Reviews Before Deploying AI Tools",
             "link": "https://www.infosecurity-magazine.com/news/organizations-skip-permissions-ai/",
@@ -324,25 +408,25 @@
             "published_utc": "2026-09-11T08:36:24+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Trezor: 347,000 users targeted in phishing attacks after Brevo breach",
-            "link": "https://www.bleepingcomputer.com/news/security/trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach/",
-            "summary": "Trezor has revealed that phishing attacks against its customers earlier this week targeted 347,000 email addresses and affected 2,500 users who clicke...",
-            "published_utc": "2026-09-11T07:55:15+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Conti ransomware gang member sentenced to 4 years in prison",
-            "link": "https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/",
-            "summary": "A Ukrainian national has been sentenced to four years in prison for his role in Conti ransomware attacks between 2021 and 2022. [...]",
-            "published_utc": "2026-09-11T06:48:37+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Attackers are weaponizing the gap between Chromium fixes and Chrome patches",
             "link": "https://www.csoonline.com/article/4220939/attackers-are-weaponizing-the-gap-between-chromium-fixes-and-chrome-patches.html",
             "summary": "",
             "published_utc": "2026-09-11T01:10:19+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Eager to try iOS 27’s cool AI features and upgraded Siri? Get ready for usage limits",
+            "link": "https://www.zdnet.com/innovation/how-apple-will-limit-your-ai-use/",
+            "summary": "A new Apple support page explains how Siri AI and other AI-powered tools in the new OS will be controlled.",
+            "published_utc": "2026-09-10T18:00:46+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Your friend with ‘nothing to hide’ is more likely to spy on you, study shows",
+            "link": "https://www.zdnet.com/tech/partner-has-nothing-to-hide-theyre-more-likely-to-spy-on-you/",
+            "summary": "New research explores behavioral trends behind that ‘nothing to hide’ phrase. Plus: 6 ways to improve your phone privacy.",
+            "published_utc": "2026-09-10T14:31:03+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -436,11 +520,25 @@
             "published_utc": "2026-09-10T08:00:00+00:00"
         },
         {
+            "source": "ZDNet Security",
+            "title": "The iPhone 17 and other older models just got a surprise $100 price hike",
+            "link": "https://www.zdnet.com/business/iphone-17-older-models-100-price-hike/",
+            "summary": "Apple quietly increased prices across its existing lineup after revealing its latest devices. Here’s why.",
+            "published_utc": "2026-09-09T22:22:42+00:00"
+        },
+        {
             "source": "WIRED Security",
             "title": "San Francisco Orders Meta to Stop ‘Allowing’ AI Child Abuse Ads",
             "link": "https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/",
             "summary": "The City Attorney’s Office has asked Meta to explain how the harmful ads repeatedly ran on Facebook and Instagram. The company claims the ads are not ...",
             "published_utc": "2026-09-09T21:15:27+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "5 biggest Apple announcements from the iPhone Duo event",
+            "link": "https://www.zdnet.com/business/everything-apple-announced-at-its-iphone-18-event-duo/",
+            "summary": "Apple announced a new foldable called the iPhone Duo, the iPhone 18 Pro, AirPods 5, and new Apple Watches at its Surprise and Shine event in Cupertino...",
+            "published_utc": "2026-09-09T20:54:09+00:00"
         },
         {
             "source": "CSO Online",
@@ -457,11 +555,39 @@
             "published_utc": "2026-09-09T19:14:26+00:00"
         },
         {
+            "source": "ZDNet Security",
+            "title": "This LG TV jailbreak turns smart devices into spies, say researchers",
+            "link": "https://www.zdnet.com/uncategorized/lg-tv-can-spy-on-you-say-researchers-how-to-prevent-it/",
+            "summary": "Researchers say LG TV’s behavior ‘parallels malware’ – with user data logged even when TVs are on standby.",
+            "published_utc": "2026-09-09T18:59:45+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "T-Mobile will give you the iPhone 18 Pro for free – here’s how to preorder",
+            "link": "https://www.zdnet.com/business/tmobile-iphone-18-deal/",
+            "summary": "The iPhone 18 Pro and Pro Max offer an impressive battery and professional-quality camera system – and you can get one on T-Mobile.",
+            "published_utc": "2026-09-09T18:39:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "iOS 27 release date confirmed: 9 things your iPhone can do once you update",
+            "link": "https://www.zdnet.com/business/ios-27-release-date-new-iphone-features/",
+            "summary": "The Apple event revealed much more than a new lineup of iPhones. iOS 27 has a release date now.",
+            "published_utc": "2026-09-09T18:33:23+00:00"
+        },
+        {
             "source": "WIRED Security",
             "title": "You Can Now Destroy Flock Cameras for Cash in GTA V",
             "link": "https://www.wired.com/story/you-can-now-destroy-flock-cameras-for-cash-in-gta-v/",
             "summary": "A new GTA mod lets you smash and shoot Flock’s automatic license plate readers around the fictional Los Santos.",
             "published_utc": "2026-09-09T16:30:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "You can doodle in ChatGPT now, and it’ll transform your drawings into polished images – how to try it",
+            "link": "https://www.zdnet.com/innovation/chatgpt-sketch-ai-image-generator-tutorial/",
+            "summary": "With ChatGPT’s new Sketch tool, you can draw directly in the chat window and then watch as your drawing is transformed into a final image.",
+            "published_utc": "2026-09-09T16:17:35+00:00"
         },
         {
             "source": "Schneier",
@@ -478,6 +604,13 @@
             "published_utc": "2026-09-09T15:00:00+00:00"
         },
         {
+            "source": "ZDNet Security",
+            "title": "Want iOS 27 on day one? Don’t skip this last-minute iPhone update",
+            "link": "https://www.zdnet.com/business/iphone-update-fixes-cellular-download-bug-before-ios-27-releases/",
+            "summary": "iOS 26.6.2 squashes a bug that could prevent users without Wi-Fi from downloading software updates, including iOS 27.",
+            "published_utc": "2026-09-09T14:53:03+00:00"
+        },
+        {
             "source": "InfosecurityMag",
             "title": "Gigabud Uses Android App Cloning to Evade Fraud Detection",
             "link": "https://www.infosecurity-magazine.com/news/gigabud-android-app-cloning-fraud/",
@@ -490,6 +623,13 @@
             "link": "https://www.infosecurity-magazine.com/news/clickfix-browser-cryptocurrency/",
             "summary": "ClickFix campaign uses browser-injected JavaScript and Google Sheets to steal cryptocurrency",
             "published_utc": "2026-09-09T13:45:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Apple event 2026 live updates: The first foldable iPhone and more in real time",
+            "link": "https://www.zdnet.com/business/apple-september-event-live-blog-2026/",
+            "summary": "ZDNET editors are on the ground in Cupertino to cover the ‘Surprise and shine’ event live.",
+            "published_utc": "2026-09-09T13:00:30+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -555,6 +695,13 @@
             "published_utc": "2026-09-08T21:44:22+00:00"
         },
         {
+            "source": "ZDNet Security",
+            "title": "Latest Windows 11 update restores your taskbar control, patches 995 security flaws",
+            "link": "https://www.zdnet.com/uncategorized/windows-11-september-2026-update/",
+            "summary": "The September Windows 11 update set a new patching record with almost 1,000 security flaws fixed.",
+            "published_utc": "2026-09-08T20:48:06+00:00"
+        },
+        {
             "source": "WIRED Security",
             "title": "Muse, Meta’s New Personal AI Agent, Needs You to Trust It",
             "link": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
@@ -581,6 +728,13 @@
             "link": "https://www.infosecurity-magazine.com/news/grindr-settles-uk-data-privacy/",
             "summary": "Grindr settled UK claims over alleged unlawful processing of sensitive user data",
             "published_utc": "2026-09-08T13:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I demoed Sony’s new 2026 budget over-ear headphones – including a WH-1000XM4 refresh",
+            "link": "https://www.zdnet.com/tech/sony-budget-over-ear-headphones-2026-demo/",
+            "summary": "Sony’s budget headphone lineup starts at $70 and includes the WH-1000XM4, WH-CH730N, and WH-CH530 models.",
+            "published_utc": "2026-09-08T12:27:18+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -646,13 +800,6 @@
             "published_utc": "2026-09-07T12:00:00+00:00"
         },
         {
-            "source": "Schneier",
-            "title": "Automobile Camouflage to Hide from Flock Cameras",
-            "link": "https://www.schneier.com/blog/archives/2026/09/automobile-camouflage-to-hide-from-flock-cameras.html",
-            "summary": "",
-            "published_utc": "2026-09-07T11:06:40+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "North Korea’s Lazarus Operates Through Six Distinct Cyber Clusters",
             "link": "https://www.infosecurity-magazine.com/news/north-korea-lazarus-six-cyber/",
@@ -674,11 +821,39 @@
             "published_utc": "2026-09-07T08:28:00+00:00"
         },
         {
+            "source": "ZDNet Security",
+            "title": "Apple will announce the iPhone 18 this week – here’s how ZDNET readers think it’ll go down",
+            "link": "https://www.zdnet.com/business/apple-guessing-game-round-3-answers/",
+            "summary": "In the final round of our Big Guessing Game, you shared your predictions on the iPhone event to win a new Apple Watch. Here are the final results.",
+            "published_utc": "2026-09-06T18:46:41+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The 5 coolest phones I saw at IFA 2026 – including a new foldable",
+            "link": "https://www.zdnet.com/tech/the-5-coolest-phones-i-saw-at-ifa-2026/",
+            "summary": "There are many amazing devices at IFA 2026, but these five phones were the perfect combination of practical and fun design.",
+            "published_utc": "2026-09-06T06:52:05+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Save almost 50% on this 85-inch Hisense TV at Amazon for Labor Day",
+            "link": "https://www.zdnet.com/home-and-office/save-almost-50-on-this-85-inch-hisense-tv-at-amazon-for-labor-day/",
+            "summary": "The Hisense U7 is a solid Mini LED TV for streaming, gaming, and more – especially at this price.",
+            "published_utc": "2026-09-05T23:16:53+00:00"
+        },
+        {
             "source": "WIRED Security",
             "title": "OpenAI Agents Hacked Another Website",
             "link": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
             "summary": "Plus: Tens of millions of US and Canadian drivers’ licenses go up for sale on the dark web, the US military finally tries to tackle the risk online ad...",
             "published_utc": "2026-09-05T10:30:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "This AI tool found 6 Curl vulnerabilities Mythos and Codex missed – even Greg KH is impressed",
+            "link": "https://www.zdnet.com/innovation/aisle-ai-vulnerability-management-curl-bugs/",
+            "summary": "Aisle found six Curl flaws after Mythos and Codex reported none.",
+            "published_utc": "2026-09-04T12:23:47+00:00"
         },
         {
             "source": "WIRED Security",
@@ -714,6 +889,20 @@
             "link": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
             "summary": "This week on Uncanny Valley, we dig into the latest prediction market buzz, Flock’s AI-powered police search tool, and how tech bros don’t know how to...",
             "published_utc": "2026-09-03T21:48:24+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "OpenAI’s new Astra model is finally here – why safety experts are worried",
+            "link": "https://www.zdnet.com/innovation/openai-astra-finally-here-experts-worried/",
+            "summary": "The frontier model is now live for a select group. Here’s what Astra can do, when to expect broader availability, and why it’s setting off alarms.",
+            "published_utc": "2026-09-03T18:00:17+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I went hands-on with Lenovo’s latest rollable laptop – is it finally practical?",
+            "link": "https://www.zdnet.com/tech/lenovo-rollable-display-laptop-ifa-2026/",
+            "summary": "Unveiled at IFA, the 17-inch rollable horizontal display hits a middle ground that is more usable than its predecessors.",
+            "published_utc": "2026-09-03T16:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1451,13 +1640,6 @@
             "published_utc": "2026-08-13T09:30:00+00:00"
         },
         {
-            "source": "WIRED Security",
-            "title": "CBP Workers Allegedly Used Government Databases to Spy on Exes, Crushes, and Colleagues",
-            "link": "https://www.wired.com/story/cbp-workers-allegedly-used-government-databases-to-spy-on-exes-crushes-and-colleagues/",
-            "summary": "Records obtained by WIRED detail hundreds of allegations of Customs and Border Protection workers misusing internal tools to look up romantic interest...",
-            "published_utc": "2026-08-13T09:30:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "Black Hat USA 2026: What the Hugging Face hack tells us about human responsibility",
             "link": "https://www.welivesecurity.com/en/business-security/black-hat-usa-2026-hugging-face-hack-human-responsibility/",
@@ -1722,6 +1904,13 @@
             "link": "https://www.infosecurity-magazine.com/news/fake-bank-of-america-phishing-scam/",
             "summary": "Cybercriminals are using a fake Bank of America phishing campaign to trick users into downloading a malicious script that installs ScreenConnect, enab...",
             "published_utc": "2026-08-05T08:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The moment a business outgrows DIY payroll and what to do next",
+            "link": "https://www.zdnet.com/paid-content/article/the-moment-a-business-outgrows-diy-payroll-and-what-to-do-next/",
+            "summary": "Relying on spreadsheets for payroll works — until it doesn’t. Here are the operational signs that it is time to migrate to dedicated HR tech, along wi...",
+            "published_utc": "2026-08-05T00:23:53+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2522,27 +2711,6 @@
             "published_utc": "2026-07-07T07:00:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "New Iran-Nexus Hacking Group Targets Israel Government and IT Sectors",
-            "link": "https://www.infosecurity-magazine.com/news/new-iran-hacking-group-targets/",
-            "summary": "Check Point researchers have identified a new cyber adversary targeting Israeli government and IT businesses, tracked as ‘Cavern Manticore’",
-            "published_utc": "2026-07-06T16:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Indirect Prompt Injection in Web Content Targets AI Agents",
-            "link": "https://www.infosecurity-magazine.com/news/indirect-prompt-injection-web/",
-            "summary": "Zscaler found sites hiding prompt-injection text to manipulate AI agents into crypto payments",
-            "published_utc": "2026-07-06T15:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Opera GX Flaw Let Sites Auto-Install Mods to Steal Data",
-            "link": "https://www.infosecurity-magazine.com/news/opera-gx-flaw-gx-mods-css/",
-            "summary": "Opera GX flaw let sites automatically install mods to steal data from other pages, now patched",
-            "published_utc": "2026-07-06T14:15:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "Cyber readiness for SMBs: Getting the basics right",
             "link": "https://www.welivesecurity.com/en/business-security/cyber-readiness-smbs-getting-basics-right/",
@@ -2723,6 +2891,13 @@
             "link": "https://www.welivesecurity.com/en/eset-research/rigged-game-scarcruft-compromises-gaming-platform-supply-chain-attack/",
             "summary": "ESET researchers have investigated an ongoing attack by the ScarCruft APT group that targets the Yanbian region via backdoor-laced Windows and Android...",
             "published_utc": "2026-05-05T08:55:27+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The payroll errors costing small businesses thousands, and how to avoid them",
+            "link": "https://www.zdnet.com/paid-content/article/the-payroll-errors-costing-small-businesses-thousands-and-how-to-avoid-them/",
+            "summary": "Three small business owners share how OnPay eliminates anxiety and prevents costly compliance mistakes.",
+            "published_utc": "2026-04-30T22:23:35+00:00"
         },
         {
             "source": "WeLiveSecurity",
