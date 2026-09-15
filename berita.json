@@ -1,6 +1,118 @@
 {
-    "lastUpdatedUTC": "2026-09-15T07:18:46.517850+00:00",
+    "lastUpdatedUTC": "2026-09-15T13:12:52.451227+00:00",
     "articles": [
+        {
+            "source": "InfosecurityMag",
+            "title": "AI the Top Priority for New Spend as Cyber Budgets Flatline",
+            "link": "https://www.infosecurity-magazine.com/news/ai-top-priority-new-spend-cyber/",
+            "summary": "IANS finds AI is dominating net-new budgets even as overall funding for the function is flat",
+            "published_utc": "2026-09-15T13:00:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Exaforce extends its AI security tool to monitor more than just Claude",
+            "link": "https://www.csoonline.com/article/4222191/exaforce-extends-its-ai-security-tool-to-monitor-more-than-just-claude.html",
+            "summary": "",
+            "published_utc": "2026-09-15T13:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "OpenAI Investigates Report Linking AI Agents to RubyGems Attack",
+            "link": "https://www.securityweek.com/openai-investigates-report-linking-ai-agents-to-rubygems-attack/",
+            "summary": "",
+            "published_utc": "2026-09-15T12:42:32+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "CISA: Critical VMware RCE flaw now exploited by ransomware gangs",
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/",
+            "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned security teams that ransomware gangs have now joined ongoing attacks exploitin...",
+            "published_utc": "2026-09-15T12:16:32+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "240,000 Hit by Data Breach at Japan’s Digital Agency",
+            "link": "https://www.securityweek.com/240000-hit-by-data-breach-at-japans-digital-agency/",
+            "summary": "",
+            "published_utc": "2026-09-15T11:45:31+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Apple Patches 200 Vulnerabilities With New iOS 27, macOS Golden Gate 27 Releases",
+            "link": "https://www.securityweek.com/apple-patches-200-vulnerabilities-with-new-ios-27-macos-golden-gate-27-releases/",
+            "summary": "",
+            "published_utc": "2026-09-15T11:06:11+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "25 Years of Mass Surveillance Is Enough",
+            "link": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
+            "summary": "",
+            "published_utc": "2026-09-15T11:01:41+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "On the NSA’s Supercomputer from the 1960s",
+            "link": "https://www.schneier.com/blog/archives/2026/09/on-the-nsas-supercomputer-from-the-1960s.html",
+            "summary": "",
+            "published_utc": "2026-09-15T10:16:24+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Suspected Black Axe gang leaders face cybercrime charges in the US",
+            "link": "https://www.bleepingcomputer.com/news/security/black-axe-gang-members-extradited-to-us-face-cybercrime-charges/",
+            "summary": "Five alleged leaders of the Black Axe cybercrime syndicate, known for its involvement in global-scale cyber-enabled financial fraud, have been extradi...",
+            "published_utc": "2026-09-15T09:50:25+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Microsoft AI Code of Conduct Sets Cyberattack Boundaries, Chain of Command, Safety Constraints",
+            "link": "https://www.securityweek.com/microsoft-ai-code-of-conduct-sets-cyberattack-boundaries-chain-of-command-safety-constraints/",
+            "summary": "",
+            "published_utc": "2026-09-15T09:40:25+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Hacked HBO Max Reddit Account Used for Malware Delivery via ClickFix Attack",
+            "link": "https://www.securityweek.com/hacked-hbo-reddit-account-used-for-malware-delivery-via-clickfix-attack/",
+            "summary": "",
+            "published_utc": "2026-09-15T09:09:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "AI is exposing a security structure built for yesterday’s threats",
+            "link": "https://www.csoonline.com/article/4221801/ai-is-exposing-a-security-structure-built-for-yesterdays-threats.html",
+            "summary": "",
+            "published_utc": "2026-09-15T09:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft confirms KB5002914 Excel update breaks copy and paste",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-kb5002914-security-update-breaks-excel-copy-and-paste/",
+            "summary": "Microsoft has confirmed that copy and paste may silently fail for some Excel users after installing the September 2026 KB5002914 security update. [...]",
+            "published_utc": "2026-09-15T08:40:20+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Microsoft Releases Emergency Patch to Fix RDS Vulnerability",
+            "link": "https://www.infosecurity-magazine.com/news/microsoft-releases-emergency-patch/",
+            "summary": "Microsoft has been forced to issue an out-of-band fix for several issues stemming from this month’s Patch Tuesday",
+            "published_utc": "2026-09-15T08:40:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Threat actors are coming for your AI assets to operationalize their use of AI",
+            "link": "https://www.csoonline.com/article/4221307/threat-actors-are-coming-for-your-ai-assets-to-operationalize-their-use-of-ai.html",
+            "summary": "",
+            "published_utc": "2026-09-15T08:25:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Cisco patches Secure Email Gateway zero-day exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/new-cisco-secure-email-zero-day-exploited-to-execute-commands-as-root/",
+            "summary": "Cisco warned customers to patch a critical Secure Email Gateway zero-day security flaw that threat actors have been exploiting in attacks. [...]",
+            "published_utc": "2026-09-15T07:31:09+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Root RCE Zero-Day in Cisco Secure Email Gateway Under Active Exploitation",
@@ -149,13 +261,6 @@
             "published_utc": "2026-09-14T12:15:23+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Chinese Hackers Exploit Critical Tencent Software Flaw for One-Click Code Execution",
-            "link": "https://www.securityweek.com/chinese-hackers-exploit-critical-tencent-software-flaw-for-one-click-code-execution/",
-            "summary": "",
-            "published_utc": "2026-09-14T11:51:29+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Revolut Confirms Data Breach Through Fake Government Requests",
             "link": "https://www.infosecurity-magazine.com/news/revolut-data-breach-fake-government/",
@@ -177,13 +282,6 @@
             "published_utc": "2026-09-14T11:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "CISOs Race to Control AI Agents Without Destroying Their Value",
-            "link": "https://www.securityweek.com/cisos-race-to-control-ai-agents-without-destroying-their-value/",
-            "summary": "",
-            "published_utc": "2026-09-14T10:30:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Hackers Exploit Maximum Severity Flaw in GitLab",
             "link": "https://www.infosecurity-magazine.com/news/hackers-exploit-maximum-severity/",
@@ -191,25 +289,11 @@
             "published_utc": "2026-09-14T10:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Telus Warns Customers of Account Breaches",
-            "link": "https://www.securityweek.com/telus-warns-customers-of-account-breaches/",
-            "summary": "",
-            "published_utc": "2026-09-14T09:56:57+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Microsoft: September updates cause RDS failures on Windows Server",
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-cause-rds-failures-on-windows-server/",
             "summary": "Microsoft has confirmed reports that the September 2026 security updates cause Remote Desktop Services (RDS) failures on Windows Server systems. [...]",
             "published_utc": "2026-09-14T09:50:25+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Three JFrog Artifactory Flaws Exploited for Backdoor Deployment",
-            "link": "https://www.securityweek.com/three-jfrog-artifactory-flaws-exploited-for-backdoor-deployment/",
-            "summary": "",
-            "published_utc": "2026-09-14T09:27:29+00:00"
         },
         {
             "source": "CSO Online",
@@ -233,13 +317,6 @@
             "published_utc": "2026-09-14T08:48:24+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "ConnectWise Patches ScreenConnect Vulnerability Exploited in Worm-Like Attacks",
-            "link": "https://www.securityweek.com/connectwise-patches-screenconnect-vulnerability-exploited-in-worm-like-attacks/",
-            "summary": "",
-            "published_utc": "2026-09-14T08:25:14+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "How to level up from security pro to security leader",
             "link": "https://www.csoonline.com/article/4221303/how-to-level-up-from-security-pro-to-security-leader.html",
@@ -252,27 +329,6 @@
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-audio-on-some-windows-pcs/",
             "summary": "Microsoft has confirmed that USB audio devices may fail on some Windows systems after installing the KB5124008and KB5124012 September 2026 security up...",
             "published_utc": "2026-09-14T08:08:16+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "CISA: Hackers now exploit max severity GitLab flaw in attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-max-severity-gitlab-flaw-in-attacks/",
-            "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are now exploiting a maximum-severity GitLab vulnerability in att...",
-            "published_utc": "2026-09-14T07:06:27+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Hackers exploit Tencent app flaw to deploy GrayRabbit malware",
-            "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/",
-            "summary": "Threat actors linked to a China-aligned espionage group are exploiting a critical vulnerability (CVE-2026-51990) in Tencent's Sogou Input Method for W...",
-            "published_utc": "2026-09-13T14:26:32+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent",
-            "link": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
-            "summary": "The Dutch Nationaal Cyber Security Centrum (NCSC) is warning of imminent exploitation of two critical flaws in Check Point VPN tracked as CVE-2026-851...",
-            "published_utc": "2026-09-12T14:14:32+00:00"
         },
         {
             "source": "WIRED Security",
@@ -294,13 +350,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-rotting-squid-on-a-beached-california-boat.html",
             "summary": "",
             "published_utc": "2026-09-11T21:03:27+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Hackers abused Claude to extract secrets from 1.8M Android apps",
-            "link": "https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/",
-            "summary": "Anthropic says multiple threat groups, including the financially motivated and state-sponsored espionage groups linked to Russia and China, tried to a...",
-            "published_utc": "2026-09-11T20:19:09+00:00"
         },
         {
             "source": "WIRED Security",
@@ -555,13 +604,6 @@
             "published_utc": "2026-09-09T20:54:09+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "MikroTik patches flaws currently being exploited to take over routers",
-            "link": "https://www.csoonline.com/article/4220390/mikrotik-patches-flaws-currently-being-exploited-to-take-over-routers.html",
-            "summary": "",
-            "published_utc": "2026-09-09T20:00:12+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "Apple Doesn’t Want You to Worry About the New Apple Watch’s Listening Features",
             "link": "https://www.wired.com/story/apple-doesnt-want-you-to-worry-about-the-new-apple-watchs-listening-features/",
@@ -653,27 +695,6 @@
             "published_utc": "2026-09-09T13:00:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "SpyCloud 2026 Identity Threat Report Finds Non-Human Identities Are Now the Leading Path into the Enterprise",
-            "link": "https://www.csoonline.com/article/4220209/spycloud-2026-identity-threat-report-finds-non-human-identities-are-now-the-leading-path-into-the-enterprise.html",
-            "summary": "",
-            "published_utc": "2026-09-09T12:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "ChatGPT flaw lets attackers pull Gmail data across accounts via a hidden channel",
-            "link": "https://www.csoonline.com/article/4220203/chatgpt-flaw-lets-attackers-pull-gmail-data-across-accounts-via-a-hidden-channel.html",
-            "summary": "",
-            "published_utc": "2026-09-09T11:48:19+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Claude Fable Solves a Historical Cipher",
-            "link": "https://www.schneier.com/blog/archives/2026/09/claude-fable-solves-a-historical-cipher.html",
-            "summary": "",
-            "published_utc": "2026-09-09T11:08:26+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Microsoft Shatters Patch Tuesday Record With 974 CVE Fixes in September 2026",
             "link": "https://www.infosecurity-magazine.com/news/microsoft-patch-tuesday-record/",
@@ -714,13 +735,6 @@
             "link": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
             "summary": "Designed to compete with OpenClaw and Instinct, the company says Muse can do everything from sell your car to book you a plane ticket.",
             "published_utc": "2026-09-08T20:12:51+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "AIs as Modern Genies",
-            "link": "https://www.schneier.com/blog/archives/2026/09/ais-as-modern-genies.html",
-            "summary": "",
-            "published_utc": "2026-09-08T17:12:42+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2695,20 +2709,6 @@
             "link": "https://www.infosecurity-magazine.com/news/uk-gov-launches-cyber-resilience/",
             "summary": "More than 60 organizations, including M&amp;S, Microsoft UK and Vodafone, have signed the UK government's Cyber Resilience Pledge, a new initiative ai...",
             "published_utc": "2026-07-07T10:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Hackers Exploit Maximum Severity Adobe ColdFusion Flaw",
-            "link": "https://www.infosecurity-magazine.com/news/exploit-maximum-severity-adobe/",
-            "summary": "Threat actors are exploiting an Adobe ColdFusion vulnerability which has a CVSS score of 10.0",
-            "published_utc": "2026-07-07T08:20:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Phishing Attacks Targeted Facebook Users With Fake Verification Offer",
-            "link": "https://www.infosecurity-magazine.com/news/phishing-facebook-fake-verification/",
-            "summary": "Attacks also used a compromised chatbot in campaign to steal sensitive information from Business Users",
-            "published_utc": "2026-07-07T07:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
