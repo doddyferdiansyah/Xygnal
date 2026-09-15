@@ -1,6 +1,34 @@
 {
-    "lastUpdatedUTC": "2026-09-15T17:58:35.964511+00:00",
+    "lastUpdatedUTC": "2026-09-15T21:12:16.469975+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites",
+            "link": "https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/",
+            "summary": "Malicious versions of the Admin Menu Editor Pro plugin for WordPress have been distributed to more than 200 customers after a threat actor compromised...",
+            "published_utc": "2026-09-15T20:34:15+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Microsoft Commits to Sweeping AI Privacy Rules for Students. Will Other Tech Giants Follow?",
+            "link": "https://www.securityweek.com/microsoft-commits-to-sweeping-ai-privacy-rules-for-students-will-other-tech-giants-follow/",
+            "summary": "",
+            "published_utc": "2026-09-15T20:24:51+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Critical Cisco Secure Email Gateway zero-day gives attackers root access",
+            "link": "https://www.csoonline.com/article/4222391/critical-cisco-secure-email-gateway-zero-day-gives-attackers-root-access.html",
+            "summary": "",
+            "published_utc": "2026-09-15T19:56:58+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "“We Think the Security Control Is Working” Is No Longer Good Enough",
+            "link": "https://www.securityweek.com/we-think-the-security-control-is-working-is-no-longer-good-enough/",
+            "summary": "",
+            "published_utc": "2026-09-15T19:30:00+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "CenterPoint Energy confirms customer data stolen in cyberattack",
@@ -163,13 +191,6 @@
             "published_utc": "2026-09-15T09:40:25+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Hacked HBO Max Reddit Account Used for Malware Delivery via ClickFix Attack",
-            "link": "https://www.securityweek.com/hacked-hbo-reddit-account-used-for-malware-delivery-via-clickfix-attack/",
-            "summary": "",
-            "published_utc": "2026-09-15T09:09:00+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "AI is exposing a security structure built for yesterday’s threats",
             "link": "https://www.csoonline.com/article/4221801/ai-is-exposing-a-security-structure-built-for-yesterdays-threats.html",
@@ -203,13 +224,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/new-cisco-secure-email-zero-day-exploited-to-execute-commands-as-root/",
             "summary": "Cisco warned customers to patch a critical Secure Email Gateway zero-day security flaw that threat actors have been exploiting in attacks. [...]",
             "published_utc": "2026-09-15T07:31:09+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Root RCE Zero-Day in Cisco Secure Email Gateway Under Active Exploitation",
-            "link": "https://www.securityweek.com/root-rce-zero-day-in-cisco-secure-email-gateway-under-active-exploitation/",
-            "summary": "",
-            "published_utc": "2026-09-15T05:18:51+00:00"
         },
         {
             "source": "CSO Online",
@@ -301,13 +315,6 @@
             "link": "https://www.infosecurity-magazine.com/news/human-attacker-machine-speed/",
             "summary": "A human attacker exploited a Marimo RCE and reached an SSH bastion in eight seconds",
             "published_utc": "2026-09-14T14:15:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Why Patch Automation Needs Brakes, Not Just an Accelerator",
-            "link": "https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/",
-            "summary": "Patch automation can help IT teams keep pace with growing update volumes, but deploying faster also means bad updates can spread faster. Action1 expla...",
-            "published_utc": "2026-09-14T14:01:11+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -581,13 +588,6 @@
             "link": "https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity/",
             "summary": "InquiryIQ, a previously unreported prototype, tested a model from xAI, maker of Grok, to surface associates, social accounts, and other information ab...",
             "published_utc": "2026-09-10T10:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Getting ahead of ‘harvest-now-decrypt-later’: Post-quantum cryptography planning",
-            "link": "https://www.csoonline.com/article/4220259/getting-ahead-of-harvest-now-decrypt-later-post-quantum-cryptography-planning.html",
-            "summary": "",
-            "published_utc": "2026-09-10T09:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
@@ -1358,6 +1358,13 @@
             "link": "https://www.wired.com/story/security-news-this-week-your-expired-visa-card-could-be-zombiefied-to-make-contactless-payments/",
             "summary": "Plus: Apple sends out an “unprecedented” number of spyware warnings, Ukraine hits a Russian ecommerce giant with cyber and drone attacks, and more.",
             "published_utc": "2026-08-22T10:30:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How Cisco is confronting the security crisis of agentic AI",
+            "link": "https://www.zdnet.com/paid-content/article/how-cisco-is-confronting-the-security-crisis-of-agentic-ai/",
+            "summary": "“There are shadow agents running in almost every environment we look at,” warns Cisco’s VP of product for identity, who oversees the company’s Duo Age...",
+            "published_utc": "2026-08-22T00:13:27+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2891,13 +2898,6 @@
             "link": "https://www.welivesecurity.com/en/eset-research/rigged-game-scarcruft-compromises-gaming-platform-supply-chain-attack/",
             "summary": "ESET researchers have investigated an ongoing attack by the ScarCruft APT group that targets the Yanbian region via backdoor-laced Windows and Android...",
             "published_utc": "2026-05-05T08:55:27+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The payroll errors costing small businesses thousands, and how to avoid them",
-            "link": "https://www.zdnet.com/paid-content/article/the-payroll-errors-costing-small-businesses-thousands-and-how-to-avoid-them/",
-            "summary": "Three small business owners share how OnPay eliminates anxiety and prevents costly compliance mistakes.",
-            "published_utc": "2026-04-30T22:23:35+00:00"
         },
         {
             "source": "WeLiveSecurity",
