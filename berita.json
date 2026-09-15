@@ -1,6 +1,97 @@
 {
-    "lastUpdatedUTC": "2026-09-15T13:12:52.451227+00:00",
+    "lastUpdatedUTC": "2026-09-15T17:58:35.964511+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "CenterPoint Energy confirms customer data stolen in cyberattack",
+            "link": "https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/",
+            "summary": "CenterPoint Energy disclosed a breach compromising some customers' personal information after an attacker leaked data allegedly stolen from the utilit...",
+            "published_utc": "2026-09-15T16:40:14+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "$1 Million Sandbox Challenge Uncovers Linux Kernel Flaws",
+            "link": "https://www.securityweek.com/1-million-sandbox-challenge-uncovers-linux-kernel-flaws/",
+            "summary": "",
+            "published_utc": "2026-09-15T16:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Exein Secures $270M at $1.7B Valuation for Physical AI Security",
+            "link": "https://www.securityweek.com/exein-secures-270m-at-1-7b-valuation-for-physical-ai-security/",
+            "summary": "",
+            "published_utc": "2026-09-15T15:45:13+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Texas Utility CenterPoint Energy Confirms Breach After Hacker Leaks Data",
+            "link": "https://www.securityweek.com/texas-utility-centerpoint-energy-confirms-breach-after-hacker-leaks-data/",
+            "summary": "",
+            "published_utc": "2026-09-15T15:30:24+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Most Fraudulent Hires Receive Credentials Before Detection",
+            "link": "https://www.infosecurity-magazine.com/news/fraudulent-hires-credentials/",
+            "summary": "A new report highlights the vast growth in fraudulent candidates, presenting significant insider threat challenges to organizations",
+            "published_utc": "2026-09-15T15:15:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "BambooToken malware controls Windows and Linux systems via MQTT",
+            "link": "https://www.bleepingcomputer.com/news/security/bambootoken-malware-controls-windows-and-linux-systems-via-mqtt/",
+            "summary": "A previously unknown malware framework called BambooToken, active since at least 2023, is now using the Message Queuing Telemetry Transport (MQTT) pro...",
+            "published_utc": "2026-09-15T15:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers target WordPress sites via third-party WooCommerce plugin",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/",
+            "summary": "Hackers are actively exploiting a critical vulnerability in the WooCommerce Wholesale Lead Capture premium plugin for WordPress to upload a PHP backdo...",
+            "published_utc": "2026-09-15T14:45:10+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Exposed Vite servers are being probed for AWS and Azure credentials",
+            "link": "https://www.csoonline.com/article/4222259/exposed-vite-servers-are-being-probed-for-aws-and-azure-credentials-2.html",
+            "summary": "",
+            "published_utc": "2026-09-15T14:36:41+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Most Firms Unable to Recover Quickly from Ransomware",
+            "link": "https://www.infosecurity-magazine.com/news/four-of-800-clients-hit-ransomware/",
+            "summary": "Fenix24 found only four of more than 800 clients came close to stated ransomware recovery targets of 24-48 hours",
+            "published_utc": "2026-09-15T14:30:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "What Zero-Day Response Should Be in the Post-Mythos Era",
+            "link": "https://www.bleepingcomputer.com/news/security/what-zero-day-response-should-be-in-the-post-mythos-era/",
+            "summary": "AI is shrinking the time between vulnerability disclosure and exploitation, leaving defenders less time to wait for patches or public exploits. Picus ...",
+            "published_utc": "2026-09-15T13:45:54+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Black Axe Members Extradited to US Over Internet Fraud Claims",
+            "link": "https://www.infosecurity-magazine.com/news/black-axe-members-extradited-us/",
+            "summary": "Alleged Black Axe leaders extradited to the US over romance scams, BEC and money laundering claims",
+            "published_utc": "2026-09-15T13:45:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Thai Broadband Provider Hacked via Fortinet Vulnerability",
+            "link": "https://www.securityweek.com/thai-broadband-provider-hacked-via-fortinet-vulnerability/",
+            "summary": "",
+            "published_utc": "2026-09-15T13:33:58+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "iOS 27 is finally here, with the new Siri AI beta – and 120 security patches",
+            "link": "https://www.zdnet.com/business/ios-27-siri-ai-beta-how-to-try/",
+            "summary": "Even if you’re not ready for iOS 27, there’s an important new update for you too. Here’s what’s new.",
+            "published_utc": "2026-09-15T13:13:10+00:00"
+        },
         {
             "source": "InfosecurityMag",
             "title": "AI the Top Priority for New Spend as Cyber Budgets Flatline",
@@ -172,7 +263,7 @@
         {
             "source": "ZDNet Security",
             "title": "The latest Windows 11 update may mess with your device’s audio – here’s the workaround",
-            "link": "https://www.zdnet.com/business/windows-11-sept-update-audio-glitch-fix-2/",
+            "link": "https://www.zdnet.com/business/windows-11-sept-update-audio-glitch-fix/",
             "summary": "The September Patch Tuesday update is causing audio problems with certain USB devices, but you may be able to resolve it yourself.",
             "published_utc": "2026-09-14T17:27:48+00:00"
         },
@@ -205,13 +296,6 @@
             "published_utc": "2026-09-14T15:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Beijing Hits Back at Anthropic CEO’s Call to Curb China’s AI Development",
-            "link": "https://www.securityweek.com/beijing-hits-back-at-anthropic-ceos-call-to-curb-chinas-ai-development/",
-            "summary": "",
-            "published_utc": "2026-09-14T14:28:26+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Human Attacker Hits Machine-Speed Exploitation of Marimo RCE",
             "link": "https://www.infosecurity-magazine.com/news/human-attacker-machine-speed/",
@@ -226,39 +310,11 @@
             "published_utc": "2026-09-14T14:01:11+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "New Warnings About the Risks of AI to Humanity Revive a Long-Running Debate",
-            "link": "https://www.securityweek.com/new-warnings-about-the-risks-of-ai-to-humanity-revive-a-long-running-debate/",
-            "summary": "",
-            "published_utc": "2026-09-14T13:31:15+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Personal, Financial Info Exposed in Revolut Data Breach",
-            "link": "https://www.securityweek.com/personal-financial-info-exposed-in-revolut-data-breach/",
-            "summary": "",
-            "published_utc": "2026-09-14T13:03:35+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "The Race to Control AI and Protect What Makes Us Human",
-            "link": "https://www.securityweek.com/the-race-to-control-ai-and-protect-what-makes-us-human/",
-            "summary": "",
-            "published_utc": "2026-09-14T13:00:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Defense Cyber Spending Set to Surge Amid Rising Attacks on Military Systems",
             "link": "https://www.infosecurity-magazine.com/news/defense-cyber-spending-attacks/",
             "summary": "MarketsandMarkets has projected the cyber warfare market to double by 2031, amid growing demand for defensive and offensive cyber capabilities in the ...",
             "published_utc": "2026-09-14T12:45:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Webinar: How malicious OAuth apps can lead to Google Workspace breaches",
-            "link": "https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/",
-            "summary": "Attackers can combine social engineering with malicious OAuth applications to gain access to Google Workspace data without relying solely on stolen pa...",
-            "published_utc": "2026-09-14T12:15:23+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -289,13 +345,6 @@
             "published_utc": "2026-09-14T10:00:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Microsoft: September updates cause RDS failures on Windows Server",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-cause-rds-failures-on-windows-server/",
-            "summary": "Microsoft has confirmed reports that the September 2026 security updates cause Remote Desktop Services (RDS) failures on Windows Server systems. [...]",
-            "published_utc": "2026-09-14T09:50:25+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "What the 3M ChatGPT case reveals about AI governance",
             "link": "https://www.csoonline.com/article/4221273/what-the-3m-chatgpt-case-reveals-about-ai-governance.html",
@@ -310,25 +359,11 @@
             "published_utc": "2026-09-14T08:50:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Revolut discloses data breach exposing financial info, passports",
-            "link": "https://www.bleepingcomputer.com/news/security/revolut-discloses-data-breach-exposing-financial-info-passports/",
-            "summary": "Fintech company Revolut has disclosed a data breach after sharing data from an undisclosed number of customers with a threat actor impersonating a gov...",
-            "published_utc": "2026-09-14T08:48:24+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "How to level up from security pro to security leader",
             "link": "https://www.csoonline.com/article/4221303/how-to-level-up-from-security-pro-to-security-leader.html",
             "summary": "",
             "published_utc": "2026-09-14T08:25:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft: September updates break audio on some Windows PCs",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-audio-on-some-windows-pcs/",
-            "summary": "Microsoft has confirmed that USB audio devices may fail on some Windows systems after installing the KB5124008and KB5124012 September 2026 security up...",
-            "published_utc": "2026-09-14T08:08:16+00:00"
         },
         {
             "source": "WIRED Security",
@@ -567,13 +602,6 @@
             "link": "https://www.infosecurity-magazine.com/news/anthropic-another-cybersecurity/",
             "summary": "Anthropic has found a fourth case of its model accessing third-party systems without authorization",
             "published_utc": "2026-09-10T08:45:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "10 most critical LLM vulnerabilities",
-            "link": "https://www.csoonline.com/article/575497/owasp-lists-10-most-critical-large-language-model-vulnerabilities.html",
-            "summary": "",
-            "published_utc": "2026-09-10T08:25:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1920,13 +1948,6 @@
             "published_utc": "2026-08-05T08:00:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "The moment a business outgrows DIY payroll and what to do next",
-            "link": "https://www.zdnet.com/paid-content/article/the-moment-a-business-outgrows-diy-payroll-and-what-to-do-next/",
-            "summary": "Relying on spreadsheets for payroll works — until it doesn’t. Here are the operational signs that it is time to migrate to dedicated HR tech, along wi...",
-            "published_utc": "2026-08-05T00:23:53+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "WhatsApp Scam Hijacks Accounts via Linked Devices Feature",
             "link": "https://www.infosecurity-magazine.com/news/whatsapp-voting-scam-linked/",
@@ -2688,27 +2709,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ncsc-national-cyber-sheild-ai/",
             "summary": "The National Cyber Security Centre wants to work with AI partners to build a new “Cyber Shield” to defend the UK",
             "published_utc": "2026-07-08T08:10:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Suspected Chinese Threat Group Targets Universities via Vulnerable Roundcube Servers",
-            "link": "https://www.infosecurity-magazine.com/news/china-aligned-cluster-roundcube/",
-            "summary": "A suspected Chinese threat cluster is exploiting Roundcube vulnerabilities to compromise university networks in the US and Canada and harvest user cre...",
-            "published_utc": "2026-07-07T15:40:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Scattered Spider’s Structure More Like a Cybercrime Collective Than a Unified Gang",
-            "link": "https://www.infosecurity-magazine.com/news/scattered-spider-as-cybercrime/",
-            "summary": "Group-IB analysis argued Scattered Spider is a decentralized collective of independent clusters",
-            "published_utc": "2026-07-07T14:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "UK Government Launches Cyber Resilience Pledge, Claiming 60+ Signatories",
-            "link": "https://www.infosecurity-magazine.com/news/uk-gov-launches-cyber-resilience/",
-            "summary": "More than 60 organizations, including M&amp;S, Microsoft UK and Vodafone, have signed the UK government's Cyber Resilience Pledge, a new initiative ai...",
-            "published_utc": "2026-07-07T10:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
