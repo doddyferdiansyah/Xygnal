@@ -1,6 +1,13 @@
 {
-    "lastUpdatedUTC": "2026-09-15T21:12:16.469975+00:00",
+    "lastUpdatedUTC": "2026-09-16T00:00:20.033874+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Acronis warns of actively exploited flaw in its cPanel backup plugin",
+            "link": "https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/",
+            "summary": "Acronis disclosed a high-severity Linux local privilege escalation vulnerability in its backup plugin for cPanel, WebHost Manager (WHM), and Plesk tha...",
+            "published_utc": "2026-09-15T21:37:35+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites",
@@ -287,13 +294,6 @@
             "link": "https://www.wired.com/story/new-york-seizes-a-dozen-celebrity-deepfake-websites/",
             "summary": "In the biggest-ever legal action against harmful deepfake websites, the Manhattan District Attorney’s Office has seized 12 sites that collectively tar...",
             "published_utc": "2026-09-14T16:50:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Hackers target exposed Vite dev servers to steal AWS, Azure secrets",
-            "link": "https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/",
-            "summary": "A mass-scanning campaign targeting internet-exposed Vite development servers is attempting to steal cloud credentials and configurations from AWS and ...",
-            "published_utc": "2026-09-14T16:15:58+00:00"
         },
         {
             "source": "Schneier",
