@@ -1,6 +1,76 @@
 {
-    "lastUpdatedUTC": "2026-09-16T14:40:32.182299+00:00",
+    "lastUpdatedUTC": "2026-09-16T18:43:28.174245+00:00",
     "articles": [
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Data Broker Radaris Loses Domains in Privacy Fight",
+            "link": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
+            "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-sea...",
+            "published_utc": "2026-09-16T18:14:22+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I recommend you don’t run these appliances on your power station – even if you can",
+            "link": "https://www.zdnet.com/home-and-office/do-not-run-these-appliances-on-power-stations/",
+            "summary": "Using a power station for backup is ideal, but not with these appliances.",
+            "published_utc": "2026-09-16T17:44:31+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Spain's data agency gets first report of AI-powered data breach",
+            "link": "https://www.bleepingcomputer.com/news/security/spains-data-agency-gets-first-report-of-ai-powered-data-breach/",
+            "summary": "The Spanish Data Protection Agency (AEPD) was notified of an attack allegedly carried out with an AI agent powered by a known large language model (LL...",
+            "published_utc": "2026-09-16T17:26:41+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "First Agentic AI Data Breach Reported to Spanish Regulator",
+            "link": "https://www.securityweek.com/first-agentic-ai-data-breach-reported-to-spanish-regulator/",
+            "summary": "",
+            "published_utc": "2026-09-16T16:39:19+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Goodbye, Claude Cowork: Anthropic merges its two Claudes into one",
+            "link": "https://www.zdnet.com/innovation/claude-chat-absorbs-cowork-anthropic/",
+            "summary": "From Claude to Cowork and back again – plus, Anthropic’s all-new Claude Docs.",
+            "published_utc": "2026-09-16T16:30:44+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How September’s Pixel Drop changes the way you call and message important contacts",
+            "link": "https://www.zdnet.com/tech/september-pixel-drop-call-message-important-contacts/",
+            "summary": "The update lets you contact VIPs with a tap and adds scam protection.",
+            "published_utc": "2026-09-16T16:25:53+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Big Tech’s AI safety rift signals disruption and disparity for enterprises",
+            "link": "https://www.csoonline.com/article/4222904/big-techs-ai-safety-rift-signals-disruption-and-disparity-for-enterprises-3.html",
+            "summary": "",
+            "published_utc": "2026-09-16T16:19:26+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Oracle’s September patches put Fusion Middleware back in the hot seat",
+            "link": "https://www.csoonline.com/article/4222875/oracles-september-patches-put-fusion-middleware-back-in-the-hot-seat-2.html",
+            "summary": "",
+            "published_utc": "2026-09-16T15:54:18+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "AI agent authorization risks remain a gap in new NIST-CISA token security guidance",
+            "link": "https://www.csoonline.com/article/4222867/ai-agent-authorization-risks-remain-a-gap-in-new-nist-cisa-token-security-guidance.html",
+            "summary": "",
+            "published_utc": "2026-09-16T15:42:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "PHP Webshell Campaign Targets WordPress Through Critical WooCommerce Plugin Bug",
+            "link": "https://www.infosecurity-magazine.com/news/woocommerce-wholesale-lead-capture/",
+            "summary": "Attackers are exploiting a critical flaw in a third-party WooCommerce plugin to upload PHP webshells",
+            "published_utc": "2026-09-16T15:00:00+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Virtual Event Today: Attack Surface Management Summit",
@@ -133,13 +203,6 @@
             "link": "https://www.infosecurity-magazine.com/news/zeroday-tplink-cameras/",
             "summary": "OPSWAT researchers find two zero-days in TP-Link cameras",
             "published_utc": "2026-09-16T10:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Acronis Patches Exploited Vulnerability in cPanel Backup Plugin",
-            "link": "https://www.securityweek.com/acronis-patches-exploited-vulnerability-in-cpanel-backup-plugin/",
-            "summary": "",
-            "published_utc": "2026-09-16T09:52:31+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -329,13 +392,6 @@
             "link": "https://www.csoonline.com/article/4221801/ai-is-exposing-a-security-structure-built-for-yesterdays-threats.html",
             "summary": "",
             "published_utc": "2026-09-15T09:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft confirms KB5002914 Excel update breaks copy and paste",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-kb5002914-security-update-breaks-excel-copy-and-paste/",
-            "summary": "Microsoft has confirmed that copy and paste may silently fail for some Excel users after installing the September 2026 KB5002914 security update. [...]",
-            "published_utc": "2026-09-15T08:40:20+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -569,13 +625,6 @@
             "published_utc": "2026-09-11T10:15:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Attackers use passkey-themed scams to hijack Microsoft 365 accounts",
-            "link": "https://www.csoonline.com/article/4221110/attackers-use-passkey-themed-scams-to-hijack-microsoft-365-accounts.html",
-            "summary": "",
-            "published_utc": "2026-09-11T09:51:37+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Most Organizations Skip Permissions Reviews Before Deploying AI Tools",
             "link": "https://www.infosecurity-magazine.com/news/organizations-skip-permissions-ai/",
@@ -588,20 +637,6 @@
             "link": "https://www.wired.com/story/us-and-mexico-announce-teaming-up-against-drones/",
             "summary": "The new joint operation uses laser-based technology capable of detecting, tracking, and disabling commercial drones linked to human and drug trafficking.",
             "published_utc": "2026-09-11T09:15:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Google’s Early Access is creating a blind spot for malicious apps",
-            "link": "https://www.csoonline.com/article/4221068/googles-early-access-is-creating-a-blind-spot-for-malicious-apps.html",
-            "summary": "",
-            "published_utc": "2026-09-11T08:36:24+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Attackers are weaponizing the gap between Chromium fixes and Chrome patches",
-            "link": "https://www.csoonline.com/article/4220939/attackers-are-weaponizing-the-gap-between-chromium-fixes-and-chrome-patches.html",
-            "summary": "",
-            "published_utc": "2026-09-11T01:10:19+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -926,32 +961,11 @@
             "published_utc": "2026-09-06T18:46:41+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "The 5 coolest phones I saw at IFA 2026 – including a new foldable",
-            "link": "https://www.zdnet.com/tech/the-5-coolest-phones-i-saw-at-ifa-2026/",
-            "summary": "There are many amazing devices at IFA 2026, but these five phones were the perfect combination of practical and fun design.",
-            "published_utc": "2026-09-06T06:52:05+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Save almost 50% on this 85-inch Hisense TV at Amazon for Labor Day",
-            "link": "https://www.zdnet.com/home-and-office/save-almost-50-on-this-85-inch-hisense-tv-at-amazon-for-labor-day/",
-            "summary": "The Hisense U7 is a solid Mini LED TV for streaming, gaming, and more – especially at this price.",
-            "published_utc": "2026-09-05T23:16:53+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "OpenAI Agents Hacked Another Website",
             "link": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
             "summary": "Plus: Tens of millions of US and Canadian drivers’ licenses go up for sale on the dark web, the US military finally tries to tackle the risk online ad...",
             "published_utc": "2026-09-05T10:30:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "This AI tool found 6 Curl vulnerabilities Mythos and Codex missed – even Greg KH is impressed",
-            "link": "https://www.zdnet.com/innovation/aisle-ai-vulnerability-management-curl-bugs/",
-            "summary": "Aisle found six Curl flaws after Mythos and Codex reported none.",
-            "published_utc": "2026-09-04T12:23:47+00:00"
         },
         {
             "source": "WIRED Security",
@@ -2578,13 +2592,6 @@
             "published_utc": "2026-07-13T15:30:00+00:00"
         },
         {
-            "source": "KrebsOnSecurity",
-            "title": "Lessons Learned from CISA’s Recent GitHub Leak",
-            "link": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
-            "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal ...",
-            "published_utc": "2026-07-13T15:03:28+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Pakistani Police Systems Hit by Chinese and Indian Espionage",
             "link": "https://www.infosecurity-magazine.com/news/chinese-indian-espionage-pakistani/",
@@ -2702,13 +2709,6 @@
             "link": "https://www.infosecurity-magazine.com/news/crest-ai-security-charter-cyber/",
             "summary": "Over 70 cybersecurity organizations have signed the CREST AI Charter detailing responsible use of AI for security",
             "published_utc": "2026-07-09T09:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Cybercriminals Plant Malicious AI Agents in Open Source Tool Repositories",
-            "link": "https://www.infosecurity-magazine.com/news/cybercriminals-plant-ai-agents/",
-            "summary": "Cybersecurity researchers at ESET identify big rise in suspicious and malicious toolsets which put users at risk from cyber-attacks",
-            "published_utc": "2026-07-09T07:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
