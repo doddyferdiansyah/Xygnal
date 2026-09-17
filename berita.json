@@ -1,6 +1,76 @@
 {
-    "lastUpdatedUTC": "2026-09-17T05:50:39.684169+00:00",
+    "lastUpdatedUTC": "2026-09-17T11:09:30.227617+00:00",
     "articles": [
+        {
+            "source": "Schneier",
+            "title": "How Candidates Could Use AI for Good",
+            "link": "https://www.schneier.com/blog/archives/2026/09/how-candidates-could-use-ai-for-good.html",
+            "summary": "",
+            "published_utc": "2026-09-17T11:06:31+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Chinese hackers use SparroWocky malware in govt espionage attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-attacks/",
+            "summary": "The China-linked espionage group FamousSparrow has been using a new backdoor named SparroWocky in attacks on government organizations in Latin America...",
+            "published_utc": "2026-09-17T09:00:00+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "Flock Once Touted Its Cameras as ‘Made in the USA.’ Now It’s Not So Clear",
+            "link": "https://www.wired.com/story/flock-once-touted-its-cameras-as-made-in-the-usa-now-its-not-so-clear/",
+            "summary": "Flock reveals little about where its license plate readers are assembled, but the answer could have geopolitical and cybersecurity implications.",
+            "published_utc": "2026-09-17T09:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "AI Agent Carries Out Multi-Stage Data Theft Attack",
+            "link": "https://www.infosecurity-magazine.com/news/ai-agent-carries-out-multistage/",
+            "summary": "Spanish data protection agency AEPD reveals the country’s first AI-powered data breach",
+            "published_utc": "2026-09-17T08:25:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "16 governance tools for securing your AI fleet",
+            "link": "https://www.csoonline.com/article/4223011/16-governance-tools-for-securing-your-ai-fleet.html",
+            "summary": "",
+            "published_utc": "2026-09-17T08:25:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft shares workaround for Windows domain login issues",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-workaround-for-windows-domain-login-authentication-issues/",
+            "summary": "Microsoft shared a temporary fix on Wednesday for a known issue that prevents Windows 11 users from logging in with valid domain credentials after ins...",
+            "published_utc": "2026-09-17T08:24:48+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "CISA Releases Cyber Decoy Guidance to Strengthen Critical Infrastructure Defenses",
+            "link": "https://www.securityweek.com/cisa-releases-guidance-on-deploying-cyber-decoys/",
+            "summary": "",
+            "published_utc": "2026-09-17T07:53:43+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "AI Agents Can Retrain Own Models Mid-Task, Leaking Secrets and Erasing Refusals",
+            "link": "https://www.securityweek.com/ai-agents-can-retrain-own-models-mid-task-leaking-secrets-and-erasing-refusals/",
+            "summary": "",
+            "published_utc": "2026-09-17T07:41:29+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Cisco warns of max severity ISE zero-day exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/",
+            "summary": "Cisco has released security updates to address a maximum-severity Identity Services Engine vulnerability that attackers are actively exploiting in the...",
+            "published_utc": "2026-09-17T07:20:54+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Active Exploitation Triggers Emergency Patch for Cisco ISE Zero-Day",
+            "link": "https://www.securityweek.com/active-exploitation-triggers-emergency-patch-for-cisco-ise-zero-day/",
+            "summary": "",
+            "published_utc": "2026-09-17T06:19:52+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Anthropic wants Claude to analyze your bank account and financial data",
@@ -198,13 +268,6 @@
             "published_utc": "2026-09-16T11:14:28+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Hackuity Raises $19 Million for AI-Powered Vulnerability Management",
-            "link": "https://www.securityweek.com/hackuity-raises-19-million-for-ai-powered-vulnerability-management/",
-            "summary": "",
-            "published_utc": "2026-09-16T11:11:23+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Cyber-Attacks Cost Organizations $52,000 on Average",
             "link": "https://www.infosecurity-magazine.com/news/cyberattacks-cost-organizations/",
@@ -212,25 +275,11 @@
             "published_utc": "2026-09-16T11:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "280,000 Impacted by Premier Medical Group Data Breach",
-            "link": "https://www.securityweek.com/280000-impacted-by-premier-medical-group-data-breach/",
-            "summary": "",
-            "published_utc": "2026-09-16T10:47:18+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Really Works",
             "link": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
             "summary": "A hacker collective pulled down a Flock camera and dumped its data. The files included thousands of videos and logs showing that the device captured 1...",
             "published_utc": "2026-09-16T10:30:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Chrome, Firefox Updates Patch 115 Vulnerabilities",
-            "link": "https://www.securityweek.com/chrome-firefox-updates-patch-115-vulnerabilities/",
-            "summary": "",
-            "published_utc": "2026-09-16T10:28:36+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -265,6 +314,13 @@
             "title": "You don’t have to join the hack-back program to inherit its risk",
             "link": "https://www.csoonline.com/article/4222302/you-dont-have-to-join-the-hack-back-program-to-inherit-its-risk.html",
             "summary": "",
+            "published_utc": "2026-09-16T09:00:00+00:00"
+        },
+        {
+            "source": "WeLiveSecurity",
+            "title": "Cyberthreats are moving faster than SMBs: Readiness must accelerate",
+            "link": "https://www.welivesecurity.com/en/business-security/cyberthreats-moving-faster-smbs-readiness-must-accelerate/",
+            "summary": "As AI adoption expands the attack surface and adds to the security workload, businesses need automation backed by experts",
             "published_utc": "2026-09-16T09:00:00+00:00"
         },
         {
@@ -303,13 +359,6 @@
             "published_utc": "2026-09-15T21:37:35+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites",
-            "link": "https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/",
-            "summary": "Malicious versions of the Admin Menu Editor Pro plugin for WordPress have been distributed to more than 200 customers after a threat actor compromised...",
-            "published_utc": "2026-09-15T20:34:15+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Critical Cisco Secure Email Gateway zero-day gives attackers root access",
             "link": "https://www.csoonline.com/article/4222391/critical-cisco-secure-email-gateway-zero-day-gives-attackers-root-access.html",
@@ -317,25 +366,11 @@
             "published_utc": "2026-09-15T19:56:58+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "CenterPoint Energy confirms customer data stolen in cyberattack",
-            "link": "https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/",
-            "summary": "CenterPoint Energy disclosed a breach compromising some customers' personal information after an attacker leaked data allegedly stolen from the utilit...",
-            "published_utc": "2026-09-15T16:40:14+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Most Fraudulent Hires Receive Credentials Before Detection",
             "link": "https://www.infosecurity-magazine.com/news/fraudulent-hires-credentials/",
             "summary": "A new report highlights the vast growth in fraudulent candidates, presenting significant insider threat challenges to organizations",
             "published_utc": "2026-09-15T15:15:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "BambooToken malware controls Windows and Linux systems via MQTT",
-            "link": "https://www.bleepingcomputer.com/news/security/bambootoken-malware-controls-windows-and-linux-systems-via-mqtt/",
-            "summary": "A previously unknown malware framework called BambooToken, active since at least 2023, is now using the Message Queuing Telemetry Transport (MQTT) pro...",
-            "published_utc": "2026-09-15T15:00:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -590,13 +625,6 @@
             "published_utc": "2026-09-11T15:26:58+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Anthropic finds evidence of a fourth AI escaping from containment",
-            "link": "https://www.csoonline.com/article/4221160/anthropic-finds-evidence-of-a-fourth-ai-escaping-from-containment.html",
-            "summary": "",
-            "published_utc": "2026-09-11T14:13:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Hackers Favor US Eastern Business Hours in M365 Phishing Campaign",
             "link": "https://www.infosecurity-magazine.com/news/hackers-us-business-hours-m365/",
@@ -672,13 +700,6 @@
             "link": "https://www.infosecurity-magazine.com/news/fbi-cyber-strategy-disrupting/",
             "summary": "The new document appears to be part of a broader shift by the US government towards the proactive disruption of cyber threat actors",
             "published_utc": "2026-09-10T12:15:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "AIs Compress Exploit Timeline",
-            "link": "https://www.schneier.com/blog/archives/2026/09/ais-compress-exploit-timeline.html",
-            "summary": "",
-            "published_utc": "2026-09-10T10:40:35+00:00"
         },
         {
             "source": "WIRED Security",
@@ -1602,13 +1623,6 @@
             "title": "Three-quarters of Ransomware Attacks Target Mid-Market Firms",
             "link": "https://www.infosecurity-magazine.com/news/threequarters-ransomware-attacks/",
             "summary": "Black Kite finds mid-market is the sweet spot for ransomware as manufacturers are most likely to be hit",
-            "published_utc": "2026-08-18T10:00:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "The Cop Who Took On Flock",
-            "link": "https://www.wired.com/story/the-cop-who-took-on-flock/",
-            "summary": "After Noel Pichardo called out his city's embrace of Flock surveillance cameras, he was subjected to five internal affairs investigations in less than...",
             "published_utc": "2026-08-18T10:00:00+00:00"
         },
         {
@@ -2702,13 +2716,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ghostapproval-flaw-ai-coding/",
             "summary": "Wiz discovered GhostApproval, a symlink flaw in six major AI coding assistants that bypasses approval",
             "published_utc": "2026-07-09T11:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "New AI Security Charter Backed by Over 70 Cyber Firms",
-            "link": "https://www.infosecurity-magazine.com/news/crest-ai-security-charter-cyber/",
-            "summary": "Over 70 cybersecurity organizations have signed the CREST AI Charter detailing responsible use of AI for security",
-            "published_utc": "2026-07-09T09:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
