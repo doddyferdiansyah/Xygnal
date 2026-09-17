@@ -1,6 +1,139 @@
 {
-    "lastUpdatedUTC": "2026-09-17T11:09:30.227617+00:00",
+    "lastUpdatedUTC": "2026-09-17T16:25:55.696470+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "OpenAI admits six new misalignment incidents under new reporting framework",
+            "link": "https://www.csoonline.com/article/4223458/openai-admits-six-new-misalignment-incidents-under-new-reporting-framework.html",
+            "summary": "",
+            "published_utc": "2026-09-17T15:46:10+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "OpenAI Says Its Models Searched GitHub for Leaked API Keys During Training",
+            "link": "https://www.securityweek.com/openai-says-its-models-hunted-github-for-leaked-api-keys-during-training/",
+            "summary": "",
+            "published_utc": "2026-09-17T15:45:29+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Security spending is growing — except for the typical CISO",
+            "link": "https://www.csoonline.com/article/4223455/security-spending-is-growing-except-for-the-typical-ciso.html",
+            "summary": "",
+            "published_utc": "2026-09-17T15:37:31+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "FamousSparrow Swaps SparrowDoor For New SparroWocky Backdoor",
+            "link": "https://www.infosecurity-magazine.com/news/famoussparrow-sparrowocky-latin/",
+            "summary": "ESET said FamousSparrow has replaced SparrowDoor with SparroWocky",
+            "published_utc": "2026-09-17T15:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "CISA Retires Weekly Vulnerability Bulletin in Risk-Based Pivot",
+            "link": "https://www.securityweek.com/cisa-retires-weekly-vulnerability-bulletin-in-risk-based-pivot/",
+            "summary": "",
+            "published_utc": "2026-09-17T14:28:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "What Recent AI-Powered Attacks Mean for Your Identity Security",
+            "link": "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/",
+            "summary": "AI is making credential theft faster and easier to scale, giving attackers more opportunities to abuse valid identities. Specops explains why identity...",
+            "published_utc": "2026-09-17T14:01:11+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "CISA Urges Critical Infrastructure to Plant Decoys Inside Networks",
+            "link": "https://www.infosecurity-magazine.com/news/cisa-critical-infrastructure-cyber/",
+            "summary": "CISA released guidance on using cyber decoys to detect & disrupt malicious activity inside networks",
+            "published_utc": "2026-09-17T14:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Revolut Data Breach: 5 Months, 680 High-Profile Accounts, $3M Ransom",
+            "link": "https://www.securityweek.com/revolut-data-breach-5-months-680-high-profile-accounts-3m-ransom/",
+            "summary": "",
+            "published_utc": "2026-09-17T13:57:41+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Self-modifying AI agents expose a blind spot in enterprise security",
+            "link": "https://www.csoonline.com/article/4223334/self-modifying-ai-agents-expose-a-blind-spot-in-enterprise-security.html",
+            "summary": "",
+            "published_utc": "2026-09-17T13:32:52+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Windows 11 24H2 Home and Pro reach end of support in October",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-october/",
+            "summary": "Microsoft reminded customers this week that devices running Windows 11 24H2 Home and Pro editions will stop receiving updates next month. [...]",
+            "published_utc": "2026-09-17T13:09:09+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Bose returns with new open earbuds (and a refreshed favorite)",
+            "link": "https://www.zdnet.com/tech/bose-ultra-earbuds-sport-open-earbuds/",
+            "summary": "Bose announces the Ultra Open (2nd Gen) and the Sport Open Earbuds, offering more options for aware listeners.",
+            "published_utc": "2026-09-17T13:00:19+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Comp AI Raises $34 Million for AI-Native Compliance and Security",
+            "link": "https://www.securityweek.com/comp-ai-raises-34-million-for-ai-native-compliance-and-security/",
+            "summary": "",
+            "published_utc": "2026-09-17T13:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "New Chinese-Made ‘RatHat’ Android Malware Leverages AI to Steal Financial Data",
+            "link": "https://www.infosecurity-magazine.com/news/rathat-android-malware-ai-steal/",
+            "summary": "Researchers at Zimperium have uncovered a new Android malware strain, dubbed RatHat, with spyware and backdoor capabilities",
+            "published_utc": "2026-09-17T13:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "ISC Patches 14 Vulnerabilities in BIND 9 Security Update",
+            "link": "https://www.securityweek.com/isc-patches-14-vulnerabilities-in-bind-9-security-update/",
+            "summary": "",
+            "published_utc": "2026-09-17T12:39:28+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Ransomware Attacks on Manufacturers Surge as Supply Chain Risk Grows",
+            "link": "https://www.securityweek.com/ransomware-attacks-on-manufacturers-surge-as-supply-chain-risk-grows/",
+            "summary": "",
+            "published_utc": "2026-09-17T12:29:53+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Cisco Fixes Dozens of Flaws Across FMC, ISE and Nexus Dashboard",
+            "link": "https://www.securityweek.com/cisco-fixes-dozens-of-flaws-across-fmc-ise-and-nexus-dashboard/",
+            "summary": "",
+            "published_utc": "2026-09-17T12:17:40+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Cyber Essentials Has Record Year but Takeup Remains Low",
+            "link": "https://www.infosecurity-magazine.com/news/cyber-essentials-has-record-year/",
+            "summary": "New government figures reveal a 20% annual increase in certifications",
+            "published_utc": "2026-09-17T12:15:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "US takes down NightmareStresser DDoS-for-hire platform",
+            "link": "https://www.bleepingcomputer.com/news/security/fbi-seizes-nightmarestresser-service-linked-to-thousands-of-ddos-attacks/",
+            "summary": "The U.S. Federal Bureau of Investigation (FBI) seized the domains used by NightmareStresser, one of the world's longest-running distributed denial-of-...",
+            "published_utc": "2026-09-17T11:33:35+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Cisco Warns of Active Exploitation of Critical ISE Flaw",
+            "link": "https://www.infosecurity-magazine.com/news/cisco-active-exploitation-critical/",
+            "summary": "Cisco urged ISE customers to apply a software update, as well as check for signs of exploitation",
+            "published_utc": "2026-09-17T11:15:00+00:00"
+        },
         {
             "source": "Schneier",
             "title": "How Candidates Could Use AI for Good",
@@ -128,13 +261,6 @@
             "published_utc": "2026-09-16T17:26:41+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "First Agentic AI Data Breach Reported to Spanish Regulator",
-            "link": "https://www.securityweek.com/first-agentic-ai-data-breach-reported-to-spanish-regulator/",
-            "summary": "",
-            "published_utc": "2026-09-16T16:39:19+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "Anthropic merges Claude chat and Cowork into one",
             "link": "https://www.zdnet.com/innovation/claude-chat-absorbs-cowork-anthropic/",
@@ -177,20 +303,6 @@
             "published_utc": "2026-09-16T15:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Virtual Event Today: Attack Surface Management Summit",
-            "link": "https://www.securityweek.com/virtual-event-today-attack-surface-management-summit-2/",
-            "summary": "",
-            "published_utc": "2026-09-16T14:35:04+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "EU Chief Warns of AI-Powered Hacking, Moves to Rein In Social Media",
-            "link": "https://www.securityweek.com/eu-chief-warns-of-ai-powered-hacking-moves-to-rein-in-social-media/",
-            "summary": "",
-            "published_utc": "2026-09-16T14:15:18+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "The true cost of a ransomware attack, with and without BCDR",
             "link": "https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/",
@@ -203,20 +315,6 @@
             "link": "https://www.infosecurity-magazine.com/news/cisa-nist-cloud-identity-token/",
             "summary": "CISA and NIST issued final guidance to help protect cloud identity tokens and assertions",
             "published_utc": "2026-09-16T14:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "AIUC Raises $40 Million to Certify Enterprise AI Agents",
-            "link": "https://www.securityweek.com/aiuc-raises-40-million-to-certify-enterprise-ai-agents/",
-            "summary": "",
-            "published_utc": "2026-09-16T13:38:36+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Pixel Modem Zero-Day Exploited in Targeted Attacks",
-            "link": "https://www.securityweek.com/pixel-modem-zero-day-exploited-in-targeted-attacks/",
-            "summary": "",
-            "published_utc": "2026-09-16T13:10:54+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -238,20 +336,6 @@
             "link": "https://www.zdnet.com/business/iphone-18-pro-vs-pro-max-buying-advice-2026/",
             "summary": "Can’t decide between the iPhone 18 Pro and 18 Pro Max? Absolute feature parity makes this year’s decision a little easier for me.",
             "published_utc": "2026-09-16T12:05:35+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "US, UK, Dutch Agencies Expose Iranian ‘Chosen Brick’ Surveillance Malware",
-            "link": "https://www.securityweek.com/us-uk-dutch-agencies-expose-iranian-chosen-brick-surveillance-malware/",
-            "summary": "",
-            "published_utc": "2026-09-16T12:00:14+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Unauthenticated RCE Flaws Could Expose 200,000+ WordPress Sites to Takeover",
-            "link": "https://www.securityweek.com/unauthenticated-rce-flaws-could-expose-200000-wordpress-sites-to-takeover/",
-            "summary": "",
-            "published_utc": "2026-09-16T11:32:53+00:00"
         },
         {
             "source": "Schneier",
@@ -287,13 +371,6 @@
             "link": "https://www.infosecurity-magazine.com/news/zeroday-tplink-cameras/",
             "summary": "OPSWAT researchers find two zero-days in TP-Link cameras",
             "published_utc": "2026-09-16T10:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Windows Server 2022 reaches end of mainstream support next month",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-next-month/",
-            "summary": "Microsoft has reminded customers that Windows Server 2022 will reach the end of mainstream support next month and enter extended support until October...",
-            "published_utc": "2026-09-16T09:10:20+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -338,25 +415,11 @@
             "published_utc": "2026-09-16T08:25:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Google fixes actively exploited Android zero-day on Pixel devices",
-            "link": "https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/",
-            "summary": "Google has released the September 2026 security patches to address 110 vulnerabilities affecting its Pixel devices, including one zero-day flaw active...",
-            "published_utc": "2026-09-16T07:00:19+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Hundreds of OpenAI agents attack RubyGems platform",
             "link": "https://www.csoonline.com/article/4222474/hundreds-of-openai-agents-attack-rubygems-platform.html",
             "summary": "",
             "published_utc": "2026-09-16T01:09:53+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Acronis warns of actively exploited flaw in its cPanel backup plugin",
-            "link": "https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/",
-            "summary": "Acronis disclosed a high-severity Linux local privilege escalation vulnerability in its backup plugin for cPanel, WebHost Manager (WHM), and Plesk tha...",
-            "published_utc": "2026-09-15T21:37:35+00:00"
         },
         {
             "source": "CSO Online",
@@ -597,32 +660,11 @@
             "published_utc": "2026-09-11T18:06:24+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Update your firewall rules: Teams and Copilot are changing address",
-            "link": "https://www.csoonline.com/article/4221275/update-your-firewall-rules-teams-and-copilot-are-changing-address.html",
-            "summary": "",
-            "published_utc": "2026-09-11T17:00:20+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "Your older iPhone just got free satellite service for another year – here’s why",
             "link": "https://www.zdnet.com/business/apple-extends-free-satellite-service-to-older-iphones/",
             "summary": "This isn’t the first time that Apple has extended the free two-year trial.",
             "published_utc": "2026-09-11T16:35:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "ConnectWise patches critical ScreenConnect authentication failure after five days",
-            "link": "https://www.csoonline.com/article/4221263/connectwise-patches-critical-screenconnect-authentication-failure-after-five-days-2.html",
-            "summary": "",
-            "published_utc": "2026-09-11T16:17:07+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "India’s STPI serves TerminalFix-style attack via fake Cloudflare check",
-            "link": "https://www.csoonline.com/article/4221243/indias-stpi-serves-terminalfix-style-attack-via-fake-cloudflare-check.html",
-            "summary": "",
-            "published_utc": "2026-09-11T15:26:58+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -973,13 +1015,6 @@
             "link": "https://www.infosecurity-magazine.com/news/crowdstrike-privilege-escalation/",
             "summary": "A security researcher has posted a zero-day exploit in CrowdStrike which could allow hackers to escalate privileges",
             "published_utc": "2026-09-07T08:28:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Apple will announce the iPhone 18 this week – here’s how ZDNET readers think it’ll go down",
-            "link": "https://www.zdnet.com/business/apple-guessing-game-round-3-answers/",
-            "summary": "In the final round of our Big Guessing Game, you shared your predictions on the iPhone event to win a new Apple Watch. Here are the final results.",
-            "published_utc": "2026-09-06T18:46:41+00:00"
         },
         {
             "source": "WIRED Security",
@@ -1351,13 +1386,6 @@
             "link": "https://www.infosecurity-magazine.com/news/fake-recruiter-scams-corporate/",
             "summary": "RecruitTrap campaigns use mobile-optimized phishing pages to target enterprise credentials",
             "published_utc": "2026-08-25T13:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Australia Warns of Active Exploitation of Critical TeamCity Server Flaw",
-            "link": "https://www.infosecurity-magazine.com/news/australia-exploitation-teamcity/",
-            "summary": "Australian officials are urging TeamCity customers to patch an actively exploited critical flaw, which follows a similar warning from the US government",
-            "published_utc": "2026-08-25T11:00:00+00:00"
         },
         {
             "source": "WIRED Security",
@@ -2681,41 +2709,6 @@
             "link": "https://www.infosecurity-magazine.com/news/microsoft-increase-number-security/",
             "summary": "Microsoft has said the volume of Windows security updates is set to grow as it uses AI to find new bugs",
             "published_utc": "2026-07-10T09:33:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "NHS Warns Staff Over Unauthorized Access to Patient Data",
-            "link": "https://www.infosecurity-magazine.com/news/nhs-warns-staff-unauthorized/",
-            "summary": "NHS tells staff they could face prison for “inappropriate” access to patients’ medical records",
-            "published_utc": "2026-07-10T09:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Vibe-Coded Malware Caught in Active Directory Attack",
-            "link": "https://www.infosecurity-magazine.com/news/vibe-coded-malware-ai-powershell/",
-            "summary": "Huntress found a threat actor using vibe-coded PowerShell to map an Active Directory network",
-            "published_utc": "2026-07-09T14:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "75% CISOs Fear Executives Don’t Understand Cybersecurity Risks Employees Face",
-            "link": "https://www.infosecurity-magazine.com/news/cisos-fear-execs-dont-understand/",
-            "summary": "Survey of cybersecurity leaders by MetaCompliance finds that many feel boards are uninterested in ever-evolving cyber risks",
-            "published_utc": "2026-07-09T12:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Chinese-Funded Interpol Cybercrime Crackdown Leads to 5,800 Arrests",
-            "link": "https://www.infosecurity-magazine.com/news/china-interpol-cybercrime-crackdown/",
-            "summary": "Operation First Light 2026, coordinated by Interpol and funded by the Chinese government, has led to 5,811 arrests",
-            "published_utc": "2026-07-09T11:45:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "GhostApproval Flaw Hits Six Major AI Coding Assistants",
-            "link": "https://www.infosecurity-magazine.com/news/ghostapproval-flaw-ai-coding/",
-            "summary": "Wiz discovered GhostApproval, a symlink flaw in six major AI coding assistants that bypasses approval",
-            "published_utc": "2026-07-09T11:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
