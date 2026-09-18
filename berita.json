@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2026-09-18T03:37:27.103897+00:00",
+    "lastUpdatedUTC": "2026-09-18T08:51:32.379708+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Critical Orkes Conductor Vulnerability Exploited in Attacks",
+            "link": "https://www.securityweek.com/critical-orkes-conductor-vulnerability-exploited-in-attacks/",
+            "summary": "",
+            "published_utc": "2026-09-18T08:42:18+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Strong fundamentals make next-gen security possible",
+            "link": "https://www.csoonline.com/article/4223032/strong-fundamentals-make-next-gen-security-possible.html",
+            "summary": "",
+            "published_utc": "2026-09-18T08:25:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Manufacturing Accounts for 22% of all Ransomware Victims",
+            "link": "https://www.infosecurity-magazine.com/news/manufacturing-22-ransomware-victims/",
+            "summary": "Black Kite has found that manufacturing remained the most targeted sector for ransomware attacks, and saw a big jump in incidents in H1 2026",
+            "published_utc": "2026-09-18T08:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft fixes broken copy and paste for Excel 2016 users",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-copy-and-paste-for-excel-2016-users/",
+            "summary": "Microsoft has fixed a known issue that causes copy-and-paste failures for some Excel users after installing the September 2026 KB5002914 security upda...",
+            "published_utc": "2026-09-18T07:35:31+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "MIND Secures $72 Million for AI-Powered DLP",
+            "link": "https://www.securityweek.com/mind-secures-72-million-for-ai-powered-dlp/",
+            "summary": "",
+            "published_utc": "2026-09-18T07:25:27+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Check Point, Kaspersky, Tanium Patch Product Vulnerabilities",
+            "link": "https://www.securityweek.com/check-point-kaspersky-tanium-patch-product-vulnerabilities/",
+            "summary": "",
+            "published_utc": "2026-09-18T07:14:04+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "New RatHat Android malware uses AI to automate device control",
@@ -156,13 +198,6 @@
             "published_utc": "2026-09-17T12:29:53+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Cisco Fixes Dozens of Flaws Across FMC, ISE and Nexus Dashboard",
-            "link": "https://www.securityweek.com/cisco-fixes-dozens-of-flaws-across-fmc-ise-and-nexus-dashboard/",
-            "summary": "",
-            "published_utc": "2026-09-17T12:17:40+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Cyber Essentials Has Record Year but Takeup Remains Low",
             "link": "https://www.infosecurity-magazine.com/news/cyber-essentials-has-record-year/",
@@ -224,20 +259,6 @@
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-workaround-for-windows-domain-login-authentication-issues/",
             "summary": "Microsoft shared a temporary fix on Wednesday for a known issue that prevents Windows 11 users from logging in with valid domain credentials after ins...",
             "published_utc": "2026-09-17T08:24:48+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "CISA Releases Cyber Decoy Guidance to Strengthen Critical Infrastructure Defenses",
-            "link": "https://www.securityweek.com/cisa-releases-guidance-on-deploying-cyber-decoys/",
-            "summary": "",
-            "published_utc": "2026-09-17T07:53:43+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "AI Agents Can Retrain Own Models Mid-Task, Leaking Secrets and Erasing Refusals",
-            "link": "https://www.securityweek.com/ai-agents-can-retrain-own-models-mid-task-leaking-secrets-and-erasing-refusals/",
-            "summary": "",
-            "published_utc": "2026-09-17T07:41:29+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -343,13 +364,6 @@
             "link": "https://www.infosecurity-magazine.com/news/woocommerce-wholesale-lead-capture/",
             "summary": "Attackers are exploiting a critical flaw in a third-party WooCommerce plugin to upload PHP webshells",
             "published_utc": "2026-09-16T15:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "The true cost of a ransomware attack, with and without BCDR",
-            "link": "https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/",
-            "summary": "The ransom itself can be only a fraction of the total cost of a ransomware attack, with downtime, recovery, remediation, and legal obligations adding ...",
-            "published_utc": "2026-09-16T14:00:10+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -630,13 +644,6 @@
             "link": "https://www.infosecurity-magazine.com/news/openai-agent-swarm-hacks-rubygems/",
             "summary": "Researchers confirm that OpenAI agents uploaded hundreds of malicious packages to RubyGems",
             "published_utc": "2026-09-14T08:50:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "How to level up from security pro to security leader",
-            "link": "https://www.csoonline.com/article/4221303/how-to-level-up-from-security-pro-to-security-leader.html",
-            "summary": "",
-            "published_utc": "2026-09-14T08:25:00+00:00"
         },
         {
             "source": "WIRED Security",
@@ -2702,13 +2709,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ransomware-removes-cybersecurity/",
             "summary": "GodDamn ransomware uses remote desktop application to secretly move around networks and drop the malicious PoisonX kernel driver",
             "published_utc": "2026-07-10T13:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Microsoft Warns of Increase in Number of Security Updates",
-            "link": "https://www.infosecurity-magazine.com/news/microsoft-increase-number-security/",
-            "summary": "Microsoft has said the volume of Windows security updates is set to grow as it uses AI to find new bugs",
-            "published_utc": "2026-07-10T09:33:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
