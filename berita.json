@@ -1,6 +1,76 @@
 {
-    "lastUpdatedUTC": "2026-09-18T08:51:32.379708+00:00",
+    "lastUpdatedUTC": "2026-09-18T13:28:02.798586+00:00",
     "articles": [
+        {
+            "source": "WIRED Security",
+            "title": "Meta’s Copyright System Is Being Weaponized Against Albanian Protesters",
+            "link": "https://www.wired.com/story/metas-copyright-system-is-being-weaponized-against-albanian-protesters/",
+            "summary": "After three months of daily anti-government protests—dubbed the Flamingo Revolution—the sudden mass suspension of Instagram accounts has led to fears ...",
+            "published_utc": "2026-09-18T13:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "AI-Built Exploit and Sign-In Flaw Opened Path to Internal OpenAI Code",
+            "link": "https://www.securityweek.com/ai-built-exploit-and-sign-in-flaw-opened-path-to-internal-openai-code/",
+            "summary": "",
+            "published_utc": "2026-09-18T12:45:24+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft fixes bug behind ‘Defender Antivirus is turned off’ alerts",
+            "link": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/",
+            "summary": "Microsoft has resolved a known issue that causes incorrect alerts warning that Defender Antivirus was turned off after installing recent updates. [...]",
+            "published_utc": "2026-09-18T12:16:32+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "23 Million User Records Compromised in Gyazo Data Breach",
+            "link": "https://www.securityweek.com/23-million-user-records-compromised-in-gyazo-data-breach/",
+            "summary": "",
+            "published_utc": "2026-09-18T11:38:40+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Are AIs Still Struggling with CAPTCHAs?",
+            "link": "https://www.schneier.com/blog/archives/2026/09/are-ais-still-struggling-with-captchas.html",
+            "summary": "",
+            "published_utc": "2026-09-18T11:05:52+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Microsoft Patches 18 Vulnerabilities in AI, Cloud Products",
+            "link": "https://www.securityweek.com/microsoft-patches-18-vulnerabilities-in-ai-cloud-products/",
+            "summary": "",
+            "published_utc": "2026-09-18T10:57:03+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "NightmareStresser DDoS Service Disrupted in International Operation",
+            "link": "https://www.securityweek.com/nightmarestresser-ddos-service-disrupted-in-international-operation/",
+            "summary": "",
+            "published_utc": "2026-09-18T10:12:33+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "CISA Upgrades Vulnerability Reporting Platform with More Automation",
+            "link": "https://www.infosecurity-magazine.com/news/cisa-upgrades-vulnerability/",
+            "summary": "The US cybersecurity agency is moving to a new vulnerability coordination platform called VINCE-NT",
+            "published_utc": "2026-09-18T10:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Brevo Supply Chain Attack Injects Malware Into 100,000 Websites",
+            "link": "https://www.securityweek.com/brevo-supply-chain-attack-injects-malware-into-100000-websites/",
+            "summary": "",
+            "published_utc": "2026-09-18T09:46:57+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "New Check Point flaw lets hackers execute code with root privileges",
+            "link": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/",
+            "summary": "Check Point Software has released security updates to address a critical vulnerability that can let attackers execute code with root privileges on man...",
+            "published_utc": "2026-09-18T09:34:33+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Critical Orkes Conductor Vulnerability Exploited in Attacks",
@@ -121,13 +191,6 @@
             "published_utc": "2026-09-17T15:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "CISA Retires Weekly Vulnerability Bulletin in Risk-Based Pivot",
-            "link": "https://www.securityweek.com/cisa-retires-weekly-vulnerability-bulletin-in-risk-based-pivot/",
-            "summary": "",
-            "published_utc": "2026-09-17T14:28:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "What Recent AI-Powered Attacks Mean for Your Identity Security",
             "link": "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/",
@@ -140,13 +203,6 @@
             "link": "https://www.infosecurity-magazine.com/news/cisa-critical-infrastructure-cyber/",
             "summary": "CISA released guidance on using cyber decoys to detect & disrupt malicious activity inside networks",
             "published_utc": "2026-09-17T14:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Revolut Data Breach: 5 Months, 680 High-Profile Accounts, $3M Ransom",
-            "link": "https://www.securityweek.com/revolut-data-breach-5-months-680-high-profile-accounts-3m-ransom/",
-            "summary": "",
-            "published_utc": "2026-09-17T13:57:41+00:00"
         },
         {
             "source": "CSO Online",
@@ -170,32 +226,11 @@
             "published_utc": "2026-09-17T13:00:19+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Comp AI Raises $34 Million for AI-Native Compliance and Security",
-            "link": "https://www.securityweek.com/comp-ai-raises-34-million-for-ai-native-compliance-and-security/",
-            "summary": "",
-            "published_utc": "2026-09-17T13:00:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "New Chinese-Made ‘RatHat’ Android Malware Leverages AI to Steal Financial Data",
             "link": "https://www.infosecurity-magazine.com/news/rathat-android-malware-ai-steal/",
             "summary": "Researchers at Zimperium have uncovered a new Android malware strain, dubbed RatHat, with spyware and backdoor capabilities",
             "published_utc": "2026-09-17T13:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "ISC Patches 14 Vulnerabilities in BIND 9 Security Update",
-            "link": "https://www.securityweek.com/isc-patches-14-vulnerabilities-in-bind-9-security-update/",
-            "summary": "",
-            "published_utc": "2026-09-17T12:39:28+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Ransomware Attacks on Manufacturers Surge as Supply Chain Risk Grows",
-            "link": "https://www.securityweek.com/ransomware-attacks-on-manufacturers-surge-as-supply-chain-risk-grows/",
-            "summary": "",
-            "published_utc": "2026-09-17T12:29:53+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -238,6 +273,13 @@
             "link": "https://www.wired.com/story/flock-once-touted-its-cameras-as-made-in-the-usa-now-its-not-so-clear/",
             "summary": "Flock reveals little about where its license plate readers are assembled, but the answer could have geopolitical and cybersecurity implications.",
             "published_utc": "2026-09-17T09:00:00+00:00"
+        },
+        {
+            "source": "WeLiveSecurity",
+            "title": "Beware the SparroWock: The backdoor that bites, the commands that catch",
+            "link": "https://www.welivesecurity.com/en/eset-research/beware-sparrowock-backdoor-bites-commands-catch/",
+            "summary": "ESET researchers document SparroWocky, the new flagship backdoor of the FamousSparrow APT group",
+            "published_utc": "2026-09-17T08:50:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -296,13 +338,6 @@
             "published_utc": "2026-09-16T19:50:34+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Malware bypasses browser checks to force install Chrome, Edge extensions",
-            "link": "https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/",
-            "summary": "A banking malware operation active since mid-2025 has been using a toolkit named KREMLIN to install malicious Chrome and Edge extensions that steal cr...",
-            "published_utc": "2026-09-16T18:50:53+00:00"
-        },
-        {
             "source": "KrebsOnSecurity",
             "title": "Data Broker Radaris Loses Domains in Privacy Fight",
             "link": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
@@ -315,13 +350,6 @@
             "link": "https://www.zdnet.com/home-and-office/do-not-run-these-appliances-on-power-stations/",
             "summary": "Using a power station for backup is ideal, but not with these appliances.",
             "published_utc": "2026-09-16T17:44:31+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Spain's data agency gets first report of AI-powered data breach",
-            "link": "https://www.bleepingcomputer.com/news/security/spains-data-agency-gets-first-report-of-ai-powered-data-breach/",
-            "summary": "The Spanish Data Protection Agency (AEPD) was notified of an attack allegedly carried out with an AI agent powered by a known large language model (LL...",
-            "published_utc": "2026-09-16T17:26:41+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -707,13 +735,6 @@
             "link": "https://www.zdnet.com/tech/apple-event-features-android-users-want/",
             "summary": "I hate to admit it, but I wish Android would do what Apple just did.",
             "published_utc": "2026-09-11T12:06:19+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Cliff Stoll’s DEF CON Talk",
-            "link": "https://www.schneier.com/blog/archives/2026/09/cliff-stolls-def-con-talk.html",
-            "summary": "",
-            "published_utc": "2026-09-11T11:09:55+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1645,13 +1666,6 @@
             "link": "https://www.infosecurity-magazine.com/news/cyber-incident-ut-san-antonio/",
             "summary": "UT San Antonio has taken IT systems offline following a cyber incident, disrupting student registration and tuition payments days before term is due t...",
             "published_utc": "2026-08-18T11:20:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "Can AI Coexist With Privacy? Proton’s Andy Yen Says It Will Have To",
-            "link": "https://www.wired.com/story/the-big-interview-podcast-andy-yen-proton/",
-            "summary": "Proton’s CEO is a champion of encryption for everyone. So why is he going all in on un-encryptable AI?",
-            "published_utc": "2026-08-18T10:30:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2704,13 +2718,6 @@
             "published_utc": "2026-07-10T13:45:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "New Ransomware Exploits Malicious Driver to Remove Cybersecurity Protections",
-            "link": "https://www.infosecurity-magazine.com/news/ransomware-removes-cybersecurity/",
-            "summary": "GodDamn ransomware uses remote desktop application to secretly move around networks and drop the malicious PoisonX kernel driver",
-            "published_utc": "2026-07-10T13:00:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "ESET Threat Report H1 2026",
             "link": "https://www.welivesecurity.com/en/eset-research/eset-threat-report-h1-2026/",
@@ -3269,13 +3276,6 @@
             "link": "https://www.welivesecurity.com/en/eset-research/muddywater-snakes-riverbank/",
             "summary": "MuddyWater targets critical infrastructure in Israel and Egypt, relying on custom malware, improved tactics, and a predictable playbook",
             "published_utc": "2025-12-02T10:00:15+00:00"
-        },
-        {
-            "source": "WeLiveSecurity",
-            "title": "Oversharing is not caring: What’s at stake if your employees post too much online",
-            "link": "https://www.welivesecurity.com/en/business-security/oversharing-is-not-caring-stake-employees-post-too-much-online/",
-            "summary": "From LinkedIn to X, GitHub to Instagram, there are plenty of opportunities to share work-related information. But posting could also get your company ...",
-            "published_utc": "2025-12-01T10:00:00+00:00"
         },
         {
             "source": "Threatpost",
