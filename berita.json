@@ -1,6 +1,97 @@
 {
-    "lastUpdatedUTC": "2026-09-18T13:28:02.798586+00:00",
+    "lastUpdatedUTC": "2026-09-18T17:33:18.956591+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "CISA is ending its monthly vulnerability bulletin",
+            "link": "https://www.csoonline.com/article/4223933/cisa-is-ending-its-monthly-vulnerability-bulletin.html",
+            "summary": "",
+            "published_utc": "2026-09-18T16:52:04+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Gyazo server flaw exploited to steal 23.6 million user records",
+            "link": "https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/",
+            "summary": "The Gyazo image-sharing platform has confirmed it suffered a data breach after hackers exploited a server vulnerability that allowed them to steal 23....",
+            "published_utc": "2026-09-18T16:00:38+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "An Undercover Google Analyst Infiltrated a Notorious Supply-Chain Hacking Gang",
+            "link": "https://www.wired.com/story/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
+            "summary": "TeamPCP pulled off the worst-ever software supply-chain hacking spree and breached thousands of companies. Now Google’s threat intelligence group says...",
+            "published_utc": "2026-09-18T16:00:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "A zero-click RCE flaw in AI coding agents could have exposed enterprise systems",
+            "link": "https://www.csoonline.com/article/4223909/a-zero-click-rce-flaw-in-ai-coding-agents-could-have-exposed-enterprise-systems-2.html",
+            "summary": "",
+            "published_utc": "2026-09-18T15:42:30+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer",
+            "link": "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/",
+            "summary": "An ongoing malware campaign uses SEO-optimized GitHub repositories to impersonate well-known software firms to push a previously undocumented informat...",
+            "published_utc": "2026-09-18T15:19:06+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "GhostCode attackers abuse device codes to take over Microsoft 365 accounts",
+            "link": "https://www.csoonline.com/article/4223898/ghostcode-attackers-abuse-device-codes-to-take-over-microsoft-365-accounts-2.html",
+            "summary": "",
+            "published_utc": "2026-09-18T15:18:40+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Businesses finally seeing AI ROI, but 62% can’t handle the storage demands",
+            "link": "https://www.zdnet.com/business/ai-storage-demand-seagate-study/",
+            "summary": "A Seagate study finds that 99% of IT leaders expect AI to drive increased data storage needs, but only 38% are prepared to meet them, revealing a sign...",
+            "published_utc": "2026-09-18T15:09:13+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Fake calendar invites can infect your system, and they’re surging – how to protect yourself",
+            "link": "https://www.zdnet.com/tech/fake-calendar-invites-malware/",
+            "summary": "These invites sneak past your security software to embed themselves in your calendar. But you can thwart them before they do any damage.",
+            "published_utc": "2026-09-18T14:57:25+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "In Other News: Ransomware Developer Sentenced, Plugin4Shell AI Attack, Critical SAP Flaw",
+            "link": "https://www.securityweek.com/in-other-news-ransomware-developer-sentenced-plugin4shell-ai-attack-critical-sap-flaw/",
+            "summary": "",
+            "published_utc": "2026-09-18T14:25:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Secure enterprise sharing with access reviews for Microsoft 365",
+            "link": "https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/",
+            "summary": "Microsoft 365 makes sharing files easy, but access can remain long after its original purpose has ended, leaving organizations with little visibility ...",
+            "published_utc": "2026-09-18T14:00:10+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft Teams will let admins block custom file extensions",
+            "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-will-let-admins-block-custom-file-extensions/",
+            "summary": "Microsoft Teams will soon let administrators tweak the list of file extensions commonly associated with security threats to meet their company's secur...",
+            "published_utc": "2026-09-18T13:58:40+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "New Settra Ransomware Variant Deployed in Attacks on Retail and Manufacturing",
+            "link": "https://www.infosecurity-magazine.com/news/settra-ransomware-retail/",
+            "summary": "Huntress researchers highlighted a new ransomware variant, named Settra, and the post-compromise techniques used in two recent attacks",
+            "published_utc": "2026-09-18T13:30:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Webinar: Which Google Workspace security controls actually matter?",
+            "link": "https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/",
+            "summary": "Fast-growing companies face countless recommendations for securing Google Workspace, but not every control provides the same value. This webinar exami...",
+            "published_utc": "2026-09-18T13:10:19+00:00"
+        },
         {
             "source": "WIRED Security",
             "title": "Meta’s Copyright System Is Being Weaponized Against Albanian Protesters",
@@ -170,13 +261,6 @@
             "published_utc": "2026-09-17T15:46:10+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "OpenAI Says Its Models Searched GitHub for Leaked API Keys During Training",
-            "link": "https://www.securityweek.com/openai-says-its-models-hunted-github-for-leaked-api-keys-during-training/",
-            "summary": "",
-            "published_utc": "2026-09-17T15:45:29+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Security spending is growing — except for the typical CISO",
             "link": "https://www.csoonline.com/article/4223455/security-spending-is-growing-except-for-the-typical-ciso.html",
@@ -294,41 +378,6 @@
             "link": "https://www.csoonline.com/article/4223011/16-governance-tools-for-securing-your-ai-fleet.html",
             "summary": "",
             "published_utc": "2026-09-17T08:25:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft shares workaround for Windows domain login issues",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-workaround-for-windows-domain-login-authentication-issues/",
-            "summary": "Microsoft shared a temporary fix on Wednesday for a known issue that prevents Windows 11 users from logging in with valid domain credentials after ins...",
-            "published_utc": "2026-09-17T08:24:48+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Cisco warns of max severity ISE zero-day exploited in attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/",
-            "summary": "Cisco has released security updates to address a maximum-severity Identity Services Engine vulnerability that attackers are actively exploiting in the...",
-            "published_utc": "2026-09-17T07:20:54+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Anthropic wants Claude to analyze your bank account and financial data",
-            "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-wants-claude-to-analyze-your-bank-account-and-financial-data/",
-            "summary": "Anthropic is testing a new personal finance feature called \"Claude Money\" that will allow you to connect your bank accounts directly to Claude and \"un...",
-            "published_utc": "2026-09-17T00:35:48+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Windows 11 KB5124008 update breaks domain trust for some users",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/",
-            "summary": "Microsoft is investigating reports that the Windows 11 KB5124008 security update is breaking domain trust relationships on some enterprise systems, pr...",
-            "published_utc": "2026-09-16T20:39:29+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Iranian hackers use CHOSEN BRICK Windows malware to spy on targets",
-            "link": "https://www.bleepingcomputer.com/news/security/iranian-hackers-use-chosen-brick-windows-malware-to-spy-on-targets/",
-            "summary": "Government agencies are warning that Iranian state-linked hackers are using a Windows malware strain named CHOSEN BRICK to target dissidents, activist...",
-            "published_utc": "2026-09-16T20:24:55+00:00"
         },
         {
             "source": "CSO Online",
@@ -569,20 +618,6 @@
             "published_utc": "2026-09-15T08:40:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Threat actors are coming for your AI assets to operationalize their use of AI",
-            "link": "https://www.csoonline.com/article/4221307/threat-actors-are-coming-for-your-ai-assets-to-operationalize-their-use-of-ai.html",
-            "summary": "",
-            "published_utc": "2026-09-15T08:25:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "A maximum severity GitLab flaw could turn your CI/CD server into an attacker’s treasure trove",
-            "link": "https://www.csoonline.com/article/4221934/a-maximum-severity-gitlab-flaw-could-turn-your-ci-cd-server-into-an-attackers-treasure-trove.html",
-            "summary": "",
-            "published_utc": "2026-09-15T00:52:55+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Upcoming Speaking Engagements",
             "link": "https://www.schneier.com/blog/archives/2026/09/upcoming-speaking-engagements-60.html",
@@ -658,13 +693,6 @@
             "link": "https://www.infosecurity-magazine.com/news/hackers-exploit-maximum-severity/",
             "summary": "CISA warns that threat actors are exploiting a vulnerability with a CVSS score of 10.0",
             "published_utc": "2026-09-14T10:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "What the 3M ChatGPT case reveals about AI governance",
-            "link": "https://www.csoonline.com/article/4221273/what-the-3m-chatgpt-case-reveals-about-ai-governance.html",
-            "summary": "",
-            "published_utc": "2026-09-14T09:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -884,13 +912,6 @@
             "published_utc": "2026-09-09T15:00:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Want iOS 27 on day one? Don’t skip this last-minute iPhone update",
-            "link": "https://www.zdnet.com/business/iphone-update-fixes-cellular-download-bug-before-ios-27-releases/",
-            "summary": "iOS 26.6.2 squashes a bug that could prevent users without Wi-Fi from downloading software updates, including iOS 27.",
-            "published_utc": "2026-09-09T14:53:03+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Gigabud Uses Android App Cloning to Evade Fraud Detection",
             "link": "https://www.infosecurity-magazine.com/news/gigabud-android-app-cloning-fraud/",
@@ -903,13 +924,6 @@
             "link": "https://www.infosecurity-magazine.com/news/clickfix-browser-cryptocurrency/",
             "summary": "ClickFix campaign uses browser-injected JavaScript and Google Sheets to steal cryptocurrency",
             "published_utc": "2026-09-09T13:45:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Apple event 2026 live updates: The first foldable iPhone and more in real time",
-            "link": "https://www.zdnet.com/business/apple-september-event-live-blog-2026/",
-            "summary": "ZDNET editors are on the ground in Cupertino to cover the ‘Surprise and shine’ event live.",
-            "published_utc": "2026-09-09T13:00:30+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1645,13 +1659,6 @@
             "link": "https://www.infosecurity-magazine.com/news/enterprise-apps-critical-high/",
             "summary": "Enterprise software creation has accelerated as vulnerability levels rise, Sonatype finds",
             "published_utc": "2026-08-18T15:00:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "Meta Ran Ads for an App That Promised to Nudify Female Politicians",
-            "link": "https://www.wired.com/story/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
-            "summary": "One advertisement featured a pornographic video with a deepfake closely resembling a prominent US politician. Apple removed the app from the App Store...",
-            "published_utc": "2026-08-18T14:45:33+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2709,13 +2716,6 @@
             "link": "https://www.infosecurity-magazine.com/news/new-gigawiper-espionage-destructive/",
             "summary": "A new multi-purpose backdoor allows cyber threat actors to conduct both quiet espionage activity and destructive wiping operations",
             "published_utc": "2026-07-10T15:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Anthropic and OpenAI Security Tools Could Fuel Cyber-Attacks, Researchers Warn",
-            "link": "https://www.infosecurity-magazine.com/news/anthropic-openai-report-exploit/",
-            "summary": "Researchers at the AI Now Institute developed a proof-of-concept exploit showing common AI tools used for security could backfire",
-            "published_utc": "2026-07-10T13:45:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
