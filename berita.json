@@ -1,6 +1,153 @@
 {
-    "lastUpdatedUTC": "2026-09-21T09:42:18.073602+00:00",
+    "lastUpdatedUTC": "2026-09-21T16:16:51.357379+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Fake LastPass Installers Push Kernel-Level EDR Killer, ‘Rapuncel’ Stealer",
+            "link": "https://www.securityweek.com/fake-lastpass-installers-push-kernel-level-edr-killer-rapuncel-stealer/",
+            "summary": "",
+            "published_utc": "2026-09-21T15:46:58+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Google fined €403 million over location data privacy violations",
+            "link": "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/",
+            "summary": "Ireland's Data Protection Commission (DPC) has fined Google €403 million ($463M) for multiple GDPR violations related to processing users' location da...",
+            "published_utc": "2026-09-21T15:41:22+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Google Hit with €403m GDPR Fine Over Location Data Practices",
+            "link": "https://www.infosecurity-magazine.com/news/google-hit-with-403m-gdpr-fine/",
+            "summary": "The Irish DPC found that Google users were unaware that their location was being used to influence them with ads",
+            "published_utc": "2026-09-21T15:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft fixes broken Excel copy and paste for all Office users",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/",
+            "summary": "Microsoft has fixed a known issue that causes copy-and-paste failures for Excel users after installing the September 2026 security updates. [...]",
+            "published_utc": "2026-09-21T14:42:37+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Reverse-Engineering Flock Cameras",
+            "link": "https://www.schneier.com/blog/archives/2026/09/reverse-engineering-flock-cameras.html",
+            "summary": "",
+            "published_utc": "2026-09-21T14:37:45+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "CISO Conversations: Noopur Davis – The Accidental Global CISO at Comcast",
+            "link": "https://www.securityweek.com/ciso-conversations-noopur-davis-the-accidental-global-ciso-at-comcast/",
+            "summary": "",
+            "published_utc": "2026-09-21T14:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "New Exvicy ClickFix Framework Built on Rival ErrTraffic's Code",
+            "link": "https://www.infosecurity-magazine.com/news/exvicy-clickfix-framework/",
+            "summary": "Sekoia said Exvicy, a new ClickFix MaaS framework, reused code from rival service ErrTraffic",
+            "published_utc": "2026-09-21T14:30:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "New npm malware finds a way around install script defenses",
+            "link": "https://www.csoonline.com/article/4224400/new-npm-malware-finds-a-way-around-install-script-defenses-2.html",
+            "summary": "",
+            "published_utc": "2026-09-21T14:27:49+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "FBI's CJIS v6.1: What Security Teams Need to Know.",
+            "link": "https://www.bleepingcomputer.com/news/security/fbis-cjis-v61-what-security-teams-need-to-know/",
+            "summary": "The FBI's CJIS Security Policy v6.1 strengthens requirements around encryption and vulnerability scanning while continuing the shift toward more conti...",
+            "published_utc": "2026-09-21T14:02:12+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Dragos Completes NetRise and runZero Acquisitions Following Accenture Deal",
+            "link": "https://www.securityweek.com/dragos-completes-netrise-and-runzero-acquisitions-following-accenture-deal/",
+            "summary": "",
+            "published_utc": "2026-09-21T14:00:13+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Orchid Security Introduces AI Agent Readiness Controls Featuring Continuous Identity Monitoring and Kill-Switch Capabilities",
+            "link": "https://www.csoonline.com/article/4224374/orchid-security-introduces-ai-agent-readiness-controls-featuring-continuous-identity-monitoring-and-kill-switch-capabilities.html",
+            "summary": "",
+            "published_utc": "2026-09-21T13:35:37+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Attackers Abuse npm Trusted Publishing in GHAPPIER Campaign",
+            "link": "https://www.infosecurity-magazine.com/news/attackers-abuse-npm-trusted/",
+            "summary": "CloudSEK linked GHAPPIER to a compromised npm package with valid trusted-publishing provenance",
+            "published_utc": "2026-09-21T13:30:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft reminds admins to migrate Entra ID users to passkeys",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/",
+            "summary": "Microsoft has reminded admins to migrate Entra ID users to phishing-resistant authentication methods to avoid sign-in disruptions after it retires SMS...",
+            "published_utc": "2026-09-21T13:16:20+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "RatHat Android Trojan Uses AI for Automation",
+            "link": "https://www.securityweek.com/rathat-android-trojan-uses-ai-for-automation/",
+            "summary": "",
+            "published_utc": "2026-09-21T12:51:41+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "ShinyHunters Claim Hack of Rival Ransomware Gang Clop",
+            "link": "https://www.infosecurity-magazine.com/news/shinyhunters-claim-hack-of-clop/",
+            "summary": "ShinyHunters has claimed responsibility for hacking the Clop ransomware group, defacing its leak site and alleging theft of key operational data",
+            "published_utc": "2026-09-21T12:30:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Rust Team Members and Popular Crate Owners Targeted via Video Calls",
+            "link": "https://www.securityweek.com/rust-team-members-and-popular-crate-owners-targeted-via-video-calls/",
+            "summary": "",
+            "published_utc": "2026-09-21T11:57:35+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The AI models that cheat the most, according to new CAIS benchmark",
+            "link": "https://www.zdnet.com/innovation/ai-model-cheating-benchmark-cheatbench/",
+            "summary": "We know models cheat. A new benchmark measures how much, and on what tasks.",
+            "published_utc": "2026-09-21T11:53:04+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft: September updates break File History backup feature",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/",
+            "summary": "Microsoft warned that the built-in File History backup feature in Windows may stop working on some systems after installing the September 2026 securit...",
+            "published_utc": "2026-09-21T11:45:54+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "CrowdSec Confirms Source Code Stolen in Supply Chain Attack",
+            "link": "https://www.securityweek.com/crowdsec-confirms-source-code-stolen-in-supply-chain-attack/",
+            "summary": "",
+            "published_utc": "2026-09-21T10:55:46+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
+            "link": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
+            "summary": "Officials discussed setting up a mechanism for the two countries to notify each other of AI incidents which could threaten national security.",
+            "published_utc": "2026-09-21T10:34:43+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Colorado Water Utilities Hit by Cyberattacks Targeting OT Systems",
+            "link": "https://www.securityweek.com/colorado-water-utilities-hit-by-cyberattacks-targeting-ot-systems/",
+            "summary": "",
+            "published_utc": "2026-09-21T10:03:44+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Organizations Warned of 3 Exploited Linux Kernel Vulnerabilities",
@@ -177,13 +324,6 @@
             "published_utc": "2026-09-18T14:57:25+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "In Other News: Ransomware Developer Sentenced, Plugin4Shell AI Attack, Critical SAP Flaw",
-            "link": "https://www.securityweek.com/in-other-news-ransomware-developer-sentenced-plugin4shell-ai-attack-critical-sap-flaw/",
-            "summary": "",
-            "published_utc": "2026-09-18T14:25:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Secure enterprise sharing with access reviews for Microsoft 365",
             "link": "https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/",
@@ -205,39 +345,11 @@
             "published_utc": "2026-09-18T13:30:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Webinar: Which Google Workspace security controls actually matter?",
-            "link": "https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/",
-            "summary": "Fast-growing companies face countless recommendations for securing Google Workspace, but not every control provides the same value. This webinar exami...",
-            "published_utc": "2026-09-18T13:10:19+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "Meta’s Copyright System Is Being Weaponized Against Albanian Protesters",
             "link": "https://www.wired.com/story/metas-copyright-system-is-being-weaponized-against-albanian-protesters/",
             "summary": "After three months of daily anti-government protests—dubbed the Flamingo Revolution—the sudden mass suspension of Instagram accounts has led to fears ...",
             "published_utc": "2026-09-18T13:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "AI-Built Exploit and Sign-In Flaw Opened Path to Internal OpenAI Code",
-            "link": "https://www.securityweek.com/ai-built-exploit-and-sign-in-flaw-opened-path-to-internal-openai-code/",
-            "summary": "",
-            "published_utc": "2026-09-18T12:45:24+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft fixes bug behind ‘Defender Antivirus is turned off’ alerts",
-            "link": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/",
-            "summary": "Microsoft has resolved a known issue that causes incorrect alerts warning that Defender Antivirus was turned off after installing recent updates. [...]",
-            "published_utc": "2026-09-18T12:16:32+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "23 Million User Records Compromised in Gyazo Data Breach",
-            "link": "https://www.securityweek.com/23-million-user-records-compromised-in-gyazo-data-breach/",
-            "summary": "",
-            "published_utc": "2026-09-18T11:38:40+00:00"
         },
         {
             "source": "Schneier",
@@ -247,20 +359,6 @@
             "published_utc": "2026-09-18T11:05:52+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Microsoft Patches 18 Vulnerabilities in AI, Cloud Products",
-            "link": "https://www.securityweek.com/microsoft-patches-18-vulnerabilities-in-ai-cloud-products/",
-            "summary": "",
-            "published_utc": "2026-09-18T10:57:03+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "NightmareStresser DDoS Service Disrupted in International Operation",
-            "link": "https://www.securityweek.com/nightmarestresser-ddos-service-disrupted-in-international-operation/",
-            "summary": "",
-            "published_utc": "2026-09-18T10:12:33+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "CISA Upgrades Vulnerability Reporting Platform with More Automation",
             "link": "https://www.infosecurity-magazine.com/news/cisa-upgrades-vulnerability/",
@@ -268,32 +366,11 @@
             "published_utc": "2026-09-18T10:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Brevo Supply Chain Attack Injects Malware Into 100,000 Websites",
-            "link": "https://www.securityweek.com/brevo-supply-chain-attack-injects-malware-into-100000-websites/",
-            "summary": "",
-            "published_utc": "2026-09-18T09:46:57+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "New Check Point flaw lets hackers execute code with root privileges",
-            "link": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/",
-            "summary": "Check Point Software has released security updates to address a critical vulnerability that can let attackers execute code with root privileges on man...",
-            "published_utc": "2026-09-18T09:34:33+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "‘Nudify’ apps: What to do if someone makes a fake nude of you",
             "link": "https://www.welivesecurity.com/en/privacy/nudify-apps-fake-nude-you/",
             "summary": "Whether you’re a victim, the parent of a victim, or just concerned, here’s what you can do about fake nude images",
             "published_utc": "2026-09-18T09:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Critical Orkes Conductor Vulnerability Exploited in Attacks",
-            "link": "https://www.securityweek.com/critical-orkes-conductor-vulnerability-exploited-in-attacks/",
-            "summary": "",
-            "published_utc": "2026-09-18T08:42:18+00:00"
         },
         {
             "source": "CSO Online",
@@ -308,20 +385,6 @@
             "link": "https://www.infosecurity-magazine.com/news/manufacturing-22-ransomware-victims/",
             "summary": "Black Kite has found that manufacturing remained the most targeted sector for ransomware attacks, and saw a big jump in incidents in H1 2026",
             "published_utc": "2026-09-18T08:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft fixes broken copy and paste for Excel 2016 users",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-copy-and-paste-for-excel-2016-users/",
-            "summary": "Microsoft has fixed a known issue that causes copy-and-paste failures for some Excel users after installing the September 2026 KB5002914 security upda...",
-            "published_utc": "2026-09-18T07:35:31+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "New RatHat Android malware uses AI to automate device control",
-            "link": "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/",
-            "summary": "A new Android malware called RatHat has been discovered, targeting users with an AI-powered subsystem that helps operators remotely navigate compromis...",
-            "published_utc": "2026-09-17T21:50:26+00:00"
         },
         {
             "source": "CSO Online",
@@ -597,25 +660,11 @@
             "published_utc": "2026-09-16T01:09:53+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Critical Cisco Secure Email Gateway zero-day gives attackers root access",
-            "link": "https://www.csoonline.com/article/4222391/critical-cisco-secure-email-gateway-zero-day-gives-attackers-root-access.html",
-            "summary": "",
-            "published_utc": "2026-09-15T19:56:58+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Most Fraudulent Hires Receive Credentials Before Detection",
             "link": "https://www.infosecurity-magazine.com/news/fraudulent-hires-credentials/",
             "summary": "A new report highlights the vast growth in fraudulent candidates, presenting significant insider threat challenges to organizations",
             "published_utc": "2026-09-15T15:15:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Exposed Vite servers are being probed for AWS and Azure credentials",
-            "link": "https://www.csoonline.com/article/4222259/exposed-vite-servers-are-being-probed-for-aws-and-azure-credentials-2.html",
-            "summary": "",
-            "published_utc": "2026-09-15T14:36:41+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -756,13 +805,6 @@
             "link": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
             "summary": "Plus: The US disrupts the internet’s biggest black market, a Conti ransomware hacker gets prison time, Meta fails to stop AI-generated videos of child...",
             "published_utc": "2026-09-12T10:30:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Friday Squid Blogging: Rotting Squid on a Beached California Boat",
-            "link": "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-rotting-squid-on-a-beached-california-boat.html",
-            "summary": "",
-            "published_utc": "2026-09-11T21:03:27+00:00"
         },
         {
             "source": "WIRED Security",
@@ -938,13 +980,6 @@
             "link": "https://www.wired.com/story/you-can-now-destroy-flock-cameras-for-cash-in-gta-v/",
             "summary": "A new GTA mod lets you smash and shoot Flock’s automatic license plate readers around the fictional Los Santos.",
             "published_utc": "2026-09-09T16:30:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "You can doodle in ChatGPT now, and it’ll transform your drawings into polished images – how to try it",
-            "link": "https://www.zdnet.com/innovation/chatgpt-sketch-ai-image-generator-tutorial/",
-            "summary": "With ChatGPT’s new Sketch tool, you can draw directly in the chat window and then watch as your drawing is transformed into a final image.",
-            "published_utc": "2026-09-09T16:17:35+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1575,13 +1610,6 @@
             "link": "https://www.infosecurity-magazine.com/news/cybersecurity-job-ads-ai-skills/",
             "summary": "An analysis by the AI Workforce Consortium found that technical cybersecurity jobs are becoming more strategic due to the influence of AI",
             "published_utc": "2026-08-21T08:00:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "China Is Strapping ‘Digital Bombs’ to Civilian Infrastructure—Is the US Ready?",
-            "link": "https://www.wired.com/story/china-is-strapping-digital-bombs-to-civilian-infrastructure-is-the-us-ready/",
-            "summary": "This week on “Uncanny Valley,” Andy Greenberg discusses sitting in on a war game simulating a cyberattack from the Chinese hacking group Volt Typhoon",
-            "published_utc": "2026-08-20T20:03:13+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2695,34 +2723,6 @@
             "link": "https://www.infosecurity-magazine.com/news/novel-spoofing-technique-targets/",
             "summary": "New research reveals cyber-attackers can spoof OAuth Client IDs in Microsoft Entra ID, creating a stealthy path into cloud environments",
             "published_utc": "2026-07-13T13:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Progress Software Warns of \"External Security Threat\" to ShareFile",
-            "link": "https://www.infosecurity-magazine.com/news/progress-warns-security-threat/",
-            "summary": "Progress Software, the provider of the popular file-sharing and data storage solutions, has urged customers to shut down the server hosting their Stor...",
-            "published_utc": "2026-07-13T12:05:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Russian State Hackers Target Vulnerable Routers Worldwide, Joint Advisory Warns",
-            "link": "https://www.infosecurity-magazine.com/news/russian-state-hackers-vulnerable/",
-            "summary": "Cybersecurity agencies from 12 countries have warned that Russian state-backed hackers are actively targeting vulnerable routers using weak SNMP crede...",
-            "published_utc": "2026-07-13T10:40:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Hacker Extradited from Ukraine Pleads Guilty to Ryuk Ransomware Charges",
-            "link": "https://www.infosecurity-magazine.com/news/hacker-extradited-ukraine-guilty/",
-            "summary": "An Armenian man has pleaded guilty to his role in the infamous Ryuk ransomware operation",
-            "published_utc": "2026-07-13T09:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Australian Cyber Agency Warns of Global CMS Exploitation Campaign",
-            "link": "https://www.infosecurity-magazine.com/news/australia-warns-global-cms/",
-            "summary": "Australian Cyber Security Centre warns CMS users of mass scanning and exploitation campaign",
-            "published_utc": "2026-07-13T08:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
