@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2026-09-21T16:16:51.357379+00:00",
+    "lastUpdatedUTC": "2026-09-21T20:49:54.476888+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "CISA alerts of active exploitation of three Linux kernel flaws",
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/",
+            "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting three Linux kernel vulnerabilities, one of the...",
+            "published_utc": "2026-09-21T20:12:17+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "WordPress Click2Shell flaw lets hackers execute PHP on the server",
+            "link": "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/",
+            "summary": "Technical details and a proof-of-concept exploit have been published for a new WordPress cross-site request forgery (CSRF) vulnerability dubbed 'Click...",
+            "published_utc": "2026-09-21T18:23:11+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft to retire Microsoft 365 Companion apps in December",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-retire-microsoft-365-companion-apps-in-december/",
+            "summary": "Microsoft will retire the Calendar, People, and Files Microsoft 365 companion apps on December 16 and has asked admins to remove them from managed dev...",
+            "published_utc": "2026-09-21T17:54:49+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Google Hit With $463 Million Fine for EU Location Data Rule Breach",
+            "link": "https://www.securityweek.com/google-hit-with-463-million-fine-for-eu-location-data-rule-breach/",
+            "summary": "",
+            "published_utc": "2026-09-21T17:19:53+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "After spending billions, OpenAI still has gaps in its cybersecurity",
+            "link": "https://www.csoonline.com/article/4224453/after-spending-billions-openai-still-has-gaps-in-its-cybersecurity.html",
+            "summary": "",
+            "published_utc": "2026-09-21T16:24:03+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Claim up to $95 today from Apple’s Siri AI settlement – here’s how",
+            "link": "https://www.zdnet.com/business/claim-your-payout-now-from-apple-siri-ai-settlement/",
+            "summary": "Got an iPhone 15 Pro, Pro Max, or 16? Apple is doling out $250 million – here’s how to qualify and file a claim to get your cut.",
+            "published_utc": "2026-09-21T16:07:21+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Fake LastPass Installers Push Kernel-Level EDR Killer, ‘Rapuncel’ Stealer",
@@ -212,13 +254,6 @@
             "published_utc": "2026-09-19T14:56:31+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "TigerByte Cyber Emerges From Stealth With $3 Million in Funding",
-            "link": "https://www.securityweek.com/tigerbyte-cyber-emerges-from-stealth-with-3-million-in-funding/",
-            "summary": "",
-            "published_utc": "2026-09-19T14:30:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "North Korean WaterPlum hackers infected 30,000 devices worldwide",
             "link": "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/",
@@ -296,13 +331,6 @@
             "published_utc": "2026-09-18T15:42:30+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer",
-            "link": "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/",
-            "summary": "An ongoing malware campaign uses SEO-optimized GitHub repositories to impersonate well-known software firms to push a previously undocumented informat...",
-            "published_utc": "2026-09-18T15:19:06+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "GhostCode attackers abuse device codes to take over Microsoft 365 accounts",
             "link": "https://www.csoonline.com/article/4223898/ghostcode-attackers-abuse-device-codes-to-take-over-microsoft-365-accounts-2.html",
@@ -322,20 +350,6 @@
             "link": "https://www.zdnet.com/tech/fake-calendar-invites-malware/",
             "summary": "These invites sneak past your security software to embed themselves in your calendar. But you can thwart them before they do any damage.",
             "published_utc": "2026-09-18T14:57:25+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Secure enterprise sharing with access reviews for Microsoft 365",
-            "link": "https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/",
-            "summary": "Microsoft 365 makes sharing files easy, but access can remain long after its original purpose has ended, leaving organizations with little visibility ...",
-            "published_utc": "2026-09-18T14:00:10+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft Teams will let admins block custom file extensions",
-            "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-will-let-admins-block-custom-file-extensions/",
-            "summary": "Microsoft Teams will soon let administrators tweak the list of file extensions commonly associated with security threats to meet their company's secur...",
-            "published_utc": "2026-09-18T13:58:40+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -653,13 +667,6 @@
             "published_utc": "2026-09-16T08:25:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Hundreds of OpenAI agents attack RubyGems platform",
-            "link": "https://www.csoonline.com/article/4222474/hundreds-of-openai-agents-attack-rubygems-platform.html",
-            "summary": "",
-            "published_utc": "2026-09-16T01:09:53+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Most Fraudulent Hires Receive Credentials Before Detection",
             "link": "https://www.infosecurity-magazine.com/news/fraudulent-hires-credentials/",
@@ -966,13 +973,6 @@
             "link": "https://www.zdnet.com/business/tmobile-iphone-18-deal/",
             "summary": "The iPhone 18 Pro and Pro Max offer an impressive battery and professional-quality camera system – and you can get one on T-Mobile.",
             "published_utc": "2026-09-09T18:39:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "iOS 27 release date confirmed: 9 things your iPhone can do once you update",
-            "link": "https://www.zdnet.com/business/ios-27-release-date-new-iphone-features/",
-            "summary": "The Apple event revealed much more than a new lineup of iPhones. iOS 27 has a release date now.",
-            "published_utc": "2026-09-09T18:33:23+00:00"
         },
         {
             "source": "WIRED Security",
