@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2026-09-21T03:47:02.506166+00:00",
+    "lastUpdatedUTC": "2026-09-21T09:42:18.073602+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Organizations Warned of 3 Exploited Linux Kernel Vulnerabilities",
+            "link": "https://www.securityweek.com/organizations-warned-of-3-exploited-linux-kernel-vulnerabilities/",
+            "summary": "",
+            "published_utc": "2026-09-21T09:31:12+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Experts Alarmed Over Gyazo’s Breach of 490 Million Metadata Records",
+            "link": "https://www.infosecurity-magazine.com/news/experts-gyazos-breach-490-million/",
+            "summary": "A breach at image-sharing service Gyazo on September 11 affected over 23 million customers",
+            "published_utc": "2026-09-21T09:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Revolut Customers Targeted with New Wave of Phishing Attacks",
+            "link": "https://www.infosecurity-magazine.com/news/revolut-customers-targeted-wave/",
+            "summary": "Following a major data breach, Revolut customers are being sent convincing phishing messages",
+            "published_utc": "2026-09-21T09:00:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Revoking the token didn’t kill the backdoor",
+            "link": "https://www.csoonline.com/article/4223975/revoking-the-token-didnt-kill-the-backdoor.html",
+            "summary": "",
+            "published_utc": "2026-09-21T09:00:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "5 ways AI is reshaping the cybersecurity job market",
+            "link": "https://www.csoonline.com/article/4224019/5-ways-ai-is-reshaping-the-cybersecurity-job-market.html",
+            "summary": "",
+            "published_utc": "2026-09-21T08:25:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Google Confirms Gemini AI Breached Three Firms",
+            "link": "https://www.securityweek.com/google-confirms-gemini-ai-breached-three-firms/",
+            "summary": "",
+            "published_utc": "2026-09-21T07:20:46+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Malicious npm packages evade install-script defenses at runtime",
@@ -273,20 +315,6 @@
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-copy-and-paste-for-excel-2016-users/",
             "summary": "Microsoft has fixed a known issue that causes copy-and-paste failures for some Excel users after installing the September 2026 KB5002914 security upda...",
             "published_utc": "2026-09-18T07:35:31+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "MIND Secures $72 Million for AI-Powered DLP",
-            "link": "https://www.securityweek.com/mind-secures-72-million-for-ai-powered-dlp/",
-            "summary": "",
-            "published_utc": "2026-09-18T07:25:27+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Check Point, Kaspersky, Tanium Patch Product Vulnerabilities",
-            "link": "https://www.securityweek.com/check-point-kaspersky-tanium-patch-product-vulnerabilities/",
-            "summary": "",
-            "published_utc": "2026-09-18T07:14:04+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -618,13 +646,6 @@
             "published_utc": "2026-09-15T13:00:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Exaforce extends its AI security tool to monitor more than just Claude",
-            "link": "https://www.csoonline.com/article/4222191/exaforce-extends-its-ai-security-tool-to-monitor-more-than-just-claude.html",
-            "summary": "",
-            "published_utc": "2026-09-15T13:00:00+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "25 Years of Mass Surveillance Is Enough",
             "link": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
@@ -637,13 +658,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/09/on-the-nsas-supercomputer-from-the-1960s.html",
             "summary": "",
             "published_utc": "2026-09-15T10:16:24+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "AI is exposing a security structure built for yesterday’s threats",
-            "link": "https://www.csoonline.com/article/4221801/ai-is-exposing-a-security-structure-built-for-yesterdays-threats.html",
-            "summary": "",
-            "published_utc": "2026-09-15T09:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2709,20 +2723,6 @@
             "link": "https://www.infosecurity-magazine.com/news/australia-warns-global-cms/",
             "summary": "Australian Cyber Security Centre warns CMS users of mass scanning and exploitation campaign",
             "published_utc": "2026-07-13T08:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "CISA Details Incident Response to Exposed AWS GovCloud Keys",
-            "link": "https://www.infosecurity-magazine.com/news/cisa-incident-response-exposed-aws/",
-            "summary": "CISA reveals how it responded after sensitive AWS GovCloud credentials and internal data were exposed in a public GitHub repository",
-            "published_utc": "2026-07-10T16:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Microsoft Warns New 'GigaWiper' Malware Combines Espionage and Destructive Capabilities",
-            "link": "https://www.infosecurity-magazine.com/news/new-gigawiper-espionage-destructive/",
-            "summary": "A new multi-purpose backdoor allows cyber threat actors to conduct both quiet espionage activity and destructive wiping operations",
-            "published_utc": "2026-07-10T15:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
