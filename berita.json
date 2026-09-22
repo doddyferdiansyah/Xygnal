@@ -1,6 +1,62 @@
 {
-    "lastUpdatedUTC": "2026-09-22T14:25:04.544498+00:00",
+    "lastUpdatedUTC": "2026-09-22T18:33:41.549029+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "New ClosedQuorum Windows malware uses AI for attack decisions",
+            "link": "https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/",
+            "summary": "A new Windows malware named ClosedQuorum uses Google Gemini, DeepSeek, Qwen, and Mistral AI models to autonomously determine the actions to take durin...",
+            "published_utc": "2026-09-22T18:04:39+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "BigCommerce Data Stolen via Ribon Apps Hack",
+            "link": "https://www.securityweek.com/bigcommerce-data-stolen-via-ribon-apps-hack/",
+            "summary": "",
+            "published_utc": "2026-09-22T17:58:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Reducing shadow IT visibility gaps with Wazuh",
+            "link": "https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/",
+            "summary": "Shadow IT can leave security teams unaware of unmanaged endpoints, unauthorized software, and other assets that fall outside existing monitoring. Wazu...",
+            "published_utc": "2026-09-22T17:17:41+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Check Point warns of Management Server zero-day exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/",
+            "summary": "Check Point Software released emergency hotfixes to address a critical Security Management Server vulnerability that could let attackers run arbitrary...",
+            "published_utc": "2026-09-22T16:32:47+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Claude Opus 5.5 delivers Fable 5.1 performance – and costs 40% less",
+            "link": "https://www.zdnet.com/innovation/anthropic-claude-opus-5-5-fable-5-1-performance-costs-less/",
+            "summary": "Anthropic’s newest Claude model aims to make frontier AI cheaper, faster, and safer, while giving subscribers more breathing room before those frustra...",
+            "published_utc": "2026-09-22T16:30:05+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts",
+            "link": "https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/",
+            "summary": "The EvilTokens platform that compromised more than 12,000 Microsoft accounts at over 10,000 organizations has been disrupted in an effort led by Micro...",
+            "published_utc": "2026-09-22T15:00:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Z.ai disables coding assistant feature after flaw exposed enterprise code upload risk",
+            "link": "https://www.csoonline.com/article/4225037/z-ai-disables-coding-assistant-feature-after-flaw-exposed-enterprise-code-upload-risk-2.html",
+            "summary": "",
+            "published_utc": "2026-09-22T14:56:08+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Cyera Raises $400 Million at $12+ Billion Valuation",
+            "link": "https://www.securityweek.com/cyera-raises-400-million-at-12-billion-valuation/",
+            "summary": "",
+            "published_utc": "2026-09-22T14:29:34+00:00"
+        },
         {
             "source": "InfosecurityMag",
             "title": "North Korean Attackers Hit 30,000 Devices and Steal $10.7m",
@@ -212,13 +268,6 @@
             "published_utc": "2026-09-21T16:07:21+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Fake LastPass Installers Push Kernel-Level EDR Killer, ‘Rapuncel’ Stealer",
-            "link": "https://www.securityweek.com/fake-lastpass-installers-push-kernel-level-edr-killer-rapuncel-stealer/",
-            "summary": "",
-            "published_utc": "2026-09-21T15:46:58+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Google fined €403 million over location data privacy violations",
             "link": "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/",
@@ -245,13 +294,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/09/reverse-engineering-flock-cameras.html",
             "summary": "",
             "published_utc": "2026-09-21T14:37:45+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "CISO Conversations: Noopur Davis – The Accidental Global CISO at Comcast",
-            "link": "https://www.securityweek.com/ciso-conversations-noopur-davis-the-accidental-global-ciso-at-comcast/",
-            "summary": "",
-            "published_utc": "2026-09-21T14:30:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -289,13 +331,6 @@
             "published_utc": "2026-09-21T13:30:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Microsoft reminds admins to migrate Entra ID users to passkeys",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/",
-            "summary": "Microsoft has reminded admins to migrate Entra ID users to phishing-resistant authentication methods to avoid sign-in disruptions after it retires SMS...",
-            "published_utc": "2026-09-21T13:16:20+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "ShinyHunters Claim Hack of Rival Ransomware Gang Clop",
             "link": "https://www.infosecurity-magazine.com/news/shinyhunters-claim-hack-of-clop/",
@@ -308,13 +343,6 @@
             "link": "https://www.zdnet.com/innovation/ai-model-cheating-benchmark-cheatbench/",
             "summary": "We know models cheat. A new benchmark measures how much, and on what tasks.",
             "published_utc": "2026-09-21T11:53:04+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft: September updates break File History backup feature",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/",
-            "summary": "Microsoft warned that the built-in File History backup feature in Windows may stop working on some systems after installing the September 2026 securit...",
-            "published_utc": "2026-09-21T11:45:54+00:00"
         },
         {
             "source": "WIRED Security",
@@ -357,20 +385,6 @@
             "link": "https://www.csoonline.com/article/4224019/5-ways-ai-is-reshaping-the-cybersecurity-job-market.html",
             "summary": "",
             "published_utc": "2026-09-21T08:25:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Malicious npm packages evade install-script defenses at runtime",
-            "link": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/",
-            "summary": "An ongoing npm malware campaign involving the 'indexed-btree' package shows how threat actors bypass supply chain defenses by hiding malicious code in...",
-            "published_utc": "2026-09-20T14:11:21+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Researchers escape OpenAI Codex sandbox to run commands on host",
-            "link": "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/",
-            "summary": "Researchers escaped OpenAI's Codex sandbox two ways, one running commands on a developer's machine from its most locked-down mode. OpenAI has patched ...",
-            "published_utc": "2026-09-20T12:00:00+00:00"
         },
         {
             "source": "WIRED Security",
@@ -644,13 +658,6 @@
             "link": "https://www.zdnet.com/tech/september-pixel-drop-call-message-important-contacts/",
             "summary": "The update lets you contact VIPs with a tap and adds scam protection.",
             "published_utc": "2026-09-16T16:25:53+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Big Tech’s AI safety rift signals disruption and disparity for enterprises",
-            "link": "https://www.csoonline.com/article/4222904/big-techs-ai-safety-rift-signals-disruption-and-disparity-for-enterprises-3.html",
-            "summary": "",
-            "published_utc": "2026-09-16T16:19:26+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1015,13 +1022,6 @@
             "link": "https://www.wired.com/story/apple-doesnt-want-you-to-worry-about-the-new-apple-watchs-listening-features/",
             "summary": "The new Apple Watch includes several “intelligent” listening features that have privacy and security baked in. But the protections can’t change the fa...",
             "published_utc": "2026-09-09T19:14:26+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "This LG TV jailbreak turns smart devices into spies, say researchers",
-            "link": "https://www.zdnet.com/uncategorized/lg-tv-can-spy-on-you-say-researchers-how-to-prevent-it/",
-            "summary": "Researchers say LG TV’s behavior ‘parallels malware’ – with user data logged even when TVs are on standby.",
-            "published_utc": "2026-09-09T18:59:45+00:00"
         },
         {
             "source": "ZDNet Security",
