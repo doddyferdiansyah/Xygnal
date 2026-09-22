@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2026-09-22T03:44:33.325097+00:00",
+    "lastUpdatedUTC": "2026-09-22T09:06:47.208583+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "The cyber AI parity window now has a deadline",
+            "link": "https://www.csoonline.com/article/4224418/the-cyber-ai-parity-window-now-has-a-deadline.html",
+            "summary": "",
+            "published_utc": "2026-09-22T09:00:00+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "How to Use AI With Your Privacy Intact",
+            "link": "https://www.wired.com/story/how-to-use-ai-with-your-privacy-intact/",
+            "summary": "Your conversations with AI chatbots are both highly personal and deeply vulnerable to surveillance. Here’s how you can protect yourself.",
+            "published_utc": "2026-09-22T09:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "CISA orders feds to patch Zyxel flaw exploited for data theft",
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/",
+            "summary": "​Attackers are now actively exploiting a high-severity vulnerability in Zyxel GS1900 series switches, according to the U.S. Cybersecurity and Infrastr...",
+            "published_utc": "2026-09-22T08:53:09+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Japan Dismantles First North Korean Laptop Farm as US and Allies Detail Wider Scheme",
+            "link": "https://www.securityweek.com/japan-dismantles-first-north-korean-laptop-farm-as-us-and-allies-detail-wider-scheme/",
+            "summary": "",
+            "published_utc": "2026-09-22T08:37:06+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "CISOs can no longer ignore the nation-state threat",
+            "link": "https://www.csoonline.com/article/4224629/ai-reshapes-the-nation-state-threat-landscape-for-cisos.html",
+            "summary": "",
+            "published_utc": "2026-09-22T08:25:00+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "US Proposes AI Incident Alert System in Talks With China, Bessent Says",
@@ -212,13 +247,6 @@
             "published_utc": "2026-09-21T10:03:44+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Organizations Warned of 3 Exploited Linux Kernel Vulnerabilities",
-            "link": "https://www.securityweek.com/organizations-warned-of-3-exploited-linux-kernel-vulnerabilities/",
-            "summary": "",
-            "published_utc": "2026-09-21T09:31:12+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Experts Alarmed Over Gyazo’s Breach of 490 Million Metadata Records",
             "link": "https://www.infosecurity-magazine.com/news/experts-gyazos-breach-490-million/",
@@ -237,6 +265,13 @@
             "title": "Revoking the token didn’t kill the backdoor",
             "link": "https://www.csoonline.com/article/4223975/revoking-the-token-didnt-kill-the-backdoor.html",
             "summary": "",
+            "published_utc": "2026-09-21T09:00:00+00:00"
+        },
+        {
+            "source": "WeLiveSecurity",
+            "title": "The SMB cybersecurity squeeze: AI agents at work, old attacks in overdrive",
+            "link": "https://www.welivesecurity.com/en/business-security/smb-cybersecurity-squeeze-ai-agents-work-old-attacks-overdrive/",
+            "summary": "As AI opens new paths to company data while making familiar attacks faster and cheaper, SMBs need protection designed around the time and expertise av...",
             "published_utc": "2026-09-21T09:00:00+00:00"
         },
         {
@@ -280,13 +315,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/",
             "summary": "The ShinyHunters extortion gang breached the Clop (aka Cl0p) ransomware operation's data leak site, defacing the Tor site and allegedly stealing serve...",
             "published_utc": "2026-09-19T13:48:32+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Viral AI actress' hotline face-scans every caller, watches their mood",
-            "link": "https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/",
-            "summary": "AI actress Tilly Norwood went viral after glitching into Chinese on Piers Morgan Uncensored last night. Her \"Talking Tilly\" video call service face-sc...",
-            "published_utc": "2026-09-19T11:38:20+00:00"
         },
         {
             "source": "WIRED Security",
@@ -576,13 +604,6 @@
             "published_utc": "2026-09-16T15:54:18+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "AI agent authorization risks remain a gap in new NIST-CISA token security guidance",
-            "link": "https://www.csoonline.com/article/4222867/ai-agent-authorization-risks-remain-a-gap-in-new-nist-cisa-token-security-guidance.html",
-            "summary": "",
-            "published_utc": "2026-09-16T15:42:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "PHP Webshell Campaign Targets WordPress Through Critical WooCommerce Plugin Bug",
             "link": "https://www.infosecurity-magazine.com/news/woocommerce-wholesale-lead-capture/",
@@ -643,13 +664,6 @@
             "title": "Major Cyber Vendors Turn to New UK Testing Program as MITRE Evaluations Face Changes",
             "link": "https://www.infosecurity-magazine.com/news/cyber-vendors-mitre-uk-testing/",
             "summary": "A group of cyber threat detection providers, including CrowdStrike, Palo Alto Networks and Sophos, have joined SE Labs’ PIVOT program",
-            "published_utc": "2026-09-16T09:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "You don’t have to join the hack-back program to inherit its risk",
-            "link": "https://www.csoonline.com/article/4222302/you-dont-have-to-join-the-hack-back-program-to-inherit-its-risk.html",
-            "summary": "",
             "published_utc": "2026-09-16T09:00:00+00:00"
         },
         {
@@ -1575,13 +1589,6 @@
             "link": "https://www.infosecurity-magazine.com/news/researchers-thousands-eaked-aws/",
             "summary": "Truffle Security says it found over 9000 publicly accessible and active AWS key pairs",
             "published_utc": "2026-08-24T08:05:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "Your Expired Visa Card Could Be ‘Zombified’ to Make Contactless Payments",
-            "link": "https://www.wired.com/story/security-news-this-week-your-expired-visa-card-could-be-zombiefied-to-make-contactless-payments/",
-            "summary": "Plus: Apple sends out an “unprecedented” number of spyware warnings, Ukraine hits a Russian ecommerce giant with cyber and drone attacks, and more.",
-            "published_utc": "2026-08-22T10:30:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -3269,13 +3276,6 @@
             "link": "https://www.welivesecurity.com/en/business-security/big-catch-how-whaling-attacks-target-top-executives/",
             "summary": "Is your organization’s senior leadership vulnerable to a cyber-harpooning? Learn how to keep them safe.",
             "published_utc": "2025-12-09T10:00:00+00:00"
-        },
-        {
-            "source": "WeLiveSecurity",
-            "title": "Phishing, privileges and passwords: Why identity is critical to improving cybersecurity posture",
-            "link": "https://www.welivesecurity.com/en/business-security/phishing-privileges-passwords-identity-cybersecurity-posture/",
-            "summary": "Identity is effectively the new network boundary. It must be protected at all costs.",
-            "published_utc": "2025-12-04T10:00:00+00:00"
         },
         {
             "source": "Threatpost",
