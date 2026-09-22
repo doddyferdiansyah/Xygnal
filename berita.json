@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2026-09-22T18:33:41.549029+00:00",
+    "lastUpdatedUTC": "2026-09-22T21:49:54.068929+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Rogue external MFA providers can steal passwords during logins",
+            "link": "https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/",
+            "summary": "Security researchers developed an attack that lets hackers with privileged access register a rogue external MFA provider that steals users' passwords ...",
+            "published_utc": "2026-09-22T21:45:45+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Sweden fines Miljödata $183,000 over breach affecting 2.2 million",
+            "link": "https://www.bleepingcomputer.com/news/security/sweden-fines-milj-data-183-000-over-breach-affecting-22-million/",
+            "summary": "Sweden's data privacy regulator, IMY, has imposed a $183,000 (SEK 1.8 million) fine on IT systems provider Miljödata for inadequate security measures ...",
+            "published_utc": "2026-09-22T21:40:37+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Microsoft’s EvilTokens takedown sheds light on state of AI-powered cybercrime",
+            "link": "https://www.csoonline.com/article/4225175/microsofts-eviltokens-takedown-sheds-light-on-state-of-ai-powered-cybercrime.html",
+            "summary": "",
+            "published_utc": "2026-09-22T20:40:34+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Chinese hackers exploit WordPress, Zyxel flaws to steal govt data",
+            "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/",
+            "summary": "A Chinese-speaking threat actor has been exploiting vulnerabilities in ZyXEL GS1900 Smart Managed Switches and WordPress to steal sensitive data from ...",
+            "published_utc": "2026-09-22T20:35:24+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach",
+            "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
+            "summary": "The ShinyHunters extortion gang claims it breached FBI systems using a new Oracle PeopleSoft zero-day vulnerability, gaining access to internal servic...",
+            "published_utc": "2026-09-22T19:13:29+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "New ClosedQuorum Windows malware uses AI for attack decisions",
@@ -240,13 +275,6 @@
             "published_utc": "2026-09-21T18:23:11+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Microsoft to retire Microsoft 365 Companion apps in December",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-retire-microsoft-365-companion-apps-in-december/",
-            "summary": "Microsoft will retire the Calendar, People, and Files Microsoft 365 companion apps on December 16 and has asked admins to remove them from managed dev...",
-            "published_utc": "2026-09-21T17:54:49+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "Google Hit With $463 Million Fine for EU Location Data Rule Breach",
             "link": "https://www.securityweek.com/google-hit-with-463-million-fine-for-eu-location-data-rule-breach/",
@@ -268,25 +296,11 @@
             "published_utc": "2026-09-21T16:07:21+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Google fined €403 million over location data privacy violations",
-            "link": "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/",
-            "summary": "Ireland's Data Protection Commission (DPC) has fined Google €403 million ($463M) for multiple GDPR violations related to processing users' location da...",
-            "published_utc": "2026-09-21T15:41:22+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Google Hit with €403m GDPR Fine Over Location Data Practices",
             "link": "https://www.infosecurity-magazine.com/news/google-hit-with-403m-gdpr-fine/",
             "summary": "The Irish DPC found that Google users were unaware that their location was being used to influence them with ads",
             "published_utc": "2026-09-21T15:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft fixes broken Excel copy and paste for all Office users",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/",
-            "summary": "Microsoft has fixed a known issue that causes copy-and-paste failures for Excel users after installing the September 2026 security updates. [...]",
-            "published_utc": "2026-09-21T14:42:37+00:00"
         },
         {
             "source": "Schneier",
@@ -308,13 +322,6 @@
             "link": "https://www.csoonline.com/article/4224400/new-npm-malware-finds-a-way-around-install-script-defenses-2.html",
             "summary": "",
             "published_utc": "2026-09-21T14:27:49+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "FBI's CJIS v6.1: What Security Teams Need to Know.",
-            "link": "https://www.bleepingcomputer.com/news/security/fbis-cjis-v61-what-security-teams-need-to-know/",
-            "summary": "The FBI's CJIS Security Policy v6.1 strengthens requirements around encryption and vulnerability scanning while continuing the shift toward more conti...",
-            "published_utc": "2026-09-21T14:02:12+00:00"
         },
         {
             "source": "CSO Online",
@@ -623,13 +630,6 @@
             "link": "https://www.csoonline.com/article/4223011/16-governance-tools-for-securing-your-ai-fleet.html",
             "summary": "",
             "published_utc": "2026-09-17T08:25:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "LinkedIn fights for the right to tell customers when the feds want their data",
-            "link": "https://www.csoonline.com/article/4222946/linkedin-fights-for-the-right-to-tell-customers-when-the-feds-want-their-data.html",
-            "summary": "",
-            "published_utc": "2026-09-16T19:50:34+00:00"
         },
         {
             "source": "KrebsOnSecurity",
