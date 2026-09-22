@@ -1,6 +1,118 @@
 {
-    "lastUpdatedUTC": "2026-09-22T09:06:47.208583+00:00",
+    "lastUpdatedUTC": "2026-09-22T14:25:04.544498+00:00",
     "articles": [
+        {
+            "source": "InfosecurityMag",
+            "title": "North Korean Attackers Hit 30,000 Devices and Steal $10.7m",
+            "link": "https://www.infosecurity-magazine.com/news/north-korean-waterplum-30000/",
+            "summary": "WaterPlum compromised 30,000 devices and took funds or credentials from 7000 crypto wallets",
+            "published_utc": "2026-09-22T14:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Nightmare Eclipse Drops New Microsoft Defender Exploit After Revealing Identity",
+            "link": "https://www.securityweek.com/nightmare-eclipse-drops-new-microsoft-defender-exploit-after-revealing-identity/",
+            "summary": "",
+            "published_utc": "2026-09-22T13:26:51+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Beware these fake websites selling subscriptions to AI assistants",
+            "link": "https://www.csoonline.com/article/4224923/beware-these-fake-websites-selling-subscriptions-to-ai-assistants-2.html",
+            "summary": "",
+            "published_utc": "2026-09-22T13:11:29+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "AI Incident Response Readiness Lags Behind AI Adoption, ISACA Finds",
+            "link": "https://www.infosecurity-magazine.com/news/orgs-lack-ai-incident-response/",
+            "summary": "A new report by ISACA found that 71% of orgs have not run AI incident response exercises as teams face rising pressure",
+            "published_utc": "2026-09-22T13:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Webinar tomorrow: Inside real-world Google Workspace breaches",
+            "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-inside-real-world-google-workspace-breaches/",
+            "summary": "Tomorrow's webinar examines real Google Workspace breaches involving social engineering and malicious OAuth applications, from initial access through ...",
+            "published_utc": "2026-09-22T12:57:07+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "D-Link warns of max severity zero-day bug in DIR-822A routers",
+            "link": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/",
+            "summary": "D-Link warned customers of a maximum-severity vulnerability (CVE-2026-86296) with public proof-of-concept (PoC) exploit code and no patch, affecting l...",
+            "published_utc": "2026-09-22T12:48:06+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Only 13% of OT Network Segments Are Fully Isolated: Analysis",
+            "link": "https://www.securityweek.com/only-13-of-ot-network-segments-are-fully-isolated-analysis/",
+            "summary": "",
+            "published_utc": "2026-09-22T12:24:30+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Network Segmentation Failures Are Expanding the Corporate Attack Surface",
+            "link": "https://www.infosecurity-magazine.com/news/segmentation-failures-expanding/",
+            "summary": "Forescout warns that incomplete network segmentation is widening the potential blast radius of attacks",
+            "published_utc": "2026-09-22T12:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Recent ZyXEL Switch Vulnerability Exploited by Chinese Hackers",
+            "link": "https://www.securityweek.com/recent-zyxel-switch-vulnerability-exploited-by-chinese-hackers/",
+            "summary": "",
+            "published_utc": "2026-09-22T11:55:20+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Malicious B-tree NPM Package Accumulates Millions of Downloads",
+            "link": "https://www.securityweek.com/malicious-b-tree-npm-package-accumulates-millions-of-downloads/",
+            "summary": "",
+            "published_utc": "2026-09-22T11:33:59+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "GPT-6 Astra Breaks an Old Enigma Message",
+            "link": "https://www.schneier.com/blog/archives/2026/09/gpt-6-astra-breaks-an-old-enigma-message.html",
+            "summary": "",
+            "published_utc": "2026-09-22T11:02:45+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "AI Drives Surge in Bot and API Threats",
+            "link": "https://www.infosecurity-magazine.com/news/ai-drives-surge-in-bot-and-api/",
+            "summary": "Akamai report warns of increase in bot traffic, API threats, chatbot leaks and other AI-related threats",
+            "published_utc": "2026-09-22T10:30:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "WordPress Patches ‘Click2Shell’ Vulnerability",
+            "link": "https://www.securityweek.com/wordpress-patches-click2shell-vulnerability/",
+            "summary": "",
+            "published_utc": "2026-09-22T10:22:27+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "A New Tool Found Malware That’s Guided by an AI Hive Mind—No Humans in Sight",
+            "link": "https://www.wired.com/story/a-tool-for-tracking-ai-integrated-malware-uncovered-an-autonomous-command-system/",
+            "summary": "Cisco Talos researchers created a new framework for identifying malware and hacking tools that rely on AI chatbots—and quickly discovered something un...",
+            "published_utc": "2026-09-22T10:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "New Windows Defender zero-day blocks Microsoft antivirus updates",
+            "link": "https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/",
+            "summary": "Over the weekend, security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) released another Microsoft Defender zero-day exploit that bl...",
+            "published_utc": "2026-09-22T09:55:11+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "CISOs Must Update Incident Response Playbooks for Multimodal Deepfakes, Gartner Warns",
+            "link": "https://www.infosecurity-magazine.com/news/update-incident-response/",
+            "summary": "Gartner warns that CISOs must update incident response playbooks as AI-powered deepfakes make social engineering attacks more convincing and harder to...",
+            "published_utc": "2026-09-22T09:30:00+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "The cyber AI parity window now has a deadline",
@@ -163,13 +275,6 @@
             "published_utc": "2026-09-21T14:02:12+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Dragos Completes NetRise and runZero Acquisitions Following Accenture Deal",
-            "link": "https://www.securityweek.com/dragos-completes-netrise-and-runzero-acquisitions-following-accenture-deal/",
-            "summary": "",
-            "published_utc": "2026-09-21T14:00:13+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Orchid Security Introduces AI Agent Readiness Controls Featuring Continuous Identity Monitoring and Kill-Switch Capabilities",
             "link": "https://www.csoonline.com/article/4224374/orchid-security-introduces-ai-agent-readiness-controls-featuring-continuous-identity-monitoring-and-kill-switch-capabilities.html",
@@ -191,25 +296,11 @@
             "published_utc": "2026-09-21T13:16:20+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "RatHat Android Trojan Uses AI for Automation",
-            "link": "https://www.securityweek.com/rathat-android-trojan-uses-ai-for-automation/",
-            "summary": "",
-            "published_utc": "2026-09-21T12:51:41+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "ShinyHunters Claim Hack of Rival Ransomware Gang Clop",
             "link": "https://www.infosecurity-magazine.com/news/shinyhunters-claim-hack-of-clop/",
             "summary": "ShinyHunters has claimed responsibility for hacking the Clop ransomware group, defacing its leak site and alleging theft of key operational data",
             "published_utc": "2026-09-21T12:30:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Rust Team Members and Popular Crate Owners Targeted via Video Calls",
-            "link": "https://www.securityweek.com/rust-team-members-and-popular-crate-owners-targeted-via-video-calls/",
-            "summary": "",
-            "published_utc": "2026-09-21T11:57:35+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -226,25 +317,11 @@
             "published_utc": "2026-09-21T11:45:54+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "CrowdSec Confirms Source Code Stolen in Supply Chain Attack",
-            "link": "https://www.securityweek.com/crowdsec-confirms-source-code-stolen-in-supply-chain-attack/",
-            "summary": "",
-            "published_utc": "2026-09-21T10:55:46+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
             "link": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
             "summary": "Officials discussed setting up a mechanism for the two countries to notify each other of AI incidents which could threaten national security.",
             "published_utc": "2026-09-21T10:34:43+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Colorado Water Utilities Hit by Cyberattacks Targeting OT Systems",
-            "link": "https://www.securityweek.com/colorado-water-utilities-hit-by-cyberattacks-targeting-ot-systems/",
-            "summary": "",
-            "published_utc": "2026-09-21T10:03:44+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -294,27 +371,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/",
             "summary": "Researchers escaped OpenAI's Codex sandbox two ways, one running commands on a developer's machine from its most locked-down mode. OpenAI has patched ...",
             "published_utc": "2026-09-20T12:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "BragJack attacks hijack AI browser agents through malicious extensions",
-            "link": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
-            "summary": "BragJack, a proof-of-concept attack from Forever Security's Gal Weizman, hijacks the AI assistants in Chrome, Edge, Opera Neon, Perplexity Comet, and ...",
-            "published_utc": "2026-09-19T14:56:31+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "North Korean WaterPlum hackers infected 30,000 devices worldwide",
-            "link": "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/",
-            "summary": "A joint law enforcement advisory warns that the North Korean hacking group WaterPlum compromised at least 30,000 devices worldwide from December 2025 ...",
-            "published_utc": "2026-09-19T14:05:15+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
-            "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/",
-            "summary": "The ShinyHunters extortion gang breached the Clop (aka Cl0p) ransomware operation's data leak site, defacing the Tor site and allegedly stealing serve...",
-            "published_utc": "2026-09-19T13:48:32+00:00"
         },
         {
             "source": "WIRED Security",
@@ -597,13 +653,6 @@
             "published_utc": "2026-09-16T16:19:26+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Oracle’s September patches put Fusion Middleware back in the hot seat",
-            "link": "https://www.csoonline.com/article/4222875/oracles-september-patches-put-fusion-middleware-back-in-the-hot-seat-2.html",
-            "summary": "",
-            "published_utc": "2026-09-16T15:54:18+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "PHP Webshell Campaign Targets WordPress Through Critical WooCommerce Plugin Bug",
             "link": "https://www.infosecurity-magazine.com/news/woocommerce-wholesale-lead-capture/",
@@ -791,13 +840,6 @@
             "link": "https://www.infosecurity-magazine.com/news/revolut-data-breach-fake-government/",
             "summary": "An unauthorized party used a legitimate government email domain to fraudulently request Revolut customer data",
             "published_utc": "2026-09-14T11:20:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Microsoft’s Patching",
-            "link": "https://www.schneier.com/blog/archives/2026/09/microsofts-patching.html",
-            "summary": "",
-            "published_utc": "2026-09-14T11:03:26+00:00"
         },
         {
             "source": "WIRED Security",
@@ -1519,13 +1561,6 @@
             "link": "https://www.infosecurity-magazine.com/news/fake-recruiter-scams-corporate/",
             "summary": "RecruitTrap campaigns use mobile-optimized phishing pages to target enterprise credentials",
             "published_utc": "2026-08-25T13:00:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "The County Prosecutors Who Became ICE Informants",
-            "link": "https://www.wired.com/story/the-county-prosecutors-who-became-ice-informants/",
-            "summary": "Illinois prosecutors shared defendants’ personal data with federal immigration agents without criminal warrants, public disclosure, or legislative ove...",
-            "published_utc": "2026-08-25T11:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2690,46 +2725,11 @@
             "published_utc": "2026-07-14T12:00:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "Lidl Notifies Customers of Third-Party Data Breach",
-            "link": "https://www.infosecurity-magazine.com/news/lidl-notifies-customers-of/",
-            "summary": "Supermarket giant Lidl has revealed details of a supplier breach impacting customer data",
-            "published_utc": "2026-07-14T09:43:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "Forgotten UEFI shims undermining Secure Boot",
             "link": "https://www.welivesecurity.com/en/eset-research/forgotten-uefi-shims-undermining-secure-boot/",
             "summary": "ESET researchers discovered 11 vulnerable UEFI shim bootloaders signed by Microsoft that allow attackers to bypass UEFI Secure Boot by exploiting deca...",
             "published_utc": "2026-07-14T08:53:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Five Charged in “Russian Coms” Fraud Platform Case",
-            "link": "https://www.infosecurity-magazine.com/news/five-charged-in-russian-coms-fraud/",
-            "summary": "Five UK residents have been charged in relation to supplying Russian Coms fraud devices and apps",
-            "published_utc": "2026-07-14T08:21:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Open Directory Exposes Three Evilginx Phishing Operators",
-            "link": "https://www.infosecurity-magazine.com/news/open-directory-exposes-evilginx/",
-            "summary": "Misconfigured server exposed three phishing operators running Evilginx forks to bypass MFA",
-            "published_utc": "2026-07-13T15:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Pakistani Police Systems Hit by Chinese and Indian Espionage",
-            "link": "https://www.infosecurity-magazine.com/news/chinese-indian-espionage-pakistani/",
-            "summary": "Chinese and Indian spies converged on the same Balochistan police force, SentinelLabs found",
-            "published_utc": "2026-07-13T14:45:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Novel OAuth Client ID Spoofing Technique Targets Cloud Environments",
-            "link": "https://www.infosecurity-magazine.com/news/novel-spoofing-technique-targets/",
-            "summary": "New research reveals cyber-attackers can spoof OAuth Client IDs in Microsoft Entra ID, creating a stealthy path into cloud environments",
-            "published_utc": "2026-07-13T13:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
