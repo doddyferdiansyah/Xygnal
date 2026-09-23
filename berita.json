@@ -1,12 +1,40 @@
 {
-    "lastUpdatedUTC": "2026-09-23T15:21:53.835073+00:00",
+    "lastUpdatedUTC": "2026-09-23T19:30:33.979677+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers start exploiting critical WordPress flaw for code execution",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
+            "summary": "Threat actors have moved from probing WordPress sites vulnerable to CVE-2026-87902 to exploiting the flaw to write files to disk that execute shell co...",
+            "published_utc": "2026-09-23T18:31:22+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Worries About an AI Internet Takeover Gain New Urgency Among Doomsday Scenarios",
+            "link": "https://www.securityweek.com/worries-about-an-ai-internet-takeover-gain-new-urgency-among-doomsday-scenarios/",
+            "summary": "",
+            "published_utc": "2026-09-23T18:05:58+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers",
+            "link": "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/",
+            "summary": "A financially motivated threat actor is using open-source AI agent frameworks to attack hundreds of online retailers at scale, stealing more than 600,...",
+            "published_utc": "2026-09-23T16:20:54+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "GitHub App keys can still enable takeovers long after they are forgotten",
             "link": "https://www.csoonline.com/article/4225633/github-app-keys-can-still-enable-takeovers-long-after-they-are-forgotten-2.html",
             "summary": "",
             "published_utc": "2026-09-23T15:12:48+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "How to fix your Windows File History if the September update broke it",
+            "link": "https://www.zdnet.com/business/windows-update-break-file-history-fix-available/",
+            "summary": "A bug in the Windows Sept patch Tuesday update may stop File History from working. But a new optional update fixes it.",
+            "published_utc": "2026-09-23T15:01:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -170,13 +198,6 @@
             "published_utc": "2026-09-23T07:13:49+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Check Point Patches Exploited Management Server Zero-Day",
-            "link": "https://www.securityweek.com/check-point-patches-exploited-management-server-zero-day/",
-            "summary": "",
-            "published_utc": "2026-09-23T06:14:03+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "AI malware just removed the human from the attack loop",
             "link": "https://www.csoonline.com/article/4225264/ai-malware-just-removed-the-human-from-the-attack-loop.html",
@@ -247,13 +268,6 @@
             "published_utc": "2026-09-22T16:30:05+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts",
-            "link": "https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/",
-            "summary": "The EvilTokens platform that compromised more than 12,000 Microsoft accounts at over 10,000 organizations has been disrupted in an effort led by Micro...",
-            "published_utc": "2026-09-22T15:00:00+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Z.ai disables coding assistant feature after flaw exposed enterprise code upload risk",
             "link": "https://www.csoonline.com/article/4225037/z-ai-disables-coding-assistant-feature-after-flaw-exposed-enterprise-code-upload-risk-2.html",
@@ -280,13 +294,6 @@
             "link": "https://www.infosecurity-magazine.com/news/orgs-lack-ai-incident-response/",
             "summary": "A new report by ISACA found that 71% of orgs have not run AI incident response exercises as teams face rising pressure",
             "published_utc": "2026-09-22T13:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Webinar tomorrow: Inside real-world Google Workspace breaches",
-            "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-inside-real-world-google-workspace-breaches/",
-            "summary": "Tomorrow's webinar examines real Google Workspace breaches involving social engineering and malicious OAuth applications, from initial access through ...",
-            "published_utc": "2026-09-22T12:57:07+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1043,13 +1050,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ofac-sanctions-chinese-scam/",
             "summary": "The US Treasury has placed sanctions on notorious Chinese cybercrime marketplace Xinbi Guarantee",
             "published_utc": "2026-09-10T08:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The iPhone 17 and other older models just got a surprise $100 price hike",
-            "link": "https://www.zdnet.com/business/iphone-17-older-models-100-price-hike/",
-            "summary": "Apple quietly increased prices across its existing lineup after revealing its latest devices. Here’s why.",
-            "published_utc": "2026-09-09T22:22:42+00:00"
         },
         {
             "source": "WIRED Security",
