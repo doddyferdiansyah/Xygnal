@@ -1,6 +1,83 @@
 {
-    "lastUpdatedUTC": "2026-09-23T05:34:26.546405+00:00",
+    "lastUpdatedUTC": "2026-09-23T10:56:38.951777+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Chrome 154 Patches 108 Vulnerabilities",
+            "link": "https://www.securityweek.com/chrome-154-patches-108-vulnerabilities/",
+            "summary": "",
+            "published_utc": "2026-09-23T10:36:07+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "A Look at AI Doomsday Scenarios That Researchers Say Could Put Humanity at Risk",
+            "link": "https://www.securityweek.com/a-look-at-ai-doomsday-scenarios-that-researchers-say-could-put-humanity-at-risk/",
+            "summary": "",
+            "published_utc": "2026-09-23T10:20:36+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Outerlimit Raises $16 Million to Stop Rogue AI Agents From Causing Harm",
+            "link": "https://www.securityweek.com/outerlimit-raises-16-million-to-stop-rogue-ai-agents-from-causing-harm/",
+            "summary": "",
+            "published_utc": "2026-09-23T10:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Arista Urges Immediate Patching of Exploited VCO Zero-Day",
+            "link": "https://www.securityweek.com/arista-urges-immediate-patching-of-exploited-vco-zero-day/",
+            "summary": "",
+            "published_utc": "2026-09-23T08:33:06+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "EU Auditors Warn Information-Sharing Gaps Are Hindering Cyber Incident Response",
+            "link": "https://www.infosecurity-magazine.com/news/eu-auditors-slam-blocs-cyberinfo/",
+            "summary": "The EU Court of Auditors has criticized EU shortcomings in responding to major cyber incidents",
+            "published_utc": "2026-09-23T08:30:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Okta bets on identity to control AI agents, but is identity enough?",
+            "link": "https://www.csoonline.com/article/4225230/okta-bets-on-identity-to-control-ai-agents-but-is-identity-alone-enough.html",
+            "summary": "",
+            "published_utc": "2026-09-23T08:25:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Ryuk ransomware member sentenced to 24 months in prison",
+            "link": "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/",
+            "summary": "An Armenian man was sentenced to 24 months in prison and 3 years of supervised release for hacking U.S. companies and encrypting their systems in Ryuk...",
+            "published_utc": "2026-09-23T08:20:05+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Critical F5 BIG-IP Vulnerability Exploited as Zero-Day",
+            "link": "https://www.securityweek.com/critical-f5-big-ip-vulnerability-exploited-as-zero-day/",
+            "summary": "",
+            "published_utc": "2026-09-23T07:34:18+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/",
+            "summary": "F5 has released security updates to address a critical BIG-IP APM zero-day vulnerability being exploited in remote code execution attacks. [...]",
+            "published_utc": "2026-09-23T07:17:23+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "ShinyHunters Claims FBI Hack, Demands Retraction of Threat Report",
+            "link": "https://www.securityweek.com/shinyhunters-claims-fbi-hack-demands-retraction-of-threat-report/",
+            "summary": "",
+            "published_utc": "2026-09-23T07:13:49+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Check Point Patches Exploited Management Server Zero-Day",
+            "link": "https://www.securityweek.com/check-point-patches-exploited-management-server-zero-day/",
+            "summary": "",
+            "published_utc": "2026-09-23T06:14:03+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "AI malware just removed the human from the attack loop",
@@ -142,32 +219,11 @@
             "published_utc": "2026-09-22T12:48:06+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Only 13% of OT Network Segments Are Fully Isolated: Analysis",
-            "link": "https://www.securityweek.com/only-13-of-ot-network-segments-are-fully-isolated-analysis/",
-            "summary": "",
-            "published_utc": "2026-09-22T12:24:30+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Network Segmentation Failures Are Expanding the Corporate Attack Surface",
             "link": "https://www.infosecurity-magazine.com/news/segmentation-failures-expanding/",
             "summary": "Forescout warns that incomplete network segmentation is widening the potential blast radius of attacks",
             "published_utc": "2026-09-22T12:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Recent ZyXEL Switch Vulnerability Exploited by Chinese Hackers",
-            "link": "https://www.securityweek.com/recent-zyxel-switch-vulnerability-exploited-by-chinese-hackers/",
-            "summary": "",
-            "published_utc": "2026-09-22T11:55:20+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Malicious B-tree NPM Package Accumulates Millions of Downloads",
-            "link": "https://www.securityweek.com/malicious-b-tree-npm-package-accumulates-millions-of-downloads/",
-            "summary": "",
-            "published_utc": "2026-09-22T11:33:59+00:00"
         },
         {
             "source": "Schneier",
@@ -182,13 +238,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ai-drives-surge-in-bot-and-api/",
             "summary": "Akamai report warns of increase in bot traffic, API threats, chatbot leaks and other AI-related threats",
             "published_utc": "2026-09-22T10:30:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "WordPress Patches ‘Click2Shell’ Vulnerability",
-            "link": "https://www.securityweek.com/wordpress-patches-click2shell-vulnerability/",
-            "summary": "",
-            "published_utc": "2026-09-22T10:22:27+00:00"
         },
         {
             "source": "WIRED Security",
@@ -240,25 +289,11 @@
             "published_utc": "2026-09-22T08:53:09+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Japan Dismantles First North Korean Laptop Farm as US and Allies Detail Wider Scheme",
-            "link": "https://www.securityweek.com/japan-dismantles-first-north-korean-laptop-farm-as-us-and-allies-detail-wider-scheme/",
-            "summary": "",
-            "published_utc": "2026-09-22T08:37:06+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "CISOs can no longer ignore the nation-state threat",
             "link": "https://www.csoonline.com/article/4224629/ai-reshapes-the-nation-state-threat-landscape-for-cisos.html",
             "summary": "",
             "published_utc": "2026-09-22T08:25:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "US Proposes AI Incident Alert System in Talks With China, Bessent Says",
-            "link": "https://www.securityweek.com/us-proposes-ai-incident-alert-system-in-talks-with-china-bessent-says/",
-            "summary": "",
-            "published_utc": "2026-09-22T02:01:24+00:00"
         },
         {
             "source": "CSO Online",
@@ -273,27 +308,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/",
             "summary": "Ecommerce platform BigCommerce has alerted multiple merchants to data breaches after attackers compromised credentials for third-party Ribon applicati...",
             "published_utc": "2026-09-21T21:18:49+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "CISA alerts of active exploitation of three Linux kernel flaws",
-            "link": "https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/",
-            "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting three Linux kernel vulnerabilities, one of the...",
-            "published_utc": "2026-09-21T20:12:17+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "WordPress Click2Shell flaw lets hackers execute PHP on the server",
-            "link": "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/",
-            "summary": "Technical details and a proof-of-concept exploit have been published for a new WordPress cross-site request forgery (CSRF) vulnerability dubbed 'Click...",
-            "published_utc": "2026-09-21T18:23:11+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Google Hit With $463 Million Fine for EU Location Data Rule Breach",
-            "link": "https://www.securityweek.com/google-hit-with-463-million-fine-for-eu-location-data-rule-breach/",
-            "summary": "",
-            "published_utc": "2026-09-21T17:19:53+00:00"
         },
         {
             "source": "CSO Online",
@@ -574,13 +588,6 @@
             "link": "https://www.infosecurity-magazine.com/news/cisa-critical-infrastructure-cyber/",
             "summary": "CISA released guidance on using cyber decoys to detect & disrupt malicious activity inside networks",
             "published_utc": "2026-09-17T14:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Self-modifying AI agents expose a blind spot in enterprise security",
-            "link": "https://www.csoonline.com/article/4223334/self-modifying-ai-agents-expose-a-blind-spot-in-enterprise-security.html",
-            "summary": "",
-            "published_utc": "2026-09-17T13:32:52+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -2716,20 +2723,6 @@
             "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
             "summary": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple...",
             "published_utc": "2026-07-14T19:22:42+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "US: Pentagon Suspends CMMC Phase II Requirements for Defense Contractors",
-            "link": "https://www.infosecurity-magazine.com/news/us-pentagon-suspends-cmmc-2/",
-            "summary": "The US Department of Defense announced the immediate suspension of the CMMC Phase II requirements until further review",
-            "published_utc": "2026-07-14T15:28:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "New MacOS Malware Exploits Legitimate Developer ID to Pose as Apple Crash Reporter",
-            "link": "https://www.infosecurity-magazine.com/news/macos-malware-apple-crash-reporter/",
-            "summary": "Researchers at Jamf Threat Labs detail CrashStealer, which steals passwords, cryptocurrency wallets and more",
-            "published_utc": "2026-07-14T12:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
