@@ -1,6 +1,104 @@
 {
-    "lastUpdatedUTC": "2026-09-23T10:56:38.951777+00:00",
+    "lastUpdatedUTC": "2026-09-23T15:21:53.835073+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "GitHub App keys can still enable takeovers long after they are forgotten",
+            "link": "https://www.csoonline.com/article/4225633/github-app-keys-can-still-enable-takeovers-long-after-they-are-forgotten-2.html",
+            "summary": "",
+            "published_utc": "2026-09-23T15:12:48+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Hundreds of Leaked GitHub App Keys Still Authenticate",
+            "link": "https://www.infosecurity-magazine.com/news/hundreds-leaked-github-app-keys/",
+            "summary": "GitGuardian finds 474 leaked GitHub App keys still authenticating, including keys with admin access",
+            "published_utc": "2026-09-23T15:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "InfraTrust report warns network management systems under attack",
+            "link": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/",
+            "summary": "Attackers are increasingly targeting the management systems used to control enterprise infrastructure, with several critical vulnerabilities actively ...",
+            "published_utc": "2026-09-23T14:35:26+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "How One Kubernetes YAML Can Hand Over a GCP Organization",
+            "link": "https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/",
+            "summary": "A Kubernetes user with limited permissions can potentially gain control of an entire Google Cloud organization by exploiting the authority granted to ...",
+            "published_utc": "2026-09-23T14:01:11+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Windows Botnet x47.c Offers AI API Draining, 18 Attack Methods",
+            "link": "https://www.infosecurity-magazine.com/news/x47c-botnet-ai-api-draining-18/",
+            "summary": "Qrator found a Windows botnet advertised with AI API draining, credential theft and SOCKS5 proxying",
+            "published_utc": "2026-09-23T14:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Nearly 70% of workers use AI regularly now – but many get no time to upskill",
+            "link": "https://www.zdnet.com/innovation/workera-study-ai-skills-upskilling-2026/",
+            "summary": "ZDNET Exclusive: A new Workera report shows businesses and employees aren’t on the same page about AI upskilling. Here’s what organizations need to know.",
+            "published_utc": "2026-09-23T13:00:00+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "Meta’s Muse AI Assistant Rolled Out With a Serious Security Flaw",
+            "link": "https://www.wired.com/story/metas-muse-ai-agent-zero-day/",
+            "summary": "Meta says it issued a fix for the Muse zero-day vulnerability that would have let attackers do “whatever” they wanted on a victim’s Mac, highlighting ...",
+            "published_utc": "2026-09-23T12:54:58+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Arista patches actively exploited VeloCloud Orchestrator zero-day",
+            "link": "https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/",
+            "summary": "Arista Networks has released security patches for a zero-day flaw that is being actively exploited and affects VeloCloud Orchestrator (VCO) On-Prem de...",
+            "published_utc": "2026-09-23T12:29:53+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Honeywell: OT Security Teams Embrace AI, but Autonomy Still Rare",
+            "link": "https://www.securityweek.com/honeywell-ot-security-teams-embrace-ai-but-autonomy-still-rare/",
+            "summary": "",
+            "published_utc": "2026-09-23T12:17:28+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Ransomware Attacks Reach Record High for 2026",
+            "link": "https://www.infosecurity-magazine.com/news/ransomware-attacks-reach-record/",
+            "summary": "A total of 1073 firms fell victim to ransomware attacks globally in August, with the industrial sector the most affected, according to new NCC data",
+            "published_utc": "2026-09-23T12:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Adobe Patches Critical Flaws in Connect, AEM Forms",
+            "link": "https://www.securityweek.com/adobe-patches-critical-flaws-in-connect-aem-forms/",
+            "summary": "",
+            "published_utc": "2026-09-23T11:40:59+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "AI-Powered Phishing Platform EvilTokens Disrupted by Microsoft",
+            "link": "https://www.securityweek.com/ai-powered-phishing-platform-eviltokens-disrupted-by-microsoft/",
+            "summary": "",
+            "published_utc": "2026-09-23T11:23:30+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft: September Windows updates break Always On VPN connections",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections/",
+            "summary": "Microsoft warned that the September 2026 security updates may also break Always On VPN connections on some Windows 11 systems. [...]",
+            "published_utc": "2026-09-23T11:18:13+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Research on Models Engaging in Genie-Like Behavior",
+            "link": "https://www.schneier.com/blog/archives/2026/09/research-on-models-engaging-in-genie-like-behavior.html",
+            "summary": "",
+            "published_utc": "2026-09-23T11:03:36+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Chrome 154 Patches 108 Vulnerabilities",
@@ -128,13 +226,6 @@
             "published_utc": "2026-09-22T18:04:39+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "BigCommerce Data Stolen via Ribon Apps Hack",
-            "link": "https://www.securityweek.com/bigcommerce-data-stolen-via-ribon-apps-hack/",
-            "summary": "",
-            "published_utc": "2026-09-22T17:58:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Reducing shadow IT visibility gaps with Wazuh",
             "link": "https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/",
@@ -170,25 +261,11 @@
             "published_utc": "2026-09-22T14:56:08+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Cyera Raises $400 Million at $12+ Billion Valuation",
-            "link": "https://www.securityweek.com/cyera-raises-400-million-at-12-billion-valuation/",
-            "summary": "",
-            "published_utc": "2026-09-22T14:29:34+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "North Korean Attackers Hit 30,000 Devices and Steal $10.7m",
             "link": "https://www.infosecurity-magazine.com/news/north-korean-waterplum-30000/",
             "summary": "WaterPlum compromised 30,000 devices and took funds or credentials from 7000 crypto wallets",
             "published_utc": "2026-09-22T14:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Nightmare Eclipse Drops New Microsoft Defender Exploit After Revealing Identity",
-            "link": "https://www.securityweek.com/nightmare-eclipse-drops-new-microsoft-defender-exploit-after-revealing-identity/",
-            "summary": "",
-            "published_utc": "2026-09-22T13:26:51+00:00"
         },
         {
             "source": "CSO Online",
@@ -210,13 +287,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-inside-real-world-google-workspace-breaches/",
             "summary": "Tomorrow's webinar examines real Google Workspace breaches involving social engineering and malicious OAuth applications, from initial access through ...",
             "published_utc": "2026-09-22T12:57:07+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "D-Link warns of max severity zero-day bug in DIR-822A routers",
-            "link": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/",
-            "summary": "D-Link warned customers of a maximum-severity vulnerability (CVE-2026-86296) with public proof-of-concept (PoC) exploit code and no patch, affecting l...",
-            "published_utc": "2026-09-22T12:48:06+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -247,13 +317,6 @@
             "published_utc": "2026-09-22T10:00:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "New Windows Defender zero-day blocks Microsoft antivirus updates",
-            "link": "https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/",
-            "summary": "Over the weekend, security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) released another Microsoft Defender zero-day exploit that bl...",
-            "published_utc": "2026-09-22T09:55:11+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "CISOs Must Update Incident Response Playbooks for Multimodal Deepfakes, Gartner Warns",
             "link": "https://www.infosecurity-magazine.com/news/update-incident-response/",
@@ -282,13 +345,6 @@
             "published_utc": "2026-09-22T09:00:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "CISA orders feds to patch Zyxel flaw exploited for data theft",
-            "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/",
-            "summary": "​Attackers are now actively exploiting a high-severity vulnerability in Zyxel GS1900 series switches, according to the U.S. Cybersecurity and Infrastr...",
-            "published_utc": "2026-09-22T08:53:09+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "CISOs can no longer ignore the nation-state threat",
             "link": "https://www.csoonline.com/article/4224629/ai-reshapes-the-nation-state-threat-landscape-for-cisos.html",
@@ -301,13 +357,6 @@
             "link": "https://www.csoonline.com/article/4224570/gemini-broke-into-3-companies-but-google-kept-it-quiet-because-no-damage-was-done.html",
             "summary": "",
             "published_utc": "2026-09-22T01:02:19+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "BigCommerce alerts merchants of data breach linked to Ribon apps",
-            "link": "https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/",
-            "summary": "Ecommerce platform BigCommerce has alerted multiple merchants to data breaches after attackers compromised credentials for third-party Ribon applicati...",
-            "published_utc": "2026-09-21T21:18:49+00:00"
         },
         {
             "source": "CSO Online",
@@ -569,13 +618,6 @@
             "published_utc": "2026-09-17T15:46:10+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Security spending is growing — except for the typical CISO",
-            "link": "https://www.csoonline.com/article/4223455/security-spending-is-growing-except-for-the-typical-ciso.html",
-            "summary": "",
-            "published_utc": "2026-09-17T15:37:31+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "FamousSparrow Swaps SparrowDoor For New SparroWocky Backdoor",
             "link": "https://www.infosecurity-magazine.com/news/famoussparrow-sparrowocky-latin/",
@@ -828,13 +870,6 @@
             "published_utc": "2026-09-14T16:50:00+00:00"
         },
         {
-            "source": "Schneier",
-            "title": "Using AI for Weapons Development",
-            "link": "https://www.schneier.com/blog/archives/2026/09/using-ai-for-weapons-development.html",
-            "summary": "",
-            "published_utc": "2026-09-14T16:07:46+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Malicious Twitch Extension Exposes 31,000 Users' OAuth Tokens",
             "link": "https://www.infosecurity-magazine.com/news/malicious-twitch-extension-oauth/",
@@ -1022,13 +1057,6 @@
             "link": "https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/",
             "summary": "The City Attorney’s Office has asked Meta to explain how the harmful ads repeatedly ran on Facebook and Instagram. The company claims the ads are not ...",
             "published_utc": "2026-09-09T21:15:27+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "5 biggest Apple announcements from the iPhone Duo event",
-            "link": "https://www.zdnet.com/business/everything-apple-announced-at-its-iphone-18-event-duo/",
-            "summary": "Apple announced a new foldable called the iPhone Duo, the iPhone 18 Pro, AirPods 5, and new Apple Watches at its Surprise and Shine event in Cupertino...",
-            "published_utc": "2026-09-09T20:54:09+00:00"
         },
         {
             "source": "WIRED Security",
@@ -1512,13 +1540,6 @@
             "link": "https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/",
             "summary": "The AI giant acknowledges that it could have done far more to prevent its AI agents from going rogue. But it still fails to explain why it didn't see ...",
             "published_utc": "2026-08-26T19:16:42+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "FBI Disrupts Chinese Proxy Tools Used in Mass Hacking of US Agencies and Infrastructure",
-            "link": "https://www.wired.com/story/fbi-disrupts-chinese-proxy-tools-used-in-mass-hacking-of-us-agencies-and-infrastructure/",
-            "summary": "China’s hacking campaign targeted NASA, the Federal Reserve, the US Senate, the Justice Department, and more, according to the DOJ.",
-            "published_utc": "2026-08-26T17:57:06+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2695,27 +2716,6 @@
             "link": "https://www.infosecurity-magazine.com/news/compromised-logins-ransomware-entry/",
             "summary": "Research of incidents by Sophos finds that phishing, brute force attacks and other identity-based threats have surpassed software vulnerabilities as m...",
             "published_utc": "2026-07-15T12:45:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Progress Restores ShareFile Storage Zones Access After Security Warning",
-            "link": "https://www.infosecurity-magazine.com/news/progress-restores-sharefile/",
-            "summary": "Progress has restored access to its ShareFile Storage Zones Controller after a four-day suspension triggered by a credible external security threat",
-            "published_utc": "2026-07-15T12:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Microsoft Patches 570 CVEs in Record Patch Tuesday",
-            "link": "https://www.infosecurity-magazine.com/news/microsoft-570-cves-patch-tuesday/",
-            "summary": "Microsoft released fixes for a record 570 CVEs in its July Patch Tuesday update, as experts warn AI is dramatically accelerating vulnerability discove...",
-            "published_utc": "2026-07-15T09:20:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Government Updates UK’s National Risk Register with Cyber Warnings",
-            "link": "https://www.infosecurity-magazine.com/news/uk-national-risk-register-cyber/",
-            "summary": "The UK government is warning of the potential impact of catastrophic cyber-attacks",
-            "published_utc": "2026-07-15T08:48:00+00:00"
         },
         {
             "source": "KrebsOnSecurity",
