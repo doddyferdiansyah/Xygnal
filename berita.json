@@ -1,6 +1,83 @@
 {
-    "lastUpdatedUTC": "2026-09-24T13:19:20.225273+00:00",
+    "lastUpdatedUTC": "2026-09-24T18:16:35.798550+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Exposed GitLab project email addresses let attackers push code",
+            "link": "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/",
+            "summary": "Private GitLab email addresses that allow developers to push issues or tasks to a project are being deliberately exposed in READMEs, contributing guid...",
+            "published_utc": "2026-09-24T17:47:44+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Microsoft’s Surface Mouse is back, now with haptic feedback – and I need it",
+            "link": "https://www.zdnet.com/home-and-office/microsoft-surface-mouse-haptic-feedback-customizable/",
+            "summary": "Due October 13, the $80 Surface mouse packs an impressive array of features. I want one.",
+            "published_utc": "2026-09-24T16:22:13+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "AI agent kill switch urged by Okta-led alliance – how businesses could make it work",
+            "link": "https://www.zdnet.com/innovation/okta-blueprint-alliance-ai-agents-oauth-kill-switch/",
+            "summary": "In response to the emerging threat of rogue and shadow AI agents, here’s how the newly formed Blueprint Alliance seeks to help businesses secure their...",
+            "published_utc": "2026-09-24T16:01:19+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Microsoft integrates SOC capabilities with Defender for enterprises",
+            "link": "https://www.csoonline.com/article/4226195/microsoft-integrates-soc-capabilities-with-defender-for-enterprises.html",
+            "summary": "",
+            "published_utc": "2026-09-24T15:55:34+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Kontext Security Emerges With $4 Million for AI Agent Runtime Controls",
+            "link": "https://www.securityweek.com/kontext-security-emerges-with-4-million-for-ai-agent-runtime-controls/",
+            "summary": "",
+            "published_utc": "2026-09-24T15:52:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Emerging Ransomware Gang Uses Backup Destruction Threats to Pressure Victims",
+            "link": "https://www.infosecurity-magazine.com/news/ransomware-gang-uses-backup/",
+            "summary": "Ransom notes by n0n ransomware claim to take double extortion to a new level of danger for victims",
+            "published_utc": "2026-09-24T15:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "OpenAI Agents Probed Websites for Vulnerabilities While Fetching Public Data",
+            "link": "https://www.securityweek.com/openai-agents-probed-websites-for-vulnerabilities-while-fetching-public-data/",
+            "summary": "",
+            "published_utc": "2026-09-24T14:43:13+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "FedRAMP VDR & VER: Daily Scans Are Only the Beginning",
+            "link": "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/",
+            "summary": "FedRAMP's new VDR and VER requirements make vulnerability management more continuous, with faster scanning, tighter remediation deadlines, and stronge...",
+            "published_utc": "2026-09-24T14:02:12+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Is your Apple Watch 12 or Ultra 4 randomly restarting? Here’s the fix",
+            "link": "https://www.zdnet.com/tech/apple-watch-series-12-ultra-4-random-restarts-fix-update/",
+            "summary": "Some owners, including me, have reported sudden shutdowns while adjusting Apple Watch settings.",
+            "published_utc": "2026-09-24T13:42:11+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "On-prem VeloCloud Orchestrator under attack, only some versions patched",
+            "link": "https://www.csoonline.com/article/4226148/on-prem-velocloud-orchestrator-under-attack-only-some-versions-patched-2.html",
+            "summary": "",
+            "published_utc": "2026-09-24T13:35:04+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers now exploit critical Roundcube flaw in code injection attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/",
+            "summary": "A high-severity Roundcube Webmail vulnerability patched in May is now being actively exploited in attacks, according to the Canadian Centre for Cyber ...",
+            "published_utc": "2026-09-24T13:27:57+00:00"
+        },
         {
             "source": "InfosecurityMag",
             "title": "CISA Charts New \"Quality Era\" for Global CVE Program",
@@ -184,25 +261,11 @@
             "published_utc": "2026-09-23T19:53:54+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU Decoder",
-            "link": "https://www.securityweek.com/ionq-targets-quantum-error-correction-bottleneck-with-single-cpu-decoderionq-says-sin/",
-            "summary": "",
-            "published_utc": "2026-09-23T19:32:49+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Hackers start exploiting critical WordPress flaw for code execution",
             "link": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
             "summary": "Threat actors have moved from probing WordPress sites vulnerable to CVE-2026-87902 to exploiting the flaw to write files to disk that execute shell co...",
             "published_utc": "2026-09-23T18:31:22+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Worries About an AI Internet Takeover Gain New Urgency Among Doomsday Scenarios",
-            "link": "https://www.securityweek.com/worries-about-an-ai-internet-takeover-gain-new-urgency-among-doomsday-scenarios/",
-            "summary": "",
-            "published_utc": "2026-09-23T18:05:58+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -282,13 +345,6 @@
             "published_utc": "2026-09-23T12:00:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Microsoft: September Windows updates break Always On VPN connections",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections/",
-            "summary": "Microsoft warned that the September 2026 security updates may also break Always On VPN connections on some Windows 11 systems. [...]",
-            "published_utc": "2026-09-23T11:18:13+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Research on Models Engaging in Genie-Like Behavior",
             "link": "https://www.schneier.com/blog/archives/2026/09/research-on-models-engaging-in-genie-like-behavior.html",
@@ -315,20 +371,6 @@
             "link": "https://www.csoonline.com/article/4225230/okta-bets-on-identity-to-control-ai-agents-but-is-identity-alone-enough.html",
             "summary": "",
             "published_utc": "2026-09-23T08:25:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Ryuk ransomware member sentenced to 24 months in prison",
-            "link": "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/",
-            "summary": "An Armenian man was sentenced to 24 months in prison and 3 years of supervised release for hacking U.S. companies and encrypting their systems in Ryuk...",
-            "published_utc": "2026-09-23T08:20:05+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/",
-            "summary": "F5 has released security updates to address a critical BIG-IP APM zero-day vulnerability being exploited in remote code execution attacks. [...]",
-            "published_utc": "2026-09-23T07:17:23+00:00"
         },
         {
             "source": "CSO Online",
@@ -590,25 +632,11 @@
             "published_utc": "2026-09-18T21:06:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "CISA is ending its monthly vulnerability bulletin",
-            "link": "https://www.csoonline.com/article/4223933/cisa-is-ending-its-monthly-vulnerability-bulletin.html",
-            "summary": "",
-            "published_utc": "2026-09-18T16:52:04+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "An Undercover Google Analyst Infiltrated a Notorious Supply-Chain Hacking Gang",
             "link": "https://www.wired.com/story/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
             "summary": "TeamPCP pulled off the worst-ever software supply-chain hacking spree and breached thousands of companies. Now Google’s threat intelligence group says...",
             "published_utc": "2026-09-18T16:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "A zero-click RCE flaw in AI coding agents could have exposed enterprise systems",
-            "link": "https://www.csoonline.com/article/4223909/a-zero-click-rce-flaw-in-ai-coding-agents-could-have-exposed-enterprise-systems-2.html",
-            "summary": "",
-            "published_utc": "2026-09-18T15:42:30+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -1038,20 +1066,6 @@
             "published_utc": "2026-09-11T09:15:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Eager to try iOS 27’s cool AI features and upgraded Siri? Get ready for usage limits",
-            "link": "https://www.zdnet.com/innovation/how-apple-will-limit-your-ai-use/",
-            "summary": "A new Apple support page explains how Siri AI and other AI-powered tools in the new OS will be controlled.",
-            "published_utc": "2026-09-10T18:00:46+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Your friend with ‘nothing to hide’ is more likely to spy on you, study shows",
-            "link": "https://www.zdnet.com/tech/partner-has-nothing-to-hide-theyre-more-likely-to-spy-on-you/",
-            "summary": "New research explores behavioral trends behind that ‘nothing to hide’ phrase. Plus: 6 ways to improve your phone privacy.",
-            "published_utc": "2026-09-10T14:31:03+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "CISA Updates Insider Threat Guide With New Mitigation Advice",
             "link": "https://www.infosecurity-magazine.com/news/cisa-updates-insider-threat-guide/",
@@ -1113,13 +1127,6 @@
             "link": "https://www.wired.com/story/apple-doesnt-want-you-to-worry-about-the-new-apple-watchs-listening-features/",
             "summary": "The new Apple Watch includes several “intelligent” listening features that have privacy and security baked in. But the protections can’t change the fa...",
             "published_utc": "2026-09-09T19:14:26+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "T-Mobile will give you the iPhone 18 Pro for free – here’s how to preorder",
-            "link": "https://www.zdnet.com/business/tmobile-iphone-18-deal/",
-            "summary": "The iPhone 18 Pro and Pro Max offer an impressive battery and professional-quality camera system – and you can get one on T-Mobile.",
-            "published_utc": "2026-09-09T18:39:00+00:00"
         },
         {
             "source": "WIRED Security",
@@ -2716,13 +2723,6 @@
             "link": "https://www.infosecurity-magazine.com/news/chatgpt55-to-execute-full/",
             "summary": "Cybersecurity researchers tested Open AI GPT 5.5’s offensive cyber capabilities – and the results showed how effective a frontier LLM can be for hackers",
             "published_utc": "2026-07-16T13:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "\"Selfish Bravado\"  Behind TfL Cyber-Attack, Judge Says as Pair Jailed",
-            "link": "https://www.infosecurity-magazine.com/news/selfish-bravado-behind-tfl/",
-            "summary": "The perpetrators of the 2024 TfL cyber-attack have been jailed for five and a half years each after pleading guilty to Computer Misuse Act offences",
-            "published_utc": "2026-07-16T11:51:00+00:00"
         },
         {
             "source": "KrebsOnSecurity",
