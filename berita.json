@@ -1,6 +1,90 @@
 {
-    "lastUpdatedUTC": "2026-09-25T13:19:22.439795+00:00",
+    "lastUpdatedUTC": "2026-09-25T18:16:13.981293+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Elementor WordPress flaw lets attackers create admin accounts",
+            "link": "https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/",
+            "summary": "A cross-site request forgery (CSRF) vulnerability in the Elementor plugin for WordPress could allow an unauthenticated attacker to create administrato...",
+            "published_utc": "2026-09-25T18:13:33+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "AI tools help hacker break in for $25 per target",
+            "link": "https://www.csoonline.com/article/4226861/ai-tools-help-hacker-break-in-for-25-per-target.html",
+            "summary": "",
+            "published_utc": "2026-09-25T17:38:42+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/",
+            "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) warns that hackers are exploiting a critical authentication bypass vulnerability (CVE-2026...",
+            "published_utc": "2026-09-25T17:24:20+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "This one WatchOS 27 feature just solved my biggest issue with Apple Watch",
+            "link": "https://www.zdnet.com/uncategorized/watchos-27-update-fix-apple-watch/",
+            "summary": "Sometimes less is more, and the most helpful software update is the simplest.",
+            "published_utc": "2026-09-25T16:51:43+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Documentation placeholder domain used in ClickFix attacks",
+            "link": "https://www.csoonline.com/article/4226782/documentation-placeholder-domain-used-in-clickfix-attacks.html",
+            "summary": "",
+            "published_utc": "2026-09-25T16:42:48+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions",
+            "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions/",
+            "summary": "Anthropic now allows you to run Claude Code via cloud sessions without signing up for the research preview, and it's offering up to $250 in free usage...",
+            "published_utc": "2026-09-25T16:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "In Other News: Clop Leak Site Takeover, Docker Botnet Hunts AI Keys, Water Utility Exposure",
+            "link": "https://www.securityweek.com/in-other-news-clop-leak-site-takeover-docker-botnet-hunts-ai-keys-water-utility-exposure/",
+            "summary": "",
+            "published_utc": "2026-09-25T15:07:31+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "GitLab issue email’s only security is obscurity",
+            "link": "https://www.csoonline.com/article/4226741/gitlab-issue-emails-only-security-is-obscurity-2.html",
+            "summary": "",
+            "published_utc": "2026-09-25T15:05:22+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "OpenAI is preparing a $500 ChatGPT Pro Max plan with faster Codex",
+            "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-a-500-chatgpt-pro-max-plan-with-faster-codex/",
+            "summary": "OpenAI appears to be preparing a new ChatGPT Pro Max subscription that could cost $500 per month, but it's unclear when it'll begin rolling out. [...]",
+            "published_utc": "2026-09-25T14:54:33+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "With the Rise of AI Agents, SOC 2 Should Adapt or Risk Irrelevance",
+            "link": "https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/",
+            "summary": "AI agents can operate through human credentials and take actions that existing SOC 2 controls may not distinguish from human activity. Token Security ...",
+            "published_utc": "2026-09-25T14:51:10+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "North Korea Suspected in $351 Million Bitget Crypto Heist",
+            "link": "https://www.securityweek.com/north-korea-suspected-in-351-million-bitget-crypto-heist/",
+            "summary": "",
+            "published_utc": "2026-09-25T14:16:18+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Zero-Click Vulnerabilities in Salesforce Agentforce Expose Wider AI Agent Risk",
+            "link": "https://www.infosecurity-magazine.com/news/vulnerabilities-salesforce-ai/",
+            "summary": "The ‘SalesBleed’ set of weaknesses in Salesforce’s Agentforce agents exposed CRM data to attackers via prompt injection and DNS exfiltration",
+            "published_utc": "2026-09-25T13:30:00+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Microsoft plans to deprecate Windows Deployment Services",
@@ -233,25 +317,11 @@
             "published_utc": "2026-09-24T12:50:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "AI-Powered Campaign Targets Hundreds of Online Retailers",
-            "link": "https://www.securityweek.com/ai-powered-campaign-targets-hundreds-of-online-retailers/",
-            "summary": "",
-            "published_utc": "2026-09-24T12:48:14+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Windows 11 KB5124010 update released with 46 changes and fixes",
             "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124010-update-released-with-46-changes-and-fixes/",
             "summary": "Microsoft released the KB5124010 September 2026 non-security preview update for Windows 11 24H2 and 25H2, with 46 changes including Bluetooth improvem...",
             "published_utc": "2026-09-24T12:16:32+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Island Raises $400 Million at $6.4 Billion Valuation",
-            "link": "https://www.securityweek.com/island-raises-400-million-at-6-4-billion-valuation/",
-            "summary": "",
-            "published_utc": "2026-09-24T11:39:09+00:00"
         },
         {
             "source": "Schneier",
@@ -275,25 +345,11 @@
             "published_utc": "2026-09-24T10:46:56+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "CISA: Ransomware gangs now exploiting critical TeamCity flaw",
-            "link": "https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/",
-            "summary": "​The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies on Wednesday that ransomware gangs are now also exploiting a...",
-            "published_utc": "2026-09-24T10:42:37+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "OpenAI Agent Hacks Australian Medicare Portal",
             "link": "https://www.infosecurity-magazine.com/news/openai-hacks-australian-medicare/",
             "summary": "Australian PM Anthony Albanese criticized OpenAI’s response to the incident, which occurred in June 2026",
             "published_utc": "2026-09-24T10:15:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "OpenAI hacked Australian Medicare govt site, probed data providers",
-            "link": "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/",
-            "summary": "OpenAI agents targeted public data providers in multiple countries, probing some for vulnerabilities and exploiting a security weakness in an Australi...",
-            "published_utc": "2026-09-24T09:38:53+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -331,32 +387,11 @@
             "published_utc": "2026-09-24T08:25:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Microsoft fixes bug that broke Windows File History backup feature",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-backup-feature-broken-by-september-updates/",
-            "summary": "Microsoft has fixed a known issue that breaks the built-in File History backup feature on some Windows systems after installing the September 2026 sec...",
-            "published_utc": "2026-09-24T08:14:47+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Check Point hacked: The security software protecting your network has become a prime attack target",
             "link": "https://www.csoonline.com/article/4225812/check-point-hacked-the-security-software-protecting-your-network-has-become-a-prime-attack-target.html",
             "summary": "",
             "published_utc": "2026-09-24T02:05:30+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Placeholder domain used in dev docs now serves ClickFix attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/",
-            "summary": "The \"third-party.com\" domain, commonly used as a placeholder in developer documentation and code examples, is serving a fake Cloudflare verification p...",
-            "published_utc": "2026-09-23T22:46:01+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "New RemControl Android banking malware targets users in Europe and Canada",
-            "link": "https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/",
-            "summary": "A new Android malware-as-a-service (MaaS) platform called RemControl is targeting users through malvertising campaigns that impersonate the TVTap IPTV...",
-            "published_utc": "2026-09-23T21:25:13+00:00"
         },
         {
             "source": "CSO Online",
@@ -562,13 +597,6 @@
             "published_utc": "2026-09-22T01:02:19+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "After spending billions, OpenAI still has gaps in its cybersecurity",
-            "link": "https://www.csoonline.com/article/4224453/after-spending-billions-openai-still-has-gaps-in-its-cybersecurity.html",
-            "summary": "",
-            "published_utc": "2026-09-21T16:24:03+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "Claim up to $95 today from Apple’s Siri AI settlement – here’s how",
             "link": "https://www.zdnet.com/business/claim-your-payout-now-from-apple-siri-ai-settlement/",
@@ -595,20 +623,6 @@
             "link": "https://www.infosecurity-magazine.com/news/exvicy-clickfix-framework/",
             "summary": "Sekoia said Exvicy, a new ClickFix MaaS framework, reused code from rival service ErrTraffic",
             "published_utc": "2026-09-21T14:30:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "New npm malware finds a way around install script defenses",
-            "link": "https://www.csoonline.com/article/4224400/new-npm-malware-finds-a-way-around-install-script-defenses-2.html",
-            "summary": "",
-            "published_utc": "2026-09-21T14:27:49+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Orchid Security Introduces AI Agent Readiness Controls Featuring Continuous Identity Monitoring and Kill-Switch Capabilities",
-            "link": "https://www.csoonline.com/article/4224374/orchid-security-introduces-ai-agent-readiness-controls-featuring-continuous-identity-monitoring-and-kill-switch-capabilities.html",
-            "summary": "",
-            "published_utc": "2026-09-21T13:35:37+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1064,13 +1078,6 @@
             "link": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
             "summary": "The proposed class action alleges Meta illegally harvested people’s Facebook and Instagram photos to train its AI image-generation models and to build...",
             "published_utc": "2026-09-11T18:59:25+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Switzerland takes a Swiss Army knife to Microsoft 365",
-            "link": "https://www.zdnet.com/business/switzerland-replaces-microsoft-365-open-source-opendesk/",
-            "summary": "Two divisions of Switzerland’s government are shifting from Microsoft 365 to open-source openDesk. Here’s why.",
-            "published_utc": "2026-09-11T18:57:47+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2723,13 +2730,6 @@
             "link": "https://www.infosecurity-magazine.com/news/cisa-urgent-patch-fortinet/",
             "summary": "US government agencies have until July 19 to patch two critical Fortinet vulnerabilities",
             "published_utc": "2026-07-17T09:45:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "The Gentlemen Overtakes Qilin as Most Prolific Ransomware Threat",
-            "link": "https://www.infosecurity-magazine.com/news/the-gentlemen-most-prolific/",
-            "summary": "Analysis of ransomware incidents by ReliaQuest indicates a shift in the ransomware landscape",
-            "published_utc": "2026-07-17T09:00:00+00:00"
         },
         {
             "source": "KrebsOnSecurity",
