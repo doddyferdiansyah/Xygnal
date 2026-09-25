@@ -1,6 +1,111 @@
 {
-    "lastUpdatedUTC": "2026-09-25T07:14:08.297195+00:00",
+    "lastUpdatedUTC": "2026-09-25T13:19:22.439795+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft plans to deprecate Windows Deployment Services",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/",
+            "summary": "Microsoft announced it will deprecate the Windows Deployment Services (WDS) server role starting with the next Windows Server release. [...]",
+            "published_utc": "2026-09-25T12:40:59+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "CISA Election Security Plan Flags Patching Barriers, Voter Database Attacks",
+            "link": "https://www.securityweek.com/cisa-election-security-plan-flags-patching-barriers-voter-database-attacks/",
+            "summary": "",
+            "published_utc": "2026-09-25T12:39:12+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "CISA Unveils Election Security Plan Ahead of 2026 Midterms",
+            "link": "https://www.infosecurity-magazine.com/news/cisa-election-security-midterms/",
+            "summary": "The CISA plan provides guidance and resources for election officials to secure systems such as voter registration databases and voting machines",
+            "published_utc": "2026-09-25T12:30:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Your LG TV is constantly collecting your data – here’s how to stop it",
+            "link": "https://www.zdnet.com/home-and-office/lg-tv-data-collection-how-to-factory-reset-and-why-you-need-to/",
+            "summary": "Factory resetting your LG TV is the only way to remove certain data logs from its hardware.",
+            "published_utc": "2026-09-25T12:18:24+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Kosovar Owner of Rydox Marketplace Pleads Guilty in US Court",
+            "link": "https://www.securityweek.com/kosovar-owner-of-rydox-marketplace-pleads-guilty-in-us-court/",
+            "summary": "",
+            "published_utc": "2026-09-25T12:16:27+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Microsoft’s new Copilot app puts everything in one place – but the price is ‘evolving’",
+            "link": "https://www.zdnet.com/innovation/microsoft-new-copilot-unified-ai-app/",
+            "summary": "Microsoft says Copilot has gotten ‘actually really good.’ The new app has AI agents and can write code. So how much is all this going to cost?",
+            "published_utc": "2026-09-25T12:00:14+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Rydox marketplace admin pleads guilty, faces 22 years in prison",
+            "link": "https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/",
+            "summary": "A Kosovar national has pleaded guilty to operating Rydox, a large illegal online marketplace that sold stolen personal information, login credentials,...",
+            "published_utc": "2026-09-25T11:35:14+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "On Anthropic’s AI Misuse Report",
+            "link": "https://www.schneier.com/blog/archives/2026/09/on-anthropics-ai-misuse-report.html",
+            "summary": "",
+            "published_utc": "2026-09-25T11:07:22+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Windows, Linux, Android File Notification Systems Leak User Activity",
+            "link": "https://www.securityweek.com/windows-linux-android-file-notification-systems-leak-user-activity/",
+            "summary": "",
+            "published_utc": "2026-09-25T10:53:32+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft: Recent Windows updates cause desktop loading issues",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/",
+            "summary": "Microsoft has confirmed that some users may experience desktop loading issues, including black screens, after installing the August 2026 preview updat...",
+            "published_utc": "2026-09-25T10:30:38+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "RemControl Banking Trojan Gives Attackers Remote Control of Android Devices",
+            "link": "https://www.infosecurity-magazine.com/news/banking-trojan-remote-control/",
+            "summary": "The newly-discovered trojan abuses the Android Accessibility Service to gain control over victim devices and collect sensitive banking credentials",
+            "published_utc": "2026-09-25T09:30:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "‘SalesBleed’ Flaws in Salesforce Agentforce Enabled Zero-Click Data Exfiltration",
+            "link": "https://www.securityweek.com/salesbleed-flaws-in-salesforce-agentforce-enabled-zero-click-data-exfiltration/",
+            "summary": "",
+            "published_utc": "2026-09-25T09:27:51+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers steal $351.6 million in Bitget crypto exchange hack",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/",
+            "summary": "​Cryptocurrency exchange Bitget disclosed today that suspected North Korean hackers have stolen $351.6 million from its hot and warm wallets. [...]",
+            "published_utc": "2026-09-25T08:33:44+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Researchers Identify AliExpress Phishing Domains Before Registration",
+            "link": "https://www.infosecurity-magazine.com/news/aliexpress-phishing-flagged-early/",
+            "summary": "EfficientIP says it flagged AliExpress phishing domains before they were registered",
+            "published_utc": "2026-09-25T08:30:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Fixing Flock: The controls needed now that misuse patterns are clear",
+            "link": "https://www.csoonline.com/article/4225277/fixing-flock-the-controls-needed-now-that-misuse-patterns-are-clear.html",
+            "summary": "",
+            "published_utc": "2026-09-25T08:25:00+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Roundcube Webmail Vulnerability in Attackers’ Crosshairs",
@@ -156,20 +261,6 @@
             "published_utc": "2026-09-24T11:07:42+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "OT Security Guidance: NIST Drafts Updated Guide, CISA/FBI Advise on ICS Integrators",
-            "link": "https://www.securityweek.com/ot-security-guidance-nist-drafts-updated-guide-cisa-fbi-advise-on-ics-integrators/",
-            "summary": "",
-            "published_utc": "2026-09-24T11:05:16+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Begin at the End: How to Enable Agentic Remediation",
-            "link": "https://www.securityweek.com/begin-at-the-end-how-to-enable-agentic-remediation/",
-            "summary": "",
-            "published_utc": "2026-09-24T11:00:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "UK Government Shifts to Service-Led Cyber Governance After Stinging Audit",
             "link": "https://www.infosecurity-magazine.com/news/uk-government-service-led-cyber/",
@@ -191,25 +282,11 @@
             "published_utc": "2026-09-24T10:42:37+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "SolarWinds Patches Critical RCE Flaws in Observability Self-Hosted",
-            "link": "https://www.securityweek.com/solarwinds-patches-critical-rce-flaws-in-observability-self-hosted/",
-            "summary": "",
-            "published_utc": "2026-09-24T10:40:40+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "OpenAI Agent Hacks Australian Medicare Portal",
             "link": "https://www.infosecurity-magazine.com/news/openai-hacks-australian-medicare/",
             "summary": "Australian PM Anthony Albanese criticized OpenAI’s response to the incident, which occurred in June 2026",
             "published_utc": "2026-09-24T10:15:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Astrana Health Data Breach Impacts Private, Confidential Information",
-            "link": "https://www.securityweek.com/astrana-health-data-breach-impacts-private-confidential-information/",
-            "summary": "",
-            "published_utc": "2026-09-24T09:56:04+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -230,6 +307,13 @@
             "title": "Aviation solved the vigilance problem. AI just gave security a worse one",
             "link": "https://www.csoonline.com/article/4225613/aviation-solved-the-vigilance-problem-ai-just-gave-security-a-worse-one.html",
             "summary": "",
+            "published_utc": "2026-09-24T09:00:00+00:00"
+        },
+        {
+            "source": "WeLiveSecurity",
+            "title": "Been told to pay at a Bitcoin ATM? Read this first",
+            "link": "https://www.welivesecurity.com/en/scams/been-told-pay-bitcoin-atm-read-first/",
+            "summary": "Crypto ATM scams often follow a predictable script – here’s how to recognize it and what to do if you’ve already been caught out",
             "published_utc": "2026-09-24T09:00:00+00:00"
         },
         {
@@ -282,27 +366,6 @@
             "published_utc": "2026-09-23T20:44:25+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw",
-            "link": "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/",
-            "summary": "Cybersecurity company Check Point has confirmed active exploitation of CVE-2026-85102, a pre-authentication remote code execution (RCE) vulnerability ...",
-            "published_utc": "2026-09-23T19:53:54+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Hackers start exploiting critical WordPress flaw for code execution",
-            "link": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
-            "summary": "Threat actors have moved from probing WordPress sites vulnerable to CVE-2026-87902 to exploiting the flaw to write files to disk that execute shell co...",
-            "published_utc": "2026-09-23T18:31:22+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers",
-            "link": "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/",
-            "summary": "A financially motivated threat actor is using open-source AI agent frameworks to attack hundreds of online retailers at scale, stealing more than 600,...",
-            "published_utc": "2026-09-23T16:20:54+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "GitHub App keys can still enable takeovers long after they are forgotten",
             "link": "https://www.csoonline.com/article/4225633/github-app-keys-can-still-enable-takeovers-long-after-they-are-forgotten-2.html",
@@ -322,13 +385,6 @@
             "link": "https://www.infosecurity-magazine.com/news/hundreds-leaked-github-app-keys/",
             "summary": "GitGuardian finds 474 leaked GitHub App keys still authenticating, including keys with admin access",
             "published_utc": "2026-09-23T15:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "InfraTrust report warns network management systems under attack",
-            "link": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/",
-            "summary": "Attackers are increasingly targeting the management systems used to control enterprise infrastructure, with several critical vulnerabilities actively ...",
-            "published_utc": "2026-09-23T14:35:26+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -594,13 +650,6 @@
             "title": "Revolut Customers Targeted with New Wave of Phishing Attacks",
             "link": "https://www.infosecurity-magazine.com/news/revolut-customers-targeted-wave/",
             "summary": "Following a major data breach, Revolut customers are being sent convincing phishing messages",
-            "published_utc": "2026-09-21T09:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Revoking the token didn’t kill the backdoor",
-            "link": "https://www.csoonline.com/article/4223975/revoking-the-token-didnt-kill-the-backdoor.html",
-            "summary": "",
             "published_utc": "2026-09-21T09:00:00+00:00"
         },
         {
@@ -933,13 +982,6 @@
             "published_utc": "2026-09-15T11:01:41+00:00"
         },
         {
-            "source": "Schneier",
-            "title": "On the NSA’s Supercomputer from the 1960s",
-            "link": "https://www.schneier.com/blog/archives/2026/09/on-the-nsas-supercomputer-from-the-1960s.html",
-            "summary": "",
-            "published_utc": "2026-09-15T10:16:24+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Microsoft Releases Emergency Patch to Fix RDS Vulnerability",
             "link": "https://www.infosecurity-magazine.com/news/microsoft-releases-emergency-patch/",
@@ -1031,25 +1073,11 @@
             "published_utc": "2026-09-11T18:57:47+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Your older iPhone just got free satellite service for another year – here’s why",
-            "link": "https://www.zdnet.com/business/apple-extends-free-satellite-service-to-older-iphones/",
-            "summary": "This isn’t the first time that Apple has extended the free two-year trial.",
-            "published_utc": "2026-09-11T16:35:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Hackers Favor US Eastern Business Hours in M365 Phishing Campaign",
             "link": "https://www.infosecurity-magazine.com/news/hackers-us-business-hours-m365/",
             "summary": "KnowBe4 researchers observed a new phishing campaign leveraging Microsoft 365’s Direct Send to send malicious emails",
             "published_utc": "2026-09-11T13:30:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "This CIO doesn’t ‘hire engineers to write code’: 3 AI fundamentals he prioritizes instead",
-            "link": "https://www.zdnet.com/innovation/chase-cio-ai-fundamentals/",
-            "summary": "Gill Haus explains Chase’s approach to AI – and getting the core fundamentals right.",
-            "published_utc": "2026-09-11T12:20:31+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2704,27 +2732,6 @@
             "published_utc": "2026-07-17T09:00:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "Phishing Campaign Hides Lua Loader as TrueType Font File",
-            "link": "https://www.infosecurity-magazine.com/news/phishing-lua-loader-truetype-font/",
-            "summary": "Global phishing campaign disguised a Lua loader as a font file to deploy RATs and infostealers",
-            "published_utc": "2026-07-16T15:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Modular macOS Stealer Uses Kill Loops to Force Password Entry",
-            "link": "https://www.infosecurity-magazine.com/news/clicklock-macos-stealer-clickfix/",
-            "summary": "New ClickLock macOS stealer locked victims out of their own system until they surrendered a password",
-            "published_utc": "2026-07-16T13:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Single Prompt Enables ChatGPT to Execute Full Cyber-Attack Chain, Researchers Claim",
-            "link": "https://www.infosecurity-magazine.com/news/chatgpt55-to-execute-full/",
-            "summary": "Cybersecurity researchers tested Open AI GPT 5.5’s offensive cyber capabilities – and the results showed how effective a frontier LLM can be for hackers",
-            "published_utc": "2026-07-16T13:30:00+00:00"
-        },
-        {
             "source": "KrebsOnSecurity",
             "title": "Microsoft Patches a Record 570 Security Flaws",
             "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
@@ -3269,13 +3276,6 @@
             "link": "https://www.welivesecurity.com/en/business-security/locks-socs-cat-box-what-schrodinger-can-teach-us-about-cybersecurity/",
             "summary": "If you don’t look inside your environment, you can’t know its true state – and attackers count on that",
             "published_utc": "2025-12-11T10:00:00+00:00"
-        },
-        {
-            "source": "WeLiveSecurity",
-            "title": "Seeking symmetry during ATT&CK® season: How to harness today’s diverse analyst and tester landscape to paint a security masterpiece",
-            "link": "https://www.welivesecurity.com/en/business-security/seeking-symmetry-attck-season-harness-todays-diverse-analyst-tester-landscape-paint-security-masterpiece/",
-            "summary": "Interpreting the vast cybersecurity vendor landscape through the lens of industry analysts and testing authorities can immensely enhance your cyber-re...",
-            "published_utc": "2025-12-10T15:03:51+00:00"
         },
         {
             "source": "Threatpost",
