@@ -1,6 +1,34 @@
 {
-    "lastUpdatedUTC": "2026-09-25T18:16:13.981293+00:00",
+    "lastUpdatedUTC": "2026-09-25T22:01:04.775164+00:00",
     "articles": [
+        {
+            "source": "KrebsOnSecurity",
+            "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
+            "link": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
+            "summary": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than ...",
+            "published_utc": "2026-09-25T21:44:40+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Kiteworks urges 6-hour server shutdown over potential zero-day attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/",
+            "summary": "Secure file-sharing software company Kiteworks is urging customers worldwide to temporarily shut down their servers on Saturday for a six-hour window ...",
+            "published_utc": "2026-09-25T21:41:07+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Friday Squid Blogging: Participatory Squid Dissection in October in Tennessee",
+            "link": "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-participatory-squid-dissection-in-october-in-tennessee.html",
+            "summary": "",
+            "published_utc": "2026-09-25T21:08:14+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw",
+            "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/",
+            "summary": "The Clop ransomware gang has moved its data leak site to a new Tor address after confirming its previous server was compromised and defaced through an...",
+            "published_utc": "2026-09-25T20:57:55+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Elementor WordPress flaw lets attackers create admin accounts",
@@ -303,25 +331,11 @@
             "published_utc": "2026-09-24T13:35:04+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Hackers now exploit critical Roundcube flaw in code injection attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/",
-            "summary": "A high-severity Roundcube Webmail vulnerability patched in May is now being actively exploited in attacks, according to the Canadian Centre for Cyber ...",
-            "published_utc": "2026-09-24T13:27:57+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "CISA Charts New \"Quality Era\" for Global CVE Program",
             "link": "https://www.infosecurity-magazine.com/news/cisa-quality-era-global-cve-program/",
             "summary": "CISA has set out a new framework to improve CVE data quality as vulnerability volumes rise",
             "published_utc": "2026-09-24T12:50:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Windows 11 KB5124010 update released with 46 changes and fixes",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124010-update-released-with-46-changes-and-fixes/",
-            "summary": "Microsoft released the KB5124010 September 2026 non-security preview update for Windows 11 24H2 and 25H2, with 46 changes including Bluetooth improvem...",
-            "published_utc": "2026-09-24T12:16:32+00:00"
         },
         {
             "source": "Schneier",
@@ -987,13 +1001,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ai-top-priority-new-spend-cyber/",
             "summary": "IANS finds AI is dominating net-new budgets even as overall funding for the function is flat",
             "published_utc": "2026-09-15T13:00:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "25 Years of Mass Surveillance Is Enough",
-            "link": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
-            "summary": "",
-            "published_utc": "2026-09-15T11:01:41+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2730,13 +2737,6 @@
             "link": "https://www.infosecurity-magazine.com/news/cisa-urgent-patch-fortinet/",
             "summary": "US government agencies have until July 19 to patch two critical Fortinet vulnerabilities",
             "published_utc": "2026-07-17T09:45:00+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "Microsoft Patches a Record 570 Security Flaws",
-            "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
-            "summary": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple...",
-            "published_utc": "2026-07-14T19:22:42+00:00"
         },
         {
             "source": "WeLiveSecurity",
