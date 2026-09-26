@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-09-26T12:43:10.231017+00:00",
+    "lastUpdatedUTC": "2026-09-26T16:53:56.344461+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer",
+            "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/",
+            "summary": "Anthropic's Claude Opus 5.5 appears to be changing how it writes, with new analysis showing fewer obvious AI writing patterns, shorter sentences, and ...",
+            "published_utc": "2026-09-26T16:26:58+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft pauses KB5002907 update after Office license deactivations",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/",
+            "summary": "Microsoft has paused the rollout of the KB5002907 Microsoft 365 update after users report that it deactivated, or in some cases completely removed, pe...",
+            "published_utc": "2026-09-26T15:50:38+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "GitHub Actions re-enabled with Mini Shai-Hulud payload still active",
+            "link": "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/",
+            "summary": "Two third-party GitHub Actions previously compromised in a Mini Shai-Hulud campaign were re-enabled by their maintainer and remained accessible for mo...",
+            "published_utc": "2026-09-26T14:19:46+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites",
@@ -261,13 +282,6 @@
             "published_utc": "2026-09-25T06:57:40+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "MacSync malware uses public iCloud calendars to deliver new payloads",
-            "link": "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/",
-            "summary": "A new variant of the MacSync malware targeting macOS systems now uses public iCloud calendar events to deliver new native payloads. [...]",
-            "published_utc": "2026-09-24T20:53:35+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "Autonomous AI Hacks Raise Thorny Questions of Legal Accountability",
             "link": "https://www.securityweek.com/autonomous-ai-hacks-raise-thorny-questions-of-legal-accountability/",
@@ -287,20 +301,6 @@
             "link": "https://www.csoonline.com/article/4226330/wordpress-patches-a-critical-severity-security-vulnerability.html",
             "summary": "",
             "published_utc": "2026-09-24T20:26:22+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
-            "link": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
-            "summary": "A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control. [...]",
-            "published_utc": "2026-09-24T20:10:48+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Exposed GitLab project email addresses let attackers push code",
-            "link": "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/",
-            "summary": "Private GitLab email addresses that allow developers to push issues or tasks to a project are being deliberately exposed in READMEs, contributing guid...",
-            "published_utc": "2026-09-24T17:47:44+00:00"
         },
         {
             "source": "ZDNet Security",
