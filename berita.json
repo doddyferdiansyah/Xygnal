@@ -1,6 +1,34 @@
 {
-    "lastUpdatedUTC": "2026-09-26T07:09:20.805886+00:00",
+    "lastUpdatedUTC": "2026-09-26T12:43:10.231017+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites",
+            "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/",
+            "summary": "OpenAI says its AI agents uploaded user-provided images to third-party image-hosting services while carrying out research and evaluation tasks. [...]",
+            "published_utc": "2026-09-26T12:28:41+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "New x47.c Windows Botnet Weaponizes xAI Grok, AI API Draining",
+            "link": "https://www.securityweek.com/new-x47-c-windows-botnet-weaponizes-xai-grok-ai-api-draining/",
+            "summary": "",
+            "published_utc": "2026-09-26T12:00:00+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "Old-School Credit Card Scams Are Far From Dead",
+            "link": "https://www.wired.com/story/kernel-panic-old-timey-credit-card-scams/",
+            "summary": "In an era of increasingly sophisticated AI-fueled scams, a retro threat may be lurking in your mailbox.",
+            "published_utc": "2026-09-26T12:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure",
+            "link": "https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/",
+            "summary": "",
+            "published_utc": "2026-09-26T10:15:41+00:00"
+        },
         {
             "source": "KrebsOnSecurity",
             "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
@@ -198,6 +226,13 @@
             "published_utc": "2026-09-25T09:27:51+00:00"
         },
         {
+            "source": "WeLiveSecurity",
+            "title": "Is that vibe coded app safe? 5 checks before you download",
+            "link": "https://www.welivesecurity.com/en/mobile-security/is-new-vibe-coded-app-safe-5-questions-ask-first/",
+            "summary": "As AI lets anyone build software, here’s how to vet that shiny new app before it exposes your data",
+            "published_utc": "2026-09-25T09:00:00+00:00"
+        },
+        {
             "source": "BleepingComputer",
             "title": "Hackers steal $351.6 million in Bitget crypto exchange hack",
             "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/",
@@ -289,32 +324,11 @@
             "published_utc": "2026-09-24T15:55:34+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Kontext Security Emerges With $4 Million for AI Agent Runtime Controls",
-            "link": "https://www.securityweek.com/kontext-security-emerges-with-4-million-for-ai-agent-runtime-controls/",
-            "summary": "",
-            "published_utc": "2026-09-24T15:52:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Emerging Ransomware Gang Uses Backup Destruction Threats to Pressure Victims",
             "link": "https://www.infosecurity-magazine.com/news/ransomware-gang-uses-backup/",
             "summary": "Ransom notes by n0n ransomware claim to take double extortion to a new level of danger for victims",
             "published_utc": "2026-09-24T15:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "OpenAI Agents Probed Websites for Vulnerabilities While Fetching Public Data",
-            "link": "https://www.securityweek.com/openai-agents-probed-websites-for-vulnerabilities-while-fetching-public-data/",
-            "summary": "",
-            "published_utc": "2026-09-24T14:43:13+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "FedRAMP VDR & VER: Daily Scans Are Only the Beginning",
-            "link": "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/",
-            "summary": "FedRAMP's new VDR and VER requirements make vulnerability management more continuous, with faster scanning, tighter remediation deadlines, and stronge...",
-            "published_utc": "2026-09-24T14:02:12+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -1575,13 +1589,6 @@
             "link": "https://www.infosecurity-magazine.com/news/abuse-cursor-agent-ransomware/",
             "summary": "Aurora ransomware operators are abusing SpaceX’s Cursor Agent AI tool to conduct tasks such as reconnaissance and exploitation activities",
             "published_utc": "2026-08-28T08:00:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "A Georgia Cop Used Flock to Track 2 Other Cops: His Ex and Her Friend",
-            "link": "https://www.wired.com/story/a-georgia-cop-used-flock-to-track-2-other-cops-his-ex-and-her-friend/",
-            "summary": "After an affair with a fellow police officer ended, a Georgia cop used Flock to track her movements—and those of a man whose vehicle often showed up n...",
-            "published_utc": "2026-08-27T18:12:17+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -3269,13 +3276,6 @@
             "link": "https://www.welivesecurity.com/en/business-security/black-hat-europe-2025-reputation-ransomware/",
             "summary": "Being seen as reliable is good for ‘business’ and ransomware groups care about 'brand reputation' just as much as their victims",
             "published_utc": "2025-12-11T16:04:19+00:00"
-        },
-        {
-            "source": "WeLiveSecurity",
-            "title": "Locks, SOCs and a cat in a box: What Schrödinger can teach us about cybersecurity",
-            "link": "https://www.welivesecurity.com/en/business-security/locks-socs-cat-box-what-schrodinger-can-teach-us-about-cybersecurity/",
-            "summary": "If you don’t look inside your environment, you can’t know its true state – and attackers count on that",
-            "published_utc": "2025-12-11T10:00:00+00:00"
         },
         {
             "source": "Threatpost",
