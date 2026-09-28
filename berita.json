@@ -1,6 +1,83 @@
 {
-    "lastUpdatedUTC": "2026-09-28T15:01:06.304142+00:00",
+    "lastUpdatedUTC": "2026-09-28T21:37:27.077289+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Japan's Keio confirms ransomware attack disrupted business systems",
+            "link": "https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/",
+            "summary": "Keio Corporation (Keio), a major private railway operator in Japan, said its network was hit by a ransomware attack over the weekend, disrupting  some...",
+            "published_utc": "2026-09-28T20:56:47+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "iOS 27.0.1 released: Apple fixes annoying iPhone 18 Pro restart and freezing issues",
+            "link": "https://www.zdnet.com/tech/iphone-18-pro-freeze-restart-ios-27-0-1-fix/",
+            "summary": "The first update to iOS 27 squashes a bug in which the iPhone 18 Pro and Pro Max would freeze or restart when you try to use Face ID.",
+            "published_utc": "2026-09-28T20:39:56+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Times Car confirms data breach affecting 6.6 million user accounts",
+            "link": "https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/",
+            "summary": "Japanese car-sharing service Times Car has confirmed that approximately 6.6 million user accounts were compromised in a cyberattack disclosed late las...",
+            "published_utc": "2026-09-28T20:31:16+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Dutch police confirm arrest in ShinyHunters hacking investigation",
+            "link": "https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/",
+            "summary": "Dutch police have confirmed that a 24-year-old Amsterdam man arrested earlier this month was detained as part of an investigation into the ShinyHunter...",
+            "published_utc": "2026-09-28T19:49:10+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Over 16,000 Supabase databases expose PII, passwords, auth tokens",
+            "link": "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/",
+            "summary": "Researchers found more than 16,000 misconfigured Supabase databases exposing readable tables with personally identifiable information, passwords, or a...",
+            "published_utc": "2026-09-28T18:50:59+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Modulate Raises $25 Million to Advance Deepfake Detection",
+            "link": "https://www.securityweek.com/modulate-raises-25-million-to-advance-deepfake-detection/",
+            "summary": "",
+            "published_utc": "2026-09-28T17:30:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "OpenAI pauses AI model training after another agent bypasses network restrictions",
+            "link": "https://www.csoonline.com/article/4227777/openai-pauses-ai-model-training-after-another-agent-bypasses-network-restrictions.html",
+            "summary": "",
+            "published_utc": "2026-09-28T17:06:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Bose’s new wired earbuds aim for the same great sound and ANC – no charging needed",
+            "link": "https://www.zdnet.com/tech/bose-new-hybrid-wired-earbuds-anc/",
+            "summary": "The new wired USB-C earbuds mix old-school elements with modern audio features.",
+            "published_utc": "2026-09-28T16:15:17+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "JadePuffer agentic AI attacks target Azure, destroy cloud resources",
+            "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/",
+            "summary": "The JadePuffer ransomware operator is targeting Azure tenants with agent-driven attacks that conduct reconnaissance, steal credentials, and destroy co...",
+            "published_utc": "2026-09-28T15:49:27+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Call for Presentations Open for 2026 CISO Forum Virtual Summit",
+            "link": "https://www.securityweek.com/call-for-presentations-open-for-2026-ciso-forum-virtual-summit/",
+            "summary": "",
+            "published_utc": "2026-09-28T15:15:00+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
+            "link": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
+            "summary": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolifi...",
+            "published_utc": "2026-09-28T15:08:57+00:00"
+        },
         {
             "source": "InfosecurityMag",
             "title": "Bitget Restarts Bitcoin Withdrawals Following $387.5m Wallet Breach",
@@ -17,7 +94,7 @@
         },
         {
             "source": "CSO Online",
-            "title": "Autonomous agents attack Azure using compromised identities and destroying resources",
+            "title": "Autonomous agents attack Azure using compromised identities, destroying resources",
             "link": "https://www.csoonline.com/article/4227657/autonomous-agents-attack-azure-using-compromised-identities-and-destroying-resources.html",
             "summary": "",
             "published_utc": "2026-09-28T14:22:22+00:00"
@@ -198,46 +275,11 @@
             "published_utc": "2026-09-26T19:03:34+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "China and US Agree to Establish AI Safety Channel and Continue Trade and Military Talks",
-            "link": "https://www.securityweek.com/china-and-us-agree-to-establish-ai-safety-channel-and-continue-trade-and-military-talks/",
-            "summary": "",
-            "published_utc": "2026-09-26T18:09:28+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer",
             "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/",
             "summary": "Anthropic's Claude Opus 5.5 appears to be changing how it writes, with new analysis showing fewer obvious AI writing patterns, shorter sentences, and ...",
             "published_utc": "2026-09-26T16:26:58+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft pauses KB5002907 update after Office license deactivations",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/",
-            "summary": "Microsoft has paused the rollout of the KB5002907 Microsoft 365 update after users report that it deactivated, or in some cases completely removed, pe...",
-            "published_utc": "2026-09-26T15:50:38+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "GitHub Actions re-enabled with Mini Shai-Hulud payload still active",
-            "link": "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/",
-            "summary": "Two third-party GitHub Actions previously compromised in a Mini Shai-Hulud campaign were re-enabled by their maintainer and remained accessible for mo...",
-            "published_utc": "2026-09-26T14:19:46+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites",
-            "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/",
-            "summary": "OpenAI says its AI agents uploaded user-provided images to third-party image-hosting services while carrying out research and evaluation tasks. [...]",
-            "published_utc": "2026-09-26T12:28:41+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "New x47.c Windows Botnet Weaponizes xAI Grok, AI API Draining",
-            "link": "https://www.securityweek.com/new-x47-c-windows-botnet-weaponizes-xai-grok-ai-api-draining/",
-            "summary": "",
-            "published_utc": "2026-09-26T12:00:00+00:00"
         },
         {
             "source": "WIRED Security",
@@ -254,25 +296,11 @@
             "published_utc": "2026-09-25T21:44:40+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Kiteworks urges 6-hour server shutdown over potential zero-day attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/",
-            "summary": "Secure file-sharing software company Kiteworks is urging customers worldwide to temporarily shut down their servers on Saturday for a six-hour window ...",
-            "published_utc": "2026-09-25T21:41:07+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Friday Squid Blogging: Participatory Squid Dissection in October in Tennessee",
             "link": "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-participatory-squid-dissection-in-october-in-tennessee.html",
             "summary": "",
             "published_utc": "2026-09-25T21:08:14+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw",
-            "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/",
-            "summary": "The Clop ransomware gang has moved its data leak site to a new Tor address after confirming its previous server was compromised and defaced through an...",
-            "published_utc": "2026-09-25T20:57:55+00:00"
         },
         {
             "source": "CSO Online",
@@ -616,13 +644,6 @@
             "link": "https://www.infosecurity-magazine.com/news/north-korean-waterplum-30000/",
             "summary": "WaterPlum compromised 30,000 devices and took funds or credentials from 7000 crypto wallets",
             "published_utc": "2026-09-22T14:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Beware these fake websites selling subscriptions to AI assistants",
-            "link": "https://www.csoonline.com/article/4224923/beware-these-fake-websites-selling-subscriptions-to-ai-assistants-2.html",
-            "summary": "",
-            "published_utc": "2026-09-22T13:11:29+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1050,13 +1071,6 @@
             "link": "https://www.infosecurity-magazine.com/news/black-axe-members-extradited-us/",
             "summary": "Alleged Black Axe leaders extradited to the US over romance scams, BEC and money laundering claims",
             "published_utc": "2026-09-15T13:45:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "iOS 27 is finally here, with the new Siri AI beta – and 120 security patches",
-            "link": "https://www.zdnet.com/business/ios-27-siri-ai-beta-how-to-try/",
-            "summary": "Even if you’re not ready for iOS 27, there’s an important new update for you too. Here’s what’s new.",
-            "published_utc": "2026-09-15T13:13:10+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1792,13 +1806,6 @@
             "link": "https://www.infosecurity-magazine.com/news/researchers-thousands-eaked-aws/",
             "summary": "Truffle Security says it found over 9000 publicly accessible and active AWS key pairs",
             "published_utc": "2026-08-24T08:05:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How Cisco is confronting the security crisis of agentic AI",
-            "link": "https://www.zdnet.com/paid-content/article/how-cisco-is-confronting-the-security-crisis-of-agentic-ai/",
-            "summary": "“There are shadow agents running in almost every environment we look at,” warns Cisco’s VP of product for identity, who oversees the company’s Duo Age...",
-            "published_utc": "2026-08-22T00:13:27+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2681,13 +2688,6 @@
             "link": "https://www.infosecurity-magazine.com/news/google-codemender-available-ai/",
             "summary": "CodeMender actively builds and runs exploits in customer-managed sandboxes to verify if vulnerabilities are truly exploitable",
             "published_utc": "2026-07-22T10:30:00+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "LG to Ban Residential Proxies from Smart TV Apps",
-            "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
-            "summary": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an alw...",
-            "published_utc": "2026-07-22T01:10:38+00:00"
         },
         {
             "source": "InfosecurityMag",
