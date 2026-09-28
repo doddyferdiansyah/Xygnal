@@ -1,6 +1,160 @@
 {
-    "lastUpdatedUTC": "2026-09-28T06:22:39.535238+00:00",
+    "lastUpdatedUTC": "2026-09-28T15:01:06.304142+00:00",
     "articles": [
+        {
+            "source": "InfosecurityMag",
+            "title": "Bitget Restarts Bitcoin Withdrawals Following $387.5m Wallet Breach",
+            "link": "https://www.infosecurity-magazine.com/news/bitget-restarts-withdrawals-387-5m/",
+            "summary": "Bitget has restarted Bitcoin withdrawals after a $387.5m breach of its hot and warm wallets",
+            "published_utc": "2026-09-28T15:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Your Bose headphones are getting a major Bluetooth upgrade – what to expect",
+            "link": "https://www.zdnet.com/tech/your-bose-headphones-are-getting-a-major-bluetooth-upgrade-what-to-expect/",
+            "summary": "Key Bluetooth technologies and upgrades to USB-C audio are coming to the company’s flagship over-ears.",
+            "published_utc": "2026-09-28T14:40:43+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Autonomous agents attack Azure using compromised identities and destroying resources",
+            "link": "https://www.csoonline.com/article/4227657/autonomous-agents-attack-azure-using-compromised-identities-and-destroying-resources.html",
+            "summary": "",
+            "published_utc": "2026-09-28T14:22:22+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking",
+            "link": "https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/",
+            "summary": "Infostealer logs exposed AI account credentials and sessions tied to more than 80,000 corporate domains, creating risks ranging from stolen conversati...",
+            "published_utc": "2026-09-28T14:00:10+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "NVIDIA Launches Open Platform to Secure Autonomous AI Agents",
+            "link": "https://www.infosecurity-magazine.com/news/nvidia-open-platform-secure/",
+            "summary": "NVIDIA has launched a platform pairing runtime controls with hardware monitoring for AI agents",
+            "published_utc": "2026-09-28T13:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Deepfakes Are Becoming a Costly Reality for Businesses, Report Warns",
+            "link": "https://www.infosecurity-magazine.com/news/deepfakes-costly-reality-for/",
+            "summary": "A quarter of victims of deepfake attacks have lost over $1m. CISOs worry that boardrooms don’t understand the threat",
+            "published_utc": "2026-09-28T13:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Prison Sentence for Former US Soldier Who Hacked AT&T and Verizon",
+            "link": "https://www.securityweek.com/prison-sentence-for-former-us-soldier-who-hacked-att-and-verizon/",
+            "summary": "",
+            "published_utc": "2026-09-28T12:36:16+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
+            "link": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
+            "summary": "Sam Altman says the company “have not been as fast as we would have liked” at dealing with security breaches, after news of further incidents over the...",
+            "published_utc": "2026-09-28T11:32:19+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "DC Health Agency Exposes 400,000 Beneficiary Records",
+            "link": "https://www.securityweek.com/dc-health-agency-exposes-400000-beneficiary-records/",
+            "summary": "",
+            "published_utc": "2026-09-28T11:29:29+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "New Attack Against RSA",
+            "link": "https://www.schneier.com/blog/archives/2026/09/new-attack-against-rsa.html",
+            "summary": "",
+            "published_utc": "2026-09-28T11:02:58+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Google Warns of ShinyHunters’ Fresh Oracle PeopleSoft Campaign",
+            "link": "https://www.securityweek.com/google-warns-of-shinyhunters-fresh-oracle-peoplesoft-campaign/",
+            "summary": "",
+            "published_utc": "2026-09-28T10:56:46+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "New Mexico Jury Finds Facebook Liable for Deceiving Users About Privacy Protections",
+            "link": "https://www.securityweek.com/new-mexico-jury-finds-facebook-liable-for-deceiving-users-about-privacy-protections/",
+            "summary": "",
+            "published_utc": "2026-09-28T10:40:01+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Nvidia Unveils AI Agent Safety Platform With Hardware-Based Watchdog",
+            "link": "https://www.securityweek.com/nvidia-unveils-ai-agent-safety-platform-with-hardware-based-watchdog/",
+            "summary": "",
+            "published_utc": "2026-09-28T10:27:01+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "NetScaler admins told to patch critical zero-days in ADC and Gateway now",
+            "link": "https://www.csoonline.com/article/4227488/netscaler-admins-told-to-patch-critical-zero-days-in-adc-and-gateway-now-2.html",
+            "summary": "",
+            "published_utc": "2026-09-28T10:02:08+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "MCP Is Creating Major Governance Gaps, Researchers Warn",
+            "link": "https://www.infosecurity-magazine.com/news/mcp-creating-major-governance-gaps/",
+            "summary": "Ox Security found security shortcomings in analysis of over 15,000 MCP servers",
+            "published_utc": "2026-09-28T09:45:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Kiteworks Urges Server Shutdown, Finds Advanced Forms Vulnerability",
+            "link": "https://www.securityweek.com/kiteworks-urges-server-shutdown-finds-advanced-forms-vulnerability/",
+            "summary": "",
+            "published_utc": "2026-09-28T09:44:27+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Bitget resumes Bitcoin withdrawals after $387.5 million crypto heist",
+            "link": "https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/",
+            "summary": "Cryptocurrency exchange Bitget has resumed Bitcoin withdrawals suspended after suspected North Korean hackers breached its systems last week and stole...",
+            "published_utc": "2026-09-28T09:25:29+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Citrix Patches Critical Zero Days Under Active Exploitation",
+            "link": "https://www.infosecurity-magazine.com/news/citrix-patches-critical-zero-days/",
+            "summary": "Citrix has confirmed exploitation of two critical zero-day RCE bugs",
+            "published_utc": "2026-09-28T08:30:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Stolen AI credentials feed growing LLM proxy economy",
+            "link": "https://www.csoonline.com/article/4227199/stolen-ai-credentials-feed-growing-llm-proxy-economy.html",
+            "summary": "",
+            "published_utc": "2026-09-28T08:25:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "US soldier gets 70 months in prison for extorting 10 tech, telecom firms",
+            "link": "https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/",
+            "summary": "A former U.S. Army soldier has been sentenced to 70 months in prison for hacking and extorting at least 10 U.S. technology and telecommunications comp...",
+            "published_utc": "2026-09-28T07:30:15+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Citrix Confirms 2 NetScaler Zero-Days After Admins Pulled the Plug",
+            "link": "https://www.securityweek.com/citrix-confirms-2-netscaler-zero-days-after-admins-pulled-the-plug/",
+            "summary": "",
+            "published_utc": "2026-09-28T07:29:51+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "CISA orders feds to patch exploited Citrix flaws by Wednesday",
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/",
+            "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies over the weekend to secure their systems against atta...",
+            "published_utc": "2026-09-28T06:24:19+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email",
@@ -93,13 +247,6 @@
             "published_utc": "2026-09-26T12:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure",
-            "link": "https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/",
-            "summary": "",
-            "published_utc": "2026-09-26T10:15:41+00:00"
-        },
-        {
             "source": "KrebsOnSecurity",
             "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
             "link": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
@@ -128,25 +275,11 @@
             "published_utc": "2026-09-25T20:57:55+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Elementor WordPress flaw lets attackers create admin accounts",
-            "link": "https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/",
-            "summary": "A cross-site request forgery (CSRF) vulnerability in the Elementor plugin for WordPress could allow an unauthenticated attacker to create administrato...",
-            "published_utc": "2026-09-25T18:13:33+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "AI tools help hacker break in for $25 per target",
             "link": "https://www.csoonline.com/article/4226861/ai-tools-help-hacker-break-in-for-25-per-target.html",
             "summary": "",
             "published_utc": "2026-09-25T17:38:42+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/",
-            "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) warns that hackers are exploiting a critical authentication bypass vulnerability (CVE-2026...",
-            "published_utc": "2026-09-25T17:24:20+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -163,20 +296,6 @@
             "published_utc": "2026-09-25T16:42:48+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions",
-            "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions/",
-            "summary": "Anthropic now allows you to run Claude Code via cloud sessions without signing up for the research preview, and it's offering up to $250 in free usage...",
-            "published_utc": "2026-09-25T16:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "In Other News: Clop Leak Site Takeover, Docker Botnet Hunts AI Keys, Water Utility Exposure",
-            "link": "https://www.securityweek.com/in-other-news-clop-leak-site-takeover-docker-botnet-hunts-ai-keys-water-utility-exposure/",
-            "summary": "",
-            "published_utc": "2026-09-25T15:07:31+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "GitLab issue email’s only security is obscurity",
             "link": "https://www.csoonline.com/article/4226741/gitlab-issue-emails-only-security-is-obscurity-2.html",
@@ -184,32 +303,11 @@
             "published_utc": "2026-09-25T15:05:22+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "OpenAI is preparing a $500 ChatGPT Pro Max plan with faster Codex",
-            "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-a-500-chatgpt-pro-max-plan-with-faster-codex/",
-            "summary": "OpenAI appears to be preparing a new ChatGPT Pro Max subscription that could cost $500 per month, but it's unclear when it'll begin rolling out. [...]",
-            "published_utc": "2026-09-25T14:54:33+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "North Korea Suspected in $351 Million Bitget Crypto Heist",
-            "link": "https://www.securityweek.com/north-korea-suspected-in-351-million-bitget-crypto-heist/",
-            "summary": "",
-            "published_utc": "2026-09-25T14:16:18+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Zero-Click Vulnerabilities in Salesforce Agentforce Expose Wider AI Agent Risk",
             "link": "https://www.infosecurity-magazine.com/news/vulnerabilities-salesforce-ai/",
             "summary": "The ‘SalesBleed’ set of weaknesses in Salesforce’s Agentforce agents exposed CRM data to attackers via prompt injection and DNS exfiltration",
             "published_utc": "2026-09-25T13:30:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "CISA Election Security Plan Flags Patching Barriers, Voter Database Attacks",
-            "link": "https://www.securityweek.com/cisa-election-security-plan-flags-patching-barriers-voter-database-attacks/",
-            "summary": "",
-            "published_utc": "2026-09-25T12:39:12+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -226,13 +324,6 @@
             "published_utc": "2026-09-25T12:18:24+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Kosovar Owner of Rydox Marketplace Pleads Guilty in US Court",
-            "link": "https://www.securityweek.com/kosovar-owner-of-rydox-marketplace-pleads-guilty-in-us-court/",
-            "summary": "",
-            "published_utc": "2026-09-25T12:16:27+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "Microsoft’s new Copilot app puts everything in one place – but the price is ‘evolving’",
             "link": "https://www.zdnet.com/innovation/microsoft-new-copilot-unified-ai-app/",
@@ -247,25 +338,11 @@
             "published_utc": "2026-09-25T11:07:22+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Windows, Linux, Android File Notification Systems Leak User Activity",
-            "link": "https://www.securityweek.com/windows-linux-android-file-notification-systems-leak-user-activity/",
-            "summary": "",
-            "published_utc": "2026-09-25T10:53:32+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "RemControl Banking Trojan Gives Attackers Remote Control of Android Devices",
             "link": "https://www.infosecurity-magazine.com/news/banking-trojan-remote-control/",
             "summary": "The newly-discovered trojan abuses the Android Accessibility Service to gain control over victim devices and collect sensitive banking credentials",
             "published_utc": "2026-09-25T09:30:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "‘SalesBleed’ Flaws in Salesforce Agentforce Enabled Zero-Click Data Exfiltration",
-            "link": "https://www.securityweek.com/salesbleed-flaws-in-salesforce-agentforce-enabled-zero-click-data-exfiltration/",
-            "summary": "",
-            "published_utc": "2026-09-25T09:27:51+00:00"
         },
         {
             "source": "WeLiveSecurity",
@@ -590,13 +667,6 @@
             "published_utc": "2026-09-22T09:30:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "The cyber AI parity window now has a deadline",
-            "link": "https://www.csoonline.com/article/4224418/the-cyber-ai-parity-window-now-has-a-deadline.html",
-            "summary": "",
-            "published_utc": "2026-09-22T09:00:00+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "How to Use AI With Your Privacy Intact",
             "link": "https://www.wired.com/story/how-to-use-ai-with-your-privacy-intact/",
@@ -609,20 +679,6 @@
             "link": "https://www.welivesecurity.com/en/kids-online/looking-for-free-robux-heres-whats-real-whats-scam/",
             "summary": "Fake giveaways, free Robux generators and lookalike login pages all target the same thing – your Roblox account",
             "published_utc": "2026-09-22T09:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "CISOs can no longer ignore the nation-state threat",
-            "link": "https://www.csoonline.com/article/4224629/ai-reshapes-the-nation-state-threat-landscape-for-cisos.html",
-            "summary": "",
-            "published_utc": "2026-09-22T08:25:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Gemini broke into 3 companies, but Google kept it quiet because ‘no damage was done’",
-            "link": "https://www.csoonline.com/article/4224570/gemini-broke-into-3-companies-but-google-kept-it-quiet-because-no-damage-was-done.html",
-            "summary": "",
-            "published_utc": "2026-09-22T01:02:19+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -926,13 +982,6 @@
             "published_utc": "2026-09-16T12:05:35+00:00"
         },
         {
-            "source": "Schneier",
-            "title": "Fake CAPTCHA Scams",
-            "link": "https://www.schneier.com/blog/archives/2026/09/fake-captcha-scams.html",
-            "summary": "",
-            "published_utc": "2026-09-16T11:25:26+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Cyber-Attacks Cost Organizations $52,000 on Average",
             "link": "https://www.infosecurity-magazine.com/news/cyberattacks-cost-organizations/",
@@ -1022,13 +1071,6 @@
             "link": "https://www.infosecurity-magazine.com/news/microsoft-releases-emergency-patch/",
             "summary": "Microsoft has been forced to issue an out-of-band fix for several issues stemming from this month’s Patch Tuesday",
             "published_utc": "2026-09-15T08:40:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The latest Windows 11 update may mess with your device’s audio – here’s the workaround",
-            "link": "https://www.zdnet.com/business/windows-11-sept-update-audio-glitch-fix/",
-            "summary": "The September Patch Tuesday update is causing audio problems with certain USB devices, but you may be able to resolve it yourself.",
-            "published_utc": "2026-09-14T17:27:48+00:00"
         },
         {
             "source": "WIRED Security",
@@ -1575,13 +1617,6 @@
             "link": "https://www.infosecurity-magazine.com/news/window-ai-attacks-narrowing-tech/",
             "summary": "More than 100 companies, including OpenAI, Anthropic, Google and Microsoft, have urged collective action to unlock the power of AI to protect critical...",
             "published_utc": "2026-08-28T09:30:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "How an Atlanta Suburb Ended Up Sharing Flock Data With More Than 2,000 Organizations",
-            "link": "https://www.wired.com/story/how-an-atlanta-suburb-ended-up-sharing-flock-data-with-more-than-2000-organizations/",
-            "summary": "Alpharetta, Georgia, cops share data with thousands of Flock users, ranging from federal agencies to a fish and wildlife commission. The reasons why s...",
-            "published_utc": "2026-08-28T09:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2709,41 +2744,6 @@
             "link": "https://www.infosecurity-magazine.com/news/researchers-wordpress-exploit/",
             "summary": "A researcher who discovered a critical vulnerability in WordPress has used OpenAI’s latest model to develop an exploit chain",
             "published_utc": "2026-07-20T14:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "New HollowGraph Malware Hijacks Microsoft 365 Calendars for Covert C2 Communications",
-            "link": "https://www.infosecurity-magazine.com/news/hollowgraph-microsoft-calendars/",
-            "summary": "Researchers have linked HollowGraph malware to the Cavern framework after discovering its use of Microsoft 365 calendars and Microsoft Graph APIs as a...",
-            "published_utc": "2026-07-20T12:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Police Chiefs Cite TfL Hack in Push for Cybercrime Risk Orders",
-            "link": "https://www.infosecurity-magazine.com/news/police-chiefs-tfl-cybercrime-risk/",
-            "summary": "Two chiefs of UK policing agencies said the Transport for London prosecution demonstrates the need for Cybercrime Risk Orders",
-            "published_utc": "2026-07-20T09:45:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Government Agencies Falling Victim to Ransomware Daily, Warns Study",
-            "link": "https://www.infosecurity-magazine.com/news/government-ransomware-daily/",
-            "summary": "Government organizations are targeted by attackers who know agencies cannot afford disruption to public services",
-            "published_utc": "2026-07-17T15:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "23andMe Faces New Security Mandates in $18m Data Breach Settlement",
-            "link": "https://www.infosecurity-magazine.com/news/23andme-18m-data-breach-settlement/",
-            "summary": "23andMe has agreed to an $18m settlement with 42 US attorneys general over its 2023 data breach, including enhanced data protection requirements",
-            "published_utc": "2026-07-17T14:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "CISA Mandates Urgent Patch for Actively Exploited Critical Fortinet Vulnerabilities",
-            "link": "https://www.infosecurity-magazine.com/news/cisa-urgent-patch-fortinet/",
-            "summary": "US government agencies have until July 19 to patch two critical Fortinet vulnerabilities",
-            "published_utc": "2026-07-17T09:45:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
