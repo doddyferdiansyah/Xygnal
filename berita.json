@@ -1,6 +1,34 @@
 {
-    "lastUpdatedUTC": "2026-09-29T19:49:12.692095+00:00",
+    "lastUpdatedUTC": "2026-09-29T23:29:39.702383+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Signal adds encypted local backup support to iOS, desktop apps",
+            "link": "https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/",
+            "summary": "Signal, the secure messaging app, released version 8.30, completing the rollout of its secure backups feature across all supported operating systems (...",
+            "published_utc": "2026-09-29T21:30:08+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Custom ChatGPTs push ClickFix attacks to deploy RAT malware",
+            "link": "https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/",
+            "summary": "Custom variants of OpenAI's ChatGPT promoted in sponsored Google results are directing unsuspecting users to malicious sites that use ClickFix attacks...",
+            "published_utc": "2026-09-29T20:59:39+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "OpenAI CEO Announces New AI Agent and Avoids Mention of Security Concerns at Developer Conference",
+            "link": "https://www.securityweek.com/openai-ceo-announces-new-ai-agent-and-avoids-mention-of-security-concerns-at-developer-conference/",
+            "summary": "",
+            "published_utc": "2026-09-29T20:14:44+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "FBI tells ShinyHunters members to turn themselves in after recent arrest",
+            "link": "https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/",
+            "summary": "The FBI is warning members of the ShinyHunters extortion group to turn themselves in after Dutch police arrested a man the bureau described as one of ...",
+            "published_utc": "2026-09-29T20:09:55+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "LLMjacking can run up your business’ AI bill fast – how to stop it",
@@ -177,13 +205,6 @@
             "published_utc": "2026-09-29T11:02:19+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Dutch Police Arrest Convicted Hacker in ShinyHunters Investigation",
-            "link": "https://www.securityweek.com/dutch-police-arrest-convicted-hacker-in-shinyhunters-investigation/",
-            "summary": "",
-            "published_utc": "2026-09-29T11:01:55+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Japanese Railway Operators Hit with Weekend Cyber Attacks",
             "link": "https://www.infosecurity-magazine.com/news/japanese-railway-operators-cyber/",
@@ -247,13 +268,6 @@
             "published_utc": "2026-09-28T19:49:10+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Over 16,000 Supabase databases expose PII, passwords, auth tokens",
-            "link": "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/",
-            "summary": "Researchers found more than 16,000 misconfigured Supabase databases exposing readable tables with personally identifiable information, passwords, or a...",
-            "published_utc": "2026-09-28T18:50:59+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "OpenAI pauses AI model training after another agent bypasses network restrictions",
             "link": "https://www.csoonline.com/article/4227777/openai-pauses-ai-model-training-after-another-agent-bypasses-network-restrictions.html",
@@ -268,11 +282,11 @@
             "published_utc": "2026-09-28T16:15:17+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "JadePuffer agentic AI attacks target Azure, destroy cloud resources",
-            "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/",
-            "summary": "The JadePuffer ransomware operator is targeting Azure tenants with agent-driven attacks that conduct reconnaissance, steal credentials, and destroy co...",
-            "published_utc": "2026-09-28T15:49:27+00:00"
+            "source": "KrebsOnSecurity",
+            "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
+            "link": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
+            "summary": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolifi...",
+            "published_utc": "2026-09-28T15:08:57+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -294,13 +308,6 @@
             "link": "https://www.csoonline.com/article/4227657/autonomous-agents-attack-azure-using-compromised-identities-and-destroying-resources.html",
             "summary": "",
             "published_utc": "2026-09-28T14:22:22+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking",
-            "link": "https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/",
-            "summary": "Infostealer logs exposed AI account credentials and sessions tied to more than 80,000 corporate domains, creating risks ranging from stolen conversati...",
-            "published_utc": "2026-09-28T14:00:10+00:00"
         },
         {
             "source": "InfosecurityMag",
