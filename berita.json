@@ -1,6 +1,20 @@
 {
-    "lastUpdatedUTC": "2026-09-29T01:31:40.280318+00:00",
+    "lastUpdatedUTC": "2026-09-29T07:58:24.961982+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Apple patches CoreGraphics zero-day flaw exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/",
+            "summary": "Apple released security updates to fix a zero-day vulnerability exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
+            "published_utc": "2026-09-29T07:33:12+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Apple Patches Meta-Reported Zero-Day Linked to ‘Extremely Sophisticated Attack’",
+            "link": "https://www.securityweek.com/apple-patches-meta-reported-zero-day-linked-to-extremely-sophisticated-attack/",
+            "summary": "",
+            "published_utc": "2026-09-29T06:18:27+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "Nvidia releases Open Agent Safety Platform to monitor and govern agentic AI",
@@ -205,6 +219,13 @@
             "published_utc": "2026-09-28T09:25:29+00:00"
         },
         {
+            "source": "WeLiveSecurity",
+            "title": "The devil is still in the email – but wearing a new mask",
+            "link": "https://www.welivesecurity.com/en/business-security/devil-email-wearing-new-mask/",
+            "summary": "When phishing can increasingly pass familiar checks, avoiding or limiting the damage depends on how quickly your company can detect and contain the at...",
+            "published_utc": "2026-09-28T09:00:00+00:00"
+        },
+        {
             "source": "InfosecurityMag",
             "title": "Citrix Patches Critical Zero Days Under Active Exploitation",
             "link": "https://www.infosecurity-magazine.com/news/citrix-patches-critical-zero-days/",
@@ -268,25 +289,11 @@
             "published_utc": "2026-09-27T13:38:40+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks",
-            "link": "https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/",
-            "summary": "",
-            "published_utc": "2026-09-27T09:23:09+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks",
             "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
             "summary": "The ShinyHunters extortion gang is using a URL-encoding trick to bypass web application firewall rules that mitigate the Oracle PeopleSoft CVE-2026-35...",
             "published_utc": "2026-09-26T19:03:34+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer",
-            "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/",
-            "summary": "Anthropic's Claude Opus 5.5 appears to be changing how it writes, with new analysis showing fewer obvious AI writing patterns, shorter sentences, and ...",
-            "published_utc": "2026-09-26T16:26:58+00:00"
         },
         {
             "source": "WIRED Security",
@@ -3269,13 +3276,6 @@
             "link": "https://www.welivesecurity.com/en/internet-of-things/black-hat-europe-2025-device-designed-internet/",
             "summary": "Behind the polished exterior of many modern buildings sit outdated systems with vulnerabilities waiting to be found",
             "published_utc": "2025-12-12T15:22:52+00:00"
-        },
-        {
-            "source": "WeLiveSecurity",
-            "title": "Black Hat Europe 2025: Reputation matters – even in the ransomware economy",
-            "link": "https://www.welivesecurity.com/en/business-security/black-hat-europe-2025-reputation-ransomware/",
-            "summary": "Being seen as reliable is good for ‘business’ and ransomware groups care about 'brand reputation' just as much as their victims",
-            "published_utc": "2025-12-11T16:04:19+00:00"
         },
         {
             "source": "Threatpost",
