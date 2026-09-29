@@ -1,6 +1,83 @@
 {
-    "lastUpdatedUTC": "2026-09-29T14:47:45.261925+00:00",
+    "lastUpdatedUTC": "2026-09-29T19:49:12.692095+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "LLMjacking can run up your business’ AI bill fast – how to stop it",
+            "link": "https://www.zdnet.com/innovation/llmjacking-business-ai-bill-cost-how-to-stop/",
+            "summary": "Google analysts warn that stolen AI credentials are being sold underground, and businesses are footing the bill.",
+            "published_utc": "2026-09-29T19:09:53+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "OpenAI Gets Sued Over the Hugging Face Hack",
+            "link": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
+            "summary": "A nonprofit in California is doing what Hugging Face has not—attempting to hold OpenAI legally accountable for the actions of its agents.",
+            "published_utc": "2026-09-29T19:05:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers exploit Citrix NetScaler zero-day to deploy web shells",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/",
+            "summary": "Cybersecurity firms say attackers exploited the Citrix NetScaler CVE-2026-88772 zero-day to deploy custom web shells and tunneling malware, gain root ...",
+            "published_utc": "2026-09-29T18:37:12+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Former US Air Force members sent to prison over BEC attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/former-us-air-force-members-sent-to-prison-over-bec-attacks/",
+            "summary": "Two former members of the United States Air Force were sentenced to a combined 189 months in federal prison for their roles in a multi-year series of ...",
+            "published_utc": "2026-09-29T18:09:39+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Is ChatGPT your new Google Workspace alternative? Meet Space, Pages, and slides",
+            "link": "https://www.zdnet.com/innovation/chatgpt-space-pages-slides-google-workspace-alternative/",
+            "summary": "OpenAI now lets teams create documents, build presentations, and work with AI agents inside ChatGPT",
+            "published_utc": "2026-09-29T17:58:37+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Windows 11 2026 Update released, here's everything you need to know",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-2026-update-released-heres-everything-you-need-to-know/",
+            "summary": "Microsoft has started rolling out Windows 11 26H2 to everyone, and while it's this year's big annual feature update, you probably won't notice a massi...",
+            "published_utc": "2026-09-29T17:37:40+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Get Kindle Unlimited free for 3 months with this early Prime Day deal",
+            "link": "https://www.zdnet.com/uncategorized/kindle-unlimited-amazon-october-prime-day-deal-2026/",
+            "summary": "Amazon’s free Kindle Unlimited deal only comes around a couple times a year – and I highly recommend it.",
+            "published_utc": "2026-09-29T17:32:40+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "DARPA Selects Xint to Use AI in Securing Military Messaging Apps",
+            "link": "https://www.securityweek.com/darpa-selects-xint-to-use-ai-in-securing-military-messaging-apps/",
+            "summary": "",
+            "published_utc": "2026-09-29T17:24:04+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "New Spectre v2 attack variant leaks Linux root password hash in minutes",
+            "link": "https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/",
+            "summary": "A new Branch Target Reuse (BTR) attack has been devised that can recover root password hashes on Intel computers running Linux in 3-5 minutes on avera...",
+            "published_utc": "2026-09-29T17:10:11+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "New Spectre v2 Variant Exposes Intel, AMD, Arm CPUs to Data Leaks",
+            "link": "https://www.securityweek.com/new-spectre-v2-variant-exposes-intel-amd-arm-cpus-to-data-leaks/",
+            "summary": "",
+            "published_utc": "2026-09-29T17:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Automated AI agent used to breach cybersecurity nonprofit DIVD",
+            "link": "https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/",
+            "summary": "The Dutch Institute for Vulnerability Disclosure (DIVD) suffered an AI-driven cyberattack that the organization described as \"loud and very, very mess...",
+            "published_utc": "2026-09-29T15:39:19+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "OpenAI pulls the plug on GPT 6.1 Astra as agents keep crossing lines",
@@ -107,13 +184,6 @@
             "published_utc": "2026-09-29T11:01:55+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Daemon Tools Hackers’ NeedyMantis Malware Dissected by Microsoft",
-            "link": "https://www.securityweek.com/daemon-tools-hackers-needymantis-malware-dissected-by-microsoft/",
-            "summary": "",
-            "published_utc": "2026-09-29T09:46:13+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Japanese Railway Operators Hit with Weekend Cyber Attacks",
             "link": "https://www.infosecurity-magazine.com/news/japanese-railway-operators-cyber/",
@@ -140,13 +210,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/",
             "summary": "Apple released security updates to fix a zero-day vulnerability exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
             "published_utc": "2026-09-29T07:33:12+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Apple Patches Zero-Day Linked to ‘Extremely Sophisticated Attack’",
-            "link": "https://www.securityweek.com/apple-patches-meta-reported-zero-day-linked-to-extremely-sophisticated-attack/",
-            "summary": "",
-            "published_utc": "2026-09-29T06:18:27+00:00"
         },
         {
             "source": "CSO Online",
@@ -282,13 +345,6 @@
             "published_utc": "2026-09-28T09:45:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Bitget resumes Bitcoin withdrawals after $387.5 million crypto heist",
-            "link": "https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/",
-            "summary": "Cryptocurrency exchange Bitget has resumed Bitcoin withdrawals suspended after suspected North Korean hackers breached its systems last week and stole...",
-            "published_utc": "2026-09-28T09:25:29+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "The devil is still in the email – but wearing a new mask",
             "link": "https://www.welivesecurity.com/en/business-security/devil-email-wearing-new-mask/",
@@ -308,34 +364,6 @@
             "link": "https://www.csoonline.com/article/4227199/stolen-ai-credentials-feed-growing-llm-proxy-economy.html",
             "summary": "",
             "published_utc": "2026-09-28T08:25:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "US soldier gets 70 months in prison for extorting 10 tech, telecom firms",
-            "link": "https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/",
-            "summary": "A former U.S. Army soldier has been sentenced to 70 months in prison for hacking and extorting at least 10 U.S. technology and telecommunications comp...",
-            "published_utc": "2026-09-28T07:30:15+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "CISA orders feds to patch exploited Citrix flaws by Wednesday",
-            "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/",
-            "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies over the weekend to secure their systems against atta...",
-            "published_utc": "2026-09-28T06:24:19+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email",
-            "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/",
-            "summary": "OpenAI is testing a new always-on assistant called \"o\", and references to the unannounced feature briefly showed up on the company's website. [...]",
-            "published_utc": "2026-09-27T23:40:39+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Citrix confirms two NetScaler RCE zero-days exploited in attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
-            "summary": "Citrix has confirmed that two critical NetScaler remote code execution vulnerabilities, tracked as CVE-2026-88771 and CVE-2026-88772, are being exploi...",
-            "published_utc": "2026-09-27T16:02:37+00:00"
         },
         {
             "source": "WIRED Security",
@@ -1010,13 +1038,6 @@
             "published_utc": "2026-09-16T16:30:44+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "How September’s Pixel Drop changes the way you call and message important contacts",
-            "link": "https://www.zdnet.com/tech/september-pixel-drop-call-message-important-contacts/",
-            "summary": "The update lets you contact VIPs with a tap and adds scam protection.",
-            "published_utc": "2026-09-16T16:25:53+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "PHP Webshell Campaign Targets WordPress Through Critical WooCommerce Plugin Bug",
             "link": "https://www.infosecurity-magazine.com/news/woocommerce-wholesale-lead-capture/",
@@ -1029,13 +1050,6 @@
             "link": "https://www.infosecurity-magazine.com/news/cisa-nist-cloud-identity-token/",
             "summary": "CISA and NIST issued final guidance to help protect cloud identity tokens and assertions",
             "published_utc": "2026-09-16T14:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I’ve used both iPhone 18 Pro models – here’s how my buying advice is changing in 2026",
-            "link": "https://www.zdnet.com/business/iphone-18-pro-vs-pro-max-buying-advice-2026/",
-            "summary": "Can’t decide between the iPhone 18 Pro and 18 Pro Max? Absolute feature parity makes this year’s decision a little easier for me.",
-            "published_utc": "2026-09-16T12:05:35+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1057,13 +1071,6 @@
             "link": "https://www.infosecurity-magazine.com/news/zeroday-tplink-cameras/",
             "summary": "OPSWAT researchers find two zero-days in TP-Link cameras",
             "published_utc": "2026-09-16T10:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Windows 11 out-of-band update fixes audio glitch and other bugs – grab it now",
-            "link": "https://www.zdnet.com/business/windows-11-out-of-band-update-fixes-audio-glitch/",
-            "summary": "The latest out-of-band update resolves a few problems in Windows 11, including one that cut off the sound for certain USB audio devices.",
-            "published_utc": "2026-09-16T09:04:02+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1645,13 +1652,6 @@
             "link": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
             "summary": "Plus: Hackers target over 100 US water systems, ICE puts in an order for robot dogs, and you’ll never guess what “MrChildPorn” was arrested for.",
             "published_utc": "2026-08-29T10:30:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "Microsoft Teams Has Become a Haven for Scammers in China",
-            "link": "https://www.wired.com/story/microsoft-teams-is-becoming-a-haven-for-chinese-scammers/",
-            "summary": "Fraudsters are exploiting enterprise chat apps like Teams and Webex to trick Chinese victims into transferring large sums of money, fueling a wave of ...",
-            "published_utc": "2026-08-28T18:23:17+00:00"
         },
         {
             "source": "InfosecurityMag",
