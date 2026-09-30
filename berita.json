@@ -1,12 +1,47 @@
 {
-    "lastUpdatedUTC": "2026-09-30T16:44:19.635922+00:00",
+    "lastUpdatedUTC": "2026-09-30T21:16:08.859418+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Russian state hackers use new RedFlick technique to push malware",
+            "link": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
+            "summary": "The Russian state actor Star Blizzard has been using a new malware installation tactic dubbed \"RedFlick\" to deploy its signature CosmicPulse backdoor....",
+            "published_utc": "2026-09-30T20:34:01+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "DIVD says Zammad zero-days enabled AI-driven network breach",
+            "link": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/",
+            "summary": "The Dutch Institute for Vulnerability Disclosure (DIVD) says that the breach of its network was possible by exploiting a chain of two zero-day vulnera...",
+            "published_utc": "2026-09-30T19:49:15+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Over 543,000 valid credentials exposed in public GitHub repositories",
+            "link": "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/",
+            "summary": "More than 543,000 credentials exposed in public GitHub repositories were still valid in July despite the platform's security measures to prevent accid...",
+            "published_utc": "2026-09-30T18:08:34+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "openSUSE Leap adds a new security layer: Immutable mode",
+            "link": "https://www.zdnet.com/tech/opensuse-leap-immutable-mode-security/",
+            "summary": "One of the more secure Linux distributions has added another feature to help further lock it down.",
+            "published_utc": "2026-09-30T17:58:06+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS",
             "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/",
             "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a new critical vulnerability in MikroTik RouterOS that could lead to re...",
             "published_utc": "2026-09-30T15:49:29+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Your iPhone just got a hidden anti-scam upgrade in iOS 27: How to enable it",
+            "link": "https://www.zdnet.com/tech/ios-27-impersonation-risk-detection-security-feature/",
+            "summary": "New with iOS 27 (and iPadOS 27) is a setting called Impersonation Risk Detection that aims to warn you of suspicious activity that could trap you in a...",
+            "published_utc": "2026-09-30T15:45:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -261,32 +296,11 @@
             "published_utc": "2026-09-29T17:58:37+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Windows 11 2026 Update released, here's everything you need to know",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-2026-update-released-heres-everything-you-need-to-know/",
-            "summary": "Microsoft has started rolling out Windows 11 26H2 to everyone, and while it's this year's big annual feature update, you probably won't notice a massi...",
-            "published_utc": "2026-09-29T17:37:40+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "Get Kindle Unlimited free for 3 months with this early Prime Day deal",
             "link": "https://www.zdnet.com/uncategorized/kindle-unlimited-amazon-october-prime-day-deal-2026/",
             "summary": "Amazon’s free Kindle Unlimited deal only comes around a couple times a year – and I highly recommend it.",
             "published_utc": "2026-09-29T17:32:40+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "New Spectre v2 attack variant leaks Linux root password hash in minutes",
-            "link": "https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/",
-            "summary": "A new Branch Target Reuse (BTR) attack has been devised that can recover root password hashes on Intel computers running Linux in 3-5 minutes on avera...",
-            "published_utc": "2026-09-29T17:10:11+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Automated AI agent used to breach cybersecurity nonprofit DIVD",
-            "link": "https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/",
-            "summary": "The Dutch Institute for Vulnerability Disclosure (DIVD) suffered an AI-driven cyberattack that the organization described as \"loud and very, very mess...",
-            "published_utc": "2026-09-29T15:39:19+00:00"
         },
         {
             "source": "CSO Online",
@@ -1031,13 +1045,6 @@
             "published_utc": "2026-09-17T14:00:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Bose returns with new open earbuds (and a refreshed favorite)",
-            "link": "https://www.zdnet.com/tech/bose-ultra-earbuds-sport-open-earbuds/",
-            "summary": "Bose announces the Ultra Open (2nd Gen) and the Sport Open Earbuds, offering more options for aware listeners.",
-            "published_utc": "2026-09-17T13:00:19+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "New Chinese-Made ‘RatHat’ Android Malware Leverages AI to Steal Financial Data",
             "link": "https://www.infosecurity-magazine.com/news/rathat-android-malware-ai-steal/",
@@ -1085,13 +1092,6 @@
             "link": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
             "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-sea...",
             "published_utc": "2026-09-16T18:14:22+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I recommend you don’t run these appliances on your power station – even if you can",
-            "link": "https://www.zdnet.com/home-and-office/do-not-run-these-appliances-on-power-stations/",
-            "summary": "Using a power station for backup is ideal, but not with these appliances.",
-            "published_utc": "2026-09-16T17:44:31+00:00"
         },
         {
             "source": "InfosecurityMag",
