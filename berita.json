@@ -1,6 +1,139 @@
 {
-    "lastUpdatedUTC": "2026-09-30T10:56:43.522412+00:00",
+    "lastUpdatedUTC": "2026-09-30T16:44:19.635922+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS",
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/",
+            "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a new critical vulnerability in MikroTik RouterOS that could lead to re...",
+            "published_utc": "2026-09-30T15:49:29+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Cisco warns of new SD-WAN zero-day exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/",
+            "summary": "Cisco released security updates to address a critical zero-day in the Catalyst SD-WAN Manager (tracked as CVE-2026-76504) that attackers are actively ...",
+            "published_utc": "2026-09-30T14:46:40+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Google: AI Is Changing the Pace and Profile of Vulnerability Discovery",
+            "link": "https://www.securityweek.com/google-ai-is-changing-the-pace-and-profile-of-vulnerability-discovery/",
+            "summary": "",
+            "published_utc": "2026-09-30T14:05:58+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "AI's Third Wave: Coworkers Break the Security Model That Worked for Agents",
+            "link": "https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/",
+            "summary": "Persistent AI coworkers may operate continuously with standing access, creating identity risks that existing security models were not designed to hand...",
+            "published_utc": "2026-09-30T14:01:11+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "AI-Found Vulnerabilities More Likely to Enable RCE, Google Says",
+            "link": "https://www.infosecurity-magazine.com/news/ai-found-vulnerabilities-rce/",
+            "summary": "AI-discovered vulnerabilities are more likely to enable RCE, as disclosures and exploitation rise",
+            "published_utc": "2026-09-30T14:00:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Unsloth’s model picker had a code-execution problem",
+            "link": "https://www.csoonline.com/article/4228910/unsloths-model-picker-had-a-code-execution-problem-2.html",
+            "summary": "",
+            "published_utc": "2026-09-30T13:56:13+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft to block Entra ID script injection attacks starting October",
+            "link": "https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/",
+            "summary": "Microsoft has reminded customers that the Entra ID authentication system will get better protection against external script injection attacks starting...",
+            "published_utc": "2026-09-30T13:37:15+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "WatchGuard Patches Critical Fireware OS Code Injection Vulnerability",
+            "link": "https://www.securityweek.com/watchguard-patches-critical-fireware-os-code-injection-vulnerability/",
+            "summary": "",
+            "published_utc": "2026-09-30T13:16:56+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Trump, Six AI Giants Sign 'Super Intelligence' Safety Accord",
+            "link": "https://www.infosecurity-magazine.com/news/trump-ai-giants-super-intelligence/",
+            "summary": "Trump and six AI firms sign a voluntary accord on internal controls, audits and board oversight",
+            "published_utc": "2026-09-30T13:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Government, Finance Orgs Targeted in Weeks-Long NetScaler Zero-Day Attacks",
+            "link": "https://www.securityweek.com/government-finance-orgs-targeted-in-weeks-long-netscaler-zero-day-attacks/",
+            "summary": "",
+            "published_utc": "2026-09-30T12:48:20+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Pearson’s Workera deal targets a big workplace problem: No time to AI upskill",
+            "link": "https://www.zdnet.com/innovation/pearson-workera-acquisition-ai-upskilling/",
+            "summary": "Pearson has agreed to acquire Workera to help businesses assess employees’ AI skills and target training where it’s needed most.",
+            "published_utc": "2026-09-30T12:25:48+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "TeamViewer urges users to patch severe flaws “as soon as possible”",
+            "link": "https://www.bleepingcomputer.com/news/security/teamviewer-urges-users-to-patch-severe-flaws-as-soon-as-possible/",
+            "summary": "Remote access software company TeamViewer warned customers on Tuesday to immediately patch a set of high-severity vulnerabilities affecting its client...",
+            "published_utc": "2026-09-30T12:25:10+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Chrome, Firefox Updates Patch Over 100 Vulnerabilities",
+            "link": "https://www.securityweek.com/chrome-firefox-updates-patch-over-100-vulnerabilities/",
+            "summary": "",
+            "published_utc": "2026-09-30T12:16:52+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "AI Boosts SOC Analyst Capacity but Limits Skill Development",
+            "link": "https://www.infosecurity-magazine.com/news/ai-boosts-soc-analyst-capacity/",
+            "summary": "Swimlane finds that AI is reducing repetitive work for SOC teams but some feel their careers may suffer",
+            "published_utc": "2026-09-30T12:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Attackers Combine ChatGPT Feature Abuse With ClickFix to Deliver Trojan Malware",
+            "link": "https://www.infosecurity-magazine.com/news/chatgpt-feature-abuse-to-deliver/",
+            "summary": "Cybersecurity researchers at Huntress identify campaign to deliver potent trojan which targets users searching for ChatGPT via Google",
+            "published_utc": "2026-09-30T11:30:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Anthropic Flags AI Agent Liability Risks as OpenAI Faces Hacking Lawsuit",
+            "link": "https://www.securityweek.com/anthropic-flags-ai-agent-liability-risks-as-openai-faces-hacking-lawsuit/",
+            "summary": "",
+            "published_utc": "2026-09-30T11:19:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Bitget hacked via zero-day in third-party security products",
+            "link": "https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/",
+            "summary": "Cryptocurrency exchange Bitget revealed today that attackers who stole $387.5 million last week breached its systems after exploiting a zero-day flaw ...",
+            "published_utc": "2026-09-30T11:11:46+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "I Want Better Reporting on AI Genie Behavior",
+            "link": "https://www.schneier.com/blog/archives/2026/09/i-want-better-reporting-on-ai-genie-behavior.html",
+            "summary": "",
+            "published_utc": "2026-09-30T11:05:35+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Russian APT Star Blizzard Uses ‘RedFlick’ Infection Chain in Recent Attacks",
+            "link": "https://www.securityweek.com/russian-apt-star-blizzard-uses-redflick-infection-chain-in-recent-attacks/",
+            "summary": "",
+            "published_utc": "2026-09-30T10:59:30+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "ShinyHunters Defiant After FBI Calls on Members to Come Forward",
@@ -28,6 +161,13 @@
             "link": "https://www.csoonline.com/article/4228309/can-we-jail-a-superintelligence.html",
             "summary": "",
             "published_utc": "2026-09-30T09:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Apple Patches CoreGraphics Zero Day Exploited in Attacks",
+            "link": "https://www.infosecurity-magazine.com/news/apple-patches-coregraphics-zero/",
+            "summary": "Apple has patched CVE-2026-86950, a zero-day bug in the iOS CoreGraphics engine",
+            "published_utc": "2026-09-30T08:45:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -135,25 +275,11 @@
             "published_utc": "2026-09-29T17:32:40+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "DARPA Selects Xint to Use AI in Securing Military Messaging Apps",
-            "link": "https://www.securityweek.com/darpa-selects-xint-to-use-ai-in-securing-military-messaging-apps/",
-            "summary": "",
-            "published_utc": "2026-09-29T17:24:04+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "New Spectre v2 attack variant leaks Linux root password hash in minutes",
             "link": "https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/",
             "summary": "A new Branch Target Reuse (BTR) attack has been devised that can recover root password hashes on Intel computers running Linux in 3-5 minutes on avera...",
             "published_utc": "2026-09-29T17:10:11+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "New Spectre v2 Variant Exposes Intel, AMD, Arm CPUs to Data Leaks",
-            "link": "https://www.securityweek.com/new-spectre-v2-variant-exposes-intel-amd-arm-cpus-to-data-leaks/",
-            "summary": "",
-            "published_utc": "2026-09-29T17:00:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -170,25 +296,11 @@
             "published_utc": "2026-09-29T14:45:13+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "RemoteThreat Launches With $7 Million for Offensive Operations Platform",
-            "link": "https://www.securityweek.com/remotethreat-launches-with-7-million-for-offensive-operations-platform/",
-            "summary": "",
-            "published_utc": "2026-09-29T14:38:07+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "RatHat's Evolving C2 Panel Points to Malware-as-a-Service Model",
             "link": "https://www.infosecurity-magazine.com/news/rathat-c2-panel-malware-as-a/",
             "summary": "RatHat's C2 panel now builds malware and ranks victims with AI across nearly 100 deployments",
             "published_utc": "2026-09-29T14:30:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Catch threats before they escalate with real-time Identity Telemetry",
-            "link": "https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/",
-            "summary": "Identity governance helps control who should have access, but periodic reviews alone may not reveal attacks as they happen. tenfold Software explains ...",
-            "published_utc": "2026-09-29T14:01:11+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -203,34 +315,6 @@
             "link": "https://www.infosecurity-magazine.com/news/microsoft-needymantis-malware/",
             "summary": "Microsoft Threat Intelligence warns that NeedyMantis threat actor from China has targeted organizations across a range of industries",
             "published_utc": "2026-09-29T13:30:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Reco Raises $55 Million for Agentic Security",
-            "link": "https://www.securityweek.com/reco-raises-55-million-for-agentic-security/",
-            "summary": "",
-            "published_utc": "2026-09-29T13:20:53+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Hackers Use ChatGPT Custom GPTs in ClickFix Attacks",
-            "link": "https://www.securityweek.com/hackers-use-chatgpt-custom-gpts-in-clickfix-attacks/",
-            "summary": "",
-            "published_utc": "2026-09-29T13:03:35+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Pentagon Personnel Agency Data Breach Impacts 3 Million People",
-            "link": "https://www.securityweek.com/pentagon-personnel-agency-data-breach-impacts-3-million-people/",
-            "summary": "",
-            "published_utc": "2026-09-29T12:25:12+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Vietnamese man charged in $16 million 'pig butchering' crypto scam",
-            "link": "https://www.bleepingcomputer.com/news/security/vietnamese-man-charged-in-16-million-pig-butchering-crypto-scam/",
-            "summary": "A Vietnamese national was charged with money laundering for his role in a massive \"pig butchering\" scam, which defrauded a victim out of $16 million w...",
-            "published_utc": "2026-09-29T11:41:53+00:00"
         },
         {
             "source": "Schneier",
@@ -254,25 +338,11 @@
             "published_utc": "2026-09-29T09:30:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Kiteworks patches critical flaw, brings customer systems online",
-            "link": "https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/",
-            "summary": "American tech company Kiteworks has lifted a precautionary advisory asking customers to shut down systems after patching a critical vulnerability. [...]",
-            "published_utc": "2026-09-29T09:04:06+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "Timeshare exit scams: From fake buyers to recovery fraud",
             "link": "https://www.welivesecurity.com/en/scams/timeshare-exit-scams-fake-buyers-recovery-scams/",
             "summary": "Con artists are targeting timeshare owners who want out – and some victims are hit twice",
             "published_utc": "2026-09-29T09:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Apple patches CoreGraphics zero-day flaw exploited in attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/",
-            "summary": "Apple released security updates to fix a zero-day vulnerability exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
-            "published_utc": "2026-09-29T07:33:12+00:00"
         },
         {
             "source": "CSO Online",
@@ -282,25 +352,11 @@
             "published_utc": "2026-09-29T01:06:28+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Japan's Keio confirms ransomware attack disrupted business systems",
-            "link": "https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/",
-            "summary": "Keio Corporation (Keio), a major private railway operator in Japan, said its network was hit by a ransomware attack over the weekend, disrupting  some...",
-            "published_utc": "2026-09-28T20:56:47+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "iOS 27.0.1 released: Apple fixes annoying iPhone 18 Pro restart and freezing issues",
             "link": "https://www.zdnet.com/tech/iphone-18-pro-freeze-restart-ios-27-0-1-fix/",
             "summary": "The first update to iOS 27 squashes a bug in which the iPhone 18 Pro and Pro Max would freeze or restart when you try to use Face ID.",
             "published_utc": "2026-09-28T20:39:56+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Times Car confirms data breach affecting 6.6 million user accounts",
-            "link": "https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/",
-            "summary": "Japanese car-sharing service Times Car has confirmed that approximately 6.6 million user accounts were compromised in a cyberattack disclosed late las...",
-            "published_utc": "2026-09-28T20:31:16+00:00"
         },
         {
             "source": "CSO Online",
@@ -653,13 +709,6 @@
             "published_utc": "2026-09-24T02:05:30+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "F5 fixes actively exploited zero-day flaw in BIG-IP APM",
-            "link": "https://www.csoonline.com/article/4225721/f5-fixes-actively-exploited-zero-day-flaw-in-big-ip-apm.html",
-            "summary": "",
-            "published_utc": "2026-09-23T20:44:25+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "How to fix your Windows File History if the September update broke it",
             "link": "https://www.zdnet.com/business/windows-update-break-file-history-fix-available/",
@@ -933,13 +982,6 @@
             "published_utc": "2026-09-18T13:00:00+00:00"
         },
         {
-            "source": "Schneier",
-            "title": "Are AIs Still Struggling with CAPTCHAs?",
-            "link": "https://www.schneier.com/blog/archives/2026/09/are-ais-still-struggling-with-captchas.html",
-            "summary": "",
-            "published_utc": "2026-09-18T11:05:52+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "CISA Upgrades Vulnerability Reporting Platform with More Automation",
             "link": "https://www.infosecurity-magazine.com/news/cisa-upgrades-vulnerability/",
@@ -1050,13 +1092,6 @@
             "link": "https://www.zdnet.com/home-and-office/do-not-run-these-appliances-on-power-stations/",
             "summary": "Using a power station for backup is ideal, but not with these appliances.",
             "published_utc": "2026-09-16T17:44:31+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Anthropic merges Claude chat and Cowork into one",
-            "link": "https://www.zdnet.com/innovation/claude-chat-absorbs-cowork-anthropic/",
-            "summary": "From Claude to Cowork and back again – plus, Anthropic’s all-new Claude Docs.",
-            "published_utc": "2026-09-16T16:30:44+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2723,34 +2758,6 @@
             "link": "https://www.infosecurity-magazine.com/news/open-ai-hacked-another-company/",
             "summary": "Hugging Face recently disclosed a security breach. OpenAI has now said that it was its AI models which broke containment and hacked Hugging Face thems...",
             "published_utc": "2026-07-22T11:40:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Ubuntu snap-confine Vulnerability Enables Local Root Access",
-            "link": "https://www.infosecurity-magazine.com/news/ubuntu-snap-confine-local-root-cve/",
-            "summary": "New Ubuntu snap-confine race condition lets local users escalate to root on default installs",
-            "published_utc": "2026-07-22T10:50:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Google Makes CodeMender Available as Managed AI Security Agent",
-            "link": "https://www.infosecurity-magazine.com/news/google-codemender-available-ai/",
-            "summary": "CodeMender actively builds and runs exploits in customer-managed sandboxes to verify if vulnerabilities are truly exploitable",
-            "published_utc": "2026-07-22T10:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Russian Hacker Turns Jailbroken Claude Into Pentest Platform",
-            "link": "https://www.infosecurity-magazine.com/news/trim-jailbroken-claude-ai-pentest/",
-            "summary": "Russian-speaking actor Trim built a commercial offensive AI pentest tool on jailbroken Claude models",
-            "published_utc": "2026-07-21T14:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "A New Ransomware Threat Actor Emerges Every Week, Warns Report",
-            "link": "https://www.infosecurity-magazine.com/news/new-ransomware-weekly/",
-            "summary": "Analysis by Black Kite warns that ransomware ecosystem is becoming bigger and more fragmented",
-            "published_utc": "2026-07-21T13:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
