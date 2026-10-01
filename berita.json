@@ -1,12 +1,187 @@
 {
-    "lastUpdatedUTC": "2026-10-01T08:26:02.203805+00:00",
+    "lastUpdatedUTC": "2026-10-01T16:03:46.065253+00:00",
     "articles": [
         {
             "source": "SecurityWeek",
-            "title": "Google Launches Gemini 4 Argon With Guardrail-Free Access for Vetted Defenders",
-            "link": "https://www.securityweek.com/google-launches-gemini-4-argon-with-guardrail-free-access-for-vetted-defenders/",
+            "title": "Hacker Conversations: Rob Juncker, a Knock at the Door and a Moral Compass",
+            "link": "https://www.securityweek.com/hacker-conversations-rob-juncker-a-knock-at-the-door-and-a-moral-compass/",
             "summary": "",
-            "published_utc": "2026-10-01T07:52:26+00:00"
+            "published_utc": "2026-10-01T14:30:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Enterprises Struggle to Prepare for AI and Quantum Threats, PwC Says",
+            "link": "https://www.securityweek.com/enterprises-struggle-to-prepare-for-ai-and-quantum-threats-pwc-says/",
+            "summary": "",
+            "published_utc": "2026-10-01T14:30:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
+            "link": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/",
+            "summary": "An international law enforcement operation dubbed \"Operation KillSwitch\" seized the KillSec ransomware gang's data leak site and servers, led to three...",
+            "published_utc": "2026-10-01T14:25:14+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Police Shut Down KillSec Ransomware, Identify Alleged Teen Leader",
+            "link": "https://www.securityweek.com/police-shut-down-killsec-ransomware-identify-alleged-teen-leader/",
+            "summary": "",
+            "published_utc": "2026-10-01T14:17:07+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Critical Cisco Catalyst SD-WAN Zero-Day Under Active Exploitation",
+            "link": "https://www.infosecurity-magazine.com/news/critical-cisco-catalyst-sdwan/",
+            "summary": "Vulnerability in Cisco Catalyst SD-WAN Manager allows an unauthenticated, remote attacker to access systems with admin privileges",
+            "published_utc": "2026-10-01T14:17:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "The Day-One Hole in Zero Trust Architecture",
+            "link": "https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/",
+            "summary": "Zero Trust can verify users once they are established, but onboarding creates a gap where organizations must decide who to trust before strong authent...",
+            "published_utc": "2026-10-01T14:01:11+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "China-Linked Hackers Impersonate AI Experts to Target US Policy Insiders",
+            "link": "https://www.infosecurity-magazine.com/news/ta419-impersonates-ai-experts-us/",
+            "summary": "TA419 posed as AI policymakers and economists to phish US AI policy experts' Microsoft 365 accounts",
+            "published_utc": "2026-10-01T14:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Kiteworks patches max severity code injection vulnerability",
+            "link": "https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/",
+            "summary": "Secure file-sharing software company Kiteworks has released security updates to address 126 vulnerabilities, including a max-severity flaw affecting i...",
+            "published_utc": "2026-10-01T13:51:08+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Google makes Gemini 4 AI model available to a trusted few",
+            "link": "https://www.csoonline.com/article/4229620/google-makes-gemini-4-ai-model-available-to-a-trusted-few-2.html",
+            "summary": "",
+            "published_utc": "2026-10-01T13:48:43+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Cisco SD-WAN Manager hit by zero-day admin access attack",
+            "link": "https://www.csoonline.com/article/4229603/cisco-sd-wan-manager-hit-by-zero-day-admin-access-attack-2.html",
+            "summary": "",
+            "published_utc": "2026-10-01T13:36:47+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "CloudSyncD MacOS Backdoor Hides Behind Fake Zoom Installer",
+            "link": "https://www.infosecurity-magazine.com/news/cloudsyncd-macos-backdoor-fake/",
+            "summary": "CloudSyncD uses a fake Zoom installer to phish Mac passwords and launch a two-stage backdoor",
+            "published_utc": "2026-10-01T13:30:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "AI Has Changed Attack Speed, Not Security Fundamentals",
+            "link": "https://www.securityweek.com/ai-has-changed-attack-speed-not-security-fundamentals/",
+            "summary": "",
+            "published_utc": "2026-10-01T13:15:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Zimbra Vulnerability Exploited in the Wild Prior to Public Disclosure",
+            "link": "https://www.securityweek.com/zimbra-vulnerability-exploited-in-the-wild-prior-to-public-disclosure/",
+            "summary": "",
+            "published_utc": "2026-10-01T12:55:57+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Kevin Mandia’s Armadin Raises $255 Million at $2.5 Billion Valuation",
+            "link": "https://www.securityweek.com/kevin-mandias-armadin-raises-255-million-at-2-5-billion-valuation/",
+            "summary": "",
+            "published_utc": "2026-10-01T11:40:51+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft enables Windows settings backup by default for orgs",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/",
+            "summary": "Microsoft announced that Windows settings backup and restore is now enabled by default on all Microsoft Entra-joined or Microsoft Entra hybrid-joined ...",
+            "published_utc": "2026-10-01T11:14:28+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Connected Cars Are a Surveillance Platform",
+            "link": "https://www.schneier.com/blog/archives/2026/10/connected-cars-are-a-surveillance-platform.html",
+            "summary": "",
+            "published_utc": "2026-10-01T11:06:14+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Treasury Blacklists Most-Wanted ATM Malware Developer and His Network",
+            "link": "https://www.securityweek.com/treasury-blacklists-most-wanted-atm-malware-developer-and-his-network/",
+            "summary": "",
+            "published_utc": "2026-10-01T10:51:39+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Zammad Zero-Days Exploited in AI-Powered DIVD Hack",
+            "link": "https://www.securityweek.com/zammad-zero-days-exploited-in-ai-powered-divd-hack/",
+            "summary": "",
+            "published_utc": "2026-10-01T10:42:49+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers stole Pentagon personnel records of over 3 million people",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/",
+            "summary": "The Pentagon's Defense Manpower Data Center (DMDC) is notifying millions of military service members that hackers stole their data after breaching the...",
+            "published_utc": "2026-10-01T09:44:28+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "500,000 Active Credentials Left Exposed on GitHub",
+            "link": "https://www.securityweek.com/500000-active-credentials-left-exposed-on-github/",
+            "summary": "",
+            "published_utc": "2026-10-01T09:43:56+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "AI Threats Top Cybersecurity Preparedness Gap, PwC Finds",
+            "link": "https://www.infosecurity-magazine.com/news/mitigating-adversarial-ai-top/",
+            "summary": "PwC finds global security leaders are most concerned about attacks on AI systems",
+            "published_utc": "2026-10-01T09:30:00+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "The Secrets of the US Spyware King",
+            "link": "https://www.wired.com/story/the-secrets-of-the-us-spyware-king/",
+            "summary": "In an exclusive interview with WIRED, Paragon Solutions CEO Andrew Boyd reveals the limits of the company’s promise to keep bad actors from abusing it...",
+            "published_utc": "2026-10-01T09:30:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Why AI agents are like the dog that pushed kids into the Seine",
+            "link": "https://www.csoonline.com/article/4228972/why-ai-agents-are-like-the-dog-that-pushed-kids-into-the-seine.html",
+            "summary": "",
+            "published_utc": "2026-10-01T09:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Who owns AI risk at work? Business and tech leaders can’t agree, PwC survey finds",
+            "link": "https://www.zdnet.com/innovation/pwc-digital-trust-insights-2027-ai-risk-responsibility/",
+            "summary": "PwC research highlights a growing need for someone to own AI. Is an AI chief the answer?",
+            "published_utc": "2026-10-01T09:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Cisco Patches Exploited Catalyst SD-WAN Zero-Day Vulnerability",
+            "link": "https://www.securityweek.com/cisco-patches-exploited-catalyst-sd-wan-zero-day-vulnerability/",
+            "summary": "",
+            "published_utc": "2026-10-01T08:26:03+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "MI5 Warns Over 100 Academics Helped China's Espionage Plans",
+            "link": "https://www.infosecurity-magazine.com/news/mi5-alerts-academics-chinese/",
+            "summary": "MI5 has issued a rare warning to UK academics contributing to the China General Technology Research Institute",
+            "published_utc": "2026-10-01T07:37:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -14,13 +189,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/",
             "summary": "On Thursday, cryptocurrency wallet provider MetaMask has disclosed an ongoing infrastructure security incident affecting some of its infrastructure. [...",
             "published_utc": "2026-10-01T07:33:57+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "FTC is Investigating OpenAI and Anthropic Over Possible Risks to Consumers",
-            "link": "https://www.securityweek.com/ftc-is-investigating-openai-and-anthropic-over-possible-risks-to-consumers/",
-            "summary": "",
-            "published_utc": "2026-09-30T23:43:51+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -72,13 +240,6 @@
             "published_utc": "2026-09-30T14:46:40+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Google: AI Is Changing the Pace and Profile of Vulnerability Discovery",
-            "link": "https://www.securityweek.com/google-ai-is-changing-the-pace-and-profile-of-vulnerability-discovery/",
-            "summary": "",
-            "published_utc": "2026-09-30T14:05:58+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "AI's Third Wave: Coworkers Break the Security Model That Worked for Agents",
             "link": "https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/",
@@ -107,25 +268,11 @@
             "published_utc": "2026-09-30T13:37:15+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "WatchGuard Patches Critical Fireware OS Code Injection Vulnerability",
-            "link": "https://www.securityweek.com/watchguard-patches-critical-fireware-os-code-injection-vulnerability/",
-            "summary": "",
-            "published_utc": "2026-09-30T13:16:56+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Trump, Six AI Giants Sign 'Super Intelligence' Safety Accord",
             "link": "https://www.infosecurity-magazine.com/news/trump-ai-giants-super-intelligence/",
             "summary": "Trump and six AI firms sign a voluntary accord on internal controls, audits and board oversight",
             "published_utc": "2026-09-30T13:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Government, Finance Orgs Targeted in Weeks-Long NetScaler Zero-Day Attacks",
-            "link": "https://www.securityweek.com/government-finance-orgs-targeted-in-weeks-long-netscaler-zero-day-attacks/",
-            "summary": "",
-            "published_utc": "2026-09-30T12:48:20+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -142,13 +289,6 @@
             "published_utc": "2026-09-30T12:25:10+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Chrome, Firefox Updates Patch Over 100 Vulnerabilities",
-            "link": "https://www.securityweek.com/chrome-firefox-updates-patch-over-100-vulnerabilities/",
-            "summary": "",
-            "published_utc": "2026-09-30T12:16:52+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "AI Boosts SOC Analyst Capacity but Limits Skill Development",
             "link": "https://www.infosecurity-magazine.com/news/ai-boosts-soc-analyst-capacity/",
@@ -163,13 +303,6 @@
             "published_utc": "2026-09-30T11:30:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Anthropic Flags AI Agent Liability Risks as OpenAI Faces Hacking Lawsuit",
-            "link": "https://www.securityweek.com/anthropic-flags-ai-agent-liability-risks-as-openai-faces-hacking-lawsuit/",
-            "summary": "",
-            "published_utc": "2026-09-30T11:19:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Bitget hacked via zero-day in third-party security products",
             "link": "https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/",
@@ -182,20 +315,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/09/i-want-better-reporting-on-ai-genie-behavior.html",
             "summary": "",
             "published_utc": "2026-09-30T11:05:35+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Russian APT Star Blizzard Uses ‘RedFlick’ Infection Chain in Recent Attacks",
-            "link": "https://www.securityweek.com/russian-apt-star-blizzard-uses-redflick-infection-chain-in-recent-attacks/",
-            "summary": "",
-            "published_utc": "2026-09-30T10:59:30+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "ShinyHunters Defiant After FBI Calls on Members to Come Forward",
-            "link": "https://www.securityweek.com/shinyhunters-defiant-after-fbi-calls-on-members-to-come-forward/",
-            "summary": "",
-            "published_utc": "2026-09-30T10:20:02+00:00"
         },
         {
             "source": "CSO Online",
@@ -233,39 +352,11 @@
             "published_utc": "2026-09-30T08:25:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "High-Severity Vulnerabilities Patched in OpenSSL, WolfSSL",
-            "link": "https://www.securityweek.com/high-severity-vulnerabilities-patched-in-openssl-wolfssl/",
-            "summary": "",
-            "published_utc": "2026-09-30T06:55:50+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft is rolling out Linux container support to WSL",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/",
-            "summary": "Microsoft is taking Windows Subsystem for Linux beyond just running Linux distributions, as WSL Containers is now generally available. [...]",
-            "published_utc": "2026-09-30T00:40:57+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Signal adds encypted local backup support to iOS, desktop apps",
-            "link": "https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/",
-            "summary": "Signal, the secure messaging app, released version 8.30, completing the rollout of its secure backups feature across all supported operating systems (...",
-            "published_utc": "2026-09-29T21:30:08+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Custom ChatGPTs push ClickFix attacks to deploy RAT malware",
-            "link": "https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/",
-            "summary": "Custom variants of OpenAI's ChatGPT promoted in sponsored Google results are directing unsuspecting users to malicious sites that use ClickFix attacks...",
-            "published_utc": "2026-09-29T20:59:39+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "FBI tells ShinyHunters members to turn themselves in after recent arrest",
-            "link": "https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/",
-            "summary": "The FBI is warning members of the ShinyHunters extortion group to turn themselves in after Dutch police arrested a man the bureau described as one of ...",
-            "published_utc": "2026-09-29T20:09:55+00:00"
+            "source": "WeLiveSecurity",
+            "title": "This month in security with Tony Anscombe – September 2026 edition",
+            "link": "https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-september-2026/",
+            "summary": "Autonomous AI agents go on a hacking spree, and Microsoft ships what used to be a year's worth of security patches in one go – here's how to keep pace",
+            "published_utc": "2026-09-30T08:00:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -280,13 +371,6 @@
             "link": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
             "summary": "A nonprofit in California is doing what Hugging Face has not—attempting to hold OpenAI legally accountable for the actions of its agents.",
             "published_utc": "2026-09-29T19:05:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Hackers exploit Citrix NetScaler zero-day to deploy web shells",
-            "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/",
-            "summary": "Cybersecurity firms say attackers exploited the Citrix NetScaler CVE-2026-88772 zero-day to deploy custom web shells and tunneling malware, gain root ...",
-            "published_utc": "2026-09-29T18:37:12+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -688,13 +772,6 @@
             "published_utc": "2026-09-24T09:30:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Aviation solved the vigilance problem. AI just gave security a worse one",
-            "link": "https://www.csoonline.com/article/4225613/aviation-solved-the-vigilance-problem-ai-just-gave-security-a-worse-one.html",
-            "summary": "",
-            "published_utc": "2026-09-24T09:00:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "Been told to pay at a Bitcoin ATM? Read this first",
             "link": "https://www.welivesecurity.com/en/scams/been-told-pay-bitcoin-atm-read-first/",
@@ -707,20 +784,6 @@
             "link": "https://www.infosecurity-magazine.com/news/data-top-bottleneck-barrier-threat/",
             "summary": "SANS Institute report claims data rather than skills is now the main hurdle for threat hunters",
             "published_utc": "2026-09-24T08:30:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "58 hardware vulnerabilities: A guide to the threats",
-            "link": "https://www.csoonline.com/article/567525/hardware-and-firmware-vulnerabilities-a-guide-to-the-threats.html",
-            "summary": "",
-            "published_utc": "2026-09-24T08:25:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Check Point hacked: The security software protecting your network has become a prime attack target",
-            "link": "https://www.csoonline.com/article/4225812/check-point-hacked-the-security-software-protecting-your-network-has-become-a-prime-attack-target.html",
-            "summary": "",
-            "published_utc": "2026-09-24T02:05:30+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -954,13 +1017,6 @@
             "published_utc": "2026-09-19T02:22:54+00:00"
         },
         {
-            "source": "Schneier",
-            "title": "Friday Squid Blogging: On Squid Egg Sacs",
-            "link": "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-on-squid-egg-sacs.html",
-            "summary": "",
-            "published_utc": "2026-09-18T21:06:00+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "An Undercover Google Analyst Infiltrated a Notorious Supply-Chain Hacking Gang",
             "link": "https://www.wired.com/story/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
@@ -1022,13 +1078,6 @@
             "link": "https://www.zdnet.com/home-and-office/roku-streaming-premium-bundles-labs-feature/",
             "summary": "Roku’s money-saving bundles include channels like HBO Max, Starz, and Fox One.",
             "published_utc": "2026-09-17T19:17:20+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Claude Code’s revised projects adds AI orchestration, but local developers must wait",
-            "link": "https://www.zdnet.com/innovation/claude-code-revised-projects-threads/",
-            "summary": "Claude Code Projects could change how developers manage complex AI coding workflows by coordinating threads, sharing memory, and spanning repos, but i...",
-            "published_utc": "2026-09-17T17:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1687,20 +1736,6 @@
             "link": "https://www.infosecurity-magazine.com/news/healthcare-mckesson-investigates/",
             "summary": "ShinyHunters claims to have stolen 284 million records from McKesson",
             "published_utc": "2026-09-01T08:25:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "ATM Flaws Reveal Key Weaknesses in the Software Supply Chain",
-            "link": "https://www.wired.com/story/atm-flaws-reveal-key-weaknesses-in-the-software-supply-chain/",
-            "summary": "A security researcher discovered nine vulnerabilities impacting ATM encryption and authentication software. But the problems extend far beyond your lo...",
-            "published_utc": "2026-08-31T10:00:00+00:00"
-        },
-        {
-            "source": "WeLiveSecurity",
-            "title": "This month in security with Tony Anscombe – August 2026 edition",
-            "link": "https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-august-2026/",
-            "summary": "Details about the Hugging Face hack, critical infrastructure under attack, a spoofed in-flight Wi-Fi network, and more of this month's cybersecurity news",
-            "published_utc": "2026-08-31T08:55:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2723,41 +2758,6 @@
             "link": "https://www.infosecurity-magazine.com/news/iran-hackers-siemen-schneider-ics/",
             "summary": "US government agencies have warned that Iranian cyber actors are targeting US-based Siemens and Schneider industrial equipment",
             "published_utc": "2026-07-23T13:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "AI Agents Now the Enterprises Fastest Growing Exposed Attack Surface",
-            "link": "https://www.infosecurity-magazine.com/news/ai-agents-attack-surface/",
-            "summary": "Sophos report warns that the rapid adoption of AI by businesses is leaving them vulnerable to a new source of cyber threats",
-            "published_utc": "2026-07-23T11:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "New Dolphin X Stealer Employs AI Profiling to Prioritize Targets",
-            "link": "https://www.infosecurity-magazine.com/news/new-dolphin-x-stealer-ai-targets/",
-            "summary": "Dolphin X is a new infostealer that uses AI to sort and rank victims, giving cybercriminals a faster way to identify lucrative targets",
-            "published_utc": "2026-07-23T10:19:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Two-Thirds of Ransomware Victims Say AI Boosted Attack Effectiveness",
-            "link": "https://www.infosecurity-magazine.com/news/ai-boosts-ransomware-effectiveness/",
-            "summary": "A new study of organizations which have fallen victim to ransomware suggests the rise of AI-tools being used by hackers is making life harder for defe...",
-            "published_utc": "2026-07-23T08:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "TrickBot Ditches HTTP for DNS Tunneling in Latest Variant",
-            "link": "https://www.infosecurity-magazine.com/news/trickbot-dns-tunneling-c2/",
-            "summary": "New TrickBot variant hides C2 communication inside DNS queries, replacing decade-old HTTP pattern",
-            "published_utc": "2026-07-22T15:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Open AI Claims Its AI Models Went Rogue and Hacked Another Company",
-            "link": "https://www.infosecurity-magazine.com/news/open-ai-hacked-another-company/",
-            "summary": "Hugging Face recently disclosed a security breach. OpenAI has now said that it was its AI models which broke containment and hacked Hugging Face thems...",
-            "published_utc": "2026-07-22T11:40:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
