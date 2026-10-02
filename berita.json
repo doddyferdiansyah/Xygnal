@@ -1,12 +1,61 @@
 {
-    "lastUpdatedUTC": "2026-10-02T15:27:25.331678+00:00",
+    "lastUpdatedUTC": "2026-10-02T20:24:21.775737+00:00",
     "articles": [
+        {
+            "source": "WIRED Security",
+            "title": "ICE Has Been Dumping Protester Photos Into a Palantir Database",
+            "link": "https://www.wired.com/story/ice-has-been-dumping-protester-photos-into-a-palantir-database/",
+            "summary": "DHS agents not only tracked and intimidated people observing ICE activity in Maine, but stored information about them in a Palantir-built database, ne...",
+            "published_utc": "2026-10-02T19:52:36+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "iPhone 18 Pro Max stuck in SOS mode? Try AT&#038;T’s urgent fix ASAP",
+            "link": "https://www.zdnet.com/tech/iphone-18-pro-max-att-call-text-sos-issue-update-fix/",
+            "summary": "Some iPhone 18 Pro Max users can’t call or text. AT&#038;T is telling them to update immediately.",
+            "published_utc": "2026-10-02T19:40:38+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Frontline Education breach exposes school district employee data",
+            "link": "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/",
+            "summary": "Frontline Education is notifying school districts of a data breach after attackers exploited a vulnerability in third-party software to gain unauthori...",
+            "published_utc": "2026-10-02T19:01:40+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Warlock ransomware breach SharePoint in water, telecom operator attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/",
+            "summary": "The China-linked ransomware group Warlock targeted a water utility, a telecom provider, a regional government body, and a university by exploiting Sha...",
+            "published_utc": "2026-10-02T18:33:01+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "This new ChatGPT scam tricks you into installing malware – how to spot the trap",
+            "link": "https://www.zdnet.com/innovation/chatgpt-scam-malware-trap/",
+            "summary": "This authentic-looking scam starts with a sponsored Google link – and it’s catching people off-guard.",
+            "published_utc": "2026-10-02T18:18:57+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "GitLab warns of critical RCE vulnerability in AI Gateway service",
+            "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/",
+            "summary": "GitLab warned customers today to immediately patch a critical AI Gateway vulnerability that could let attackers run arbitrary commands on vulnerable i...",
+            "published_utc": "2026-10-02T16:20:05+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "US sanctions Tren de Aragua gang members in ATM hacks crackdown",
             "link": "https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/",
             "summary": "The U.S. Treasury Department has sanctioned eight members of the Venezuelan gang Tren de Aragua (TdA) for their role in the theft of millions of dolla...",
             "published_utc": "2026-10-02T15:20:53+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Google Wallet not working on your Pixel? 4 ways to fix tap-to-pay",
+            "link": "https://www.zdnet.com/tech/tap-to-pay-trouble-pixel-phones-google-wallet-nfc/",
+            "summary": "Some Pixel users are having tap-to-pay problems,  and there’s no fix from  Google  yet. But here a few things that helped others.",
+            "published_utc": "2026-10-02T15:16:21+00:00"
         },
         {
             "source": "Schneier",
@@ -294,27 +343,6 @@
             "link": "https://www.infosecurity-magazine.com/news/mi5-alerts-academics-chinese/",
             "summary": "MI5 has issued a rare warning to UK academics contributing to the China General Technology Research Institute",
             "published_utc": "2026-10-01T07:37:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Metamask discloses security incident affecting its infrastructure",
-            "link": "https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/",
-            "summary": "On Thursday, cryptocurrency wallet provider MetaMask has disclosed an ongoing infrastructure security incident affecting some of its infrastructure. [...",
-            "published_utc": "2026-10-01T07:33:57+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Russian state hackers use new RedFlick technique to push malware",
-            "link": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
-            "summary": "The Russian state actor Star Blizzard has been using a new malware installation tactic dubbed \"RedFlick\" to deploy its signature CosmicPulse backdoor....",
-            "published_utc": "2026-09-30T20:34:01+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "DIVD says Zammad zero-days enabled AI-driven network breach",
-            "link": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/",
-            "summary": "The Dutch Institute for Vulnerability Disclosure (DIVD) says that the breach of its network was possible by exploiting a chain of two zero-day vulnera...",
-            "published_utc": "2026-09-30T19:49:15+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -1059,20 +1087,6 @@
             "published_utc": "2026-09-18T16:00:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Businesses finally seeing AI ROI, but 62% can’t handle the storage demands",
-            "link": "https://www.zdnet.com/business/ai-storage-demand-seagate-study/",
-            "summary": "A Seagate study finds that 99% of IT leaders expect AI to drive increased data storage needs, but only 38% are prepared to meet them, revealing a sign...",
-            "published_utc": "2026-09-18T15:09:13+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Fake calendar invites can infect your system, and they’re surging – how to protect yourself",
-            "link": "https://www.zdnet.com/tech/fake-calendar-invites-malware/",
-            "summary": "These invites sneak past your security software to embed themselves in your calendar. But you can thwart them before they do any damage.",
-            "published_utc": "2026-09-18T14:57:25+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "New Settra Ransomware Variant Deployed in Attacks on Retail and Manufacturing",
             "link": "https://www.infosecurity-magazine.com/news/settra-ransomware-retail/",
@@ -1106,13 +1120,6 @@
             "link": "https://www.infosecurity-magazine.com/news/manufacturing-22-ransomware-victims/",
             "summary": "Black Kite has found that manufacturing remained the most targeted sector for ransomware attacks, and saw a big jump in incidents in H1 2026",
             "published_utc": "2026-09-18T08:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Roku rolls out over 30 subscription bundles for up to 30% off, plus a new Labs feature",
-            "link": "https://www.zdnet.com/home-and-office/roku-streaming-premium-bundles-labs-feature/",
-            "summary": "Roku’s money-saving bundles include channels like HBO Max, Starz, and Fox One.",
-            "published_utc": "2026-09-17T19:17:20+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1652,13 +1659,6 @@
             "link": "https://www.infosecurity-magazine.com/news/us-canada-court-breach-thomson/",
             "summary": "Thomson Reuters has disclosed a cyber incident affecting its C-Track court management software, potentially exposing court records in Canada and the US",
             "published_utc": "2026-09-03T12:00:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "This Is Flock’s AI Search Tool for Cops",
-            "link": "https://www.wired.com/story/flock-ai-search-user-interface/",
-            "summary": "WIRED rebuilt Flock’s latest search tool from code the company sends to a police officer’s browser. Its AI can keep watch across multiple cameras for ...",
-            "published_utc": "2026-09-03T10:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
