@@ -1,6 +1,174 @@
 {
-    "lastUpdatedUTC": "2026-10-06T07:15:30.523499+00:00",
+    "lastUpdatedUTC": "2026-10-06T14:48:15.495881+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "FBI Blames Contractor’s Missed Patch for ShinyHunters Breach",
+            "link": "https://www.securityweek.com/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/",
+            "summary": "",
+            "published_utc": "2026-10-06T14:15:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "How to secure RMM software: 8 controls MSPs should test",
+            "link": "https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/",
+            "summary": "RMM platforms give MSPs privileged access across customer environments, making their security controls critical to limiting risk. Acronis outlines eig...",
+            "published_utc": "2026-10-06T14:00:10+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Nikkei Discloses Two Employee Cloud Account Compromises",
+            "link": "https://www.infosecurity-magazine.com/news/nikkei-employee-cloud-account/",
+            "summary": "Nikkei says two employee cloud accounts were accessed, with one used to send 9,000 phishing emails",
+            "published_utc": "2026-10-06T14:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Red Hat’s Lightwell Project Remediates 400 Open-Source Vulnerabilities",
+            "link": "https://www.infosecurity-magazine.com/news/red-hat-lightwell-remediates-400/",
+            "summary": "The IBM subsidiary has also announced its Lightwell Clearinghouse is now available to all customers",
+            "published_utc": "2026-10-06T13:01:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Mistral’s new Le Chonk model brings AI cybersecurity to your business – and you control it",
+            "link": "https://www.zdnet.com/innovation/mistral-le-chonk-ai-cybersecurity-business/",
+            "summary": "Open models are vying to become the everyman defense solution for a growing swarm of agent breaches.",
+            "published_utc": "2026-10-06T13:00:04+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "FBI Arrests ‘Most Wanted’ Developer of Ploutus ATM Malware",
+            "link": "https://www.securityweek.com/fbi-arrests-most-wanted-developer-of-ploutus-atm-malware/",
+            "summary": "",
+            "published_utc": "2026-10-06T12:47:57+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Critical Medical Devices Unable to Support PQC Transition",
+            "link": "https://www.infosecurity-magazine.com/news/medical-devices-pqc-transition/",
+            "summary": "Forescout found that just 6% of Internet of Medical Things (IoMT) and 16% of medical OT are capable of supporting post quantum cryptography",
+            "published_utc": "2026-10-06T12:20:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Apple to Tighten Full Disk Access Controls in macOS Amid AI Risks",
+            "link": "https://www.securityweek.com/apple-to-tighten-full-disk-access-controls-in-macos-amid-ai-risks/",
+            "summary": "",
+            "published_utc": "2026-10-06T11:48:59+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "ASOS Customers Receive Bizarre “Hacked” Message Amid Suspected Snowflake Compromise",
+            "link": "https://www.infosecurity-magazine.com/news/asos-customers-message-suspected/",
+            "summary": "ASOS customers have received a seemingly legitimate push notifications claiming the retailer’s IT systems have been breached through a Snowflake breach",
+            "published_utc": "2026-10-06T11:41:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Wikimedia: Rogue OpenAI agents behind unauthorized Wikipedia edits",
+            "link": "https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/",
+            "summary": "The Wikimedia Foundation says rogue OpenAI agents made unauthorized Wikipedia edits and may have been partially responsible for a May outage. [...]",
+            "published_utc": "2026-10-06T11:31:48+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Possible Vulnerability in Apple’s Automatic Reboot",
+            "link": "https://www.schneier.com/blog/archives/2026/10/possible-vulnerability-in-apples-automatic-reboot.html",
+            "summary": "",
+            "published_utc": "2026-10-06T11:06:46+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Cybersecurity M&A Roundup: 39 Deals Announced in September 2026",
+            "link": "https://www.securityweek.com/cybersecurity-ma-roundup-39-deals-announced-in-september-2026/",
+            "summary": "",
+            "published_utc": "2026-10-06T11:01:35+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Pacing the AI frontier won’t solve agentic cybersecurity’s most urgent problems",
+            "link": "https://www.csoonline.com/article/4230811/pacing-the-ai-frontier-wont-solve-agentic-cybersecuritys-most-urgent-problems.html",
+            "summary": "",
+            "published_utc": "2026-10-06T11:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Long-Running NPM Malware Campaign Accumulates 40,000 Downloads",
+            "link": "https://www.securityweek.com/long-running-npm-malware-campaign-accumulates-40000-downloads/",
+            "summary": "",
+            "published_utc": "2026-10-06T10:34:25+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Google’s bug bounty pause highlights growing AI vulnerability triage challenge",
+            "link": "https://www.csoonline.com/article/4231109/googles-bug-bounty-pause-highlights-growing-ai-vulnerability-triage-challenge.html",
+            "summary": "",
+            "published_utc": "2026-10-06T10:10:21+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "The AI app builder your team trusts has a root-level backdoor",
+            "link": "https://www.csoonline.com/article/4230802/the-ai-app-builder-your-team-trusts-has-a-root-level-backdoor.html",
+            "summary": "",
+            "published_utc": "2026-10-06T10:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "8.8 Million Impacted by Data Breach at Denmark’s Central Person Register",
+            "link": "https://www.securityweek.com/8-8-million-impacted-by-data-breach-at-denmarks-central-person-register/",
+            "summary": "",
+            "published_utc": "2026-10-06T09:38:30+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Nikkei discloses breaches of employees’ Microsoft, Google email accounts",
+            "link": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-breaches-of-employees-microsoft-google-email-accounts/",
+            "summary": "Over the weekend, Japanese publishing giant Nikkei disclosed that unknown attackers recently breached two employee email accounts and used one to send...",
+            "published_utc": "2026-10-06T09:25:50+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Police Urge Passkey Use After Surge in Cybercrime Profits",
+            "link": "https://www.infosecurity-magazine.com/news/police-urge-passkey-surge/",
+            "summary": "Report Fraud says cybercrime revenue stemming from account takeover increased 417% annually",
+            "published_utc": "2026-10-06T09:15:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "What exactly is ISOC? And what does it mean for you?",
+            "link": "https://www.csoonline.com/article/4230792/what-exactly-is-isoc-and-what-does-it-mean-for-you.html",
+            "summary": "",
+            "published_utc": "2026-10-06T09:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Social Engineering Detection Moves Into the Live Conversation",
+            "link": "https://www.securityweek.com/social-engineering-detection-moves-into-the-live-conversation/",
+            "summary": "",
+            "published_utc": "2026-10-06T08:38:14+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Ransomware Affiliate Double-Crosses RaaS Operator to Steal Victim Funds",
+            "link": "https://www.infosecurity-magazine.com/news/affiliate-doublecrosses-raas/",
+            "summary": "An affiliate of The Gentlemen RaaS group ran a parallel leak site during extortion of two dozen victims",
+            "published_utc": "2026-10-06T08:30:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "AI accelerates n-day attacks, as flaw disclosures and exploits double",
+            "link": "https://www.csoonline.com/article/4230247/ai-accelerates-n-day-attacks-as-flaw-disclosures-and-exploits-double.html",
+            "summary": "",
+            "published_utc": "2026-10-06T08:25:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Engineer sentenced for locking over 3,000 devices on employer network",
+            "link": "https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/",
+            "summary": "A former core infrastructure engineer at an industrial company headquartered in New Jersey was sentenced to 32 months in prison for locking thousands ...",
+            "published_utc": "2026-10-06T08:19:24+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "Dell patches 18 critical flaws that could hand attackers the keys to storage and Kubernetes",
@@ -10,8 +178,8 @@
         },
         {
             "source": "CSO Online",
-            "title": "ShinyHunters’ exploitation of a new PeopleSoft zero-day hole threatens to change enterprise risk dynamics",
-            "link": "https://www.csoonline.com/article/4230892/shinyhunters-exploitation-of-a-new-peoplesoft-zero-day-hole-threatens-to-change-enterprise-risk-dynamics.html",
+            "title": "Despite ShinyHunters arrests after FBI jobs data breach, enterprises still have no answers about PeopleSoft risks",
+            "link": "https://www.csoonline.com/article/4230892/despite-shinyhunters-arrests-after-fbi-jobs-data-breach-enterprises-still-have-no-answers-about-peoplesoft-risks.html",
             "summary": "",
             "published_utc": "2026-10-06T01:02:05+00:00"
         },
@@ -135,20 +303,6 @@
             "published_utc": "2026-10-05T11:04:47+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Exploitation Hits Rejetto HFS Vulnerability Discovered by AI",
-            "link": "https://www.securityweek.com/exploitation-hits-rejetto-hfs-vulnerability-discovered-by-ai/",
-            "summary": "",
-            "published_utc": "2026-10-05T11:00:05+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Senate Passes Bipartisan Bill to Strengthen Healthcare Cybersecurity",
-            "link": "https://www.securityweek.com/senate-passes-bipartisan-bill-to-strengthen-healthcare-cybersecurity/",
-            "summary": "",
-            "published_utc": "2026-10-05T10:42:19+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Google Suspends Open-Source Bug Bounty Due to AI Vulnerability Reports",
             "link": "https://www.infosecurity-magazine.com/news/google-suspends-opensource-bug/",
@@ -198,74 +352,11 @@
             "published_utc": "2026-10-05T08:25:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Alleged ShinyHunters Leader Arrested in Jordan",
-            "link": "https://www.securityweek.com/alleged-shinyhunters-leader-arrested-in-jordan/",
-            "summary": "",
-            "published_utc": "2026-10-05T07:16:53+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Exploitation of Citrix NetScaler Zero-Day Hits Appliances Patched Days Earlier",
-            "link": "https://www.securityweek.com/exploitation-of-citrix-netscaler-zero-day-hits-appliances-patched-days-earlier/",
-            "summary": "",
-            "published_utc": "2026-10-05T05:14:48+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Citrix patches NetScaler SAML zero-day exploited in attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/",
-            "summary": "Citrix has released emergency updates for a new NetScaler denial-of-service vulnerability tracked as CVE-2026-88779 that has been exploited in zero-da...",
-            "published_utc": "2026-10-04T21:58:01+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Trump Names National Intelligence Director Jay Clayton to Lead a New Federal AI Task Force",
-            "link": "https://www.securityweek.com/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force/",
-            "summary": "",
-            "published_utc": "2026-10-04T14:57:25+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Anthropic asks Claude users to share voice data for AI model training",
-            "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/",
-            "summary": "Anthropic has started asking Claude users to voluntarily share their voice conversations to help train and improve its AI models. [...]",
-            "published_utc": "2026-10-04T10:53:21+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Google Gemini could soon get full access to your Mac’s files, apps and the web",
-            "link": "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/",
-            "summary": "Google's Gemini could soon access any file on your macOS device, open apps, browse the web, and perform actions without asking for permission every ti...",
-            "published_utc": "2026-10-03T23:12:34+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "ShinyHunters hacker reportedly detained in Jordan, aiding FBI",
-            "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/",
-            "summary": "A suspected ShinyHunters hacking group member known online as \"Rey\" has reportedly been detained in Jordan and is cooperating with the FBI to help loc...",
-            "published_utc": "2026-10-03T19:09:38+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
             "link": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
             "summary": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
             "published_utc": "2026-10-03T12:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "doxx.net Raises $38 Million to Prevent AI Agent-on-the-Internet Misadventures",
-            "link": "https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/",
-            "summary": "",
-            "published_utc": "2026-10-03T11:45:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Fortra Patches Critical Vulnerabilities in BoKS",
-            "link": "https://www.securityweek.com/fortra-patches-critical-vulnerabilities-in-boks/",
-            "summary": "",
-            "published_utc": "2026-10-03T11:34:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -632,25 +723,11 @@
             "published_utc": "2026-09-29T09:00:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Nvidia releases Open Agent Safety Platform to monitor and govern agentic AI",
-            "link": "https://www.csoonline.com/article/4227843/nvidia-releases-open-agent-safety-platform-to-monitor-and-govern-agentic-ai.html",
-            "summary": "",
-            "published_utc": "2026-09-29T01:06:28+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "iOS 27.0.1 released: Apple fixes annoying iPhone 18 Pro restart and freezing issues",
             "link": "https://www.zdnet.com/tech/iphone-18-pro-freeze-restart-ios-27-0-1-fix/",
             "summary": "The first update to iOS 27 squashes a bug in which the iPhone 18 Pro and Pro Max would freeze or restart when you try to use Face ID.",
             "published_utc": "2026-09-28T20:39:56+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "OpenAI pauses AI model training after another agent bypasses network restrictions",
-            "link": "https://www.csoonline.com/article/4227777/openai-pauses-ai-model-training-after-another-agent-bypasses-network-restrictions.html",
-            "summary": "",
-            "published_utc": "2026-09-28T17:06:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -681,13 +758,6 @@
             "published_utc": "2026-09-28T14:40:43+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Autonomous agents attack Azure using compromised identities, destroying resources",
-            "link": "https://www.csoonline.com/article/4227657/autonomous-agents-attack-azure-using-compromised-identities-and-destroying-resources.html",
-            "summary": "",
-            "published_utc": "2026-09-28T14:22:22+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "NVIDIA Launches Open Platform to Secure Autonomous AI Agents",
             "link": "https://www.infosecurity-magazine.com/news/nvidia-open-platform-secure/",
@@ -716,13 +786,6 @@
             "published_utc": "2026-09-28T11:02:58+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "NetScaler admins told to patch critical zero-days in ADC and Gateway now",
-            "link": "https://www.csoonline.com/article/4227488/netscaler-admins-told-to-patch-critical-zero-days-in-adc-and-gateway-now-2.html",
-            "summary": "",
-            "published_utc": "2026-09-28T10:02:08+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "MCP Is Creating Major Governance Gaps, Researchers Warn",
             "link": "https://www.infosecurity-magazine.com/news/mcp-creating-major-governance-gaps/",
@@ -744,13 +807,6 @@
             "published_utc": "2026-09-28T08:30:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Stolen AI credentials feed growing LLM proxy economy",
-            "link": "https://www.csoonline.com/article/4227199/stolen-ai-credentials-feed-growing-llm-proxy-economy.html",
-            "summary": "",
-            "published_utc": "2026-09-28T08:25:00+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "Old-School Credit Card Scams Are Far From Dead",
             "link": "https://www.wired.com/story/kernel-panic-old-timey-credit-card-scams/",
@@ -770,13 +826,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-participatory-squid-dissection-in-october-in-tennessee.html",
             "summary": "",
             "published_utc": "2026-09-25T21:08:14+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "AI tools help hacker break in for $25 per target",
-            "link": "https://www.csoonline.com/article/4226861/ai-tools-help-hacker-break-in-for-25-per-target.html",
-            "summary": "",
-            "published_utc": "2026-09-25T17:38:42+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -812,13 +861,6 @@
             "link": "https://www.zdnet.com/innovation/microsoft-new-copilot-unified-ai-app/",
             "summary": "Microsoft says Copilot has gotten ‘actually really good.’ The new app has AI agents and can write code. So how much is all this going to cost?",
             "published_utc": "2026-09-25T12:00:14+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "On Anthropic’s AI Misuse Report",
-            "link": "https://www.schneier.com/blog/archives/2026/09/on-anthropics-ai-misuse-report.html",
-            "summary": "",
-            "published_utc": "2026-09-25T11:07:22+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1043,13 +1085,6 @@
             "link": "https://www.welivesecurity.com/en/kids-online/looking-for-free-robux-heres-whats-real-whats-scam/",
             "summary": "Fake giveaways, free Robux generators and lookalike login pages all target the same thing – your Roblox account",
             "published_utc": "2026-09-22T09:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Claim up to $95 today from Apple’s Siri AI settlement – here’s how",
-            "link": "https://www.zdnet.com/business/claim-your-payout-now-from-apple-siri-ai-settlement/",
-            "summary": "Got an iPhone 15 Pro, Pro Max, or 16? Apple is doling out $250 million – here’s how to qualify and file a claim to get your cut.",
-            "published_utc": "2026-09-21T16:07:21+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2718,48 +2753,6 @@
             "published_utc": "2026-07-29T08:30:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "Bugs in Hugging Face Diffusers Bypass Custom Code Safeguard",
-            "link": "https://www.infosecurity-magazine.com/news/hugging-face-diffusers-trust/",
-            "summary": "Three CVEs in Hugging Face diffusers let a malicious model repo run code on any machine that loads it",
-            "published_utc": "2026-07-28T15:15:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "AI-Assisted Bug Hunt Uncovers Linux Kernel 0-Day in net/sched",
-            "link": "https://www.infosecurity-magazine.com/news/ai-linux-kernel-zero-day-net-sched/",
-            "summary": "AI-assisted research uncovered Linux kernel use-after-free allowing root escalation",
-            "published_utc": "2026-07-28T14:45:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Phishing Dominates as Initial Entry Method for Cyber-Attacks, as Hackers Hone Evasion Techniques",
-            "link": "https://www.infosecurity-magazine.com/news/phishing-dominates-initial-entry/",
-            "summary": "Analysis of real-life incident response cases by Cisco Talos warns that phishing remains a powerful method of initial compromise",
-            "published_utc": "2026-07-28T13:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Microsoft Launches Flurry of AI Security Initiatives to Combat AI-Enabled Threats",
-            "link": "https://www.infosecurity-magazine.com/news/microsoft-ai-security-initiatives/",
-            "summary": "Microsoft has launched a new agentic security system for cyber defenders as well as its first cyber-focused AI model",
-            "published_utc": "2026-07-28T12:45:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Coca-Cola Reveals Subsidiary Fairlife Suffered Data Breach",
-            "link": "https://www.infosecurity-magazine.com/news/coca-cola-subsidiary-fairlife-data/",
-            "summary": "Coca Cola claims data was stolen from its Fairlife business after a recent ransomware attack",
-            "published_utc": "2026-07-28T11:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "NVIDIA’s Open Secure AI Alliance Is Missing Some Big Names",
-            "link": "https://www.infosecurity-magazine.com/news/nvidia-open-security-ai-alliance/",
-            "summary": "NVIDIA has launched a new Open Secure AI Alliance to build an “open defense stack for agents”",
-            "published_utc": "2026-07-28T09:40:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "Forgotten UEFI shims undermining Secure Boot",
             "link": "https://www.welivesecurity.com/en/eset-research/forgotten-uefi-shims-undermining-secure-boot/",
@@ -3258,7 +3251,7 @@
         },
         {
             "source": "WeLiveSecurity",
-            "title": "A brush with online fraud: What are brushing scams and how do I stay safe?",
+            "title": "What are brushing scams and how do I stay safe?",
             "link": "https://www.welivesecurity.com/en/scams/brush-online-fraud-what-are-brushing-scams-how-do-i-stay-safe/",
             "summary": "Have you ever received a package you never ordered? It could be a warning sign that your data has been compromised, with more fraud to follow.",
             "published_utc": "2025-12-23T10:00:00+00:00"
