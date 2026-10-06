@@ -1,6 +1,62 @@
 {
-    "lastUpdatedUTC": "2026-10-06T14:48:15.495881+00:00",
+    "lastUpdatedUTC": "2026-10-06T20:00:16.110347+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers exploit 32 zero-days on first day of Pwn2Own Ireland",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/",
+            "summary": "On the first day of the Pwn2Own Ireland 2026 competition, security researchers hacked the Samsung Galaxy S26 twice and earned $388,500 after exploitin...",
+            "published_utc": "2026-10-06T19:21:53+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "FBI removes contractor working with its PeopleSoft system after data breach, says report",
+            "link": "https://www.csoonline.com/article/4231356/fbi-removes-contractor-working-with-its-peoplesoft-system-after-data-breach-says-report.html",
+            "summary": "",
+            "published_utc": "2026-10-06T18:26:16+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Use Gemini for free? You’ll soon be limited to its weakest AI model",
+            "link": "https://www.zdnet.com/innovation/google-ai-free-model-access-limited/",
+            "summary": "Google is cutting off free users from the Flash and Pro models. AI Plus subscribers are losing out too",
+            "published_utc": "2026-10-06T18:00:57+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Atlassian warns of critical file-access flaw in Jira, Confluence",
+            "link": "https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/",
+            "summary": "Atlassian is warning customers of a critical vulnerability, tracked as CVE-2026-21589, that can be exploited for arbitrary file-access in multiple sel...",
+            "published_utc": "2026-10-06T17:34:59+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Office 2021 support ends this month – you have 5 options",
+            "link": "https://www.zdnet.com/tech/microsoft-office-2021-support-ends-your-options/",
+            "summary": "Microsoft is ending support and updates for Office 2021 on October 13. What does that mean, and what are your alternatives?",
+            "published_utc": "2026-10-06T16:40:40+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "ASOS confirms data breach after “HACKED” in-app notifications",
+            "link": "https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/",
+            "summary": "UK fashion retailer ASOS confirmed a data breach Tuesday after hackers sent unauthorized push notifications through its mobile app while claiming to h...",
+            "published_utc": "2026-10-06T16:33:54+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes",
+            "link": "https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/",
+            "summary": "A new campaign targeting ad account managers uses fake ChatGPT, Gemini, Claude, and Perplexity sites that steal login credentials and multi-factor aut...",
+            "published_utc": "2026-10-06T15:16:44+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "ClickFix Attack Hides VBScript Payload in Browser Cache",
+            "link": "https://www.infosecurity-magazine.com/news/clickfix-vbscript-browser-cache/",
+            "summary": "ClickFix sites stage a VBScript payload in the browser cache to bypass the Run dialog's length limit",
+            "published_utc": "2026-10-06T15:00:00+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "FBI Blames Contractor’s Missed Patch for ShinyHunters Breach",
@@ -261,13 +317,6 @@
             "published_utc": "2026-10-05T13:30:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Alleged dev of Ploutus ATM malware appears in US court after arrest",
-            "link": "https://www.bleepingcomputer.com/news/security/suspected-dev-of-ploutus-atm-malware-appears-in-us-court-after-arrest/",
-            "summary": "The U.S. Department of Justice has announced the arrest of the alleged developer of Ploutus malware, used to steal millions of dollars in ATM jackpott...",
-            "published_utc": "2026-10-05T13:01:45+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "Linux Backdoor Abuses STUN Protocol, Exploits Dozens of Flaws",
             "link": "https://www.securityweek.com/linux-backdoor-abuses-stun-protocol-exploits-dozens-of-flaws/",
@@ -310,20 +359,6 @@
             "published_utc": "2026-10-05T10:30:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "OpenAI will show visual ads in ChatGPT while you generate images",
-            "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-will-show-visual-ads-in-chatgpt-while-you-generate-images/",
-            "summary": "OpenAI is expanding ads in ChatGPT, and one of the first new formats will show visual ads while you're generating images. [...]",
-            "published_utc": "2026-10-05T10:28:45+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft: Windows KB5124010 update crashes some games and apps",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-kb5124010-update-crashes-some-games-and-apps/",
-            "summary": "Microsoft confirmed over the weekend that some games and applications using AC-3 (Dolby Digital) audio decoding will crash after installing the Septem...",
-            "published_utc": "2026-10-05T09:37:56+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "More UK Schools Are Recovering Faster from Cyber Incidents",
             "link": "https://www.infosecurity-magazine.com/news/uk-schools-recovering-faster/",
@@ -336,13 +371,6 @@
             "link": "https://www.infosecurity-magazine.com/news/frontline-education-breach-k12/",
             "summary": "A breach at school software provider Frontline Education has exposed employee data",
             "published_utc": "2026-10-05T09:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Google halts open-source bug bounty program amid AI spam surge",
-            "link": "https://www.bleepingcomputer.com/news/google/google-halts-open-source-bug-bounty-program-amid-ai-spam-surge/",
-            "summary": "Google has now suspended submissions to its Open Source Software Vulnerability Rewards Program (OSS VRP) after being flooded by AI-generated reports. ...",
-            "published_utc": "2026-10-05T08:27:46+00:00"
         },
         {
             "source": "CSO Online",
@@ -667,13 +695,6 @@
             "published_utc": "2026-09-29T17:32:40+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "OpenAI pulls the plug on GPT 6.1 Astra as agents keep crossing lines",
-            "link": "https://www.csoonline.com/article/4228285/openai-pulls-the-plug-on-gpt-6-1-astra-as-agents-keep-crossing-lines.html",
-            "summary": "",
-            "published_utc": "2026-09-29T14:45:13+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "RatHat's Evolving C2 Panel Points to Malware-as-a-Service Model",
             "link": "https://www.infosecurity-magazine.com/news/rathat-c2-panel-malware-as-a/",
@@ -989,13 +1010,6 @@
             "published_utc": "2026-09-23T14:00:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Nearly 70% of workers use AI regularly now – but many get no time to upskill",
-            "link": "https://www.zdnet.com/innovation/workera-study-ai-skills-upskilling-2026/",
-            "summary": "ZDNET Exclusive: A new Workera report shows businesses and employees aren’t on the same page about AI upskilling. Here’s what organizations need to know.",
-            "published_utc": "2026-09-23T13:00:00+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "Meta’s Muse AI Assistant Rolled Out With a Serious Security Flaw",
             "link": "https://www.wired.com/story/metas-muse-ai-agent-zero-day/",
@@ -1022,13 +1036,6 @@
             "link": "https://www.infosecurity-magazine.com/news/eu-auditors-slam-blocs-cyberinfo/",
             "summary": "The EU Court of Auditors has criticized EU shortcomings in responding to major cyber incidents",
             "published_utc": "2026-09-23T08:30:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Claude Opus 5.5 delivers Fable 5.1 performance – and costs 40% less",
-            "link": "https://www.zdnet.com/innovation/anthropic-claude-opus-5-5-fable-5-1-performance-costs-less/",
-            "summary": "Anthropic’s newest Claude model aims to make frontier AI cheaper, faster, and safer, while giving subscribers more breathing room before those frustra...",
-            "published_utc": "2026-09-22T16:30:05+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2744,13 +2751,6 @@
             "link": "https://www.infosecurity-magazine.com/news/researchers-aienhanced-phone-fraud/",
             "summary": "AI is dramatically reducing the barriers to entry for scam phone farm operators, Human Security warns",
             "published_utc": "2026-07-29T09:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "NCSC Publishes Guidance to Aid Incident Response and Recovery",
-            "link": "https://www.infosecurity-magazine.com/news/ncsc-publishes-guidance-incident/",
-            "summary": "The National Cyber Security Centre has released a detailed framework to assist with incident response and recovery",
-            "published_utc": "2026-07-29T08:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
