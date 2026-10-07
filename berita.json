@@ -1,6 +1,20 @@
 {
-    "lastUpdatedUTC": "2026-10-06T23:44:45.087570+00:00",
+    "lastUpdatedUTC": "2026-10-07T04:46:46.052922+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "Atlassian’s critical flaw turns eight enterprise products into one big security problem",
+            "link": "https://www.csoonline.com/article/4231527/atlassians-critical-flaw-turns-eight-enterprise-products-into-one-big-security-problem.html",
+            "summary": "",
+            "published_utc": "2026-10-07T01:51:40+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Personal Information for Over 1 Million People Stolen in a Cyberattack on Arizona’s Court System",
+            "link": "https://www.securityweek.com/personal-information-for-over-1-million-people-stolen-in-a-cyberattack-on-arizonas-court-system/",
+            "summary": "",
+            "published_utc": "2026-10-07T01:32:58+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Ninja Forms plugin flaw exploited to hack WordPress sites",
@@ -205,6 +219,13 @@
             "published_utc": "2026-10-06T09:00:00+00:00"
         },
         {
+            "source": "WeLiveSecurity",
+            "title": "The quest for simplicity: Why SMBs want advanced protection without the complexity",
+            "link": "https://www.welivesecurity.com/en/business-security/quest-simplicity-why-smbs-want-advanced-protection-without-complexity/",
+            "summary": "The cybersecurity market is often making it tougher for SMBs to keep threats at bay",
+            "published_utc": "2026-10-06T09:00:00+00:00"
+        },
+        {
             "source": "SecurityWeek",
             "title": "Social Engineering Detection Moves Into the Live Conversation",
             "link": "https://www.securityweek.com/social-engineering-detection-moves-into-the-live-conversation/",
@@ -322,13 +343,6 @@
             "link": "https://www.securityweek.com/linux-backdoor-abuses-stun-protocol-exploits-dozens-of-flaws/",
             "summary": "",
             "published_utc": "2026-10-05T13:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "250,000 Impacted by Data Breaches at New Jersey, Texas Healthcare Firms",
-            "link": "https://www.securityweek.com/250000-impacted-by-data-breaches-at-new-jersey-texas-healthcare-firms/",
-            "summary": "",
-            "published_utc": "2026-10-05T12:35:15+00:00"
         },
         {
             "source": "CSO Online",
@@ -651,13 +665,6 @@
             "link": "https://www.infosecurity-magazine.com/news/apple-patches-coregraphics-zero/",
             "summary": "Apple has patched CVE-2026-86950, a zero-day bug in the iOS CoreGraphics engine",
             "published_utc": "2026-09-30T08:45:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Whatever happened to the 36-month IT security roadmap?",
-            "link": "https://www.csoonline.com/article/4228518/whatever-happened-to-the-36-month-it-security-roadmap.html",
-            "summary": "",
-            "published_utc": "2026-09-30T08:25:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
@@ -3262,13 +3269,6 @@
             "link": "https://www.welivesecurity.com/en/eset-research/revisiting-cve-2025-50165-critical-flaw-windows-imaging-component/",
             "summary": "A comprehensive analysis and assessment of a critical severity vulnerability with low likelihood of mass exploitation",
             "published_utc": "2025-12-22T09:55:00+00:00"
-        },
-        {
-            "source": "WeLiveSecurity",
-            "title": "LongNosedGoblin tries to sniff out governmental affairs in Southeast Asia and Japan",
-            "link": "https://www.welivesecurity.com/en/eset-research/longnosedgoblin-tries-sniff-out-governmental-affairs-southeast-asia-japan/",
-            "summary": "ESET researchers discovered a China-aligned APT group, LongNosedGoblin, which uses Group Policy to deploy cyberespionage tools across networks of gove...",
-            "published_utc": "2025-12-18T10:00:00+00:00"
         },
         {
             "source": "Threatpost",
