@@ -1,6 +1,125 @@
 {
-    "lastUpdatedUTC": "2026-10-08T11:52:33.887460+00:00",
+    "lastUpdatedUTC": "2026-10-08T18:33:08.501706+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "FakeGit malware campaign returns with 17,610 malicious GitHub repos",
+            "link": "https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/",
+            "summary": "More than 17,000 fake repositories on GitHub are distributing the SmartLoader malware after the FakeGit campaign reactivated earlier this month to pus...",
+            "published_utc": "2026-10-08T17:10:55+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Regulators are trying to protect you from being fired by AI – here’s how",
+            "link": "https://www.zdnet.com/innovation/how-state-regulators-protect-you-fired-by-ai/",
+            "summary": "Regulating AI at work is happening slowly, but it’s still stuck at the state level.",
+            "published_utc": "2026-10-08T17:05:53+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Cisco Patches a Dozen Critical Vulnerabilities",
+            "link": "https://www.securityweek.com/cisco-patches-a-dozen-critical-vulnerabilities/",
+            "summary": "",
+            "published_utc": "2026-10-08T15:28:06+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Cisco warns of critical flaws allowing Nexus switch takeover",
+            "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/",
+            "summary": "Cisco released security advisories for five critical vulnerabilities in its NX-OS data center network operating system that could be exploited to run ...",
+            "published_utc": "2026-10-08T15:26:33+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Can AI fix legacy IT? The ‘economics don’t hold up,’ says former IBM strategist",
+            "link": "https://www.zdnet.com/innovation/ai-legacy-it-modernization/",
+            "summary": "Vendors are pitching AI as a cure-all for legacy IT systems, but is it?",
+            "published_utc": "2026-10-08T14:35:46+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Security Awareness Training Isn’t Dead, but It Needs a Rethink",
+            "link": "https://www.securityweek.com/security-awareness-training-isnt-dead-but-it-needs-a-rethink/",
+            "summary": "",
+            "published_utc": "2026-10-08T14:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Attackers Hijack Three ccTLDs to Obtain Google Certificates",
+            "link": "https://www.infosecurity-magazine.com/news/attackers-hijack-cctlds-obtain/",
+            "summary": "Attackers compromised .gh, .sl and .as registries to obtain unauthorized HTTPS certificates",
+            "published_utc": "2026-10-08T14:30:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Attackers Target Critical Atlassian Vulnerability Within Hours of PoC Publication",
+            "link": "https://www.securityweek.com/attackers-target-critical-atlassian-vulnerability-within-hours-of-poc-publication/",
+            "summary": "",
+            "published_utc": "2026-10-08T14:04:44+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "OAuth grants pile up faster than you can review them. Here's how to keep up.",
+            "link": "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/",
+            "summary": "OAuth grants create data highways between SaaS apps, AI agents, and other tools. And, they are multiplying faster than any security team can review th...",
+            "published_utc": "2026-10-08T14:00:10+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "ASOS Confirms Data Breach Linked to Stolen Employee Credentials",
+            "link": "https://www.infosecurity-magazine.com/news/asos-data-breach-stolen-employee/",
+            "summary": "The ASOS hack comes from the compromise of agentic marketing platform Simon AI, said the attackers",
+            "published_utc": "2026-10-08T13:36:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Uranium crypto exchange hacker convicted for stealing $53 million",
+            "link": "https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft/",
+            "summary": "A Maryland man was found guilty of stealing more than $53 million after hacking the decentralized crypto exchange Uranium Finance twice in April 2021....",
+            "published_utc": "2026-10-08T13:18:36+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "AWS’s repeated problems with AI agent controls illustrates the autonomous agent dilemma",
+            "link": "https://www.csoonline.com/article/4232054/awss-repeated-problems-with-ai-agent-controls-illustrates-the-autonomous-agent-dilemma.html",
+            "summary": "",
+            "published_utc": "2026-10-08T13:05:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Russia-Aligned UAC-0099 Evolves MATCHBOIL Malware",
+            "link": "https://www.infosecurity-magazine.com/news/russia-aligned-uac-0099-evolves/",
+            "summary": "Russia-aligned UAC-0099 has steadily upgraded its MATCHBOIL downloader since 2024",
+            "published_utc": "2026-10-08T13:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "US Seeks Alleged Chinese Hafnium Hacker With $10 Million Reward",
+            "link": "https://www.securityweek.com/us-seeks-alleged-chinese-hafnium-hacker-with-10-million-reward/",
+            "summary": "",
+            "published_utc": "2026-10-08T12:46:21+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "SonicWall and Splunk Patch Critical Vulnerabilities",
+            "link": "https://www.securityweek.com/sonicwall-and-splunk-patch-critical-vulnerabilities/",
+            "summary": "",
+            "published_utc": "2026-10-08T12:37:32+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft Teams to get support for third-party deepfake detection tools",
+            "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/",
+            "summary": "Microsoft will soon introduce support for third-party deepfake detection solutions and impersonation protection in Teams meetings. [...]",
+            "published_utc": "2026-10-08T12:08:16+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Yelp, who? 4 ways Google Maps can help you find your next meal – and order it",
+            "link": "https://www.zdnet.com/tech/google-maps-features-restaurants-dining-food-ordering/",
+            "summary": "There’s more to Google Maps’ dining tools than reviews and directions – and a few are worth a look before your next night out.",
+            "published_utc": "2026-10-08T12:00:07+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "FBI: FortiBleed attackers can lock organizations out of their own firewalls",
@@ -66,7 +185,7 @@
         },
         {
             "source": "InfosecurityMag",
-            "title": "Europol and US GAO Sound the Alarm Over Quantum Threats",
+            "title": "Europol and US Spending Watchdog Sound the Alarm Over Quantum Threats",
             "link": "https://www.infosecurity-magazine.com/news/europol-us-gao-alarm-quantum/",
             "summary": "Europol and US Government Accountability Office urge faster transition to post-quantum cryptography",
             "published_utc": "2026-10-08T09:30:00+00:00"
@@ -119,6 +238,13 @@
             "link": "https://www.bleepingcomputer.com/news/security/samsung-galaxy-s26-hacked-three-more-times-at-pwn2own-ireland/",
             "summary": "​​​On the second day of Pwn2Own Ireland 2026, security researchers collected $232,500 in cash awards after exploiting 45 unique zero-day vulnerabiliti...",
             "published_utc": "2026-10-08T06:32:16+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Microsoft’s new Surface Laptop Ultra finally has a starting price (you should sit down)",
+            "link": "https://www.zdnet.com/tech/microsoft-surface-laptop-ultra-preorder-starting-price/",
+            "summary": "The Surface Laptop Ultra is an AI powerhouse, with Nvidia’s new RTX Spark chip and up to 128GB of unified memory – and it’s priced for power users.",
+            "published_utc": "2026-10-08T04:21:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -184,13 +310,6 @@
             "published_utc": "2026-10-07T15:04:08+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Georgia Power, Alabama Power Data Breach Hits 400,000 Accounts",
-            "link": "https://www.securityweek.com/georgia-power-alabama-power-data-breach-hits-400000-accounts/",
-            "summary": "",
-            "published_utc": "2026-10-07T14:15:20+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "OT Coalition Urges CISA to Mandate Federal OT Security",
             "link": "https://www.infosecurity-magazine.com/news/ot-coalition-cisa-mandate-federal/",
@@ -210,20 +329,6 @@
             "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
             "summary": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooper...",
             "published_utc": "2026-10-07T13:48:45+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Qilin Ransomware Suspect Arrested in Japan, Extradited to Germany",
-            "link": "https://www.securityweek.com/qilin-ransomware-suspect-arrested-in-japan-extradited-to-germany/",
-            "summary": "",
-            "published_utc": "2026-10-07T13:47:12+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Hadrian Raises $40 Million to Expand Autonomous Offensive Security Platform",
-            "link": "https://www.securityweek.com/hadrian-raises-40-million-to-expand-autonomous-offensive-security-platform/",
-            "summary": "",
-            "published_utc": "2026-10-07T13:06:10+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -247,13 +352,6 @@
             "published_utc": "2026-10-07T12:49:01+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Advantest Discloses Data Breach Months After Ransomware Attack",
-            "link": "https://www.securityweek.com/advantest-discloses-data-breach-months-after-ransomware-attack/",
-            "summary": "",
-            "published_utc": "2026-10-07T12:37:24+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Denmark’s national ID system breach exposes personal data of 8.8M",
             "link": "https://www.csoonline.com/article/4231797/denmarks-national-id-system-breach-exposes-personal-data-of-8-8m.html",
@@ -275,39 +373,11 @@
             "published_utc": "2026-10-07T11:47:48+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "SonicWall warns of max severity SSRF flaw in SMA1000 gateways",
-            "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/",
-            "summary": "SonicWall has released hotfixes to address a maximum-severity server-side request forgery (SSRF) flaw in SMA1000 series appliances. [...]",
-            "published_utc": "2026-10-07T11:37:07+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Apple’s Verified Photography System",
             "link": "https://www.schneier.com/blog/archives/2026/10/apples-verified-photography-system.html",
             "summary": "",
             "published_utc": "2026-10-07T11:07:36+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Chrome 155 Update Patches 247 Vulnerabilities",
-            "link": "https://www.securityweek.com/chrome-155-update-patches-247-vulnerabilities/",
-            "summary": "",
-            "published_utc": "2026-10-07T10:51:57+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Musician sent to prison for $10 million streaming fraud using AI bots",
-            "link": "https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/",
-            "summary": "A North Carolina musician was sentenced to 18 months in prison for collecting more than $10 million in royalties from Spotify, Apple Music, Amazon Mus...",
-            "published_utc": "2026-10-07T10:35:15+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Advantest confirms personal information stolen in ransomware attack",
-            "link": "https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/",
-            "summary": "Advantest Corporation is notifying affected individuals that a ransomware attack earlier this year exposed their personally identifiable data. [...]",
-            "published_utc": "2026-10-07T10:27:52+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -357,20 +427,6 @@
             "link": "https://www.csoonline.com/article/4231527/atlassians-critical-flaw-turns-eight-enterprise-products-into-one-big-security-problem.html",
             "summary": "",
             "published_utc": "2026-10-07T01:51:40+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Ninja Forms plugin flaw exploited to hack WordPress sites",
-            "link": "https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/",
-            "summary": "Hackers are exploiting stored cross-site scripting (XSS) vulnerabilities in two unrelated WordPress plugins, Ninja Forms and WPC Product Bundles for W...",
-            "published_utc": "2026-10-06T21:00:27+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Hackers exploit 32 zero-days on first day of Pwn2Own Ireland",
-            "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/",
-            "summary": "On the first day of the Pwn2Own Ireland 2026 competition, security researchers hacked the Samsung Galaxy S26 twice and earned $388,500 after exploitin...",
-            "published_utc": "2026-10-06T19:21:53+00:00"
         },
         {
             "source": "CSO Online",
@@ -532,13 +588,6 @@
             "link": "https://www.infosecurity-magazine.com/news/citrix-netscaler-zero-day/",
             "summary": "The memory buffer vulnerability can result in denial of service to customers, with CISA warning it poses “significant risks” to the federal government",
             "published_utc": "2026-10-05T13:30:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Citrix warns of actively exploited NetScaler flaw days after zero-day patch rush",
-            "link": "https://www.csoonline.com/article/4230642/citrix-warns-of-actively-exploited-netscaler-flaw-days-after-zero-day-patch-rush.html",
-            "summary": "",
-            "published_utc": "2026-10-05T12:14:09+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -1024,39 +1073,11 @@
             "published_utc": "2026-09-25T08:30:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Google Wallet got a lot of new tricks in 2026 – these 5 are my favorites",
-            "link": "https://www.zdnet.com/tech/new-google-wallet-features-2026/",
-            "summary": "You can do a whole lot more than tap to pay with Google’s Wallet app.",
-            "published_utc": "2026-09-24T20:31:27+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Microsoft’s Surface Mouse is back, now with haptic feedback – and I need it",
-            "link": "https://www.zdnet.com/home-and-office/microsoft-surface-mouse-haptic-feedback-customizable/",
-            "summary": "Due October 13, the $80 Surface mouse packs an impressive array of features. I want one.",
-            "published_utc": "2026-09-24T16:22:13+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "AI agent kill switch urged by Okta-led alliance – how businesses could make it work",
-            "link": "https://www.zdnet.com/innovation/okta-blueprint-alliance-ai-agents-oauth-kill-switch/",
-            "summary": "In response to the emerging threat of rogue and shadow AI agents, here’s how the newly formed Blueprint Alliance seeks to help businesses secure their...",
-            "published_utc": "2026-09-24T16:01:19+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Emerging Ransomware Gang Uses Backup Destruction Threats to Pressure Victims",
             "link": "https://www.infosecurity-magazine.com/news/ransomware-gang-uses-backup/",
             "summary": "Ransom notes by n0n ransomware claim to take double extortion to a new level of danger for victims",
             "published_utc": "2026-09-24T15:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Is your Apple Watch 12 or Ultra 4 randomly restarting? Here’s the fix",
-            "link": "https://www.zdnet.com/tech/apple-watch-series-12-ultra-4-random-restarts-fix-update/",
-            "summary": "Some owners, including me, have reported sudden shutdowns while adjusting Apple Watch settings.",
-            "published_utc": "2026-09-24T13:42:11+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2737,27 +2758,6 @@
             "link": "https://www.infosecurity-magazine.com/news/chinese-hacker-deepseek-ai/",
             "summary": "A Chinese-speaking threat actor has been using DeepSeek’s AI models to orchestrate cyber-attacks targeting Asian organizations",
             "published_utc": "2026-07-31T15:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "AWS Blames North Korean Group for Axios and Other npm Supply Chain Attacks",
-            "link": "https://www.infosecurity-magazine.com/news/aws-north-korea-axios-npm-supply/",
-            "summary": "AWS has linked North Korea to the axios campaign to other attacks on npm libraries",
-            "published_utc": "2026-07-31T09:50:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Anthropic Reveals Claude Escaped Testing, Breaching Three Companies",
-            "link": "https://www.infosecurity-magazine.com/news/anthropic-claude-breached-three/",
-            "summary": "Anthropic has revealed that Claude AI models compromised third-party organizations",
-            "published_utc": "2026-07-31T08:35:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Cryptominer Abuses Linux PAM to Hide From SOC Analysts",
-            "link": "https://www.infosecurity-magazine.com/news/xmrig-linux-pam-forensic/",
-            "summary": "Cryptomining crew abandoned root to impersonate low-privileged Linux users and evade SOC alerts",
-            "published_utc": "2026-07-30T14:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
