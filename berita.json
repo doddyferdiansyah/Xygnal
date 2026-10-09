@@ -1,6 +1,97 @@
 {
-    "lastUpdatedUTC": "2026-10-09T11:48:17.513575+00:00",
+    "lastUpdatedUTC": "2026-10-09T18:04:21.030530+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto",
+            "link": "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/",
+            "summary": "Threat actors are exploiting one critical and one medium-severity vulnerability still unpatched in the AhsayCBS backup management platform to deploy w...",
+            "published_utc": "2026-10-09T17:17:23+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "FBI arrests another suspected ShinyHunters hacker after agency breach",
+            "link": "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/",
+            "summary": "The FBI has arrested another suspected member of the ShinyHunters extortion group believed to be involved in the recent breach of FBI systems, Directo...",
+            "published_utc": "2026-10-09T17:02:29+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Lightwell project filters out 400 Java library vulnerabilities",
+            "link": "https://www.csoonline.com/article/4233240/lightwell-project-filters-out-400-java-library-vulnerabilities-2.html",
+            "summary": "",
+            "published_utc": "2026-10-09T16:09:36+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Ransomware consultant said he would decrypt data, is accused of paying ransoms instead",
+            "link": "https://www.csoonline.com/article/4233219/ransomware-consultant-said-he-would-decrypt-data-is-accused-of-paying-ransoms-instead.html",
+            "summary": "",
+            "published_utc": "2026-10-09T15:44:06+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Germany arrests alleged core Qilin ransomware member after extradition",
+            "link": "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/",
+            "summary": "Germany has arrested a Russian national suspected of being a leading member of the Qilin ransomware group following extradition from Japan earlier thi...",
+            "published_utc": "2026-10-09T15:38:56+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "OpenAI reports three new incidents of misalignment",
+            "link": "https://www.csoonline.com/article/4233207/openai-reports-three-new-incidents-of-misalignment.html",
+            "summary": "",
+            "published_utc": "2026-10-09T15:33:20+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Wikimedia Says Rogue AI Agents Abused its Platforms",
+            "link": "https://www.infosecurity-magazine.com/news/wikimedia-confirms-platforms-rogue/",
+            "summary": "Wikimedia says OpenAI agents performed unauthorized actions on its platforms, including edits to wikis",
+            "published_utc": "2026-10-09T15:00:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Citrix issues its weekly critical security patch for NetScaler ADC and NetScaler Gateway",
+            "link": "https://www.csoonline.com/article/4233187/citrix-issues-its-weekly-critical-security-patch-for-netscaler-adc-and-netscaler-gateway-2.html",
+            "summary": "",
+            "published_utc": "2026-10-09T14:28:21+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "How to keep AI agents within their permissions",
+            "link": "https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/",
+            "summary": "AI agents can use valid credentials to perform actions beyond their assigned permissions, creating risks that traditional access controls may not prev...",
+            "published_utc": "2026-10-09T14:01:11+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Exposed Nvidia GPU monitors can reveal AI infrastructure secrets",
+            "link": "https://www.csoonline.com/article/4233081/exposed-nvidia-gpu-monitors-can-reveal-ai-infrastructure-secrets.html",
+            "summary": "",
+            "published_utc": "2026-10-09T12:35:26+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Max severity SonicWall SMA1000 flaw now exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/",
+            "summary": "Attackers are exploiting a maximum-severity vulnerability in SonicWall SMA1000 appliances (CVE-2026-102255) that was patched on Tuesday, three days ag...",
+            "published_utc": "2026-10-09T12:32:16+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "In Other News: AI Used in Korean Bank Breaches, Poem-Guided Botnet, Empire Admin Gets 40 Years",
+            "link": "https://www.securityweek.com/in-other-news-ai-used-in-korean-bank-breaches-poem-guided-botnet-empire-admin-gets-40-years/",
+            "summary": "",
+            "published_utc": "2026-10-09T12:03:50+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Q3 2026 Sets New Record for Ransomware Attacks",
+            "link": "https://www.infosecurity-magazine.com/news/q3-new-record-ransomware/",
+            "summary": "Comparitech observed 2627 claimed ransomware attacks in Q3, with critical sectors like finance, technology, education and healthcare experiencing sign...",
+            "published_utc": "2026-10-09T12:00:00+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Google Domains Impacted by Recent ccTLD Hijacks",
@@ -191,13 +282,6 @@
             "published_utc": "2026-10-08T14:35:46+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Security Awareness Training Isn’t Dead, but It Needs a Rethink",
-            "link": "https://www.securityweek.com/security-awareness-training-isnt-dead-but-it-needs-a-rethink/",
-            "summary": "",
-            "published_utc": "2026-10-08T14:30:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Attackers Hijack Three ccTLDs to Obtain Google Certificates",
             "link": "https://www.infosecurity-magazine.com/news/attackers-hijack-cctlds-obtain/",
@@ -219,13 +303,6 @@
             "published_utc": "2026-10-08T13:36:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Uranium crypto exchange hacker convicted for stealing $53 million",
-            "link": "https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft/",
-            "summary": "A Maryland man was found guilty of stealing more than $53 million after hacking the decentralized crypto exchange Uranium Finance twice in April 2021....",
-            "published_utc": "2026-10-08T13:18:36+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "AWS’s repeated problems with AI agent controls illustrates the autonomous agent dilemma",
             "link": "https://www.csoonline.com/article/4232054/awss-repeated-problems-with-ai-agent-controls-illustrates-the-autonomous-agent-dilemma.html",
@@ -238,13 +315,6 @@
             "link": "https://www.infosecurity-magazine.com/news/russia-aligned-uac-0099-evolves/",
             "summary": "Russia-aligned UAC-0099 has steadily upgraded its MATCHBOIL downloader since 2024",
             "published_utc": "2026-10-08T13:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft Teams to get support for third-party deepfake detection tools",
-            "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/",
-            "summary": "Microsoft will soon introduce support for third-party deepfake detection solutions and impersonation protection in Teams meetings. [...]",
-            "published_utc": "2026-10-08T12:08:16+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -261,13 +331,6 @@
             "published_utc": "2026-10-08T11:44:43+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "ASOS links data breach to social engineering attack, credential theft",
-            "link": "https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/",
-            "summary": "ASOS is sending updates to affected customers about the cybersecurity incident it suffered earlier this week, confirming that hackers accessed some pe...",
-            "published_utc": "2026-10-08T11:42:46+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "How Technology Empowers—and Imperils—Dictators",
             "link": "https://www.schneier.com/blog/archives/2026/10/how-technology-empowers-and-imperils-dictators.html",
@@ -280,13 +343,6 @@
             "link": "https://www.infosecurity-magazine.com/news/chinese-hacker-ai-korean-banks/",
             "summary": "CrowdStrike revealed that a Chinese-speaking hacker deployed agentic pentesting tool ARTEX and Claude to help breach data from South Korean financial ...",
             "published_utc": "2026-10-08T11:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Owner of Empire cybercrime market gets 40 years in prison",
-            "link": "https://www.bleepingcomputer.com/news/security/owner-of-empire-cybercrime-market-gets-40-years-in-prison/",
-            "summary": "The co-creator of Empire Market, one of the largest dark web marketplaces before its shutdown, has been sentenced to 40 years in prison for facilitati...",
-            "published_utc": "2026-10-08T10:29:19+00:00"
         },
         {
             "source": "CSO Online",
@@ -336,13 +392,6 @@
             "link": "https://www.infosecurity-magazine.com/news/fbi-secret-service-fortibleed/",
             "summary": "The FBI and Secret Service are warning Fortigate admins that their systems are still being targeted",
             "published_utc": "2026-10-08T08:40:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Samsung Galaxy S26 hacked three more times at Pwn2Own Ireland",
-            "link": "https://www.bleepingcomputer.com/news/security/samsung-galaxy-s26-hacked-three-more-times-at-pwn2own-ireland/",
-            "summary": "​​​On the second day of Pwn2Own Ireland 2026, security researchers collected $232,500 in cash awards after exploiting 45 unique zero-day vulnerabiliti...",
-            "published_utc": "2026-10-08T06:32:16+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -555,39 +604,11 @@
             "published_utc": "2026-10-06T11:06:46+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Pacing the AI frontier won’t solve agentic cybersecurity’s most urgent problems",
-            "link": "https://www.csoonline.com/article/4230811/pacing-the-ai-frontier-wont-solve-agentic-cybersecuritys-most-urgent-problems.html",
-            "summary": "",
-            "published_utc": "2026-10-06T11:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Google’s bug bounty pause highlights growing AI vulnerability triage challenge",
-            "link": "https://www.csoonline.com/article/4231109/googles-bug-bounty-pause-highlights-growing-ai-vulnerability-triage-challenge.html",
-            "summary": "",
-            "published_utc": "2026-10-06T10:10:21+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "The AI app builder your team trusts has a root-level backdoor",
-            "link": "https://www.csoonline.com/article/4230802/the-ai-app-builder-your-team-trusts-has-a-root-level-backdoor.html",
-            "summary": "",
-            "published_utc": "2026-10-06T10:00:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Police Urge Passkey Use After Surge in Cybercrime Profits",
             "link": "https://www.infosecurity-magazine.com/news/police-urge-passkey-surge/",
             "summary": "Report Fraud says cybercrime revenue stemming from account takeover increased 417% annually",
             "published_utc": "2026-10-06T09:15:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "What exactly is ISOC? And what does it mean for you?",
-            "link": "https://www.csoonline.com/article/4230792/what-exactly-is-isoc-and-what-does-it-mean-for-you.html",
-            "summary": "",
-            "published_utc": "2026-10-06T09:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
@@ -602,13 +623,6 @@
             "link": "https://www.infosecurity-magazine.com/news/affiliate-doublecrosses-raas/",
             "summary": "An affiliate of The Gentlemen RaaS group ran a parallel leak site during extortion of two dozen victims",
             "published_utc": "2026-10-06T08:30:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "AI accelerates n-day attacks, as flaw disclosures and exploits double",
-            "link": "https://www.csoonline.com/article/4230247/ai-accelerates-n-day-attacks-as-flaw-disclosures-and-exploits-double.html",
-            "summary": "",
-            "published_utc": "2026-10-06T08:25:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2744,20 +2758,6 @@
             "link": "https://www.infosecurity-magazine.com/news/chinalinked-threat-actors/",
             "summary": "Chinese actors exploited the critical React2Shell exploit inside a day, while 88% of exploited vulnerabilities in H1 2026 were compromised within 48 h...",
             "published_utc": "2026-08-03T15:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Midnight Blizzard Targets Travelers via Captive Portals",
-            "link": "https://www.infosecurity-magazine.com/news/captivecrunch-midnight-blizzard/",
-            "summary": "Russian actor Storm-2945 hijacked hotel captive portals to push fake updates and steal tokens",
-            "published_utc": "2026-08-03T14:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "HollowFrame Loader Uses Fake Python DLL to Evade Defender",
-            "link": "https://www.infosecurity-magazine.com/news/hollowframe-fake-python-dll/",
-            "summary": "New HollowFrame loader hid Go code in a fake Python DLL after pre-staging Defender exclusions",
-            "published_utc": "2026-08-03T11:26:00+00:00"
         },
         {
             "source": "WIRED Security",
