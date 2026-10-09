@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2026-10-09T18:04:21.030530+00:00",
+    "lastUpdatedUTC": "2026-10-09T23:04:26.924490+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks",
+            "link": "https://www.securityweek.com/openai-fires-3-safety-researchers-in-dispute-over-ai-risks/",
+            "summary": "",
+            "published_utc": "2026-10-09T21:07:46+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
+            "summary": "Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ...",
+            "published_utc": "2026-10-09T20:31:37+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Friday Squid Blogging: I Caught a Squid",
+            "link": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-i-caught-a-squid.html",
+            "summary": "",
+            "published_utc": "2026-10-09T20:24:45+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "4 ways Amazon’s new Alexa tablets eclipse the Fire line – starting with Google Play",
+            "link": "https://www.zdnet.com/tech/amazon-new-alexa-tablets-google-play-store/",
+            "summary": "Amazon just upped its game with new Android tablets for entertainment and work.",
+            "published_utc": "2026-10-09T19:10:12+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "‘I use AI to do the things that I’m bad at’: Linus Torvalds on why it works for him",
+            "link": "https://www.zdnet.com/tech/linus-torvalds-ai-coding-programming/",
+            "summary": "The Linux creator calls vibe coding ‘a wonderful way to find joy in programming,’ but not for running Linux development. (Finding bugs is OK.)",
+            "published_utc": "2026-10-09T17:53:18+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto",
@@ -261,13 +296,6 @@
             "published_utc": "2026-10-08T17:05:53+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Cisco Patches a Dozen Critical Vulnerabilities",
-            "link": "https://www.securityweek.com/cisco-patches-a-dozen-critical-vulnerabilities/",
-            "summary": "",
-            "published_utc": "2026-10-08T15:28:06+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Cisco warns of critical flaws allowing Nexus switch takeover",
             "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/",
@@ -287,13 +315,6 @@
             "link": "https://www.infosecurity-magazine.com/news/attackers-hijack-cctlds-obtain/",
             "summary": "Attackers compromised .gh, .sl and .as registries to obtain unauthorized HTTPS certificates",
             "published_utc": "2026-10-08T14:30:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "OAuth grants pile up faster than you can review them. Here's how to keep up.",
-            "link": "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/",
-            "summary": "OAuth grants create data highways between SaaS apps, AI agents, and other tools. And, they are multiplying faster than any security team can review th...",
-            "published_utc": "2026-10-08T14:00:10+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -954,13 +975,6 @@
             "published_utc": "2026-09-29T13:30:00+00:00"
         },
         {
-            "source": "Schneier",
-            "title": "Using Device Linking to Eavesdrop on WhatsApp and Signal",
-            "link": "https://www.schneier.com/blog/archives/2026/09/using-device-linking-to-eavesdrop-on-whatsapp-and-signal.html",
-            "summary": "",
-            "published_utc": "2026-09-29T11:02:19+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Japanese Railway Operators Hit with Weekend Cyber Attacks",
             "link": "https://www.infosecurity-magazine.com/news/japanese-railway-operators-cyber/",
@@ -1073,13 +1087,6 @@
             "published_utc": "2026-09-25T21:44:40+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "This one WatchOS 27 feature just solved my biggest issue with Apple Watch",
-            "link": "https://www.zdnet.com/uncategorized/watchos-27-update-fix-apple-watch/",
-            "summary": "Sometimes less is more, and the most helpful software update is the simplest.",
-            "published_utc": "2026-09-25T16:51:43+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Zero-Click Vulnerabilities in Salesforce Agentforce Expose Wider AI Agent Risk",
             "link": "https://www.infosecurity-magazine.com/news/vulnerabilities-salesforce-ai/",
@@ -1092,13 +1099,6 @@
             "link": "https://www.infosecurity-magazine.com/news/cisa-election-security-midterms/",
             "summary": "The CISA plan provides guidance and resources for election officials to secure systems such as voter registration databases and voting machines",
             "published_utc": "2026-09-25T12:30:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Your LG TV is constantly collecting your data – here’s how to stop it",
-            "link": "https://www.zdnet.com/home-and-office/lg-tv-data-collection-how-to-factory-reset-and-why-you-need-to/",
-            "summary": "Factory resetting your LG TV is the only way to remove certain data logs from its hardware.",
-            "published_utc": "2026-09-25T12:18:24+00:00"
         },
         {
             "source": "InfosecurityMag",
