@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2026-10-10T10:59:26.228900+00:00",
+    "lastUpdatedUTC": "2026-10-10T16:11:19.628640+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
+            "link": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/",
+            "summary": "Canadian cybersecurity executive Edward Dubrovsky has been arrested in Pennsylvania in connection with alleged extortion activity that multiple report...",
+            "published_utc": "2026-10-10T15:07:54+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "ARTEX AI, Claude agents used in cyberattacks on South Korean banks",
+            "link": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/",
+            "summary": "The cyberattacks that shook the South Korean financial sector earlier this month were launched by a Chinese hacker using the ARTEX AI penetration test...",
+            "published_utc": "2026-10-10T14:16:17+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management",
+            "link": "https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/",
+            "summary": "Traditional attack surface management helps organizations discover exposed assets, but visibility alone is not enough to address threats. Criminal IP ...",
+            "published_utc": "2026-10-10T12:30:39+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "AI Is Getting Really Good at Messing With Cybercriminals",
+            "link": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
+            "summary": "Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real vic...",
+            "published_utc": "2026-10-10T12:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison",
+            "link": "https://www.securityweek.com/insider-cyber-extortion-plot-against-industrial-firm-lands-engineer-in-prison/",
+            "summary": "",
+            "published_utc": "2026-10-10T11:00:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Ring’s new smart lock has a manual fallback that can’t lock you out – how it works",
@@ -10,7 +45,7 @@
         },
         {
             "source": "KrebsOnSecurity",
-            "title": "FBI Arrests Founder of Ransomware Negotiation Firm",
+            "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
             "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
             "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an inves...",
             "published_utc": "2026-10-10T00:17:42+00:00"
@@ -254,13 +289,6 @@
             "published_utc": "2026-10-09T04:46:11+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Formula Predicts When AI Chatbots Are at Risk of Turning Bad",
-            "link": "https://www.securityweek.com/formula-predicts-when-ai-chatbots-are-at-risk-of-turning-bad/",
-            "summary": "",
-            "published_utc": "2026-10-09T04:12:38+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "FBI disrupts Chinese hacking tools used to breach critical infrastructure",
             "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/",
@@ -273,13 +301,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/",
             "summary": "IDC Frontier, a major Japanese cloud and digital infrastructure company, disclosed that its IDCF Cloud service was targeted in a ransomware attack tha...",
             "published_utc": "2026-10-08T20:09:45+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Low-cost Android phones ship with residential proxy malware",
-            "link": "https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/",
-            "summary": "A malware campaign dubbed 'Midnight Mimosa' has been discovered on low-cost Android smartphones that ship with malicious software embedded in their fi...",
-            "published_utc": "2026-10-08T19:20:33+00:00"
         },
         {
             "source": "CSO Online",
@@ -296,25 +317,11 @@
             "published_utc": "2026-10-08T18:56:22+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "FakeGit malware campaign returns with 17,610 malicious GitHub repos",
-            "link": "https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/",
-            "summary": "More than 17,000 fake repositories on GitHub are distributing the SmartLoader malware after the FakeGit campaign reactivated earlier this month to pus...",
-            "published_utc": "2026-10-08T17:10:55+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "Regulators are trying to protect you from being fired by AI – here’s how",
             "link": "https://www.zdnet.com/innovation/how-state-regulators-protect-you-fired-by-ai/",
             "summary": "Regulating AI at work is happening slowly, but it’s still stuck at the state level.",
             "published_utc": "2026-10-08T17:05:53+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Cisco warns of critical flaws allowing Nexus switch takeover",
-            "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/",
-            "summary": "Cisco released security advisories for five critical vulnerabilities in its NX-OS data center network operating system that could be exploited to run ...",
-            "published_utc": "2026-10-08T15:26:33+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -1771,13 +1778,6 @@
             "link": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
             "summary": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest singl...",
             "published_utc": "2026-09-08T21:44:22+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "Muse, Meta’s New Personal AI Agent, Needs You to Trust It",
-            "link": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
-            "summary": "Designed to compete with OpenClaw and Instinct, the company says Muse can do everything from sell your car to book you a plane ticket.",
-            "published_utc": "2026-09-08T20:12:51+00:00"
         },
         {
             "source": "InfosecurityMag",
