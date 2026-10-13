@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2026-10-13T02:27:19.347980+00:00",
+    "lastUpdatedUTC": "2026-10-13T10:12:40.086100+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "Over 1,500 npm packages exposed by Trusted Publishing validation flaw",
+            "link": "https://www.csoonline.com/article/4234229/over-1500-npm-packages-exposed-by-trusted-publishing-validation-flaw.html",
+            "summary": "",
+            "published_utc": "2026-10-13T10:02:12+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "UK Government Announces Sweeping New AI Security Plans",
+            "link": "https://www.infosecurity-magazine.com/news/uk-government-sweeping-ai-security/",
+            "summary": "The government is planning tweaks to legislation, new incident response and more to head of AI security threats",
+            "published_utc": "2026-10-13T09:45:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Cyberattack Prompts Ahold Delhaize to Disconnect Systems",
+            "link": "https://www.securityweek.com/cyberattack-prompts-ahold-delhaize-to-disconnect-systems/",
+            "summary": "",
+            "published_utc": "2026-10-13T09:37:12+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Fifth of CISOs Take Time Off to Avoid Patch Tuesday",
+            "link": "https://www.infosecurity-magazine.com/news/fifth-cisos-take-time-off-avoid/",
+            "summary": "Socura report claims CISOs are calling in sick or taking holiday to miss Patch Tuesday",
+            "published_utc": "2026-10-13T09:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Refrigeration Controller Hack Spoils Food Across European Supermarkets",
+            "link": "https://www.securityweek.com/refrigeration-controller-hack-spoils-food-across-european-supermarkets/",
+            "summary": "",
+            "published_utc": "2026-10-13T08:28:51+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Norway fines Microsoft ad firm $9.6 million over Grindr data sharing",
@@ -177,6 +212,13 @@
             "published_utc": "2026-10-12T09:15:00+00:00"
         },
         {
+            "source": "WeLiveSecurity",
+            "title": "What to do when a data breach notice doesn't say much",
+            "link": "https://www.welivesecurity.com/en/how-to/what-to-do-when-a-data-breach-notice-tells-you-almost-nothing/",
+            "summary": "Data breach notifications are telling victims less than ever. What the company leaves out can still shape what you do next.",
+            "published_utc": "2026-10-12T09:00:00+00:00"
+        },
+        {
             "source": "SecurityWeek",
             "title": "Critical SonicWall Vulnerability Exploited Days After Disclosure",
             "link": "https://www.securityweek.com/critical-sonicwall-vulnerability-exploited-days-after-disclosure/",
@@ -240,13 +282,6 @@
             "published_utc": "2026-10-10T12:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison",
-            "link": "https://www.securityweek.com/insider-cyber-extortion-plot-against-industrial-firm-lands-engineer-in-prison/",
-            "summary": "",
-            "published_utc": "2026-10-10T11:00:00+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "Ring’s new smart lock has a manual fallback that can’t lock you out – how it works",
             "link": "https://www.zdnet.com/uncategorized/ring-smart-lock-manual-power-dial/",
@@ -259,13 +294,6 @@
             "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
             "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an inves...",
             "published_utc": "2026-10-10T00:17:42+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks",
-            "link": "https://www.securityweek.com/openai-fires-3-safety-researchers-in-dispute-over-ai-risks/",
-            "summary": "",
-            "published_utc": "2026-10-09T21:07:46+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -637,13 +665,6 @@
             "link": "https://www.welivesecurity.com/en/social-media/brand-deal-scam-targeting-youtube-creators/",
             "summary": "A plausible-sounding sponsorship offer could mask an attempt to compromise your Google account",
             "published_utc": "2026-10-07T09:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "AI is turning offensive security into a continuous necessity",
-            "link": "https://www.csoonline.com/article/4231510/ai-is-turning-offensive-security-into-a-continuous-necessity.html",
-            "summary": "",
-            "published_utc": "2026-10-07T08:25:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2751,20 +2772,6 @@
             "link": "https://www.infosecurity-magazine.com/news/frontier-models-unsanctioned/",
             "summary": "Anthropic and OpenAI models attacked “real people and organizations” during AI Security Institute tests",
             "published_utc": "2026-08-05T08:45:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Fake Bank of America Phishing Scam Installs Remote Access Malware",
-            "link": "https://www.infosecurity-magazine.com/news/fake-bank-of-america-phishing-scam/",
-            "summary": "Cybercriminals are using a fake Bank of America phishing campaign to trick users into downloading a malicious script that installs ScreenConnect, enab...",
-            "published_utc": "2026-08-05T08:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "WhatsApp Scam Hijacks Accounts via Linked Devices Feature",
-            "link": "https://www.infosecurity-magazine.com/news/whatsapp-voting-scam-linked/",
-            "summary": "WhatsApp scam abused the Linked devices feature to hijack accounts without stealing any passwords",
-            "published_utc": "2026-08-04T14:30:00+00:00"
         },
         {
             "source": "WIRED Security",
