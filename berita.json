@@ -1,6 +1,160 @@
 {
-    "lastUpdatedUTC": "2026-10-13T10:12:40.086100+00:00",
+    "lastUpdatedUTC": "2026-10-13T17:59:11.063022+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Windows 11 KB5127648 & KB5126653 cumulative updates released",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127648-and-kb5126653-cumulative-updates-released/",
+            "summary": "Microsoft has released Windows 11 KB5127648 and KB5126653 cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and ...",
+            "published_utc": "2026-10-13T17:49:38+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Linus Torvalds is using AI to develop Linux kernel code now",
+            "link": "https://www.zdnet.com/innovation/linus-torvalds-uses-ai-to-write-linux-kernel-patch/",
+            "summary": "The move is a turning point in the developer’s relationship with AI and Linux.",
+            "published_utc": "2026-10-13T17:30:46+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Adobe Patches 140 Vulnerabilities Across 10 Products",
+            "link": "https://www.securityweek.com/adobe-patches-140-vulnerabilities-across-10-products/",
+            "summary": "",
+            "published_utc": "2026-10-13T17:14:42+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Google Partially Reverses Chrome Bug Bounty Cuts",
+            "link": "https://www.securityweek.com/google-partially-reverses-chrome-bug-bounty-cuts/",
+            "summary": "",
+            "published_utc": "2026-10-13T17:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Google lets you make personal Android apps for free now – with just prompts",
+            "link": "https://www.zdnet.com/tech/custom-android-apps-google-ai-studio/",
+            "summary": "It just got a whole lot easier to vibe code the exact Android app you need – no developer experience required.",
+            "published_utc": "2026-10-13T17:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "TFG London cyberattack disrupts systems at Hobbs and Whistles retailers",
+            "link": "https://www.bleepingcomputer.com/news/security/tfg-london-cyberattack-disrupts-systems-at-hobbs-and-whistles-retailers/",
+            "summary": "TFG London detected a cybersecurity incident that impacted IT systems used by the Phase Eight, Hobbs, and Whistles premium fashion brands. [...]",
+            "published_utc": "2026-10-13T16:44:18+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Meta Says Hackers Took Code, Personal Data of 1,500 in GitHub Breach",
+            "link": "https://www.securityweek.com/meta-says-hackers-took-code-personal-data-of-1500-in-github-breach/",
+            "summary": "",
+            "published_utc": "2026-10-13T16:01:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Ivanti warns of Connect Secure zero-day exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks/",
+            "summary": "Ivanti urged customers on Tuesday to immediately patch an actively exploited zero-day vulnerability in the Ivanti Connect Secure (ICS) remote access g...",
+            "published_utc": "2026-10-13T15:45:50+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Apple’s smart home event: All 7 devices, prices, and release dates",
+            "link": "https://www.zdnet.com/uncategorized/apple-smart-home-event-homeview-homepod-mini-new-apple-tv/",
+            "summary": "Apple’s “Welcome Home” event featured all the new smart home hardware coming to the Apple lineup.",
+            "published_utc": "2026-10-13T15:37:27+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "4 upgrades HomePod Mini 2 has over its 6-year-old predecessor",
+            "link": "https://www.zdnet.com/home-and-office/upgrades-homepod-mini-2026-has-over-predecessor/",
+            "summary": "HomePod mini 2 is here, and there are four major upgrades that separate it from the first generation.",
+            "published_utc": "2026-10-13T15:28:12+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Docker Hub flaw let attackers impersonate users, tamper with images",
+            "link": "https://www.bleepingcomputer.com/news/security/docker-hub-flaw-let-attackers-impersonate-users-tamper-with-images/",
+            "summary": "Docker has disclosed a critical vulnerability (CVE-2026-105445) in Docker Hub that let attackers access another user's container repositories using a ...",
+            "published_utc": "2026-10-13T15:20:20+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Apple’s $299 HomeView smart hub is here: 8 highlights, including the wall model",
+            "link": "https://www.zdnet.com/home-and-office/apple-homeview-smart-home-hub-features-price/",
+            "summary": "As an Apple Home user, here’s what stands out about Apple’s new smart home hub – and what I want to test firsthand.",
+            "published_utc": "2026-10-13T14:31:03+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "The MFA Gaps Attackers are Still Exploiting",
+            "link": "https://www.bleepingcomputer.com/news/security/the-mfa-gaps-attackers-are-still-exploiting/",
+            "summary": "Attackers continue exploiting gaps in MFA coverage, using stolen credentials to access VPNs, RDP, and Windows systems that still rely on passwords alo...",
+            "published_utc": "2026-10-13T14:01:11+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "European Retail Firms Confirm Cyber Incidents",
+            "link": "https://www.infosecurity-magazine.com/news/retail-firms-confirm-cyber/",
+            "summary": "Several Europe-based retail firms have confirmed experiencing cyber incidents, while H&amp;M said it is “investigating” such claims",
+            "published_utc": "2026-10-13T14:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "SAP warns of maximum severity OAuth2 SSRF security flaw",
+            "link": "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-oauth2-ssrf-security-flaw/",
+            "summary": "SAP has addressed 20 security flaws across multiple products in its October 2026 security updates, including a maximum-severity vulnerability in the C...",
+            "published_utc": "2026-10-13T13:51:02+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Defenders Reluctant to Deploy Agentic AI as a Cybersecurity Tool",
+            "link": "https://www.infosecurity-magazine.com/news/defenders-skeptical-agentic-ai/",
+            "summary": "Flashpoint research suggests that only 25% of security teams have actively deployed AI, with many concerned about AI Agents’ negative impact",
+            "published_utc": "2026-10-13T13:30:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Small AI Models Could Soon Self-Replicate on IoT Devices, Anthropic Warns",
+            "link": "https://www.securityweek.com/small-ai-models-may-soon-be-able-to-self-replicate-on-iot-devices-anthropic-warns/",
+            "summary": "",
+            "published_utc": "2026-10-13T11:58:29+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Dutch tax authorities cancel Microsoft 365 cloud rollout – and turn toward open source",
+            "link": "https://www.zdnet.com/business/dutch-tax-authorities-cancel-microsoft-365-cloud-rollout/",
+            "summary": "Another European move toward digital sovereignty has curtailed adopting the US workplace suite.",
+            "published_utc": "2026-10-13T11:50:35+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "GitLab patches a max-severity regex flaw alongside five high-severity bugs",
+            "link": "https://www.csoonline.com/article/4234306/gitlab-patches-a-max-severity-regex-flaw-alongside-five-high-severity-bugs.html",
+            "summary": "",
+            "published_utc": "2026-10-13T11:42:47+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "XWorm RAT Evolves Into Surveillance Platform",
+            "link": "https://www.securityweek.com/xworm-rat-evolves-into-surveillance-platform/",
+            "summary": "",
+            "published_utc": "2026-10-13T11:13:10+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "AI Turns Familiar Cyberattacks Into a Race Against Time",
+            "link": "https://www.securityweek.com/ai-turns-familiar-cyberattacks-into-a-race-against-time/",
+            "summary": "",
+            "published_utc": "2026-10-13T11:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "$86 Million Crypto Heist Linked to Ledger Signer Hardware Implant",
+            "link": "https://www.securityweek.com/86-million-crypto-heist-linked-to-ledger-signer-hardware-implant/",
+            "summary": "",
+            "published_utc": "2026-10-13T10:36:05+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "Over 1,500 npm packages exposed by Trusted Publishing validation flaw",
@@ -17,7 +171,7 @@
         },
         {
             "source": "SecurityWeek",
-            "title": "Cyberattack Prompts Ahold Delhaize to Disconnect Systems",
+            "title": "Cyberattack Prompts Grocery Giant Ahold Delhaize to Disconnect Systems",
             "link": "https://www.securityweek.com/cyberattack-prompts-ahold-delhaize-to-disconnect-systems/",
             "summary": "",
             "published_utc": "2026-10-13T09:37:12+00:00"
@@ -114,13 +268,6 @@
             "published_utc": "2026-10-12T13:51:07+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Bricksforge WordPress Plugin Vulnerability Exploited in the Wild",
-            "link": "https://www.securityweek.com/bricksforge-wordpress-plugin-vulnerability-exploited-in-the-wild/",
-            "summary": "",
-            "published_utc": "2026-10-12T13:14:37+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "GitLab warns of max severity code execution vulnerability",
             "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
@@ -149,13 +296,6 @@
             "published_utc": "2026-10-12T12:07:30+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Canonical Websites Disrupted in Second DDoS Attack This Year",
-            "link": "https://www.securityweek.com/canonical-websites-disrupted-in-second-ddos-attack-this-year/",
-            "summary": "",
-            "published_utc": "2026-10-12T11:58:39+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Microsoft: Windows 11 23H2 reaches end of support in 30 days",
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-reaches-end-of-support-in-30-days/",
@@ -170,32 +310,11 @@
             "published_utc": "2026-10-12T11:57:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Mastermind of 15,000-Mule Cybercrime Laundering Network Pleads Guilty in US",
-            "link": "https://www.securityweek.com/mastermind-of-15000-mule-cybercrime-laundering-network-pleads-guilty-in-us/",
-            "summary": "",
-            "published_utc": "2026-10-12T11:24:50+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "iRhythm Data Breach Impacts at Least 360,000 People",
-            "link": "https://www.securityweek.com/irhythm-data-breach-impacts-over-360000-people/",
-            "summary": "",
-            "published_utc": "2026-10-12T11:05:43+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "Feds Got Warrants to Use Fake Cell Towers to Hunt Down Don Lemon’s Producer",
             "link": "https://www.wired.com/story/feds-got-warrants-to-use-fake-cell-towers-to-hunt-down-don-lemons-producer/",
             "summary": "Investigators also sought permission to use an invasive surveillance tool called a cell-site simulators against journalist Georgia Fort and a Minnesot...",
             "published_utc": "2026-10-12T11:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Ransomware Response Expert Arrested in ShinyHunters FBI Hack Probe",
-            "link": "https://www.securityweek.com/ransomware-response-expert-arrested-in-shinyhunters-fbi-hack-probe/",
-            "summary": "",
-            "published_utc": "2026-10-12T10:32:05+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -219,13 +338,6 @@
             "published_utc": "2026-10-12T09:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Critical SonicWall Vulnerability Exploited Days After Disclosure",
-            "link": "https://www.securityweek.com/critical-sonicwall-vulnerability-exploited-days-after-disclosure/",
-            "summary": "",
-            "published_utc": "2026-10-12T08:36:01+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Karaoke Giant Reveals Data Breach Impacting Eight Million",
             "link": "https://www.infosecurity-magazine.com/news/karaoke-giant-data-breach-eight/",
@@ -238,41 +350,6 @@
             "link": "https://www.csoonline.com/article/4232208/the-7-biggest-issues-cisos-and-security-teams-face-today.html",
             "summary": "",
             "published_utc": "2026-10-12T08:25:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Let’s Encrypt Cuts Default Certificate Validity to 64 Days Ahead of 45-Day Switch",
-            "link": "https://www.securityweek.com/lets-encrypt-cuts-default-certificate-validity-to-64-days-ahead-of-45-day-switch/",
-            "summary": "",
-            "published_utc": "2026-10-12T07:53:28+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Nippon Columbia malware incident exposes 8.6 million karaoke fan records",
-            "link": "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/",
-            "summary": "Daiichi Kosho, a major Japanese entertainment system maker, disclosed that a malware infection at its contractor, Nippon Columbia, exposed more than 8...",
-            "published_utc": "2026-10-11T14:23:46+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
-            "link": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/",
-            "summary": "Canadian cybersecurity executive Edward Dubrovsky has been arrested in Pennsylvania in connection with alleged extortion activity that multiple report...",
-            "published_utc": "2026-10-10T15:07:54+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "ARTEX AI, Claude agents used in cyberattacks on South Korean banks",
-            "link": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/",
-            "summary": "The cyberattacks that shook the South Korean financial sector earlier this month were launched by a Chinese hacker using the ARTEX AI penetration test...",
-            "published_utc": "2026-10-10T14:16:17+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management",
-            "link": "https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/",
-            "summary": "Traditional attack surface management helps organizations discover exposed assets, but visibility alone is not enough to address threats. Criminal IP ...",
-            "published_utc": "2026-10-10T12:30:39+00:00"
         },
         {
             "source": "WIRED Security",
@@ -296,13 +373,6 @@
             "published_utc": "2026-10-10T00:17:42+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
-            "summary": "Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ...",
-            "published_utc": "2026-10-09T20:31:37+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Friday Squid Blogging: I Caught a Squid",
             "link": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-i-caught-a-squid.html",
@@ -322,13 +392,6 @@
             "link": "https://www.zdnet.com/tech/linus-torvalds-ai-coding-programming/",
             "summary": "The Linux creator calls vibe coding ‘a wonderful way to find joy in programming,’ but not for running Linux development. (Finding bugs is OK.)",
             "published_utc": "2026-10-09T17:53:18+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto",
-            "link": "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/",
-            "summary": "Threat actors are exploiting one critical and one medium-severity vulnerability still unpatched in the AhsayCBS backup management platform to deploy w...",
-            "published_utc": "2026-10-09T17:17:23+00:00"
         },
         {
             "source": "CSO Online",
@@ -653,13 +716,6 @@
             "published_utc": "2026-10-07T09:25:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Your enterprise doesn’t need six BOM programs. It needs one evidence graph",
-            "link": "https://www.csoonline.com/article/4231283/your-enterprise-doesnt-need-six-bom-programs-it-needs-one-evidence-graph.html",
-            "summary": "",
-            "published_utc": "2026-10-07T09:00:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "Inside a brand deal scam targeting YouTube creators",
             "link": "https://www.welivesecurity.com/en/social-media/brand-deal-scam-targeting-youtube-creators/",
@@ -947,32 +1003,11 @@
             "published_utc": "2026-10-01T09:30:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Who owns AI risk at work? Business and tech leaders can’t agree, PwC survey finds",
-            "link": "https://www.zdnet.com/innovation/pwc-digital-trust-insights-2027-ai-risk-responsibility/",
-            "summary": "PwC research highlights a growing need for someone to own AI. Is an AI chief the answer?",
-            "published_utc": "2026-10-01T09:00:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "MI5 Warns Over 100 Academics Helped China's Espionage Plans",
             "link": "https://www.infosecurity-magazine.com/news/mi5-alerts-academics-chinese/",
             "summary": "MI5 has issued a rare warning to UK academics contributing to the China General Technology Research Institute",
             "published_utc": "2026-10-01T07:37:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "openSUSE Leap adds a new security layer: Immutable mode",
-            "link": "https://www.zdnet.com/tech/opensuse-leap-immutable-mode-security/",
-            "summary": "One of the more secure Linux distributions has added another feature to help further lock it down.",
-            "published_utc": "2026-09-30T17:58:06+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Your iPhone just got a hidden anti-scam upgrade in iOS 27: How to enable it",
-            "link": "https://www.zdnet.com/tech/ios-27-impersonation-risk-detection-security-feature/",
-            "summary": "New with iOS 27 (and iPadOS 27) is a setting called Impersonation Risk Detection that aims to warn you of suspicious activity that could trap you in a...",
-            "published_utc": "2026-09-30T15:45:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -987,13 +1022,6 @@
             "link": "https://www.infosecurity-magazine.com/news/trump-ai-giants-super-intelligence/",
             "summary": "Trump and six AI firms sign a voluntary accord on internal controls, audits and board oversight",
             "published_utc": "2026-09-30T13:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Pearson’s Workera deal targets a big workplace problem: No time to AI upskill",
-            "link": "https://www.zdnet.com/innovation/pearson-workera-acquisition-ai-upskilling/",
-            "summary": "Pearson has agreed to acquire Workera to help businesses assess employees’ AI skills and target training where it’s needed most.",
-            "published_utc": "2026-09-30T12:25:48+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1031,25 +1059,11 @@
             "published_utc": "2026-09-30T08:00:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "LLMjacking can run up your business’ AI bill fast – how to stop it",
-            "link": "https://www.zdnet.com/innovation/llmjacking-business-ai-bill-cost-how-to-stop/",
-            "summary": "Google analysts warn that stolen AI credentials are being sold underground, and businesses are footing the bill.",
-            "published_utc": "2026-09-29T19:09:53+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "OpenAI Gets Sued Over the Hugging Face Hack",
             "link": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
             "summary": "A nonprofit in California is doing what Hugging Face has not—attempting to hold OpenAI legally accountable for the actions of its agents.",
             "published_utc": "2026-09-29T19:05:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Is ChatGPT your new Google Workspace alternative? Meet Space, Pages, and slides",
-            "link": "https://www.zdnet.com/innovation/chatgpt-space-pages-slides-google-workspace-alternative/",
-            "summary": "OpenAI now lets teams create documents, build presentations, and work with AI agents inside ChatGPT",
-            "published_utc": "2026-09-29T17:58:37+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -2758,20 +2772,6 @@
             "link": "https://www.infosecurity-magazine.com/news/prompt-injection-llm-risk/",
             "summary": "Prompt injection remains the most dangerous security threat to LLMs, according to OWASP’s latest Top 10 LLM Applications list",
             "published_utc": "2026-08-05T11:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "ChainDrop Worm Hits 400+ npm Packages with Two Billion Monthly Installs",
-            "link": "https://www.infosecurity-magazine.com/news/chaindrop-worm-400-npm-two-billion/",
-            "summary": "A new npm worm has compromised packages with over two billion monthly installs",
-            "published_utc": "2026-08-05T10:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Frontier Models Engage in Unsanctioned Behavior During Testing",
-            "link": "https://www.infosecurity-magazine.com/news/frontier-models-unsanctioned/",
-            "summary": "Anthropic and OpenAI models attacked “real people and organizations” during AI Security Institute tests",
-            "published_utc": "2026-08-05T08:45:00+00:00"
         },
         {
             "source": "WIRED Security",
