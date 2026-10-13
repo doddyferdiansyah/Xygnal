@@ -1,11 +1,67 @@
 {
-    "lastUpdatedUTC": "2026-10-13T17:59:11.063022+00:00",
+    "lastUpdatedUTC": "2026-10-13T22:35:27.300764+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "OpenAI engineer arrested for allegedly planting spy device in office",
+            "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/",
+            "summary": "A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Franci...",
+            "published_utc": "2026-10-13T22:33:02+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Ghostscript flaw lets hackers hijack servers via PDF uploads",
+            "link": "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/",
+            "summary": "A critical heap buffer overflow vulnerability (CVE-2026-39919) in the Ghostscript interpreter and rendering engine could allow remote code execution t...",
+            "published_utc": "2026-10-13T21:33:26+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Anthropic warns self-replicating AI could spread to your smart devices",
+            "link": "https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/",
+            "summary": "Anthropic is warning that small AI models could soon be able to self-replicate across consumer IoT devices, from Android TV boxes to smart ovens, crea...",
+            "published_utc": "2026-10-13T21:16:34+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days/",
+            "summary": "Today is Microsoft's October 2026 Patch Tuesday, with security updates addressing a record-breaking 1,411 flaws, including one actively exploited and ...",
+            "published_utc": "2026-10-13T19:56:09+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft releases Windows 10 KB5126657 extended security update",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5126657-extended-security-update/",
+            "summary": "Microsoft released the Windows 10 KB5126657 extended security update, which includes this month's record-breaking October 2026 Patch Tuesday fixes and...",
+            "published_utc": "2026-10-13T19:47:30+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft: Windows 11 24H2 Home and Pro reached end of support",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-home-and-pro-reached-end-of-support/",
+            "summary": "Microsoft announced today that devices running Windows 11 24H2 Home and Pro editions have reached the end of support and will no longer receive monthl...",
+            "published_utc": "2026-10-13T19:04:38+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Ivanti Zero-Day Chain Gave Attackers Root Access to Fully Patched VPN",
+            "link": "https://www.securityweek.com/ivanti-zero-day-chain-gave-attackers-root-access-to-fully-patched-vpn/",
+            "summary": "",
+            "published_utc": "2026-10-13T18:43:43+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "UK Housing Ombudsman Service investigates 'security incident'",
+            "link": "https://www.bleepingcomputer.com/news/security/uk-housing-ombudsman-service-investigates-security-incident/",
+            "summary": "The U.K. Housing Ombudsman Service is investigating a third-party IT security incident that impacted its case management system on Tuesday. [...]",
+            "published_utc": "2026-10-13T18:19:44+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Windows 11 KB5127648 & KB5126653 cumulative updates released",
             "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127648-and-kb5126653-cumulative-updates-released/",
-            "summary": "Microsoft has released Windows 11 KB5127648 and KB5126653 cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and ...",
+            "summary": "Microsoft has released the Patch Tuesday Windows 11 KB5127648 and KB5126653 cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vu...",
             "published_utc": "2026-10-13T17:49:38+00:00"
         },
         {
@@ -205,32 +261,11 @@
             "published_utc": "2026-10-12T19:23:01+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Anthropic takes risky AI tests offline after models breach govt sites",
-            "link": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/",
-            "summary": "Anthropic announced that its internal AI models undergoing \"high-risk and cybersecurity evaluations\" no longer have internet access following incident...",
-            "published_utc": "2026-10-12T18:51:59+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "Claude sent a false homicide tip to police – and it’s part of a troubling AI pattern",
             "link": "https://www.zdnet.com/innovation/claude-false-homicide-tip/",
             "summary": "Models routinely take shortcuts to pass evaluations. Who gets to decide what incidents are innocuous?",
             "published_utc": "2026-10-12T17:45:44+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
-            "link": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
-            "summary": "Ledger has confirmed that some of its devices distributed through Southeast Asian reseller CryptoBilis were compromised with a hardware implant that d...",
-            "published_utc": "2026-10-12T16:27:23+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Cyberattack shuts down refrigerators at French supermarkets",
-            "link": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
-            "summary": "Attackers remotely defrosted refrigerators at multiple French supermarket chains overnight in a cyberattack that reportedly targeted Danfoss refrigera...",
-            "published_utc": "2026-10-12T15:23:34+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -245,34 +280,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/10/fbi-arrests-suspect-in-fbi-hacking-case.html",
             "summary": "",
             "published_utc": "2026-10-12T15:01:26+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "IonQ to Acquire Zero Trust Firm Elisity for Up to $1.3 Billion",
-            "link": "https://www.securityweek.com/ionq-to-acquire-zero-trust-firm-elisity-for-up-to-1-3-billion/",
-            "summary": "",
-            "published_utc": "2026-10-12T14:25:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption",
-            "link": "https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/",
-            "summary": "A new Windows malware loader called AvisLoader uses encrypted peer-to-peer communications to make command-and-control infrastructure harder to disrupt...",
-            "published_utc": "2026-10-12T14:00:10+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Retail giant Ahold Delhaize takes systems offline after cyberattack",
-            "link": "https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/",
-            "summary": "Retail giant Ahold Delhaize, one of the world's largest food retail chains, confirmed today that it had to take some systems offline in response to a ...",
-            "published_utc": "2026-10-12T13:51:07+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "GitLab warns of max severity code execution vulnerability",
-            "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
-            "summary": "GitLab warned users today to immediately patch a maximum-severity vulnerability in the CI/CD Regular Expression Compiler that could let remote attacke...",
-            "published_utc": "2026-10-12T13:09:09+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -294,13 +301,6 @@
             "link": "https://www.csoonline.com/article/4233811/researchers-bypass-6-ai-agent-frameworks-with-a-simple-repeat-after-me-prompt.html",
             "summary": "",
             "published_utc": "2026-10-12T12:07:30+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft: Windows 11 23H2 reaches end of support in 30 days",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-reaches-end-of-support-in-30-days/",
-            "summary": "Microsoft has reminded customers that systems running Windows 11 23H2 Enterprise, Education, and IoT Enterprise editions will stop receiving security ...",
-            "published_utc": "2026-10-12T11:58:33+00:00"
         },
         {
             "source": "InfosecurityMag",
