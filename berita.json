@@ -1,6 +1,132 @@
 {
-    "lastUpdatedUTC": "2026-10-14T07:12:14.093726+00:00",
+    "lastUpdatedUTC": "2026-10-14T13:22:31.316171+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Global takedown hits network behind 1 billion phishing messages",
+            "link": "https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/",
+            "summary": "A massive cybercriminal ecosystem facilitating more than a billion malicious messages targeting over 75,000 organizations across 150 countries has bee...",
+            "published_utc": "2026-10-14T13:12:52+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Microsoft Disrupts Chinese-Language Phishing Market Behind 1B+ Messages",
+            "link": "https://www.securityweek.com/microsoft-disrupts-chinese-language-phishing-market-behind-1b-messages/",
+            "summary": "",
+            "published_utc": "2026-10-14T13:00:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "How Claude Code’s 256KB blind spot put developers’ secrets in the preview pane",
+            "link": "https://www.csoonline.com/article/4235139/how-claude-codes-256kb-blind-spot-put-developers-secrets-in-the-preview-pane.html",
+            "summary": "",
+            "published_utc": "2026-10-14T13:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "CISA warns admins to immediately fix Ivanti flaw exploited as zero-day",
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/",
+            "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged security teams to immediately patch an Ivanti Connect Secure (ICS) flaw exploit...",
+            "published_utc": "2026-10-14T12:58:07+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Hackers abuse the Ivanti Connect Secure bug to gain access without accounts",
+            "link": "https://www.csoonline.com/article/4235129/hackers-abuse-the-ivanti-connect-secure-bug-to-gain-access-without-accounts.html",
+            "summary": "",
+            "published_utc": "2026-10-14T11:46:45+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Hirudo Android malware replaces banking apps to evade security checks",
+            "link": "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/",
+            "summary": "A new Android malware called Hirudo steals bank account credentials by replacing legitimate banking apps with modified versions that disable security ...",
+            "published_utc": "2026-10-14T11:41:20+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "US Arrests Two in Crackdown on North Korean IT Worker Laptop Farms",
+            "link": "https://www.securityweek.com/us-arrests-two-in-crackdown-on-north-korean-it-worker-laptop-farms/",
+            "summary": "",
+            "published_utc": "2026-10-14T10:55:21+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft: Recent Windows updates may trigger Remote Desktop failures",
+            "link": "https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/",
+            "summary": "Microsoft has confirmed that non-admin users may be unable to connect to devices via Remote Desktop after installing recent Windows updates if the \"Ad...",
+            "published_utc": "2026-10-14T10:48:09+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Unplug your smart fridges, French supermarkets warned after cyberattack",
+            "link": "https://www.csoonline.com/article/4235107/unplug-your-smart-fridges-french-supermarkets-warned-after-cyberattack.html",
+            "summary": "",
+            "published_utc": "2026-10-14T10:37:21+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Passkey Authentications Double but Adoption Remains Slow",
+            "link": "https://www.infosecurity-magazine.com/news/passkey-authentications-double/",
+            "summary": "Dashlane data finds that passkey adoption is growing but not quickly enough",
+            "published_utc": "2026-10-14T10:15:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "French Supermarket Cyber-Attack Impacts More Refrigeration Controllers",
+            "link": "https://www.infosecurity-magazine.com/news/french-supermarket-hack-more/",
+            "summary": "At least two French supermarkets using temperature regulation devices from Dixell Electronics also experienced food stock disruptions",
+            "published_utc": "2026-10-14T09:30:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Cybersecurity is a leadership problem: Why the management model needs to catch up",
+            "link": "https://www.csoonline.com/article/4234532/cybersecurity-is-a-leadership-problem-why-the-management-model-needs-to-catch-up.html",
+            "summary": "",
+            "published_utc": "2026-10-14T09:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Microsoft Breaks Patch Tuesday Record Again with 1400+ CVEs",
+            "link": "https://www.infosecurity-magazine.com/news/microsoft-patch-tuesday-record-1/",
+            "summary": "Microsoft issued its largest ever round of security updates in the October Patch Tuesday",
+            "published_utc": "2026-10-14T08:45:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "AI agents aren’t ‘going rogue.’ Frontier labs are skipping security basics.",
+            "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+            "summary": "",
+            "published_utc": "2026-10-14T08:25:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Billion-Dollar Companies Twice as Likely to Leave Critical Vulnerabilities Unpatched",
+            "link": "https://www.infosecurity-magazine.com/news/companies-leave-critical/",
+            "summary": "New Chainguard research reveals larger companies struggle to patch vulnerabilities due to business priorities and operational disruption",
+            "published_utc": "2026-10-14T07:55:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Chrome, Firefox Updates Patch 114 Flaws as Mozilla Unveils Firefox Enterprise",
+            "link": "https://www.securityweek.com/chrome-firefox-updates-patch-114-flaws-as-mozilla-unveils-firefox-enterprise/",
+            "summary": "",
+            "published_utc": "2026-10-14T07:38:51+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Citrix, Fortinet, Ivanti Patch 29 Vulnerabilities Across Their Products",
+            "link": "https://www.securityweek.com/citrix-fortinet-ivanti-patch-29-vulnerabilities-across-their-products/",
+            "summary": "",
+            "published_utc": "2026-10-14T07:26:35+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Microsoft Patches Record 1,413 Vulnerabilities, Including Exploited Windows Zero-Day",
+            "link": "https://www.securityweek.com/microsoft-patches-record-1413-vulnerabilities-including-exploited-windows-zero-day/",
+            "summary": "",
+            "published_utc": "2026-10-14T07:16:12+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "SAP Patches Critical NetWeaver, S/4HANA Vulnerabilities",
@@ -149,13 +275,6 @@
             "published_utc": "2026-10-13T16:44:18+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Meta Says Hackers Took Code, Personal Data of 1,500 in GitHub Breach",
-            "link": "https://www.securityweek.com/meta-says-hackers-took-code-personal-data-of-1500-in-github-breach/",
-            "summary": "",
-            "published_utc": "2026-10-13T16:01:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Ivanti warns of Connect Secure zero-day exploited in attacks",
             "link": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks/",
@@ -191,25 +310,11 @@
             "published_utc": "2026-10-13T14:31:03+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "The MFA Gaps Attackers are Still Exploiting",
-            "link": "https://www.bleepingcomputer.com/news/security/the-mfa-gaps-attackers-are-still-exploiting/",
-            "summary": "Attackers continue exploiting gaps in MFA coverage, using stolen credentials to access VPNs, RDP, and Windows systems that still rely on passwords alo...",
-            "published_utc": "2026-10-13T14:01:11+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "European Retail Firms Confirm Cyber Incidents",
             "link": "https://www.infosecurity-magazine.com/news/retail-firms-confirm-cyber/",
             "summary": "Several Europe-based retail firms have confirmed experiencing cyber incidents, while H&amp;M said it is “investigating” such claims",
             "published_utc": "2026-10-13T14:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "SAP warns of maximum severity OAuth2 SSRF security flaw",
-            "link": "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-oauth2-ssrf-security-flaw/",
-            "summary": "SAP has addressed 20 security flaws across multiple products in its October 2026 security updates, including a maximum-severity vulnerability in the C...",
-            "published_utc": "2026-10-13T13:51:02+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -219,11 +324,11 @@
             "published_utc": "2026-10-13T13:30:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Small AI Models Could Soon Self-Replicate on IoT Devices, Anthropic Warns",
-            "link": "https://www.securityweek.com/small-ai-models-may-soon-be-able-to-self-replicate-on-iot-devices-anthropic-warns/",
-            "summary": "",
-            "published_utc": "2026-10-13T11:58:29+00:00"
+            "source": "ZDNet Security",
+            "title": "‘So perfect, they are literally identical’ – Your AI-polished resumes are recruiters’ new top stressor",
+            "link": "https://www.zdnet.com/education/employ-report-ai-hr-hiring/",
+            "summary": "Exclusive: A new Employ report shows how AI is both helping and hurting the hiring industry.",
+            "published_utc": "2026-10-13T13:00:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -238,27 +343,6 @@
             "link": "https://www.csoonline.com/article/4234306/gitlab-patches-a-max-severity-regex-flaw-alongside-five-high-severity-bugs.html",
             "summary": "",
             "published_utc": "2026-10-13T11:42:47+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "XWorm RAT Evolves Into Surveillance Platform",
-            "link": "https://www.securityweek.com/xworm-rat-evolves-into-surveillance-platform/",
-            "summary": "",
-            "published_utc": "2026-10-13T11:13:10+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "AI Turns Familiar Cyberattacks Into a Race Against Time",
-            "link": "https://www.securityweek.com/ai-turns-familiar-cyberattacks-into-a-race-against-time/",
-            "summary": "",
-            "published_utc": "2026-10-13T11:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "$86 Million Crypto Heist Linked to Ledger Signer Hardware Implant",
-            "link": "https://www.securityweek.com/86-million-crypto-heist-linked-to-ledger-signer-hardware-implant/",
-            "summary": "",
-            "published_utc": "2026-10-13T10:36:05+00:00"
         },
         {
             "source": "CSO Online",
@@ -280,20 +364,6 @@
             "link": "https://www.infosecurity-magazine.com/news/fifth-cisos-take-time-off-avoid/",
             "summary": "Socura report claims CISOs are calling in sick or taking holiday to miss Patch Tuesday",
             "published_utc": "2026-10-13T09:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Norway fines Microsoft ad firm $9.6 million over Grindr data sharing",
-            "link": "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/",
-            "summary": "Norway's Data Protection Authority (Datatilsynet) has fined Microsoft-owned advertising company Xandr NOK 92 million ($9.6M) for unlawfully processing...",
-            "published_utc": "2026-10-12T20:13:52+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Yandex confirms service outage as users lose access to cloud files",
-            "link": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
-            "summary": "Russian cloud services provider Yandex announced that drone attacks damaged three of its data centers, forcing it to shut down two facilities and part...",
-            "published_utc": "2026-10-12T19:23:01+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -555,13 +625,6 @@
             "published_utc": "2026-10-08T13:36:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "AWS’s repeated problems with AI agent controls illustrates the autonomous agent dilemma",
-            "link": "https://www.csoonline.com/article/4232054/awss-repeated-problems-with-ai-agent-controls-illustrates-the-autonomous-agent-dilemma.html",
-            "summary": "",
-            "published_utc": "2026-10-08T13:05:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Russia-Aligned UAC-0099 Evolves MATCHBOIL Malware",
             "link": "https://www.infosecurity-magazine.com/news/russia-aligned-uac-0099-evolves/",
@@ -574,13 +637,6 @@
             "link": "https://www.zdnet.com/tech/google-maps-features-restaurants-dining-food-ordering/",
             "summary": "There’s more to Google Maps’ dining tools than reviews and directions – and a few are worth a look before your next night out.",
             "published_utc": "2026-10-08T12:00:07+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "FBI: FortiBleed attackers can lock organizations out of their own firewalls",
-            "link": "https://www.csoonline.com/article/4232481/fbi-fortibleed-attackers-can-lock-organizations-out-of-their-own-firewalls.html",
-            "summary": "",
-            "published_utc": "2026-10-08T11:44:43+00:00"
         },
         {
             "source": "Schneier",
@@ -597,13 +653,6 @@
             "published_utc": "2026-10-08T11:00:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "AWS takes aim at runaway AI agent behavior with Strands Box",
-            "link": "https://www.csoonline.com/article/4232446/aws-takes-aim-at-runaway-ai-agent-behavior-with-strands-box-2.html",
-            "summary": "",
-            "published_utc": "2026-10-08T10:17:15+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Critical Flaw in Multiple Atlassian Products Exploited in the Wild",
             "link": "https://www.infosecurity-magazine.com/news/critical-vulnerability-atlassian/",
@@ -616,13 +665,6 @@
             "link": "https://www.infosecurity-magazine.com/news/europol-us-gao-alarm-quantum/",
             "summary": "Europol and US Government Accountability Office urge faster transition to post-quantum cryptography",
             "published_utc": "2026-10-08T09:30:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "We are fighting phishing at the wrong layer",
-            "link": "https://www.csoonline.com/article/4231923/we-are-fighting-phishing-at-the-wrong-layer.html",
-            "summary": "",
-            "published_utc": "2026-10-08T09:00:00+00:00"
         },
         {
             "source": "WIRED Security",
@@ -651,13 +693,6 @@
             "link": "https://www.zdnet.com/tech/microsoft-surface-laptop-ultra-preorder-starting-price/",
             "summary": "The Surface Laptop Ultra is an AI powerhouse, with Nvidia’s new RTX Spark chip and up to 128GB of unified memory – and it’s priced for power users.",
             "published_utc": "2026-10-08T04:21:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "SonicWall’s latest critical flaw indicates a security pattern, not another one-off bug",
-            "link": "https://www.csoonline.com/article/4232246/sonicwalls-latest-critical-flaw-indicates-a-security-pattern-not-another-one-off-bug.html",
-            "summary": "",
-            "published_utc": "2026-10-08T03:19:05+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -917,13 +952,6 @@
             "link": "https://www.zdnet.com/innovation/chatgpt-scam-malware-trap/",
             "summary": "This authentic-looking scam starts with a sponsored Google link – and it’s catching people off-guard.",
             "published_utc": "2026-10-02T18:18:57+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Google Wallet not working on your Pixel? 4 ways to fix tap-to-pay",
-            "link": "https://www.zdnet.com/tech/tap-to-pay-trouble-pixel-phones-google-wallet-nfc/",
-            "summary": "Some Pixel users are having tap-to-pay problems,  and there’s no fix from  Google  yet. But here a few things that helped others.",
-            "published_utc": "2026-10-02T15:16:21+00:00"
         },
         {
             "source": "Schneier",
@@ -2751,34 +2779,6 @@
             "link": "https://www.infosecurity-magazine.com/news/canadian-hacker-guilty-snowflake/",
             "summary": "A Canadian hacker has admitted involvement in the widespread compromise of 165 Snowflake customer accounts used to steal data and extort victims",
             "published_utc": "2026-08-06T10:15:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "NVIDIA Group Proposes SAFE Initiative for Agentic Threat Intel Sharing",
-            "link": "https://www.infosecurity-magazine.com/news/safe-initiative-agentic-threat/",
-            "summary": "The Open Secure AI Alliance has announced plans for the Shared AI Findings Exchange (SAFE)",
-            "published_utc": "2026-08-06T08:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Fake Open VSX Extensions Harvest Private Repo and CI Data",
-            "link": "https://www.infosecurity-magazine.com/news/open-vsx-evil-twin-extensions-git/",
-            "summary": "77 counterfeit Open VSX extensions beaconed to one domain, 19 harvesting git and CI identity",
-            "published_utc": "2026-08-05T15:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Paperclip AI Flaws Let Unauthenticated Attackers Run Commands",
-            "link": "https://www.infosecurity-magazine.com/news/paperclip-ai-vulnerabilities-rce/",
-            "summary": "3 Paperclip flaws exposed data & allowed unauthenticated command execution in two deployment modes",
-            "published_utc": "2026-08-05T14:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Prompt Injection Remains Biggest LLM Risk, Despite Limited Incidents",
-            "link": "https://www.infosecurity-magazine.com/news/prompt-injection-llm-risk/",
-            "summary": "Prompt injection remains the most dangerous security threat to LLMs, according to OWASP’s latest Top 10 LLM Applications list",
-            "published_utc": "2026-08-05T11:00:00+00:00"
         },
         {
             "source": "WIRED Security",
