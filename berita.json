@@ -1,6 +1,118 @@
 {
-    "lastUpdatedUTC": "2026-10-15T07:04:06.678204+00:00",
+    "lastUpdatedUTC": "2026-10-15T13:08:13.598387+00:00",
     "articles": [
+        {
+            "source": "InfosecurityMag",
+            "title": "New Aoki Infostealer Targets AI Coding Assistant Credentials",
+            "link": "https://www.infosecurity-magazine.com/news/aoki-infostealer-ai-coding/",
+            "summary": "Symantec warned that Aoki can steal API keys and tokens from a number of popular AI coding assistants, including Claude and Gemini",
+            "published_utc": "2026-10-15T13:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Google’s new Universal Cart tracks prices on items you want now – plus 3 other tricks",
+            "link": "https://www.zdnet.com/tech/google-universal-cart-when-to-buy-guide/",
+            "summary": "Google unveiled two new shopping tools ahead of the holiday buying season. Here’s what to know.",
+            "published_utc": "2026-10-15T13:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Supermarket Refrigeration Attack Widens to Copeland, Dixell Controllers",
+            "link": "https://www.securityweek.com/supermarket-refrigeration-attack-widens-to-copeland-dixell-controllers/",
+            "summary": "",
+            "published_utc": "2026-10-15T12:50:42+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Attackers exploit Palo Alto PAN-OS flaw for root access as CISA orders three-day fix",
+            "link": "https://www.csoonline.com/article/4235787/attackers-exploit-palo-alto-pan-os-flaw-for-root-access-as-cisa-orders-three-day-fix.html",
+            "summary": "",
+            "published_utc": "2026-10-15T11:59:40+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Police arrests 95 suspects in international CSAM crackdown action",
+            "link": "https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/",
+            "summary": "Law enforcement authorities from 17 countries in Latin America and Europe have arrested 95 suspects in an INTERPOL-coordinated operation targeting the...",
+            "published_utc": "2026-10-15T11:55:38+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Ransomware extortion gets personal as attackers target employees’ families",
+            "link": "https://www.csoonline.com/article/4235782/ransomware-extortion-gets-personal-as-attackers-target-employees-families.html",
+            "summary": "",
+            "published_utc": "2026-10-15T11:39:45+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Warning Over High-Risk Vulnerabilities in Widely Used LLM Gateway Tool",
+            "link": "https://www.infosecurity-magazine.com/news/high-risk-vulnerabilities-llm-tool/",
+            "summary": "CVE-2026-35029 and CVE-2026-59823 affect LiteLLM, which is commonly used by enterprises to connect their AI applications to providers like OpenAI and ...",
+            "published_utc": "2026-10-15T11:30:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "CikaBika Bot RAT Uses Discord for C&C",
+            "link": "https://www.securityweek.com/cikabika-bot-rat-uses-discord-for-cc/",
+            "summary": "",
+            "published_utc": "2026-10-15T11:25:58+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Novel Android RAT ‘Hirudo’ Replaces Banking Apps With Trojanized Copies",
+            "link": "https://www.securityweek.com/novel-android-banking-rat-hirudo-replaces-banking-apps-with-trojanized-copies/",
+            "summary": "",
+            "published_utc": "2026-10-15T10:15:32+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Microsoft Disrupts Global Yam Store Network Behind One Billion Phishing Messages",
+            "link": "https://www.infosecurity-magazine.com/news/microsoft-yam-store-one-billion/",
+            "summary": "Microsoft and partners reveal a major Chinese-language phishing network centered around the Yam Store marketplace",
+            "published_utc": "2026-10-15T10:00:00+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "‘Nightmare Scenario’: Zero-Click Spyware Is Infecting Phones via Targeted Ads",
+            "link": "https://www.wired.com/story/nightmare-scenario-zero-click-spyware-is-infecting-phones-via-targeted-ads/",
+            "summary": "Researchers at The Citizen Lab have for the first time released technical evidence of sophisticated mercenary spyware being distributed via online adv...",
+            "published_utc": "2026-10-15T10:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "CenterPoint Energy Data Breach Impacts 1 Million Texans",
+            "link": "https://www.securityweek.com/centerpoint-energy-data-breach-impacts-1-million-texans/",
+            "summary": "",
+            "published_utc": "2026-10-15T09:55:19+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft fixes bug causing Windows black screens, Explorer crashes",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/",
+            "summary": "Microsoft has resolved a known issue that was causing black screens, desktop loading issues, and Explorer crashes after installing Windows 11 updates ...",
+            "published_utc": "2026-10-15T09:10:20+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "ICO Reprimands Met Over Third-Party Data Leak",
+            "link": "https://www.infosecurity-magazine.com/news/ico-reprimands-met-over-thirdparty/",
+            "summary": "The ICO has handed the Metropolitan Police a reprimand and enforcement notice after privacy failings linked to the Auror platform",
+            "published_utc": "2026-10-15T08:30:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "CISO Conversations: James Robinson – Many Jobs, One Journey to Netskope CISO",
+            "link": "https://www.securityweek.com/ciso-conversations-james-robinson-many-jobs-one-journey-to-netskope-ciso/",
+            "summary": "",
+            "published_utc": "2026-10-15T08:26:40+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "UK Legal Aid Agency: Hackers stole records dating back to 1978",
+            "link": "https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-hackers-stole-records-dating-back-to-1978/",
+            "summary": "The Legal Aid Agency (LAA), an executive agency of the UK's Ministry of Justice that manages the country's Public Defender Service, says attackers who...",
+            "published_utc": "2026-10-15T08:06:47+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Palo Alto Networks Patches PAN-OS Zero-Day Exploited for Remote Code Execution",
@@ -128,25 +240,11 @@
             "published_utc": "2026-10-14T13:59:59+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Virtual Event Today: Zero Trust Strategies Summit",
-            "link": "https://www.securityweek.com/virtual-event-today-zero-trust-strategies-summit-2/",
-            "summary": "",
-            "published_utc": "2026-10-14T13:56:36+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Global takedown hits network behind 1 billion phishing messages",
             "link": "https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/",
             "summary": "A massive cybercriminal ecosystem facilitating more than a billion malicious messages targeting over 75,000 organizations across 150 countries has bee...",
             "published_utc": "2026-10-14T13:12:52+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Microsoft Disrupts Chinese-Language Phishing Market Behind 1B+ Messages",
-            "link": "https://www.securityweek.com/microsoft-disrupts-chinese-language-phishing-market-behind-1b-messages/",
-            "summary": "",
-            "published_utc": "2026-10-14T13:00:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -175,13 +273,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/",
             "summary": "A new Android malware called Hirudo steals bank account credentials by replacing legitimate banking apps with modified versions that disable security ...",
             "published_utc": "2026-10-14T11:41:20+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "US Arrests Two in Crackdown on North Korean IT Worker Laptop Farms",
-            "link": "https://www.securityweek.com/us-arrests-two-in-crackdown-on-north-korean-it-worker-laptop-farms/",
-            "summary": "",
-            "published_utc": "2026-10-14T10:55:21+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -247,20 +338,6 @@
             "published_utc": "2026-10-14T07:55:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Chrome, Firefox Updates Patch 114 Flaws as Mozilla Unveils Firefox Enterprise",
-            "link": "https://www.securityweek.com/chrome-firefox-updates-patch-114-flaws-as-mozilla-unveils-firefox-enterprise/",
-            "summary": "",
-            "published_utc": "2026-10-14T07:38:51+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Citrix, Fortinet, Ivanti Patch 29 Vulnerabilities Across Their Products",
-            "link": "https://www.securityweek.com/citrix-fortinet-ivanti-patch-29-vulnerabilities-across-their-products/",
-            "summary": "",
-            "published_utc": "2026-10-14T07:26:35+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "OpenAI’s AI misalignment problem is growing",
             "link": "https://www.csoonline.com/article/4234918/openais-ai-misalignment-problem-is-growing.html",
@@ -308,27 +385,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/",
             "summary": "A critical heap buffer overflow vulnerability (CVE-2026-39919) in the Ghostscript interpreter and rendering engine could allow remote code execution t...",
             "published_utc": "2026-10-13T21:33:26+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Anthropic warns self-replicating AI could spread to your smart devices",
-            "link": "https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/",
-            "summary": "Anthropic is warning that small AI models could soon be able to self-replicate across consumer IoT devices, from Android TV boxes to smart ovens, crea...",
-            "published_utc": "2026-10-13T21:16:34+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days/",
-            "summary": "Today is Microsoft's October 2026 Patch Tuesday, with security updates addressing a record-breaking 1,411 flaws, including one actively exploited and ...",
-            "published_utc": "2026-10-13T19:56:09+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft releases Windows 10 KB5126657 extended security update",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5126657-extended-security-update/",
-            "summary": "Microsoft released the Windows 10 KB5126657 extended security update, which includes this month's record-breaking October 2026 Patch Tuesday fixes and...",
-            "published_utc": "2026-10-13T19:47:30+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -583,20 +639,6 @@
             "published_utc": "2026-10-09T15:00:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Citrix issues its weekly critical security patch for NetScaler ADC and NetScaler Gateway",
-            "link": "https://www.csoonline.com/article/4233187/citrix-issues-its-weekly-critical-security-patch-for-netscaler-adc-and-netscaler-gateway-2.html",
-            "summary": "",
-            "published_utc": "2026-10-09T14:28:21+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Exposed Nvidia GPU monitors can reveal AI infrastructure secrets",
-            "link": "https://www.csoonline.com/article/4233081/exposed-nvidia-gpu-monitors-can-reveal-ai-infrastructure-secrets.html",
-            "summary": "",
-            "published_utc": "2026-10-09T12:35:26+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Q3 2026 Sets New Record for Ransomware Attacks",
             "link": "https://www.infosecurity-magazine.com/news/q3-new-record-ransomware/",
@@ -615,13 +657,6 @@
             "title": "AI Training Critical as Governance Challenges Grow",
             "link": "https://www.infosecurity-magazine.com/news/ai-training-critical-as-governance/",
             "summary": "As AI adoption accelerates, ISACA is expanding its certification portfolio with a governance-focused credential designed to help professionals manage ...",
-            "published_utc": "2026-10-09T09:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "When building an AI-native security program, start with outcomes",
-            "link": "https://www.csoonline.com/article/4232574/when-building-an-ai-native-security-program-start-with-outcomes.html",
-            "summary": "",
             "published_utc": "2026-10-09T09:00:00+00:00"
         },
         {
@@ -973,13 +1008,6 @@
             "link": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
             "summary": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
             "published_utc": "2026-10-03T12:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "iPhone 18 Pro Max can’t call or text on AT&#038;T? Apple will replace it for free",
-            "link": "https://www.zdnet.com/tech/iphone-18-pro-max-att-no-service-free-replacement/",
-            "summary": "Some iPhone 18 Pro Max phones on AT&#038;T are stuck in SOS mode. Two updates can prevent it, but affected phones need replacing.",
-            "published_utc": "2026-10-03T01:43:56+00:00"
         },
         {
             "source": "Schneier",
@@ -1848,13 +1876,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ofac-sanctions-chinese-scam/",
             "summary": "The US Treasury has placed sanctions on notorious Chinese cybercrime marketplace Xinbi Guarantee",
             "published_utc": "2026-09-10T08:00:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "San Francisco Orders Meta to Stop ‘Allowing’ AI Child Abuse Ads",
-            "link": "https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/",
-            "summary": "The City Attorney’s Office has asked Meta to explain how the harmful ads repeatedly ran on Facebook and Instagram. The company claims the ads are not ...",
-            "published_utc": "2026-09-09T21:15:27+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2758,34 +2779,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ransomware-surges-july-q2-lull/",
             "summary": "Finance, technology and healthcare sectors were particularly heavily targeted in July, according to Comparitech",
             "published_utc": "2026-08-07T08:20:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Toolkit Hidden Inside Oracle Database Evades Endpoint Tools",
-            "link": "https://www.infosecurity-magazine.com/news/khunt-toolkit-oracle-database-sql/",
-            "summary": "Attackers used SQL injection to compile a post-exploitation toolkit inside an Oracle database",
-            "published_utc": "2026-08-06T15:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "TeamPCP Traced Back to 2020 Cryptojacking Operation",
-            "link": "https://www.infosecurity-magazine.com/news/teampcp-shadowray-ta-natalstatus/",
-            "summary": "Oligo Security has linked TeamPCP to ShadowRay 2.0 and to cryptojacking infrastructure dating back to 2020",
-            "published_utc": "2026-08-06T14:15:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Meta Joins OpenAI and Anthropic in Reporting AI Exploit Incident",
-            "link": "https://www.infosecurity-magazine.com/news/meta-ai-exploit-incident/",
-            "summary": "One of Meta’s AI models exploited a third-party security flaw during an evaluation, the latest in a series of similar incidents involving advanced AI ...",
-            "published_utc": "2026-08-06T13:40:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Violent Physical Crypto Thefts Surge to $30m in Losses",
-            "link": "https://www.infosecurity-magazine.com/news/violent-physical-crypto-thefts/",
-            "summary": "So-called “wrench attacks” have resulted in $30m in losses so far in 2026, says Chainalysis",
-            "published_utc": "2026-08-06T12:00:00+00:00"
         },
         {
             "source": "WIRED Security",
