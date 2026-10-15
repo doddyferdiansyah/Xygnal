@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-10-15T18:03:26.963833+00:00",
+    "lastUpdatedUTC": "2026-10-15T21:58:34.140811+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
+            "summary": "Threat actors are exploiting a critical command execution flaw, now tracked as CVE-2026-110447, in the Collabora Online - Built-in CODE Server app (ri...",
+            "published_utc": "2026-10-15T20:25:04+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Android gets AI defenses against messaging scams, fake calls",
+            "link": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
+            "summary": "Google announced new AI-powered defenses against scam messages and call-forwarding abuse on Android, currently rolling out to eligible devices. [...]",
+            "published_utc": "2026-10-15T19:48:43+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/",
+            "summary": "A proxyjacking campaign has impacted devices in 34 countries, monetizing victims' internet connections through a commercial residential proxy network....",
+            "published_utc": "2026-10-15T18:20:59+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Context Is King in the Fight Against Modern Cyberattacks",
@@ -296,13 +317,6 @@
             "published_utc": "2026-10-14T13:59:59+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Global takedown hits network behind 1 billion phishing messages",
-            "link": "https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/",
-            "summary": "A massive cybercriminal ecosystem facilitating more than a billion malicious messages targeting over 75,000 organizations across 150 countries has bee...",
-            "published_utc": "2026-10-14T13:12:52+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "How Claude Code’s 256KB blind spot put developers’ secrets in the preview pane",
             "link": "https://www.csoonline.com/article/4235139/how-claude-codes-256kb-blind-spot-put-developers-secrets-in-the-preview-pane.html",
@@ -310,25 +324,11 @@
             "published_utc": "2026-10-14T13:00:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "CISA warns admins to immediately fix Ivanti flaw exploited as zero-day",
-            "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/",
-            "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged security teams to immediately patch an Ivanti Connect Secure (ICS) flaw exploit...",
-            "published_utc": "2026-10-14T12:58:07+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Hackers abuse the Ivanti Connect Secure bug to gain access without accounts",
             "link": "https://www.csoonline.com/article/4235129/hackers-abuse-the-ivanti-connect-secure-bug-to-gain-access-without-accounts.html",
             "summary": "",
             "published_utc": "2026-10-14T11:46:45+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Hirudo Android malware replaces banking apps to evade security checks",
-            "link": "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/",
-            "summary": "A new Android malware called Hirudo steals bank account credentials by replacing legitimate banking apps with modified versions that disable security ...",
-            "published_utc": "2026-10-14T11:41:20+00:00"
         },
         {
             "source": "CSO Online",
