@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-10-15T01:15:31.137064+00:00",
+    "lastUpdatedUTC": "2026-10-15T07:04:06.678204+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Palo Alto Networks Patches PAN-OS Zero-Day Exploited for Remote Code Execution",
+            "link": "https://www.securityweek.com/palo-alto-networks-patches-pan-os-zero-day-exploited-for-remote-code-execution/",
+            "summary": "",
+            "published_utc": "2026-10-15T06:59:54+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Cisco Warns of Exploited Secure Email Gateway Vulnerability",
+            "link": "https://www.securityweek.com/cisco-warns-of-exploited-secure-email-gateway-vulnerability/",
+            "summary": "",
+            "published_utc": "2026-10-15T06:34:15+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "As phishing-as-a-service goes industrial, Microsoft takes down a marketplace behind 1 billion messages",
+            "link": "https://www.csoonline.com/article/4235517/as-phishing-as-a-service-goes-industrial-microsoft-takes-down-a-marketplace-behind-1-billion-messages.html",
+            "summary": "",
+            "published_utc": "2026-10-15T01:20:18+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks",
@@ -198,6 +219,13 @@
             "published_utc": "2026-10-14T09:00:00+00:00"
         },
         {
+            "source": "WeLiveSecurity",
+            "title": "Medicare scam calls, texts and ads: What to watch for this Open Enrollment",
+            "link": "https://www.welivesecurity.com/en/scams/medicare-open-enrollment-season-scams/",
+            "summary": "Open Enrollment is peak season for Medicare fraud – here’s how to tell real outreach from fakes and keep your details safe",
+            "published_utc": "2026-10-14T09:00:00+00:00"
+        },
+        {
             "source": "InfosecurityMag",
             "title": "Microsoft Breaks Patch Tuesday Record Again with 1400+ CVEs",
             "link": "https://www.infosecurity-magazine.com/news/microsoft-patch-tuesday-record-1/",
@@ -231,20 +259,6 @@
             "link": "https://www.securityweek.com/citrix-fortinet-ivanti-patch-29-vulnerabilities-across-their-products/",
             "summary": "",
             "published_utc": "2026-10-14T07:26:35+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Microsoft Patches Record 1,413 Vulnerabilities, Including Exploited Windows Zero-Day",
-            "link": "https://www.securityweek.com/microsoft-patches-record-1413-vulnerabilities-including-exploited-windows-zero-day/",
-            "summary": "",
-            "published_utc": "2026-10-14T07:16:12+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "SAP Patches Critical NetWeaver, S/4HANA Vulnerabilities",
-            "link": "https://www.securityweek.com/sap-patches-critical-netweaver-s-4hana-vulnerabilities/",
-            "summary": "",
-            "published_utc": "2026-10-14T06:12:10+00:00"
         },
         {
             "source": "CSO Online",
@@ -623,13 +637,6 @@
             "link": "https://www.wired.com/story/ice-agent-at-nyc-shooting-has-history-of-alleged-violence-and-illegal-arrests/",
             "summary": "Brenden Cuni, an ICE supervisor, has been accused of excessive force and tackling a pregnant woman to the ground. Several of his arrests were later fo...",
             "published_utc": "2026-10-09T04:46:11+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Growing PQC at the edge belies deeper quantum-readiness challenges",
-            "link": "https://www.csoonline.com/article/4232205/growing-pqc-at-the-edge-belies-deeper-quantum-readiness-challenges.html",
-            "summary": "",
-            "published_utc": "2026-10-08T19:05:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -3283,13 +3290,6 @@
             "link": "https://www.welivesecurity.com/en/privacy/information-dark-web-what-happens-next/",
             "summary": "If your data is on the dark web, it’s probably only a matter of time before it’s abused for fraud or account hijacking. Here’s what to do.",
             "published_utc": "2026-01-13T10:00:00+00:00"
-        },
-        {
-            "source": "WeLiveSecurity",
-            "title": "Credential stuffing: What it is and how to protect yourself",
-            "link": "https://www.welivesecurity.com/en/cybersecurity/credential-stuffing-what-it-is-how-protect-yourself/",
-            "summary": "Reusing passwords may feel like a harmless shortcut – until a single breach opens the door to multiple accounts",
-            "published_utc": "2026-01-08T10:00:00+00:00"
         },
         {
             "source": "Threatpost",
