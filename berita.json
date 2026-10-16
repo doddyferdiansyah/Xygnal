@@ -1,6 +1,55 @@
 {
-    "lastUpdatedUTC": "2026-10-16T15:15:55.096051+00:00",
+    "lastUpdatedUTC": "2026-10-16T19:23:25.100979+00:00",
     "articles": [
+        {
+            "source": "WIRED Security",
+            "title": "Chicago-Area Cops Helped HSI Spy on Minnesota Anti-ICE Activists",
+            "link": "https://www.wired.com/story/chicago-area-cops-helped-hsi-spy-on-minnesota-anti-ice-activists/",
+            "summary": "Despite Illinois’ sanctuary laws, local police in and around Chicago helped ICE investigative agents track activists engaged in First Amendment–protec...",
+            "published_utc": "2026-10-16T18:21:54+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Hallucinated domain in official OpenAI skill underscores AI supply chain risks",
+            "link": "https://www.csoonline.com/article/4236659/hallucinated-domain-in-official-openai-skill-underscores-ai-supply-chain-risks.html",
+            "summary": "",
+            "published_utc": "2026-10-16T17:29:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Targeted ads installed Candiru spyware in zero-click attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
+            "summary": "Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only rend...",
+            "published_utc": "2026-10-16T17:20:03+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Munich dumps proprietary for open source (again) – but no Linux desktop",
+            "link": "https://www.zdnet.com/business/munich-proprietary-open-source-no-linux-desktop/",
+            "summary": "Open source in the public sector doesn’t fail because of technical issues. It  fails because it’s not aligned with the political agenda",
+            "published_utc": "2026-10-16T17:11:35+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Anthropic gives third-party auditors ’employee-like access’ in AI industry first",
+            "link": "https://www.zdnet.com/uncategorized/anthropic-embed-third-party-ai-auditors-safety/",
+            "summary": "As AI labs continue to self-regulate, external evaluators play a crucial role in spotting risks.",
+            "published_utc": "2026-10-16T17:10:27+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Want an iPhone Duo before 2027? Don’t preorder from Apple – try this instead",
+            "link": "https://www.zdnet.com/tech/iphone-duo-preorders-delay-supply/",
+            "summary": "Estimates for Duo preorders are now showing a ship date of late January, marking a new wait time record for Apple and its customers.",
+            "published_utc": "2026-10-16T16:44:50+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Xbow spent $40K on AI and cracked Google Chrome wide open",
+            "link": "https://www.csoonline.com/article/4236599/xbow-spent-40k-on-ai-and-cracked-google-chrome-wide-open-2.html",
+            "summary": "",
+            "published_utc": "2026-10-16T15:17:37+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit",
@@ -359,13 +408,6 @@
             "published_utc": "2026-10-15T01:20:18+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/",
-            "summary": "Palo Alto Networks has released security updates for a high-severity PAN-OS RCE zero-day, tracked as CVE-2026-0322, that has been exploited in attacks...",
-            "published_utc": "2026-10-14T22:56:47+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Upcoming Speaking Engagements",
             "link": "https://www.schneier.com/blog/archives/2026/10/upcoming-speaking-engagements-61.html",
@@ -492,13 +534,6 @@
             "published_utc": "2026-10-14T03:21:08+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "October Patch Tuesday roundup: Over 1,400 Microsoft holes to be plugged, including three zero days",
-            "link": "https://www.csoonline.com/article/4234759/october-patch-tuesday-roundup-over-1400-microsoft-holes-to-be-plugged-including-three-zero-days.html",
-            "summary": "",
-            "published_utc": "2026-10-14T02:29:20+00:00"
-        },
-        {
             "source": "KrebsOnSecurity",
             "title": "Microsoft Patches More Than 1,400 Security Flaws",
             "link": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
@@ -574,13 +609,6 @@
             "link": "https://www.zdnet.com/business/dutch-tax-authorities-cancel-microsoft-365-cloud-rollout/",
             "summary": "Another European move toward digital sovereignty has curtailed adopting the US workplace suite.",
             "published_utc": "2026-10-13T11:50:35+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "GitLab patches a max-severity regex flaw alongside five high-severity bugs",
-            "link": "https://www.csoonline.com/article/4234306/gitlab-patches-a-max-severity-regex-flaw-alongside-five-high-severity-bugs.html",
-            "summary": "",
-            "published_utc": "2026-10-13T11:42:47+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -793,13 +821,6 @@
             "published_utc": "2026-10-08T13:00:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Yelp, who? 4 ways Google Maps can help you find your next meal – and order it",
-            "link": "https://www.zdnet.com/tech/google-maps-features-restaurants-dining-food-ordering/",
-            "summary": "There’s more to Google Maps’ dining tools than reviews and directions – and a few are worth a look before your next night out.",
-            "published_utc": "2026-10-08T12:00:07+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "How Technology Empowers—and Imperils—Dictators",
             "link": "https://www.schneier.com/blog/archives/2026/10/how-technology-empowers-and-imperils-dictators.html",
@@ -854,13 +875,6 @@
             "link": "https://www.zdnet.com/tech/microsoft-surface-laptop-ultra-preorder-starting-price/",
             "summary": "The Surface Laptop Ultra is an AI powerhouse, with Nvidia’s new RTX Spark chip and up to 128GB of unified memory – and it’s priced for power users.",
             "published_utc": "2026-10-08T04:21:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Managers are using AI to write performance reviews – and it shows",
-            "link": "https://www.zdnet.com/innovation/manager-ai-use-highwire-survey/",
-            "summary": "Does AI use help or hurt feedback at work? Here’s what one survey found.",
-            "published_utc": "2026-10-07T21:47:48+00:00"
         },
         {
             "source": "WIRED Security",
@@ -1190,13 +1204,6 @@
             "link": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
             "summary": "A nonprofit in California is doing what Hugging Face has not—attempting to hold OpenAI legally accountable for the actions of its agents.",
             "published_utc": "2026-09-29T19:05:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Get Kindle Unlimited free for 3 months with this Prime Day deal: Final hours",
-            "link": "https://www.zdnet.com/uncategorized/kindle-unlimited-amazon-october-prime-day-deal-2026/",
-            "summary": "Amazon’s free Kindle Unlimited deal only comes around a couple times a year – and I highly recommend it.",
-            "published_utc": "2026-09-29T17:32:40+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1883,13 +1890,6 @@
             "link": "https://www.infosecurity-magazine.com/news/fbi-cyber-strategy-disrupting/",
             "summary": "The new document appears to be part of a broader shift by the US government towards the proactive disruption of cyber threat actors",
             "published_utc": "2026-09-10T12:15:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online",
-            "link": "https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity/",
-            "summary": "InquiryIQ, a previously unreported prototype, tested a model from xAI, maker of Grok, to surface associates, social accounts, and other information ab...",
-            "published_utc": "2026-09-10T10:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
