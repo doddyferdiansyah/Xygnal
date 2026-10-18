@@ -1,6 +1,13 @@
 {
-    "lastUpdatedUTC": "2026-10-18T13:01:35.015110+00:00",
+    "lastUpdatedUTC": "2026-10-18T17:06:35.794007+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
+            "summary": "Attackers are targeting an OS command injection vulnerability in SiteGuard Server Edition that lets them execute commands as root or SYSTEM on affecte...",
+            "published_utc": "2026-10-18T14:23:16+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars",
@@ -364,13 +371,6 @@
             "link": "https://www.infosecurity-magazine.com/news/france-expose-danfoss-controllers/",
             "summary": "France-based operators of Danfoss refrigeration controllers have sharply reduced their internet exposure after the October 11 cyber-attack",
             "published_utc": "2026-10-15T13:45:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft: Windows Server 2022 reached end of mainstream support",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/",
-            "summary": "Microsoft announced that Windows Server 2022 has reached the end of mainstream support and will remain in extended support until October 2031. [...]",
-            "published_utc": "2026-10-15T13:18:36+00:00"
         },
         {
             "source": "InfosecurityMag",
