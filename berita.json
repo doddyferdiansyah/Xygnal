@@ -1,6 +1,34 @@
 {
-    "lastUpdatedUTC": "2026-10-19T19:04:34.123982+00:00",
+    "lastUpdatedUTC": "2026-10-19T23:23:10.690164+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Nikkei discloses third data breach in a month, 1.8M records exposed",
+            "link": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/",
+            "summary": "Nikkei Inc. disclosed a new data breach, the third in about a month, that exposed 1.83 million personal information records. [...]",
+            "published_utc": "2026-10-19T21:49:48+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "WordPress SEO plugin Rank Math compromised to backdoor websites",
+            "link": "https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/",
+            "summary": "Some downloads of the Rank Math PRO WordPress plugin from the vendor's official website carried malware that planted hidden backdoors in a supply-chai...",
+            "published_utc": "2026-10-19T21:24:51+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
+            "link": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
+            "summary": "A judge ordered Abdulrahman Alfozan to remain in custody, likening the Saudi government’s offer to secure the former OpenAI engineer’s release to a “b...",
+            "published_utc": "2026-10-19T19:49:17+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers hijack AOMEI update servers to secretly spread malware",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/",
+            "summary": "Hackers reportedly compromised AOMEI's servers to distribute malware through a built-in promotional feature in its backup software, briefly tampering ...",
+            "published_utc": "2026-10-19T19:40:58+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Bullhorn takes staffing platform offline to contain cyberattack",
@@ -317,13 +345,6 @@
             "published_utc": "2026-10-16T15:17:37+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Employees using personal ChatGPT at work? Here's what IT admins need to do",
-            "link": "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/",
-            "summary": "Employees using personal ChatGPT accounts at work can expose sensitive company data, even when their organization provides an approved Enterprise work...",
-            "published_utc": "2026-10-16T13:50:59+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Ransomware Gangs Increasingly Turn to Threats of Physical Violence to Extort Payments",
             "link": "https://www.infosecurity-magazine.com/news/ransomware-threats-physical/",
@@ -336,13 +357,6 @@
             "link": "https://www.csoonline.com/article/4236478/bank-of-america-spent-millions-on-anti-money-laundering-tech-but-not-enough-to-avoid-a-1-2b-fine.html",
             "summary": "",
             "published_utc": "2026-10-16T12:42:15+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Burger King Japan data breach exposes 11 million customer records",
-            "link": "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/",
-            "summary": "Burger King Japan, the Japanese subsidiary of global fast-food giant Burger King, disclosed a major data breach after attackers accessed a server cont...",
-            "published_utc": "2026-10-16T12:01:29+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -392,13 +406,6 @@
             "link": "https://www.welivesecurity.com/en/cybersecurity/inbox-flooded-signup-messages-email-bombing/",
             "summary": "If you’re suddenly being overwhelmed with sign-up emails, it could very well be a sign of something more serious",
             "published_utc": "2026-10-16T09:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft: October Windows update may break Smart App Control",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/",
-            "summary": "Microsoft says some users may have trouble turning on Smart App Control after installing this month's KB5127648 Windows 11 security update. [...]",
-            "published_utc": "2026-10-16T08:44:22+00:00"
         },
         {
             "source": "CSO Online",
@@ -1897,13 +1904,6 @@
             "link": "https://www.infosecurity-magazine.com/news/openai-agent-swarm-hacks-rubygems/",
             "summary": "Researchers confirm that OpenAI agents uploaded hundreds of malicious packages to RubyGems",
             "published_utc": "2026-09-14T08:50:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
-            "link": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
-            "summary": "Plus: The US disrupts the internet’s biggest black market, a Conti ransomware hacker gets prison time, Meta fails to stop AI-generated videos of child...",
-            "published_utc": "2026-09-12T10:30:00+00:00"
         },
         {
             "source": "InfosecurityMag",
