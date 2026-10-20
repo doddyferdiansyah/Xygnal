@@ -1,12 +1,33 @@
 {
-    "lastUpdatedUTC": "2026-10-20T14:44:59.482457+00:00",
+    "lastUpdatedUTC": "2026-10-20T18:58:48.510425+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code",
+            "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/",
+            "summary": "OpenAI confirmed that its newer models are much better at writing and migrating software in older programming languages. [...]",
+            "published_utc": "2026-10-20T18:11:03+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "US Agencies Detail Incident Response Practices for Rogue AI Agents",
+            "link": "https://www.securityweek.com/us-agencies-detail-incident-response-practices-for-rogue-ai-agents/",
+            "summary": "",
+            "published_utc": "2026-10-20T15:45:00+00:00"
+        },
         {
             "source": "InfosecurityMag",
             "title": "Head of AI Security Roles Surge in Large Organizations",
             "link": "https://www.infosecurity-magazine.com/news/head-ai-security-roles/",
             "summary": "A new IANS report has found that despite the growth of the head of AI security role, accountability for AI governance in firms remains unsettled",
             "published_utc": "2026-10-20T14:40:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Latest Windows update disables key security setting – but there’s a workaround",
+            "link": "https://www.zdnet.com/tech/microsoft-october-windows-update-disables-security-setting-workaround/",
+            "summary": "A bug in Microsoft’s October Windows update prevents you from turning on a security setting that blocks malicious or suspicious apps. A Registry hack ...",
+            "published_utc": "2026-10-20T14:26:05+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -233,13 +254,6 @@
             "published_utc": "2026-10-19T16:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Drupal Warns of Fast Exploitation Risk for Critical Core RCE Flaw",
-            "link": "https://www.securityweek.com/drupal-warns-of-fast-exploitation-risk-for-critical-core-rce-flaw/",
-            "summary": "",
-            "published_utc": "2026-10-19T15:47:50+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Exploited Vulnerabilities Typically Take Three Months to Patch, Moody’s Finds",
             "link": "https://www.infosecurity-magazine.com/news/exploited-vulnerabilities-three/",
@@ -266,13 +280,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/",
             "summary": "Cybercriminals are selling forged identity documents, deepfake videos, and live verification services to help buyers bypass Know Your Client (KYC) che...",
             "published_utc": "2026-10-19T14:00:10+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "F5 releases out-of-band patches for critical NGINX vulnerabilities",
-            "link": "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/",
-            "summary": "F5 has released out-of-band security patches to address multiple NGINX web server flaws, including three critical-severity vulnerabilities that can le...",
-            "published_utc": "2026-10-19T13:49:24+00:00"
         },
         {
             "source": "KrebsOnSecurity",
@@ -875,13 +882,6 @@
             "link": "https://www.zdnet.com/tech/amazon-new-alexa-tablets-google-play-store/",
             "summary": "Amazon just upped its game with new Android tablets for entertainment and work.",
             "published_utc": "2026-10-09T19:10:12+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "‘I use AI to do the things that I’m bad at’: Linus Torvalds on why it works for him",
-            "link": "https://www.zdnet.com/tech/linus-torvalds-ai-coding-programming/",
-            "summary": "The Linux creator calls vibe coding ‘a wonderful way to find joy in programming,’ but not for running Linux development. (Finding bugs is OK.)",
-            "published_utc": "2026-10-09T17:53:18+00:00"
         },
         {
             "source": "InfosecurityMag",
