@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-10-20T22:13:17.433720+00:00",
+    "lastUpdatedUTC": "2026-10-21T01:20:56.027664+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "UK FCA exec wants to require disclosure of ‘significant AI failures and near-misses’",
+            "link": "https://www.csoonline.com/article/4238124/uk-fca-exec-wants-to-require-disclosure-of-significant-ai-failures-and-near-misses-2.html",
+            "summary": "",
+            "published_utc": "2026-10-21T01:09:32+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
+            "link": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
+            "summary": "A threat actor breached TeamUpdraft's website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral c...",
+            "published_utc": "2026-10-21T01:01:50+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Mozilla, Google, Apple block compromised eMudhra CA certificates",
+            "link": "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/",
+            "summary": "Certificate authority eMudhra revoked eight compromised intermediate certificates after researchers found their private keys were so weak that anyone ...",
+            "published_utc": "2026-10-21T00:46:42+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "KVM escape exposes broader attack surface in Linux networking",
@@ -247,25 +268,11 @@
             "published_utc": "2026-10-19T19:40:58+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Bullhorn takes staffing platform offline to contain cyberattack",
-            "link": "https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/",
-            "summary": "Staffing software company Bullhorn has disabled access to its platform to contain a cyberattack that caused a system-wide outage. [...]",
-            "published_utc": "2026-10-19T18:51:13+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "Siemens Software Center Vulnerability Exploited in ClickFix Malware Attacks",
             "link": "https://www.securityweek.com/siemens-software-center-vulnerability-exploited-in-clickfix-malware-attacks/",
             "summary": "",
             "published_utc": "2026-10-19T18:15:39+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "OpenCode hack exposes API keys amid AI distillation attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/",
-            "summary": "The open-source AI coding project OpenCode has notified a small number of users that API keys they used with external providers were exposed in a secu...",
-            "published_utc": "2026-10-19T17:27:15+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -581,13 +588,6 @@
             "link": "https://www.csoonline.com/article/4235787/attackers-exploit-palo-alto-pan-os-flaw-for-root-access-as-cisa-orders-three-day-fix.html",
             "summary": "",
             "published_utc": "2026-10-15T11:59:40+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Ransomware extortion gets personal as attackers target employees’ families",
-            "link": "https://www.csoonline.com/article/4235782/ransomware-extortion-gets-personal-as-attackers-target-employees-families.html",
-            "summary": "",
-            "published_utc": "2026-10-15T11:39:45+00:00"
         },
         {
             "source": "InfosecurityMag",
