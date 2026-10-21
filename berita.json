@@ -1,6 +1,111 @@
 {
-    "lastUpdatedUTC": "2026-10-21T13:31:14.349429+00:00",
+    "lastUpdatedUTC": "2026-10-21T18:26:36.695927+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "OpenAI’s most powerful AI models turned off safety monitoring – then lied about it",
+            "link": "https://www.zdnet.com/innovation/openai-astra-sol-models-disable-safety-monitoring/",
+            "summary": "The models Astra and Sol misinterpreted instructions during internal use, which has serious implications for alignment monitoring.",
+            "published_utc": "2026-10-21T18:15:19+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Google Hardens Chrome Against ClickFix Attacks, Insecure HTTP Connections",
+            "link": "https://www.securityweek.com/google-hardens-chrome-against-clickfix-attacks-insecure-http-connections/",
+            "summary": "",
+            "published_utc": "2026-10-21T17:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "PHP2Shell Patches Land as First Exploitation Attempts Hit Sensors",
+            "link": "https://www.securityweek.com/php2shell-patches-land-as-first-exploitation-attempts-hit-sensors/",
+            "summary": "",
+            "published_utc": "2026-10-21T16:50:40+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Chrome warns you about suspicious websites now – how to turn on Google’s new scam protection",
+            "link": "https://www.zdnet.com/business/chrome-browser-warns-suspicious-websites-scam-protection/",
+            "summary": "Google’s browser will flash two  types of warnings based on whether the site is deemed dangerous or just suspicious.",
+            "published_utc": "2026-10-21T16:43:12+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "OpenAI agents disabled safety monitoring, one lied about it",
+            "link": "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/",
+            "summary": "OpenAI agents powered by the GPT-6.1 Sol and GPT-6 Astra models weakened misalignment monitoring during two internal tasks, interpreting coding instru...",
+            "published_utc": "2026-10-21T16:26:53+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
+            "link": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
+            "summary": "Expect to see quite a few websites serving \"404\" or \"Page Not Found\" errors today: Nearly 70 percent of websites need to update their core software to...",
+            "published_utc": "2026-10-21T15:26:07+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "‘Context Bombs’ Cut AI Attack Success by Misleading Agents With Fake Targets",
+            "link": "https://www.securityweek.com/context-bombs-cut-ai-attack-success-by-misleading-agents-with-fake-targets/",
+            "summary": "",
+            "published_utc": "2026-10-21T15:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "New PhaaS Platform Uses AI to Craft Phishing Lures and Mask Malicious Activity",
+            "link": "https://www.infosecurity-magazine.com/news/new-phaas-uses-ai-phishing-lures/",
+            "summary": "Researchers have uncovered Athena StealthRoute, a phishing-as-a-service platform featuring an AI Studio that generates phishing lures and decoy conten...",
+            "published_utc": "2026-10-21T15:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "High-Severity Flaws Exploited in Three Days as Ransomware Dominates Q3: Rapid7",
+            "link": "https://www.securityweek.com/high-severity-flaws-exploited-in-three-days-as-ransomware-dominates-q3-rapid7/",
+            "summary": "",
+            "published_utc": "2026-10-21T14:45:00+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "‘This Is Not a Drill’: Critical PHP Vulnerabilities Are Setting the Internet on Fire",
+            "link": "https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/",
+            "summary": "The PHP Foundation has revealed two serious vulnerabilities that could impact millions of websites. Security experts warn that failure to quickly patc...",
+            "published_utc": "2026-10-21T14:26:19+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "PHP ships emergency patches for critical PHP2Shell flaws",
+            "link": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
+            "summary": "The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-1...",
+            "published_utc": "2026-10-21T14:07:05+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Amazon unveiled 5 new Blink cameras, including a 4K model that caught my eye",
+            "link": "https://www.zdnet.com/home-and-office/new-amazon-blink-cameras-worth-the-upgrade/",
+            "summary": "Five new Blink cameras are coming to the market, and the extended-range model has all my attention.",
+            "published_utc": "2026-10-21T14:01:31+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "ClickFix has never been bigger, and AI tools are its most convincing lure yet",
+            "link": "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/",
+            "summary": "ClickFix attacks are surging as cybercriminals use fake AI installers, malicious search results, and trusted chatbot platforms to trick users into exe...",
+            "published_utc": "2026-10-21T14:00:10+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Symantec Uncovers AI Agent Hijacking Models for Autonomous Cyber-Attacks",
+            "link": "https://www.infosecurity-magazine.com/news/symantec-ai-agent-llmjacking/",
+            "summary": "Researchers at Symantec have uncovered an AI agent designed to operate a full cyber-attack without human intervention",
+            "published_utc": "2026-10-21T14:00:00+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "AI Guardrails Aren’t Stopping Criminal Hackers",
+            "link": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
+            "summary": "Hackers around the world are all-in on using agentic AI to wage attacks—and manipulating tools like Anthropic’s Claude to help them carry out their cr...",
+            "published_utc": "2026-10-21T14:00:00+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Asymptote Labs Lands $5.5 Million Seed for AI Agent Runtime Security",
@@ -52,7 +157,7 @@
         },
         {
             "source": "ZDNet Security",
-            "title": "Exclusive: ServiceNow and Nvidia launch Arc, a new AI agent for enterprise",
+            "title": "ServiceNow and Nvidia launch Arc, a new AI agent for enterprise",
             "link": "https://www.zdnet.com/innovation/exclusive-servicenow-and-nvidia-launch-arc-a-new-ai-agent-for-enterprise/",
             "summary": "The two companies are trying to solve the AI agent security conundrum with multiple layers of real-time security checks.",
             "published_utc": "2026-10-21T11:30:00+00:00"
@@ -149,27 +254,6 @@
             "published_utc": "2026-10-21T08:25:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "PHP2Shell: Mass Exploitation Looms for Leaked Critical PHP Flaws",
-            "link": "https://www.securityweek.com/php2shell-mass-exploitation-looms-for-leaked-critical-php-flaws/",
-            "summary": "",
-            "published_utc": "2026-10-21T07:02:06+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Hijacked Developer Account Used to Plant Stealer in OVHcloud CLI",
-            "link": "https://www.securityweek.com/hijacked-developer-account-used-to-plant-stealer-in-ovhcloud-cli/",
-            "summary": "",
-            "published_utc": "2026-10-21T06:02:27+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Accenture, Dragos, SANS Launch $10M Initiative to Defend Small US Utilities",
-            "link": "https://www.securityweek.com/accenture-dragos-sans-launch-10m-initiative-to-defend-small-us-utilities/",
-            "summary": "",
-            "published_utc": "2026-10-21T04:22:11+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "US bans DeepSeek across federal agencies, putting AI supply chains under scrutiny",
             "link": "https://www.csoonline.com/article/4238149/us-bans-deepseek-across-federal-agencies-putting-ai-supply-chains-under-scrutiny-2.html",
@@ -233,13 +317,6 @@
             "published_utc": "2026-10-20T18:11:03+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "US Agencies Detail Incident Response Practices for Rogue AI Agents",
-            "link": "https://www.securityweek.com/us-agencies-detail-incident-response-practices-for-rogue-ai-agents/",
-            "summary": "",
-            "published_utc": "2026-10-20T15:45:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Head of AI Security Roles Surge in Large Organizations",
             "link": "https://www.infosecurity-magazine.com/news/head-ai-security-roles/",
@@ -296,20 +373,6 @@
             "published_utc": "2026-10-20T12:05:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "OVHcloud CLI releases backdoored on GitHub to steal developer secrets",
-            "link": "https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/",
-            "summary": "French cloud and hosting provider OVHcloud is warning users that attackers compromised its open-source command-line interface (CLI) tool to distribute...",
-            "published_utc": "2026-10-20T11:31:22+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Ahold Delhaize: Cyberattack affects services across US and Europe",
-            "link": "https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/",
-            "summary": "Ahold Delhaize, one of the world's largest food retail chains, confirmed that last week's cyberattack disrupted services at stores across Europe and t...",
-            "published_utc": "2026-10-20T11:18:35+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Possible new Cellebrite iPhone Radio Zero-Day",
             "link": "https://www.schneier.com/blog/archives/2026/10/possible-new-cellebrite-iphone-radio-zero-day.html",
@@ -329,13 +392,6 @@
             "link": "https://www.infosecurity-magazine.com/news/siemens-clickfix-exploiting-side/",
             "summary": "Siemens identified the activity to be from the Romulus multi-platform ClickFix campaign, with Siemens Software Center users urged to apply an update",
             "published_utc": "2026-10-20T10:45:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Revolut outage disrupts online banking operations worldwide",
-            "link": "https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/",
-            "summary": "Fintech company Revolut is working to resolve a massive outage that disrupted most of its services worldwide earlier today. [...]",
-            "published_utc": "2026-10-20T09:46:44+00:00"
         },
         {
             "source": "CSO Online",
@@ -793,20 +849,6 @@
             "published_utc": "2026-10-13T15:37:27+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "4 upgrades HomePod Mini 2 has over its 6-year-old predecessor",
-            "link": "https://www.zdnet.com/home-and-office/upgrades-homepod-mini-2026-has-over-predecessor/",
-            "summary": "HomePod mini 2 is here, and there are four major upgrades that separate it from the first generation.",
-            "published_utc": "2026-10-13T15:28:12+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Apple’s $299 HomeView smart hub is here: 8 highlights, including the wall model",
-            "link": "https://www.zdnet.com/home-and-office/apple-homeview-smart-home-hub-features-price/",
-            "summary": "As an Apple Home user, here’s what stands out about Apple’s new smart home hub – and what I want to test firsthand.",
-            "published_utc": "2026-10-13T14:31:03+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "European Retail Firms Confirm Cyber Incidents",
             "link": "https://www.infosecurity-magazine.com/news/retail-firms-confirm-cyber/",
@@ -826,13 +868,6 @@
             "link": "https://www.zdnet.com/education/employ-report-ai-hr-hiring/",
             "summary": "Exclusive: A new Employ report shows how AI is both helping and hurting the hiring industry.",
             "published_utc": "2026-10-13T13:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Dutch tax authorities cancel Microsoft 365 cloud rollout – and turn toward open source",
-            "link": "https://www.zdnet.com/business/dutch-tax-authorities-cancel-microsoft-365-cloud-rollout/",
-            "summary": "Another European move toward digital sovereignty has curtailed adopting the US workplace suite.",
-            "published_utc": "2026-10-13T11:50:35+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1808,13 +1843,6 @@
             "published_utc": "2026-09-17T11:15:00+00:00"
         },
         {
-            "source": "WIRED Security",
-            "title": "Flock Once Touted Its Cameras as ‘Made in the USA.’ Now It’s Not So Clear",
-            "link": "https://www.wired.com/story/flock-once-touted-its-cameras-as-made-in-the-usa-now-its-not-so-clear/",
-            "summary": "Flock reveals little about where its license plate readers are assembled, but the answer could have geopolitical and cybersecurity implications.",
-            "published_utc": "2026-09-17T09:00:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "Beware the SparroWock: The backdoor that bites, the commands that catch",
             "link": "https://www.welivesecurity.com/en/eset-research/beware-sparrowock-backdoor-bites-commands-catch/",
@@ -1855,13 +1883,6 @@
             "link": "https://www.infosecurity-magazine.com/news/cyberattacks-cost-organizations/",
             "summary": "Hiscox highlighted the huge financial and operational costs of cyber-attacks, with the average cost of an incident at $52,000",
             "published_utc": "2026-09-16T11:00:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Really Works",
-            "link": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
-            "summary": "A hacker collective pulled down a Flock camera and dumped its data. The files included thousands of videos and logs showing that the device captured 1...",
-            "published_utc": "2026-09-16T10:30:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2261,13 +2282,6 @@
             "link": "https://www.infosecurity-magazine.com/news/fulcrumsec-manchester-airport/",
             "summary": "Threat group FulcrumSec claims MAG breach and leaks 550GB of data online",
             "published_utc": "2026-09-02T08:15:00+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
-            "link": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
-            "summary": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the ...",
-            "published_utc": "2026-09-01T22:40:28+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2779,20 +2793,6 @@
             "link": "https://www.welivesecurity.com/en/business-security/black-hat-usa-2026-ai-racing-cybersecurity-controls/",
             "summary": "AI took center stage, but the clearest lesson was less about what AI can do than about who is accountable when something goes wrong",
             "published_utc": "2026-08-12T13:28:07+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Gunra Ransomware Exploits Fortinet Flaws to Target Critical Infrastructure",
-            "link": "https://www.infosecurity-magazine.com/news/gunra-ransomware-fortinet-flaws/",
-            "summary": "Gunra actors are using stealth to exfiltrate vast volumes of data from Microsoft services, US and Korean agencies have warned",
-            "published_utc": "2026-08-12T13:15:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "NIST Seeks Public Input on AI-Ready NVD Modernization",
-            "link": "https://www.infosecurity-magazine.com/news/nist-seeks-public-input-ai-nvd/",
-            "summary": "The US National Institute for Standards and Technology wants to modernize its National Vulnerability Database to embrace AI-powered vulnerability rese...",
-            "published_utc": "2026-08-12T12:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
