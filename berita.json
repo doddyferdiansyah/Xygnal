@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2026-10-21T18:26:36.695927+00:00",
+    "lastUpdatedUTC": "2026-10-21T22:09:33.629426+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
+            "link": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
+            "summary": "Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 cus...",
+            "published_utc": "2026-10-21T21:43:27+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Two critical PHP flaws put the web on alert as emergency patches arrive",
+            "link": "https://www.csoonline.com/article/4238692/two-critical-php-flaws-put-the-web-on-alert-as-emergency-patches-arrive.html",
+            "summary": "",
+            "published_utc": "2026-10-21T21:27:26+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Microsoft: Treat AI agents as insider threats",
+            "link": "https://www.csoonline.com/article/4238693/microsoft-treat-ai-agents-as-insider-threats.html",
+            "summary": "",
+            "published_utc": "2026-10-21T20:54:06+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
+            "link": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
+            "summary": "North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new ...",
+            "published_utc": "2026-10-21T20:31:48+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Hold onto your old HomePod – an upgrade is on the way",
+            "link": "https://www.zdnet.com/home-and-office/keep-old-apple-homepod-upgrades/",
+            "summary": "An upcoming update will bring new features to existing HomePods. Here’s what to know.",
+            "published_utc": "2026-10-21T18:37:07+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
+            "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media ...",
+            "published_utc": "2026-10-21T18:34:42+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "OpenAI’s most powerful AI models turned off safety monitoring – then lied about it",
@@ -345,27 +387,6 @@
             "published_utc": "2026-10-20T13:55:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "CJIS v6.1 Compliance: 5 Practical Priorities for Agencies",
-            "link": "https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/",
-            "summary": "CJIS v6.1 requires agencies to maintain strong authentication, account security, and audit controls while demonstrating ongoing compliance. Specops ou...",
-            "published_utc": "2026-10-20T13:51:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Hacker gets 8 years for stealing $3.3 million from taxpayers",
-            "link": "https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/",
-            "summary": "A Nigerian national was sentenced to eight years in prison for his involvement in a series of spearphishing attacks targeting US tax preparation busin...",
-            "published_utc": "2026-10-20T13:18:36+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Windows Server 2025 gets support for quick machine recovery",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/",
-            "summary": "Microsoft announced that IT administrators can now use quick machine recovery on Windows Server 2025 after installing the October 2026 security update...",
-            "published_utc": "2026-10-20T12:16:32+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "AI Agent Adoption Creates Risk as Oversight Struggles to Keep Pace, Splunk Finds",
             "link": "https://www.infosecurity-magazine.com/news/ai-agent-adoption-oversight/",
@@ -625,13 +646,6 @@
             "published_utc": "2026-10-16T11:04:53+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "BeyondTrust zero-day tied to Chinese spies puts Remote Support users on alert",
-            "link": "https://www.csoonline.com/article/4236421/beyondtrust-zero-day-tied-to-chinese-spies-puts-remote-support-users-on-alert.html",
-            "summary": "",
-            "published_utc": "2026-10-16T10:24:19+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "China Espionage Actor Actively Targeting Critical BeyondTrust Flaw, Google Warns",
             "link": "https://www.infosecurity-magazine.com/news/china-actor-beyondtrust-flaw-google/",
@@ -651,13 +665,6 @@
             "link": "https://www.welivesecurity.com/en/cybersecurity/inbox-flooded-signup-messages-email-bombing/",
             "summary": "If you’re suddenly being overwhelmed with sign-up emails, it could very well be a sign of something more serious",
             "published_utc": "2026-10-16T09:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Cyberattack AIs must be trained only on air-gapped systems, hundreds of AI researchers say",
-            "link": "https://www.csoonline.com/article/4236276/cyberattack-ais-must-be-trained-only-on-air-gapped-systems-hundreds-of-ai-researchers-say.html",
-            "summary": "",
-            "published_utc": "2026-10-16T08:41:16+00:00"
         },
         {
             "source": "Schneier",
@@ -840,13 +847,6 @@
             "link": "https://www.zdnet.com/tech/custom-android-apps-google-ai-studio/",
             "summary": "It just got a whole lot easier to vibe code the exact Android app you need – no developer experience required.",
             "published_utc": "2026-10-13T17:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Apple’s smart home event: All 7 devices, prices, and release dates",
-            "link": "https://www.zdnet.com/uncategorized/apple-smart-home-event-homeview-homepod-mini-new-apple-tv/",
-            "summary": "Apple’s ‘Welcome Home’ event featured all the new smart home hardware coming to the Apple lineup.",
-            "published_utc": "2026-10-13T15:37:27+00:00"
         },
         {
             "source": "InfosecurityMag",
