@@ -1,6 +1,153 @@
 {
-    "lastUpdatedUTC": "2026-10-21T07:10:54.067974+00:00",
+    "lastUpdatedUTC": "2026-10-21T13:31:14.349429+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Asymptote Labs Lands $5.5 Million Seed for AI Agent Runtime Security",
+            "link": "https://www.securityweek.com/asymptote-labs-lands-5-5-million-seed-for-ai-agent-runtime-security/",
+            "summary": "",
+            "published_utc": "2026-10-21T13:17:35+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Memory Bugs Account for Most of Chrome’s 353 New Security Fixes",
+            "link": "https://www.securityweek.com/memory-bugs-account-for-most-of-chromes-353-new-security-fixes/",
+            "summary": "",
+            "published_utc": "2026-10-21T12:57:47+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "A Design Flaw in Share Links Exposes Users’ Personal Conversations With Meta’s Muse",
+            "link": "https://www.wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse/",
+            "summary": "The company is suspending the feature after security researchers discovered how easy it was to access sensitive information shared with the AI assistant.",
+            "published_utc": "2026-10-21T12:35:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "OpenAI Agents Silenced Security Team Alerts, Removed Misalignment Monitor",
+            "link": "https://www.securityweek.com/openai-agents-silenced-security-team-alerts-removed-misalignment-monitor/",
+            "summary": "",
+            "published_utc": "2026-10-21T12:34:22+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft PowerToys adds CursorHide, Button Lock mouse tools",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/",
+            "summary": "Microsoft has released PowerToys 0.102, with two new mouse utilities, new command-line tools, and Command Palette improvements. [...]",
+            "published_utc": "2026-10-21T12:20:34+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "WordPress sites compromised after TeamUpdraft credential exposure",
+            "link": "https://www.csoonline.com/article/4238422/wordpress-sites-compromised-after-teamupdraft-credential-exposure.html",
+            "summary": "",
+            "published_utc": "2026-10-21T12:15:58+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Ransomware Attacks Rise as Rival Gangs Vie For Market Supremacy",
+            "link": "https://www.infosecurity-magazine.com/news/rival-gangs-vie-for-market/",
+            "summary": "Cybercriminal groups The Gentlemen and Qilin dominate ransomware attacks - and both are evolving their tactics in an attempt to outdo one another",
+            "published_utc": "2026-10-21T12:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Exclusive: ServiceNow and Nvidia launch Arc, a new AI agent for enterprise",
+            "link": "https://www.zdnet.com/innovation/exclusive-servicenow-and-nvidia-launch-arc-a-new-ai-agent-for-enterprise/",
+            "summary": "The two companies are trying to solve the AI agent security conundrum with multiple layers of real-time security checks.",
+            "published_utc": "2026-10-21T11:30:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Browsers Block eMudhra Intermediate CAs Over Recoverable Private Keys",
+            "link": "https://www.securityweek.com/browsers-block-emudhra-intermediate-cas-over-recoverable-private-keys/",
+            "summary": "",
+            "published_utc": "2026-10-21T11:22:05+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Workshop on Economics and Information Security (WEIS) Archive",
+            "link": "https://www.schneier.com/blog/archives/2026/10/workshop-on-economics-and-information-security-weis-archive.html",
+            "summary": "",
+            "published_utc": "2026-10-21T11:02:22+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "SafePay Has Compromised 600 Critical Infrastructure Victims Worldwide, CISA Warns",
+            "link": "https://www.infosecurity-magazine.com/news/safepay-compromised-critical/",
+            "summary": "A new CISA advisory warns of the threat posed by SafePay to businesses and critical infrastructure, and urges defenders to take action to mitigate the...",
+            "published_utc": "2026-10-21T11:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "China Defends DeepSeek After US Ban of Its AI From Government Systems",
+            "link": "https://www.securityweek.com/china-defends-deepseek-after-us-ban-of-its-ai-from-government-systems/",
+            "summary": "",
+            "published_utc": "2026-10-21T10:54:49+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Google, Mozilla revoke eMudhra intermediates after private key compromise",
+            "link": "https://www.csoonline.com/article/4238338/google-mozilla-revoke-emudhra-intermediates-after-private-key-compromise.html",
+            "summary": "",
+            "published_utc": "2026-10-21T10:21:14+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Critical PHP Vulnerabilities Leaked Ahead of Scheduled Security Patches",
+            "link": "https://www.infosecurity-magazine.com/news/critical-php-vulnerabilities-leaked/",
+            "summary": "Two critical vulnerabilities in PHP were leaked one day before their scheduled disclosure and security patches",
+            "published_utc": "2026-10-21T10:20:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft says October updates didn’t actually fix VPN issues",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/",
+            "summary": "Microsoft says it mistakenly flagged a bug causing Always On VPN connection issues as fixed in the October 2026 Windows 11 cumulative updates. [...]",
+            "published_utc": "2026-10-21T10:14:53+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Chinese AI Model Writes More Hackable Code When Told It’s for US Contractor",
+            "link": "https://www.securityweek.com/chinese-ai-model-writes-more-hackable-code-when-told-its-for-us-contractor/",
+            "summary": "",
+            "published_utc": "2026-10-21T10:03:24+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "She Was the DEA’s Premier Crypto Detective. The Clues Led Straight to Her Own Family",
+            "link": "https://www.wired.com/story/the-deas-premier-crypto-detective-clues-led-straight-to-her-own-family/",
+            "summary": "To escape the chaos of her Russian childhood, Lili Infante became an American law enforcement prodigy. She pioneered the DEA’s investigations of the d...",
+            "published_utc": "2026-10-21T10:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Children’s Data Stolen After Ransomware Attack Compromises ‘Password1’ Account",
+            "link": "https://www.infosecurity-magazine.com/news/children-data-stolen-password1/",
+            "summary": "The ICO has slammed security failings by the Welsh local government data unit and IT service provider following the 2024 incident",
+            "published_utc": "2026-10-21T09:05:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Moving past autonomous exploitation to machine-speed security",
+            "link": "https://www.csoonline.com/article/4237926/moving-past-autonomous-exploitation-to-machine-speed-security.html",
+            "summary": "",
+            "published_utc": "2026-10-21T09:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
+            "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure organizatio...",
+            "published_utc": "2026-10-21T08:36:24+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "14 ways attackers abuse cloud services to hack your enterprise",
+            "link": "https://www.csoonline.com/article/4142001/12-ways-attackers-abuse-cloud-services-to-hack-your-enterprise.html",
+            "summary": "",
+            "published_utc": "2026-10-21T08:25:00+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "PHP2Shell: Mass Exploitation Looms for Leaked Critical PHP Flaws",
@@ -121,13 +268,6 @@
             "published_utc": "2026-10-20T13:55:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "AOMEI Backupper Compromised in Short-Burst Supply Chain Campaign",
-            "link": "https://www.securityweek.com/aomei-backupper-compromised-in-short-burst-supply-chain-campaign/",
-            "summary": "",
-            "published_utc": "2026-10-20T13:51:01+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "CJIS v6.1 Compliance: 5 Practical Priorities for Agencies",
             "link": "https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/",
@@ -135,39 +275,11 @@
             "published_utc": "2026-10-20T13:51:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "The Key to AI Software Security Isn’t Speed, It’s Maturity",
-            "link": "https://www.securityweek.com/the-key-to-ai-software-security-isnt-speed-its-maturity/",
-            "summary": "",
-            "published_utc": "2026-10-20T13:34:23+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Hacker gets 8 years for stealing $3.3 million from taxpayers",
             "link": "https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/",
             "summary": "A Nigerian national was sentenced to eight years in prison for his involvement in a series of spearphishing attacks targeting US tax preparation busin...",
             "published_utc": "2026-10-20T13:18:36+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Ahold Delhaize Restoring Services Disrupted by Cyberattack",
-            "link": "https://www.securityweek.com/ahold-delhaize-restoring-services-disrupted-by-cyberattack/",
-            "summary": "",
-            "published_utc": "2026-10-20T13:02:18+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "AI Platform Cairn Abused to Hack Over 100 Organizations",
-            "link": "https://www.securityweek.com/ai-platform-cairn-abused-to-hack-over-100-organizations/",
-            "summary": "",
-            "published_utc": "2026-10-20T12:47:22+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Ex-OpenAI Worker Accused of Bugging Conference Room Planned to Fly to Saudi Arabia, Prosecutors Say",
-            "link": "https://www.securityweek.com/ex-openai-worker-accused-of-bugging-conference-room-planned-to-fly-to-saudi-arabia-prosecutors-say/",
-            "summary": "",
-            "published_utc": "2026-10-20T12:33:12+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -189,13 +301,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/",
             "summary": "French cloud and hosting provider OVHcloud is warning users that attackers compromised its open-source command-line interface (CLI) tool to distribute...",
             "published_utc": "2026-10-20T11:31:22+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Microsoft Targets Rogue AI Agents With Dynamic Permissions, Risk Scoring",
-            "link": "https://www.securityweek.com/microsoft-targets-rogue-ai-agents-with-dynamic-permissions-risk-scoring/",
-            "summary": "",
-            "published_utc": "2026-10-20T11:30:18+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -240,6 +345,13 @@
             "published_utc": "2026-10-20T09:00:00+00:00"
         },
         {
+            "source": "WeLiveSecurity",
+            "title": "Is the ad a scam? How to tell before you click",
+            "link": "https://www.welivesecurity.com/en/social-media/is-ad-scam-how-tell-before-click/",
+            "summary": "You can trust a social media platform and still get scammed by an ad running on it",
+            "published_utc": "2026-10-20T09:00:00+00:00"
+        },
+        {
             "source": "CSO Online",
             "title": "OT systems complicate quantum-resistant data protection",
             "link": "https://www.csoonline.com/article/4236142/ot-systems-complicate-shift-to-quantum-resistant-data-protection.html",
@@ -254,32 +366,11 @@
             "published_utc": "2026-10-20T03:25:43+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Nikkei discloses third data breach in a month, 1.8M records exposed",
-            "link": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/",
-            "summary": "Nikkei Inc. disclosed a new data breach, the third in about a month, that exposed 1.83 million personal information records. [...]",
-            "published_utc": "2026-10-19T21:49:48+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "WordPress SEO plugin Rank Math compromised to backdoor websites",
-            "link": "https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/",
-            "summary": "Some downloads of the Rank Math PRO WordPress plugin from the vendor's official website carried malware that planted hidden backdoors in a supply-chai...",
-            "published_utc": "2026-10-19T21:24:51+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
             "link": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
             "summary": "A judge ordered Abdulrahman Alfozan to remain in custody, likening the Saudi government’s offer to secure the former OpenAI engineer’s release to a “b...",
             "published_utc": "2026-10-19T19:49:17+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Hackers hijack AOMEI update servers to secretly spread malware",
-            "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/",
-            "summary": "Hackers reportedly compromised AOMEI's servers to distribute malware through a built-in promotional feature in its backup software, briefly tampering ...",
-            "published_utc": "2026-10-19T19:40:58+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -513,27 +604,6 @@
             "published_utc": "2026-10-16T08:41:16+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Malware evasion made easier with AI — but behavior still gives it away",
-            "link": "https://www.csoonline.com/article/4235447/malware-evasion-made-easier-with-ai-but-behavior-still-gives-it-away.html",
-            "summary": "",
-            "published_utc": "2026-10-16T08:25:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "No click required: How the ad industry became a pipeline for mercenary spyware",
-            "link": "https://www.csoonline.com/article/4236143/no-click-required-how-the-ad-industry-became-a-pipeline-for-mercenary-spyware.html",
-            "summary": "",
-            "published_utc": "2026-10-16T01:02:34+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "TypeSafe’s Jev ‘even more susceptible to attack’ than LLMs, says security vendor",
-            "link": "https://www.csoonline.com/article/4236132/typesafes-jev-even-more-susceptible-to-attack-than-llms-says-security-vendor-2.html",
-            "summary": "",
-            "published_utc": "2026-10-16T00:28:42+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Measuring Human Cryptanalysis Effort",
             "link": "https://www.schneier.com/blog/archives/2026/10/measuring-human-cryptanalysis-effort.html",
@@ -581,13 +651,6 @@
             "link": "https://www.zdnet.com/tech/google-universal-cart-when-to-buy-guide/",
             "summary": "Google unveiled two new shopping tools ahead of the holiday buying season. Here’s what to know.",
             "published_utc": "2026-10-15T13:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Cisco warns of actively exploited Secure Email Gateway flaw",
-            "link": "https://www.csoonline.com/article/4235801/cisco-warns-of-actively-exploited-secure-email-gateway-flaw.html",
-            "summary": "",
-            "published_utc": "2026-10-15T12:32:50+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -863,25 +926,11 @@
             "published_utc": "2026-10-10T12:00:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Ring’s new smart lock has a manual fallback that can’t lock you out – how it works",
-            "link": "https://www.zdnet.com/uncategorized/ring-smart-lock-manual-power-dial/",
-            "summary": "The brand just announced a smart lock with a manual ‘power dial’ that charges the device in case it dies.",
-            "published_utc": "2026-10-10T08:15:00+00:00"
-        },
-        {
             "source": "KrebsOnSecurity",
             "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
             "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
             "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an inves...",
             "published_utc": "2026-10-10T00:17:42+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Friday Squid Blogging: I Caught a Squid",
-            "link": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-i-caught-a-squid.html",
-            "summary": "",
-            "published_utc": "2026-10-09T20:24:45+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1878,13 +1927,6 @@
             "published_utc": "2026-09-15T08:40:00+00:00"
         },
         {
-            "source": "WIRED Security",
-            "title": "New York Seizes a Dozen Celebrity Deepfake Websites",
-            "link": "https://www.wired.com/story/new-york-seizes-a-dozen-celebrity-deepfake-websites/",
-            "summary": "In the biggest-ever legal action against harmful deepfake websites, the Manhattan District Attorney’s Office has seized 12 sites that collectively tar...",
-            "published_utc": "2026-09-14T16:50:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Malicious Twitch Extension Exposes 31,000 Users' OAuth Tokens",
             "link": "https://www.infosecurity-magazine.com/news/malicious-twitch-extension-oauth/",
@@ -1911,13 +1953,6 @@
             "link": "https://www.infosecurity-magazine.com/news/revolut-data-breach-fake-government/",
             "summary": "An unauthorized party used a legitimate government email domain to fraudulently request Revolut customer data",
             "published_utc": "2026-09-14T11:20:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "Sexually Explicit Deepfake Sites Target 100-Plus Politicians in Europe",
-            "link": "https://www.wired.com/story/sexually-explicit-deepfake-sites-target-100-plus-politicians-in-europe/",
-            "summary": "An analysis of 160 deepfake websites reveals politicians in 22 countries appear on them. Nearly all of them are women.",
-            "published_utc": "2026-09-14T11:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2760,34 +2795,6 @@
             "published_utc": "2026-08-12T12:30:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "Russian-Linked Hackers Accessed Polish Power Plant OT Network Through Private APN, Says CERT.PL",
-            "link": "https://www.infosecurity-magazine.com/news/attack-polish-power-plant-2025-led/",
-            "summary": "The Polish CERT has released details of another 2025 attack on a combined heat and power plant in the country",
-            "published_utc": "2026-08-12T09:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Microsoft Fixes 400 Flaws on August Patch Tuesday",
-            "link": "https://www.infosecurity-magazine.com/news/microsoft-fixes-400-flaws-august/",
-            "summary": "Microsoft has issued another massive batch of security updates with 400 fixed in the August Patch Tuesday",
-            "published_utc": "2026-08-12T08:12:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Six npm Packages Read C2 Addresses From Ethereum Wallet",
-            "link": "https://www.infosecurity-magazine.com/news/npm-packages-ethereum-wallet-c2/",
-            "summary": "Six npm packages queried an Ethereum wallet to locate C2 infrastructure",
-            "published_utc": "2026-08-11T15:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Cursor Security Bug Allowed Repositories to Execute Commands Before Trust Verification",
-            "link": "https://www.infosecurity-magazine.com/news/cursor-security-bug-command/",
-            "summary": "Cursor fixed a pre-trust code execution path in three days then closed the report as informative",
-            "published_utc": "2026-08-11T14:30:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "Are AI tutors safe for your kids?",
             "link": "https://www.welivesecurity.com/en/kids-online/ai-tutors-safe-kids/",
@@ -3283,13 +3290,6 @@
             "link": "https://www.welivesecurity.com/en/social-media/linkedin-hunting-ground-threat-actors-how-protect-yourself/",
             "summary": "The business social networking site is a vast, publicly accessible database of corporate information. Don’t believe everyone on the site is who they s...",
             "published_utc": "2026-01-16T10:00:00+00:00"
-        },
-        {
-            "source": "WeLiveSecurity",
-            "title": "Is it time for internet services to adopt identity verification?",
-            "link": "https://www.welivesecurity.com/en/social-media/time-internet-services-adopt-identity-verification/",
-            "summary": "Should verified identities become the standard online? Australia’s social media ban for under-16s shows why the question matters.",
-            "published_utc": "2026-01-14T10:00:00+00:00"
         },
         {
             "source": "Threatpost",
