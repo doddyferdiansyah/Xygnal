@@ -1,6 +1,55 @@
 {
-    "lastUpdatedUTC": "2026-10-22T13:32:28.546826+00:00",
+    "lastUpdatedUTC": "2026-10-22T18:21:32.795719+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
+            "summary": "Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deploym...",
+            "published_utc": "2026-10-22T17:18:22+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Amazon’s Kindle Unlimited is now Kindle+, and the 2 big changes include AI audiobooks",
+            "link": "https://www.zdnet.com/tech/kindle-unlimited-kindle-plus-audiobooks-ai/",
+            "summary": "Unlike narrated audiobooks from Audible and other providers, the audiobooks created with Virtual Voice in Kindle+ will instead be narrated by AI.",
+            "published_utc": "2026-10-22T15:55:55+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft shares how to fix broken Exchange Online EWS apps",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/",
+            "summary": "Microsoft says IT admins can re-enable the retired Exchange Web Services (EWS) API in Exchange Online to fix EWS apps that have stopped working. [...]",
+            "published_utc": "2026-10-22T15:49:32+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The latest PowerToys gives your mouse 2 new tricks for free – how to use them",
+            "link": "https://www.zdnet.com/tech/powertoys-102-windows-mouse-control/",
+            "summary": "PowerToys is one of my favorite free Windows utilities. With more than 30 tools, it offers something for everyone from beginners to power users. Here’...",
+            "published_utc": "2026-10-22T15:17:56+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Hacker Conversations: Corey Thuen and the Evil Bit",
+            "link": "https://www.securityweek.com/hacker-conversations-corey-thuen-and-the-evil-bit/",
+            "summary": "",
+            "published_utc": "2026-10-22T14:31:34+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Machine speed attacks require machine speed detection and response",
+            "link": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
+            "summary": "Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world atta...",
+            "published_utc": "2026-10-22T14:02:12+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "EU Regulators to Investigate Booking.com Over Scam Risks",
+            "link": "https://www.infosecurity-magazine.com/news/eu-bookingcom-scam-risks/",
+            "summary": "The EU Commission will assess whether Booking.com has adequately protected customers from phishing attacks",
+            "published_utc": "2026-10-22T14:00:00+00:00"
+        },
         {
             "source": "Schneier",
             "title": "New Serious PHP Vulnerabilities Released and Patched",
@@ -219,13 +268,6 @@
             "published_utc": "2026-10-21T17:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "PHP2Shell Patches Land as First Exploitation Attempts Hit Sensors",
-            "link": "https://www.securityweek.com/php2shell-patches-land-as-first-exploitation-attempts-hit-sensors/",
-            "summary": "",
-            "published_utc": "2026-10-21T16:50:40+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "Chrome warns you about suspicious websites now – how to turn on Google’s new scam protection",
             "link": "https://www.zdnet.com/business/chrome-browser-warns-suspicious-websites-scam-protection/",
@@ -387,13 +429,6 @@
             "published_utc": "2026-10-21T09:00:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
-            "link": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
-            "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure organizatio...",
-            "published_utc": "2026-10-21T08:36:24+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "14 ways attackers abuse cloud services to hack your enterprise",
             "link": "https://www.csoonline.com/article/4142001/12-ways-attackers-abuse-cloud-services-to-hack-your-enterprise.html",
@@ -413,20 +448,6 @@
             "link": "https://www.csoonline.com/article/4238124/enterprises-should-report-ai-breaches-and-near-misses-says-uk-financial-regulator.html",
             "summary": "",
             "published_utc": "2026-10-21T01:09:32+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
-            "link": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
-            "summary": "A threat actor breached TeamUpdraft's website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral c...",
-            "published_utc": "2026-10-21T01:01:50+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Mozilla, Google, Apple block compromised eMudhra CA certificates",
-            "link": "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/",
-            "summary": "Certificate authority eMudhra revoked eight compromised intermediate certificates after researchers found their private keys were so weak that anyone ...",
-            "published_utc": "2026-10-21T00:46:42+00:00"
         },
         {
             "source": "CSO Online",
@@ -835,13 +856,6 @@
             "published_utc": "2026-10-14T14:00:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Windows update patches a whopping 1,400 security bugs –  including 2 zero days",
-            "link": "https://www.zdnet.com/tech/windows-october-update-patches-file-explorer-bluetooth/",
-            "summary": "This month’s update also marks the first official one for Windows 11 26H2 and the end of support for Windows 11 24H2 Home and Pro.",
-            "published_utc": "2026-10-14T13:59:59+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Passkey Authentications Double but Adoption Remains Slow",
             "link": "https://www.infosecurity-magazine.com/news/passkey-authentications-double/",
@@ -903,13 +917,6 @@
             "link": "https://www.infosecurity-magazine.com/news/defenders-skeptical-agentic-ai/",
             "summary": "Flashpoint research suggests that only 25% of security teams have actively deployed AI, with many concerned about AI Agents’ negative impact",
             "published_utc": "2026-10-13T13:30:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "‘So perfect, they are literally identical’ – Your AI-polished resumes are recruiters’ new top stressor",
-            "link": "https://www.zdnet.com/education/employ-report-ai-hr-hiring/",
-            "summary": "Exclusive: A new Employ report shows how AI is both helping and hurting the hiring industry.",
-            "published_utc": "2026-10-13T13:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2772,13 +2779,6 @@
             "link": "https://www.infosecurity-magazine.com/news/vcenter-cve-2026-59310-exploited/",
             "summary": "Attackers exploited a critical-severity vCenter flaw five days after Broadcom disclosed it",
             "published_utc": "2026-08-13T14:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Trump Authorizes Private Sector Participation in Offensive Cyber Operations",
-            "link": "https://www.infosecurity-magazine.com/news/trump-private-offensive-cyber/",
-            "summary": "The White House has authorized government-directed offensive cyber operations against transnational groups, prompting warnings over escalation and att...",
-            "published_utc": "2026-08-13T12:35:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
