@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2026-10-22T18:21:32.795719+00:00",
+    "lastUpdatedUTC": "2026-10-22T22:09:22.045596+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Railway warns devs to rotate secrets after potential breach",
+            "link": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
+            "summary": "Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variabl...",
+            "published_utc": "2026-10-22T21:25:31+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "GitLab critical patches include one for a bug that allows code execution by unauthenticated users",
+            "link": "https://www.csoonline.com/article/4239289/gitlab-critical-patches-include-one-for-a-bug-that-allows-code-execution-by-unauthenticated-users-2.html",
+            "summary": "",
+            "published_utc": "2026-10-22T20:29:05+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Capcom confirms data breach affecting 11.7 million accounts",
+            "link": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
+            "summary": "Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email add...",
+            "published_utc": "2026-10-22T20:22:45+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
+            "link": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
+            "summary": "Hackers compromised the LiteLLM project's PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and envi...",
+            "published_utc": "2026-10-22T19:12:51+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Security teams urged to center defense on the flaw profile attackers target most",
+            "link": "https://www.csoonline.com/article/4239255/security-teams-urged-to-center-defense-on-the-single-profile-attackers-target-most.html",
+            "summary": "",
+            "published_utc": "2026-10-22T18:25:24+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
@@ -91,13 +126,6 @@
             "link": "https://www.securityweek.com/tech-and-security-companies-respond-to-php2shell-vulnerabilities/",
             "summary": "",
             "published_utc": "2026-10-22T12:20:23+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "LiteLLM release pipeline hacked to distribute credential-stealing malware",
-            "link": "https://www.csoonline.com/article/4239033/litellm-release-pipeline-hacked-to-distribute-credential-stealing-malware.html",
-            "summary": "",
-            "published_utc": "2026-10-22T12:07:08+00:00"
         },
         {
             "source": "CSO Online",
@@ -317,13 +345,6 @@
             "published_utc": "2026-10-21T14:01:31+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "ClickFix has never been bigger, and AI tools are its most convincing lure yet",
-            "link": "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/",
-            "summary": "ClickFix attacks are surging as cybercriminals use fake AI installers, malicious search results, and trusted chatbot platforms to trick users into exe...",
-            "published_utc": "2026-10-21T14:00:10+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Symantec Uncovers AI Agent Hijacking Models for Autonomous Cyber-Attacks",
             "link": "https://www.infosecurity-magazine.com/news/symantec-ai-agent-llmjacking/",
@@ -343,13 +364,6 @@
             "link": "https://www.wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse/",
             "summary": "The company is suspending the feature after security researchers discovered how easy it was to access sensitive information shared with the AI assistant.",
             "published_utc": "2026-10-21T12:35:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft PowerToys adds CursorHide, Button Lock mouse tools",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/",
-            "summary": "Microsoft has released PowerToys 0.102, with two new mouse utilities, new command-line tools, and Command Palette improvements. [...]",
-            "published_utc": "2026-10-21T12:20:34+00:00"
         },
         {
             "source": "CSO Online",
@@ -399,13 +413,6 @@
             "link": "https://www.infosecurity-magazine.com/news/critical-php-vulnerabilities-leaked/",
             "summary": "Two critical vulnerabilities in PHP were leaked one day before their scheduled disclosure and security patches",
             "published_utc": "2026-10-21T10:20:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft says October updates didn’t actually fix VPN issues",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/",
-            "summary": "Microsoft says it mistakenly flagged a bug causing Always On VPN connection issues as fixed in the October 2026 Windows 11 cumulative updates. [...]",
-            "published_utc": "2026-10-21T10:14:53+00:00"
         },
         {
             "source": "WIRED Security",
@@ -632,13 +639,6 @@
             "published_utc": "2026-10-19T09:00:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "9 rising malware trends every security pro should know",
-            "link": "https://www.csoonline.com/article/3997388/6-rising-malware-trends-every-security-pro-should-know.html",
-            "summary": "",
-            "published_utc": "2026-10-19T08:25:00+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "Plug-in solar is legal in these 10 states now – how it could save you money",
             "link": "https://www.zdnet.com/uncategorized/plug-in-solar-balcony-solar-legalization-2026/",
@@ -672,13 +672,6 @@
             "link": "https://www.wired.com/story/chicago-area-cops-helped-hsi-spy-on-minnesota-anti-ice-activists/",
             "summary": "Despite Illinois’ sanctuary laws, local police in and around Chicago helped ICE investigative agents track activists engaged in First Amendment–protec...",
             "published_utc": "2026-10-16T18:21:54+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Hallucinated domain in official OpenAI skill underscores AI supply chain risks",
-            "link": "https://www.csoonline.com/article/4236659/hallucinated-domain-in-official-openai-skill-underscores-ai-supply-chain-risks.html",
-            "summary": "",
-            "published_utc": "2026-10-16T17:29:00+00:00"
         },
         {
             "source": "ZDNet Security",
