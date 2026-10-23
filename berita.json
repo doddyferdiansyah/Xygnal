@@ -1,6 +1,13 @@
 {
-    "lastUpdatedUTC": "2026-10-23T01:17:06.626169+00:00",
+    "lastUpdatedUTC": "2026-10-23T07:04:30.081878+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Iran’s Prince of Persia APT Hosts C&C in US for First Time Since 2016",
+            "link": "https://www.securityweek.com/irans-prince-of-persia-apt-hosts-cc-in-us-for-first-time-since-2016/",
+            "summary": "",
+            "published_utc": "2026-10-23T06:39:29+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "PHP2Shell exposes the weakness in coordinated vulnerability disclosure",
@@ -294,13 +301,6 @@
             "link": "https://www.zdnet.com/innovation/openai-astra-sol-models-disable-safety-monitoring/",
             "summary": "The models Astra and Sol misinterpreted instructions during internal use, which has serious implications for alignment monitoring.",
             "published_utc": "2026-10-21T18:15:19+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Google Hardens Chrome Against ClickFix Attacks, Insecure HTTP Connections",
-            "link": "https://www.securityweek.com/google-hardens-chrome-against-clickfix-attacks-insecure-http-connections/",
-            "summary": "",
-            "published_utc": "2026-10-21T17:00:00+00:00"
         },
         {
             "source": "ZDNet Security",
