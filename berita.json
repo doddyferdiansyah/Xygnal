@@ -1,6 +1,111 @@
 {
-    "lastUpdatedUTC": "2026-10-23T07:04:30.081878+00:00",
+    "lastUpdatedUTC": "2026-10-23T13:08:32.375707+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "HPE patches eight max severity RCE and auth bypass AOS flaws",
+            "link": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
+            "summary": "Hewlett Packard Enterprise (HPE) released security updates to patch 72 vulnerabilities in the Aruba Operating System (ArubaOS), including eight maximu...",
+            "published_utc": "2026-10-23T12:48:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Mirai Botnet Operators Join PHP2Shell Attacks as ASLR Bypass Exploits Emerge",
+            "link": "https://www.securityweek.com/mirai-botnet-operators-join-php2shell-attacks-as-aslr-bypass-exploits-emerge/",
+            "summary": "",
+            "published_utc": "2026-10-23T12:45:52+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Gaming Giant Capcom Confirms Data Breach Exposed Users’ Personal Information",
+            "link": "https://www.infosecurity-magazine.com/news/capcom-confirms-data-breach/",
+            "summary": "Japanese video games giant Capcom confirmed unauthorized access to its online account system",
+            "published_utc": "2026-10-23T11:45:00+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Compromised TLS Certificates",
+            "link": "https://www.schneier.com/blog/archives/2026/10/compromised-tls-certificates.html",
+            "summary": "",
+            "published_utc": "2026-10-23T11:04:22+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "eMudhra quits global TLS certificate market after compromise of CA signing keys",
+            "link": "https://www.csoonline.com/article/4239634/emudhra-quits-global-tls-certificate-market-after-compromise-of-ca-signing-keys-2.html",
+            "summary": "",
+            "published_utc": "2026-10-23T10:34:39+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "China APT Uses AI Pentest Tool Artex in ConnectWise Attacks",
+            "link": "https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/",
+            "summary": "",
+            "published_utc": "2026-10-23T10:31:16+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Widespread Token-Spraying Attacks Target Microsoft 365 Accounts For Email Compromise",
+            "link": "https://www.infosecurity-magazine.com/news/tokenspraying-attacks-target/",
+            "summary": "Security researchers identified attempts to access corporate networks which have been linked to a major Microsoft 365-targeted BEC campaign using phis...",
+            "published_utc": "2026-10-23T10:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Attacks on Tech Firms Behind Most Third-Party Data Breach Victims",
+            "link": "https://www.infosecurity-magazine.com/news/tech-third-party-breach-victims/",
+            "summary": "Kroll found that 69% of data breach victims in the past year were affected by a third-party breach, with attacks on tech companies the most common cause",
+            "published_utc": "2026-10-23T10:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Attackers Exploit Third VeloCloud Orchestrator Zero-Day in Four Months",
+            "link": "https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/",
+            "summary": "",
+            "published_utc": "2026-10-23T09:58:34+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "The ‘Mythos moment’ has already passed. Now comes the hard part for cybersecurity",
+            "link": "https://www.csoonline.com/article/4239166/the-mythos-moment-has-already-passed-now-comes-the-hard-part-for-cybersecurity.html",
+            "summary": "",
+            "published_utc": "2026-10-23T09:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "11 Million Impacted by Capcom Data Breach",
+            "link": "https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/",
+            "summary": "",
+            "published_utc": "2026-10-23T08:34:14+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Quest Diagnostics Reports Cyber Breach Affecting ‘Certain Patient Records’",
+            "link": "https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/",
+            "summary": "",
+            "published_utc": "2026-10-23T08:25:06+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "The AI notetaker risk is now an everywhere problem",
+            "link": "https://www.csoonline.com/article/4239372/the-ai-notetaker-risk-is-now-an-everywhere-problem.html",
+            "summary": "",
+            "published_utc": "2026-10-23T08:25:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "LiteLLM Compromised in Fresh Supply Chain Attack",
+            "link": "https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/",
+            "summary": "",
+            "published_utc": "2026-10-23T08:10:46+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Atlassian Patches 75 Flaws in Data Center and Server Products",
+            "link": "https://www.securityweek.com/atlassian-patches-75-third-party-flaws-in-data-center-and-server-products/",
+            "summary": "",
+            "published_utc": "2026-10-23T07:54:47+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Iran’s Prince of Persia APT Hosts C&C in US for First Time Since 2016",
@@ -128,20 +233,6 @@
             "published_utc": "2026-10-22T13:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Signal Vulnerability Lets Malicious Callers Block Hang-Ups",
-            "link": "https://www.securityweek.com/signal-vulnerability-lets-malicious-callers-block-hang-ups/",
-            "summary": "",
-            "published_utc": "2026-10-22T12:34:31+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Tech and Security Companies Respond to PHP2Shell Vulnerabilities",
-            "link": "https://www.securityweek.com/tech-and-security-companies-respond-to-php2shell-vulnerabilities/",
-            "summary": "",
-            "published_utc": "2026-10-22T12:20:23+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "China-linked hackers used agentic AI in attack on 2,250 Microsoft 365 tenants",
             "link": "https://www.csoonline.com/article/4239028/china-linked-hackers-used-agentic-ai-in-attack-on-2250-microsoft-365-tenants.html",
@@ -163,32 +254,11 @@
             "published_utc": "2026-10-22T11:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Splunk, SolarWinds Release Fresh Security Updates",
-            "link": "https://www.securityweek.com/splunk-solarwinds-release-fresh-security-updates/",
-            "summary": "",
-            "published_utc": "2026-10-22T10:45:24+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "PHP2Shell Exploitation Attempt Detected by Amazon Four Days Before Vulnerability Disclosure",
             "link": "https://www.infosecurity-magazine.com/news/php2shell-exploitation-attempt/",
             "summary": "Threat intelligence analysts now observe large-scale evidence of exploitation of the two critical PHP vulnerabilities",
             "published_utc": "2026-10-22T10:10:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Cisco Patches 34 Vulnerabilities Across Multiple Products",
-            "link": "https://www.securityweek.com/cisco-patches-34-vulnerabilities-across-multiple-products/",
-            "summary": "",
-            "published_utc": "2026-10-22T10:05:21+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "PHP2Shell Exploitation Started Days Before Patches",
-            "link": "https://www.securityweek.com/php2shell-exploitation-started-days-before-patches/",
-            "summary": "",
-            "published_utc": "2026-10-22T09:48:58+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -203,20 +273,6 @@
             "link": "https://www.infosecurity-magazine.com/news/cloud-security-maturity-lags-sans/",
             "summary": "Nearly all organizations now run production workloads in the cloud, but a new SANS survey found most have yet to achieve mature cloud security programs",
             "published_utc": "2026-10-22T08:20:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Oracle Patches Over 1,200 Vulnerabilities With October 2026 CPU",
-            "link": "https://www.securityweek.com/oracle-patches-over-1200-vulnerabilities-with-october-2026-cpu/",
-            "summary": "",
-            "published_utc": "2026-10-22T07:38:14+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Meta Ordered to Pay New Mexico $25 Billion for Deceiving Users About Privacy on Facebook",
-            "link": "https://www.securityweek.com/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook/",
-            "summary": "",
-            "published_utc": "2026-10-22T07:26:54+00:00"
         },
         {
             "source": "WIRED Security",
@@ -336,13 +392,6 @@
             "link": "https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/",
             "summary": "The PHP Foundation has revealed two serious vulnerabilities that could impact millions of websites. Security experts warn that failure to quickly patc...",
             "published_utc": "2026-10-21T14:26:19+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "PHP ships emergency patches for critical PHP2Shell flaws",
-            "link": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
-            "summary": "The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-1...",
-            "published_utc": "2026-10-21T14:07:05+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -548,13 +597,6 @@
             "published_utc": "2026-10-20T08:25:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "F5 rushes out emergency NGINX patches for three critical flaws",
-            "link": "https://www.csoonline.com/article/4237420/f5-rushes-out-emergency-nginx-patches-for-three-critical-flaws.html",
-            "summary": "",
-            "published_utc": "2026-10-20T03:25:43+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
             "link": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
@@ -602,20 +644,6 @@
             "link": "https://www.infosecurity-magazine.com/news/opencode-breach-openai-anthropic/",
             "summary": "A breach affecting the OpenCode Console may lead to the exposure of API keys for Anthropic, OpenAI and Google Gemini users",
             "published_utc": "2026-10-19T13:30:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Microsoft, Nvidia push provenance checks as open-weight AI adoption accelerates",
-            "link": "https://www.csoonline.com/article/4237095/microsoft-nvidia-push-provenance-checks-as-open-weight-ai-adoption-accelerates.html",
-            "summary": "",
-            "published_utc": "2026-10-19T12:34:25+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "ConnectWise backup credentials exposed multiple Microsoft 365 tenants",
-            "link": "https://www.csoonline.com/article/4237087/connectwise-backup-credentials-exposed-multiple-microsoft-365-tenants.html",
-            "summary": "",
-            "published_utc": "2026-10-19T12:00:56+00:00"
         },
         {
             "source": "Schneier",
@@ -833,13 +861,6 @@
             "link": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
             "summary": "The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit f...",
             "published_utc": "2026-10-14T14:22:49+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Cyberattack on Connected Fridges in France",
-            "link": "https://www.schneier.com/blog/archives/2026/10/cyberattack-on-connected-fridges-in-france.html",
-            "summary": "",
-            "published_utc": "2026-10-14T14:10:22+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2746,32 +2767,11 @@
             "published_utc": "2026-08-14T07:30:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "Exposed AWS Access Key Linked to Data Breach Affecting 1500+ UK Charities",
-            "link": "https://www.infosecurity-magazine.com/news/exposed-aws-key-data-charities/",
-            "summary": "CRM provider Beacon has revealed that a compromised AWS access key was the likely root cause of the breach of 1500 UK charities’ data",
-            "published_utc": "2026-08-13T15:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Google Cloud Targets 2027 for First Major Post-Quantum Security Milestone",
-            "link": "https://www.infosecurity-magazine.com/news/google-cloud-post-quantum-roadmap/",
-            "summary": "Google Cloud has set a 2027 deadline to mitigate store-now-decrypt-later risks as part of its post-quantum cryptography roadmap, with wider migration ...",
-            "published_utc": "2026-08-13T15:00:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "Black Hat USA 2026: Will vulnerability discovery eventually decline in the AI era?",
             "link": "https://www.welivesecurity.com/en/business-security/black-hat-usa-2026-vulnerability-discovery-decline-ai-era/",
             "summary": "And will today’s surge in AI-driven vulnerability discovery eventually make tomorrow’s software safer?",
             "published_utc": "2026-08-13T14:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "vCenter Flaw Exploited Just Five Days After Disclosure",
-            "link": "https://www.infosecurity-magazine.com/news/vcenter-cve-2026-59310-exploited/",
-            "summary": "Attackers exploited a critical-severity vCenter flaw five days after Broadcom disclosed it",
-            "published_utc": "2026-08-13T14:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
