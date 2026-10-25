@@ -1,6 +1,13 @@
 {
-    "lastUpdatedUTC": "2026-10-25T14:52:39.927249+00:00",
+    "lastUpdatedUTC": "2026-10-25T18:12:22.087698+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
+            "link": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
+            "summary": "Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogu...",
+            "published_utc": "2026-10-25T15:49:38+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave",
@@ -308,13 +315,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/10/new-serious-php-vulnerabilities-released-and-patched.html",
             "summary": "",
             "published_utc": "2026-10-22T13:26:51+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
-            "link": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
-            "summary": "Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released o...",
-            "published_utc": "2026-10-22T13:09:12+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -952,13 +952,6 @@
             "link": "https://www.infosecurity-magazine.com/news/fifth-cisos-take-time-off-avoid/",
             "summary": "Socura report claims CISOs are calling in sick or taking holiday to miss Patch Tuesday",
             "published_utc": "2026-10-13T09:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Claude sent a false homicide tip to police – and it’s part of a troubling AI pattern",
-            "link": "https://www.zdnet.com/innovation/claude-false-homicide-tip/",
-            "summary": "Models routinely take shortcuts to pass evaluations. Who gets to decide what incidents are innocuous?",
-            "published_utc": "2026-10-12T17:45:44+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1911,6 +1904,13 @@
             "link": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
             "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-sea...",
             "published_utc": "2026-09-16T18:14:22+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "As a home tech expert, I beg you: don’t run these appliances on a power station",
+            "link": "https://www.zdnet.com/home-and-office/do-not-run-these-appliances-on-power-stations/",
+            "summary": "Learn how to prioritize what to keep on during an outage.",
+            "published_utc": "2026-09-16T17:44:31+00:00"
         },
         {
             "source": "InfosecurityMag",
