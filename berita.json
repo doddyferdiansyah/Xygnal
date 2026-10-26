@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2026-10-26T03:38:23.447379+00:00",
+    "lastUpdatedUTC": "2026-10-26T09:49:43.850054+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
+            "link": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
+            "summary": "Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wil...",
+            "published_utc": "2026-10-26T09:19:57+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "PHP Publishes Mitigation Advice for New RCE Flaw",
+            "link": "https://www.infosecurity-magazine.com/news/php-publishes-mitigation-advice/",
+            "summary": "PHP warns of critical RCE vulnerability CVE-2026-115560, but says limited exploit conditions mean most deployments are unlikely to be affected",
+            "published_utc": "2026-10-26T09:15:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Mythos 5 Ignored Real-World Harm in July Attack",
+            "link": "https://www.securityweek.com/mythos-5-ignored-real-world-harm-in-july-attack/",
+            "summary": "",
+            "published_utc": "2026-10-26T09:10:03+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "What EvilTokens teaches us about defending against AI-assisted attacks",
+            "link": "https://www.csoonline.com/article/4239703/what-eviltokens-teaches-us-about-defending-against-ai-assisted-attacks.html",
+            "summary": "",
+            "published_utc": "2026-10-26T09:00:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "10 most powerful cybersecurity companies today",
+            "link": "https://www.csoonline.com/article/569075/the-10-most-powerful-cybersecurity-companies.html",
+            "summary": "",
+            "published_utc": "2026-10-26T08:25:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Bright Security Introduces STAR Fuzzer, Agentic Fuzzing That Writes Its Own Harnesses and Proves Every Finding",
+            "link": "https://www.csoonline.com/article/4240151/bright-security-introduces-star-fuzzer-agentic-fuzzing-that-writes-its-own-harnesses-and-proves-every-finding.html",
+            "summary": "",
+            "published_utc": "2026-10-26T07:52:46+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
@@ -219,13 +261,6 @@
             "published_utc": "2026-10-23T07:54:47+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Iran’s Prince of Persia APT Hosts C&C in US for First Time Since 2016",
-            "link": "https://www.securityweek.com/irans-prince-of-persia-apt-hosts-cc-in-us-for-first-time-since-2016/",
-            "summary": "",
-            "published_utc": "2026-10-23T06:39:29+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "PHP2Shell exposes the weakness in coordinated vulnerability disclosure",
             "link": "https://www.csoonline.com/article/4239359/php2shell-exposes-the-weakness-in-coordinated-vulnerability-disclosure-2.html",
@@ -294,13 +329,6 @@
             "link": "https://www.zdnet.com/tech/powertoys-102-windows-mouse-control/",
             "summary": "PowerToys is one of my favorite free Windows utilities. With more than 30 tools, it offers something for everyone from beginners to power users. Here’...",
             "published_utc": "2026-10-22T15:17:56+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Machine speed attacks require machine speed detection and response",
-            "link": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
-            "summary": "Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world atta...",
-            "published_utc": "2026-10-22T14:02:12+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -539,27 +567,6 @@
             "link": "https://www.csoonline.com/article/4237926/moving-past-autonomous-exploitation-to-machine-speed-security.html",
             "summary": "",
             "published_utc": "2026-10-21T09:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "14 ways attackers abuse cloud services to hack your enterprise",
-            "link": "https://www.csoonline.com/article/4142001/12-ways-attackers-abuse-cloud-services-to-hack-your-enterprise.html",
-            "summary": "",
-            "published_utc": "2026-10-21T08:25:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "US bans DeepSeek across federal agencies, putting AI supply chains under scrutiny",
-            "link": "https://www.csoonline.com/article/4238149/us-bans-deepseek-across-federal-agencies-putting-ai-supply-chains-under-scrutiny-2.html",
-            "summary": "",
-            "published_utc": "2026-10-21T01:55:45+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Enterprises should report AI breaches and ‘near misses,’ says UK financial regulator",
-            "link": "https://www.csoonline.com/article/4238124/enterprises-should-report-ai-breaches-and-near-misses-says-uk-financial-regulator.html",
-            "summary": "",
-            "published_utc": "2026-10-21T01:09:32+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -2758,13 +2765,6 @@
             "link": "https://www.infosecurity-magazine.com/news/macos-infostealer-spread-clickfix/",
             "summary": "AmnesiaStealer contains novel functions, including the attackers gaining remote control over the victim’s browser to steal cookie data",
             "published_utc": "2026-08-14T10:45:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Researchers Link 'Jewelbug' Chinese APT to Hack-for-Hire Operations",
-            "link": "https://www.infosecurity-magazine.com/news/researchers-link-chinese-apt-hack/",
-            "summary": "Threat intelligence researchers from Broadcom revealed that a known Chinese APT group may be linked to a lucrative crypto fraud operation",
-            "published_utc": "2026-08-14T07:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
