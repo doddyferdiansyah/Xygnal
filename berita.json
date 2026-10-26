@@ -1,6 +1,167 @@
 {
-    "lastUpdatedUTC": "2026-10-26T09:49:43.850054+00:00",
+    "lastUpdatedUTC": "2026-10-26T16:34:34.718634+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches",
+            "link": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/",
+            "summary": "A critical flaw dubbed 'HTTP2Shell' in Brotli, the C decoder library built into Node.js, could allow attackers to corrupt memory and access sensitive ...",
+            "published_utc": "2026-10-26T16:27:57+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Apple’s new OLED iPad Mini is the upgrade I’ve been waiting for – here’s why",
+            "link": "https://www.zdnet.com/tech/apple-launches-new-ipad-mini-with-oled-screen-why-im-getting-one/",
+            "summary": "Starting at $799, the 8th-generation iPad mini is up for preorder on October 27 and hits stores on November 6. It’s already on my shopping list.",
+            "published_utc": "2026-10-26T16:25:16+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "CISA 2030 Sets Out ‘Aggressive, Anticipatory’ Cyber Defense Strategy for Critical Infrastructure",
+            "link": "https://www.infosecurity-magazine.com/news/cisa-aggressive-strategy-critical/",
+            "summary": "CISA’s new strategy, CISA 2030, will focus on rapid detection and response and resiliency of critical services ahead of “passive defense”",
+            "published_utc": "2026-10-26T16:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "iPhone Duo screens are already cracking: What buyers need to know",
+            "link": "https://www.zdnet.com/tech/iphone-duo-cracked-screen-hinge-what-to-do-crackgate/",
+            "summary": "A handful of first-hand reports show similar damage, suggesting a bad batch of hinges. Here’s what to do if your Duo screen fails.",
+            "published_utc": "2026-10-26T15:56:38+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft releases emergency .NET patches for critical Brotli flaw",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-net-patches-for-critical-brotli-flaw/",
+            "summary": "Microsoft released emergency .NET security updates to patch a critical vulnerability known as Broccoli2Shell, also tracked as Node2Shell and HTTP2Shel...",
+            "published_utc": "2026-10-26T15:38:24+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Gheist Attackers Stumble in Attempt to Abuse GitHub Tokens",
+            "link": "https://www.infosecurity-magazine.com/news/gheist-attackers-abuse-stolen/",
+            "summary": "A large-scale GitHub campaign abused stolen access tokens to target 13,500+ branches and repositories with secret-stealing workflows",
+            "published_utc": "2026-10-26T15:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Industrial Vendors Check Products for PHP2Shell Vulnerabilities",
+            "link": "https://www.securityweek.com/industrial-vendors-check-products-for-php2shell-vulnerabilities/",
+            "summary": "",
+            "published_utc": "2026-10-26T14:52:14+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Genesys Hack Exposes Customer Data From Internal Systems",
+            "link": "https://www.securityweek.com/genesys-hack-exposes-customer-data-from-internal-systems/",
+            "summary": "",
+            "published_utc": "2026-10-26T14:40:48+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Stolen AI Reasoning Could Help China Build Cheaper Rivals",
+            "link": "https://www.securityweek.com/stolen-ai-reasoning-could-help-china-build-cheaper-rivals/",
+            "summary": "",
+            "published_utc": "2026-10-26T14:30:09+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "The US Government Is Hiding a Secret Court Ruling About How It Spies on Americans",
+            "link": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+            "summary": "Two US senators say the Trump administration is breaking the law by withholding the FISA court decision while it presses Congress to renew America’s m...",
+            "published_utc": "2026-10-26T14:09:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "When an AI Agent Is the Incident, the Identity Record Is the Evidence",
+            "link": "https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/",
+            "summary": "A new NIST, CISA, and NSA guide treats runaway agents as incidents to be rehearsed. The hard part of the response is answering whose authority the age...",
+            "published_utc": "2026-10-26T14:00:10+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Linux Flaws Exposed Before Fixes as Root Exploit Goes Public",
+            "link": "https://www.infosecurity-magazine.com/news/linux-flaws-exposed-before-fixes/",
+            "summary": "Six Linux flaws were made public, including one with a working root exploit and no merged fix",
+            "published_utc": "2026-10-26T14:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Chinese man extradited for role in $36 million cryptocurrency scam",
+            "link": "https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/",
+            "summary": "A Chinese national was arraigned in California after being extradited from the Netherlands for his alleged involvement in a cryptocurrency investment ...",
+            "published_utc": "2026-10-26T13:56:44+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "PHP2Shell Exploitation Moves From Probes to Working Shells",
+            "link": "https://www.securityweek.com/php2shell-exploitation-moves-from-probes-to-working-shells/",
+            "summary": "",
+            "published_utc": "2026-10-26T13:30:10+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "953 Online Stores Infected in Long-Lasting Malware Campaign",
+            "link": "https://www.securityweek.com/953-online-stores-infected-in-long-lasting-malware-campaign/",
+            "summary": "",
+            "published_utc": "2026-10-26T12:46:44+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Microsoft Issues Emergency Patch Update for Critical .NET Buffer Overflow Flaw",
+            "link": "https://www.infosecurity-magazine.com/news/microsoft-patch-update-net-flaw/",
+            "summary": "Microsoft’s updates address two newly disclosed vulnerabilities in the .NET developer platform, as well as flaws not fully addressed in an earlier rel...",
+            "published_utc": "2026-10-26T12:45:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "OpenAI, Anthropic disclosures spotlight growing AI containment challenge",
+            "link": "https://www.csoonline.com/article/4240279/openai-anthropic-disclosures-spotlight-growing-ai-containment-challenge.html",
+            "summary": "",
+            "published_utc": "2026-10-26T11:57:21+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Dutch Police Arrest Two Over NFC Relay Attacks That Drained $400,000+ From Bank Accounts",
+            "link": "https://www.securityweek.com/dutch-police-arrest-two-over-nfc-relay-attacks-that-drained-400000/",
+            "summary": "",
+            "published_utc": "2026-10-26T11:47:52+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Bias in Qwen3-Coder Model",
+            "link": "https://www.schneier.com/blog/archives/2026/10/bias-in-qwen3-coder-model.html",
+            "summary": "",
+            "published_utc": "2026-10-26T11:03:31+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Malicious downloads can trick AI coding agents into compromising themselves",
+            "link": "https://www.csoonline.com/article/4240222/malicious-downloads-can-trick-ai-coding-agents-into-compromising-themselves.html",
+            "summary": "",
+            "published_utc": "2026-10-26T10:35:08+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Kali Linux 2026.3 released with 6 new tools, desktop updates",
+            "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
+            "summary": "Kali Linux has released version 2026.3, its third release this year, featuring six new hacking tools, desktop environment improvements, refreshed buil...",
+            "published_utc": "2026-10-26T10:26:52+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Node2Shell: Brotli Flaw Triggers Patching Across Microsoft, Node.js, Python Packages",
+            "link": "https://www.securityweek.com/node2shell-brotli-flaw-triggers-patching-across-microsoft-node-js-python-packages/",
+            "summary": "",
+            "published_utc": "2026-10-26T10:21:57+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Blue Initiative Offers Maritime Sector Dedicated Vulnerability Database",
+            "link": "https://www.infosecurity-magazine.com/news/blue-initiative-maritime/",
+            "summary": "Blue Initiative launches a new vulnerability database for IT and OT CVEs relevant to the maritime industry",
+            "published_utc": "2026-10-26T10:15:00+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
@@ -170,13 +331,6 @@
             "published_utc": "2026-10-23T12:48:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Mirai Botnet Operators Join PHP2Shell Attacks as ASLR Bypass Exploits Emerge",
-            "link": "https://www.securityweek.com/mirai-botnet-operators-join-php2shell-attacks-as-aslr-bypass-exploits-emerge/",
-            "summary": "",
-            "published_utc": "2026-10-23T12:45:52+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Gaming Giant Capcom Confirms Data Breach Exposed Users’ Personal Information",
             "link": "https://www.infosecurity-magazine.com/news/capcom-confirms-data-breach/",
@@ -198,13 +352,6 @@
             "published_utc": "2026-10-23T10:34:39+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "China APT Uses AI Pentest Tool Artex in ConnectWise Attacks",
-            "link": "https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/",
-            "summary": "",
-            "published_utc": "2026-10-23T10:31:16+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Widespread Token-Spraying Attacks Target Microsoft 365 Accounts For Email Compromise",
             "link": "https://www.infosecurity-magazine.com/news/tokenspraying-attacks-target/",
@@ -219,25 +366,11 @@
             "published_utc": "2026-10-23T10:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Attackers Exploit Third Arista VCO Zero-Day in Four Months",
-            "link": "https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/",
-            "summary": "",
-            "published_utc": "2026-10-23T09:58:34+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "The ‘Mythos moment’ has already passed. Now comes the hard part for cybersecurity",
             "link": "https://www.csoonline.com/article/4239166/the-mythos-moment-has-already-passed-now-comes-the-hard-part-for-cybersecurity.html",
             "summary": "",
             "published_utc": "2026-10-23T09:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "11 Million Impacted by Capcom Data Breach",
-            "link": "https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/",
-            "summary": "",
-            "published_utc": "2026-10-23T08:34:14+00:00"
         },
         {
             "source": "CSO Online",
@@ -247,32 +380,11 @@
             "published_utc": "2026-10-23T08:25:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "LiteLLM Compromised in Fresh Supply Chain Attack",
-            "link": "https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/",
-            "summary": "",
-            "published_utc": "2026-10-23T08:10:46+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Atlassian Patches 75 Flaws in Data Center and Server Products",
-            "link": "https://www.securityweek.com/atlassian-patches-75-third-party-flaws-in-data-center-and-server-products/",
-            "summary": "",
-            "published_utc": "2026-10-23T07:54:47+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "PHP2Shell exposes the weakness in coordinated vulnerability disclosure",
             "link": "https://www.csoonline.com/article/4239359/php2shell-exposes-the-weakness-in-coordinated-vulnerability-disclosure-2.html",
             "summary": "",
             "published_utc": "2026-10-23T00:43:37+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Railway warns devs to rotate secrets after potential breach",
-            "link": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
-            "summary": "Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variabl...",
-            "published_utc": "2026-10-22T21:25:31+00:00"
         },
         {
             "source": "CSO Online",
@@ -282,20 +394,6 @@
             "published_utc": "2026-10-22T20:29:05+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Capcom confirms data breach affecting 11.7 million accounts",
-            "link": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
-            "summary": "Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email add...",
-            "published_utc": "2026-10-22T20:22:45+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
-            "link": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
-            "summary": "Hackers compromised the LiteLLM project's PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and envi...",
-            "published_utc": "2026-10-22T19:12:51+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Security teams urged to center defense on the flaw profile attackers target most",
             "link": "https://www.csoonline.com/article/4239255/security-teams-urged-to-center-defense-on-the-single-profile-attackers-target-most.html",
@@ -303,25 +401,11 @@
             "published_utc": "2026-10-22T18:25:24+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
-            "summary": "Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deploym...",
-            "published_utc": "2026-10-22T17:18:22+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "Amazon’s Kindle Unlimited is now Kindle+, and the 2 big changes include AI audiobooks",
             "link": "https://www.zdnet.com/tech/kindle-unlimited-kindle-plus-audiobooks-ai/",
             "summary": "Unlike narrated audiobooks from Audible and other providers, the audiobooks created with Virtual Voice in Kindle+ will instead be narrated by AI.",
             "published_utc": "2026-10-22T15:55:55+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft shares how to fix broken Exchange Online EWS apps",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/",
-            "summary": "Microsoft says IT admins can re-enable the retired Exchange Web Services (EWS) API in Exchange Online to fix EWS apps that have stopped working. [...]",
-            "published_utc": "2026-10-22T15:49:32+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -350,6 +434,13 @@
             "link": "https://www.infosecurity-magazine.com/news/iranian-hacking-group-hosting-c2/",
             "summary": "Stealthy malware campaign by ‘Prince of Persia’ threat group targeting organisations worldwide discovered operating on American soil",
             "published_utc": "2026-10-22T13:05:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "LiteLLM release pipeline hacked to distribute credential-stealing malware",
+            "link": "https://www.csoonline.com/article/4239033/litellm-release-pipeline-hacked-to-distribute-credential-stealing-malware.html",
+            "summary": "",
+            "published_utc": "2026-10-22T12:07:08+00:00"
         },
         {
             "source": "CSO Online",
@@ -534,13 +625,6 @@
             "published_utc": "2026-10-21T11:00:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Google, Mozilla revoke eMudhra intermediates after private key compromise",
-            "link": "https://www.csoonline.com/article/4238338/google-mozilla-revoke-emudhra-intermediates-after-private-key-compromise.html",
-            "summary": "",
-            "published_utc": "2026-10-21T10:21:14+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Critical PHP Vulnerabilities Leaked Ahead of Scheduled Security Patches",
             "link": "https://www.infosecurity-magazine.com/news/critical-php-vulnerabilities-leaked/",
@@ -560,13 +644,6 @@
             "link": "https://www.infosecurity-magazine.com/news/children-data-stolen-password1/",
             "summary": "The ICO has slammed security failings by the Welsh local government data unit and IT service provider following the 2024 incident",
             "published_utc": "2026-10-21T09:05:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Moving past autonomous exploitation to machine-speed security",
-            "link": "https://www.csoonline.com/article/4237926/moving-past-autonomous-exploitation-to-machine-speed-security.html",
-            "summary": "",
-            "published_utc": "2026-10-21T09:00:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -807,20 +884,6 @@
             "published_utc": "2026-10-15T16:24:29+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Renting? These 2 new Apple smart home devices are worth your money (and these 5 are not)",
-            "link": "https://www.zdnet.com/home-and-office/is-the-apple-home-collection-right-for-renters/",
-            "summary": "Eyeing Apple’s new Home Collection products? Renters should check their lease agreement before installing.",
-            "published_utc": "2026-10-15T16:19:16+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Apple’s first touchscreen MacBook is days away – with another OLED surprise",
-            "link": "https://www.zdnet.com/tech/apple-touchscreen-macbook-oled-ipad-mini-october-event/",
-            "summary": "Apple reportedly set a date to unveil its new touchscreen MacBooks. Here’s what else we expect.",
-            "published_utc": "2026-10-15T16:18:57+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "France: Internet-Exposed Danfoss Controllers Drop 71% After Cyber-Attack",
             "link": "https://www.infosecurity-magazine.com/news/france-expose-danfoss-controllers/",
@@ -861,13 +924,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ico-reprimands-met-over-thirdparty/",
             "summary": "The ICO has handed the Metropolitan Police a reprimand and enforcement notice after privacy failings linked to the Auror platform",
             "published_utc": "2026-10-15T08:30:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Upcoming Speaking Engagements",
-            "link": "https://www.schneier.com/blog/archives/2026/10/upcoming-speaking-engagements-61.html",
-            "summary": "",
-            "published_utc": "2026-10-14T16:02:17+00:00"
         },
         {
             "source": "KrebsOnSecurity",
@@ -1822,13 +1878,6 @@
             "published_utc": "2026-09-19T09:00:00+00:00"
         },
         {
-            "source": "WIRED Security",
-            "title": "Flock Offers Employees Buyouts as Customers Flee",
-            "link": "https://www.wired.com/story/flock-is-offering-voluntary-buyouts-to-employees/",
-            "summary": "As dozens of cities end contracts for its controversial license plate readers, Flock is rolling out a voluntary severance program, WIRED has learned.",
-            "published_utc": "2026-09-19T02:22:54+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "New Settra Ransomware Variant Deployed in Attacks on Retail and Manufacturing",
             "link": "https://www.infosecurity-magazine.com/news/settra-ransomware-retail/",
@@ -2725,46 +2774,11 @@
             "published_utc": "2026-08-17T11:15:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "SafePal Data Breach Hits Tens of Thousands of Customers",
-            "link": "https://www.infosecurity-magazine.com/news/safepal-data-breach-tens-thousands/",
-            "summary": "Nearly 40,000 customers of hardware wallet provider SafePal have been impacted by a data breach",
-            "published_utc": "2026-08-17T09:10:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "How QR-code phishing can slip past corporate security measures",
             "link": "https://www.welivesecurity.com/en/business-security/qr-code-phishing-slip-past-corporate-security-measures/",
             "summary": "Quishing has become a popular alternative to traditional phishing. Here’s how businesses can close the gap.",
             "published_utc": "2026-08-17T09:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Infostealers Harvest 1.7 Billion Credentials in Six Months",
-            "link": "https://www.infosecurity-magazine.com/news/infostealers-17-billion/",
-            "summary": "Flashpoint data reveals infostealers were responsible for taking 1.7 billion credentials in the first half of 2026",
-            "published_utc": "2026-08-17T07:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Researchers Confirm ExfilSquad’s Access to Sensitive Data Across 13 Organizations",
-            "link": "https://www.infosecurity-magazine.com/news/exfilsquads-13-organizations/",
-            "summary": "Researchers have verified that ExfilSquad possesses sensitive data stolen from at least 13 victims after the extortion group published leaked datasets...",
-            "published_utc": "2026-08-14T14:49:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "New Mirai-Based Linux Botnet ‘Evooo1Bot’ Turns Victims Into Proxies",
-            "link": "https://www.infosecurity-magazine.com/news/new-linux-botnet-evooo1bot-victims/",
-            "summary": "Evooo1Bot is a newly observed botnet based on the Mirai framework but equipped with advanced features, turning edge devices into persistent proxies",
-            "published_utc": "2026-08-14T13:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Novel macOS Infostealer AmnesiaStealer Spread via ClickFix",
-            "link": "https://www.infosecurity-magazine.com/news/macos-infostealer-spread-clickfix/",
-            "summary": "AmnesiaStealer contains novel functions, including the attackers gaining remote control over the victim’s browser to steal cookie data",
-            "published_utc": "2026-08-14T10:45:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
