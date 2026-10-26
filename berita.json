@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2026-10-26T16:34:34.718634+00:00",
+    "lastUpdatedUTC": "2026-10-26T21:25:23.831379+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Former pentester used ARTEX AI to steal 8.2 million data records",
+            "link": "https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/",
+            "summary": "South Korean police identified seven suspects linked to a cybercrime operation that breached more than 90 organizations in the country, with ARTEX AI ...",
+            "published_utc": "2026-10-26T21:08:28+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Apple’s iOS 27.2 update offers major Siri AI upgrades, dual camera support for FaceTime",
+            "link": "https://www.zdnet.com/tech/apple-ios-27-2-update-siri-ai-facetime-dual-cameras/",
+            "summary": "iOS 27.2 is the first major update for the current OS. Here’s what’s inside and what happened to iOS 27.1.",
+            "published_utc": "2026-10-26T20:52:35+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing",
+            "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/",
+            "summary": "OpenAI has launched GPT-6.1 Terra, a new model focused on computer use, visual reasoning, coding, and everyday work, while costing significantly less ...",
+            "published_utc": "2026-10-26T20:46:49+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Anthropic Files for Potentially the Biggest IPO Ever as CEO Warns of Risk to Humanity From AI",
+            "link": "https://www.securityweek.com/anthropic-files-for-potentially-the-biggest-ipo-ever-as-ceo-warns-of-risk-to-humanity-from-ai/",
+            "summary": "",
+            "published_utc": "2026-10-26T20:20:56+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "DreamHost forces password resets in ongoing \"incident\"",
+            "link": "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/",
+            "summary": "DreamHost has forced password resets for email and FTP/SFTP users following an incident that disrupted connections to the File Manager interface. [...]",
+            "published_utc": "2026-10-26T19:26:20+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Github competitor Entire is live now – how the agent-first platform works",
+            "link": "https://www.zdnet.com/innovation/enitre-github-competitor-trail-git-forge/",
+            "summary": "Now that agents are writing so much code, Entire is trying to reinvent the coding platform itself.",
+            "published_utc": "2026-10-26T17:00:04+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches",
@@ -289,13 +331,6 @@
             "published_utc": "2026-10-23T15:54:22+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "PHP shares mitigation for new RCE vulnerability with no patch",
-            "link": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
-            "summary": "The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default configuration...",
-            "published_utc": "2026-10-23T15:38:05+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Meta hit with $25 billion fine for illegally sharing user data",
             "link": "https://www.csoonline.com/article/4239754/meta-hit-with-25-billion-fine-for-illegally-sharing-user-data-2.html",
@@ -308,27 +343,6 @@
             "link": "https://www.zdnet.com/tech/php2shell-php-patch-mitigation-critical-exploit/",
             "summary": "The PHP Project provides instructions to stop further RCE exploits in limited settings.",
             "published_utc": "2026-10-23T15:09:47+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware",
-            "link": "https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/",
-            "summary": "",
-            "published_utc": "2026-10-23T14:23:37+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "You gave your AI agent access, but who is giving it orders?",
-            "link": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
-            "summary": "AI agents can be manipulated through malicious emails, websites, and plugins into executing commands, stealing data, or deleting files using their leg...",
-            "published_utc": "2026-10-23T14:00:10+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "HPE patches eight max severity RCE and auth bypass AOS flaws",
-            "link": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
-            "summary": "Hewlett Packard Enterprise (HPE) released security updates to patch 72 vulnerabilities in the Aruba Operating System (ArubaOS), including eight maximu...",
-            "published_utc": "2026-10-23T12:48:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -828,25 +842,11 @@
             "published_utc": "2026-10-16T17:10:27+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Want an iPhone Duo before 2027? Don’t preorder from Apple – try this instead",
-            "link": "https://www.zdnet.com/tech/iphone-duo-preorders-delay-supply/",
-            "summary": "Estimates for Duo preorders are now showing a ship date of late January, marking a new wait time record for Apple and its customers.",
-            "published_utc": "2026-10-16T16:44:50+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Ransomware Gangs Increasingly Turn to Threats of Physical Violence to Extort Payments",
             "link": "https://www.infosecurity-magazine.com/news/ransomware-threats-physical/",
             "summary": "New report warns that threats of violence against employees of organizations hit by ransomware are on the rise as attackers find new ways to guarantee...",
             "published_utc": "2026-10-16T13:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How many jobs is your state losing to AI? This dashboard tracks the cuts – and the cost",
-            "link": "https://www.zdnet.com/innovation/ai-job-cuts-wage-loss-by-state-tracker/",
-            "summary": "CAIS’ Wage Loss Dashboard puts AI-related job cuts into dollars and cents.",
-            "published_utc": "2026-10-16T11:47:39+00:00"
         },
         {
             "source": "Schneier",
