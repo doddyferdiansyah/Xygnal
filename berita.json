@@ -1,6 +1,118 @@
 {
-    "lastUpdatedUTC": "2026-10-27T14:04:10.854071+00:00",
+    "lastUpdatedUTC": "2026-10-27T19:52:09.233771+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "Why this new Fitbit feature takes us one step closer to non-invasive glucose tracking",
+            "link": "https://www.zdnet.com/tech/fitbit-glucose-patterns-blood-pressure-health-features/",
+            "summary": "Insulin resistance and blood pressure trends are now available on two new Fitbit devices.",
+            "published_utc": "2026-10-27T19:03:07+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft releases Windows OOB updates to distrust eMudhra certificates",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-oob-updates-to-distrust-emudhra-certificates/",
+            "summary": "Microsoft has released out-of-band (OOB) Windows updates to remove trust in certificates tied to compromised eMudhra certificate authority keys, prote...",
+            "published_utc": "2026-10-27T18:20:28+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Netflix now, Hulu later? T-Mobile’s T-Mix plans let you switch perks – what you need to know",
+            "link": "https://www.zdnet.com/home-and-office/t-mobile-t-mix-plans-switch-perks/",
+            "summary": "T-Mobile’s new T-Mix plans deliver tons of extras ranging from streaming to mobile discounts, but there are some caveats to know.",
+            "published_utc": "2026-10-27T18:18:01+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Windows finally gets a built-in internet speed test tool – how to try it",
+            "link": "https://www.zdnet.com/tech/microsoft-is-finally-adding-an-integrated-network-speed-test-tool-to-windows-how-to-try-it/",
+            "summary": "Available to Windows Insiders, the built-in tool measures your upload and download speeds over Ethernet or Wi-Fi.",
+            "published_utc": "2026-10-27T16:59:12+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "This tool can recover deleted AI chats from your phone – how it works",
+            "link": "https://www.zdnet.com/innovation/orisa-tool-recovers-deleted-local-ai-chats-android-phones/",
+            "summary": "This new tool proves it’s still best to limit the info you share with chatbots.",
+            "published_utc": "2026-10-27T16:55:54+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Cyber Incident Forces UNM Health to Cancel Surgeries, Divert Ambulances",
+            "link": "https://www.infosecurity-magazine.com/news/cyber-unmhealth-surgeries/",
+            "summary": "The University of New Mexico is working to restore systems following the incident, which has been claimed by the BYOD ransomware group",
+            "published_utc": "2026-10-27T16:45:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Warp discloses breach exposing AI agent logs, user telemetry data",
+            "link": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
+            "summary": "Agent decision logs and telemetry data belonging to Warp agentic development environment users were exposed in an attack on a third-party vendor in th...",
+            "published_utc": "2026-10-27T16:15:39+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The new iPad Mini’s best upgrade has nothing to do with its flashy OLED screen",
+            "link": "https://www.zdnet.com/tech/ipad-mini-upgrade-ip67-rating-kids/",
+            "summary": "Apple’s newest Mini is the first iPad ever with an IP67 rating for dust and water resistance.",
+            "published_utc": "2026-10-27T16:09:01+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Hackers Infect 953 Online Stores With Scanner-Evading Code",
+            "link": "https://www.infosecurity-magazine.com/news/hackers-infect-953-online-stores/",
+            "summary": "Attackers have infected 953 online stores with a scanner-evading JavaScript loader since July 2025",
+            "published_utc": "2026-10-27T16:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "OpenAI Compaction Flaw Exposed AI Reasoning to Researchers",
+            "link": "https://www.infosecurity-magazine.com/news/openai-compaction-flaw-ai/",
+            "summary": "Researchers uncovered an OpenAI API flaw that exposed hidden AI reasoning traces, prompting a fix and a $6000 bug bounty reward",
+            "published_utc": "2026-10-27T16:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Apple’s M6 iMac has arrived – here’s what’s changed since the M4",
+            "link": "https://www.zdnet.com/tech/apple-imac-m6-vs-m4-whats-new/",
+            "summary": "Apple’s colorful all-in-one gets its first refresh in two years. Here’s what you get for the $1,499 starting price.",
+            "published_utc": "2026-10-27T15:42:32+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "A fake TikTok shop is Surfshark’s most-blocked phishing scam – how to steer clear",
+            "link": "https://www.zdnet.com/tech/fake-tiktok-shop-phishing-scam-surfshark/",
+            "summary": "Blocked phishing attempts rose 83% in six months, according to Surfshark, largely due to one TikTok shop. Here’s how to spot the red flags.",
+            "published_utc": "2026-10-27T15:30:38+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Tailscale Rushes Patches After Uncoordinated Disclosure of ‘Tailworm’ Flaws",
+            "link": "https://www.securityweek.com/tailscale-rushes-patches-after-uncoordinated-disclosure-of-tailworm-flaws/",
+            "summary": "",
+            "published_utc": "2026-10-27T15:26:12+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "ISC2 Launches Cyber-AI Workforce Coalition to Address the Future of AI Security Jobs",
+            "link": "https://www.infosecurity-magazine.com/news/isc2-launches-cyberai-workforce/",
+            "summary": "ISC2’s new Cyber-AI Workforce Coalition serves as a “vendor-neutral convener” to map the future of AI security careers, ISC2 CEO Scott Beale told Info...",
+            "published_utc": "2026-10-27T15:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Tailscale warns of SSH flaws allowing root privilege escalation",
+            "link": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
+            "summary": "The Tailscale security team is working to patch almost a dozen security vulnerabilities that could be exploited to steal credentials, crash servers, g...",
+            "published_utc": "2026-10-27T14:09:46+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest",
+            "link": "https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/",
+            "summary": "Attackers are increasingly abusing legitimate IT tools, Microsoft 365 sessions, and everyday workflows to compromise businesses without triggering tra...",
+            "published_utc": "2026-10-27T14:01:11+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Vendor Key Leak Puts Data of 238,000 Denver Health Plan Members at Risk",
@@ -191,13 +303,6 @@
             "published_utc": "2026-10-26T20:46:49+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Anthropic Files for Potentially the Biggest IPO Ever as CEO Warns of Risk to Humanity From AI",
-            "link": "https://www.securityweek.com/anthropic-files-for-potentially-the-biggest-ipo-ever-as-ceo-warns-of-risk-to-humanity-from-ai/",
-            "summary": "",
-            "published_utc": "2026-10-26T20:20:56+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "DreamHost forces password resets in ongoing \"incident\"",
             "link": "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/",
@@ -317,25 +422,11 @@
             "published_utc": "2026-10-26T10:35:08+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Kali Linux 2026.3 released with 6 new tools, desktop updates",
-            "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
-            "summary": "Kali Linux has released version 2026.3, its third release this year, featuring six new hacking tools, desktop environment improvements, refreshed buil...",
-            "published_utc": "2026-10-26T10:26:52+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Blue Initiative Offers Maritime Sector Dedicated Vulnerability Database",
             "link": "https://www.infosecurity-magazine.com/news/blue-initiative-maritime/",
             "summary": "Blue Initiative launches a new vulnerability database for IT and OT CVEs relevant to the maritime industry",
             "published_utc": "2026-10-26T10:15:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
-            "link": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
-            "summary": "Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wil...",
-            "published_utc": "2026-10-26T09:19:57+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -364,20 +455,6 @@
             "link": "https://www.csoonline.com/article/4240151/bright-security-introduces-star-fuzzer-agentic-fuzzing-that-writes-its-own-harnesses-and-proves-every-finding.html",
             "summary": "",
             "published_utc": "2026-10-26T07:52:46+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
-            "link": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
-            "summary": "Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogu...",
-            "published_utc": "2026-10-25T15:49:38+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
-            "link": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
-            "summary": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and...",
-            "published_utc": "2026-10-24T14:17:32+00:00"
         },
         {
             "source": "WIRED Security",
@@ -716,25 +793,11 @@
             "published_utc": "2026-10-21T09:05:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Gemini on Android Auto can access my photos, emails, and calendar now – why I’m OK with that (mostly)",
-            "link": "https://www.zdnet.com/tech/gemini-on-android-auto-can-look-through-my-photos-emails-and-calendar-now-im-cautiously-optimistic/",
-            "summary": "The latest Android Auto update lets the AI assistant tap into your Google services for context-based responses.",
-            "published_utc": "2026-10-20T20:00:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Head of AI Security Roles Surge in Large Organizations",
             "link": "https://www.infosecurity-magazine.com/news/head-ai-security-roles/",
             "summary": "A new IANS report has found that despite the growth of the head of AI security role, accountability for AI governance in firms remains unsettled",
             "published_utc": "2026-10-20T14:40:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Latest Windows update disables key security setting – but there’s a workaround",
-            "link": "https://www.zdnet.com/tech/microsoft-october-windows-update-disables-security-setting-workaround/",
-            "summary": "A bug in Microsoft’s October Windows update prevents you from turning on a security setting that blocks malicious or suspicious apps. A Registry hack ...",
-            "published_utc": "2026-10-20T14:26:05+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -758,13 +821,6 @@
             "published_utc": "2026-10-20T11:03:13+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "TechPulse puts ZDNET and 4 other tech sites in one feed – for free",
-            "link": "https://www.zdnet.com/tech/techpulse-free-tech-news-app-zdnet/",
-            "summary": "Choose which CNET Group publications appear in your feed, then catch up on news, reviews, and videos – without an algorithm deciding what you see.",
-            "published_utc": "2026-10-20T11:00:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Siemens Customers Targeted by ClickFix Attackers Exploiting DLL Side-Loading Flaw",
             "link": "https://www.infosecurity-magazine.com/news/siemens-clickfix-exploiting-side/",
@@ -784,13 +840,6 @@
             "link": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
             "summary": "A judge ordered Abdulrahman Alfozan to remain in custody, likening the Saudi government’s offer to secure the former OpenAI engineer’s release to a “b...",
             "published_utc": "2026-10-19T19:49:17+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How to find Flock cameras near you with MapQuest’s new ‘surveillance layer’",
-            "link": "https://www.zdnet.com/tech/how-to-find-flock-cameras-nearby-mapquest-surveillance-layer/",
-            "summary": "A name from the past is emerging again to help you stay out of sight of surveillance cameras.",
-            "published_utc": "2026-10-19T16:59:56+00:00"
         },
         {
             "source": "WIRED Security",
@@ -849,13 +898,6 @@
             "published_utc": "2026-10-19T10:00:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Plug-in solar is legal in these 10 states now – how it could save you money",
-            "link": "https://www.zdnet.com/uncategorized/plug-in-solar-balcony-solar-legalization-2026/",
-            "summary": "So-called balcony solar setups are becoming legal across the US. Here’s the latest.",
-            "published_utc": "2026-10-17T13:00:00+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "Encryption Is Getting Squeezed From All Sides",
             "link": "https://www.wired.com/story/kernel-panic-encryption-is-getting-squeezed-from-all-sides/",
@@ -870,25 +912,11 @@
             "published_utc": "2026-10-16T21:06:47+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Have a Meta business account? You’re consenting to AI scraping now, legal experts say",
-            "link": "https://www.zdnet.com/business/meta-business-account-data-ai-scraping-terms/",
-            "summary": "And there’s no opt-out available.",
-            "published_utc": "2026-10-16T19:36:02+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "Chicago-Area Cops Helped HSI Spy on Minnesota Anti-ICE Activists",
             "link": "https://www.wired.com/story/chicago-area-cops-helped-hsi-spy-on-minnesota-anti-ice-activists/",
             "summary": "Despite Illinois’ sanctuary laws, local police in and around Chicago helped ICE investigative agents track activists engaged in First Amendment–protec...",
             "published_utc": "2026-10-16T18:21:54+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Munich dumps proprietary for open source (again) – but no Linux desktop",
-            "link": "https://www.zdnet.com/business/munich-proprietary-open-source-no-linux-desktop/",
-            "summary": "Open source in the public sector doesn’t fail because of technical issues. It  fails because it’s not aligned with the political agenda",
-            "published_utc": "2026-10-16T17:11:35+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2751,34 +2779,6 @@
             "link": "https://www.infosecurity-magazine.com/news/wiz-ai-agent-finds-snowflake/",
             "summary": "The security flaw in Snowflake’s GitHub Actions workflow had been missed by a GitHub Advanced Security scan, said a Wiz researcher",
             "published_utc": "2026-08-18T15:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Enterprise Applications Carry 4.31x More Critical and High Vulnerabilities",
-            "link": "https://www.infosecurity-magazine.com/news/enterprise-apps-critical-high/",
-            "summary": "Enterprise software creation has accelerated as vulnerability levels rise, Sonatype finds",
-            "published_utc": "2026-08-18T15:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "NASA Ground Control Software Flaw Enables Unauthenticated Commands",
-            "link": "https://www.infosecurity-magazine.com/news/nasa-ground-control-software-flaw/",
-            "summary": "Critical AIT-GUI flaws expose spacecraft commands and scripts to unauthenticated attackers",
-            "published_utc": "2026-08-18T14:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Cyber Incident Disrupts Student Services at UT San Antonio",
-            "link": "https://www.infosecurity-magazine.com/news/cyber-incident-ut-san-antonio/",
-            "summary": "UT San Antonio has taken IT systems offline following a cyber incident, disrupting student registration and tuition payments days before term is due t...",
-            "published_utc": "2026-08-18T11:20:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Three-quarters of Ransomware Attacks Target Mid-Market Firms",
-            "link": "https://www.infosecurity-magazine.com/news/threequarters-ransomware-attacks/",
-            "summary": "Black Kite finds mid-market is the sweet spot for ransomware as manufacturers are most likely to be hit",
-            "published_utc": "2026-08-18T10:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
