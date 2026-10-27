@@ -1,6 +1,146 @@
 {
-    "lastUpdatedUTC": "2026-10-27T07:25:14.032574+00:00",
+    "lastUpdatedUTC": "2026-10-27T14:04:10.854071+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Vendor Key Leak Puts Data of 238,000 Denver Health Plan Members at Risk",
+            "link": "https://www.securityweek.com/vendor-key-leak-puts-data-of-238000-denver-health-plan-members-at-risk/",
+            "summary": "",
+            "published_utc": "2026-10-27T13:30:28+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "UK Politician Jess Asato Got Deepfaked. Now She’s Taking xAI to Court",
+            "link": "https://www.wired.com/story/the-big-interview-podcast-jess-asato/",
+            "summary": "Jess Asato’s public campaigning for victims of online abuse put her in the crosshairs of Grok’s deepfake scandal. Then the UK member of parliament bec...",
+            "published_utc": "2026-10-27T13:29:41+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "HPE Patches Dozens of Critical Flaws in Networking Products",
+            "link": "https://www.securityweek.com/hpe-patches-dozens-of-critical-flaws-in-networking-products/",
+            "summary": "",
+            "published_utc": "2026-10-27T13:13:58+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Node2Shell puts Microsoft and Node.js on Brotli patch duty",
+            "link": "https://www.csoonline.com/article/4241027/node2shell-puts-microsoft-and-node-js-on-brotli-patch-duty.html",
+            "summary": "",
+            "published_utc": "2026-10-27T12:34:55+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Attackers Exploit Teams External Chat to Breach Organizations in Under 15 Minutes",
+            "link": "https://www.infosecurity-magazine.com/news/exploit-teams-chat-breach/",
+            "summary": "Arctic Wolf warned that the function enables highly effective social engineering attacks, which lead to incidents such as ransomware",
+            "published_utc": "2026-10-27T12:30:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I tried Windows 11’s customizable right-click menu – and it’s a much-needed change",
+            "link": "https://www.zdnet.com/tech/windows-11-customizable-right-click-menu/",
+            "summary": "The latest Windows Insider build lets you add, remove, and manage commands in the right-click menu so it’s less crowded and confusing.",
+            "published_utc": "2026-10-27T12:17:55+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Unexplained DreamHost Incident Prompts Email, FTP Password Resets",
+            "link": "https://www.securityweek.com/unexplained-dreamhost-incident-prompts-email-ftp-password-resets/",
+            "summary": "",
+            "published_utc": "2026-10-27T12:02:06+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "iOS, macOS 27.2 Patch 286 Bugs; Fix for Exploited Flaw Backported to iOS 18",
+            "link": "https://www.securityweek.com/ios-macos-27-2-patch-286-bugs-fix-for-exploited-flaw-backported-to-ios-18/",
+            "summary": "",
+            "published_utc": "2026-10-27T11:49:57+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Alibaba AI model tried to send data to Beijing server, Cohere says",
+            "link": "https://www.csoonline.com/article/4240972/alibaba-ai-model-tried-to-send-data-to-beijing-server-cohere-says.html",
+            "summary": "",
+            "published_utc": "2026-10-27T11:05:24+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Hiding Capabilities in AI Models",
+            "link": "https://www.schneier.com/blog/archives/2026/10/hiding-capabilities-in-ai-models.html",
+            "summary": "",
+            "published_utc": "2026-10-27T11:01:26+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Copenhagen University Breach Compromises Data on Half a Million People",
+            "link": "https://www.infosecurity-magazine.com/news/copenhagen-university-data-breach/",
+            "summary": "Hackers have stolen personal information on over 520,000 people from the University of Copenhagen",
+            "published_utc": "2026-10-27T11:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Risks Spelled Out for Anthropic Investors Include Possible Harms From Runaway AI",
+            "link": "https://www.securityweek.com/risks-spelled-out-for-anthropic-investors-include-possible-harms-from-runaway-ai/",
+            "summary": "",
+            "published_utc": "2026-10-27T10:44:20+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Apple backports CoreGraphics zero-day patches to older iPhones",
+            "link": "https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/",
+            "summary": "​Apple has backported security patches released last month to older iPhones and iPads, addressing a zero-day bug exploited in \"extremely sophisticated...",
+            "published_utc": "2026-10-27T10:36:12+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "First ISC2 AI Security Certification Expected for Early 2027",
+            "link": "https://www.infosecurity-magazine.com/news/first-isc2-ai-security/",
+            "summary": "ISC2 is seeking 3000 volunteers to enrol to a pilot exam phase for its upcoming AI security certification",
+            "published_utc": "2026-10-27T10:30:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "This is Fine: What NetScaler Zero-Days Tell Us About the New Normal",
+            "link": "https://www.securityweek.com/this-is-fine-what-netscaler-zero-days-tell-us-about-the-new-normal/",
+            "summary": "",
+            "published_utc": "2026-10-27T10:02:24+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Dead Popcorn Time Updater Put Millions of Computers at Risk of Takeover",
+            "link": "https://www.securityweek.com/dead-popcorn-time-updater-put-millions-of-computers-at-risk-of-takeover/",
+            "summary": "",
+            "published_utc": "2026-10-27T09:44:50+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Watchdog Urges Police and Fire Service to Improve Cybersecurity",
+            "link": "https://www.infosecurity-magazine.com/news/watchdog-police-fire-service/",
+            "summary": "UK police forces and fire and rescue services have been urged to strengthen cybersecurity as rising cyber threats outpace current defenses",
+            "published_utc": "2026-10-27T09:39:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Energy giant ENGIE discloses data breach affecting customers",
+            "link": "https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/",
+            "summary": "French energy giant ENGIE, one of the world's largest power and natural gas providers, confirmed that attackers stole customer data after breaching a ...",
+            "published_utc": "2026-10-27T09:25:50+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "The days of assuming another company’s breach is someone else’s problem are over",
+            "link": "https://www.csoonline.com/article/4240612/the-days-of-assuming-another-companys-breach-is-someone-elses-problem-are-over.html",
+            "summary": "",
+            "published_utc": "2026-10-27T08:25:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "CISA confirms PHP2Shell vulnerabilities now exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/",
+            "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the PHP2Shell  vulnerabilities to its catalog of actively exploited securit...",
+            "published_utc": "2026-10-27T08:20:54+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Maritime Coalition Launches Free Vulnerability Database for Ship and Port Systems",
@@ -114,27 +254,6 @@
             "published_utc": "2026-10-26T15:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Industrial Vendors Check Products for PHP2Shell Vulnerabilities",
-            "link": "https://www.securityweek.com/industrial-vendors-check-products-for-php2shell-vulnerabilities/",
-            "summary": "",
-            "published_utc": "2026-10-26T14:52:14+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Genesys Hack Exposes Customer Data From Internal Systems",
-            "link": "https://www.securityweek.com/genesys-hack-exposes-customer-data-from-internal-systems/",
-            "summary": "",
-            "published_utc": "2026-10-26T14:40:48+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Stolen AI Reasoning Could Help China Build Cheaper Rivals",
-            "link": "https://www.securityweek.com/stolen-ai-reasoning-could-help-china-build-cheaper-rivals/",
-            "summary": "",
-            "published_utc": "2026-10-26T14:30:09+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "The US Government Is Hiding a Secret Court Ruling About How It Spies on Americans",
             "link": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
@@ -163,18 +282,11 @@
             "published_utc": "2026-10-26T13:56:44+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "PHP2Shell Exploitation Moves From Probes to Working Shells",
-            "link": "https://www.securityweek.com/php2shell-exploitation-moves-from-probes-to-working-shells/",
-            "summary": "",
-            "published_utc": "2026-10-26T13:30:10+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "953 Online Stores Infected in Long-Lasting Malware Campaign",
-            "link": "https://www.securityweek.com/953-online-stores-infected-in-long-lasting-malware-campaign/",
-            "summary": "",
-            "published_utc": "2026-10-26T12:46:44+00:00"
+            "source": "WeLiveSecurity",
+            "title": "PHP2Shell: What to know about two critical PHP flaws",
+            "link": "https://www.welivesecurity.com/en/videos/php2shell-what-know-two-critical-php-flaws/",
+            "summary": "Here's the lowdown on CVE-2026-109618 and CVE-2026-109619, as well as what website owners and IT teams should do to stay safe – all in a little more t...",
+            "published_utc": "2026-10-26T13:25:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -189,13 +301,6 @@
             "link": "https://www.csoonline.com/article/4240279/openai-anthropic-disclosures-spotlight-growing-ai-containment-challenge.html",
             "summary": "",
             "published_utc": "2026-10-26T11:57:21+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Dutch Police Arrest Two Over NFC Relay Attacks That Drained $400,000+ From Bank Accounts",
-            "link": "https://www.securityweek.com/dutch-police-arrest-two-over-nfc-relay-attacks-that-drained-400000/",
-            "summary": "",
-            "published_utc": "2026-10-26T11:47:52+00:00"
         },
         {
             "source": "Schneier",
@@ -217,13 +322,6 @@
             "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
             "summary": "Kali Linux has released version 2026.3, its third release this year, featuring six new hacking tools, desktop environment improvements, refreshed buil...",
             "published_utc": "2026-10-26T10:26:52+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Node2Shell: Brotli Flaw Triggers Patching Across Microsoft, Node.js, Python Packages",
-            "link": "https://www.securityweek.com/node2shell-brotli-flaw-triggers-patching-across-microsoft-node-js-python-packages/",
-            "summary": "",
-            "published_utc": "2026-10-26T10:21:57+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -296,32 +394,11 @@
             "published_utc": "2026-10-23T21:00:09+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
-            "summary": "Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security...",
-            "published_utc": "2026-10-23T20:55:05+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
-            "summary": "Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]",
-            "published_utc": "2026-10-23T18:54:41+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Oracle patches 1295 security vulnerabilities in October, including six scoring 10.0",
             "link": "https://www.csoonline.com/article/4239850/oracle-patches-1295-security-vulnerabilities-in-october-including-six-scoring-10-0-2.html",
             "summary": "",
             "published_utc": "2026-10-23T17:59:13+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft: Windows Server 2016 reaches end of support in January",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/",
-            "summary": "Microsoft says Windows Server 2016 will stop receiving security updates after it reaches the end of support in January 2027. [...]",
-            "published_utc": "2026-10-23T17:05:07+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -518,27 +595,6 @@
             "link": "https://www.zdnet.com/tech/waze-your-way-to-a-different-default-map-app-on-pixel/",
             "summary": "If you’re tired of Google Maps failing to get you where you need to go, set Waze as the default on your Pixel. I’ve finally figured out how.",
             "published_utc": "2026-10-22T01:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "OpenAI’s models are deliberately breaking their misalignment monitoring systems",
-            "link": "https://www.csoonline.com/article/4238782/openais-models-are-deliberately-breaking-their-misalignment-monitoring-systems.html",
-            "summary": "",
-            "published_utc": "2026-10-21T23:47:34+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Two critical PHP flaws put the web on alert as emergency patches arrive",
-            "link": "https://www.csoonline.com/article/4238692/two-critical-php-flaws-put-the-web-on-alert-as-emergency-patches-arrive.html",
-            "summary": "",
-            "published_utc": "2026-10-21T21:27:26+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Microsoft: Treat AI agents as insider threats",
-            "link": "https://www.csoonline.com/article/4238693/microsoft-treat-ai-agents-as-insider-threats.html",
-            "summary": "",
-            "published_utc": "2026-10-21T20:54:06+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -835,13 +891,6 @@
             "published_utc": "2026-10-16T17:11:35+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Anthropic gives third-party auditors ’employee-like access’ in AI industry first",
-            "link": "https://www.zdnet.com/uncategorized/anthropic-embed-third-party-ai-auditors-safety/",
-            "summary": "As AI labs continue to self-regulate, external evaluators play a crucial role in spotting risks.",
-            "published_utc": "2026-10-16T17:10:27+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Ransomware Gangs Increasingly Turn to Threats of Physical Violence to Extort Payments",
             "link": "https://www.infosecurity-magazine.com/news/ransomware-threats-physical/",
@@ -875,13 +924,6 @@
             "link": "https://www.welivesecurity.com/en/cybersecurity/inbox-flooded-signup-messages-email-bombing/",
             "summary": "If you’re suddenly being overwhelmed with sign-up emails, it could very well be a sign of something more serious",
             "published_utc": "2026-10-16T09:00:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Measuring Human Cryptanalysis Effort",
-            "link": "https://www.schneier.com/blog/archives/2026/10/measuring-human-cryptanalysis-effort.html",
-            "summary": "",
-            "published_utc": "2026-10-15T16:24:29+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1871,13 +1913,6 @@
             "published_utc": "2026-09-19T11:00:00+00:00"
         },
         {
-            "source": "WIRED Security",
-            "title": "6 Best VPN Services (2026), Tested and Reviewed",
-            "link": "https://www.wired.com/gallery/best-vpn/",
-            "summary": "Every VPN says it’s the best, but only some of them are telling the truth.",
-            "published_utc": "2026-09-19T09:00:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "New Settra Ransomware Variant Deployed in Attacks on Retail and Manufacturing",
             "link": "https://www.infosecurity-magazine.com/news/settra-ransomware-retail/",
@@ -2746,34 +2781,6 @@
             "published_utc": "2026-08-18T10:00:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "UK Legal Regulator Raises AI Misuse Concerns",
-            "link": "https://www.infosecurity-magazine.com/news/uk-legal-regulator-raises-ai/",
-            "summary": "Solicitors Regulation Authority sounds the alarm over AI hallucinations and data leaks",
-            "published_utc": "2026-08-18T08:17:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "UNISOC Modem Flaw Enables Remote Code Execution via Video Calls",
-            "link": "https://www.infosecurity-magazine.com/news/unisoc-modem-flaw-rce-calls/",
-            "summary": "UNISOC modem flaw enabled kernel-level code execution through video calls",
-            "published_utc": "2026-08-17T15:45:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "WordPress Plugin Flaw Exposes 40,000 Sites to Admin Takeover",
-            "link": "https://www.infosecurity-magazine.com/news/wordpress-plugin-flaw-40000-sites/",
-            "summary": "Critical User Profile Builder flaw let unauthenticated attackers access administrator accounts",
-            "published_utc": "2026-08-17T13:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "ETSI Proposes 17 Cybersecurity Standards to Support Cyber Resilience Act",
-            "link": "https://www.infosecurity-magazine.com/news/etsi-proposes-17-cybersecurity/",
-            "summary": "The European Telecommunications Standards Institute has launched an approval process for standards vendors will have to meet under the Cyber Resilienc...",
-            "published_utc": "2026-08-17T11:15:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "How QR-code phishing can slip past corporate security measures",
             "link": "https://www.welivesecurity.com/en/business-security/qr-code-phishing-slip-past-corporate-security-measures/",
@@ -3283,13 +3290,6 @@
             "link": "https://www.welivesecurity.com/en/scams/common-apple-pay-scams-how-stay-safe/",
             "summary": "Here’s how the most common scams targeting Apple Pay users work and what you can do to stay one step ahead",
             "published_utc": "2026-01-22T10:00:00+00:00"
-        },
-        {
-            "source": "WeLiveSecurity",
-            "title": "Old habits die hard: 2025’s most common passwords were as predictable as ever",
-            "link": "https://www.welivesecurity.com/en/cybersecurity/old-habits-die-hard-2025-most-common-passwords/",
-            "summary": "Once again, data shows an uncomfortable truth: the habit of choosing eminently hackable passwords is alive and well",
-            "published_utc": "2026-01-20T10:00:00+00:00"
         },
         {
             "source": "Threatpost",
