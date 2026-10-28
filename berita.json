@@ -1,6 +1,146 @@
 {
-    "lastUpdatedUTC": "2026-10-28T11:01:32.375439+00:00",
+    "lastUpdatedUTC": "2026-10-28T17:58:33.267646+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "Amazon’s Echo Show 16 makes Apple’s 7-inch HomeView look puny – is it worth $100+ extra?",
+            "link": "https://www.zdnet.com/home-and-office/amazon-echo-show-16-announced/",
+            "summary": "Amazon just dropped new smart home gear in response to Apple. Here’s how the Echo Show 16 stacks up.",
+            "published_utc": "2026-10-28T16:48:15+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Sony ISP subsidiary data breach exposes 2.5 million customer records",
+            "link": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/",
+            "summary": "Sony Network Communications has confirmed a data breach that compromised approximately 2.5 million records containing current and former customers' pe...",
+            "published_utc": "2026-10-28T16:45:47+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Opera will run AI locally in your browser now – why that’s a gamechanger and how to try it",
+            "link": "https://www.zdnet.com/innovation/opera-webai-local-ai-browser/",
+            "summary": "Thanks to the newly proposed WebAI web standard, the company will start shipping local AI models with its flagship browser.",
+            "published_utc": "2026-10-28T16:10:39+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Volt Typhoon hides zero-day attacks using 'Silent Train' framework",
+            "link": "https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/",
+            "summary": "Chinese state-sponsored hacking group Volt Typhoon has been using a framework that relies on rotating chains of connected devices compromised on deman...",
+            "published_utc": "2026-10-28T16:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Amazon’s new Echo Studio gives Alexa+ an AI camera to see inside your home",
+            "link": "https://www.zdnet.com/home-and-office/amazon-echo-studio-home-camera-2026-privacy-concerns/",
+            "summary": "The Echo Studio with Home Camera essentially equips Alexa+ with eyes to enable ‘visual intelligence’ features – but there’s a kill switch.",
+            "published_utc": "2026-10-28T15:26:34+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Samsung’s new clip-style Galaxy Buds On have a major advantage over Sony and Bose",
+            "link": "https://www.zdnet.com/tech/samsung-galaxy-buds-on-availability-price/",
+            "summary": "Advanced audio features are great, but ecosystem integration is better. Here’s how Samsung’s newest clip-on Buds compare to its rivals.",
+            "published_utc": "2026-10-28T15:09:12+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Ukrainian Hive and Nefilim Ransomware Affiliate Gets 70 Months in US Prison",
+            "link": "https://www.securityweek.com/ukrainian-hive-and-nefilim-ransomware-affiliate-gets-70-months-in-us-prison/",
+            "summary": "",
+            "published_utc": "2026-10-28T15:05:06+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft urges Entra ID admins to migrate users to passkeys",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/",
+            "summary": "Microsoft again asked Entra ID administrators to migrate users to phishing-resistant methods to avoid sign-in disruptions before it retires SMS and vo...",
+            "published_utc": "2026-10-28T14:48:32+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Amazon’s new Echo Dot can turn into a Wi-Fi extender – how it works",
+            "link": "https://www.zdnet.com/home-and-office/amazon-new-echo-dot-wi-fi-extender-smart-home-hub/",
+            "summary": "Amazon’s new Echo Dot includes a built-in Eero Wi-Fi extender, along with other smart home features.",
+            "published_utc": "2026-10-28T14:41:32+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "InfraTrust report warns of exploited flaws in critical network infrastructure",
+            "link": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
+            "summary": "Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as \"PHP2Shell\" put the web management in...",
+            "published_utc": "2026-10-28T14:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Upwind Security Raises $400 Million at $3.8 Billion Valuation",
+            "link": "https://www.securityweek.com/upwind-security-raises-400-million-at-3-8-billion-valuation/",
+            "summary": "",
+            "published_utc": "2026-10-28T13:56:50+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Even after PHP2Shell, blast radius matters more than a CVSS score",
+            "link": "https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/",
+            "summary": "PHP2Shell shows how quickly attackers can exploit critical vulnerabilities, often before organizations have time to patch. Token Security explains why...",
+            "published_utc": "2026-10-28T13:50:59+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Chrome and Firefox Updates Patch Over 200 Vulnerabilities",
+            "link": "https://www.securityweek.com/chrome-and-firefox-updates-patch-over-200-vulnerabilities/",
+            "summary": "",
+            "published_utc": "2026-10-28T13:39:35+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "TLS Flaws Found in GoAhead Web Server Used in Hundreds of Millions of Devices",
+            "link": "https://www.securityweek.com/tls-flaws-found-in-goahead-web-server-used-in-hundreds-of-millions-of-devices/",
+            "summary": "",
+            "published_utc": "2026-10-28T13:10:34+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Fake ChatGPT, Claude apps spread malware via signed AI binaries",
+            "link": "https://www.csoonline.com/article/4241634/fake-chatgpt-claude-apps-spread-malware-via-signed-ai-binaries.html",
+            "summary": "",
+            "published_utc": "2026-10-28T12:36:48+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers now scanning systems for recently-patched Oracle flaw",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/",
+            "summary": "Attackers have begun probing the Internet for systems unpatched against a recently disclosed critical Oracle E-Business Suite (EBS) vulnerability. [...]",
+            "published_utc": "2026-10-28T12:19:57+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Gheist turns GitHub Actions into a secret extraction service",
+            "link": "https://www.csoonline.com/article/4241625/gheist-turns-github-actions-into-a-secret-extraction-service.html",
+            "summary": "",
+            "published_utc": "2026-10-28T12:05:42+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "China-Linked Hackers Exploit PHP2Shell to Root Firewalls",
+            "link": "https://www.securityweek.com/china-linked-hackers-exploit-php2shell-to-root-firewalls/",
+            "summary": "",
+            "published_utc": "2026-10-28T12:00:59+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Trusting Unsloth’s trust setting could mean executing malicious code",
+            "link": "https://www.csoonline.com/article/4241619/trusting-unsloths-trust-setting-could-mean-executing-malicious-code.html",
+            "summary": "",
+            "published_utc": "2026-10-28T11:53:22+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Studying Fraudulent North Korean IT Workers",
+            "link": "https://www.schneier.com/blog/archives/2026/10/studying-fraudulent-north-korean-it-workers.html",
+            "summary": "",
+            "published_utc": "2026-10-28T11:05:00+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Long-Hidden Flaws Patched in EPICS Research Facility Control Software",
@@ -184,13 +324,6 @@
             "published_utc": "2026-10-27T15:30:38+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Tailscale Rushes Patches After Uncoordinated Disclosure of ‘Tailworm’ Flaws",
-            "link": "https://www.securityweek.com/tailscale-rushes-patches-after-uncoordinated-disclosure-of-tailworm-flaws/",
-            "summary": "",
-            "published_utc": "2026-10-27T15:26:12+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Tailscale warns of SSH flaws allowing root privilege escalation",
             "link": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
@@ -198,32 +331,11 @@
             "published_utc": "2026-10-27T14:09:46+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest",
-            "link": "https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/",
-            "summary": "Attackers are increasingly abusing legitimate IT tools, Microsoft 365 sessions, and everyday workflows to compromise businesses without triggering tra...",
-            "published_utc": "2026-10-27T14:01:11+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Vendor Key Leak Puts Data of 238,000 Denver Health Plan Members at Risk",
-            "link": "https://www.securityweek.com/vendor-key-leak-puts-data-of-238000-denver-health-plan-members-at-risk/",
-            "summary": "",
-            "published_utc": "2026-10-27T13:30:28+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "UK Politician Jess Asato Got Deepfaked. Now She’s Taking xAI to Court",
             "link": "https://www.wired.com/story/the-big-interview-podcast-jess-asato/",
             "summary": "Jess Asato’s public campaigning for victims of online abuse put her in the crosshairs of Grok’s deepfake scandal. Then the UK member of parliament bec...",
             "published_utc": "2026-10-27T13:29:41+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "HPE Patches Dozens of Critical Flaws in Networking Products",
-            "link": "https://www.securityweek.com/hpe-patches-dozens-of-critical-flaws-in-networking-products/",
-            "summary": "",
-            "published_utc": "2026-10-27T13:13:58+00:00"
         },
         {
             "source": "CSO Online",
@@ -240,20 +352,6 @@
             "published_utc": "2026-10-27T12:17:55+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Unexplained DreamHost Incident Prompts Email, FTP Password Resets",
-            "link": "https://www.securityweek.com/unexplained-dreamhost-incident-prompts-email-ftp-password-resets/",
-            "summary": "",
-            "published_utc": "2026-10-27T12:02:06+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "iOS, macOS 27.2 Patch 286 Bugs; Fix for Exploited Flaw Backported to iOS 18",
-            "link": "https://www.securityweek.com/ios-macos-27-2-patch-286-bugs-fix-for-exploited-flaw-backported-to-ios-18/",
-            "summary": "",
-            "published_utc": "2026-10-27T11:49:57+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Alibaba AI model tried to send data to Beijing server, Cohere says",
             "link": "https://www.csoonline.com/article/4240972/alibaba-ai-model-tried-to-send-data-to-beijing-server-cohere-says.html",
@@ -268,20 +366,6 @@
             "published_utc": "2026-10-27T11:01:26+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Apple backports CoreGraphics zero-day patches to older iPhones",
-            "link": "https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/",
-            "summary": "​Apple has backported security patches released last month to older iPhones and iPads, addressing a zero-day bug exploited in \"extremely sophisticated...",
-            "published_utc": "2026-10-27T10:36:12+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Energy giant ENGIE discloses data breach affecting customers",
-            "link": "https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/",
-            "summary": "French energy giant ENGIE, one of the world's largest power and natural gas providers, confirmed that attackers stole customer data after breaching a ...",
-            "published_utc": "2026-10-27T09:25:50+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "The days of assuming another company’s breach is someone else’s problem are over",
             "link": "https://www.csoonline.com/article/4240612/the-days-of-assuming-another-companys-breach-is-someone-elses-problem-are-over.html",
@@ -289,32 +373,11 @@
             "published_utc": "2026-10-27T08:25:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "CISA confirms PHP2Shell vulnerabilities now exploited in attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/",
-            "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the PHP2Shell  vulnerabilities to its catalog of actively exploited securit...",
-            "published_utc": "2026-10-27T08:20:54+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "OpenAI’s August fix for theft of reasoning traces was quickly bypassed",
             "link": "https://www.csoonline.com/article/4240662/openais-august-fix-for-theft-of-reasoning-traces-was-quickly-bypassed.html",
             "summary": "",
             "published_utc": "2026-10-27T03:22:50+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "University of Copenhagen data breach exposes data of 525,000 people",
-            "link": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
-            "summary": "The University of Copenhagen in Denmark confirmed that hackers accessed one of its test environments containing personal data belonging to 525,000 peo...",
-            "published_utc": "2026-10-26T22:20:36+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Former pentester used ARTEX AI to steal 8.2 million data records",
-            "link": "https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/",
-            "summary": "South Korean police identified seven suspects linked to a cybercrime operation that breached more than 90 organizations in the country, with ARTEX AI ...",
-            "published_utc": "2026-10-26T21:08:28+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -457,27 +520,6 @@
             "published_utc": "2026-10-23T10:34:39+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "The ‘Mythos moment’ has already passed. Now comes the hard part for cybersecurity",
-            "link": "https://www.csoonline.com/article/4239166/the-mythos-moment-has-already-passed-now-comes-the-hard-part-for-cybersecurity.html",
-            "summary": "",
-            "published_utc": "2026-10-23T09:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "The AI notetaker risk is now an everywhere problem",
-            "link": "https://www.csoonline.com/article/4239372/the-ai-notetaker-risk-is-now-an-everywhere-problem.html",
-            "summary": "",
-            "published_utc": "2026-10-23T08:25:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "PHP2Shell exposes the weakness in coordinated vulnerability disclosure",
-            "link": "https://www.csoonline.com/article/4239359/php2shell-exposes-the-weakness-in-coordinated-vulnerability-disclosure-2.html",
-            "summary": "",
-            "published_utc": "2026-10-23T00:43:37+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "Amazon’s Kindle Unlimited is now Kindle+, and the 2 big changes include AI audiobooks",
             "link": "https://www.zdnet.com/tech/kindle-unlimited-kindle-plus-audiobooks-ai/",
@@ -527,27 +569,6 @@
             "published_utc": "2026-10-22T01:00:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Hold onto your old HomePod – an upgrade is on the way",
-            "link": "https://www.zdnet.com/home-and-office/keep-old-apple-homepod-upgrades/",
-            "summary": "An upcoming update will bring new features to existing HomePods. Here’s what to know.",
-            "published_utc": "2026-10-21T18:37:07+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "OpenAI’s most powerful AI models turned off safety monitoring – then lied about it",
-            "link": "https://www.zdnet.com/innovation/openai-astra-sol-models-disable-safety-monitoring/",
-            "summary": "The models Astra and Sol misinterpreted instructions during internal use, which has serious implications for alignment monitoring.",
-            "published_utc": "2026-10-21T18:15:19+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Chrome warns you about suspicious websites now – how to turn on Google’s new scam protection",
-            "link": "https://www.zdnet.com/business/chrome-browser-warns-suspicious-websites-scam-protection/",
-            "summary": "Google’s browser will flash two  types of warnings based on whether the site is deemed dangerous or just suspicious.",
-            "published_utc": "2026-10-21T16:43:12+00:00"
-        },
-        {
             "source": "KrebsOnSecurity",
             "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
             "link": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
@@ -562,13 +583,6 @@
             "published_utc": "2026-10-21T14:26:19+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Amazon unveiled 5 new Blink cameras, including a 4K model that caught my eye",
-            "link": "https://www.zdnet.com/home-and-office/new-amazon-blink-cameras-worth-the-upgrade/",
-            "summary": "Five new Blink cameras are coming to the market, and the extended-range model has all my attention.",
-            "published_utc": "2026-10-21T14:01:31+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "AI Guardrails Aren’t Stopping Criminal Hackers",
             "link": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
@@ -581,13 +595,6 @@
             "link": "https://www.wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse/",
             "summary": "The company is suspending the feature after security researchers discovered how easy it was to access sensitive information shared with the AI assistant.",
             "published_utc": "2026-10-21T12:35:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "ServiceNow and Nvidia launch Arc, a new AI agent for enterprise",
-            "link": "https://www.zdnet.com/innovation/exclusive-servicenow-and-nvidia-launch-arc-a-new-ai-agent-for-enterprise/",
-            "summary": "The two companies are trying to solve the AI agent security conundrum with multiple layers of real-time security checks.",
-            "published_utc": "2026-10-21T11:30:00+00:00"
         },
         {
             "source": "Schneier",
@@ -665,13 +672,6 @@
             "link": "https://www.wired.com/story/chicago-area-cops-helped-hsi-spy-on-minnesota-anti-ice-activists/",
             "summary": "Despite Illinois’ sanctuary laws, local police in and around Chicago helped ICE investigative agents track activists engaged in First Amendment–protec...",
             "published_utc": "2026-10-16T18:21:54+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Backdooring Open-Weight AI Models",
-            "link": "https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html",
-            "summary": "",
-            "published_utc": "2026-10-16T11:04:53+00:00"
         },
         {
             "source": "WeLiveSecurity",
