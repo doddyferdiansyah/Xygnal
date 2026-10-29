@@ -1,12 +1,47 @@
 {
-    "lastUpdatedUTC": "2026-10-29T16:40:46.096979+00:00",
+    "lastUpdatedUTC": "2026-10-29T21:35:07.406462+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "New Cisco firewall zero-day being actively exploited",
+            "link": "https://www.csoonline.com/article/4242420/new-cisco-firewall-zero-day-being-actively-exploited.html",
+            "summary": "",
+            "published_utc": "2026-10-29T19:31:38+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Fake crypto app on Apple App Store linked to $23K wallet theft",
+            "link": "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/",
+            "summary": "A fake cryptocurrency trading app called Padre Terminal, previously available on the Apple App Store for iOS devices, has been linked to the theft of ...",
+            "published_utc": "2026-10-29T19:23:41+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/",
+            "summary": "A newly identified advanced persistent threat (APT) group tracked as UAT-11473 was observed exploiting CVE-2026-20127, an authentication-bypass flaw i...",
+            "published_utc": "2026-10-29T18:38:26+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Your headphones have hidden LE Audio features you’ll want to know about",
+            "link": "https://www.zdnet.com/tech/bluetooth-headphones-hidden-le-audio-features-jbl-sony-bose/",
+            "summary": "Your JBL, Sony, or Bose Bluetooth headphones got a top-to-bottom wireless makeover — not just Auracast.",
+            "published_utc": "2026-10-29T17:45:05+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Firefox and Chrome patch 200+ security flaws combined – update both ASAP",
             "link": "https://www.zdnet.com/tech/firefox-chrome-browsers-patch-200-security-flaws-update-asap/",
             "summary": "The latest version of Firefox fixes 167 security vulnerabilities, most of which are of high severity, while the newest version of Chrome patches 52 fl...",
             "published_utc": "2026-10-29T16:30:28+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "When Risk Becomes Personal: What Security Leaders Can Learn From a Cancer Diagnosis",
+            "link": "https://www.securityweek.com/when-risk-becomes-personal-what-security-leaders-can-learn-from-a-cancer-diagnosis/",
+            "summary": "",
+            "published_utc": "2026-10-29T16:30:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -212,13 +247,6 @@
             "published_utc": "2026-10-29T09:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "HHS Filing Puts iRhythm Data Breach Toll at 8.2 Million",
-            "link": "https://www.securityweek.com/hhs-filing-puts-irhythm-data-breach-toll-at-8-2-million/",
-            "summary": "",
-            "published_utc": "2026-10-29T08:27:16+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "PHP2Shell will persist in enterprise environments for years",
             "link": "https://www.csoonline.com/article/4241941/php2shell-will-persist-in-enterprise-environments-for-years.html",
@@ -401,13 +429,6 @@
             "published_utc": "2026-10-28T12:36:48+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Hackers now scanning systems for recently-patched Oracle flaw",
-            "link": "https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/",
-            "summary": "Attackers have begun probing the Internet for systems unpatched against a recently disclosed critical Oracle E-Business Suite (EBS) vulnerability. [...]",
-            "published_utc": "2026-10-28T12:19:57+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Gheist turns GitHub Actions into a secret extraction service",
             "link": "https://www.csoonline.com/article/4241625/gheist-turns-github-actions-into-a-secret-extraction-service.html",
@@ -427,13 +448,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/10/studying-fraudulent-north-korean-it-workers.html",
             "summary": "",
             "published_utc": "2026-10-28T11:05:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "CISA warns of hackers now exploiting critical Node2Shell flaw",
-            "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/",
-            "summary": "On Tuesday, the US Cybersecurity and Infrastructure Security Agency (CISA) confirmed that hackers have begun exploiting a critical Brotli vulnerabilit...",
-            "published_utc": "2026-10-28T10:46:23+00:00"
         },
         {
             "source": "WeLiveSecurity",
@@ -660,13 +674,6 @@
             "published_utc": "2026-10-26T17:00:04+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Apple’s new OLED iPad Mini is the upgrade I’ve been waiting for – here’s why",
-            "link": "https://www.zdnet.com/tech/apple-launches-new-ipad-mini-with-oled-screen-why-im-getting-one/",
-            "summary": "Starting at $799, the 8th-generation iPad mini is up for preorder on October 27 and hits stores on November 6. It’s already on my shopping list.",
-            "published_utc": "2026-10-26T16:25:16+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "CISA 2030 Sets Out ‘Aggressive, Anticipatory’ Cyber Defense Strategy for Critical Infrastructure",
             "link": "https://www.infosecurity-magazine.com/news/cisa-aggressive-strategy-critical/",
@@ -742,13 +749,6 @@
             "link": "https://www.infosecurity-magazine.com/news/php-publishes-mitigation-advice/",
             "summary": "PHP warns of critical RCE vulnerability CVE-2026-115560, but says limited exploit conditions mean most deployments are unlikely to be affected",
             "published_utc": "2026-10-26T09:15:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "What EvilTokens teaches us about defending against AI-assisted attacks",
-            "link": "https://www.csoonline.com/article/4239703/what-eviltokens-teaches-us-about-defending-against-ai-assisted-attacks.html",
-            "summary": "",
-            "published_utc": "2026-10-26T09:00:00+00:00"
         },
         {
             "source": "WIRED Security",
