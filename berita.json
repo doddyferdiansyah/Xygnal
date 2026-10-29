@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2026-10-29T02:10:28.721978+00:00",
+    "lastUpdatedUTC": "2026-10-29T09:29:59.962534+00:00",
     "articles": [
+        {
+            "source": "InfosecurityMag",
+            "title": "MR ROBOT Malware-as-a-Service Targets Indian Bank Customers",
+            "link": "https://www.infosecurity-magazine.com/news/robot-malware-indian-bank-customers/",
+            "summary": "MR ROBOT Android malware rents banking trojans that steal one-time passwords and card data",
+            "published_utc": "2026-10-29T09:00:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Securing MCP servers before the AI rollout outpaces security",
+            "link": "https://www.csoonline.com/article/4241763/securing-mcp-servers-before-the-ai-rollout-outpaces-security.html",
+            "summary": "",
+            "published_utc": "2026-10-29T09:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "HHS Filing Puts iRhythm Data Breach Toll at 8.2 Million",
+            "link": "https://www.securityweek.com/hhs-filing-puts-irhythm-data-breach-toll-at-8-2-million/",
+            "summary": "",
+            "published_utc": "2026-10-29T08:27:16+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "PHP2Shell will persist in enterprise environments for years",
+            "link": "https://www.csoonline.com/article/4241941/php2shell-will-persist-in-enterprise-environments-for-years.html",
+            "summary": "",
+            "published_utc": "2026-10-29T08:25:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Chinese Hackers Quietly Used Low-Severity ESXi Logging Flaw as Zero-Day",
+            "link": "https://www.securityweek.com/chinese-hackers-quietly-used-low-severity-esxi-logging-flaw-as-zero-day/",
+            "summary": "",
+            "published_utc": "2026-10-29T08:01:05+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "Bluesky Is Blocking Links to a Major Leak of DHS Employee Records",
+            "link": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
+            "summary": "Bluesky tells WIRED it blocked links to a leaked archive of information on 41,000 ICE, CBP, and other DHS workers because it contains people’s contact...",
+            "published_utc": "2026-10-29T03:34:46+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
@@ -280,20 +322,6 @@
             "link": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/",
             "summary": "ICE’s Homeland Security Investigations is engaged in far-reaching spying against left-wing activists that rivals the FBI and CIA crackdowns on the Civ...",
             "published_utc": "2026-10-28T09:30:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Hackers Start Probing Fresh Oracle EBS Vulnerability",
-            "link": "https://www.securityweek.com/hackers-start-probing-fresh-oracle-ebs-vulnerability/",
-            "summary": "",
-            "published_utc": "2026-10-28T09:14:23+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "CISA Warns of Node2Shell Exploitation as Honeypots Log Attack Attempts",
-            "link": "https://www.securityweek.com/cisa-warns-of-node2shell-exploitation-as-honeypots-log-attack-attempts/",
-            "summary": "",
-            "published_utc": "2026-10-28T08:37:24+00:00"
         },
         {
             "source": "CSO Online",
@@ -667,13 +695,6 @@
             "published_utc": "2026-10-23T15:54:22+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Meta hit with $25 billion fine for illegally sharing user data",
-            "link": "https://www.csoonline.com/article/4239754/meta-hit-with-25-billion-fine-for-illegally-sharing-user-data-2.html",
-            "summary": "",
-            "published_utc": "2026-10-23T15:23:54+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Gaming Giant Capcom Confirms Data Breach Exposed Users’ Personal Information",
             "link": "https://www.infosecurity-magazine.com/news/capcom-confirms-data-breach/",
@@ -686,13 +707,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/10/compromised-tls-certificates.html",
             "summary": "",
             "published_utc": "2026-10-23T11:04:22+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "eMudhra quits global TLS certificate market after compromise of CA signing keys",
-            "link": "https://www.csoonline.com/article/4239634/emudhra-quits-global-tls-certificate-market-after-compromise-of-ca-signing-keys-2.html",
-            "summary": "",
-            "published_utc": "2026-10-23T10:34:39+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1899,13 +1913,6 @@
             "published_utc": "2026-09-22T10:30:00+00:00"
         },
         {
-            "source": "WIRED Security",
-            "title": "A New Tool Found Malware That’s Guided by an AI Hive Mind—No Humans in Sight",
-            "link": "https://www.wired.com/story/a-tool-for-tracking-ai-integrated-malware-uncovered-an-autonomous-command-system/",
-            "summary": "Cisco Talos researchers created a new framework for identifying malware and hacking tools that rely on AI chatbots—and quickly discovered something un...",
-            "published_utc": "2026-09-22T10:00:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "CISOs Must Update Incident Response Playbooks for Multimodal Deepfakes, Gartner Warns",
             "link": "https://www.infosecurity-magazine.com/news/update-incident-response/",
@@ -2772,13 +2779,6 @@
             "link": "https://www.infosecurity-magazine.com/news/grandoreiro-mexico-dll-sideloading/",
             "summary": "Grandoreiro is active after its 2024 disruption, with Mexico now accounting for 40% of detections",
             "published_utc": "2026-08-19T14:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "OpenAI Tightens AI Safeguards Following Hugging Face Incident",
-            "link": "https://www.infosecurity-magazine.com/news/openai-tightens-ai-safeguards/",
-            "summary": "OpenAI is strengthening safeguards for its most advanced AI models, citing growing risks as frontier systems gain more powerful cyber capabilities",
-            "published_utc": "2026-08-19T12:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
