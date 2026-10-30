@@ -1,6 +1,55 @@
 {
-    "lastUpdatedUTC": "2026-10-29T21:35:07.406462+00:00",
+    "lastUpdatedUTC": "2026-10-30T01:37:28.563697+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "PHP2Shell plus Fragnesia: A dangerous new route from web server to root",
+            "link": "https://www.csoonline.com/article/4242454/php2shell-plus-fragnesia-a-dangerous-new-route-from-web-server-to-root.html",
+            "summary": "",
+            "published_utc": "2026-10-30T00:55:47+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "A deep dive into China’s Volt Typhoon suggests it is preparing for an assault on infrastructure",
+            "link": "https://www.csoonline.com/article/4242439/a-deep-dive-into-chinas-volt-typhoon-suggests-it-is-preparing-for-an-assault-on-infrastructure.html",
+            "summary": "",
+            "published_utc": "2026-10-30T00:10:15+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
+            "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
+            "summary": "OpenAI says it won't reduce usage limits for the $100, $200, and $500 ChatGPT Pro plans, as well as Business Premium, and it also promised to keep Dot...",
+            "published_utc": "2026-10-29T23:35:52+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Binance probes potential $5.8 billion crypto-theft hack",
+            "link": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
+            "summary": "Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the ...",
+            "published_utc": "2026-10-29T22:45:23+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
+            "link": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
+            "summary": "A crypto-mining campaign abusing Hugging Face models returned days after takedown, hijacking GPU servers and planting backdoors, with one model downlo...",
+            "published_utc": "2026-10-29T22:09:24+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Japan Airlines suffers third-party data breach exposing passenger info",
+            "link": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
+            "summary": "Japan Airlines (JAL) has announced that a data breach at Amadeus's Passenger Service System exposed the data of about 92,000 customers. [...]",
+            "published_utc": "2026-10-29T22:08:04+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
+            "link": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
+            "summary": "Prediction market platform Polymarket temporarily suspended trading on Thursday after hackers compromised a third-party service to distribute cryptocu...",
+            "published_utc": "2026-10-29T21:47:25+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "New Cisco firewall zero-day being actively exploited",
@@ -331,25 +380,11 @@
             "published_utc": "2026-10-28T16:48:15+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Sony ISP subsidiary data breach exposes 2.5 million customer records",
-            "link": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/",
-            "summary": "Sony Network Communications has confirmed a data breach that compromised approximately 2.5 million records containing current and former customers' pe...",
-            "published_utc": "2026-10-28T16:45:47+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "Opera will run AI locally in your browser now – why that’s a gamechanger and how to try it",
             "link": "https://www.zdnet.com/innovation/opera-webai-local-ai-browser/",
             "summary": "Thanks to the newly proposed WebAI web standard, the company will start shipping local AI models with its flagship browser.",
             "published_utc": "2026-10-28T16:10:39+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Volt Typhoon hides zero-day attacks using 'Silent Train' framework",
-            "link": "https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/",
-            "summary": "Chinese state-sponsored hacking group Volt Typhoon has been using a framework that relies on rotating chains of connected devices compromised on deman...",
-            "published_utc": "2026-10-28T16:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -380,13 +415,6 @@
             "published_utc": "2026-10-28T15:09:12+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Microsoft urges Entra ID admins to migrate users to passkeys",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/",
-            "summary": "Microsoft again asked Entra ID administrators to migrate users to phishing-resistant methods to avoid sign-in disruptions before it retires SMS and vo...",
-            "published_utc": "2026-10-28T14:48:32+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "Amazon’s new Echo Dot can turn into a Wi-Fi extender – how it works",
             "link": "https://www.zdnet.com/home-and-office/amazon-new-echo-dot-wi-fi-extender-smart-home-hub/",
@@ -406,20 +434,6 @@
             "link": "https://www.infosecurity-magazine.com/news/energy-giant-engie-supply-chain/",
             "summary": "An undisclosed number of Engie customers have had their data compromised after a supply chain incident",
             "published_utc": "2026-10-28T14:05:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "InfraTrust report warns of exploited flaws in critical network infrastructure",
-            "link": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
-            "summary": "Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as \"PHP2Shell\" put the web management in...",
-            "published_utc": "2026-10-28T14:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Even after PHP2Shell, blast radius matters more than a CVSS score",
-            "link": "https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/",
-            "summary": "PHP2Shell shows how quickly attackers can exploit critical vulnerabilities, often before organizations have time to patch. Token Security explains why...",
-            "published_utc": "2026-10-28T13:50:59+00:00"
         },
         {
             "source": "CSO Online",
@@ -716,25 +730,11 @@
             "published_utc": "2026-10-26T12:45:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "OpenAI, Anthropic disclosures spotlight growing AI containment challenge",
-            "link": "https://www.csoonline.com/article/4240279/openai-anthropic-disclosures-spotlight-growing-ai-containment-challenge.html",
-            "summary": "",
-            "published_utc": "2026-10-26T11:57:21+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Bias in Qwen3-Coder Model",
             "link": "https://www.schneier.com/blog/archives/2026/10/bias-in-qwen3-coder-model.html",
             "summary": "",
             "published_utc": "2026-10-26T11:03:31+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Malicious downloads can trick AI coding agents into compromising themselves",
-            "link": "https://www.csoonline.com/article/4240222/malicious-downloads-can-trick-ai-coding-agents-into-compromising-themselves.html",
-            "summary": "",
-            "published_utc": "2026-10-26T10:35:08+00:00"
         },
         {
             "source": "InfosecurityMag",
