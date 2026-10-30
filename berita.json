@@ -1,6 +1,62 @@
 {
-    "lastUpdatedUTC": "2026-10-30T15:38:08.771598+00:00",
+    "lastUpdatedUTC": "2026-10-30T20:28:46.117735+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "Android 17 adoption hits a staggering 1% – why you really should update now",
+            "link": "https://www.zdnet.com/tech/android-17-os-adoption-numbers-october-2026/",
+            "summary": "Only a quarter of Android phones have even made it to Android 16.",
+            "published_utc": "2026-10-30T18:18:24+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Samsung adds better sleep tracking to Galaxy Watches – here’s what to expect",
+            "link": "https://www.zdnet.com/health/advanced-sleep-apnea-tracking-galaxy-watches/",
+            "summary": "The FDA-approved sleep apnea tracking feature will first come to the Galaxy Watch Ultra 2, Watch 9, and Ring.",
+            "published_utc": "2026-10-30T17:29:50+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I’m finally ready for a smart calendar – why the Echo Show 16 stands out",
+            "link": "https://www.zdnet.com/home-and-office/im-finally-ready-for-a-smart-calendar-why-the-echo-show-16-stands-out/",
+            "summary": "I’m finally ready to upgrade to a smart calendar – and Amazon’s newest Echo device looks like an organizational solution for my family and I.",
+            "published_utc": "2026-10-30T17:23:50+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Why identity governance demands executive attention",
+            "link": "https://www.csoonline.com/article/4242864/why-identity-governance-demands-executive-attention.html",
+            "summary": "",
+            "published_utc": "2026-10-30T17:09:23+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Your Netgear router may be vulnerable to a security exploit – how to check and patch it",
+            "link": "https://www.zdnet.com/tech/netgear-routers-vulnerable-security-exploit/",
+            "summary": "A vulnerability in some Netgear routers could allow an attacker with access to your network to run malicious commands on the device.",
+            "published_utc": "2026-10-30T16:58:22+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Google’s latest Home updates just fixed my biggest annoyances with its speakers and cameras",
+            "link": "https://www.zdnet.com/home-and-office/google-home-gemini-updates-42-fixes/",
+            "summary": "Google details 42 fixes to its Home app and the devices compatible with it.",
+            "published_utc": "2026-10-30T16:14:11+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Trezor warns of suspected crypto-theft implant in hardware wallet",
+            "link": "https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/",
+            "summary": "Hardware wallet device maker Trezor has received credible reports about a suspected hardware crypto-theft implant in a Trezor Safe 5 sold by its resel...",
+            "published_utc": "2026-10-30T15:58:20+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "New Framework Puts Ransomware Resilience for AI Systems in Focus",
+            "link": "https://www.infosecurity-magazine.com/news/framework-ransomware-resilience-ai/",
+            "summary": "RAID-AI aims to help organizations assess their security preparation for ransomware attacks targeting AI systems",
+            "published_utc": "2026-10-30T15:53:00+00:00"
+        },
         {
             "source": "Schneier",
             "title": "Bloatware in Aftermarket Auto Parts",
@@ -280,13 +336,6 @@
             "link": "https://www.infosecurity-magazine.com/news/nik-c2-malware-victims-openai-keys/",
             "summary": "NIK C2 malware can fall back on victims’ OpenAI API keys to run AI queries",
             "published_utc": "2026-10-29T15:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft fixes Remote Desktop failures caused by recent Windows updates",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-failures-caused-by-recent-windows-updates/",
-            "summary": "Microsoft has resolved a known issue that prevents non-admin users from connecting to devices via Remote Desktop when the \"Administrator protection\" s...",
-            "published_utc": "2026-10-29T14:35:40+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -569,13 +618,6 @@
             "published_utc": "2026-10-28T08:25:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Attackers compromised 42 GitHub repositories by using files too large to be searched",
-            "link": "https://www.csoonline.com/article/4241496/attackers-compromised-42-github-repositories-by-using-files-too-large-to-be-searched-2.html",
-            "summary": "",
-            "published_utc": "2026-10-28T02:58:27+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "iPhone Duo screen cracks: Serious issue or overblown? What we know",
             "link": "https://www.zdnet.com/tech/iphone-duo-cracked-screen-hinge-what-to-do-crackgate/",
@@ -639,20 +681,6 @@
             "published_utc": "2026-10-27T16:00:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Apple’s M6 iMac has arrived – here’s what’s changed since the M4",
-            "link": "https://www.zdnet.com/tech/apple-imac-m6-vs-m4-whats-new/",
-            "summary": "Apple’s colorful all-in-one gets its first refresh in two years. Here’s what you get for the $1,499 starting price.",
-            "published_utc": "2026-10-27T15:42:32+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "A fake TikTok shop is Surfshark’s most-blocked phishing scam – how to steer clear",
-            "link": "https://www.zdnet.com/tech/fake-tiktok-shop-phishing-scam-surfshark/",
-            "summary": "Blocked phishing attempts rose 83% in six months, according to Surfshark, largely due to one TikTok shop. Here’s how to spot the red flags.",
-            "published_utc": "2026-10-27T15:30:38+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "ISC2 Launches Cyber-AI Workforce Coalition to Address the Future of AI Security Jobs",
             "link": "https://www.infosecurity-magazine.com/news/isc2-launches-cyberai-workforce/",
@@ -672,13 +700,6 @@
             "link": "https://www.infosecurity-magazine.com/news/exploit-teams-chat-breach/",
             "summary": "Arctic Wolf warned that the function enables highly effective social engineering attacks, which lead to incidents such as ransomware",
             "published_utc": "2026-10-27T12:30:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I tried Windows 11’s customizable right-click menu – and it’s a much-needed change",
-            "link": "https://www.zdnet.com/tech/windows-11-customizable-right-click-menu/",
-            "summary": "The latest Windows Insider build lets you add, remove, and manage commands in the right-click menu so it’s less crowded and confusing.",
-            "published_utc": "2026-10-27T12:17:55+00:00"
         },
         {
             "source": "Schneier",
@@ -707,20 +728,6 @@
             "link": "https://www.infosecurity-magazine.com/news/watchdog-police-fire-service/",
             "summary": "UK police forces and fire and rescue services have been urged to strengthen cybersecurity as rising cyber threats outpace current defenses",
             "published_utc": "2026-10-27T09:39:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Apple’s iOS 27.2 update offers major Siri AI upgrades, dual camera support for FaceTime",
-            "link": "https://www.zdnet.com/tech/apple-ios-27-2-update-siri-ai-facetime-dual-cameras/",
-            "summary": "iOS 27.2 is the first major update for the current OS. Here’s what’s inside and what happened to iOS 27.1.",
-            "published_utc": "2026-10-26T20:52:35+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Github competitor Entire is live now – how the agent-first platform works",
-            "link": "https://www.zdnet.com/innovation/enitre-github-competitor-trail-git-forge/",
-            "summary": "Now that agents are writing so much code, Entire is trying to reinvent the coding platform itself.",
-            "published_utc": "2026-10-26T17:00:04+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2793,13 +2800,6 @@
             "link": "https://www.infosecurity-magazine.com/news/cybersecurity-job-ads-ai-skills/",
             "summary": "An analysis by the AI Workforce Consortium found that technical cybersecurity jobs are becoming more strategic due to the influence of AI",
             "published_utc": "2026-08-21T08:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "NCSC Urges Stronger Controls for Agentic AI Systems",
-            "link": "https://www.infosecurity-magazine.com/news/ncsc-stronger-controls-agentic-ai/",
-            "summary": "NCSC urged sandboxing, oversight and tight access controls for autonomous AI agents",
-            "published_utc": "2026-08-20T12:45:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
