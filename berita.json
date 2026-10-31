@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-10-30T20:28:46.117735+00:00",
+    "lastUpdatedUTC": "2026-10-31T00:28:11.914746+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
+            "link": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/",
+            "summary": "Security researchers at Anthropic have developed an exploit for a critical Linux kernel vulnerability that allows unauthenticated attackers to remotel...",
+            "published_utc": "2026-10-30T21:09:46+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Friday Squid Blogging: Bigfin Squid Off California Coast",
+            "link": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-bigfin-squid-off-california-coast.html",
+            "summary": "",
+            "published_utc": "2026-10-30T21:04:36+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices",
+            "link": "https://www.wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems/",
+            "summary": "Thanks to a lucky break, flawed code in a tainted Claude extension prevented the attacker from fully worming their way into some 5,000 developer machi...",
+            "published_utc": "2026-10-30T20:38:46+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Android 17 adoption hits a staggering 1% – why you really should update now",
@@ -315,13 +336,6 @@
             "link": "https://www.zdnet.com/tech/firefox-chrome-browsers-patch-200-security-flaws-update-asap/",
             "summary": "The latest version of Firefox fixes 167 security vulnerabilities, most of which are of high severity, while the newest version of Chrome patches 52 fl...",
             "published_utc": "2026-10-29T16:30:28+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Chrome extensions with 13.4 million installs caught hijacking searches",
-            "link": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/",
-            "summary": "A massive search-hijacking campaign involving 319 Chrome extensions with a combined 13.4 million reported installations redirected users' searches thr...",
-            "published_utc": "2026-10-29T16:10:31+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -1057,13 +1071,6 @@
             "link": "https://www.infosecurity-magazine.com/news/opencode-breach-openai-anthropic/",
             "summary": "A breach affecting the OpenCode Console may lead to the exposure of API keys for Anthropic, OpenAI and Google Gemini users",
             "published_utc": "2026-10-19T13:30:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Training AIs to Solve CAPTCHAs",
-            "link": "https://www.schneier.com/blog/archives/2026/10/training-ais-to-solve-captchas.html",
-            "summary": "",
-            "published_utc": "2026-10-19T11:07:43+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1834,13 +1841,6 @@
             "link": "https://www.infosecurity-magazine.com/news/citrix-patches-critical-zero-days/",
             "summary": "Citrix has confirmed exploitation of two critical zero-day RCE bugs",
             "published_utc": "2026-09-28T08:30:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "Old-School Credit Card Scams Are Far From Dead",
-            "link": "https://www.wired.com/story/kernel-panic-old-timey-credit-card-scams/",
-            "summary": "In an era of increasingly sophisticated AI-fueled scams, a retro threat may be lurking in your mailbox.",
-            "published_utc": "2026-09-26T12:00:00+00:00"
         },
         {
             "source": "KrebsOnSecurity",
