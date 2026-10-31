@@ -1,11 +1,32 @@
 {
-    "lastUpdatedUTC": "2026-10-31T13:23:10.058273+00:00",
+    "lastUpdatedUTC": "2026-10-31T18:16:15.793814+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Northflank security breach leads to abuse of customers' AI API keys",
+            "link": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
+            "summary": "Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breac...",
+            "published_utc": "2026-10-31T18:01:12+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
+            "link": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
+            "summary": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2...",
+            "published_utc": "2026-10-31T15:35:11+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Reddit to lock content behind logins to fight scrapers",
+            "link": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
+            "summary": "Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a \"logged-in service,\" offering limited access to visitors ...",
+            "published_utc": "2026-10-31T14:05:15+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
             "link": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
-            "summary": "[...]",
+            "summary": "AI-generated vulnerability reports are overwhelming some bug bounty programs, making it harder for aspiring security researchers to know where to star...",
             "published_utc": "2026-10-31T13:10:19+00:00"
         },
         {
@@ -315,27 +336,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
             "summary": "Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the ...",
             "published_utc": "2026-10-29T22:45:23+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
-            "link": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
-            "summary": "A crypto-mining campaign abusing Hugging Face models returned days after takedown, hijacking GPU servers and planting backdoors, with one model downlo...",
-            "published_utc": "2026-10-29T22:09:24+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Japan Airlines suffers third-party data breach exposing passenger info",
-            "link": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
-            "summary": "Japan Airlines (JAL) has announced that a data breach at Amadeus's Passenger Service System exposed the data of about 92,000 customers. [...]",
-            "published_utc": "2026-10-29T22:08:04+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
-            "link": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
-            "summary": "Prediction market platform Polymarket temporarily suspended trading on Thursday after hackers compromised a third-party service to distribute cryptocu...",
-            "published_utc": "2026-10-29T21:47:25+00:00"
         },
         {
             "source": "CSO Online",
