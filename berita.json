@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-11-01T08:50:54.930720+00:00",
+    "lastUpdatedUTC": "2026-11-01T15:51:12.306914+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
+            "link": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
+            "summary": "Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20-21, prompting the open-source ...",
+            "published_utc": "2026-11-01T15:11:21+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat",
+            "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/",
+            "summary": "OpenAI has just confirmed that it's rolling out ChatGPT Work capabilities directly into regular Chat, while also combining usage allowances across Cha...",
+            "published_utc": "2026-11-01T13:53:11+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations",
+            "link": "https://www.securityweek.com/northstar-security-exits-stealth-with-7m-to-expose-toxic-risk-combinations/",
+            "summary": "",
+            "published_utc": "2026-11-01T11:15:00+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Northflank security breach leads to abuse of customers' AI API keys",
@@ -296,13 +317,6 @@
             "published_utc": "2026-10-30T09:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "TeamViewer Flaw Could Let Malicious Hosts Take Over Support Technicians’ Machines",
-            "link": "https://www.securityweek.com/teamviewer-flaw-could-let-malicious-hosts-take-over-support-technicians-machines/",
-            "summary": "",
-            "published_utc": "2026-10-30T08:44:49+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Beyond deterministic worms: Preparing the SOC for reasoning adversaries",
             "link": "https://www.csoonline.com/article/4242253/beyond-deterministic-worms-preparing-the-soc-for-reasoning-adversaries.html",
@@ -322,20 +336,6 @@
             "link": "https://www.csoonline.com/article/4242439/a-deep-dive-into-chinas-volt-typhoon-suggests-it-is-preparing-for-an-assault-on-infrastructure.html",
             "summary": "",
             "published_utc": "2026-10-30T00:10:15+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
-            "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
-            "summary": "OpenAI says it won't reduce usage limits for the $100, $200, and $500 ChatGPT Pro plans, as well as Business Premium, and it also promised to keep Dot...",
-            "published_utc": "2026-10-29T23:35:52+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Binance probes potential $5.8 billion crypto-theft hack",
-            "link": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
-            "summary": "Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the ...",
-            "published_utc": "2026-10-29T22:45:23+00:00"
         },
         {
             "source": "CSO Online",
@@ -3283,76 +3283,6 @@
             "link": "https://www.welivesecurity.com/en/eset-research/love-actually-fake-dating-app-used-lure-targeted-spyware-campaign-pakistan/",
             "summary": "ESET researchers discover an Android spyware campaign targeting users in Pakistan via romance scam tactics, revealing links to a broader spy operation",
             "published_utc": "2026-01-28T09:59:00+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Student Loan Breach Exposes 2.5M Records",
-            "link": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
-            "summary": "2.5 million people were affected, in a breach that could spell more trouble down the line.",
-            "published_utc": "2022-08-31T12:57:48+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Watering Hole Attacks Push ScanBox Keylogger",
-            "link": "https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/",
-            "summary": "Researchers uncover a watering hole attack likely carried out by APT TA423, which attempts to plant the ScanBox JavaScript-based reconnaissance tool.",
-            "published_utc": "2022-08-30T16:00:43+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms",
-            "link": "https://threatpost.com/0ktapus-victimize-130-firms/180487/",
-            "summary": "Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.",
-            "published_utc": "2022-08-29T14:56:19+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Ransomware Attacks are on the Rise",
-            "link": "https://threatpost.com/ransomware-attacks-are-on-the-rise/180481/",
-            "summary": "Lockbit is by far this summer’s most prolific ransomware group, trailed by two offshoots of the Conti group.",
-            "published_utc": "2022-08-26T16:44:27+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Cybercriminals Are Selling Access to Chinese Surveillance Cameras",
-            "link": "https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/",
-            "summary": "Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed.",
-            "published_utc": "2022-08-25T18:47:15+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Twitter Whistleblower Complaint: The TL;DR Version",
-            "link": "https://threatpost.com/twitter-whistleblower-tldr-version/180472/",
-            "summary": "Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a n...",
-            "published_utc": "2022-08-24T14:17:04+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Firewall Bug Under Active Attack Triggers CISA Warning",
-            "link": "https://threatpost.com/firewall-bug-under-active-attack-cisa-warning/180467/",
-            "summary": "CISA is warning that Palo Alto Networks’ PAN-OS is under active attack and needs to be patched ASAP.",
-            "published_utc": "2022-08-23T13:19:58+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Fake Reservation Links Prey on Weary Travelers",
-            "link": "https://threatpost.com/reservation-links-prey-on-travelers/180462/",
-            "summary": "Fake travel reservations are exacting more pain from the travel weary, already dealing with the misery of canceled flights and overbooked hotels.",
-            "published_utc": "2022-08-22T13:59:06+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "iPhone Users Urged to Update to Patch 2 Zero-Days",
-            "link": "https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/",
-            "summary": "Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack.",
-            "published_utc": "2022-08-19T15:25:56+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Google Patches Chrome’s Fifth Zero-Day of the Year",
-            "link": "https://threatpost.com/google-patches-chromes-fifth-zero-day-of-the-year/180432/",
-            "summary": "An insufficient validation input flaw, one of 11 patched in an update this week, could allow for arbitrary code execution and is under active attack.",
-            "published_utc": "2022-08-18T14:31:38+00:00"
         }
     ]
 }
