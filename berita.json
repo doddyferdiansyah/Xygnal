@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2026-11-02T17:55:08.481242+00:00",
+    "lastUpdatedUTC": "2026-11-03T00:39:27.312488+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "European supermarkets that failed to act after French freezer attack are now feeling the heat",
+            "link": "https://www.csoonline.com/article/4243371/european-supermarkets-that-failed-to-act-after-french-freezer-attack-are-now-feeling-the-heat.html",
+            "summary": "",
+            "published_utc": "2026-11-03T00:23:35+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
+            "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
+            "summary": "Chinese hackers used ARTEX, an open-source, multi-agent AI penetration-testing framework, in attacks against more than 200 organizations across 14 cou...",
+            "published_utc": "2026-11-02T21:40:14+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Fintech platform Sageworks taken offline after suspected cyberattack",
+            "link": "https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/",
+            "summary": "Financial technology company Abrigo has restored its Sageworks risk management application, except for borrower-facing capabilities, following an outa...",
+            "published_utc": "2026-11-02T19:00:45+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
+            "link": "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/",
+            "summary": "Google and industry partners have dismantled the XCPE malware botnet consisting of more than 1.3 million Android TV streaming TV boxes that Google say...",
+            "published_utc": "2026-11-02T18:16:34+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "OpenAI will merge ChatGPT’s chat and work tabs – here’s when, and what to expect",
+            "link": "https://www.zdnet.com/innovation/openai-merge-chatgpt-chat-work-tabs/",
+            "summary": "On the heels of Anthropic’s similar move, the change will be tested among select users before being rolled out.",
+            "published_utc": "2026-11-02T18:01:55+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Athenahealth patients can ask Claude about their medical records now",
@@ -31,10 +66,24 @@
         },
         {
             "source": "ZDNet Security",
+            "title": "Samsung’s Privacy Display may be coming to more Galaxy phones – what we know",
+            "link": "https://www.zdnet.com/tech/samsung-privacy-display-galaxy-s27-pro-ultra/",
+            "summary": "Privacy Display on the Galaxy S26 Ultra was a big hit in our hands-on. Now, we may see it roll out to more Galaxy phones.",
+            "published_utc": "2026-11-02T16:52:54+00:00"
+        },
+        {
+            "source": "ZDNet Security",
             "title": "Apple’s HomeView may double as security camera – watch out Ring, Nest, and Wyze",
             "link": "https://www.zdnet.com/home-and-office/apple-homeview-indoor-security-camera/",
             "summary": "HomeView settings reveal potential video recording and streaming options alongside privacy features.",
             "published_utc": "2026-11-02T16:35:32+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "50 AI agents tried to build a thriving Minecraft civilization – it didn’t end well",
+            "link": "https://www.zdnet.com/innovation/y-combinator-ai-agents-minecraft-experiment-behavior/",
+            "summary": "It turns out even bots can’t escape bureaucracy.",
+            "published_utc": "2026-11-02T16:30:00+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -275,27 +324,6 @@
             "published_utc": "2026-10-31T15:35:11+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Reddit to lock content behind logins to fight scrapers",
-            "link": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
-            "summary": "Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a \"logged-in service,\" offering limited access to visitors ...",
-            "published_utc": "2026-10-31T14:05:15+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
-            "link": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
-            "summary": "AI-generated vulnerability reports are overwhelming some bug bounty programs, making it harder for aspiring security researchers to know where to star...",
-            "published_utc": "2026-10-31T13:10:19+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
-            "link": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
-            "summary": "Blockchain analytics firm Chainalysis disclosed a data breach after attackers used \"offensive agentic techniques\" to access internal systems and tools...",
-            "published_utc": "2026-10-31T12:50:09+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
             "link": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
@@ -350,6 +378,13 @@
             "link": "https://www.csoonline.com/article/4242864/why-identity-governance-demands-executive-attention.html",
             "summary": "",
             "published_utc": "2026-10-30T17:09:23+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Why continuous governance, not periodic reviews, is the new standard for identity security",
+            "link": "https://www.csoonline.com/article/4242861/why-continuous-governance-not-periodic-reviews-is-the-new-standard-for-identity-security.html",
+            "summary": "",
+            "published_utc": "2026-10-30T16:58:50+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -548,13 +583,6 @@
             "published_utc": "2026-10-29T10:30:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Vulnerability exploitation rising as the root cause of many breaches",
-            "link": "https://www.csoonline.com/article/4241912/vulnerability-exploitation-rising-as-the-root-cause-of-many-breaches.html",
-            "summary": "",
-            "published_utc": "2026-10-29T10:00:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "NIST Publishes Guidance to Meet Federal Post-Quantum Deadlines",
             "link": "https://www.infosecurity-magazine.com/news/nist-guidance-post-quantum/",
@@ -566,13 +594,6 @@
             "title": "MR ROBOT Malware-as-a-Service Targets Indian Bank Customers",
             "link": "https://www.infosecurity-magazine.com/news/robot-malware-indian-bank-customers/",
             "summary": "MR ROBOT Android malware rents banking trojans that steal one-time passwords and card data",
-            "published_utc": "2026-10-29T09:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Securing MCP servers before the AI rollout outpaces security",
-            "link": "https://www.csoonline.com/article/4241763/securing-mcp-servers-before-the-ai-rollout-outpaces-security.html",
-            "summary": "",
             "published_utc": "2026-10-29T09:00:00+00:00"
         },
         {
@@ -681,13 +702,6 @@
             "published_utc": "2026-10-28T15:09:12+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Amazon’s new Echo Dot can turn into a Wi-Fi extender – how it works",
-            "link": "https://www.zdnet.com/home-and-office/amazon-new-echo-dot-wi-fi-extender-smart-home-hub/",
-            "summary": "Amazon’s new Echo Dot includes a built-in Eero Wi-Fi extender, along with other smart home features.",
-            "published_utc": "2026-10-28T14:41:32+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "AI Is Turning CISOs Into Business-Risk Translators, Says Nvidia’s Head of Cyber",
             "link": "https://www.infosecurity-magazine.com/news/ai-is-turning-cisos-into/",
@@ -728,20 +742,6 @@
             "link": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/",
             "summary": "ICE’s Homeland Security Investigations is engaged in far-reaching spying against left-wing activists that rivals the FBI and CIA crackdowns on the Civ...",
             "published_utc": "2026-10-28T09:30:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "iPhone Duo screen cracks: Serious issue or overblown? What we know",
-            "link": "https://www.zdnet.com/tech/iphone-duo-cracked-screen-hinge-what-to-do-crackgate/",
-            "summary": "Some displays are failing within hours of unboxing. Apple is offering replacements, but is the issue really that widespread?",
-            "published_utc": "2026-10-27T20:33:59+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Why this new Fitbit feature takes us one step closer to non-invasive glucose tracking",
-            "link": "https://www.zdnet.com/tech/fitbit-glucose-patterns-blood-pressure-health-features/",
-            "summary": "Insulin resistance and blood pressure trends are now available on two new Fitbit devices.",
-            "published_utc": "2026-10-27T19:03:07+00:00"
         },
         {
             "source": "InfosecurityMag",
