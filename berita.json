@@ -1,6 +1,83 @@
 {
-    "lastUpdatedUTC": "2026-11-04T16:54:44.899076+00:00",
+    "lastUpdatedUTC": "2026-11-04T22:28:04.430767+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Vercel rolls out new protection against stolen session cookie attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
+            "summary": "Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]",
+            "published_utc": "2026-11-04T21:31:18+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
+            "link": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
+            "summary": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide a...",
+            "published_utc": "2026-11-04T20:58:19+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Is Chrome’s settings menu getting a search bar? What we know",
+            "link": "https://www.zdnet.com/business/google-tests-new-chrome-search-menu-feature/",
+            "summary": "Chrome might receive a much-needed addition.",
+            "published_utc": "2026-11-04T19:53:06+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "Hugging Face’s CEO Says His P(Doom) Is ‘Close to Zero’",
+            "link": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
+            "summary": "“Most of the risk is actually created by a couple of players building behind closed doors,” Clément Delangue said of the need for open source AI.",
+            "published_utc": "2026-11-04T19:16:25+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
+            "link": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
+            "summary": "DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP username...",
+            "published_utc": "2026-11-04T19:05:19+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Researchers asked people to use AI chatbots for election info – results were mixed",
+            "link": "https://www.zdnet.com/innovation/ai-users-ask-chatbots-voting-advice-elections-yale-research/",
+            "summary": "Chatbots can skew election-related information and act as an intervening layer in a voter’s search.",
+            "published_utc": "2026-11-04T18:13:38+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Cyberattack disrupts blood storage refrigeration systems in France",
+            "link": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
+            "summary": "France's national blood service has confirmed that a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings ...",
+            "published_utc": "2026-11-04T18:02:56+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Want an AI job? Deployment engineers are earning executive-level pay – up to $1.45M a year",
+            "link": "https://www.zdnet.com/innovation/ai-deployment-engineers-salary-christian-timbers-report/",
+            "summary": "AI has ushered in new jobs, and some of them are paying handsomely, according to a new study.",
+            "published_utc": "2026-11-04T18:02:01+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Safari finally gets 3 popular browser features – and I can’t wait to try them",
+            "link": "https://www.zdnet.com/tech/safari-os-27-3-developer-beta-features/",
+            "summary": "New developer beta release notes point to deeper Siri AI integration and more Safari customization.",
+            "published_utc": "2026-11-04T17:14:36+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Can Netflix’s new AI tool stop your TV-streaming doomscrolling? How to try it",
+            "link": "https://www.zdnet.com/home-and-office/netflix-ai-tool-discover-feature/",
+            "summary": "Netflix is adding a new Discover feature, which recommends tailored streaming selections. Here’s how it works.",
+            "published_utc": "2026-11-04T17:05:06+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
+            "link": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
+            "summary": "The developers of Goddess of Victory: NIKKE have confirmed that hackers tampered with the game's PC launcher scripts in a supply-chain attack, distrib...",
+            "published_utc": "2026-11-04T16:58:46+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "mSecure password manager hack prompts password reset warnings",
@@ -310,20 +387,6 @@
             "published_utc": "2026-11-03T15:30:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Barracuda warns of critical flaws allowing root access to devices",
-            "link": "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/",
-            "summary": "Cybersecurity company Barracuda Networks warned customers to patch two vulnerabilities that can let attackers run commands with root privileges. [...]",
-            "published_utc": "2026-11-03T15:06:16+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028",
-            "link": "https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/",
-            "summary": "Gartner predicts that security operations centers will have 50% more engineers than analysts by 2028 as AI agents take over routine alert handling. Pr...",
-            "published_utc": "2026-11-03T15:00:10+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Hackers Exploit BTCPay Server Flaw to Steal Cryptocurrency",
             "link": "https://www.infosecurity-magazine.com/news/btcpay-server-flaw-cryptocurrency/",
@@ -338,13 +401,6 @@
             "published_utc": "2026-11-03T14:15:36+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
-            "link": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
-            "summary": "A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged hos...",
-            "published_utc": "2026-11-03T14:00:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Cyber-Attack on Refrigeration Systems Hits Supermarkets Across Europe",
             "link": "https://www.infosecurity-magazine.com/news/cyber-refrigeration-supermarkets/",
@@ -352,25 +408,11 @@
             "published_utc": "2026-11-03T13:45:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Police seizes over 100 servers in investment scam crackdown",
-            "link": "https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/",
-            "summary": "European law enforcement authorities arrested seven suspects and seized more than 100 servers in a joint action targeting an unnamed company suspected...",
-            "published_utc": "2026-11-03T13:33:49+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Network appliances go more than a year without patches as exploits speed up",
             "link": "https://www.csoonline.com/article/4243874/network-appliances-go-more-than-a-year-without-patches-as-exploits-speed-up.html",
             "summary": "",
             "published_utc": "2026-11-03T12:32:10+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs",
-            "link": "https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/",
-            "summary": "Google has expanded its Cloud Vulnerability Reward Program (VRP) with a new top-tier reward for high-impact architectural security flaws. [...]",
-            "published_utc": "2026-11-03T12:05:52+00:00"
         },
         {
             "source": "Schneier",
@@ -646,32 +688,11 @@
             "published_utc": "2026-10-30T17:29:50+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I’m finally ready for a smart calendar – why the Echo Show 16 stands out",
-            "link": "https://www.zdnet.com/home-and-office/im-finally-ready-for-a-smart-calendar-why-the-echo-show-16-stands-out/",
-            "summary": "I’m finally ready to upgrade to a smart calendar – and Amazon’s newest Echo device looks like an organizational solution for my family and I.",
-            "published_utc": "2026-10-30T17:23:50+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Why identity governance demands executive attention",
             "link": "https://www.csoonline.com/article/4242864/why-identity-governance-demands-executive-attention.html",
             "summary": "",
             "published_utc": "2026-10-30T17:09:23+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Your Netgear router may be vulnerable to a security exploit – how to check and patch it",
-            "link": "https://www.zdnet.com/tech/netgear-routers-vulnerable-security-exploit/",
-            "summary": "A vulnerability in some Netgear routers could allow an attacker with access to your network to run malicious commands on the device.",
-            "published_utc": "2026-10-30T16:58:22+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Google’s latest Home updates just fixed my biggest annoyances with its speakers and cameras",
-            "link": "https://www.zdnet.com/home-and-office/google-home-gemini-updates-42-fixes/",
-            "summary": "Google details 42 fixes to its Home app and the devices compatible with it.",
-            "published_utc": "2026-10-30T16:14:11+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -714,20 +735,6 @@
             "link": "https://www.infosecurity-magazine.com/news/binance-record-hack-crypto-heist/",
             "summary": "Leading cryptocurrency analysts have attributed the cyber-attack to a North Korean elite hacking unit",
             "published_utc": "2026-10-30T11:25:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Your headphones have hidden LE Audio features you’ll want to know about",
-            "link": "https://www.zdnet.com/tech/bluetooth-headphones-hidden-le-audio-features-jbl-sony-bose/",
-            "summary": "Your JBL, Sony, or Bose Bluetooth headphones got a top-to-bottom wireless makeover — not just Auracast.",
-            "published_utc": "2026-10-29T17:45:05+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Firefox and Chrome patch 200+ security flaws combined – update both ASAP",
-            "link": "https://www.zdnet.com/tech/firefox-chrome-browsers-patch-200-security-flaws-update-asap/",
-            "summary": "The latest version of Firefox fixes 167 security vulnerabilities, most of which are of high severity, while the newest version of Chrome patches 52 fl...",
-            "published_utc": "2026-10-29T16:30:28+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1792,13 +1799,6 @@
             "link": "https://www.infosecurity-magazine.com/news/microsoft-ai-attack-time-minutes/",
             "summary": "Microsoft has warned that threat actors have gained the advantage over defenders by using AI to enhance the speed and scale of attacks",
             "published_utc": "2026-10-02T14:15:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
-            "link": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
-            "summary": "While the focus has been on AI agents’ hacking capabilities, a recently patched vulnerability in a ChatGPT app shows that AI software is itself an inv...",
-            "published_utc": "2026-10-02T09:45:00+00:00"
         },
         {
             "source": "InfosecurityMag",
