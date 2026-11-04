@@ -1,6 +1,20 @@
 {
-    "lastUpdatedUTC": "2026-11-03T21:33:08.350251+00:00",
+    "lastUpdatedUTC": "2026-11-04T01:56:58.297459+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "Critical Langflow flaws enable authentication bypass and RCE",
+            "link": "https://www.csoonline.com/article/4244226/critical-langflow-flaws-enable-authentication-bypass-and-rce.html",
+            "summary": "",
+            "published_utc": "2026-11-03T23:09:01+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
+            "summary": "Attackers have compromised the update infrastructure for the cPGuard web security suite to distribute a backdoor and a data-stealing script. [...]",
+            "published_utc": "2026-11-03T22:18:50+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "WorkOS says attacker used ARTEX AI to breach internal sales app",
@@ -18,7 +32,7 @@
         {
             "source": "ZDNet Security",
             "title": "Want an iPhone Duo for the holidays? Apple’s latest stock update isn’t reassuring",
-            "link": "https://www.zdnet.com/uncategorized/santas-sleigh-may-be-missing-iphone-duos-in-time-for-christmas-what-apple-revealed-in-its-earnings-call/",
+            "link": "https://www.zdnet.com/tech/apple-foldable-iphone-duo-stock-shortage/",
             "summary": "The iPhone Duo likely won’t make it into Santa’s sleigh this year. Here’s what Apple had to say about it.",
             "published_utc": "2026-11-03T19:28:32+00:00"
         },
@@ -415,13 +429,6 @@
             "published_utc": "2026-11-02T14:44:18+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Hackers disrupt refrigeration systems at European supermarkets",
-            "link": "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/",
-            "summary": "A cyberattack on refrigeration systems has disrupted stores run by multiple supermarket chains across several European countries after hackers remotel...",
-            "published_utc": "2026-11-02T14:28:39+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Bitter Deploys PapRAT in Asian Cyber-Espionage Campaign",
             "link": "https://www.infosecurity-magazine.com/news/paprat-bitter-cyberespionage/",
@@ -658,13 +665,6 @@
             "link": "https://www.csoonline.com/article/4242253/beyond-deterministic-worms-preparing-the-soc-for-reasoning-adversaries.html",
             "summary": "",
             "published_utc": "2026-10-30T08:25:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "PHP2Shell plus Fragnesia: A dangerous new route from web server to root",
-            "link": "https://www.csoonline.com/article/4242454/php2shell-plus-fragnesia-a-dangerous-new-route-from-web-server-to-root.html",
-            "summary": "",
-            "published_utc": "2026-10-30T00:55:47+00:00"
         },
         {
             "source": "ZDNet Security",
