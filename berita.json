@@ -1,12 +1,159 @@
 {
-    "lastUpdatedUTC": "2026-11-05T11:56:32.537372+00:00",
+    "lastUpdatedUTC": "2026-11-05T19:41:24.487436+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "OpenAI’s GPT-6 Astra silently obstructed safety research tasks",
+            "link": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/",
+            "summary": "OpenAI has disclosed another AI alignment incident where GPT-6 Astra was found to sometimes quietly withhold help on safety research. [...]",
+            "published_utc": "2026-11-05T19:24:26+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "HR thinks you can learn AI skills – so why is your company hiring elsewhere?",
+            "link": "https://www.zdnet.com/innovation/ai-hiring-vs-reskilling-careerminds-research/",
+            "summary": "Over 90% of HR professionals say they believe employees can learn AI roles – but half of companies still hire outside for those positions, according t...",
+            "published_utc": "2026-11-05T18:44:47+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "6 default Pixel 11 settings I changed that made a big difference – and why",
+            "link": "https://www.zdnet.com/tech/pixel-11-settings-to-change/",
+            "summary": "If you’re a new Pixel 11 user, here are six things I recommend changing right away to get the most from your phone.",
+            "published_utc": "2026-11-05T18:18:16+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Claude’s new Personal Finance tool aims to help analyze your spending – read-only, of course",
+            "link": "https://www.zdnet.com/innovation/personal-finance-claude-anthropic/",
+            "summary": "Anthropic has released what appears to be its answer to ChatGPT Finances.",
+            "published_utc": "2026-11-05T18:00:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "OpenAI built an AI pipeline to find, exploit and patch Linux flaws",
+            "link": "https://www.csoonline.com/article/4245265/openai-built-an-ai-pipeline-to-find-exploit-and-patch-linux-flaws.html",
+            "summary": "",
+            "published_utc": "2026-11-05T17:48:04+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "3 ways Bluetooth 7 upgrades your devices beyond lossless audio",
+            "link": "https://www.zdnet.com/tech/bluetooth-7-features-headphones-smart-home-lossless-audio/",
+            "summary": "Bluetooth 7 could make your smart home devices easier to set up, for one. Here’s what we know about the new core specification.",
+            "published_utc": "2026-11-05T17:46:35+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "OpenSSH flaw lets attackers log into password-disabled Linux accounts",
+            "link": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/",
+            "summary": "A newly disclosed OpenSSH vulnerability dubbed \"*sshole\" allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts that a...",
+            "published_utc": "2026-11-05T17:45:29+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research",
+            "link": "https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/",
+            "summary": "",
+            "published_utc": "2026-11-05T17:32:37+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "OpenAI’s GPT-6 Cyber ups the ante on vulnerability discovery",
+            "link": "https://www.csoonline.com/article/4244911/openais-gpt-6-cyber-ups-the-ante-on-vulnerability-discovery.html",
+            "summary": "",
+            "published_utc": "2026-11-05T17:01:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers backdoor Linux servers using trojanized CWP web server",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
+            "summary": "A new Linux malware called CWPdoor is being distributed through a trojanized version of cwpsrv, the web server behind the Control Web Panel (CWP) mana...",
+            "published_utc": "2026-11-05T16:24:26+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "DigiCert data breach exposes customer information, identity documents",
+            "link": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
+            "summary": "DigiCert warns it suffered a data breach after a server migration mistakenly exposed an internal business system to the internet, allowing unauthorize...",
+            "published_utc": "2026-11-05T16:12:46+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The Siri AI waitlist is gone in iOS 27: How to try the beta today",
+            "link": "https://www.zdnet.com/business/siri-ai-beta-waitlist-ends-ios-27/",
+            "summary": "The wait is over for trying Siri AI on iOS 27. Here’s what you need to know to get started.",
+            "published_utc": "2026-11-05T16:08:49+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Residential Proxy Traffic Traced to White House Network",
+            "link": "https://www.infosecurity-magazine.com/news/white-house-residential-proxy-exits/",
+            "summary": "White House network addresses were used as exits by 28 residential proxy services",
+            "published_utc": "2026-11-05T16:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Zyxel Switch Patch Missed Flaw Behind Wave of Attacks",
+            "link": "https://www.infosecurity-magazine.com/news/zyxel-gs1900-patch-missed-flaw/",
+            "summary": "Zyxel’s June GS1900 patch did not block the exploit used against 996 switches, Binarly found",
+            "published_utc": "2026-11-05T15:15:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Closing the Identity Gap at the Service Desk",
+            "link": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
+            "summary": "Attackers target IT service desks to bypass MFA by impersonating employees and convincing staff to reset passwords or register new authentication devi...",
+            "published_utc": "2026-11-05T15:00:10+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "India Warns of New AI-Driven Cyber-Attacks Targeting Financial and Crypto Businesses",
+            "link": "https://www.infosecurity-magazine.com/news/india-warns-ai-cyberattacks/",
+            "summary": "The Indian CERT said a new cyber malicious group tracked as ‘Crafty Flacon’ is using Chinese-made AI tools to attack fintech and crypto organizations",
+            "published_utc": "2026-11-05T14:25:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Bank Phishing Sites Show Fake ‘Suspended’ Pages to Evade Takedowns",
+            "link": "https://www.securityweek.com/bank-phishing-sites-show-fake-suspended-pages-to-evade-takedowns/",
+            "summary": "",
+            "published_utc": "2026-11-05T13:22:12+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Cyberattack Hits French Blood Bank Site but No Blood Products Are Compromised",
+            "link": "https://www.securityweek.com/cyberattack-hits-french-blood-bank-site-but-no-blood-products-are-compromised/",
+            "summary": "",
+            "published_utc": "2026-11-05T12:58:32+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Cisco, WatchGuard Release Patches; SonicWall Won’t Fix GMS Flaws",
+            "link": "https://www.securityweek.com/cisco-watchguard-release-patches-sonicwall-wont-fix-gms-flaws/",
+            "summary": "",
+            "published_utc": "2026-11-05T12:33:49+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Debian, Ubuntu patch APT flaw that could hand attackers root",
+            "link": "https://www.csoonline.com/article/4245109/debian-ubuntu-patch-apt-flaw-that-could-hand-attackers-root.html",
+            "summary": "",
+            "published_utc": "2026-11-05T12:20:35+00:00"
+        },
         {
             "source": "InfosecurityMag",
             "title": "Chinese Nation-State Threat Activity Falls Sharply in Q2 and Q3 2026",
             "link": "https://www.infosecurity-magazine.com/news/chinese-nation-activity-falls/",
             "summary": "Trellix observed a 41.4% drop in China-nexus activity between April and September, which may reflect changing PRC strategic priorities",
             "published_utc": "2026-11-05T11:40:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "The Agent Smith Dilemma: Governing Agentic Identities",
+            "link": "https://www.securityweek.com/the-agent-smith-dilemma-governing-agentic-identities/",
+            "summary": "",
+            "published_utc": "2026-11-05T11:15:00+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -212,20 +359,6 @@
             "published_utc": "2026-11-04T14:34:44+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Barracuda ESG Authentication Bypass Flaw Opens Path to Root",
-            "link": "https://www.securityweek.com/barracuda-email-security-gateway-authentication-bypass-opens-path-to-root/",
-            "summary": "",
-            "published_utc": "2026-11-04T14:24:54+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Agentic Data Security Firm Sentra Raises $150 Million",
-            "link": "https://www.securityweek.com/agentic-data-security-firm-sentra-raises-150-million/",
-            "summary": "",
-            "published_utc": "2026-11-04T14:09:20+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "APT29 Watering Holes Target Unpatched iPhones and Android Devices",
             "link": "https://www.infosecurity-magazine.com/news/apt29-watering-holes-iphones/",
@@ -247,32 +380,11 @@
             "published_utc": "2026-11-04T12:52:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "AI-Linked Breaches Mount as WorkOS, Northflank, Trigger.dev Disclose Hacks",
-            "link": "https://www.securityweek.com/ai-linked-breaches-mount-as-workos-northflank-trigger-dev-disclose-hacks/",
-            "summary": "",
-            "published_utc": "2026-11-04T12:43:20+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Fake software installers are turning your PCs into profit centers for hackers",
             "link": "https://www.csoonline.com/article/4244528/fake-software-installers-are-turning-your-pcs-into-profit-centers-for-hackers.html",
             "summary": "",
             "published_utc": "2026-11-04T12:35:33+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Canadian Extradited to US Over Cryptomining Hacks on University Supercomputers",
-            "link": "https://www.securityweek.com/canadian-extradited-to-us-over-cryptomining-hacks-on-university-supercomputers/",
-            "summary": "",
-            "published_utc": "2026-11-04T12:27:58+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "CISA flags WordPress RCE flaw as actively exploited in attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
-            "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers have started exploiting a recently patched high-...",
-            "published_utc": "2026-11-04T12:11:05+00:00"
         },
         {
             "source": "CSO Online",
@@ -303,25 +415,11 @@
             "published_utc": "2026-11-04T11:02:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Malicious cPGuard Updates Served in OpsShield Supply Chain Attack",
-            "link": "https://www.securityweek.com/malicious-cpguard-updates-served-in-opsshield-supply-chain-attack/",
-            "summary": "",
-            "published_utc": "2026-11-04T10:54:48+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "SlippyNunchucks hijacks Sogou Input Method’s brand promotion mechanism to distribute malware",
             "link": "https://www.welivesecurity.com/en/eset-research/slippynunchucks-hijacks-sogou-input-methods-brand-promotion-mechanism-to-distribute-malware/",
             "summary": "ESET Research analyzes a DNS hijacking operation abusing insecure HTTP communications in Windows versions of Sogou Input Method",
             "published_utc": "2026-11-04T09:55:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
-            "link": "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/",
-            "summary": "A large-scale watering hole attack associated with Russian hackers has been targeting iOS and Android users visiting compromised sites or fake ones im...",
-            "published_utc": "2026-11-04T09:39:54+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -357,27 +455,6 @@
             "link": "https://www.csoonline.com/article/4244226/critical-langflow-flaws-enable-authentication-bypass-and-rce.html",
             "summary": "",
             "published_utc": "2026-11-03T23:09:01+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
-            "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
-            "summary": "Attackers have compromised the update infrastructure for the cPGuard web security suite to distribute a backdoor and a data-stealing script. [...]",
-            "published_utc": "2026-11-03T22:18:50+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "WorkOS says attacker used ARTEX AI to breach internal sales app",
-            "link": "https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/",
-            "summary": "Developer platform WorkOS suffered a data breach after a threat actor accessed business contact records and summaries of customer communications. [...]",
-            "published_utc": "2026-11-03T21:28:44+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Binance says fake job interview led to $6.3 billion crypto heist",
-            "link": "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/",
-            "summary": "Cryptocurrency exchange Binance says North Korean hackers used a fake job interview to trick an employee into installing malware that ultimately let t...",
-            "published_utc": "2026-11-03T20:05:50+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -583,39 +660,11 @@
             "published_utc": "2026-11-02T17:30:47+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Don’t want a touchscreen? All premium MacBook Pros could have one soon, reports say",
-            "link": "https://www.zdnet.com/tech/all-premium-macbook-pros-touchscreens-2027/",
-            "summary": "New reports indicate the touchscreens are to become the standard on premium MacBook Pros.",
-            "published_utc": "2026-11-02T17:23:24+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Firefox’s new Mini Window is every multitasker’s dream – Chrome can’t do this",
-            "link": "https://www.zdnet.com/home-and-office/firefox-mini-window-browser-feature/",
-            "summary": "The open-source browser’s newest feature lets you pop out a page – or part of a page – into its own mini window. See why this is incredibly cool.",
-            "published_utc": "2026-11-02T17:15:17+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "Anti-Oligarchy Activists Plan to Dox Elon Musk and Hundreds of Billionaire-Linked Homes",
             "link": "https://www.wired.com/story/anti-oligarchy-activists-plan-to-dox-elon-musk-and-hundreds-of-billionaire-linked-homes/",
             "summary": "The Capytistas, a secretive group claiming more than $1.2 million in backing, started with Elon Musk and Tesla’s board. Members argue that those who b...",
             "published_utc": "2026-11-02T17:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Samsung’s Privacy Display may be coming to more Galaxy phones – what we know",
-            "link": "https://www.zdnet.com/tech/samsung-privacy-display-galaxy-s27-pro-ultra/",
-            "summary": "Privacy Display on the Galaxy S26 Ultra was a big hit in our hands-on. Now, we may see it roll out to more Galaxy phones.",
-            "published_utc": "2026-11-02T16:52:54+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Apple’s HomeView may double as security camera – watch out Ring, Nest, and Wyze",
-            "link": "https://www.zdnet.com/home-and-office/apple-homeview-indoor-security-camera/",
-            "summary": "HomeView settings reveal potential video recording and streaming options alongside privacy features.",
-            "published_utc": "2026-11-02T16:35:32+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -639,25 +688,11 @@
             "published_utc": "2026-11-02T14:00:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "A compromised DevOps laptop caused the $6.3B Binance breach",
-            "link": "https://www.csoonline.com/article/4243225/a-compromised-devops-laptop-caused-the-6-3b-binance-breach.html",
-            "summary": "",
-            "published_utc": "2026-11-02T12:32:28+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "AI Vulnerability Finding",
             "link": "https://www.schneier.com/blog/archives/2026/11/ai-vulnerability-finding-2.html",
             "summary": "",
             "published_utc": "2026-11-02T12:02:34+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Cursor removes malicious Claude Code extension after SSH backdoor attempt",
-            "link": "https://www.csoonline.com/article/4243210/cursor-removes-malicious-claude-code-extension-after-ssh-backdoor-attempt.html",
-            "summary": "",
-            "published_utc": "2026-11-02T11:33:58+00:00"
         },
         {
             "source": "WIRED Security",
@@ -672,13 +707,6 @@
             "link": "https://www.infosecurity-magazine.com/news/fbi-attributes-binance-north/",
             "summary": "The FBI has blamed North Korean APT group TraderTraitor for the world’s biggest cyber heist",
             "published_utc": "2026-11-02T10:15:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Why do we keep testing employees for yesterday’s phishing attacks",
-            "link": "https://www.csoonline.com/article/4242712/why-do-we-keep-testing-employees-for-yesterdays-phishing-attacks.html",
-            "summary": "",
-            "published_utc": "2026-11-02T10:00:00+00:00"
         },
         {
             "source": "WIRED Security",
@@ -721,13 +749,6 @@
             "link": "https://www.wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems/",
             "summary": "Thanks to a lucky break, flawed code in a tainted Claude extension prevented the attacker from fully worming their way into some 5,000 developer machi...",
             "published_utc": "2026-10-30T20:38:46+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Android 17 adoption hits a staggering 1% – why you really should update now",
-            "link": "https://www.zdnet.com/tech/android-17-os-adoption-numbers-october-2026/",
-            "summary": "Only a quarter of Android phones have even made it to Android 16.",
-            "published_utc": "2026-10-30T18:18:24+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2802,32 +2823,11 @@
             "published_utc": "2026-08-27T10:00:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "OpenAI: Hugging Face Incident a “Warning Shot” to the World",
-            "link": "https://www.infosecurity-magazine.com/news/openai-hugging-face-warning-shot/",
-            "summary": "OpenAI reveals that unauthorized message boards were at the heart of the recent Hugging Face breach",
-            "published_utc": "2026-08-27T09:15:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "AI-driven OSINT in the wrong hands – and why everyone could be a target for fraud",
             "link": "https://www.welivesecurity.com/en/privacy/ai-powered-osint-why-everyone-viable-target-fraud/",
             "summary": "It’s getting cheaper and easier for cybercriminals to research potential victims. Here’s what’s still in your control.",
             "published_utc": "2026-08-27T09:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Tortoiseshell Expands Malware Toolset With New Backdoor, SSH Tunnel",
-            "link": "https://www.infosecurity-magazine.com/news/tortoiseshell-new-backdoor-ssh/",
-            "summary": "Group-IB uncovered new Tortoiseshell infrastructure, including a backdoor and SSH tunneling tool",
-            "published_utc": "2026-08-26T14:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Interpol Operation Jackal IV Identifies 263 Cybercrime Suspects",
-            "link": "https://www.infosecurity-magazine.com/news/interpol-operation-jackal-iv/",
-            "summary": "Interpol operation leads to 58 arrests and identifies 263 suspects across 22 countries",
-            "published_utc": "2026-08-26T13:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
