@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2026-11-05T19:41:24.487436+00:00",
+    "lastUpdatedUTC": "2026-11-06T00:49:48.040835+00:00",
     "articles": [
+        {
+            "source": "WIRED Security",
+            "title": "6 Best VPN Services (2026), Tested and Reviewed",
+            "link": "https://www.wired.com/gallery/best-vpn/",
+            "summary": "Every VPN says it’s the best, but only some of them are telling the truth.",
+            "published_utc": "2026-11-05T23:00:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "French banking group hit by supply chain cyberattack",
+            "link": "https://www.csoonline.com/article/4245357/french-banking-group-hit-by-supply-chain-cyberattack.html",
+            "summary": "",
+            "published_utc": "2026-11-05T22:21:16+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Binance heist is stark example of AI governance gaps and basic security failures",
+            "link": "https://www.csoonline.com/article/4245354/binance-heist-is-stark-example-of-ai-governance-gaps-and-basic-security-failures.html",
+            "summary": "",
+            "published_utc": "2026-11-05T21:57:37+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
+            "link": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
+            "summary": "Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-serv...",
+            "published_utc": "2026-11-05T21:30:30+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Nearly 1.5 million exposed secrets targeted in new revocation program",
+            "link": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
+            "summary": "Truffle Security has launched the Secrets Revocation Program, a free initiative that helps API key issuers revoke 1.4 million publicly exposed secrets...",
+            "published_utc": "2026-11-05T20:15:08+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "OpenAI’s GPT-6 Astra silently obstructed safety research tasks",
@@ -345,13 +380,6 @@
             "published_utc": "2026-11-04T15:00:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "SonicWall warns of unpatched flaws in end-of-life GMS software",
-            "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/",
-            "summary": "SonicWall warned customers of two security flaws affecting end-of-life Global Management System (GMS) systems that will not be patched. [...]",
-            "published_utc": "2026-11-04T14:42:25+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "Sysdig Adds Runtime Security and Governance for AI Agents",
             "link": "https://www.securityweek.com/sysdig-adds-runtime-security-and-governance-for-ai-agents/",
@@ -364,13 +392,6 @@
             "link": "https://www.infosecurity-magazine.com/news/apt29-watering-holes-iphones/",
             "summary": "APT29 compromised Ukrainian analytics tracker Plerdy to serve n-day exploits to mobile users",
             "published_utc": "2026-11-04T14:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "US charges two Canadians accused of hacking US universities",
-            "link": "https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/",
-            "summary": "A federal grand jury indicted two Canadians suspected of hacking multiple US universities and using the compromised systems to mine for cryptocurrency...",
-            "published_utc": "2026-11-04T13:13:20+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -618,13 +639,6 @@
             "published_utc": "2026-11-03T09:35:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "67% of security leaders say their teams struggle to meet business needs",
-            "link": "https://www.csoonline.com/article/4243598/67-of-security-leaders-say-their-teams-struggle-to-meet-business-needs.html",
-            "summary": "",
-            "published_utc": "2026-11-03T08:25:00+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "Is Claude Code truly faster with message threads? I did the math on my logs",
             "link": "https://www.zdnet.com/innovation/claude-code-message-threads-speed-test/",
@@ -637,13 +651,6 @@
             "link": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
             "summary": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with mali...",
             "published_utc": "2026-11-03T02:24:31+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "European supermarkets that failed to act after French freezer attack are now feeling the heat",
-            "link": "https://www.csoonline.com/article/4243371/european-supermarkets-that-failed-to-act-after-french-freezer-attack-are-now-feeling-the-heat.html",
-            "summary": "",
-            "published_utc": "2026-11-03T00:23:35+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -1841,13 +1848,6 @@
             "link": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
             "summary": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
             "published_utc": "2026-10-03T12:00:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "ICE Has Been Dumping Protester Photos Into a Palantir Database",
-            "link": "https://www.wired.com/story/ice-has-been-dumping-protester-photos-into-a-palantir-database/",
-            "summary": "DHS agents not only tracked and intimidated people observing ICE activity in Maine, but stored information about them in a database run on Palantir so...",
-            "published_utc": "2026-10-02T19:52:36+00:00"
         },
         {
             "source": "InfosecurityMag",
