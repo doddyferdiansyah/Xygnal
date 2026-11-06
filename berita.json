@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-11-06T00:49:48.040835+00:00",
+    "lastUpdatedUTC": "2026-11-06T07:43:39.333100+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million",
+            "link": "https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/",
+            "summary": "",
+            "published_utc": "2026-11-06T03:03:29+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "OpenSSH flaw lets attackers access password-disabled accounts on some Linux systems",
+            "link": "https://www.csoonline.com/article/4245407/openssh-flaw-lets-attackers-access-password-disabled-accounts-on-some-linux-systems.html",
+            "summary": "",
+            "published_utc": "2026-11-06T01:10:08+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
+            "link": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
+            "summary": "The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing fo...",
+            "published_utc": "2026-11-06T00:56:44+00:00"
+        },
         {
             "source": "WIRED Security",
             "title": "6 Best VPN Services (2026), Tested and Reviewed",
@@ -366,25 +387,11 @@
             "published_utc": "2026-11-04T16:00:18+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
-            "link": "https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/",
-            "summary": "A phishing campaign used Google Calendar invites, trusted redirects, and fake login pages to hijack corporate Google sessions and bypass MFA protectio...",
-            "published_utc": "2026-11-04T15:00:10+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "China-Aligned Group Abuses Sogou Input Method to Deliver Malware",
             "link": "https://www.infosecurity-magazine.com/news/slippynunchucks-sogou-dns-hijacking/",
             "summary": "SlippyNunchucks used DNS hijacking to turn Sogou brand promotions into a malware channel",
             "published_utc": "2026-11-04T15:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Sysdig Adds Runtime Security and Governance for AI Agents",
-            "link": "https://www.securityweek.com/sysdig-adds-runtime-security-and-governance-for-ai-agents/",
-            "summary": "",
-            "published_utc": "2026-11-04T14:34:44+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -609,13 +616,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ncsc-ai-ransomware-threat-uk-cni/",
             "summary": "The UK’s cyber chief has warned that AI-powered malware is highly likely to feature in ransomware attacks targeting British critical infrastructure by...",
             "published_utc": "2026-11-03T11:45:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Armed with AI, hackers target endpoint security blind spots, raising stakes for CISOs",
-            "link": "https://www.csoonline.com/article/4243816/armed-with-ai-hackers-target-endpoint-security-blind-spots-raising-stakes-for-cisos.html",
-            "summary": "",
-            "published_utc": "2026-11-03T10:53:10+00:00"
         },
         {
             "source": "InfosecurityMag",
