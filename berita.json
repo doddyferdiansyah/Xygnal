@@ -1,6 +1,34 @@
 {
-    "lastUpdatedUTC": "2026-11-06T21:19:41.211675+00:00",
+    "lastUpdatedUTC": "2026-11-07T01:41:04.662973+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
+            "summary": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited i...",
+            "published_utc": "2026-11-07T00:00:55+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Alpine Linux and OpenSSH patch flaw that’s as bad as it can get",
+            "link": "https://www.zdnet.com/tech/alpine-linux-openssh-patch-flaw/",
+            "summary": "This dangerous Linux security hole must be patched as soon as possible.",
+            "published_utc": "2026-11-07T00:00:45+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+            "link": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
+            "summary": "WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security rese...",
+            "published_utc": "2026-11-06T22:27:25+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Friday Squid Blogging: New Jurassic Squid Predecessors",
+            "link": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-new-jurassic-squid-predecessors.html",
+            "summary": "",
+            "published_utc": "2026-11-06T22:05:12+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
@@ -308,20 +336,6 @@
             "link": "https://www.csoonline.com/article/4244911/openais-gpt-6-cyber-ups-the-ante-on-vulnerability-discovery.html",
             "summary": "",
             "published_utc": "2026-11-05T17:01:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Hackers backdoor Linux servers using trojanized CWP web server",
-            "link": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
-            "summary": "A new Linux malware called CWPdoor is being distributed through a trojanized version of cwpsrv, the web server behind the Control Web Panel (CWP) mana...",
-            "published_utc": "2026-11-05T16:24:26+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "DigiCert data breach exposes customer information, identity documents",
-            "link": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
-            "summary": "DigiCert warns it suffered a data breach after a server migration mistakenly exposed an internal business system to the internet, allowing unauthorize...",
-            "published_utc": "2026-11-05T16:12:46+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -658,13 +672,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/11/ais-hacking-the-law.html",
             "summary": "",
             "published_utc": "2026-11-03T12:01:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I tested the RedMagic 12 Pro – and it’s the fastest Android I’ve ever seen",
-            "link": "https://www.zdnet.com/tech/the-redmagic-12-pro-is-an-elite-phone-with-one-glaring-issue/",
-            "summary": "If it’s possible to release a flagship phone while at the same time making it appear more like a midrange phone, Red Magic has found a way.",
-            "published_utc": "2026-11-03T12:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1120,13 +1127,6 @@
             "link": "https://www.infosecurity-magazine.com/news/capcom-confirms-data-breach/",
             "summary": "Japanese video games giant Capcom confirmed unauthorized access to its online account system",
             "published_utc": "2026-10-23T11:45:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Compromised TLS Certificates",
-            "link": "https://www.schneier.com/blog/archives/2026/10/compromised-tls-certificates.html",
-            "summary": "",
-            "published_utc": "2026-10-23T11:04:22+00:00"
         },
         {
             "source": "InfosecurityMag",
