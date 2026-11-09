@@ -1,6 +1,202 @@
 {
-    "lastUpdatedUTC": "2026-11-09T09:17:09.165461+00:00",
+    "lastUpdatedUTC": "2026-11-09T20:28:53.143355+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "You can change Windows settings directly from a search now – how to try it",
+            "link": "https://www.zdnet.com/tech/windows-11-control-settings-from-search-insiders-preview/",
+            "summary": "The latest Windows 11 Insiders Preview enhances the Search feature so that you can access specific settings right from a search window.",
+            "published_utc": "2026-11-09T19:33:24+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "France blames Iranian hackers for supermarket attacks that sparked fires",
+            "link": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/",
+            "summary": "France has linked October cyberattacks that disrupted refrigeration systems at more than 700 supermarkets and other retail locations to Iranian state-...",
+            "published_utc": "2026-11-09T18:32:42+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "AMD confirms GPU driver bug is wearing out your SSD – how to stop it",
+            "link": "https://www.zdnet.com/tech/amd-confirms-gpu-driver-bug-is-wearing-out-your-ssd-how-to-stop-it/",
+            "summary": "AMD has admitted a bug within its External Events Utility is wearing out SSDs, and promises a fix.",
+            "published_utc": "2026-11-09T18:30:49+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Ready for a Siri AI agent? Apple under pressure to upgrade its assistant faster",
+            "link": "https://www.zdnet.com/home-and-office/apple-siri-ai-agentic-strategy/",
+            "summary": "Apple’s public-facing satisfaction with the Siri AI launch obscures internal pressures and tensions.",
+            "published_utc": "2026-11-09T17:54:25+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Russian cloud firm Beget rebuilds from scratch after data wiper attack",
+            "link": "https://www.bleepingcomputer.com/news/security/russian-cloud-firm-beget-rebuilds-from-scratch-after-data-wiper-attack/",
+            "summary": "A data-wiping malware attack has forced Russian cloud services provider Beget to rebuild its cloud infrastructure from scratch, the company said. [...]",
+            "published_utc": "2026-11-09T17:50:32+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Android Auto requires Android 11 or higher now – check your compatibility",
+            "link": "https://www.zdnet.com/tech/android-auto-new-requirements-android-11/",
+            "summary": "Android Auto’s minimum requirements have changed. Here’s what to know.",
+            "published_utc": "2026-11-09T17:46:42+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Samsung’s new SmartTag 3 debuts with next-gen Bluetooth – and one big problem",
+            "link": "https://www.zdnet.com/tech/samsung-smart-tag-3-channel-sounding/",
+            "summary": "The Galaxy SmartTag 3 supports emerging Bluetooth tracking tech, but it’s not a match for Samsung’s OS exclusivity.",
+            "published_utc": "2026-11-09T17:46:38+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Samsung mulls Galaxy AI usage limits and subscription tiers – what we know",
+            "link": "https://www.zdnet.com/innovation/samsung-galaxy-ai-paid-subscription/",
+            "summary": "Galaxy device owners who are heavy AI users would likely start paying for some features they’ve long enjoyed for free.",
+            "published_utc": "2026-11-09T16:55:56+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Binance denies data breach after alleged ShinyHunters claims",
+            "link": "https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/",
+            "summary": "Binance, the world's largest crypto exchange, has denied claims of a new security breach made by a threat actor using the 'ShinyHunters' handle on a n...",
+            "published_utc": "2026-11-09T16:12:39+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers exploit SSHole OpenSSH flaw to breach Linux systems",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/",
+            "summary": "Hackers are actively exploiting the \"SSHole\" vulnerability (CVE-2026-123158) in OpenSSH to execute commands, steal credentials, and establish persiste...",
+            "published_utc": "2026-11-09T16:04:57+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Jailbroken AI Agent Ran Two-Week Attack on European Telecom",
+            "link": "https://www.infosecurity-magazine.com/news/operation-snowball-ai-telecom/",
+            "summary": "Jailbroken DeepSeek agent spent two weeks attacking a European telecom, Malbear Labs found",
+            "published_utc": "2026-11-09T16:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "The Biggest Threat to Your GRC Job Isn’t AI. It’s Ignoring AI.",
+            "link": "https://www.bleepingcomputer.com/news/security/the-biggest-threat-to-your-grc-job-isnt-ai-its-ignoring-ai/",
+            "summary": "AI agents are taking over routine governance, risk, and compliance tasks, forcing GRC professionals to rethink the skills needed to stay relevant. Ane...",
+            "published_utc": "2026-11-09T15:05:15+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "FBI agent stole $2.5 million in crypto from hackers under investigation",
+            "link": "https://www.bleepingcomputer.com/news/security/fbi-agent-stole-25-million-in-crypto-from-hackers-fraud-victims/",
+            "summary": "A former FBI agent has pleaded guilty to stealing nearly $2.5 million from the wallets of fraud victims and nation-state hackers under investigation. ...",
+            "published_utc": "2026-11-09T14:34:03+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "New Supply Chain Attack Compromises Tens of Thousands of GitHub Repositories",
+            "link": "https://www.infosecurity-magazine.com/news/supply-chain-attack-thousands/",
+            "summary": "Security researchers have detected a malicious workflow affecting tens of thousands of GitHub repositories, including Uber-owned ones",
+            "published_utc": "2026-11-09T14:30:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Revolve Puts Data Breach Victim Count at 1.5 Million",
+            "link": "https://www.securityweek.com/revolve-puts-data-breach-victim-count-at-1-5-million/",
+            "summary": "",
+            "published_utc": "2026-11-09T14:08:08+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Email Addresses of 2.2 Million Sega Customers Leaked in Vendor Breach",
+            "link": "https://www.infosecurity-magazine.com/news/email-sega-customers-vendor-breach/",
+            "summary": "Gaming company Sega warned customers to be vigilant for suspicious emails after hackers compromised Japanese email delivery provider Arara",
+            "published_utc": "2026-11-09T13:31:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "US bans MEXC crypto exchange over sanctions evasion, cybercrime links",
+            "link": "https://www.bleepingcomputer.com/news/security/us-bans-mexc-crypto-exchange-over-sanctions-evasion-cybercrime-links/",
+            "summary": "The US Department of the Treasury has cut off the MEXC Global crypto exchange from the US financial system over sanctions evasion and links with cyber...",
+            "published_utc": "2026-11-09T13:28:56+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Plex2Shell Exploited Against QNAP NAS Users",
+            "link": "https://www.securityweek.com/plex2shell-exploited-against-qnap-nas-users/",
+            "summary": "",
+            "published_utc": "2026-11-09T13:13:28+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Iris Plaza Breach May Have Exposed Data of 7.7 Million Customers",
+            "link": "https://www.securityweek.com/iris-plaza-breach-may-have-exposed-data-of-7-7-million-customers/",
+            "summary": "",
+            "published_utc": "2026-11-09T12:41:27+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Italy’s Meloni Blames Pro-Russian Hackers for Leak of Foreign Minister’s Data on the Dark Web",
+            "link": "https://www.securityweek.com/italys-meloni-blames-pro-russian-hackers-for-leak-of-foreign-ministers-data-on-the-dark-web/",
+            "summary": "",
+            "published_utc": "2026-11-09T12:22:12+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Ukraine dismantles crypto scam network that stole €4.3 million",
+            "link": "https://www.bleepingcomputer.com/news/security/ukraine-dismantles-crypto-scam-network-that-stole-43-million/",
+            "summary": "Ukrainian law enforcement arrested four suspects in a case involving the theft of more than €4.3 million using a network of cryptocurrency investment ...",
+            "published_utc": "2026-11-09T12:16:13+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Hackers Exploiting ‘SSHole’ Authentication Bypass in OpenSSH",
+            "link": "https://www.securityweek.com/hackers-exploiting-sshole-authentication-bypass-in-openssh/",
+            "summary": "",
+            "published_utc": "2026-11-09T12:13:32+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "AI Security",
+            "link": "https://www.schneier.com/blog/archives/2026/11/ai-security.html",
+            "summary": "",
+            "published_utc": "2026-11-09T12:05:39+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Amplifon Americas Data Breach Impacts 1.3 Million",
+            "link": "https://www.securityweek.com/amplifon-americas-data-breach-impacts-1-3-million/",
+            "summary": "",
+            "published_utc": "2026-11-09T11:20:09+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Crédit Mutuel Arkéa Targeted in Reported $133m Heist",
+            "link": "https://www.infosecurity-magazine.com/news/crdit-mutuel-arka-targeted/",
+            "summary": "French co-operative bank Crédit Mutuel Arkéa has reported a cyber-attack enabling fraudulent transactions",
+            "published_utc": "2026-11-09T10:30:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Over 3 Million People Hit by Frontline Education Data Breach",
+            "link": "https://www.securityweek.com/3-million-people-hit-by-frontline-education-data-breach/",
+            "summary": "",
+            "published_utc": "2026-11-09T10:09:02+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "DHS Has Used This Controversial Investigative Tool 185,000 Times Since Trump Took Office",
+            "link": "https://www.wired.com/story/dhs-has-used-this-controversial-investigative-tool-185000-times-since-trump-took-office/",
+            "summary": "Homeland Security Investigations estimates that it has sent out more administrative subpoenas since January 2025 than it did in more than six and a ha...",
+            "published_utc": "2026-11-09T10:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Anti-Money Laundering Watchdog FATF Targets Scam Compounds",
+            "link": "https://www.infosecurity-magazine.com/news/aml-watchdog-fatf-scam-compounds/",
+            "summary": "AML body the Financial Action Task Force has suggested new ways to disrupt scam compounds",
+            "published_utc": "2026-11-09T09:16:00+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "The code and the court: Why your email security thinks like Napoleon",
@@ -114,13 +310,6 @@
             "published_utc": "2026-11-06T18:43:43+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks",
-            "link": "https://www.securityweek.com/japan-announces-emergency-cybersecurity-package-following-a-wave-of-attacks/",
-            "summary": "",
-            "published_utc": "2026-11-06T18:28:41+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "Android is getting my favorite iOS tracking feature – what to expect",
             "link": "https://www.zdnet.com/tech/android-find-hub-left-behind-upgrade/",
@@ -135,25 +324,11 @@
             "published_utc": "2026-11-06T17:08:33+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
-            "summary": "QNAP urges users to update Plex Media Server to the latest version available in the QNAP App Center, as hackers are exploiting the Plex2Shell vulnerab...",
-            "published_utc": "2026-11-06T17:04:23+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "Apple will monitor your public iCloud links now, starting with iOS 27.3",
             "link": "https://www.zdnet.com/innovation/apple-monitor-public-icloud-links-27-3-harmful-content/",
             "summary": "Under Apple’s new policy, the company will scan publicly shared iCloud links for harmful content – and possibly ban violators.",
             "published_utc": "2026-11-06T16:21:55+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Veeam warns of Software Appliance boot failures on AMD EPYC hosts",
-            "link": "https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/",
-            "summary": "​Veeam warned customers about boot failures affecting Software Appliance virtual machines (VMs) on hosts with AMD EPYC processors. [...]",
-            "published_utc": "2026-11-06T15:25:31+00:00"
         },
         {
             "source": "CSO Online",
@@ -163,13 +338,6 @@
             "published_utc": "2026-11-06T15:00:54+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It",
-            "link": "https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/",
-            "summary": "IMSI and IMEI are IDs your phone shares with networks. Learn how they differ, how attackers get them, and why rotating your IMSI blunts tracking. [...]",
-            "published_utc": "2026-11-06T15:00:10+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Pinpointing Location of Videos from Background Airplane Sounds",
             "link": "https://www.schneier.com/blog/archives/2026/11/pinpointing-location-of-videos-from-background-airplane-sounds.html",
@@ -177,67 +345,11 @@
             "published_utc": "2026-11-06T14:57:48+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days",
-            "link": "https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/",
-            "summary": "",
-            "published_utc": "2026-11-06T14:40:09+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Chainalysis says breach exposed credentials for all customers",
-            "link": "https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/",
-            "summary": "Blockchain intelligence firm Chainalysis says a recent attack on its systems and internal tools has exposed credentials and live tokens for all custom...",
-            "published_utc": "2026-11-06T14:17:07+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "DigiCert Data Breach Impacts Business Customer Information",
-            "link": "https://www.securityweek.com/digicert-data-breach-impacts-business-customer-information/",
-            "summary": "",
-            "published_utc": "2026-11-06T14:00:07+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "OpenAI Says New GPT-6 Cyber Model Hunts Flaws Without Crossing the Line",
-            "link": "https://www.securityweek.com/openai-says-new-gpt-6-cyber-model-hunts-flaws-without-crossing-the-line/",
-            "summary": "",
-            "published_utc": "2026-11-06T13:19:52+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "US Agencies Urge Organizations to Harden Refrigeration Controllers",
-            "link": "https://www.securityweek.com/us-agencies-urge-organizations-to-harden-refrigeration-controllers/",
-            "summary": "",
-            "published_utc": "2026-11-06T13:02:26+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "ARTEX Offensive AI Tool Activity Far Exceeds Reported Campaigns, Censys Finds",
             "link": "https://www.infosecurity-magazine.com/news/artex-activity-exceeds-reported/",
             "summary": "A new Censys report showed that the use of ARTEX, an AI pentesting tool popular with threat actor, could be spreading far beyond initially reported ca...",
             "published_utc": "2026-11-06T13:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack",
-            "link": "https://www.securityweek.com/grocery-giant-ahold-delhaize-estimates-financial-toll-of-october-cyberattack/",
-            "summary": "",
-            "published_utc": "2026-11-06T12:47:55+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "D-Link warns of multiple zero-days in DGS-3130 Series switches",
-            "link": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/",
-            "summary": "D-Link shared mitigation measures for multiple unpatched security flaws affecting DGS-3130 series managed Gigabit stackable switches. [...]",
-            "published_utc": "2026-11-06T12:37:22+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Researchers Find Residential Proxies on White House Network",
-            "link": "https://www.securityweek.com/researchers-find-residential-proxies-on-white-house-network/",
-            "summary": "",
-            "published_utc": "2026-11-06T12:16:13+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -261,13 +373,6 @@
             "published_utc": "2026-11-06T11:14:26+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "MetaMask says recent attack didn't affect wallet infrastructure",
-            "link": "https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/",
-            "summary": "Cryptocurrency wallet provider MetaMask said a recent security incident has not affected MetaMask wallets or its wallet infrastructure. [...]",
-            "published_utc": "2026-11-06T09:22:28+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Half of Security Leaders Report Sensitive Data Exposure Through AI Tools",
             "link": "https://www.infosecurity-magazine.com/news/security-data-exposure-ai/",
@@ -280,13 +385,6 @@
             "link": "https://www.csoonline.com/article/4245407/openssh-flaw-lets-attackers-access-password-disabled-accounts-on-some-linux-systems.html",
             "summary": "",
             "published_utc": "2026-11-06T01:10:08+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
-            "link": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
-            "summary": "The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing fo...",
-            "published_utc": "2026-11-06T00:56:44+00:00"
         },
         {
             "source": "WIRED Security",
@@ -308,13 +406,6 @@
             "link": "https://www.csoonline.com/article/4245354/binance-heist-is-stark-example-of-ai-governance-gaps-and-basic-security-failures.html",
             "summary": "",
             "published_utc": "2026-11-05T21:57:37+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
-            "link": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
-            "summary": "Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-serv...",
-            "published_utc": "2026-11-05T21:30:30+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -618,34 +709,6 @@
             "published_utc": "2026-11-03T17:33:45+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Nvidia RTX 50 GPUs hit with more price hikes – up to $500",
-            "link": "https://www.zdnet.com/tech/nvidia-rtx-50-cards-gpus-more-price-increases/",
-            "summary": "Some GPUs will see bigger increases than others, while Intel and AMD remain mum on their pricing plans",
-            "published_utc": "2026-11-03T17:30:50+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "I tried Sonos’ latest app features – these 2 small upgrades fix big annoyances",
-            "link": "https://www.zdnet.com/home-and-office/sonos-app-update-hands-on-11-3-2026/",
-            "summary": "New Sonos software and firmware updates are rolling out. Here’s what you can expect.",
-            "published_utc": "2026-11-03T17:26:01+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Windows 11 can run better on PCs with 8GB now, Microsoft says – here’s why",
-            "link": "https://www.zdnet.com/tech/windows-11-pc-8gb-ram-update-now/",
-            "summary": "The latest updates to Windows 11 offer improvements in speed, performance, and memory management.",
-            "published_utc": "2026-11-03T17:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Roku is taking away a fan-favorite screensaver – but you have alternatives",
-            "link": "https://www.zdnet.com/home-and-office/roku-aquatic-life-aquarium-screensaver-alternatives/",
-            "summary": "One of Roku’s most popular screensavers is about to make its last splash. Here’s how to switch before Dec. 1.",
-            "published_utc": "2026-11-03T16:40:14+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Russia-Aligned Gorbag Targets Ukraine for Intelligence",
             "link": "https://www.infosecurity-magazine.com/news/russia-gorbag-targets-ukraine/",
@@ -658,13 +721,6 @@
             "link": "https://www.infosecurity-magazine.com/news/btcpay-server-flaw-cryptocurrency/",
             "summary": "Attackers drained hot wallets on outdated BTCPay Server instances, with $1.63m traced so far",
             "published_utc": "2026-11-03T14:30:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "This clever banking scam keeps phishing by faking its own demise – how it works",
-            "link": "https://www.zdnet.com/tech/bank-phishing-scam-kela/",
-            "summary": "You won’t see the ‘suspended’ sign because it’s not meant for you.",
-            "published_utc": "2026-11-03T14:15:36+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -707,13 +763,6 @@
             "link": "https://www.infosecurity-magazine.com/news/police-tech-firms-team-up-to/",
             "summary": "Google and partners have taken down the XCPE botnet attributed to Chinese device maker Videostrong",
             "published_utc": "2026-11-03T09:35:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Is Claude Code truly faster with message threads? I did the math on my logs",
-            "link": "https://www.zdnet.com/innovation/claude-code-message-threads-speed-test/",
-            "summary": "Claude Code’s update could save you time during demanding, hours-long coding sessions at no extra cost. But by how much? Here’s my real-world result.",
-            "published_utc": "2026-11-03T07:28:00+00:00"
         },
         {
             "source": "KrebsOnSecurity",
@@ -1120,13 +1169,6 @@
             "link": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
             "summary": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
             "published_utc": "2026-10-24T12:00:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Friday Squid Blogging: Increasing Squid Populations",
-            "link": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-increasing-squid-populations.html",
-            "summary": "",
-            "published_utc": "2026-10-23T21:00:09+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1708,13 +1750,6 @@
             "link": "https://www.infosecurity-magazine.com/news/fbi-secret-service-fortibleed/",
             "summary": "The FBI and Secret Service are warning Fortigate admins that their systems are still being targeted",
             "published_utc": "2026-10-08T08:40:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "Shaq Got Hacked. Now He’s Pitching for a VPN",
-            "link": "https://www.wired.com/story/how-a-weirdly-chill-celebrity-thinks-about-personal-cybersecurity/",
-            "summary": "At a recent event for security firm NordVPN, NBA superstar Shaquille O’Neal revealed that he got hacked—and warned the public about the need to “have ...",
-            "published_utc": "2026-10-07T21:31:51+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2786,41 +2821,6 @@
             "link": "https://www.infosecurity-magazine.com/news/financial-stability-board-alarm/",
             "summary": "The Financial Stability Board has warned G20 banking leaders about the cyber risks of frontier AI",
             "published_utc": "2026-09-01T09:20:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Healthcare Giant McKesson Investigates Data Breach Incident",
-            "link": "https://www.infosecurity-magazine.com/news/healthcare-mckesson-investigates/",
-            "summary": "ShinyHunters claims to have stolen 284 million records from McKesson",
-            "published_utc": "2026-09-01T08:25:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Fake Voicemail SVG Attachments Fuel Large-Scale Phishing Campaign",
-            "link": "https://www.infosecurity-magazine.com/news/fake-voicemail-svg-files-bypass/",
-            "summary": "A large-scale phishing campaign used fake voicemail SVG attachments to bypass email defenses, targeting 5527 organizations with over 26,000 malicious ...",
-            "published_utc": "2026-08-28T13:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Window to Tackle Surge in AI-Enabled Cyber Attacks Narrowing, Tech Giants Warn",
-            "link": "https://www.infosecurity-magazine.com/news/window-ai-attacks-narrowing-tech/",
-            "summary": "More than 100 companies, including OpenAI, Anthropic, Google and Microsoft, have urged collective action to unlock the power of AI to protect critical...",
-            "published_utc": "2026-08-28T09:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Threat Actors Abuse Cursor Agent AI to Assist Ransomware Operations",
-            "link": "https://www.infosecurity-magazine.com/news/abuse-cursor-agent-ransomware/",
-            "summary": "Aurora ransomware operators are abusing SpaceX’s Cursor Agent AI tool to conduct tasks such as reconnaissance and exploitation activities",
-            "published_utc": "2026-08-28T08:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Manchester Airports Group Hit by Cyber Incident",
-            "link": "https://www.infosecurity-magazine.com/news/manchester-airports-data-breach/",
-            "summary": "Customer data linked to bookings and airport Wi-Fi registrations at Manchester, Stansted and East Midlands airports has been accessed by an unauthoriz...",
-            "published_utc": "2026-08-27T13:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
