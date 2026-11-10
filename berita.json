@@ -1,6 +1,125 @@
 {
-    "lastUpdatedUTC": "2026-11-10T03:14:26.150798+00:00",
+    "lastUpdatedUTC": "2026-11-10T12:13:47.587593+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "SAP patches ICM2SHELL and PROXYGATE maximum severity flaws",
+            "link": "https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities/",
+            "summary": "SAP patched 35 vulnerabilities in its November 2026 security updates, including four maximum-severity issues affecting its NetWeaver, Web Dispatcher, ...",
+            "published_utc": "2026-11-10T12:07:03+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "New OpenSSH Vulnerability",
+            "link": "https://www.schneier.com/blog/archives/2026/11/new-openssh-vulnerability.html",
+            "summary": "",
+            "published_utc": "2026-11-10T12:02:38+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Vanderbilt University Takes Systems Offline After Cyber Incident",
+            "link": "https://www.infosecurity-magazine.com/news/vanderbilt-university-cyber/",
+            "summary": "The BYOD ransomware group has claimed to have locked the university’s databases and stolen sensitive data from its systems",
+            "published_utc": "2026-11-10T11:15:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "France Blames Iran for Supermarket Fridge Hack, Requests International Arrest Warrants",
+            "link": "https://www.infosecurity-magazine.com/news/france-blames-iran-supermarket/",
+            "summary": "The French authorities have tied the cyber-attack targeting supermarket fridges to Iran’s Islamic Revolutionary Guard Corps",
+            "published_utc": "2026-11-10T10:35:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers now exploit critical Barracuda ESG flaws to gain root access",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/",
+            "summary": "Cybersecurity company Barracuda Networks warned that attackers have begun exploiting two recently patched Email Security Gateway (ESG) vulnerabilities...",
+            "published_utc": "2026-11-10T10:10:20+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Turla hackers use new Cereal malware to spy on govt Exchange servers",
+            "link": "https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/",
+            "summary": "The Russian state-backed threat group Turla has been using a new malicious toolset called 'Cereal' to intercept emails on Microsoft Exchange servers a...",
+            "published_utc": "2026-11-10T10:04:32+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "N-able Takes N-central Offline as Researcher Drops Over 30 Zero-Days",
+            "link": "https://www.securityweek.com/n-able-takes-n-central-offline-as-researcher-drops-over-30-zero-days/",
+            "summary": "",
+            "published_utc": "2026-11-10T09:56:28+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "IBM Aspera Faspex, SignalWire FreeSwitch Vulnerabilities Exploited in Attacks",
+            "link": "https://www.securityweek.com/ibm-aspera-faspex-signalwire-freeswitch-vulnerabilities-exploited-in-attacks/",
+            "summary": "",
+            "published_utc": "2026-11-10T09:42:27+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Anthropic sharpens AI coding and security capabilities with Mythos 5.2",
+            "link": "https://www.csoonline.com/article/4246688/anthropic-sharpens-ai-coding-and-security-capabilities-with-mythos-5-2.html",
+            "summary": "",
+            "published_utc": "2026-11-10T09:33:17+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Binance Investigates ShinyHunters Breach Claims",
+            "link": "https://www.infosecurity-magazine.com/news/binance-investigates-shinyhunters/",
+            "summary": "Cryptocurrency exchange Binance says ShinyHunters’ breach claims appear to be a scam",
+            "published_utc": "2026-11-10T09:30:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "When everything is a threat, nothing feels safe",
+            "link": "https://www.csoonline.com/article/4246440/when-everything-is-a-threat-nothing-feels-safe.html",
+            "summary": "",
+            "published_utc": "2026-11-10T09:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Google patches eighth Chrome zero-day exploited in attacks this year",
+            "link": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/",
+            "summary": "Google has released emergency security updates to patch a new Chrome vulnerability exploited in zero-day attacks, the eighth such flaw since the start...",
+            "published_utc": "2026-11-10T08:51:25+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Fireworks AI discloses new breach after cloud provider hack",
+            "link": "https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/",
+            "summary": "AI infrastructure startup Fireworks has disclosed a new security breach in which attackers accessed its development machines after breaching a third-p...",
+            "published_utc": "2026-11-10T07:49:58+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "France Blames Iran for a Cyberattack That Heated Supermarket Refrigerators",
+            "link": "https://www.securityweek.com/france-blames-iran-for-a-cyberattack-that-heated-supermarket-refrigerators/",
+            "summary": "",
+            "published_utc": "2026-11-10T07:35:05+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information",
+            "link": "https://www.wired.com/story/security-flaws-across-uk-government-sites-exposed-god-tier-information/",
+            "summary": "A researcher’s trawl through publicly available code found private information was at risk across multiple departments.",
+            "published_utc": "2026-11-10T07:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Chrome Update Patches Exploited XML Zero-Day, Eighth This Year",
+            "link": "https://www.securityweek.com/chrome-update-patches-exploited-xml-zero-day-eighth-this-year/",
+            "summary": "",
+            "published_utc": "2026-11-10T06:12:24+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
+            "link": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
+            "summary": "DeepMind researchers were able to formally verify that the widely used encryption protocol works as intended. Their stretch goal? Do the same for “all...",
+            "published_utc": "2026-11-10T05:01:00+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "SonicWall releases patches for 7 flaws in its firewalls, most involving unauthenticated access",
@@ -156,13 +275,6 @@
             "published_utc": "2026-11-09T13:31:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "US bans MEXC crypto exchange over sanctions evasion, cybercrime links",
-            "link": "https://www.bleepingcomputer.com/news/security/us-bans-mexc-crypto-exchange-over-sanctions-evasion-cybercrime-links/",
-            "summary": "The US Department of the Treasury has cut off the MEXC Global crypto exchange from the US financial system over sanctions evasion and links with cyber...",
-            "published_utc": "2026-11-09T13:28:56+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "Plex2Shell Exploited Against QNAP NAS Users",
             "link": "https://www.securityweek.com/plex2shell-exploited-against-qnap-nas-users/",
@@ -182,13 +294,6 @@
             "link": "https://www.securityweek.com/italys-meloni-blames-pro-russian-hackers-for-leak-of-foreign-ministers-data-on-the-dark-web/",
             "summary": "",
             "published_utc": "2026-11-09T12:22:12+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Ukraine dismantles crypto scam network that stole €4.3 million",
-            "link": "https://www.bleepingcomputer.com/news/security/ukraine-dismantles-crypto-scam-network-that-stole-43-million/",
-            "summary": "Ukrainian law enforcement arrested four suspects in a case involving the theft of more than €4.3 million using a network of cryptocurrency investment ...",
-            "published_utc": "2026-11-09T12:16:13+00:00"
         },
         {
             "source": "SecurityWeek",
@@ -219,13 +324,6 @@
             "published_utc": "2026-11-09T10:30:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Over 3 Million People Hit by Frontline Education Data Breach",
-            "link": "https://www.securityweek.com/3-million-people-hit-by-frontline-education-data-breach/",
-            "summary": "",
-            "published_utc": "2026-11-09T10:09:02+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "DHS Has Used This Controversial Investigative Tool 185,000 Times Since Trump Took Office",
             "link": "https://www.wired.com/story/dhs-has-used-this-controversial-investigative-tool-185000-times-since-trump-took-office/",
@@ -247,13 +345,6 @@
             "published_utc": "2026-11-09T09:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Google DeepMind’s AI Agents Make 1024-Bit RSA Keys Cheaper to Attack",
-            "link": "https://www.securityweek.com/google-deepminds-ai-agents-make-1024-bit-rsa-keys-cheaper-to-attack/",
-            "summary": "",
-            "published_utc": "2026-11-09T08:35:50+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "7 tips for achieving defensive agility",
             "link": "https://www.csoonline.com/article/4240628/7-tips-for-achieving-defensive-agility.html",
@@ -261,46 +352,11 @@
             "published_utc": "2026-11-09T08:25:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
-            "link": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
-            "summary": "Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7.7 millio...",
-            "published_utc": "2026-11-08T15:43:08+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Brava Security Emerges From Stealth With $15 Million in Funding",
-            "link": "https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/",
-            "summary": "",
-            "published_utc": "2026-11-08T12:14:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Hackers pull off $133 million French bank heist via service provider",
-            "link": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
-            "summary": "French cooperative bank Crédit Mutuel Arkéa was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to re...",
-            "published_utc": "2026-11-07T15:25:35+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
-            "link": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
-            "summary": "Scammers are impersonating major brands and celebrities to lure consumers into fake gift card giveaways that collect personal information and trigger ...",
-            "published_utc": "2026-11-07T14:10:19+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call",
             "link": "https://www.wired.com/story/kernel-panic-refrigeration-hacks-internet-of-things/",
             "summary": "Escalating hacks affecting blood labs and grocery stores show the very real risks to critical infrastructure that come from basic security lapses invo...",
             "published_utc": "2026-11-07T13:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins",
-            "link": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
-            "summary": "",
-            "published_utc": "2026-11-07T10:16:23+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -632,25 +688,11 @@
             "published_utc": "2026-11-04T12:35:33+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "CrowdStrike launches AI kill switch to shut down rogue agents",
-            "link": "https://www.csoonline.com/article/4244509/crowdstrike-launches-ai-kill-switch-to-shut-down-rogue-agents.html",
-            "summary": "",
-            "published_utc": "2026-11-04T12:06:50+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "3AM Ransomware Used Human-AI Hybrid Tactics in UK School Estate Compromise",
             "link": "https://www.infosecurity-magazine.com/news/3am-ransomware-hybrid-ai-uk-school/",
             "summary": "Bitdefender highlighted a unique human-AI approach during a September attack on a UK school estate, which resulted in financial data being exfiltrated",
             "published_utc": "2026-11-04T12:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "CrowdStrike to acquire Fiddler, Dreadnode to extend AI security across agent lifecycle",
-            "link": "https://www.csoonline.com/article/4244500/crowdstrike-to-acquire-fiddler-dreadnode-to-extend-ai-security-across-agent-lifecycle.html",
-            "summary": "",
-            "published_utc": "2026-11-04T11:33:35+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1141,13 +1183,6 @@
             "link": "https://www.infosecurity-magazine.com/news/microsoft-patch-update-net-flaw/",
             "summary": "Microsoft’s updates address two newly disclosed vulnerabilities in the .NET developer platform, as well as flaws not fully addressed in an earlier rel...",
             "published_utc": "2026-10-26T12:45:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Bias in Qwen3-Coder Model",
-            "link": "https://www.schneier.com/blog/archives/2026/10/bias-in-qwen3-coder-model.html",
-            "summary": "",
-            "published_utc": "2026-10-26T11:03:31+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1682,13 +1717,6 @@
             "published_utc": "2026-10-09T08:00:00+00:00"
         },
         {
-            "source": "WIRED Security",
-            "title": "ICE Agent at NYC Shooting Has History of Alleged Violence and Illegal Arrests",
-            "link": "https://www.wired.com/story/ice-agent-at-nyc-shooting-has-history-of-alleged-violence-and-illegal-arrests/",
-            "summary": "Brenden Cuni, an ICE supervisor, has been accused of excessive force and tackling a pregnant woman to the ground. Several of his arrests were later fo...",
-            "published_utc": "2026-10-09T04:46:11+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Attackers Hijack Three ccTLDs to Obtain Google Certificates",
             "link": "https://www.infosecurity-magazine.com/news/attackers-hijack-cctlds-obtain/",
@@ -1729,13 +1757,6 @@
             "link": "https://www.infosecurity-magazine.com/news/europol-us-gao-alarm-quantum/",
             "summary": "Europol and US Government Accountability Office urge faster transition to post-quantum cryptography",
             "published_utc": "2026-10-08T09:30:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "The Man Behind a West Bank Telegram Channel Trying to Keep Palestinian Drivers Safe",
-            "link": "https://www.wired.com/story/the-man-behind-a-west-bank-telegram-channel-trying-to-keep-palestinian-drivers-safe/",
-            "summary": "With no accurate Big Tech mapping app to help him, Anas Hattab launched a Telegram group to get himself home at night. Now nearly 350,000 Palestinians...",
-            "published_utc": "2026-10-08T09:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
@@ -2800,27 +2821,6 @@
             "link": "https://www.infosecurity-magazine.com/news/attackers-steal-metr-api-key/",
             "summary": "Attackers used a stolen METR API key for three weeks, consuming model credits worth $600,000",
             "published_utc": "2026-09-01T14:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "65% of Enterprises Have Seen AI Agents Act Out of Scope",
-            "link": "https://www.infosecurity-magazine.com/news/65-percent-enterprises-ai-agents/",
-            "summary": "EMA survey finds 65% of enterprises have seen AI agents act beyond intended scope",
-            "published_utc": "2026-09-01T13:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "White House Launches Pilot Program in Texas to Protect Water Infrastructure",
-            "link": "https://www.infosecurity-magazine.com/news/white-house-texas-protect-water/",
-            "summary": "Project Watershed 250 will see water providers in Texas provided with federal and private sector cybersecurity resources amid rising nation-state threats",
-            "published_utc": "2026-09-01T12:45:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Financial Stability Board Sounds the Alarm Over Frontier AI Risks",
-            "link": "https://www.infosecurity-magazine.com/news/financial-stability-board-alarm/",
-            "summary": "The Financial Stability Board has warned G20 banking leaders about the cyber risks of frontier AI",
-            "published_utc": "2026-09-01T09:20:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
