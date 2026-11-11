@@ -1,6 +1,48 @@
 {
-    "lastUpdatedUTC": "2026-11-10T20:17:37.521172+00:00",
+    "lastUpdatedUTC": "2026-11-11T01:03:54.157961+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Railway breach leads to $740,000 in fraudulent AI charges",
+            "link": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
+            "summary": "Cloud hosting provider Railway says hackers exploited vulnerabilities in its infrastructure to steal customer authentication secrets and generate appr...",
+            "published_utc": "2026-11-10T22:20:19+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "N-able N-central gets emergency fix two days after 33 exploits published",
+            "link": "https://www.csoonline.com/article/4247028/n-able-n-central-gets-emergency-fix-two-days-after-33-exploits-published.html",
+            "summary": "",
+            "published_utc": "2026-11-10T22:05:12+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
+            "link": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
+            "summary": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and...",
+            "published_utc": "2026-11-10T21:55:03+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "New Windows 11 update fixes File Explorer menu mess – and patches an exploited flaw",
+            "link": "https://www.zdnet.com/tech/november-windows-11-update-customizable-right-click-menu/",
+            "summary": "With the November Patch Tuesday rollout, you can finally customize your right-click menu in Windows 11. It fixes 1,094 security flaws, too.",
+            "published_utc": "2026-11-10T21:00:31+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Japanese furniture giant Nitori says hackers stole 37.6M customer records",
+            "link": "https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/",
+            "summary": "Nitori, a major Japanese furniture and home accessories retailer, discovered that an attacker accessed a system on its network and may have stolen 37....",
+            "published_utc": "2026-11-10T20:54:55+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Need more AI in Creator Studio? Apple may charge you for it",
+            "link": "https://www.zdnet.com/innovation/ai-creator-studio-apple-usage-packs-fee/",
+            "summary": "With its new $50 AI usage packes, Apple is the latest company to introduce paid model for AI access.",
+            "published_utc": "2026-11-10T20:38:54+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Microsoft releases Windows 10 KB5131096 extended security update",
@@ -345,20 +387,6 @@
             "published_utc": "2026-11-09T23:52:12+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "SEGA newsletter data breach exposes 2.2 million email addresses",
-            "link": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
-            "summary": "Japanese gaming giant SEGA has disclosed that a data breach at its third-party newsletter provider, ARARA, exposed the email addresses of 2.2 million ...",
-            "published_utc": "2026-11-09T22:09:33+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
-            "link": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
-            "summary": "N-able has taken its hosted N-central environments offline and urged on-premises customers to shut down their servers after a security researcher publ...",
-            "published_utc": "2026-11-09T21:26:25+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "You can change Windows settings directly from a search now – how to try it",
             "link": "https://www.zdnet.com/tech/windows-11-control-settings-from-search-insiders-preview/",
@@ -618,25 +646,11 @@
             "published_utc": "2026-11-05T17:48:04+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "3 ways Bluetooth 7 upgrades your devices beyond lossless audio",
-            "link": "https://www.zdnet.com/tech/bluetooth-7-features-headphones-smart-home-lossless-audio/",
-            "summary": "Bluetooth Core 7.0 could make your smart home devices easier to set up, for one. Here’s what we know about the new core specification.",
-            "published_utc": "2026-11-05T17:46:35+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "OpenAI’s GPT-6 Cyber ups the ante on vulnerability discovery",
             "link": "https://www.csoonline.com/article/4244911/openais-gpt-6-cyber-ups-the-ante-on-vulnerability-discovery.html",
             "summary": "",
             "published_utc": "2026-11-05T17:01:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "The Siri AI waitlist is gone in iOS 27: How to try the beta today",
-            "link": "https://www.zdnet.com/business/siri-ai-beta-waitlist-ends-ios-27/",
-            "summary": "The wait is over for trying Siri AI on iOS 27. Here’s what you need to know to get started.",
-            "published_utc": "2026-11-05T16:08:49+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -700,13 +714,6 @@
             "link": "https://www.csoonline.com/article/4244632/building-incident-playbooks-for-machine-identity-breaches.html",
             "summary": "",
             "published_utc": "2026-11-05T09:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "The Sandbox Fights Back: Joe Security Launches Adaptive Detonation",
-            "link": "https://www.csoonline.com/article/4244970/the-sandbox-fights-back-joe-security-launches-adaptive-detonation.html",
-            "summary": "",
-            "published_utc": "2026-11-05T04:55:50+00:00"
         },
         {
             "source": "KrebsOnSecurity",
@@ -2135,13 +2142,6 @@
             "link": "https://www.infosecurity-magazine.com/news/citrix-patches-critical-zero-days/",
             "summary": "Citrix has confirmed exploitation of two critical zero-day RCE bugs",
             "published_utc": "2026-09-28T08:30:00+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
-            "link": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
-            "summary": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than ...",
-            "published_utc": "2026-09-25T21:44:40+00:00"
         },
         {
             "source": "InfosecurityMag",
