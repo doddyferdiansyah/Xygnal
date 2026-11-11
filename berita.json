@@ -1,12 +1,194 @@
 {
-    "lastUpdatedUTC": "2026-11-11T08:56:53.104687+00:00",
+    "lastUpdatedUTC": "2026-11-11T16:58:46.718991+00:00",
     "articles": [
         {
+            "source": "ZDNet Security",
+            "title": "Claude can collaborate in your team meetings soon – like an intern",
+            "link": "https://www.zdnet.com/innovation/claude-meetings-workplace-features/",
+            "summary": "Claude is responding ‘Yes’ to that calendar invite – with some limitations. Plus: Anthropic launches two more new features that are available now.",
+            "published_utc": "2026-11-11T16:46:09+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Anthropic's Glasswing Finds Many Vulnerabilities Yet Delivers Few Fixes, Researcher Says",
+            "link": "https://www.infosecurity-magazine.com/news/anthropic-glasswing/",
+            "summary": "VulnCheck’s Patrick Garrity has found that seven months on, Project Glasswing resulted in only 217 vulnerabilities getting fixed, despite thousands re...",
+            "published_utc": "2026-11-11T16:30:00+00:00"
+        },
+        {
             "source": "SecurityWeek",
-            "title": "Chipmaker Patch Tuesday: Over 200 Vulnerabilities Addressed by Intel, AMD",
-            "link": "https://www.securityweek.com/chipmaker-patch-tuesday-over-200-vulnerabilities-addressed-by-intel-amd/",
+            "title": "Today: CISO Forum Virtual Summit 2026 Day 2 – Join Cybersecurity Leaders Online",
+            "link": "https://www.securityweek.com/today-ciso-forum-virtual-summit-2026-join-global-cybersecurity-leaders/",
             "summary": "",
-            "published_utc": "2026-11-11T08:42:44+00:00"
+            "published_utc": "2026-11-11T16:29:42+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
+            "link": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
+            "summary": "Maersk announced that a threat actor gained unauthorized access to a local legacy system inherited through an earlier acquisition and extracted data f...",
+            "published_utc": "2026-11-11T16:24:18+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Suspected Chinese Malware Supplier Tied to Three Hacking Campaigns",
+            "link": "https://www.infosecurity-magazine.com/news/chinese-malware-tied-three-hacking/",
+            "summary": "Check Point links three China-nexus clusters through a shared Sparrow malware framework",
+            "published_utc": "2026-11-11T16:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Critical Xen Orchestra Flaws Exploited in Attacks",
+            "link": "https://www.securityweek.com/critical-xen-orchestra-flaws-exploited-in-attacks/",
+            "summary": "",
+            "published_utc": "2026-11-11T15:42:47+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Over Ubuntu? Fedora is the Linux distro I’d hop to next – here’s why",
+            "link": "https://www.zdnet.com/linux/ubuntu-fedora-migration-linux-distro-hopping/",
+            "summary": "If you’re an Ubuntu user considering a leap to Fedora, but you’re hesitating, I explain why you should go ahead and just do it.",
+            "published_utc": "2026-11-11T15:40:30+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
+            "summary": "Attackers are using Alibaba Cloud to host self-managed instances of AntiFox, an open-source agentic penetration testing platform, to target web servic...",
+            "published_utc": "2026-11-11T15:12:59+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "eBPF Rootkits: Why Underground Actors Are Taking Notice",
+            "link": "https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/",
+            "summary": "Linux eBPF rootkits can hide malicious activity and evade traditional detection methods without loading kernel modules. Flare reveals how these techni...",
+            "published_utc": "2026-11-11T15:01:11+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Asus, Zoom Release Security Patches",
+            "link": "https://www.securityweek.com/asus-zoom-release-security-patches/",
+            "summary": "",
+            "published_utc": "2026-11-11T13:58:38+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Citrix, Ivanti Patch Critical and High-Severity Vulnerabilities",
+            "link": "https://www.securityweek.com/citrix-ivanti-patch-critical-and-high-severity-vulnerabilities/",
+            "summary": "",
+            "published_utc": "2026-11-11T13:37:19+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "N-able releases security hotfixes for zero-day vulnerabilities",
+            "link": "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/",
+            "summary": "N-able released hotfixes to address zero-day bugs affecting its N-central remote monitoring and management (RMM) platform, which were publicly disclos...",
+            "published_utc": "2026-11-11T12:32:27+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Rewriting less than 10 neurons in an LLM can turn it into a sleeper backdoor",
+            "link": "https://www.csoonline.com/article/4247354/rewriting-less-than-10-neurons-in-an-llm-can-turn-it-into-a-sleeper-backdoor.html",
+            "summary": "",
+            "published_utc": "2026-11-11T12:28:03+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Finite State Raises $27 Million to Secure Software and Firmware in Connected Devices",
+            "link": "https://www.securityweek.com/finite-state-raises-27-million-to-secure-software-and-firmware-in-connected-devices/",
+            "summary": "",
+            "published_utc": "2026-11-11T12:24:33+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Fortinet Patches Nearly 100 Vulnerabilities",
+            "link": "https://www.securityweek.com/fortinet-patches-nearly-100-vulnerabilities/",
+            "summary": "",
+            "published_utc": "2026-11-11T12:10:14+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Three People Arrested for AI-Enhanced Impersonation Fraud",
+            "link": "https://www.schneier.com/blog/archives/2026/11/three-people-arrested-for-ai-enhanced-impersonation-fraud.html",
+            "summary": "",
+            "published_utc": "2026-11-11T12:05:34+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Claude Code’s ‘don’t ask again’ button has a secrets-spilling problem",
+            "link": "https://www.csoonline.com/article/4247336/claude-codes-dont-ask-again-button-has-a-secrets-spilling-problem.html",
+            "summary": "",
+            "published_utc": "2026-11-11T12:00:18+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Bay Raises $50 Million to Control What Enterprise AI Agents Can Do",
+            "link": "https://www.securityweek.com/bay-raises-50-million-to-control-what-enterprise-ai-agents-can-do/",
+            "summary": "",
+            "published_utc": "2026-11-11T11:30:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft fixes audio issues caused by September security updates",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/",
+            "summary": "Microsoft says the November 2026 cumulative updates resolve USB audio issues plaguing Windows users who have installed security updates released since...",
+            "published_utc": "2026-11-11T11:18:36+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Dreeze Emerges From Stealth With $33M to Rebuild Cloud Apps After Cyberattacks",
+            "link": "https://www.securityweek.com/dreeze-emerges-from-stealth-with-33m-to-rebuild-cloud-apps-after-cyberattacks/",
+            "summary": "",
+            "published_utc": "2026-11-11T11:16:40+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "ICS Patch Tuesday: Siemens Flags High-Severity Flaws, Node2Shell Exposure",
+            "link": "https://www.securityweek.com/ics-patch-tuesday-siemens-flags-high-severity-flaws-node2shell-exposure/",
+            "summary": "",
+            "published_utc": "2026-11-11T10:35:15+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/",
+            "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned on Tuesday that hackers are now exploiting a high-severity Cisco BroadWorks vuln...",
+            "published_utc": "2026-11-11T10:12:08+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "OT Incidents Hit a Third of Industrial Organizations, SANS Finds",
+            "link": "https://www.infosecurity-magazine.com/news/ot-incidents-third-industrial/",
+            "summary": "SANS Institute records largest single-year jump in ICS/OT cyber incidents",
+            "published_utc": "2026-11-11T10:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Microsoft Fixes 1235 Flaws in Another Record Patch Tuesday",
+            "link": "https://www.infosecurity-magazine.com/news/microsoft-fixes-1235-flaws-record/",
+            "summary": "Microsoft patched a record-breaking 1235 CVEs in November’s Patch Tuesday",
+            "published_utc": "2026-11-11T09:15:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft fixes Exchange sign-ins broken by Windows Server updates",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/",
+            "summary": "Microsoft has fixed Outlook sign-in and mail delivery issues on Exchange Server systems after installing the October 2026 Windows Server security upda...",
+            "published_utc": "2026-11-11T09:07:27+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Threat Actors Exploit Openwave, Cisco BroadWorks Vulnerabilities",
+            "link": "https://www.securityweek.com/threat-actors-exploit-openwave-cisco-broadworks-vulnerabilities/",
+            "summary": "",
+            "published_utc": "2026-11-11T09:01:07+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Why does old access outlive the job?",
+            "link": "https://www.csoonline.com/article/4246971/why-does-old-access-outlive-the-job.html",
+            "summary": "",
+            "published_utc": "2026-11-11T09:00:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -14,20 +196,6 @@
             "link": "https://www.csoonline.com/article/4244924/what-will-it-take-to-make-vulnops-a-reality.html",
             "summary": "",
             "published_utc": "2026-11-11T08:25:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Recently Patched Barracuda Vulnerabilities Exploited in Attacks",
-            "link": "https://www.securityweek.com/recently-patched-barracuda-vulnerabilities-exploited-in-attacks/",
-            "summary": "",
-            "published_utc": "2026-11-11T07:53:51+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Bluetooth, AirPlay Pairing Vulnerabilities Patched Across Apple Platforms",
-            "link": "https://www.securityweek.com/bluetooth-airplay-pairing-vulnerabilities-patched-across-apple-platforms/",
-            "summary": "",
-            "published_utc": "2026-11-11T07:00:17+00:00"
         },
         {
             "source": "CSO Online",
@@ -87,9 +255,9 @@
         },
         {
             "source": "ZDNet Security",
-            "title": "New Windows 11 update fixes File Explorer menu mess – and patches an exploited flaw",
+            "title": "Microsoft fixes over 1,000 Windows flaws – and one is being exploited",
             "link": "https://www.zdnet.com/tech/november-windows-11-update-customizable-right-click-menu/",
-            "summary": "With the November Patch Tuesday rollout, you can finally customize your right-click menu in Windows 11. It fixes 1,094 security flaws, too.",
+            "summary": "With the November Patch Tuesday rollout, you can finally customize your right-click menu in Windows 11. But don’t skip these security fixes.",
             "published_utc": "2026-11-10T21:00:31+00:00"
         },
         {
@@ -121,13 +289,6 @@
             "published_utc": "2026-11-10T19:31:11+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft",
-            "link": "https://www.securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft/",
-            "summary": "",
-            "published_utc": "2026-11-10T19:19:46+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/",
@@ -140,13 +301,6 @@
             "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/",
             "summary": "Microsoft has released the Patch Tuesday Windows 11 and cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bu...",
             "published_utc": "2026-11-10T18:33:26+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Adobe Patches 110 Vulnerabilities Across 9 Products",
-            "link": "https://www.securityweek.com/adobe-patches-110-vulnerabilities-across-9-products/",
-            "summary": "",
-            "published_utc": "2026-11-10T18:11:54+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -168,20 +322,6 @@
             "link": "https://www.zdnet.com/tech/apple-27-2-1-security-fix-iphone-ipad-mac-watch-patch/",
             "summary": "Security updates for iPhones, iPads, Macs, Apple Watches, and Vision Pro just rolled out.",
             "published_utc": "2026-11-10T16:54:11+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Software Transparency Is Changing: Allan Friedman on SBOM, AI BOMs and What Comes Next",
-            "link": "https://www.securityweek.com/software-transparency-is-changing-allan-friedman-on-sbom-ai-boms-and-what-comes-next/",
-            "summary": "",
-            "published_utc": "2026-11-10T16:45:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Google Widens Gemini 4 Carbon Access After AI Agents Verify Signal Code",
-            "link": "https://www.securityweek.com/google-widens-gemini-4-carbon-access-after-ai-agents-verify-signal-code/",
-            "summary": "",
-            "published_utc": "2026-11-10T16:42:02+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -219,39 +359,11 @@
             "published_utc": "2026-11-10T15:16:47+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Ransomware recovery is now a client retention metric",
-            "link": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/",
-            "summary": "Recovering from ransomware doesn't guarantee an MSP will retain its clients, especially when delays, poor communication, and unexpected costs undermin...",
-            "published_utc": "2026-11-10T15:01:11+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Today: CISO Forum Virtual Summit 2026 – Join Global Cybersecurity Leaders",
-            "link": "https://www.securityweek.com/today-ciso-forum-virtual-summit-2026-join-global-cybersecurity-leaders/",
-            "summary": "",
-            "published_utc": "2026-11-10T15:00:00+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "Reddit launches AI-powered Reviews feature – with 10,000 products to start",
             "link": "https://www.zdnet.com/innovation/reddit-reviews-feature/",
             "summary": "Reddit is adding AI-generated product reviews that compile real user sentiment from across communities. Here’s how they work.",
             "published_utc": "2026-11-10T15:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "WhiteMatter Raises $20 Million in Series A Funding",
-            "link": "https://www.securityweek.com/whitematter-raises-20-million-in-series-a-funding/",
-            "summary": "",
-            "published_utc": "2026-11-10T14:58:19+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "SAP Patches Critical ICM2SHELL, ProxyGate Vulnerabilities",
-            "link": "https://www.securityweek.com/sap-patches-critical-icm2shell-proxygate-vulnerabilities/",
-            "summary": "",
-            "published_utc": "2026-11-10T14:46:28+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -317,13 +429,6 @@
             "published_utc": "2026-11-10T12:14:51+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "SAP patches ICM2SHELL and PROXYGATE maximum severity flaws",
-            "link": "https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities/",
-            "summary": "SAP patched 35 vulnerabilities in its November 2026 security updates, including four maximum-severity issues affecting its NetWeaver, Web Dispatcher, ...",
-            "published_utc": "2026-11-10T12:07:03+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "New OpenSSH Vulnerability",
             "link": "https://www.schneier.com/blog/archives/2026/11/new-openssh-vulnerability.html",
@@ -343,20 +448,6 @@
             "link": "https://www.infosecurity-magazine.com/news/france-blames-iran-supermarket/",
             "summary": "The French authorities have tied the cyber-attack targeting supermarket fridges to Iran’s Islamic Revolutionary Guard Corps",
             "published_utc": "2026-11-10T10:35:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Hackers now exploit critical Barracuda ESG flaws to gain root access",
-            "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/",
-            "summary": "Cybersecurity company Barracuda Networks warned that attackers have begun exploiting two recently patched Email Security Gateway (ESG) vulnerabilities...",
-            "published_utc": "2026-11-10T10:10:20+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Turla hackers use new Cereal malware to spy on govt Exchange servers",
-            "link": "https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/",
-            "summary": "The Russian state-backed threat group Turla has been using a new malicious toolset called 'Cereal' to intercept emails on Microsoft Exchange servers a...",
-            "published_utc": "2026-11-10T10:04:32+00:00"
         },
         {
             "source": "WeLiveSecurity",
@@ -387,20 +478,6 @@
             "published_utc": "2026-11-10T09:00:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Google patches eighth Chrome zero-day exploited in attacks this year",
-            "link": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/",
-            "summary": "Google has released emergency security updates to patch a new Chrome vulnerability exploited in zero-day attacks, the eighth such flaw since the start...",
-            "published_utc": "2026-11-10T08:51:25+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Fireworks AI discloses new breach after cloud provider hack",
-            "link": "https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/",
-            "summary": "AI infrastructure startup Fireworks has disclosed a new security breach in which attackers accessed its development machines after breaching a third-p...",
-            "published_utc": "2026-11-10T07:49:58+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information",
             "link": "https://www.wired.com/story/security-flaws-across-uk-government-sites-exposed-god-tier-information/",
@@ -427,13 +504,6 @@
             "link": "https://www.csoonline.com/article/4246592/microsofts-email-security-is-unexpectedly-blocking-legitimate-business-mail-2.html",
             "summary": "",
             "published_utc": "2026-11-10T01:57:23+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
-            "link": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
-            "summary": "Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's dat...",
-            "published_utc": "2026-11-09T23:52:12+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -625,25 +695,11 @@
             "published_utc": "2026-11-06T11:37:44+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "CPython flaw exposes AI inference servers to sandbox escape attacks",
-            "link": "https://www.csoonline.com/article/4245592/cpython-flaw-exposes-ai-inference-servers-to-sandbox-escape-attacks.html",
-            "summary": "",
-            "published_utc": "2026-11-06T11:14:26+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Half of Security Leaders Report Sensitive Data Exposure Through AI Tools",
             "link": "https://www.infosecurity-magazine.com/news/security-data-exposure-ai/",
             "summary": "BlackFog found a lack of visibility into data being shared with AI tools, even those approved for use in the enterprise",
             "published_utc": "2026-11-06T09:15:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "OpenSSH flaw lets attackers access password-disabled accounts on some Linux systems",
-            "link": "https://www.csoonline.com/article/4245407/openssh-flaw-lets-attackers-access-password-disabled-accounts-on-some-linux-systems.html",
-            "summary": "",
-            "published_utc": "2026-11-06T01:10:08+00:00"
         },
         {
             "source": "WIRED Security",
@@ -653,32 +709,11 @@
             "published_utc": "2026-11-05T23:00:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "French banking group hit by supply chain cyberattack",
-            "link": "https://www.csoonline.com/article/4245357/french-banking-group-hit-by-supply-chain-cyberattack.html",
-            "summary": "",
-            "published_utc": "2026-11-05T22:21:16+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "92% of HR say staff can train for AI jobs – but half of companies still hire outside",
             "link": "https://www.zdnet.com/innovation/ai-hiring-vs-reskilling-careerminds-research/",
             "summary": "Most HR professionals say they believe employees can be reskilled for AI jobs, yet companies still often seek outside hires. Here’s why.",
             "published_utc": "2026-11-05T18:44:47+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "6 default Pixel 11 settings I changed that made a big difference – and why",
-            "link": "https://www.zdnet.com/tech/pixel-11-settings-to-change/",
-            "summary": "If you’re a new Pixel 11 user, here are six things I recommend changing right away to get the most from your phone.",
-            "published_utc": "2026-11-05T18:18:16+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Claude’s new Personal Finance tool aims to help analyze your spending – read-only, of course",
-            "link": "https://www.zdnet.com/innovation/personal-finance-claude-anthropic/",
-            "summary": "Anthropic has released what appears to be its answer to ChatGPT Finances.",
-            "published_utc": "2026-11-05T18:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1155,13 +1190,6 @@
             "link": "https://www.infosecurity-magazine.com/news/exploit-teams-chat-breach/",
             "summary": "Arctic Wolf warned that the function enables highly effective social engineering attacks, which lead to incidents such as ransomware",
             "published_utc": "2026-10-27T12:30:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Hiding Capabilities in AI Models",
-            "link": "https://www.schneier.com/blog/archives/2026/10/hiding-capabilities-in-ai-models.html",
-            "summary": "",
-            "published_utc": "2026-10-27T11:01:26+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2793,34 +2821,6 @@
             "link": "https://www.infosecurity-magazine.com/news/us-canada-court-breach-thomson/",
             "summary": "Thomson Reuters has disclosed a cyber incident affecting its C-Track court management software, potentially exposing court records in Canada and the US",
             "published_utc": "2026-09-03T12:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "FBI Probes Possible Breach of 153 Million Driver’s Licenses",
-            "link": "https://www.infosecurity-magazine.com/news/fbi-probes-breach-153-million/",
-            "summary": "The FBI is investigating how scans of over 153 million driver’s licenses are being sold on the dark web",
-            "published_utc": "2026-09-03T09:33:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "International Operation Disrupts Sality P2P Botnet",
-            "link": "https://www.infosecurity-magazine.com/news/international-operation-disrupts/",
-            "summary": "US-led action sinkholes machines caught up in Sality botnet",
-            "published_utc": "2026-09-03T08:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Russian Man Extradited Over Malware Campaign Targeting Freelancers",
-            "link": "https://www.infosecurity-magazine.com/news/russian-man-extradited-malware/",
-            "summary": "Russian man extradited to US over malware campaign that targeted 80,000 freelance users",
-            "published_utc": "2026-09-02T15:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Gambling Goblin Turns Brazilian Government Sites Into SEO Weapons",
-            "link": "https://www.infosecurity-magazine.com/news/gambling-goblin-brazilian/",
-            "summary": "Gambling Goblin compromised Brazilian government sites to drive gambling traffic through SEO fraud",
-            "published_utc": "2026-09-02T14:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
