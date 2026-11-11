@@ -1,6 +1,76 @@
 {
-    "lastUpdatedUTC": "2026-11-11T16:58:46.718991+00:00",
+    "lastUpdatedUTC": "2026-11-11T23:24:42.247316+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Baker Tilly notifies clients of data breach at third-party provider",
+            "link": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",
+            "summary": "The Baker Tilly Advisory Group is notifying clients that a data breach has compromised certain personal information about them and their dependents. [...",
+            "published_utc": "2026-11-11T23:01:31+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
+            "link": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
+            "summary": "ConnectWise is investigating an active malware campaign targeting managed service providers (MSPs) that uses compromised ScreenConnect environments to...",
+            "published_utc": "2026-11-11T22:56:21+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "eMudhra revokes 8 more CA certificates after private key mishap",
+            "link": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",
+            "summary": "Certificate authority eMudhra has revoked eight additional intermediate CA certificates after an investigation into its recent certificate security in...",
+            "published_utc": "2026-11-11T21:27:40+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Notion says Fireworks breach exposed customer AI chat transcripts",
+            "link": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
+            "summary": "Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat trans...",
+            "published_utc": "2026-11-11T20:54:20+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "This tiny box gives your older tech smart home superpowers – and it’s only $69",
+            "link": "https://www.zdnet.com/home-and-office/home-assistant-connect-aux-2-hardware-older-tech-smart/",
+            "summary": "Home Assistant gets new equipment to battle planned obsolescence and abandoned cloud services.",
+            "published_utc": "2026-11-11T20:30:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Google Fi now switches between the best mobile networks automatically – how it works",
+            "link": "https://www.zdnet.com/home-and-office/google-fi-super-network-pixel/",
+            "summary": "Pixel users also get a bonus Wi-Fi upgrade. Here’s what to know.",
+            "published_utc": "2026-11-11T19:41:41+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Who Runs the Ransomware Group Qilin?",
+            "link": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
+            "summary": "The cybercrime group Qilin has emerged as the world's most active ransomware affiliate program, claiming at least 365 victim organizations in the past...",
+            "published_utc": "2026-11-11T18:06:01+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Oura Ring users may get in-app access to real doctors soon – what we know",
+            "link": "https://www.zdnet.com/tech/oura-ring-users-may-get-in-app-access-to-real-doctors-soon-what-we-know/",
+            "summary": "Oura’s acquisition of Counsel Health could signal a new dawn for digital care.",
+            "published_utc": "2026-11-11T17:45:55+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "N-able Rushes Out N-central Fixes After 33 Zero-Days Go Public",
+            "link": "https://www.infosecurity-magazine.com/news/n-able-n-central-able2shell-0day/",
+            "summary": "N-able fixes seven N-central CVEs after 33 alleged zero-days are published",
+            "published_utc": "2026-11-11T17:15:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Pixel users are getting a major Android Auto update – and it rivals Siri AI",
+            "link": "https://www.zdnet.com/tech/android-auto-gemini-intelligence-update/",
+            "summary": "More phones are getting Gemini Intelligence, but only Pixel users can access it in a new way.",
+            "published_utc": "2026-11-11T17:11:19+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Claude can collaborate in your team meetings soon – like an intern",
@@ -289,20 +359,6 @@
             "published_utc": "2026-11-10T19:31:11+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/",
-            "summary": "Today is Microsoft's November 2026 Patch Tuesday, with security updates addressing a record-breaking 1,235 flaws, including one actively exploited Mic...",
-            "published_utc": "2026-11-10T19:07:36+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Windows 11 KB5132061 & KB5131087 cumulative updates released",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/",
-            "summary": "Microsoft has released the Patch Tuesday Windows 11 and cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bu...",
-            "published_utc": "2026-11-10T18:33:26+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "I found a hidden Android tool that solves all my tiny text troubles",
             "link": "https://www.zdnet.com/tech/android-display-help-magnification/",
@@ -329,20 +385,6 @@
             "link": "https://www.zdnet.com/tech/google-deepmind-researchers-prove-signal-whatsapp-encryption-works/",
             "summary": "With the aim of securing other vital systems, Google DeepMind plans to open-source its AlphaProof Code.",
             "published_utc": "2026-11-10T16:31:47+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers",
-            "link": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
-            "summary": "A critical authentication bypass vulnerability in Xen Orchestra is being actively exploited in attacks that could grant administrator privileges and a...",
-            "published_utc": "2026-11-10T16:17:16+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Binance warns of iOS flaw that could leak crypto wallet secrets",
-            "link": "https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets/",
-            "summary": "Binance is warning about a vulnerability in Apple's iOS 26.7.1, 27.0.1, and 27.2 that could allow third-party apps to read private files stored by oth...",
-            "published_utc": "2026-11-10T15:59:19+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -639,27 +681,6 @@
             "published_utc": "2026-11-06T18:43:43+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Android is getting my favorite iOS tracking feature – what to expect",
-            "link": "https://www.zdnet.com/tech/android-find-hub-left-behind-upgrade/",
-            "summary": "‘Notify when left behind’ is making its way to Android – but to limited devices for now.",
-            "published_utc": "2026-11-06T17:48:15+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Thinking Machines’ new model takes the lead in western open-weight AI",
-            "link": "https://www.zdnet.com/innovation/thinking-machines-inkling-2-small-open-weight/",
-            "summary": "Another competitive model developed outside of China could change the open-weight landscape.",
-            "published_utc": "2026-11-06T17:08:33+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Apple will monitor your public iCloud links now, starting with iOS 27.3",
-            "link": "https://www.zdnet.com/innovation/apple-monitor-public-icloud-links-27-3-harmful-content/",
-            "summary": "Under Apple’s new policy, the company will scan publicly shared iCloud links for harmful content – and possibly ban violators.",
-            "published_utc": "2026-11-06T16:21:55+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "A mole in the White House? Residential proxies are everywhere",
             "link": "https://www.csoonline.com/article/4245791/a-mole-in-the-white-house-residential-proxies-are-everywhere.html",
@@ -707,13 +728,6 @@
             "link": "https://www.wired.com/gallery/best-vpn/",
             "summary": "Every VPN says it’s the best, but only some of them are telling the truth.",
             "published_utc": "2026-11-05T23:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "92% of HR say staff can train for AI jobs – but half of companies still hire outside",
-            "link": "https://www.zdnet.com/innovation/ai-hiring-vs-reskilling-careerminds-research/",
-            "summary": "Most HR professionals say they believe employees can be reskilled for AI jobs, yet companies still often seek outside hires. Here’s why.",
-            "published_utc": "2026-11-05T18:44:47+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2130,13 +2144,6 @@
             "published_utc": "2026-09-29T09:00:00+00:00"
         },
         {
-            "source": "KrebsOnSecurity",
-            "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
-            "link": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
-            "summary": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolifi...",
-            "published_utc": "2026-09-28T15:08:57+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Bitget Restarts Bitcoin Withdrawals Following $387.5m Wallet Breach",
             "link": "https://www.infosecurity-magazine.com/news/bitget-restarts-withdrawals-387-5m/",
@@ -2814,13 +2821,6 @@
             "link": "https://www.infosecurity-magazine.com/news/crest-first-cohort-ai-pentesting/",
             "summary": "CREST’s new AI-enabled penetration testing accreditation welcomes its first 10 providers",
             "published_utc": "2026-09-03T13:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "US and Canadian Court Records Breached Following Thomson Reuters Incident",
-            "link": "https://www.infosecurity-magazine.com/news/us-canada-court-breach-thomson/",
-            "summary": "Thomson Reuters has disclosed a cyber incident affecting its C-Track court management software, potentially exposing court records in Canada and the US",
-            "published_utc": "2026-09-03T12:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
