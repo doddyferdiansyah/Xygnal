@@ -1,6 +1,104 @@
 {
-    "lastUpdatedUTC": "2026-11-12T15:48:53.966253+00:00",
+    "lastUpdatedUTC": "2026-11-12T22:05:30.379581+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Microsoft 365 Outage Disrupts Outlook, Exchange Online and Teams",
+            "link": "https://www.securityweek.com/microsoft-365-outage-disrupts-outlook-exchange-online-and-teams/",
+            "summary": "",
+            "published_utc": "2026-11-12T20:55:30+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/",
+            "summary": "Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users re...",
+            "published_utc": "2026-11-12T20:15:16+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "Major Microsoft Outlook Outage Leaves People With Email Jobs Unable to Email",
+            "link": "https://www.wired.com/story/major-microsoft-outlook-outage-hits-365-customers-north-america/",
+            "summary": "Microsoft says its systems are experiencing “elevated loads” as the company races to end an outage impacting its business and enterprise customers.",
+            "published_utc": "2026-11-12T20:01:33+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
+            "link": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
+            "summary": "Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed \"4EverAble2Shell\" to compromise servers and deploy cr...",
+            "published_utc": "2026-11-12T19:51:16+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Several Microsoft services appear to be down – what we know",
+            "link": "https://www.zdnet.com/business/microsoft-outage-outlook-teams-copilot/",
+            "summary": "Reports of the outage are beginning to drop as Microsoft restarts affected servers.",
+            "published_utc": "2026-11-12T19:45:52+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
+            "link": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
+            "summary": "A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution ...",
+            "published_utc": "2026-11-12T19:12:55+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Roku drops smart home products to focus on streaming – what that means for your devices",
+            "link": "https://www.zdnet.com/home-and-office/roku-discontinues-smart-home-products/",
+            "summary": "Roku is winding down its smart home business following its sale to Fox. Here’s what to know.",
+            "published_utc": "2026-11-12T18:43:08+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Attention, Android power users: This app unlocks 30+ features you won’t find in Settings",
+            "link": "https://www.zdnet.com/uncategorized/essentials-android-app-power-user-settings/",
+            "summary": "Is Android Settings not delivering enough power? The Essentials app features 30+ mods and tweaks – but you won’t find it in the Play Store",
+            "published_utc": "2026-11-12T18:15:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "You can force Gemini to forget about you now – how to edit its Memory",
+            "link": "https://www.zdnet.com/innovation/google-gemini-memory-summary-user-control/",
+            "summary": "A new option called Memory summary lets you see and control the things that Gemini AI knows about you.",
+            "published_utc": "2026-11-12T17:58:52+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Google Wallet just turned your Android phone into a digital house key – how it works",
+            "link": "https://www.zdnet.com/home-and-office/google-wallet-digital-home-keys-smart-locks/",
+            "summary": "Google is moving digital keys out of individual smart lock apps and into the Google Wallet.",
+            "published_utc": "2026-11-12T17:50:24+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Google’s Pixel Tag tracker won’t work as well on older Android phones – check our list",
+            "link": "https://www.zdnet.com/tech/google-pixel-tag-android-tracker-bluetooth-6-0-older-phones/",
+            "summary": "Several of the tracker’s best features require Bluetooth 6.0-compatible device.",
+            "published_utc": "2026-11-12T17:11:16+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Fitbit users can’t see Google Health metrics after update – how to fix it",
+            "link": "https://www.zdnet.com/tech/fitbit-health-metrics-missing-software-update-how-to-fix/",
+            "summary": "Google says it’s working on a fix – meantime, users have found workarounds.",
+            "published_utc": "2026-11-12T16:41:38+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "New Windows SignDrop zero-day gives hackers SYSTEM privileges",
+            "link": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
+            "summary": "Security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) has released a new Windows zero-day exploit that can let attackers gain SYSTEM...",
+            "published_utc": "2026-11-12T16:04:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Weak Passwords Expose SQL Servers to Cryptominer and Gh0st RAT",
+            "link": "https://www.infosecurity-magazine.com/news/fortinet-sql-server-cryptominer/",
+            "summary": "Fortinet finds weak SQL Server passwords used to deliver a miner and Gh0st RAT",
+            "published_utc": "2026-11-12T16:00:00+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Apache Patches Critical HTTP Server RCE Found by Anthropic, Google",
@@ -282,13 +380,6 @@
             "published_utc": "2026-11-11T16:30:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Today: CISO Forum Virtual Summit 2026 Day 2 – Join Cybersecurity Leaders Online",
-            "link": "https://www.securityweek.com/today-ciso-forum-virtual-summit-2026-join-global-cybersecurity-leaders/",
-            "summary": "",
-            "published_utc": "2026-11-11T16:29:42+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
             "link": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
@@ -310,27 +401,6 @@
             "published_utc": "2026-11-11T15:40:30+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
-            "summary": "Attackers are using Alibaba Cloud to host self-managed instances of AntiFox, an open-source agentic penetration testing platform, to target web servic...",
-            "published_utc": "2026-11-11T15:12:59+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "eBPF Rootkits: Why Underground Actors Are Taking Notice",
-            "link": "https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/",
-            "summary": "Linux eBPF rootkits can hide malicious activity and evade traditional detection methods without loading kernel modules. Flare reveals how these techni...",
-            "published_utc": "2026-11-11T15:01:11+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "N-able releases security hotfixes for zero-day vulnerabilities",
-            "link": "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/",
-            "summary": "N-able released hotfixes to address zero-day bugs affecting its N-central remote monitoring and management (RMM) platform, which were publicly disclos...",
-            "published_utc": "2026-11-11T12:32:27+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Rewriting less than 10 neurons in an LLM can turn it into a sleeper backdoor",
             "link": "https://www.csoonline.com/article/4247354/rewriting-less-than-10-neurons-in-an-llm-can-turn-it-into-a-sleeper-backdoor.html",
@@ -350,13 +420,6 @@
             "link": "https://www.csoonline.com/article/4247336/claude-codes-dont-ask-again-button-has-a-secrets-spilling-problem.html",
             "summary": "",
             "published_utc": "2026-11-11T12:00:18+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft fixes audio issues caused by September security updates",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/",
-            "summary": "Microsoft says the November 2026 cumulative updates resolve USB audio issues plaguing Windows users who have installed security updates released since...",
-            "published_utc": "2026-11-11T11:18:36+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -541,13 +604,6 @@
             "published_utc": "2026-11-10T12:36:55+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Can you still trust Proton?",
-            "link": "https://www.zdnet.com/tech/can-you-still-trust-proton/",
-            "summary": "The Swiss software company has built its reputation on a commitment to privacy. Did its CEO just destroy the trust of its customer base?",
-            "published_utc": "2026-11-10T12:17:11+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Default Admin Password Let Researchers Unlock and Start Cars",
             "link": "https://www.infosecurity-magazine.com/news/forgerock-openidm-default-password/",
@@ -630,48 +686,6 @@
             "link": "https://www.csoonline.com/article/4246479/sonicwall-releases-patches-for-7-flaws-in-its-firewalls-most-involving-unauthenticated-access.html",
             "summary": "",
             "published_utc": "2026-11-10T02:36:14+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "You can change Windows settings directly from a search now – how to try it",
-            "link": "https://www.zdnet.com/tech/windows-11-control-settings-from-search-insiders-preview/",
-            "summary": "The latest Windows 11 Insiders Preview enhances the Search feature so that you can access specific settings right from a search window.",
-            "published_utc": "2026-11-09T19:33:24+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "AMD confirms GPU driver bug is wearing out your SSD – how to stop it",
-            "link": "https://www.zdnet.com/tech/amd-confirms-gpu-driver-bug-is-wearing-out-your-ssd-how-to-stop-it/",
-            "summary": "AMD has admitted a bug within its External Events Utility is wearing out SSDs, and promises a fix.",
-            "published_utc": "2026-11-09T18:30:49+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Ready for a Siri AI agent? Apple under pressure to upgrade its assistant faster",
-            "link": "https://www.zdnet.com/home-and-office/apple-siri-ai-agentic-strategy/",
-            "summary": "Apple’s public-facing satisfaction with the Siri AI launch obscures internal pressures and tensions.",
-            "published_utc": "2026-11-09T17:54:25+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Android Auto requires Android 11 or higher now – check your compatibility",
-            "link": "https://www.zdnet.com/tech/android-auto-new-requirements-android-11/",
-            "summary": "Android Auto’s minimum requirements have changed. Here’s what to know.",
-            "published_utc": "2026-11-09T17:46:42+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Samsung’s new SmartTag 3 debuts with next-gen Bluetooth – and one big problem",
-            "link": "https://www.zdnet.com/tech/samsung-smart-tag-3-channel-sounding/",
-            "summary": "The Galaxy SmartTag 3 supports emerging Bluetooth tracking tech, but it’s not a match for Samsung’s OS exclusivity.",
-            "published_utc": "2026-11-09T17:46:38+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Samsung mulls Galaxy AI usage limits and subscription tiers – what we know",
-            "link": "https://www.zdnet.com/innovation/samsung-galaxy-ai-paid-subscription/",
-            "summary": "Galaxy device owners who are heavy AI users would likely start paying for some features they’ve long enjoyed for free.",
-            "published_utc": "2026-11-09T16:55:56+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1759,13 +1773,6 @@
             "published_utc": "2026-10-12T11:57:00+00:00"
         },
         {
-            "source": "WIRED Security",
-            "title": "Feds Got Warrants to Use Fake Cell Towers to Hunt Down Don Lemon’s Producer",
-            "link": "https://www.wired.com/story/feds-got-warrants-to-use-fake-cell-towers-to-hunt-down-don-lemons-producer/",
-            "summary": "Investigators also sought permission to use an invasive surveillance tool called a cell-site simulators against journalist Georgia Fort and a Minnesot...",
-            "published_utc": "2026-10-12T11:00:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Net Closes Around ShinyHunters with Another FBI Arrest",
             "link": "https://www.infosecurity-magazine.com/news/net-closes-shinyhunters-another/",
@@ -2814,13 +2821,6 @@
             "link": "https://www.infosecurity-magazine.com/news/multiple-class-action-lawsuits/",
             "summary": "Several victims of a recent breach of driver’s license information have sued the company they believe responsible",
             "published_utc": "2026-09-07T09:10:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Researcher Publishes CrowdStrike Privilege Escalation Zero Day",
-            "link": "https://www.infosecurity-magazine.com/news/crowdstrike-privilege-escalation/",
-            "summary": "A security researcher has posted a zero-day exploit in CrowdStrike which could allow hackers to escalate privileges",
-            "published_utc": "2026-09-07T08:28:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
