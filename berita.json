@@ -1,6 +1,195 @@
 {
-    "lastUpdatedUTC": "2026-11-12T06:06:45.079464+00:00",
+    "lastUpdatedUTC": "2026-11-12T15:48:53.966253+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Apache Patches Critical HTTP Server RCE Found by Anthropic, Google",
+            "link": "https://www.securityweek.com/apache-patches-critical-http-server-rce-found-by-anthropic-google/",
+            "summary": "",
+            "published_utc": "2026-11-12T15:38:31+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Palo Alto tracks a massive Chinese AI attack that sadly lives up to industry fears",
+            "link": "https://www.csoonline.com/article/4247565/palo-alto-tracks-a-massive-chinese-ai-attack-that-sadly-lives-up-to-industry-fears.html",
+            "summary": "",
+            "published_utc": "2026-11-12T15:15:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "If the November Windows update fails to install on your PC, here’s what to do",
+            "link": "https://www.zdnet.com/tech/microsoft-windows-november-update-fails-install-some-pcs/",
+            "summary": "This month’s security update is failing on some systems already running the preview update released in October. But there is a fix afoot.",
+            "published_utc": "2026-11-12T15:11:08+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure",
+            "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/",
+            "summary": "Europol and law enforcement partners from nine countries have seized hundreds of servers and domains used by the Gootloader, CastleRAT, and StealC mal...",
+            "published_utc": "2026-11-12T15:07:20+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Your Endpoint Management Platform Could Be Your Biggest Security Risk",
+            "link": "https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/",
+            "summary": "Endpoint management platforms can become powerful attack tools when compromised, allowing hackers to deploy malware, execute commands, and disrupt tho...",
+            "published_utc": "2026-11-12T15:00:10+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Apify rotates API tokens, prompts 2FA resets after breach",
+            "link": "https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/",
+            "summary": "Apify has rotated critical internal secrets and revoked some third-party OAuth connections after detecting unauthorized access to its internal systems...",
+            "published_utc": "2026-11-12T14:36:47+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Hacked Asian Telcos Used to Intercept Taiwanese Calls and Texts",
+            "link": "https://www.infosecurity-magazine.com/news/silentair-liminal-panda-telco/",
+            "summary": "Enea linked SilentAir and Liminal Panda to attacks on Asian mobile operators",
+            "published_utc": "2026-11-12T14:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Lego Takes BrickLink Marketplace Offline After Detecting Unusual Activity",
+            "link": "https://www.infosecurity-magazine.com/news/lego-takes-bricklink-marketplace/",
+            "summary": "Lego has taken its BrickLink Marketplace offline after detecting unusual activity as the company investigates the incident",
+            "published_utc": "2026-11-12T14:00:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Hackers abuse SQL Server’s weak passwords to drop cryptominers and Gh0st RAT",
+            "link": "https://www.csoonline.com/article/4247845/hackers-abuse-sql-servers-weak-passwords-to-drop-cryptominers-and-gh0st-rat.html",
+            "summary": "",
+            "published_utc": "2026-11-12T14:00:00+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "Apple’s HomeView Tries Face Authentication Without FaceID",
+            "link": "https://www.wired.com/story/apples-homeview-tries-face-authentication-without-faceid/",
+            "summary": "Apple’s FaceID has long provided robust authentication. But for its smart home device, HomeView, the company is betting on new “person recognition” te...",
+            "published_utc": "2026-11-12T14:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Chrome, Firefox Updates Patch Over 180 Vulnerabilities",
+            "link": "https://www.securityweek.com/chrome-firefox-updates-patch-180-vulnerabilities/",
+            "summary": "",
+            "published_utc": "2026-11-12T13:42:09+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Attacker Targets 60,000 GitHub Repositories in Credential Theft Campaign",
+            "link": "https://www.securityweek.com/attacker-targets-60000-github-repositories-in-credential-theft-campaign/",
+            "summary": "",
+            "published_utc": "2026-11-12T13:39:03+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Daylight Lands $80 Million for AI-Powered Security Operations",
+            "link": "https://www.securityweek.com/daylight-lands-80-million-for-ai-powered-security-operations/",
+            "summary": "",
+            "published_utc": "2026-11-12T13:12:11+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft: Recent Windows updates cause SQL Server performance issues",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/",
+            "summary": "Microsoft has confirmed that Windows updates released since the October 2026 Patch Tuesday are causing SQL Server performance and stability issues. [...]",
+            "published_utc": "2026-11-12T12:11:11+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "AI found Linux kernel bugs that remained undetected for decades",
+            "link": "https://www.csoonline.com/article/4247815/ai-found-linux-kernel-bugs-that-remained-undetected-for-decades.html",
+            "summary": "",
+            "published_utc": "2026-11-12T12:09:51+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Another Way Police Are Locating People from Their Smartphones",
+            "link": "https://www.schneier.com/blog/archives/2026/11/another-way-police-are-locating-people-from-their-smartphones.html",
+            "summary": "",
+            "published_utc": "2026-11-12T12:02:58+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Notion Customer Data Compromised in Fireworks AI Hack",
+            "link": "https://www.securityweek.com/notion-customer-data-compromised-in-fireworks-ai-hack/",
+            "summary": "",
+            "published_utc": "2026-11-12T11:08:52+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Security Teams Must Shift from Patching to Mitigation in the AI Era",
+            "link": "https://www.infosecurity-magazine.com/news/shift-patching-mitigation-ai-era/",
+            "summary": "Symantec’s Dick O’Brien says the rapid closure of the patch window means organizations must move beyond patching and adopt an assume exploit mindset",
+            "published_utc": "2026-11-12T10:45:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Hackers Deploy Malware in Fresh ScreenConnect Campaign",
+            "link": "https://www.securityweek.com/hackers-deploy-malware-in-fresh-screenconnect-campaign/",
+            "summary": "",
+            "published_utc": "2026-11-12T10:39:34+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft confirms Windows security updates installation issues",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/",
+            "summary": "Microsoft has confirmed reports that the November 2026 security updates are failing to install on Windows 11 systems with the October preview update. ...",
+            "published_utc": "2026-11-12T10:24:07+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "NCSC Launches Cyber Adversary Testing to Boost Resilience",
+            "link": "https://www.infosecurity-magazine.com/news/ncsc-cyber-adversary-testing-boost/",
+            "summary": "The UK’s National Cyber Security Centre has launched a new Cyber Adversary Simulation (CyAS) scheme",
+            "published_utc": "2026-11-12T10:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Hackers Target N-central Zero-Days as N-able Rushes Patches",
+            "link": "https://www.securityweek.com/hackers-target-n-central-zero-days-as-n-able-rushes-patches/",
+            "summary": "",
+            "published_utc": "2026-11-12T09:39:55+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers plant GSocket on Linux servers for persistent access",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/",
+            "summary": "Multiple threat actors are abusing GSocket, a legitimate open-source remote access tool, to maintain access to Linux servers even after patching the v...",
+            "published_utc": "2026-11-12T09:38:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Critical Red Hat Quay Vulnerability Could Expose Private Container Images",
+            "link": "https://www.securityweek.com/critical-red-hat-quay-vulnerability-could-expose-private-container-images/",
+            "summary": "",
+            "published_utc": "2026-11-12T09:23:21+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "The developer laptop just became production. Now what?",
+            "link": "https://www.csoonline.com/article/4247458/the-developer-laptop-just-became-production-now-what.html",
+            "summary": "",
+            "published_utc": "2026-11-12T09:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Maersk Reveals Data Breach as Extortion Group Demands $5m",
+            "link": "https://www.infosecurity-magazine.com/news/maersk-data-breach-extortion-group/",
+            "summary": "Maersk has revealed a threat actor extracted data from one of its legacy systems",
+            "published_utc": "2026-11-12T08:49:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Maersk Confirms Data Theft Amid $5 Million Extortion Attempt",
+            "link": "https://www.securityweek.com/maersk-confirms-data-theft-amid-5-million-extortion-attempt/",
+            "summary": "",
+            "published_utc": "2026-11-12T08:38:47+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "Hackers stole AI credentials to get $740,000 in free compute; Railway picked up the bill",
@@ -114,13 +303,6 @@
             "published_utc": "2026-11-11T16:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Critical Xen Orchestra Flaws Exploited in Attacks",
-            "link": "https://www.securityweek.com/critical-xen-orchestra-flaws-exploited-in-attacks/",
-            "summary": "",
-            "published_utc": "2026-11-11T15:42:47+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "Over Ubuntu? Fedora is the Linux distro I’d hop to next – here’s why",
             "link": "https://www.zdnet.com/linux/ubuntu-fedora-migration-linux-distro-hopping/",
@@ -142,20 +324,6 @@
             "published_utc": "2026-11-11T15:01:11+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Asus, Zoom Release Security Patches",
-            "link": "https://www.securityweek.com/asus-zoom-release-security-patches/",
-            "summary": "",
-            "published_utc": "2026-11-11T13:58:38+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Citrix, Ivanti Patch Critical and High-Severity Vulnerabilities",
-            "link": "https://www.securityweek.com/citrix-ivanti-patch-critical-and-high-severity-vulnerabilities/",
-            "summary": "",
-            "published_utc": "2026-11-11T13:37:19+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "N-able releases security hotfixes for zero-day vulnerabilities",
             "link": "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/",
@@ -168,20 +336,6 @@
             "link": "https://www.csoonline.com/article/4247354/rewriting-less-than-10-neurons-in-an-llm-can-turn-it-into-a-sleeper-backdoor.html",
             "summary": "",
             "published_utc": "2026-11-11T12:28:03+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Finite State Raises $27 Million to Secure Software and Firmware in Connected Devices",
-            "link": "https://www.securityweek.com/finite-state-raises-27-million-to-secure-software-and-firmware-in-connected-devices/",
-            "summary": "",
-            "published_utc": "2026-11-11T12:24:33+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Fortinet Patches Nearly 100 Vulnerabilities",
-            "link": "https://www.securityweek.com/fortinet-patches-nearly-100-vulnerabilities/",
-            "summary": "",
-            "published_utc": "2026-11-11T12:10:14+00:00"
         },
         {
             "source": "Schneier",
@@ -198,39 +352,11 @@
             "published_utc": "2026-11-11T12:00:18+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Bay Raises $50 Million to Control What Enterprise AI Agents Can Do",
-            "link": "https://www.securityweek.com/bay-raises-50-million-to-control-what-enterprise-ai-agents-can-do/",
-            "summary": "",
-            "published_utc": "2026-11-11T11:30:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Microsoft fixes audio issues caused by September security updates",
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/",
             "summary": "Microsoft says the November 2026 cumulative updates resolve USB audio issues plaguing Windows users who have installed security updates released since...",
             "published_utc": "2026-11-11T11:18:36+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Dreeze Emerges From Stealth With $33M to Rebuild Cloud Apps After Cyberattacks",
-            "link": "https://www.securityweek.com/dreeze-emerges-from-stealth-with-33m-to-rebuild-cloud-apps-after-cyberattacks/",
-            "summary": "",
-            "published_utc": "2026-11-11T11:16:40+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "ICS Patch Tuesday: Siemens Flags High-Severity Flaws, Node2Shell Exposure",
-            "link": "https://www.securityweek.com/ics-patch-tuesday-siemens-flags-high-severity-flaws-node2shell-exposure/",
-            "summary": "",
-            "published_utc": "2026-11-11T10:35:15+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/",
-            "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned on Tuesday that hackers are now exploiting a high-severity Cisco BroadWorks vuln...",
-            "published_utc": "2026-11-11T10:12:08+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -245,20 +371,6 @@
             "link": "https://www.infosecurity-magazine.com/news/microsoft-fixes-1235-flaws-record/",
             "summary": "Microsoft patched a record-breaking 1235 CVEs in November’s Patch Tuesday",
             "published_utc": "2026-11-11T09:15:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft fixes Exchange sign-ins broken by Windows Server updates",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/",
-            "summary": "Microsoft has fixed Outlook sign-in and mail delivery issues on Exchange Server systems after installing the October 2026 Windows Server security upda...",
-            "published_utc": "2026-11-11T09:07:27+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Threat Actors Exploit Openwave, Cisco BroadWorks Vulnerabilities",
-            "link": "https://www.securityweek.com/threat-actors-exploit-openwave-cisco-broadworks-vulnerabilities/",
-            "summary": "",
-            "published_utc": "2026-11-11T09:01:07+00:00"
         },
         {
             "source": "CSO Online",
@@ -310,13 +422,6 @@
             "published_utc": "2026-11-11T03:10:23+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Railway breach leads to $740,000 in fraudulent AI charges",
-            "link": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
-            "summary": "Cloud hosting provider Railway says hackers exploited vulnerabilities in its infrastructure to steal customer authentication secrets and generate appr...",
-            "published_utc": "2026-11-10T22:20:19+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "N-able N-central gets emergency fix two days after 33 exploits published",
             "link": "https://www.csoonline.com/article/4247028/n-able-n-central-gets-emergency-fix-two-days-after-33-exploits-published.html",
@@ -338,32 +443,11 @@
             "published_utc": "2026-11-10T21:00:31+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Japanese furniture giant Nitori says hackers stole 37.6M customer records",
-            "link": "https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/",
-            "summary": "Nitori, a major Japanese furniture and home accessories retailer, discovered that an attacker accessed a system on its network and may have stolen 37....",
-            "published_utc": "2026-11-10T20:54:55+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "Need more AI in Creator Studio? Apple may charge you for it",
             "link": "https://www.zdnet.com/innovation/ai-creator-studio-apple-usage-packs-fee/",
             "summary": "With its new $50 AI usage packes, Apple is the latest company to introduce paid model for AI access.",
             "published_utc": "2026-11-10T20:38:54+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft releases Windows 10 KB5131096 extended security update",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/",
-            "summary": "Microsoft released the Windows 10 KB5131096 extended security update, which includes this month's November 2026 Patch Tuesday fixes and a few bug fixe...",
-            "published_utc": "2026-11-10T20:04:36+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Hackers exploit trusted AWS access to breach multiple cloud environments",
-            "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/",
-            "summary": "A threat actor used compromised identity and access management (IAM) credentials for a Qubole big data platform's AWS account to access and exfiltrate...",
-            "published_utc": "2026-11-10T19:31:11+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -548,13 +632,6 @@
             "published_utc": "2026-11-10T02:36:14+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Microsoft’s email security is unexpectedly blocking legitimate business mail",
-            "link": "https://www.csoonline.com/article/4246592/microsofts-email-security-is-unexpectedly-blocking-legitimate-business-mail-2.html",
-            "summary": "",
-            "published_utc": "2026-11-10T01:57:23+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "You can change Windows settings directly from a search now – how to try it",
             "link": "https://www.zdnet.com/tech/windows-11-control-settings-from-search-insiders-preview/",
@@ -646,32 +723,11 @@
             "published_utc": "2026-11-09T09:16:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "The code and the court: Why your email security thinks like Napoleon",
-            "link": "https://www.csoonline.com/article/4245807/the-code-and-the-court-why-your-email-security-thinks-like-napoleon.html",
-            "summary": "",
-            "published_utc": "2026-11-09T09:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "7 tips for achieving defensive agility",
-            "link": "https://www.csoonline.com/article/4240628/7-tips-for-achieving-defensive-agility.html",
-            "summary": "",
-            "published_utc": "2026-11-09T08:25:00+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call",
             "link": "https://www.wired.com/story/kernel-panic-refrigeration-hacks-internet-of-things/",
             "summary": "Escalating hacks affecting blood labs and grocery stores show the very real risks to critical infrastructure that come from basic security lapses invo...",
             "published_utc": "2026-11-07T13:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Alpine Linux and OpenSSH patch flaw that’s as bad as it can get",
-            "link": "https://www.zdnet.com/tech/alpine-linux-openssh-patch-flaw/",
-            "summary": "This dangerous Linux security hole must be patched as soon as possible.",
-            "published_utc": "2026-11-07T00:00:45+00:00"
         },
         {
             "source": "Schneier",
@@ -686,13 +742,6 @@
             "link": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
             "summary": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI...",
             "published_utc": "2026-11-06T18:43:43+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "A mole in the White House? Residential proxies are everywhere",
-            "link": "https://www.csoonline.com/article/4245791/a-mole-in-the-white-house-residential-proxies-are-everywhere.html",
-            "summary": "",
-            "published_utc": "2026-11-06T15:00:54+00:00"
         },
         {
             "source": "Schneier",
@@ -1134,13 +1183,6 @@
             "link": "https://www.infosecurity-magazine.com/news/energy-giant-engie-supply-chain/",
             "summary": "An undisclosed number of Engie customers have had their data compromised after a supply chain incident",
             "published_utc": "2026-10-28T14:05:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Studying Fraudulent North Korean IT Workers",
-            "link": "https://www.schneier.com/blog/archives/2026/10/studying-fraudulent-north-korean-it-workers.html",
-            "summary": "",
-            "published_utc": "2026-10-28T11:05:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
@@ -1750,13 +1792,6 @@
             "link": "https://www.infosecurity-magazine.com/news/karaoke-giant-data-breach-eight/",
             "summary": "Daiichi Kosho says a supply chain breach has exposed personal data on over eight million karaoke customers",
             "published_utc": "2026-10-12T08:35:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "AI Is Getting Really Good at Messing With Cybercriminals",
-            "link": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
-            "summary": "Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real vic...",
-            "published_utc": "2026-10-10T12:00:00+00:00"
         },
         {
             "source": "KrebsOnSecurity",
@@ -2786,41 +2821,6 @@
             "link": "https://www.infosecurity-magazine.com/news/crowdstrike-privilege-escalation/",
             "summary": "A security researcher has posted a zero-day exploit in CrowdStrike which could allow hackers to escalate privileges",
             "published_utc": "2026-09-07T08:28:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "OpenAI Pledges $1bn to Bring its AI Cybersecurity Tools to Essential Services",
-            "link": "https://www.infosecurity-magazine.com/news/openai-pledges-ai-tools-essential/",
-            "summary": "OpenAI has committed to subsidizing access to Daybreak, helping defenders deploy its AI models in its existing cybersecurity infrastructure",
-            "published_utc": "2026-09-04T10:15:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "G7 Urges Fast-Track on Quantum-Safe Cybersecurity Rules",
-            "link": "https://www.infosecurity-magazine.com/news/g7-urges-quantum-safe-cyber-rules/",
-            "summary": "The G7 has published a call to action, urging governments to launch national strategies dedicated to the post-quantum encryption transition",
-            "published_utc": "2026-09-04T09:25:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Pegasus Zero-Click Exploit Infects Serbian Student Activist's iPhone",
-            "link": "https://www.infosecurity-magazine.com/news/pegasus-zero-click-exploit/",
-            "summary": "Pegasus infected a Serbian student activist's iPhone through an iMessage zero-click exploit",
-            "published_utc": "2026-09-03T15:25:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Outsider Phishing Kit Survives Takedown With 700 New Pages",
-            "link": "https://www.infosecurity-magazine.com/news/outsider-phishing-kit-survives/",
-            "summary": "Outsider phishing kit generated 700 new pages after a Google-led disruption",
-            "published_utc": "2026-09-03T14:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "CREST Onboards First Cohort for AI-Enabled Pentesting Accreditation",
-            "link": "https://www.infosecurity-magazine.com/news/crest-first-cohort-ai-pentesting/",
-            "summary": "CREST’s new AI-enabled penetration testing accreditation welcomes its first 10 providers",
-            "published_utc": "2026-09-03T13:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
