@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-11-12T22:05:30.379581+00:00",
+    "lastUpdatedUTC": "2026-11-13T03:11:46.018741+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "FBI Says US Seized $1.2 Billion Worth of Cryptocurrency Stolen From Binance",
+            "link": "https://www.securityweek.com/fbi-says-us-seized-1-2-billion-worth-of-cryptocurrency-stolen-from-binance/",
+            "summary": "",
+            "published_utc": "2026-11-13T02:28:21+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
+            "summary": "A new worm-like malware toolkit named SCKit was deployed in the recent ScreenConnect attacks targeting managed service providers (MSPs), designed to s...",
+            "published_utc": "2026-11-12T22:53:10+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
+            "summary": "A new campaign dubbed 'wfx-loot' has unfolded on GitHub where threat actors used 4,837 compromised accounts to probe 61,764 repositories, open pull re...",
+            "published_utc": "2026-11-12T22:25:30+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Microsoft 365 Outage Disrupts Outlook, Exchange Online and Teams",
@@ -282,13 +303,6 @@
             "published_utc": "2026-11-12T08:49:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Maersk Confirms Data Theft Amid $5 Million Extortion Attempt",
-            "link": "https://www.securityweek.com/maersk-confirms-data-theft-amid-5-million-extortion-attempt/",
-            "summary": "",
-            "published_utc": "2026-11-12T08:38:47+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Hackers stole AI credentials to get $740,000 in free compute; Railway picked up the bill",
             "link": "https://www.csoonline.com/article/4247578/hackers-stole-ai-credentials-to-get-740000-in-free-compute-railway-picked-up-the-bill.html",
@@ -315,13 +329,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",
             "summary": "Certificate authority eMudhra has revoked eight additional intermediate CA certificates after an investigation into its recent certificate security in...",
             "published_utc": "2026-11-11T21:27:40+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Notion says Fireworks breach exposed customer AI chat transcripts",
-            "link": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
-            "summary": "Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat trans...",
-            "published_utc": "2026-11-11T20:54:20+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -378,13 +385,6 @@
             "link": "https://www.infosecurity-magazine.com/news/anthropic-glasswing/",
             "summary": "VulnCheck’s Patrick Garrity has found that seven months on, Project Glasswing resulted in only 217 vulnerabilities getting fixed, despite thousands re...",
             "published_utc": "2026-11-11T16:30:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
-            "link": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
-            "summary": "Maersk announced that a threat actor gained unauthorized access to a local legacy system inherited through an earlier acquisition and extracted data f...",
-            "published_utc": "2026-11-11T16:24:18+00:00"
         },
         {
             "source": "InfosecurityMag",
