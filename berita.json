@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2026-11-13T19:18:51.839269+00:00",
+    "lastUpdatedUTC": "2026-11-14T00:43:20.227843+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "Thousands of GitHub repos hit with secret-stealing malware",
+            "link": "https://www.csoonline.com/article/4248672/thousands-of-github-repos-hit-with-secret-stealing-malware.html",
+            "summary": "",
+            "published_utc": "2026-11-13T23:53:42+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Friday Squid Blogging: Pacific Flying Squid Populations Dropping in Korean Waters",
+            "link": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-pacific-flying-squid-populations-dropping-in-korean-waters.html",
+            "summary": "",
+            "published_utc": "2026-11-13T22:00:46+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Microsoft doesn’t ‘have an ETA for full recovery’ on outage yet",
+            "link": "https://www.zdnet.com/business/microsoft-outage-outlook-teams-copilot/",
+            "summary": "One think tank’s estimate puts the cost of the outage at $7 billion.",
+            "published_utc": "2026-11-13T21:43:32+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "FAA Ground Stop Issued Due to ‘Extraordinary Circumstances’",
+            "link": "https://www.securityweek.com/faa-ground-stop-issued-due-to-extraordinary-circumstances/",
+            "summary": "",
+            "published_utc": "2026-11-13T21:33:27+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Trezor confirms crypto-stealing implants in three wallets, releases fix",
+            "link": "https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/",
+            "summary": "Cryptocurrency hardware wallet maker Trezor has confirmed that three Safe 5 devices sold by Southeast Asian reseller CryptoBilis contained malicious h...",
+            "published_utc": "2026-11-13T19:38:36+00:00"
+        },
         {
             "source": "WIRED Security",
             "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
@@ -177,13 +212,6 @@
             "published_utc": "2026-11-13T07:39:04+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Hackers Exploit New N-central Zero-Day Hours After PoC Publication",
-            "link": "https://www.securityweek.com/hackers-exploit-new-n-central-zero-day-hours-after-poc-publication/",
-            "summary": "",
-            "published_utc": "2026-11-13T07:20:50+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
             "link": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
@@ -217,13 +245,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
             "summary": "Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed \"4EverAble2Shell\" to compromise servers and deploy cr...",
             "published_utc": "2026-11-12T19:51:16+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Microsoft is repairing Thursday’s global outage – what we know",
-            "link": "https://www.zdnet.com/business/microsoft-outage-outlook-teams-copilot/",
-            "summary": "The company is steadily restoring service and thinks a software update may be to blame.",
-            "published_utc": "2026-11-12T19:45:52+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -308,13 +329,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/",
             "summary": "Europol and law enforcement partners from nine countries have seized hundreds of servers and domains used by the Gootloader, CastleRAT, and StealC mal...",
             "published_utc": "2026-11-12T15:07:20+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Your Endpoint Management Platform Could Be Your Biggest Security Risk",
-            "link": "https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/",
-            "summary": "Endpoint management platforms can become powerful attack tools when compromised, allowing hackers to deploy malware, execute commands, and disrupt tho...",
-            "published_utc": "2026-11-12T15:00:10+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -709,13 +723,6 @@
             "published_utc": "2026-11-10T09:57:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Anthropic sharpens AI coding and security capabilities with Mythos 5.2",
-            "link": "https://www.csoonline.com/article/4246688/anthropic-sharpens-ai-coding-and-security-capabilities-with-mythos-5-2.html",
-            "summary": "",
-            "published_utc": "2026-11-10T09:33:17+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Binance Investigates ShinyHunters Breach Claims",
             "link": "https://www.infosecurity-magazine.com/news/binance-investigates-shinyhunters/",
@@ -1085,13 +1092,6 @@
             "link": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
             "summary": "Named Volta-Autodoxer, the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card nu...",
             "published_utc": "2026-10-31T12:00:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Friday Squid Blogging: Bigfin Squid Off California Coast",
-            "link": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-bigfin-squid-off-california-coast.html",
-            "summary": "",
-            "published_utc": "2026-10-30T21:04:36+00:00"
         },
         {
             "source": "WIRED Security",
