@@ -1,6 +1,20 @@
 {
-    "lastUpdatedUTC": "2026-11-15T13:34:41.878749+00:00",
+    "lastUpdatedUTC": "2026-11-15T19:35:51.704060+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+            "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
+            "summary": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worl...",
+            "published_utc": "2026-11-15T18:29:53+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "TSMC employee data breach linked to cloud provider",
+            "link": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
+            "summary": "Taiwan Semiconductor Manufacturing Company (TSMC) confirmed that personal employee data has been leaked online after a threat actor put 6.9GB of infor...",
+            "published_utc": "2026-11-15T15:23:48+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "Pentagon Renames CDAO ‘Super Intelligence Office’",
@@ -287,20 +301,6 @@
             "link": "https://www.wired.com/story/major-microsoft-outlook-outage-hits-365-customers-north-america/",
             "summary": "Microsoft says its systems are experiencing “elevated loads” as the company races to end an outage impacting its business and enterprise customers.",
             "published_utc": "2026-11-12T20:01:33+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
-            "link": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
-            "summary": "Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed \"4EverAble2Shell\" to compromise servers and deploy cr...",
-            "published_utc": "2026-11-12T19:51:16+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
-            "link": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
-            "summary": "A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution ...",
-            "published_utc": "2026-11-12T19:12:55+00:00"
         },
         {
             "source": "ZDNet Security",
