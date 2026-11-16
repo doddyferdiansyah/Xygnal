@@ -1,6 +1,160 @@
 {
-    "lastUpdatedUTC": "2026-11-16T05:13:07.495216+00:00",
+    "lastUpdatedUTC": "2026-11-16T15:03:07.615735+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Google warns that fully-automated AI attacks are coming soon",
+            "link": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
+            "summary": "Threat actors are now relying on agentic workflows powered by AI-based offensive frameworks to automate vulnerability discovery and exploitation, acce...",
+            "published_utc": "2026-11-16T14:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Your enterprise AI access can be sold for pennies – beware ‘LLM Mixers’",
+            "link": "https://www.zdnet.com/innovation/google-threat-intelligence-report-llmjacking-ai/",
+            "summary": "Underground brokers are selling access to hijacked enterprise AI accounts, with companies footing the usage bill, Google reports.",
+            "published_utc": "2026-11-16T14:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "AI finds zero-day flaws for just $4 now – even mediocre hackers can cash in",
+            "link": "https://www.zdnet.com/innovation/ai-finds-zero-day-security-flaws-for-cheap-hackers/",
+            "summary": "Rapidly advancing AI models are making it cheaper and easier to uncover critical vulnerabilities, but it’s a double-edged sword – and a gift to hackers.",
+            "published_utc": "2026-11-16T13:14:25+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft: Windows Server 2016 reaches end of support in 60 days",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/",
+            "summary": "Microsoft has reminded customers again that Windows Server 2016 will stop receiving security updates after it reaches the end of support in two months...",
+            "published_utc": "2026-11-16T12:53:18+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Telegram Widgets Hit by RCE Demos, Malware Warning Days After Launch",
+            "link": "https://www.securityweek.com/telegram-widgets-hit-by-rce-demos-malware-warning-days-after-launch/",
+            "summary": "",
+            "published_utc": "2026-11-16T12:48:03+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Alibaba touts 62% lower task costs with Qwen4-Max, adds cyber safeguards",
+            "link": "https://www.csoonline.com/article/4249015/alibaba-touts-62-lower-task-costs-with-qwen4-max-adds-cyber-safeguards-2.html",
+            "summary": "",
+            "published_utc": "2026-11-16T12:21:02+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Google Project Zero to Cut Disclosure Deadline to 30 Days by 2028",
+            "link": "https://www.infosecurity-magazine.com/news/project-zero-disclosure-deadline/",
+            "summary": "Project Zero will publish bug details 30 days after reporting, fixed or not, by 2028",
+            "published_utc": "2026-11-16T12:15:00+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Usable Security at Luxury Hotels",
+            "link": "https://www.schneier.com/blog/archives/2026/11/usable-security-at-luxury-hotels.html",
+            "summary": "",
+            "published_utc": "2026-11-16T12:04:42+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "FBI Highlights Growing Abuse of AI-Driven Pentesting Framework ARTEX",
+            "link": "https://www.infosecurity-magazine.com/news/fbi-growing-abuse-ai-pentesting/",
+            "summary": "The FBI warns that threat actors are increasingly using open-source AI pentesting tool ARTEX to launch fast, large-scale intrusions worldwide",
+            "published_utc": "2026-11-16T12:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Australian retail giant Coles investigates cybersecurity incident",
+            "link": "https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/",
+            "summary": "Coles Group Limited, Australia's second-largest retailer, is investigating what it described as a \"cyber security incident\" that has not impacted the ...",
+            "published_utc": "2026-11-16T11:18:09+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Recent UnrealIRCd Vulnerability Exploited in Attacks",
+            "link": "https://www.securityweek.com/recent-unrealircd-vulnerability-exploited-in-attacks/",
+            "summary": "",
+            "published_utc": "2026-11-16T11:15:48+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Hackers Probe Newly Disclosed Flaws in Copeland Refrigeration Controllers",
+            "link": "https://www.securityweek.com/hackers-probe-newly-disclosed-flaws-in-copeland-refrigeration-controllers/",
+            "summary": "",
+            "published_utc": "2026-11-16T11:05:42+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Uber Data Breach Impacts 150,000 People",
+            "link": "https://www.securityweek.com/uber-data-breach-impacts-150000-people/",
+            "summary": "",
+            "published_utc": "2026-11-16T11:02:48+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs",
+            "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-claude-fable-52-blocks-fewer-security-tasks-while-mythos-gets-better-at-finding-bugs/",
+            "summary": "Anthropic recently rolled out Claude Mythos 5.2 to selected partners and Fable 5.2 to regular users, with improvements to coding and reasoning. But we...",
+            "published_utc": "2026-11-16T11:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Information Commissioner’s Office Receives 300+ Reports of Medical Snooping",
+            "link": "https://www.infosecurity-magazine.com/news/ico-300-reports-of-medical-snooping/",
+            "summary": "UK privacy watchdog has received reports of hundreds of cases of unauthorized insider access to medical files this year",
+            "published_utc": "2026-11-16T10:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "New NoisyTCP vulnerability lets attackers crash Linux servers",
+            "link": "https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/",
+            "summary": "An 11-year-old Linux kernel vulnerability, dubbed NoisyTCP, affects almost all Linux distributions and lets attackers crash systems running Nginx, Apa...",
+            "published_utc": "2026-11-16T09:30:04+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "AI Cuts Vulnerability Discovery from Nine Months to 90 Hours",
+            "link": "https://www.infosecurity-magazine.com/news/ai-cut-vulnerability-discover-nine/",
+            "summary": "Forescout report claims to have found 66 new flaws in just 90 hours using AI",
+            "published_utc": "2026-11-16T09:00:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "The benign true positive: When trusted AI agents look like attackers",
+            "link": "https://www.csoonline.com/article/4248451/the-benign-true-positive-when-trusted-ai-agents-look-like-attackers.html",
+            "summary": "",
+            "published_utc": "2026-11-16T09:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Tor Updates DoS Defenses Again as Relay Attacks Continue",
+            "link": "https://www.securityweek.com/tor-updates-dos-defenses-again-as-relay-attacks-continue/",
+            "summary": "",
+            "published_utc": "2026-11-16T08:55:32+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft pushes Windows emergency updates to fix activation failures",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures/",
+            "summary": "Microsoft has released emergency out-of-band updates to fix Windows activation and licensing failures caused by this month's security updates. [...]",
+            "published_utc": "2026-11-16T08:26:52+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "AI-written patches are becoming attack maps for hackers",
+            "link": "https://www.csoonline.com/article/4248687/ai-written-patches-are-becoming-attack-maps-for-hackers.html",
+            "summary": "",
+            "published_utc": "2026-11-16T08:25:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Microsoft Rules Out Cyberattack in Outage, Warns of Phishing Campaign",
+            "link": "https://www.securityweek.com/microsoft-rules-out-cyberattack-in-outage-warns-of-phishing-campaign/",
+            "summary": "",
+            "published_utc": "2026-11-16T08:15:12+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
@@ -72,13 +226,6 @@
             "published_utc": "2026-11-14T11:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update",
-            "link": "https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/",
-            "summary": "",
-            "published_utc": "2026-11-14T08:40:22+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "The firewall becomes the foothold: Attackers turn Check Point gateways against customers",
             "link": "https://www.csoonline.com/article/4248693/the-firewall-becomes-the-foothold-attackers-turn-check-point-gateways-against-customers.html",
@@ -112,13 +259,6 @@
             "link": "https://www.zdnet.com/business/microsoft-outage-outlook-teams-copilot/",
             "summary": "One think tank’s estimate puts the cost of the outage at $7 billion.",
             "published_utc": "2026-11-13T21:43:32+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "FAA Ground Stop Issued Due to ‘Extraordinary Circumstances’",
-            "link": "https://www.securityweek.com/faa-ground-stop-issued-due-to-extraordinary-circumstances/",
-            "summary": "",
-            "published_utc": "2026-11-13T21:33:27+00:00"
         },
         {
             "source": "BleepingComputer",
@@ -163,13 +303,6 @@
             "published_utc": "2026-11-13T16:21:43+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach",
-            "link": "https://www.securityweek.com/in-other-news-new-cisa-director-nominee-connected-car-hacking-baker-tilly-data-breach/",
-            "summary": "",
-            "published_utc": "2026-11-13T15:20:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "How one AI agent exposed five critical enterprise security gaps",
             "link": "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/",
@@ -177,25 +310,11 @@
             "published_utc": "2026-11-13T15:01:11+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Microsoft Struggles to Restore Email and Other Services in a Global Outage",
-            "link": "https://www.securityweek.com/microsoft-struggles-to-restore-email-and-other-services-in-a-global-outage/",
-            "summary": "",
-            "published_utc": "2026-11-13T13:47:42+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Hackers' Overreliance on AI Can Result in Weaker Cyber-Attacks, Proofpoint Researcher Says",
             "link": "https://www.infosecurity-magazine.com/news/hackers-ai-weaker-cyber-attacks/",
             "summary": "Proofpoint’s Selena Larson notes that threat actors’ reliance on AI has led to lots of mistakes being made, with little evidence of increased sophisti...",
             "published_utc": "2026-11-13T13:45:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Apify Confirms Customer Data Accessed in Cyberattack",
-            "link": "https://www.securityweek.com/apify-confirms-customer-data-accessed-in-cyberattack/",
-            "summary": "",
-            "published_utc": "2026-11-13T12:41:01+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -212,13 +331,6 @@
             "published_utc": "2026-11-13T12:27:40+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "SilentAir Hackers Intercept Calls, SMS From Inside Mobile Networks",
-            "link": "https://www.securityweek.com/silentair-hackers-intercept-calls-sms-from-inside-mobile-networks/",
-            "summary": "",
-            "published_utc": "2026-11-13T12:20:28+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "AI Doesn’t Have to Go Rogue to Break the World",
             "link": "https://www.schneier.com/blog/archives/2026/11/ai-doesnt-have-to-go-rogue-to-break-the-world.html",
@@ -233,25 +345,11 @@
             "published_utc": "2026-11-13T11:15:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Check Point warns of zero-day flaw exploited for root access",
-            "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
-            "summary": "Check Point Software has released emergency hotfixes to address a high-severity flaw that hackers have been exploiting to gain root privileges and est...",
-            "published_utc": "2026-11-13T10:44:22+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "GTA VI isn’t out yet – and the scams are already in full swing",
             "link": "https://www.welivesecurity.com/en/cybersecurity/gta-vi-isnt-out-yet-scams-full-swing/",
             "summary": "Cybercriminals attempt to cash in on the hype around the game, luring fans with malware-laced downloads and ‘early access’ that doesn’t exist",
             "published_utc": "2026-11-13T10:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft confirms Windows activation failures after November updates",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/",
-            "summary": "Microsoft has confirmed that this month's Patch Tuesday security updates are causing Windows activation and licensing failures with 0x80041008 error c...",
-            "published_utc": "2026-11-13T09:36:18+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -266,34 +364,6 @@
             "link": "https://www.csoonline.com/article/4247929/an-ai-kill-switch-isnt-enough-build-a-fallback-plan.html",
             "summary": "",
             "published_utc": "2026-11-13T09:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Police arrest 354 suspects in dark web cybercrime crackdown",
-            "link": "https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/",
-            "summary": "Authorities arrested 354 suspects in a joint international operation targeting vendors and buyers on the Archetyp, Nemesis, Tor2Door, Bohemia, and Kin...",
-            "published_utc": "2026-11-13T08:34:20+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
-            "summary": "A new worm-like malware toolkit named SCKit was deployed in the recent ScreenConnect attacks targeting managed service providers (MSPs), designed to s...",
-            "published_utc": "2026-11-12T22:53:10+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
-            "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
-            "summary": "A new campaign dubbed 'wfx-loot' has unfolded on GitHub where threat actors used 4,837 compromised accounts to probe 61,764 repositories, open pull re...",
-            "published_utc": "2026-11-12T22:25:30+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/",
-            "summary": "Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users re...",
-            "published_utc": "2026-11-12T20:15:16+00:00"
         },
         {
             "source": "WIRED Security",
@@ -583,20 +653,6 @@
             "published_utc": "2026-11-11T04:25:26+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "November 2026 Patch Tuesday: 63 Critical Microsoft fixes, plus an Outlook zero day that allows theft of hashed credentials",
-            "link": "https://www.csoonline.com/article/4247015/november-2026-patch-tuesday-63-critical-microsoft-fixes-plus-an-outlook-zero-day-that-allows-theft-of-hashed-credentials.html",
-            "summary": "",
-            "published_utc": "2026-11-11T03:10:23+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "N-able N-central gets emergency fix two days after 33 exploits published",
-            "link": "https://www.csoonline.com/article/4247028/n-able-n-central-gets-emergency-fix-two-days-after-33-exploits-published.html",
-            "summary": "",
-            "published_utc": "2026-11-10T22:05:12+00:00"
-        },
-        {
             "source": "KrebsOnSecurity",
             "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
             "link": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
@@ -686,27 +742,6 @@
             "link": "https://www.infosecurity-magazine.com/news/cloud-vulnerabilities-surge/",
             "summary": "AI is amplifying the impact of vulnerabilities, long-lived credentials and other cloud risks, says Datadog",
             "published_utc": "2026-11-10T14:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Ring’s new drone patrols your home to keep an eye on things – even upstairs",
-            "link": "https://www.zdnet.com/home-and-office/ring-drone-cam-rover-cam-security-robots/",
-            "summary": "Alongside the Ring Drone Cam, Ring introduced the Rover Cam for businesses. It investigates disturbances and streams 4K footage.",
-            "published_utc": "2026-11-10T13:30:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "How AI security failures are endangering your supply chain – and what you can do",
-            "link": "https://www.zdnet.com/tech/ai-security-failures-supply-chain-risks-black-kite-research/",
-            "summary": "New research provides a stark look at the AI supply chain and the risks it brings to businesses.",
-            "published_utc": "2026-11-10T13:03:52+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Microsoft’s AI bug hunter finds Rust flaw that went undetected for nearly 11 years",
-            "link": "https://www.csoonline.com/article/4246787/microsofts-ai-bug-hunter-finds-rust-flaw-that-went-undetected-for-nearly-11-years.html",
-            "summary": "",
-            "published_utc": "2026-11-10T12:36:55+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1001,13 +1036,6 @@
             "link": "https://www.infosecurity-magazine.com/news/cyber-refrigeration-supermarkets/",
             "summary": "The incident has reportedly resulted in temperatures being changed on supermarket refrigerators, reminiscent of an attack that affected French retaile...",
             "published_utc": "2026-11-03T13:45:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "AIs Hacking the Law",
-            "link": "https://www.schneier.com/blog/archives/2026/11/ais-hacking-the-law.html",
-            "summary": "",
-            "published_utc": "2026-11-03T12:01:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2800,34 +2828,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ai-coding-tools-threat-actors/",
             "summary": "Google warned that the rapid integration of AI-assisted coding tools has significantly expanded software supply chain risks",
             "published_utc": "2026-09-08T12:02:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "THost9 Android RAT Pairs Packed Loader With ADB Worm",
-            "link": "https://www.infosecurity-magazine.com/news/thost9-android-rat-packed-loader/",
-            "summary": "THost9 hides its payload and uses ADB to spread across exposed Android devices and containers",
-            "published_utc": "2026-09-08T11:15:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "BigBear 2 PhaaS Campaign Steals 5000+ Microsoft Credentials",
-            "link": "https://www.infosecurity-magazine.com/news/bigbear-2-phaas-5000-microsoft/",
-            "summary": "CloudSEK has uncovered BigBear 2.0, a new phishing-as-a-service operation targeting Microsoft 365",
-            "published_utc": "2026-09-08T09:45:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Trezor Supply Chain Breach Now Impacts 81,000 Customers",
-            "link": "https://www.infosecurity-magazine.com/news/trezor-supply-chain-breach-impacts/",
-            "summary": "Crypto wallet-maker Trezor says a data breach at supplier ShipMonk is far worse than originally thought",
-            "published_utc": "2026-09-08T09:08:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "NCSC Warns Shadow AI Creates New Security Risks",
-            "link": "https://www.infosecurity-magazine.com/news/ncsc-warns-shadow-ai-security-risks/",
-            "summary": "NCSC warns unapproved AI tools can expose corporate data and create new security risks",
-            "published_utc": "2026-09-07T14:00:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
