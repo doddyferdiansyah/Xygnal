@@ -1,6 +1,146 @@
 {
-    "lastUpdatedUTC": "2026-11-16T15:03:07.615735+00:00",
+    "lastUpdatedUTC": "2026-11-17T00:00:05.740798+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
+            "link": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
+            "summary": "Google's Gemini AI agents repeatedly attempted to hack a real organization's website during AI model safety testing, finding ways to circumvent increa...",
+            "published_utc": "2026-11-16T22:54:00+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "The Bank Outage May Have Nothing to Do With Your Bank",
+            "link": "https://www.wired.com/story/jpmorganchase-bank-outage-oh-come-on/",
+            "summary": "Amid hundreds of reports of US banks experiencing outages, JPMorganChase says a technical “issue” with its “on-premise hardware systems” may be causin...",
+            "published_utc": "2026-11-16T21:45:45+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
+            "link": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
+            "summary": "Google Project Zero will replace its \"90+30\" disclosure policy with shorter, fixed deadlines in response to AI-accelerated vulnerability discovery and...",
+            "published_utc": "2026-11-16T21:31:44+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
+            "link": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
+            "summary": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models ...",
+            "published_utc": "2026-11-16T20:59:44+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Trump Administration Moves to Block China From Indirect Access to American AI Technology",
+            "link": "https://www.securityweek.com/trump-administration-moves-to-block-china-from-indirect-access-to-american-ai-technology/",
+            "summary": "",
+            "published_utc": "2026-11-16T20:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
+            "link": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
+            "summary": "Hackers who breached the cloud environment of network and email security company Barracuda earlier this month used a stolen cloud access key and the A...",
+            "published_utc": "2026-11-16T19:57:13+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Apple could build its AI health chatbot from this study – how to enroll",
+            "link": "https://www.zdnet.com/tech/apple-health-ai-usage-study-how-to-enroll/",
+            "summary": "Apple is leaning into AI-powered health tools with the launch of its Apple Health AI Usage Study.",
+            "published_utc": "2026-11-16T19:25:57+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "5 ways AI will change how you defend your business in 2027",
+            "link": "https://www.zdnet.com/innovation/google-cloud-ciso-perspectives-2027-ai-security-defenses/",
+            "summary": "Security leaders reveal the future consequences of AI outpacing human defenders.",
+            "published_utc": "2026-11-16T18:58:52+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "iPhone Duo 2 prototypes suggest FaceID, Action Button, other potential 2027 features",
+            "link": "https://www.zdnet.com/tech/apple-iphone-duo-2-face-id-upgrades-2027/",
+            "summary": "With manufacturing deadlines looming, it’s unclear which of several feature upgrades may have to wait until the foldable’s third generation.",
+            "published_utc": "2026-11-16T18:43:17+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Your Samsung phone could soon get a personal AI agent – what we know about Galaxy Claw",
+            "link": "https://www.zdnet.com/innovation/samsung-galaxy-claw-ai-cross-app-upgrade/",
+            "summary": "Similar to Gemini Intelligence and Siri AI, Galaxy Claw could bring cross-app intelligence to your phone.",
+            "published_utc": "2026-11-16T17:35:43+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "4 new Google Maps features to try on your next holiday road trip",
+            "link": "https://www.zdnet.com/tech/google-ask-maps-new-features-holiday-travel/",
+            "summary": "Google’s Ask Maps features start rolling out today on Android and iOS. Here’s what they can do for you now.",
+            "published_utc": "2026-11-16T17:21:42+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft says months-old bug caused global Microsoft 365 outage",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/",
+            "summary": "Microsoft says a software bug introduced in July caused last week's worldwide Microsoft 365 outage, triggering a cascading failure that left more than...",
+            "published_utc": "2026-11-16T16:43:24+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Lost or stolen Windows laptop? IT can lock it down without wiping it now",
+            "link": "https://www.zdnet.com/tech/microsoft-preview-remote-lock-intune-windows-devices/",
+            "summary": "The Intune-enabled feature will allow admins to remotely lock down any compromised Windows device.",
+            "published_utc": "2026-11-16T16:08:03+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Typosquatters Target New Brand Domains Within 24 Hours of Registration",
+            "link": "https://www.infosecurity-magazine.com/news/typosquatters-target-new-brand/",
+            "summary": "Symantec said attackers are targeting new campaign sites registered by big name brands, with the lookalike domains enabling malicious follow-on activity",
+            "published_utc": "2026-11-16T16:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Cursor Supply Chain Attack Started at Fireworks AI",
+            "link": "https://www.securityweek.com/cursor-supply-chain-attack-started-at-fireworks/",
+            "summary": "",
+            "published_utc": "2026-11-16T15:45:43+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Fandango says hackers stole payment card details from checkout pages",
+            "link": "https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/",
+            "summary": "Ticket seller Fandango Media is notifying customers about a data breach that exposed payment card details entered on its checkout pages. [...]",
+            "published_utc": "2026-11-16T15:44:21+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Google Project Zero Sets Course for 30-Day Disclosure Deadline",
+            "link": "https://www.securityweek.com/google-project-zero-sets-course-for-30-day-disclosure-deadline/",
+            "summary": "",
+            "published_utc": "2026-11-16T15:31:25+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "La Poste Subsidiary Maileva Breach Exposes 22 Million People",
+            "link": "https://www.infosecurity-magazine.com/news/maileva-docaposte-22-million-breach/",
+            "summary": "Maileva breach exposed names and postal addresses of 22 million people",
+            "published_utc": "2026-11-16T15:25:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Barracuda Hacked Amid Surge in Artex-Powered Cyberattacks",
+            "link": "https://www.securityweek.com/barracuda-hacked-amid-surge-in-artex-powered-cyberattacks/",
+            "summary": "",
+            "published_utc": "2026-11-16T15:07:32+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "7 Tips For Complying with CJIS Password and MFA Requirements",
+            "link": "https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/",
+            "summary": "The FBI's latest CJIS Security Policy requires law enforcement agencies to strengthen password protections and enforce MFA across privileged and non-p...",
+            "published_utc": "2026-11-16T15:01:11+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Google warns that fully-automated AI attacks are coming soon",
@@ -170,27 +310,6 @@
             "published_utc": "2026-11-15T15:23:48+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Pentagon Renames CDAO ‘Super Intelligence Office’",
-            "link": "https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/",
-            "summary": "",
-            "published_utc": "2026-11-15T12:51:33+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Meta Fined $887 Million in Italy Over Android Gallery Photos and Videos on Facebook",
-            "link": "https://www.securityweek.com/meta-fined-887-million-in-italy-over-android-gallery-photos-and-videos-on-facebook/",
-            "summary": "",
-            "published_utc": "2026-11-14T19:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Cursor confirms security breach led to malicious Claude Code extension",
-            "link": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
-            "summary": "Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing cr...",
-            "published_utc": "2026-11-14T17:27:25+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Upcoming Speaking Engagements",
             "link": "https://www.schneier.com/blog/archives/2026/11/upcoming-speaking-engagements-62.html",
@@ -198,32 +317,11 @@
             "published_utc": "2026-11-14T17:02:39+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "US disrupts North Korean campaign behind $400 million crypto theft",
-            "link": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
-            "summary": "The U.S. government has disrupted a North Korean social engineering campaign called 'FaceStealer', responsible for stealing more than $400 million in ...",
-            "published_utc": "2026-11-14T15:15:49+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Is AI Making Us Worse at Cybersecurity?",
-            "link": "https://www.securityweek.com/is-ai-making-us-worse-at-cybersecurity/",
-            "summary": "",
-            "published_utc": "2026-11-14T14:00:00+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "Beware the New AI-Fueled Ransomware Boom",
             "link": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
             "summary": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.",
             "published_utc": "2026-11-14T13:00:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Apple Reveals How Secure Exclaves Shield Camera and Microphone Data",
-            "link": "https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/",
-            "summary": "",
-            "published_utc": "2026-11-14T11:00:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -255,17 +353,10 @@
         },
         {
             "source": "ZDNet Security",
-            "title": "Microsoft doesn’t ‘have an ETA for full recovery’ on outage yet",
+            "title": "Microsoft blames major outage on a July update defect – and two other factors",
             "link": "https://www.zdnet.com/business/microsoft-outage-outlook-teams-copilot/",
-            "summary": "One think tank’s estimate puts the cost of the outage at $7 billion.",
+            "summary": "A surprise defect took more than 80% of Microsoft’s servers out at the outage’s peak. Here’s what happened.",
             "published_utc": "2026-11-13T21:43:32+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Trezor confirms crypto-stealing implants in three wallets, releases fix",
-            "link": "https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/",
-            "summary": "Cryptocurrency hardware wallet maker Trezor has confirmed that three Safe 5 devices sold by Southeast Asian reseller CryptoBilis contained malicious h...",
-            "published_utc": "2026-11-13T19:38:36+00:00"
         },
         {
             "source": "WIRED Security",
@@ -282,32 +373,11 @@
             "published_utc": "2026-11-13T19:02:39+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "German military drone operations disrupted by cyberattack",
-            "link": "https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/",
-            "summary": "German defense technology company Quantum Systems confirmed that it detected an incident in late October that was part of an active cyberattack by \"ho...",
-            "published_utc": "2026-11-13T17:31:56+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "The Microsoft Outage Is a Warning for the World",
             "link": "https://www.wired.com/story/the-microsoft-outage-is-a-warning-for-the-world/",
             "summary": "Countless businesses, schools, hospitals, and governments have found out the hard way what it means to rely on a single company’s systems to get thing...",
             "published_utc": "2026-11-13T17:15:54+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
-            "link": "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/",
-            "summary": "Vulnerable Check Point Security Gateway instances have been targeted in PHP2Shell attacks that deployed data-wiping malware on VMware ESXi hosts. [...]",
-            "published_utc": "2026-11-13T16:21:43+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "How one AI agent exposed five critical enterprise security gaps",
-            "link": "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/",
-            "summary": "An AI agent built to automate invoice processing could be manipulated into changing vendor bank details through a malicious email, without triggering ...",
-            "published_utc": "2026-11-13T15:01:11+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -322,13 +392,6 @@
             "link": "https://www.infosecurity-magazine.com/news/microsoft-365-outage-security/",
             "summary": "While Microsoft resolves the global M365 and Outlook outage, cybersecurity teams remain on high alert as cybercriminals prepare to exploit the chaos",
             "published_utc": "2026-11-13T12:29:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft says November security updates cause printing issues",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/",
-            "summary": "Microsoft warned customers earlier this week that the November 2026 security updates may break printing for documents with complex formatting. [...]",
-            "published_utc": "2026-11-13T12:27:40+00:00"
         },
         {
             "source": "Schneier",
@@ -686,48 +749,6 @@
             "link": "https://www.infosecurity-magazine.com/news/cisa-incident-reporting-form-circia/",
             "summary": "CISA adds MITRE ATT&amp;CK detail to incident reports as CIRCIA rule awaits White House review",
             "published_utc": "2026-11-10T17:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "All your Apple devices need to be patched ASAP – here’s why",
-            "link": "https://www.zdnet.com/tech/apple-27-2-1-security-fix-iphone-ipad-mac-watch-patch/",
-            "summary": "Security updates for iPhones, iPads, Macs, Apple Watches, and Vision Pro just rolled out.",
-            "published_utc": "2026-11-10T16:54:11+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Google’s new AI tool just proved Signal encryption really works – here’s how",
-            "link": "https://www.zdnet.com/tech/google-deepmind-researchers-prove-signal-whatsapp-encryption-works/",
-            "summary": "With the aim of securing other vital systems, Google DeepMind plans to open-source its AlphaProof Code.",
-            "published_utc": "2026-11-10T16:31:47+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Your FitBit Versa and Sense smartwatches will lose some features this month – what to know",
-            "link": "https://www.zdnet.com/tech/fitbit-versa-sense-smartwatches-third-party-apps/",
-            "summary": "Time’s running out for some Versa and Sense models. After Nov. 28, you can no longer install or update third-party apps or clockfaces on these Google ...",
-            "published_utc": "2026-11-10T15:55:35+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Done with Debian Linux distros? Try Fedora next – 7 reasons why",
-            "link": "https://www.zdnet.com/linux/debian-fedora-linux-migration/",
-            "summary": "After using a Debian-based distribution, you may find yourself longing for something different. I know exactly what you should try next.",
-            "published_utc": "2026-11-10T15:16:47+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Reddit launches AI-powered Reviews feature – with 10,000 products to start",
-            "link": "https://www.zdnet.com/innovation/reddit-reviews-feature/",
-            "summary": "Reddit is adding AI-generated product reviews that compile real user sentiment from across communities. Here’s how they work.",
-            "published_utc": "2026-11-10T15:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "5 apps I need Siri AI to work with now that it’s open to third-party developers",
-            "link": "https://www.zdnet.com/home-and-office/third-party-app-developers-siri-ai-integration/",
-            "summary": "With the latest betas for iOS and other platforms, Siri AI is now available to all developers for full integration into their apps. Here are the ones ...",
-            "published_utc": "2026-11-10T14:38:36+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1666,13 +1687,6 @@
             "link": "https://www.infosecurity-magazine.com/news/cybersecurity-job-postings-fall/",
             "summary": "CyberSN observed a particularly big dip in cybersecurity leadership positions such as CISO and Cybersecurity Director in 2026 compared to 2025",
             "published_utc": "2026-10-19T10:00:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "Encryption Is Getting Squeezed From All Sides",
-            "link": "https://www.wired.com/story/kernel-panic-encryption-is-getting-squeezed-from-all-sides/",
-            "summary": "Canada’s planned surveillance law is the latest grim step in a series of threats to encryption that are spreading around the world.",
-            "published_utc": "2026-10-17T12:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2814,20 +2828,6 @@
             "link": "https://www.infosecurity-magazine.com/news/france-new-government-cyber/",
             "summary": "After a major cyber-attack targeted France's national tax authority, the Prime Minister called for the establishment of a new dedicated cyber incident...",
             "published_utc": "2026-09-08T14:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Grindr Settles UK Data Privacy Claims for £26m",
-            "link": "https://www.infosecurity-magazine.com/news/grindr-settles-uk-data-privacy/",
-            "summary": "Grindr settled UK claims over alleged unlawful processing of sensitive user data",
-            "published_utc": "2026-09-08T13:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "AI Coding Tools Now a Prime Target for Threat Actors, Google Warns",
-            "link": "https://www.infosecurity-magazine.com/news/ai-coding-tools-threat-actors/",
-            "summary": "Google warned that the rapid integration of AI-assisted coding tools has significantly expanded software supply chain risks",
-            "published_utc": "2026-09-08T12:02:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
