@@ -1,6 +1,34 @@
 {
-    "lastUpdatedUTC": "2026-11-18T00:39:26.718406+00:00",
+    "lastUpdatedUTC": "2026-11-18T08:18:18.172253+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "Java4Shell Vulnerability Puts Many Enterprise Applications at Risk of Takeover",
+            "link": "https://www.securityweek.com/java4shell-vulnerability-puts-many-enterprise-applications-at-risk-of-takeover/",
+            "summary": "",
+            "published_utc": "2026-11-18T07:43:34+00:00"
+        },
+        {
+            "source": "KrebsOnSecurity",
+            "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
+            "link": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
+            "summary": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulner...",
+            "published_utc": "2026-11-18T02:52:04+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Classified Communications Network at the National Security Agency Goes Down, Defense Official Says",
+            "link": "https://www.securityweek.com/classified-communications-network-at-the-national-security-agency-goes-down-defense-official-says/",
+            "summary": "",
+            "published_utc": "2026-11-18T02:15:07+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Optimizely confirms massive cyberattack on customer websites injected stealer malware",
+            "link": "https://www.csoonline.com/article/4249925/optimizely-confirms-massive-cyberattack-on-customer-websites-injected-stealer-malware.html",
+            "summary": "",
+            "published_utc": "2026-11-18T01:22:59+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "Google and Anthropic push for faster patches as AI collapses bug discovery timelines",
@@ -233,13 +261,6 @@
             "published_utc": "2026-11-17T12:05:43+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack",
-            "link": "https://www.securityweek.com/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/",
-            "summary": "",
-            "published_utc": "2026-11-17T12:00:00+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Microsoft testing Remote Lock for lost or stolen Windows devices",
             "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/",
@@ -259,13 +280,6 @@
             "link": "https://www.csoonline.com/article/4249595/google-spots-the-first-hacker-ai-system-that-finds-and-exploits-flaws-autonomously.html",
             "summary": "",
             "published_utc": "2026-11-17T10:52:58+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Optimizely Vulnerability Exploited to Serve Malware on Major Websites",
-            "link": "https://www.securityweek.com/optimizely-vulnerability-exploited-to-serve-malware-on-major-websites/",
-            "summary": "",
-            "published_utc": "2026-11-17T10:22:20+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -784,13 +798,6 @@
             "link": "https://www.csoonline.com/article/4246971/why-does-old-access-outlive-the-job.html",
             "summary": "",
             "published_utc": "2026-11-11T09:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "What will it take to make VulnOps a reality?",
-            "link": "https://www.csoonline.com/article/4244924/what-will-it-take-to-make-vulnops-a-reality.html",
-            "summary": "",
-            "published_utc": "2026-11-11T08:25:00+00:00"
         },
         {
             "source": "KrebsOnSecurity",
@@ -2023,13 +2030,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ot-coalition-cisa-mandate-federal/",
             "summary": "OTCC urged CISA to mandate baseline security requirements for federal operational technology",
             "published_utc": "2026-10-07T14:15:00+00:00"
-        },
-        {
-            "source": "KrebsOnSecurity",
-            "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
-            "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
-            "summary": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooper...",
-            "published_utc": "2026-10-07T13:48:45+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -3297,76 +3297,6 @@
             "link": "https://www.welivesecurity.com/en/ransomware/naming-shaming-ransomware-groups-tighten-screws-victims/",
             "summary": "When corporate data is exposed on a dedicated leak site, the consequences linger long after the attack fades from the news cycle",
             "published_utc": "2026-02-12T10:00:00+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Student Loan Breach Exposes 2.5M Records",
-            "link": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
-            "summary": "2.5 million people were affected, in a breach that could spell more trouble down the line.",
-            "published_utc": "2022-08-31T12:57:48+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Watering Hole Attacks Push ScanBox Keylogger",
-            "link": "https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/",
-            "summary": "Researchers uncover a watering hole attack likely carried out by APT TA423, which attempts to plant the ScanBox JavaScript-based reconnaissance tool.",
-            "published_utc": "2022-08-30T16:00:43+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms",
-            "link": "https://threatpost.com/0ktapus-victimize-130-firms/180487/",
-            "summary": "Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.",
-            "published_utc": "2022-08-29T14:56:19+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Ransomware Attacks are on the Rise",
-            "link": "https://threatpost.com/ransomware-attacks-are-on-the-rise/180481/",
-            "summary": "Lockbit is by far this summer’s most prolific ransomware group, trailed by two offshoots of the Conti group.",
-            "published_utc": "2022-08-26T16:44:27+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Cybercriminals Are Selling Access to Chinese Surveillance Cameras",
-            "link": "https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/",
-            "summary": "Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed.",
-            "published_utc": "2022-08-25T18:47:15+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Twitter Whistleblower Complaint: The TL;DR Version",
-            "link": "https://threatpost.com/twitter-whistleblower-tldr-version/180472/",
-            "summary": "Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a n...",
-            "published_utc": "2022-08-24T14:17:04+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Firewall Bug Under Active Attack Triggers CISA Warning",
-            "link": "https://threatpost.com/firewall-bug-under-active-attack-cisa-warning/180467/",
-            "summary": "CISA is warning that Palo Alto Networks’ PAN-OS is under active attack and needs to be patched ASAP.",
-            "published_utc": "2022-08-23T13:19:58+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Fake Reservation Links Prey on Weary Travelers",
-            "link": "https://threatpost.com/reservation-links-prey-on-travelers/180462/",
-            "summary": "Fake travel reservations are exacting more pain from the travel weary, already dealing with the misery of canceled flights and overbooked hotels.",
-            "published_utc": "2022-08-22T13:59:06+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "iPhone Users Urged to Update to Patch 2 Zero-Days",
-            "link": "https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/",
-            "summary": "Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack.",
-            "published_utc": "2022-08-19T15:25:56+00:00"
-        },
-        {
-            "source": "Threatpost",
-            "title": "Google Patches Chrome’s Fifth Zero-Day of the Year",
-            "link": "https://threatpost.com/google-patches-chromes-fifth-zero-day-of-the-year/180432/",
-            "summary": "An insufficient validation input flaw, one of 11 patched in an update this week, could allow for arbitrary code execution and is under active attack.",
-            "published_utc": "2022-08-18T14:31:38+00:00"
         }
     ]
 }
