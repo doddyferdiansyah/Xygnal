@@ -1,9 +1,128 @@
 {
-    "lastUpdatedUTC": "2026-11-17T17:26:08.757144+00:00",
+    "lastUpdatedUTC": "2026-11-18T00:39:26.718406+00:00",
     "articles": [
         {
+            "source": "CSO Online",
+            "title": "Google and Anthropic push for faster patches as AI collapses bug discovery timelines",
+            "link": "https://www.csoonline.com/article/4249915/google-and-anthropic-push-for-faster-patches-as-ai-collapses-bug-discovery-timelines.html",
+            "summary": "",
+            "published_utc": "2026-11-17T23:29:35+00:00"
+        },
+        {
             "source": "ZDNet Security",
-            "title": "Android may get fast phone-switching like iPhone Handoff soon – what we know",
+            "title": "Microsoft unveiled Copilot Workspaces at Ignite 2026, plus more AI workplace updates",
+            "link": "https://www.zdnet.com/innovation/microsoft-copilot-workspaces-ignite-2026/",
+            "summary": "The company also released new ROI tracking tools for companies monitoring their AI spend.",
+            "published_utc": "2026-11-17T23:14:05+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Microsoft wants to put a dollar value on AI’s work – but can you trust the math?",
+            "link": "https://www.zdnet.com/innovation/microsoft-agent-365-business-analytics-ignite/",
+            "summary": "With Agent 365 Business Analytics, Microsoft could reshape enterprise spending, but there’s a critical difference between estimated value and money sa...",
+            "published_utc": "2026-11-17T23:05:48+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
+            "link": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
+            "summary": "A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely execute...",
+            "published_utc": "2026-11-17T23:04:21+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Microsoft says its new AI coding model rivals Claude Opus 5.5 at 5% of the cost",
+            "link": "https://www.zdnet.com/innovation/microsoft-ai-coding-model-rivals-claude-opus-5-5-ignite/",
+            "summary": "Microsoft announced two new AI models at Ignite 2026 that promise impressive performance for much lower cost. They could reshape its relationship with...",
+            "published_utc": "2026-11-17T22:42:44+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
+            "link": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
+            "summary": "Credentials and access secrets exposed in public Docker Hub images are being extracted and exploited by attackers within as little as eight seconds of...",
+            "published_utc": "2026-11-17T21:27:17+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
+            "link": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
+            "summary": "The Fugaku supercomputer operated by Japan's RIKEN Center for Computational Science has been taken offline following a security breach. [...]",
+            "published_utc": "2026-11-17T20:51:21+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Goodbye, Gemini Gems: How to use Google’s new Skills – and share them",
+            "link": "https://www.zdnet.com/business/gemini-gems-google-skills-transition/",
+            "summary": "Google is retiring Gemini Gems. Here’s what to do to access the same tools as Skills.",
+            "published_utc": "2026-11-17T19:54:04+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "How to Tell If It’s a Cyberattack or Just an Outage",
+            "link": "https://www.wired.com/story/how-to-tell-if-its-a-cyberattack-or-just-an-outage/",
+            "summary": "Email, flights, banks; network failures are piling up. Here’s how WIRED investigates if they’re the result of hacker mayhem. (Hint: usually not.)",
+            "published_utc": "2026-11-17T19:40:57+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Apple reports outages affecting iCloud Mail, AppleCare and more",
+            "link": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
+            "summary": "Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account & Sign In, Apple School Manager, and S...",
+            "published_utc": "2026-11-17T19:24:07+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Your Googlebook just got a Chrome update – 5 new features",
+            "link": "https://www.zdnet.com/tech/googlebook-os-chrome-update-new-features/",
+            "summary": "The Chrome update includes more useful vertical tabs, easier screen sharing, and some handy keyboard shortcuts.",
+            "published_utc": "2026-11-17T18:21:55+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Researchers hijack Hugging Face account for popular Kokoro AI model",
+            "link": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
+            "summary": "A Lack of ownership verification on the Hugging Face platform allowed researchers to take control of Kokoro, a text-to-speech model used in projects f...",
+            "published_utc": "2026-11-17T18:21:24+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says",
+            "link": "https://www.securityweek.com/ai-framework-autonomously-weaponized-flaws-in-real-attacks-google-says/",
+            "summary": "",
+            "published_utc": "2026-11-17T18:16:17+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Tor releases emergency update amid ongoing DDoS attack",
+            "link": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
+            "summary": "The Tor Project has released a security update for its network relay software to increase defenses against an ongoing distributed denial-of-service at...",
+            "published_utc": "2026-11-17T18:04:15+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Google is making it easier to opt out of Gemini AI model training – here’s how",
+            "link": "https://www.zdnet.com/innovation/google-gemini-ai-model-training-opt-out-how/",
+            "summary": "You’ll soon be able to turn off Gemini model training but still retain access to your previous chats with Google’s AI.",
+            "published_utc": "2026-11-17T18:01:38+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I asked Gemini Notebook to ‘make me a site’ from my notes – it was satisfying",
+            "link": "https://www.zdnet.com/innovation/google-gemini-notebook-interactive-sites-notes/",
+            "summary": "A new Gemini Notebook feature lets you create interactive sites from intricate data.",
+            "published_utc": "2026-11-17T17:52:39+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Apple reveals daily limits on your Siri AI use – here’s how much you’ll have to pay",
+            "link": "https://www.zdnet.com/innovation/apple-siri-ai-daily-limits-cost-icloud-plus-plan/",
+            "summary": "The more you pay for an iCloud+ plan, the more you’ll be able to use Siri AI and Apple Intelligence for advanced server-side tasks.",
+            "published_utc": "2026-11-17T17:16:38+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Own 2 Android phones? Google may let you switch service fast – like iPhone Handoff",
             "link": "https://www.zdnet.com/tech/android-fast-switch-like-iphone-handoff/",
             "summary": "If Android Fast Switch works like iPhone Handoff, one eSIM can be quickly switched between two phones.",
             "published_utc": "2026-11-17T16:19:15+00:00"
@@ -212,27 +331,6 @@
             "published_utc": "2026-11-16T21:31:44+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
-            "link": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
-            "summary": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models ...",
-            "published_utc": "2026-11-16T20:59:44+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Trump Administration Moves to Block China From Indirect Access to American AI Technology",
-            "link": "https://www.securityweek.com/trump-administration-moves-to-block-china-from-indirect-access-to-american-ai-technology/",
-            "summary": "",
-            "published_utc": "2026-11-16T20:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
-            "link": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
-            "summary": "Hackers who breached the cloud environment of network and email security company Barracuda earlier this month used a stolen cloud access key and the A...",
-            "published_utc": "2026-11-16T19:57:13+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "Apple could build its AI health chatbot from this study – how to enroll",
             "link": "https://www.zdnet.com/tech/apple-health-ai-usage-study-how-to-enroll/",
@@ -268,13 +366,6 @@
             "published_utc": "2026-11-16T17:21:42+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Microsoft says months-old bug caused global Microsoft 365 outage",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/",
-            "summary": "Microsoft says a software bug introduced in July caused last week's worldwide Microsoft 365 outage, triggering a cascading failure that left more than...",
-            "published_utc": "2026-11-16T16:43:24+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "Lost or stolen Windows laptop? IT can lock it down without wiping it now",
             "link": "https://www.zdnet.com/tech/microsoft-preview-remote-lock-intune-windows-devices/",
@@ -289,32 +380,11 @@
             "published_utc": "2026-11-16T16:00:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Fandango says hackers stole payment card details from checkout pages",
-            "link": "https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/",
-            "summary": "Ticket seller Fandango Media is notifying customers about a data breach that exposed payment card details entered on its checkout pages. [...]",
-            "published_utc": "2026-11-16T15:44:21+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "La Poste Subsidiary Maileva Breach Exposes 22 Million People",
             "link": "https://www.infosecurity-magazine.com/news/maileva-docaposte-22-million-breach/",
             "summary": "Maileva breach exposed names and postal addresses of 22 million people",
             "published_utc": "2026-11-16T15:25:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "7 Tips For Complying with CJIS Password and MFA Requirements",
-            "link": "https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/",
-            "summary": "The FBI's latest CJIS Security Policy requires law enforcement agencies to strengthen password protections and enforce MFA across privileged and non-p...",
-            "published_utc": "2026-11-16T15:01:11+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Google warns that fully-automated AI attacks are coming soon",
-            "link": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
-            "summary": "Threat actors are now relying on agentic workflows powered by AI-based offensive frameworks to automate vulnerability discovery and exploitation, acce...",
-            "published_utc": "2026-11-16T14:00:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -569,13 +639,6 @@
             "published_utc": "2026-11-12T15:15:00+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "If the November Windows update fails to install on your PC, here’s what to do",
-            "link": "https://www.zdnet.com/tech/microsoft-windows-november-update-fails-install-some-pcs/",
-            "summary": "This month’s security update is failing on some systems already running the preview update released in October. But there is a fix afoot.",
-            "published_utc": "2026-11-12T15:11:08+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Hacked Asian Telcos Used to Intercept Taiwanese Calls and Texts",
             "link": "https://www.infosecurity-magazine.com/news/silentair-liminal-panda-telco/",
@@ -653,20 +716,6 @@
             "published_utc": "2026-11-12T02:53:41+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "This tiny box gives your older tech smart home superpowers – and it’s only $69",
-            "link": "https://www.zdnet.com/home-and-office/home-assistant-connect-aux-2-hardware-older-tech-smart/",
-            "summary": "Home Assistant gets new equipment to battle planned obsolescence and abandoned cloud services.",
-            "published_utc": "2026-11-11T20:30:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Google Fi now switches between the best mobile networks automatically – how it works",
-            "link": "https://www.zdnet.com/home-and-office/google-fi-super-network-pixel/",
-            "summary": "Pixel users also get a bonus Wi-Fi upgrade. Here’s what to know.",
-            "published_utc": "2026-11-11T19:41:41+00:00"
-        },
-        {
             "source": "KrebsOnSecurity",
             "title": "Who Runs the Ransomware Group Qilin?",
             "link": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
@@ -674,32 +723,11 @@
             "published_utc": "2026-11-11T18:06:01+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Oura Ring users may get in-app access to real doctors soon – what we know",
-            "link": "https://www.zdnet.com/tech/oura-ring-users-may-get-in-app-access-to-real-doctors-soon-what-we-know/",
-            "summary": "Oura’s acquisition of Counsel Health could signal a new dawn for digital care.",
-            "published_utc": "2026-11-11T17:45:55+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "N-able Rushes Out N-central Fixes After 33 Zero-Days Go Public",
             "link": "https://www.infosecurity-magazine.com/news/n-able-n-central-able2shell-0day/",
             "summary": "N-able fixes seven N-central CVEs after 33 alleged zero-days are published",
             "published_utc": "2026-11-11T17:15:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Pixel users are getting a major Android Auto update – and it rivals Siri AI",
-            "link": "https://www.zdnet.com/tech/android-auto-gemini-intelligence-update/",
-            "summary": "More phones are getting Gemini Intelligence, but only Pixel users can access it in a new way.",
-            "published_utc": "2026-11-11T17:11:19+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Claude can collaborate in your team meetings soon – like an intern",
-            "link": "https://www.zdnet.com/innovation/claude-meetings-workplace-features/",
-            "summary": "Claude is responding ‘Yes’ to that calendar invite – with some limitations. Plus: Anthropic launches two more new features that are available now.",
-            "published_utc": "2026-11-11T16:46:09+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -714,13 +742,6 @@
             "link": "https://www.infosecurity-magazine.com/news/chinese-malware-tied-three-hacking/",
             "summary": "Check Point links three China-nexus clusters through a shared Sparrow malware framework",
             "published_utc": "2026-11-11T16:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Over Ubuntu? Fedora is the Linux distro I’d hop to next – here’s why",
-            "link": "https://www.zdnet.com/linux/ubuntu-fedora-migration-linux-distro-hopping/",
-            "summary": "If you’re an Ubuntu user considering a leap to Fedora, but you’re hesitating, I explain why you should go ahead and just do it.",
-            "published_utc": "2026-11-11T15:40:30+00:00"
         },
         {
             "source": "CSO Online",
@@ -772,25 +793,11 @@
             "published_utc": "2026-11-11T08:25:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "New malware doesn’t call home, it turns your Exchange server into its home",
-            "link": "https://www.csoonline.com/article/4247162/new-malware-doesnt-call-home-it-turns-your-exchange-server-into-its-home.html",
-            "summary": "",
-            "published_utc": "2026-11-11T04:55:07+00:00"
-        },
-        {
             "source": "KrebsOnSecurity",
             "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
             "link": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
             "summary": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and...",
             "published_utc": "2026-11-10T21:55:03+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Microsoft fixes over 1,000 Windows flaws – and one is being exploited",
-            "link": "https://www.zdnet.com/tech/november-windows-11-update-customizable-right-click-menu/",
-            "summary": "With the November Patch Tuesday rollout, you can finally customize your right-click menu in Windows 11. But don’t skip these security fixes.",
-            "published_utc": "2026-11-10T21:00:31+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1680,13 +1687,6 @@
             "link": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
             "summary": "A judge ordered Abdulrahman Alfozan to remain in custody, likening the Saudi government’s offer to secure the former OpenAI engineer’s release to a “b...",
             "published_utc": "2026-10-19T19:49:17+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot",
-            "link": "https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot/",
-            "summary": "Around 80 pages on WhatsApp’s website exposed instructions that were designed for its chatbot, including “WHAT NOT TO SAY.” Meta says a bug caused the...",
-            "published_utc": "2026-10-19T16:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
