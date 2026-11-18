@@ -1,9 +1,240 @@
 {
-    "lastUpdatedUTC": "2026-11-18T08:18:18.172253+00:00",
+    "lastUpdatedUTC": "2026-11-18T17:50:58.778255+00:00",
     "articles": [
         {
+            "source": "ZDNet Security",
+            "title": "You can use Google’s Spark AI agent, renamed Tasks, for free now – with limits",
+            "link": "https://www.zdnet.com/innovation/gemini-spark-tasks-free-personal-agent/",
+            "summary": "At least if Tasks disappoints, it won’t cost you – unlike OpenAI and Anthropic’s subscription-based agents.",
+            "published_utc": "2026-11-18T17:11:39+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft’s Agent Framework PyPI package compromised to steal credentials",
+            "link": "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/",
+            "summary": "Hackers compromised Microsoft's official Agent Framework Python package on PyPI, publishing two malicious versions designed to steal cloud credentials...",
+            "published_utc": "2026-11-18T16:58:42+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Five Critical Vulnerabilities Found in World's Most Widely Used Open-Source Web Server",
+            "link": "https://www.infosecurity-magazine.com/news/five-critical-vulnerabilities/",
+            "summary": "Five critical NGINX vulnerabilities could allow unauthenticated attackers to remotely execute code and potentially take control of affected servers",
+            "published_utc": "2026-11-18T16:55:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "74% of shoppers trust AI agents for buying advice – but checkout is another story",
+            "link": "https://www.zdnet.com/innovation/retailer-shoppers-ai-agents-buying-advice/",
+            "summary": "Shoppers who use AI agents spend 8% more than the average buyer and purchase 23% more items per order.",
+            "published_utc": "2026-11-18T16:52:59+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "Artex Is Criminals’ New Favorite ‘Point-and-Shoot’ AI Hacking Tool",
+            "link": "https://www.wired.com/story/artex-ai-hacking-tools/",
+            "summary": "Artex and similar penetration testing tools allow newbie hackers to scan targeted systems for vulnerabilities and successfully wage attacks using prom...",
+            "published_utc": "2026-11-18T16:35:24+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Your Wear OS smartwatch just got a new way to save battery life",
+            "link": "https://www.zdnet.com/tech/wear-os-smartwatches-update-save-battery-life-galaxy-pixel/",
+            "summary": "It could make your Pixel Watch or Samsung Galaxy Watch more power efficient.",
+            "published_utc": "2026-11-18T16:24:20+00:00"
+        },
+        {
             "source": "SecurityWeek",
-            "title": "Java4Shell Vulnerability Puts Many Enterprise Applications at Risk of Takeover",
+            "title": "VeroSecurity Raises $11 Million for AI Security Engineering Platform",
+            "link": "https://www.securityweek.com/verosecurity-raises-11-million-for-ai-security-engineering-platform/",
+            "summary": "",
+            "published_utc": "2026-11-18T15:30:42+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
+            "link": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/",
+            "summary": "Attackers are using deepfakes, helpdesk impersonation, and fake IT support requests to deceive employees and gain unauthorized access to corporate sys...",
+            "published_utc": "2026-11-18T15:00:10+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Most SecOps Leaders Are Changing the L1 Role as Agent Use Grows",
+            "link": "https://www.infosecurity-magazine.com/news/secops-changing-l1-role-as-agent/",
+            "summary": "Security leaders are rapidly redesigning SOCs for the AI agent era, with 74% already deploying the technology",
+            "published_utc": "2026-11-18T15:00:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "OX Security Launches OX Radar and Response Center to Show Companies Which Cyber Threats Actually Affect Them",
+            "link": "https://www.csoonline.com/article/4250228/ox-security-launches-ox-radar-and-response-center-to-show-companies-which-cyber-threats-actually-affect-them-2.html",
+            "summary": "",
+            "published_utc": "2026-11-18T14:54:07+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Suspected Chinese APT Rebuilds EggStreme Malware After Exposure",
+            "link": "https://www.infosecurity-magazine.com/news/eggstreme-malware-rebuilt-after/",
+            "summary": "Suspected Chinese APT rebuilt EggStreme malware and infrastructure after Bitdefender exposure",
+            "published_utc": "2026-11-18T14:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I’ve tested Ubuntu 27.04 ahead of its April release – and it will wow you",
+            "link": "https://www.zdnet.com/tech/ubuntu-27-04-april-release-new-features-performance/",
+            "summary": "I’ve been using Ubuntu 27.04, and the speed boost is noticeable. Here’s what else is coming.",
+            "published_utc": "2026-11-18T13:46:55+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Russian APT Poses as Employee of Hacked Firm to Breach Another US Organization",
+            "link": "https://www.securityweek.com/russian-apt-poses-as-employee-of-hacked-firm-to-breach-another-us-organization/",
+            "summary": "",
+            "published_utc": "2026-11-18T13:33:47+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Last of Five Defendants Sentenced in US Scattered Spider Hacking Case",
+            "link": "https://www.securityweek.com/last-of-five-defendants-sentenced-in-us-scattered-spider-hacking-case/",
+            "summary": "",
+            "published_utc": "2026-11-18T13:19:32+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Microsoft’s new Licensed Weights lets businesses customize AI models with their own data",
+            "link": "https://www.zdnet.com/innovation/microsoft-licensed-weights-ai-models-ignite-2026/",
+            "summary": "Microsoft is bridging the gap between proprietary and open-weight AI while targeting data-conscious businesses.",
+            "published_utc": "2026-11-18T12:56:53+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Java4Shell Vulnerability Allows Remote Attacks on Major Java Apps",
+            "link": "https://www.infosecurity-magazine.com/news/java4shell-vulnerability-remote/",
+            "summary": "A critical OpenJDK vulnerability could expose major Java applications to remote code execution, prompting CISA to urge organizations implement mitigat...",
+            "published_utc": "2026-11-18T12:35:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Microsoft Takes Perception Agentic Security Platform Out of Preview",
+            "link": "https://www.securityweek.com/microsoft-takes-perception-agentic-security-platform-out-of-preview/",
+            "summary": "",
+            "published_utc": "2026-11-18T12:14:23+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "France Is Blaming Iran for the Fridge Cyberattack",
+            "link": "https://www.schneier.com/blog/archives/2026/11/france-is-blaming-iran-for-the-fridge-cyberattack.html",
+            "summary": "",
+            "published_utc": "2026-11-18T12:05:35+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "CISO Conversations: Patti Degnan – Part of the Job Is Deciding What Not to Do",
+            "link": "https://www.securityweek.com/ciso-conversations-patti-degnan-part-of-the-job-is-deciding-what-not-to-do/",
+            "summary": "",
+            "published_utc": "2026-11-18T12:00:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Attackers hijack Microsoft’s agent-framework package to steal Azure and CI credentials",
+            "link": "https://www.csoonline.com/article/4250156/attackers-hijack-microsofts-agent-framework-package-to-steal-azure-and-ci-credentials.html",
+            "summary": "",
+            "published_utc": "2026-11-18T11:58:53+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Dizigom illegal streaming service with 21M monthly visits shuts down",
+            "link": "https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/",
+            "summary": "The Alliance for Creativity and Entertainment (ACE) has announced the shutdown of Dizigom, one of Turkey's largest piracy sites, after a settlement ag...",
+            "published_utc": "2026-11-18T11:50:25+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Russian Espionage Actor Star Blizzard Focuses on Cloud Identities for Mass Data Theft",
+            "link": "https://www.infosecurity-magazine.com/news/russian-star-blizzard-cloud-data/",
+            "summary": "New Google analysis of Star Blizzard, aka Cold Relic, highlighted the group’s growing focus on compromising cloud environments to steal data and facil...",
+            "published_utc": "2026-11-18T11:45:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Chrome 158 Patches 204 Vulnerabilities",
+            "link": "https://www.securityweek.com/chrome-158-patches-204-vulnerabilities/",
+            "summary": "",
+            "published_utc": "2026-11-18T11:43:22+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Microsoft Agent Framework Releases Poisoned With Credential Stealer",
+            "link": "https://www.securityweek.com/microsoft-agent-framework-releases-poisoned-with-credential-stealer/",
+            "summary": "",
+            "published_utc": "2026-11-18T11:05:39+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Critical Perforce Puppet RCE Exploited in Attacks",
+            "link": "https://www.securityweek.com/critical-perforce-puppet-rce-exploited-in-attacks/",
+            "summary": "",
+            "published_utc": "2026-11-18T10:37:08+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Apache warns of Roller RCE vulnerability exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
+            "summary": "Apache has released security updates to address a critical Roller flaw that threat actors are exploiting to gain code execution on vulnerable servers....",
+            "published_utc": "2026-11-18T10:35:05+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Three AI Models Agree on Just One of 121 Potential Code Flaws",
+            "link": "https://www.infosecurity-magazine.com/news/ai-models-vulnerability-findings/",
+            "summary": "Echo tested Claude Mythos, GPT-5.6 Sol and GLM-5.3 on the same code and found little overlap",
+            "published_utc": "2026-11-18T10:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Watchdog Warns UK Government Is Falling Short on Risk Management",
+            "link": "https://www.infosecurity-magazine.com/news/watchdog-government-risk/",
+            "summary": "National Audit Office report claims risk management failures are leading to poor government decisions",
+            "published_utc": "2026-11-18T09:30:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft announces Windows Server 2028 with hardened security",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
+            "summary": "Microsoft has announced Windows Server 2028, the next major release of its server operating system, at the Ignite 2026 conference on Tuesday. [...]",
+            "published_utc": "2026-11-18T09:24:31+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "The resilience gap: Why cybersecurity investment alone is not enough",
+            "link": "https://www.csoonline.com/article/4249721/the-resilience-gap-why-cybersecurity-investment-alone-is-not-enough.html",
+            "summary": "",
+            "published_utc": "2026-11-18T09:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Oracle Patches 950 Vulnerabilities With November 2026 CSPU",
+            "link": "https://www.securityweek.com/oracle-patches-640-vulnerabilities-with-november-2026-cspu/",
+            "summary": "",
+            "published_utc": "2026-11-18T08:47:18+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "How organizations can secure their AI-generated code",
+            "link": "https://www.csoonline.com/article/3633403/how-organizations-can-secure-their-ai-code.html",
+            "summary": "",
+            "published_utc": "2026-11-18T08:25:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "British Scattered Spider hacker sentenced to 6 years in prison",
+            "link": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/",
+            "summary": "A leader of the Scattered Spider cybercrime collective has been sentenced to six years in prison in the United States for stealing millions in cryptoc...",
+            "published_utc": "2026-11-18T08:24:18+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Java4Shell Vulnerability Puts Enterprise Applications at Risk of Takeover",
             "link": "https://www.securityweek.com/java4shell-vulnerability-puts-many-enterprise-applications-at-risk-of-takeover/",
             "summary": "",
             "published_utc": "2026-11-18T07:43:34+00:00"
@@ -14,13 +245,6 @@
             "link": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
             "summary": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulner...",
             "published_utc": "2026-11-18T02:52:04+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Classified Communications Network at the National Security Agency Goes Down, Defense Official Says",
-            "link": "https://www.securityweek.com/classified-communications-network-at-the-national-security-agency-goes-down-defense-official-says/",
-            "summary": "",
-            "published_utc": "2026-11-18T02:15:07+00:00"
         },
         {
             "source": "CSO Online",
@@ -114,13 +338,6 @@
             "published_utc": "2026-11-17T18:21:24+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says",
-            "link": "https://www.securityweek.com/ai-framework-autonomously-weaponized-flaws-in-real-attacks-google-says/",
-            "summary": "",
-            "published_utc": "2026-11-17T18:16:17+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Tor releases emergency update amid ongoing DDoS attack",
             "link": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
@@ -184,39 +401,11 @@
             "published_utc": "2026-11-17T15:01:11+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Market Research Giant Ipsos Investigating Breach of Internal System",
-            "link": "https://www.securityweek.com/market-research-giant-ipsos-investigating-breach-of-internal-system/",
-            "summary": "",
-            "published_utc": "2026-11-17T14:55:30+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Fandango Warns Ticket Buyers of Payment Card Data Exposure",
-            "link": "https://www.securityweek.com/fandango-warns-ticket-buyers-of-payment-card-data-exposure/",
-            "summary": "",
-            "published_utc": "2026-11-17T14:14:24+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool",
-            "link": "https://www.securityweek.com/pretxt-emerges-stealth-with-5m-seed-and-an-ai-supervision-tool/",
-            "summary": "",
-            "published_utc": "2026-11-17T14:00:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Optimizely Flaw Exploited to Serve Malicious Code to Visitors of 178 Organizations",
             "link": "https://www.infosecurity-magazine.com/news/optimizely-hack-malware-178-orgs/",
             "summary": "An attacker abused an Optimizely flaw to plant malicious code on websites of 178 organizations",
             "published_utc": "2026-11-17T13:45:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "MSP ScreenConnect Servers Targeted in Month-Long Campaign",
-            "link": "https://www.securityweek.com/msp-screenconnect-servers-targeted-in-month-long-campaign/",
-            "summary": "",
-            "published_utc": "2026-11-17T13:24:43+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -226,32 +415,11 @@
             "published_utc": "2026-11-17T13:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Access Dental Management Data Breach Impacts Over 340,000",
-            "link": "https://www.securityweek.com/access-dental-management-data-breach-impacts-over-340000/",
-            "summary": "",
-            "published_utc": "2026-11-17T12:59:04+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Corma Receives $125 Million to Train Foundation Models for Defensive Cybersecurity",
-            "link": "https://www.securityweek.com/corma-receives-125-million-to-train-foundation-models-for-defensive-cybersecurity/",
-            "summary": "",
-            "published_utc": "2026-11-17T12:51:54+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "California sues OpenAI, alleges 80-plus agent escapes hidden from public",
             "link": "https://www.csoonline.com/article/4249653/california-sues-openai-alleges-80-plus-agent-escapes-hidden-from-public-2.html",
             "summary": "",
             "published_utc": "2026-11-17T12:48:15+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "N-able Kills Legacy APIs, Patches 17 N-central Zero-Days",
-            "link": "https://www.securityweek.com/n-able-kills-legacy-apis-patches-17-n-central-zero-days/",
-            "summary": "",
-            "published_utc": "2026-11-17T12:28:45+00:00"
         },
         {
             "source": "Schneier",
@@ -289,13 +457,6 @@
             "published_utc": "2026-11-17T10:15:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Court clears brothers of $25 million Ethereum crypto heist charges",
-            "link": "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
-            "summary": "US District Judge Jessica Clarke has acquitted two brothers accused of stealing $25 million in cryptocurrency in about 12 seconds through a scheme tha...",
-            "published_utc": "2026-11-17T09:44:22+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Fully Autonomous Agentic Attacks Are Three Months Away, Google Warns",
             "link": "https://www.infosecurity-magazine.com/news/fully-autonomous-agentic-attacks/",
@@ -303,46 +464,11 @@
             "published_utc": "2026-11-17T09:30:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Uber notifies drivers of data breach affecting nearly 150,000 people",
-            "link": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/",
-            "summary": "Ride-hailing company Uber is notifying nearly 150,000 drivers that attackers stole their data after breaching AI infrastructure provider Fireworks in ...",
-            "published_utc": "2026-11-17T08:35:42+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Ransomware affiliate suspect extradited to US, faces 27 years in prison",
-            "link": "https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/",
-            "summary": "A Kazakh national has been extradited from Italy to face charges alleging he targeted US schools, hospitals, and healthcare entities in ransomware att...",
-            "published_utc": "2026-11-17T07:25:44+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
-            "link": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
-            "summary": "A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, F...",
-            "published_utc": "2026-11-17T02:12:17+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
-            "link": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
-            "summary": "Google's Gemini AI agents repeatedly attempted to hack a real organization's website during AI model safety testing, finding ways to circumvent increa...",
-            "published_utc": "2026-11-16T22:54:00+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "The Bank Outage May Have Nothing to Do With Your Bank",
             "link": "https://www.wired.com/story/jpmorganchase-bank-outage-oh-come-on/",
             "summary": "Amid hundreds of reports of US banks experiencing outages, JPMorganChase says a technical “issue” with its “on-premise hardware systems” may be causin...",
             "published_utc": "2026-11-16T21:45:45+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
-            "link": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
-            "summary": "Google Project Zero will replace its \"90+30\" disclosure policy with shorter, fixed deadlines in response to AI-accelerated vulnerability discovery and...",
-            "published_utc": "2026-11-16T21:31:44+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -499,13 +625,6 @@
             "published_utc": "2026-11-14T01:39:15+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "‘We need more reviewers’: Finding Linux bugs is easy now – fixing them is another story",
-            "link": "https://www.zdnet.com/innovation/ai-bug-reports-linux-windows/",
-            "summary": "Some Linux maintainers are quitting under the crushing strain of AI bug reports, while others see signs for hope.",
-            "published_utc": "2026-11-14T01:20:06+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Thousands of GitHub repos hit with secret-stealing malware",
             "link": "https://www.csoonline.com/article/4248672/thousands-of-github-repos-hit-with-secret-stealing-malware.html",
@@ -605,38 +724,10 @@
         },
         {
             "source": "ZDNet Security",
-            "title": "Roku drops smart home products to focus on streaming – what that means for your devices",
-            "link": "https://www.zdnet.com/home-and-office/roku-discontinues-smart-home-products/",
-            "summary": "Roku is winding down its smart home business following its sale to Fox. Here’s what to know.",
-            "published_utc": "2026-11-12T18:43:08+00:00"
-        },
-        {
-            "source": "ZDNet Security",
             "title": "I checked Gemini’s new Memory summary to see what it knew about me – how to see and edit yours",
             "link": "https://www.zdnet.com/innovation/google-gemini-memory-summary-user-control/",
             "summary": "A new option called Memory summary lets you see and control the things that Gemini AI knows about you.",
             "published_utc": "2026-11-12T17:58:52+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Google Wallet just turned your Android phone into a digital house key – how it works",
-            "link": "https://www.zdnet.com/home-and-office/google-wallet-digital-home-keys-smart-locks/",
-            "summary": "Google is moving digital keys out of individual smart lock apps and into the Google Wallet.",
-            "published_utc": "2026-11-12T17:50:24+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Google’s Pixel Tag tracker won’t work as well on older Android phones – check our list",
-            "link": "https://www.zdnet.com/tech/google-pixel-tag-android-tracker-bluetooth-6-0-older-phones/",
-            "summary": "Several of the tracker’s best features require Bluetooth 6.0-compatible device.",
-            "published_utc": "2026-11-12T17:11:16+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Fitbit users can’t see Google Health metrics after update – how to fix it",
-            "link": "https://www.zdnet.com/tech/fitbit-health-metrics-missing-software-update-how-to-fix/",
-            "summary": "Google says it’s working on a fix – meantime, users have found workarounds.",
-            "published_utc": "2026-11-12T16:41:38+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -723,13 +814,6 @@
             "published_utc": "2026-11-12T08:49:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Hackers stole AI credentials to get $740,000 in free compute; Railway picked up the bill",
-            "link": "https://www.csoonline.com/article/4247578/hackers-stole-ai-credentials-to-get-740000-in-free-compute-railway-picked-up-the-bill.html",
-            "summary": "",
-            "published_utc": "2026-11-12T02:53:41+00:00"
-        },
-        {
             "source": "KrebsOnSecurity",
             "title": "Who Runs the Ransomware Group Qilin?",
             "link": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
@@ -758,25 +842,11 @@
             "published_utc": "2026-11-11T16:00:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Rewriting less than 10 neurons in an LLM can turn it into a sleeper backdoor",
-            "link": "https://www.csoonline.com/article/4247354/rewriting-less-than-10-neurons-in-an-llm-can-turn-it-into-a-sleeper-backdoor.html",
-            "summary": "",
-            "published_utc": "2026-11-11T12:28:03+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Three People Arrested for AI-Enhanced Impersonation Fraud",
             "link": "https://www.schneier.com/blog/archives/2026/11/three-people-arrested-for-ai-enhanced-impersonation-fraud.html",
             "summary": "",
             "published_utc": "2026-11-11T12:05:34+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Claude Code’s ‘don’t ask again’ button has a secrets-spilling problem",
-            "link": "https://www.csoonline.com/article/4247336/claude-codes-dont-ask-again-button-has-a-secrets-spilling-problem.html",
-            "summary": "",
-            "published_utc": "2026-11-11T12:00:18+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -791,13 +861,6 @@
             "link": "https://www.infosecurity-magazine.com/news/microsoft-fixes-1235-flaws-record/",
             "summary": "Microsoft patched a record-breaking 1235 CVEs in November’s Patch Tuesday",
             "published_utc": "2026-11-11T09:15:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Why does old access outlive the job?",
-            "link": "https://www.csoonline.com/article/4246971/why-does-old-access-outlive-the-job.html",
-            "summary": "",
-            "published_utc": "2026-11-11T09:00:00+00:00"
         },
         {
             "source": "KrebsOnSecurity",
@@ -938,13 +1001,6 @@
             "link": "https://www.wired.com/story/kernel-panic-refrigeration-hacks-internet-of-things/",
             "summary": "Escalating hacks affecting blood labs and grocery stores show the very real risks to critical infrastructure that come from basic security lapses invo...",
             "published_utc": "2026-11-07T13:00:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Friday Squid Blogging: New Jurassic Squid Predecessors",
-            "link": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-new-jurassic-squid-predecessors.html",
-            "summary": "",
-            "published_utc": "2026-11-06T22:05:12+00:00"
         },
         {
             "source": "WIRED Security",
@@ -1687,13 +1743,6 @@
             "link": "https://www.welivesecurity.com/en/social-media/is-ad-scam-how-tell-before-click/",
             "summary": "You can trust a social media platform and still get scammed by an ad running on it",
             "published_utc": "2026-10-20T09:00:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
-            "link": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
-            "summary": "A judge ordered Abdulrahman Alfozan to remain in custody, likening the Saudi government’s offer to secure the former OpenAI engineer’s release to a “b...",
-            "published_utc": "2026-10-19T19:49:17+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2774,60 +2823,11 @@
             "published_utc": "2026-09-11T09:30:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "CISA Updates Insider Threat Guide With New Mitigation Advice",
-            "link": "https://www.infosecurity-magazine.com/news/cisa-updates-insider-threat-guide/",
-            "summary": "CISA has updated its insider threat guide with new advice on remote work, AI and risk detection",
-            "published_utc": "2026-09-10T14:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "MantaxOtax Android Malware Combines Ransomware With Spyware",
-            "link": "https://www.infosecurity-magazine.com/news/mantaxotax-android-malware/",
-            "summary": "MantaxOtax Android malware combines ransomware with extensive spyware capabilities",
-            "published_utc": "2026-09-10T13:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "FBI Publishes First-Ever Cyber Strategy, With Focus on Disrupting Threat Actors",
-            "link": "https://www.infosecurity-magazine.com/news/fbi-cyber-strategy-disrupting/",
-            "summary": "The new document appears to be part of a broader shift by the US government towards the proactive disruption of cyber threat actors",
-            "published_utc": "2026-09-10T12:15:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "GuardBreaker: Derailing AI-assisted malware analysis with a code comment",
             "link": "https://www.welivesecurity.com/en/business-security/guardbreaker-derailing-ai-assisted-malware-analysis-code-comment/",
             "summary": "LLM-based code scanners won’t help attackers build a nuclear weapon, but that refusal could work in their favor",
             "published_utc": "2026-09-10T09:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Anthropic Reveals Yet Another Cybersecurity Incident",
-            "link": "https://www.infosecurity-magazine.com/news/anthropic-another-cybersecurity/",
-            "summary": "Anthropic has found a fourth case of its model accessing third-party systems without authorization",
-            "published_utc": "2026-09-10T08:45:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "OFAC Sanctions Chinese Scam Platform Xinbi Guarantee",
-            "link": "https://www.infosecurity-magazine.com/news/ofac-sanctions-chinese-scam/",
-            "summary": "The US Treasury has placed sanctions on notorious Chinese cybercrime marketplace Xinbi Guarantee",
-            "published_utc": "2026-09-10T08:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Researchers Build WeChat Zero-Click Worm Hijacking Phones via Calls",
-            "link": "https://www.infosecurity-magazine.com/news/wechat-zeroclick-worm-hijack/",
-            "summary": "The hacking tool, built using a combination of AI models, is effective against Android and iOS devices",
-            "published_utc": "2026-09-09T15:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Gigabud Uses Android App Cloning to Evade Fraud Detection",
-            "link": "https://www.infosecurity-magazine.com/news/gigabud-android-app-cloning-fraud/",
-            "summary": "Gigabud clones banking apps into a work profile to break the link between malware alerts and fraud",
-            "published_utc": "2026-09-09T14:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
@@ -3297,6 +3297,76 @@
             "link": "https://www.welivesecurity.com/en/ransomware/naming-shaming-ransomware-groups-tighten-screws-victims/",
             "summary": "When corporate data is exposed on a dedicated leak site, the consequences linger long after the attack fades from the news cycle",
             "published_utc": "2026-02-12T10:00:00+00:00"
+        },
+        {
+            "source": "Threatpost",
+            "title": "Student Loan Breach Exposes 2.5M Records",
+            "link": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
+            "summary": "2.5 million people were affected, in a breach that could spell more trouble down the line.",
+            "published_utc": "2022-08-31T12:57:48+00:00"
+        },
+        {
+            "source": "Threatpost",
+            "title": "Watering Hole Attacks Push ScanBox Keylogger",
+            "link": "https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/",
+            "summary": "Researchers uncover a watering hole attack likely carried out by APT TA423, which attempts to plant the ScanBox JavaScript-based reconnaissance tool.",
+            "published_utc": "2022-08-30T16:00:43+00:00"
+        },
+        {
+            "source": "Threatpost",
+            "title": "Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms",
+            "link": "https://threatpost.com/0ktapus-victimize-130-firms/180487/",
+            "summary": "Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.",
+            "published_utc": "2022-08-29T14:56:19+00:00"
+        },
+        {
+            "source": "Threatpost",
+            "title": "Ransomware Attacks are on the Rise",
+            "link": "https://threatpost.com/ransomware-attacks-are-on-the-rise/180481/",
+            "summary": "Lockbit is by far this summer’s most prolific ransomware group, trailed by two offshoots of the Conti group.",
+            "published_utc": "2022-08-26T16:44:27+00:00"
+        },
+        {
+            "source": "Threatpost",
+            "title": "Cybercriminals Are Selling Access to Chinese Surveillance Cameras",
+            "link": "https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/",
+            "summary": "Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed.",
+            "published_utc": "2022-08-25T18:47:15+00:00"
+        },
+        {
+            "source": "Threatpost",
+            "title": "Twitter Whistleblower Complaint: The TL;DR Version",
+            "link": "https://threatpost.com/twitter-whistleblower-tldr-version/180472/",
+            "summary": "Twitter is blasted for security and privacy lapses by the company’s former head of security who alleges the social media giant’s actions amount to a n...",
+            "published_utc": "2022-08-24T14:17:04+00:00"
+        },
+        {
+            "source": "Threatpost",
+            "title": "Firewall Bug Under Active Attack Triggers CISA Warning",
+            "link": "https://threatpost.com/firewall-bug-under-active-attack-cisa-warning/180467/",
+            "summary": "CISA is warning that Palo Alto Networks’ PAN-OS is under active attack and needs to be patched ASAP.",
+            "published_utc": "2022-08-23T13:19:58+00:00"
+        },
+        {
+            "source": "Threatpost",
+            "title": "Fake Reservation Links Prey on Weary Travelers",
+            "link": "https://threatpost.com/reservation-links-prey-on-travelers/180462/",
+            "summary": "Fake travel reservations are exacting more pain from the travel weary, already dealing with the misery of canceled flights and overbooked hotels.",
+            "published_utc": "2022-08-22T13:59:06+00:00"
+        },
+        {
+            "source": "Threatpost",
+            "title": "iPhone Users Urged to Update to Patch 2 Zero-Days",
+            "link": "https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/",
+            "summary": "Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack.",
+            "published_utc": "2022-08-19T15:25:56+00:00"
+        },
+        {
+            "source": "Threatpost",
+            "title": "Google Patches Chrome’s Fifth Zero-Day of the Year",
+            "link": "https://threatpost.com/google-patches-chromes-fifth-zero-day-of-the-year/180432/",
+            "summary": "An insufficient validation input flaw, one of 11 patched in an update this week, could allow for arbitrary code execution and is under active attack.",
+            "published_utc": "2022-08-18T14:31:38+00:00"
         }
     ]
 }
