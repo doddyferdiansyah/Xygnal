@@ -1,6 +1,62 @@
 {
-    "lastUpdatedUTC": "2026-11-18T17:50:58.778255+00:00",
+    "lastUpdatedUTC": "2026-11-18T23:58:13.156578+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "AI unearths ‘internet breaker’ flaws in Nginx web server",
+            "link": "https://www.csoonline.com/article/4250460/ai-unearths-internet-breaker-flaws-in-nginx-web-server.html",
+            "summary": "",
+            "published_utc": "2026-11-18T23:36:40+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
+            "link": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
+            "summary": "Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than $40....",
+            "published_utc": "2026-11-18T23:08:33+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
+            "link": "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/",
+            "summary": "Coinbase says it blocked $4.7 million in cryptocurrency transfers to scammers promoting a fake giveaway using an AI-generated deepfake of Elon Musk du...",
+            "published_utc": "2026-11-18T20:49:32+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "A new critical Java hole illustrates the enterprise IT visibility problem",
+            "link": "https://www.csoonline.com/article/4250390/a-new-critical-java-hole-illustrates-the-enterprise-it-visibility-problem.html",
+            "summary": "",
+            "published_utc": "2026-11-18T20:39:16+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
+            "link": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/",
+            "summary": "A reported cyberattack on Wellington IT has exposed sensitive information belonging to members of 50 credit unions, the majority of which are located ...",
+            "published_utc": "2026-11-18T19:39:33+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "An AI Debt Collection Service Exposed 6.6 Million Accounts and 315,000 Call Recordings",
+            "link": "https://www.wired.com/story/ai-debt-collection-service-exposed-66-million-accounts-and-315000-call-recordings/",
+            "summary": "A pair of serious vulnerabilities in the CreditNirvana platform would have allowed attackers to access troves of detailed sensitive information, inclu...",
+            "published_utc": "2026-11-18T19:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Google Wallet comes to your iPhone – but without this feature",
+            "link": "https://www.zdnet.com/tech/google-wallet-iphone-ios-no-tap-to-pay/",
+            "summary": "The new Google Wallet app brings Gemini agentic shopping to US-based iOS users –  sorry, no tap-to-pay.",
+            "published_utc": "2026-11-18T18:02:15+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "5 new Apple Health features you should try in iOS 27.3 – if your phone qualifies",
+            "link": "https://www.zdnet.com/health/apple-health-ios-27-3-ai-features-compatible-iphones/",
+            "summary": "Apple’s redesigned Health app arrives in December with some major upgrades, but not every iPhone will get the full experience.",
+            "published_utc": "2026-11-18T18:00:48+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "You can use Google’s Spark AI agent, renamed Tasks, for free now – with limits",
@@ -380,25 +436,11 @@
             "published_utc": "2026-11-17T16:05:30+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool",
-            "link": "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/",
-            "summary": "Flipper Devices, the company behind the popular Flipper Zero pentesting device, has launched a crowdfunding campaign for Flipper One, a portable Linux...",
-            "published_utc": "2026-11-17T16:00:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Anthropic Cuts Disclosure Deadline to 30 Days For Serious Bugs",
             "link": "https://www.infosecurity-magazine.com/news/anthropic-disclosure-deadline-30/",
             "summary": "Anthropic will publish serious flaws found by its AI models 30 days after reporting them",
             "published_utc": "2026-11-17T15:30:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions",
-            "link": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/",
-            "summary": "Huntress researchers break down how EvilTokens, Knight Office, and Kali365 capture and replay M365 tokens, plus how defenders can detect and contain t...",
-            "published_utc": "2026-11-17T15:01:11+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -427,13 +469,6 @@
             "link": "https://www.schneier.com/blog/archives/2026/11/formal-verification-of-the-signal-protocol-using-ai.html",
             "summary": "",
             "published_utc": "2026-11-17T12:05:43+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft testing Remote Lock for lost or stolen Windows devices",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/",
-            "summary": "Microsoft is testing a new feature that lets enterprise IT administrators remotely lock stolen or lost Windows devices without wiping them. [...]",
-            "published_utc": "2026-11-17T11:19:51+00:00"
         },
         {
             "source": "CSO Online",
@@ -532,13 +567,6 @@
             "link": "https://www.zdnet.com/innovation/google-threat-intelligence-report-llmjacking-ai/",
             "summary": "Underground brokers are selling access to hijacked enterprise AI accounts, with companies footing the usage bill, Google reports.",
             "published_utc": "2026-11-16T14:00:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "AI finds zero-day flaws for just $4 now – even mediocre hackers can cash in",
-            "link": "https://www.zdnet.com/innovation/ai-finds-zero-day-security-flaws-for-cheap-hackers/",
-            "summary": "Rapidly advancing AI models are making it cheaper and easier to uncover critical vulnerabilities, but it’s a double-edged sword – and a gift to hackers.",
-            "published_utc": "2026-11-16T13:14:25+00:00"
         },
         {
             "source": "CSO Online",
@@ -723,13 +751,6 @@
             "published_utc": "2026-11-12T20:01:33+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "I checked Gemini’s new Memory summary to see what it knew about me – how to see and edit yours",
-            "link": "https://www.zdnet.com/innovation/google-gemini-memory-summary-user-control/",
-            "summary": "A new option called Memory summary lets you see and control the things that Gemini AI knows about you.",
-            "published_utc": "2026-11-12T17:58:52+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Weak Passwords Expose SQL Servers to Cryptominer and Gh0st RAT",
             "link": "https://www.infosecurity-magazine.com/news/fortinet-sql-server-cryptominer/",
@@ -772,13 +793,6 @@
             "published_utc": "2026-11-12T14:00:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "AI found Linux kernel bugs that remained undetected for decades",
-            "link": "https://www.csoonline.com/article/4247815/ai-found-linux-kernel-bugs-that-remained-undetected-for-decades.html",
-            "summary": "",
-            "published_utc": "2026-11-12T12:09:51+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Another Way Police Are Locating People from Their Smartphones",
             "link": "https://www.schneier.com/blog/archives/2026/11/another-way-police-are-locating-people-from-their-smartphones.html",
@@ -798,13 +812,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ncsc-cyber-adversary-testing-boost/",
             "summary": "The UK’s National Cyber Security Centre has launched a new Cyber Adversary Simulation (CyAS) scheme",
             "published_utc": "2026-11-12T10:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "The developer laptop just became production. Now what?",
-            "link": "https://www.csoonline.com/article/4247458/the-developer-laptop-just-became-production-now-what.html",
-            "summary": "",
-            "published_utc": "2026-11-12T09:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1694,13 +1701,6 @@
             "link": "https://www.infosecurity-magazine.com/news/critical-php-vulnerabilities-leaked/",
             "summary": "Two critical vulnerabilities in PHP were leaked one day before their scheduled disclosure and security patches",
             "published_utc": "2026-10-21T10:20:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "She Was the DEA’s Premier Crypto Detective. The Clues Led Straight to Her Own Family",
-            "link": "https://www.wired.com/story/the-deas-premier-crypto-detective-clues-led-straight-to-her-own-family/",
-            "summary": "To escape the chaos of her Russian childhood, Lili Infante became an American law enforcement prodigy. She pioneered the DEA’s investigations of the d...",
-            "published_utc": "2026-10-21T10:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
