@@ -1,12 +1,201 @@
 {
-    "lastUpdatedUTC": "2026-11-19T07:07:41.413032+00:00",
+    "lastUpdatedUTC": "2026-11-19T17:07:40.026538+00:00",
     "articles": [
         {
+            "source": "WIRED Security",
+            "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
+            "link": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
+            "summary": "The company’s alternate-universe internet serves as a massive sandbox that allowed the Chrome team to properly train the AI browsing agents—without th...",
+            "published_utc": "2026-11-19T17:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "PHP security updates fix 18 flaws, including critical RCE bugs",
+            "link": "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/",
+            "summary": "The PHP development team released security updates addressing 18 vulnerabilities, including critical flaws that could allow unauthenticated attackers ...",
+            "published_utc": "2026-11-19T16:28:23+00:00"
+        },
+        {
             "source": "SecurityWeek",
-            "title": "Palo Alto Networks to Buy AI Startup Applied Compute for $4.5 Billion",
-            "link": "https://www.securityweek.com/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion/",
+            "title": "PHP Patches Seven Critical RCE Vulnerabilities",
+            "link": "https://www.securityweek.com/php-patches-seven-critical-rce-vulnerabilities/",
             "summary": "",
-            "published_utc": "2026-11-19T03:25:23+00:00"
+            "published_utc": "2026-11-19T15:54:20+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "CyberPower PowerPanel Exploited to Run Malicious Code on Domain Controller",
+            "link": "https://www.infosecurity-magazine.com/news/ups-software-abused-domain/",
+            "summary": "Symantec found an attacker using CyberPower’s UPS software to run scripts on a domain controller",
+            "published_utc": "2026-11-19T15:30:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "PHP Releases Patches to Fix 18 Vulnerabilities",
+            "link": "https://www.infosecurity-magazine.com/news/php-releases-patches-fix-18/",
+            "summary": "PHP has released security updates addressing 18 vulnerabilities, including critical remote code execution flaws affecting session handling",
+            "published_utc": "2026-11-19T15:28:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Five warning signs of ransomware breach before encryption or data theft",
+            "link": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
+            "summary": "Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis ...",
+            "published_utc": "2026-11-19T15:00:10+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers",
+            "link": "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/",
+            "summary": "Two critical NGINX vulnerabilities dubbed \"nginx2root\" allow unauthenticated attackers to execute code remotely on vulnerable web servers, with resear...",
+            "published_utc": "2026-11-19T14:57:24+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "European Commission Confirms AI-Driven Cyber-Attack Took Systems Offline",
+            "link": "https://www.infosecurity-magazine.com/news/commission-ai-attack-systems/",
+            "summary": "The European Commission said the attack targeted “individual systems”, with reports that attackers leveraged ARTEX in the campaign",
+            "published_utc": "2026-11-19T14:45:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Nvidia Responds to Gentlemen Ransomware Claim",
+            "link": "https://www.securityweek.com/nvidia-responds-to-gentlemen-ransomware-claim/",
+            "summary": "",
+            "published_utc": "2026-11-19T14:17:32+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "The Flipper One is more than a Zero 2.0 – it’s a $399 Linux computer with a $13M Kickstarter",
+            "link": "https://www.zdnet.com/tech/flipper-one-cost-features-linux-computer-kickstarter/",
+            "summary": "Backers are going big on the $759 Ultimate Bundle, but Flipper warns that rising RAM prices could affect production.",
+            "published_utc": "2026-11-19T13:28:20+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Hackers Exploit Cisco Expressway Vulnerability Soon After PoC Release",
+            "link": "https://www.securityweek.com/hackers-exploit-cisco-expressway-vulnerability-soon-after-poc-release/",
+            "summary": "",
+            "published_utc": "2026-11-19T13:12:20+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
+            "link": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/",
+            "summary": "The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites. [...]",
+            "published_utc": "2026-11-19T13:08:08+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "StepSecurity Secures $20 Million to Expand Supply Chain Protection",
+            "link": "https://www.securityweek.com/stepsecurity-secures-20-million-to-expand-supply-chain-protection/",
+            "summary": "",
+            "published_utc": "2026-11-19T12:23:34+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Critical Apache Roller, Axis Vulnerabilities Exploited in Attacks",
+            "link": "https://www.securityweek.com/critical-apache-roller-axis-vulnerabilities-exploited-in-attacks/",
+            "summary": "",
+            "published_utc": "2026-11-19T12:13:24+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "The Governance Gap in Open-Weight AI and What to Do About It",
+            "link": "https://www.securityweek.com/the-governance-gap-in-open-weight-ai-and-what-to-do-about-it/",
+            "summary": "",
+            "published_utc": "2026-11-19T12:00:00+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "90% of employers reject resumes that look like AI – yet half use AI to interview",
+            "link": "https://www.zdnet.com/innovation/ai-applications-skipped-interview/",
+            "summary": "In today’s job market, do applicants really have a choice of whether to comply with AI hiring tools?",
+            "published_utc": "2026-11-19T12:00:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft tests new Edge Lockdown Mode that disables GPU APIs",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/",
+            "summary": "Microsoft is developing a new Edge security feature to reduce the attack surface by disabling the WebGL, WebGL2, and WebGPU APIs. [...]",
+            "published_utc": "2026-11-19T11:46:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Palo Alto Networks bets $4.5B on enterprise AI with Applied Compute acquisition",
+            "link": "https://www.csoonline.com/article/4250669/palo-alto-networks-bets-4-5b-on-enterprise-ai-with-applied-compute-acquisition.html",
+            "summary": "",
+            "published_utc": "2026-11-19T11:36:10+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "TfL Warns 265,000 Photocard Customers May Have Had Personal Data Exposed",
+            "link": "https://www.infosecurity-magazine.com/news/tfl-customers-personal-data-exposed/",
+            "summary": "London’s transport body was alerted to the incident after emails were sent from TfL’s system to Oyster Photocard customers",
+            "published_utc": "2026-11-19T11:35:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Splunk Patches Nearly 140 Flaws Across Three Core Products",
+            "link": "https://www.securityweek.com/splunk-patches-nearly-140-flaws-across-three-core-products/",
+            "summary": "",
+            "published_utc": "2026-11-19T10:41:05+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft confirms app installation, launch issues after hotpatch",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/",
+            "summary": "Microsoft has shared a workaround for installation and launch issues affecting Office and third-party applications after installing this month's Windo...",
+            "published_utc": "2026-11-19T10:35:05+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "A Fifth of UK Employees Share Passwords with AI",
+            "link": "https://www.infosecurity-magazine.com/news/fifth-uk-employees-share-passwords/",
+            "summary": "Dashlane research reveals UK workers are sharing passwords with AI tools and granting access to sensitive data, raising major enterprise security conc...",
+            "published_utc": "2026-11-19T10:30:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "F5 Patches Critical NGINX2Root Flaws as PoC Exploits Go Public",
+            "link": "https://www.securityweek.com/f5-patches-critical-nginx2root-flaws-as-poc-exploits-go-public/",
+            "summary": "",
+            "published_utc": "2026-11-19T10:26:51+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "NVIDIA investigating Gentlemen ransomware breach claims",
+            "link": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/",
+            "summary": "NVIDIA is investigating claims of a security breach after the Gentlemen ransomware group has added the company to its dark web data leak site. [...]",
+            "published_utc": "2026-11-19T09:23:21+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Rakuten Securities Breach Could Impact 15 Million Customers",
+            "link": "https://www.infosecurity-magazine.com/news/rakuten-securities-breach-15/",
+            "summary": "Japanese broker Rakuten Securities has revealed a data breach involving the account details of 15 million customers",
+            "published_utc": "2026-11-19T09:20:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Java4Shell Exploitation Attempts Begin as Vendors Rush Out Advisories",
+            "link": "https://www.securityweek.com/java4shell-exploitation-attempts-begin-as-vendors-rush-out-advisories/",
+            "summary": "",
+            "published_utc": "2026-11-19T09:10:58+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Vulnerability management: The cybersecurity industry is still solving the wrong problem",
+            "link": "https://www.csoonline.com/article/4250261/vulnerability-management-the-cybersecurity-industry-is-still-solving-the-wrong-problem.html",
+            "summary": "",
+            "published_utc": "2026-11-19T09:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "PHP Readies Critical Security Updates to Patch Another RCE Flaw",
+            "link": "https://www.securityweek.com/php-readies-critical-security-updates-to-patch-another-rce-flaw/",
+            "summary": "",
+            "published_utc": "2026-11-19T07:45:17+00:00"
         },
         {
             "source": "CSO Online",
@@ -107,13 +296,6 @@
             "published_utc": "2026-11-18T16:24:20+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "VeroSecurity Raises $11 Million for AI Security Engineering Platform",
-            "link": "https://www.securityweek.com/verosecurity-raises-11-million-for-ai-security-engineering-platform/",
-            "summary": "",
-            "published_utc": "2026-11-18T15:30:42+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
             "link": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/",
@@ -149,20 +331,6 @@
             "published_utc": "2026-11-18T13:46:55+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Russian APT Poses as Employee of Hacked Firm to Breach Another US Organization",
-            "link": "https://www.securityweek.com/russian-apt-poses-as-employee-of-hacked-firm-to-breach-another-us-organization/",
-            "summary": "",
-            "published_utc": "2026-11-18T13:33:47+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Last of Five Defendants Sentenced in US Scattered Spider Hacking Case",
-            "link": "https://www.securityweek.com/last-of-five-defendants-sentenced-in-us-scattered-spider-hacking-case/",
-            "summary": "",
-            "published_utc": "2026-11-18T13:19:32+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "Microsoft’s new Licensed Weights lets businesses customize AI models with their own data",
             "link": "https://www.zdnet.com/innovation/microsoft-licensed-weights-ai-models-ignite-2026/",
@@ -177,25 +345,11 @@
             "published_utc": "2026-11-18T12:35:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Microsoft Takes Perception Agentic Security Platform Out of Preview",
-            "link": "https://www.securityweek.com/microsoft-takes-perception-agentic-security-platform-out-of-preview/",
-            "summary": "",
-            "published_utc": "2026-11-18T12:14:23+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "France Is Blaming Iran for the Fridge Cyberattack",
             "link": "https://www.schneier.com/blog/archives/2026/11/france-is-blaming-iran-for-the-fridge-cyberattack.html",
             "summary": "",
             "published_utc": "2026-11-18T12:05:35+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "CISO Conversations: Patti Degnan – Part of the Job Is Deciding What Not to Do",
-            "link": "https://www.securityweek.com/ciso-conversations-patti-degnan-part-of-the-job-is-deciding-what-not-to-do/",
-            "summary": "",
-            "published_utc": "2026-11-18T12:00:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -219,27 +373,6 @@
             "published_utc": "2026-11-18T11:45:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Chrome 158 Patches 204 Vulnerabilities",
-            "link": "https://www.securityweek.com/chrome-158-patches-204-vulnerabilities/",
-            "summary": "",
-            "published_utc": "2026-11-18T11:43:22+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Microsoft Agent Framework Releases Poisoned With Credential Stealer",
-            "link": "https://www.securityweek.com/microsoft-agent-framework-releases-poisoned-with-credential-stealer/",
-            "summary": "",
-            "published_utc": "2026-11-18T11:05:39+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Critical Perforce Puppet RCE Exploited in Attacks",
-            "link": "https://www.securityweek.com/critical-perforce-puppet-rce-exploited-in-attacks/",
-            "summary": "",
-            "published_utc": "2026-11-18T10:37:08+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Apache warns of Roller RCE vulnerability exploited in attacks",
             "link": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
@@ -251,6 +384,13 @@
             "title": "Three AI Models Agree on Just One of 121 Potential Code Flaws",
             "link": "https://www.infosecurity-magazine.com/news/ai-models-vulnerability-findings/",
             "summary": "Echo tested Claude Mythos, GPT-5.6 Sol and GLM-5.3 on the same code and found little overlap",
+            "published_utc": "2026-11-18T10:00:00+00:00"
+        },
+        {
+            "source": "WeLiveSecurity",
+            "title": "Who was that trying to phone me just now? How one-ring phone scams work",
+            "link": "https://www.welivesecurity.com/en/scams/who-was-trying-phone-how-one-ring-phone-scams-work/",
+            "summary": "Sometimes it only takes one ring to get your attention – here’s how to keep “wangiri” scammers at bay",
             "published_utc": "2026-11-18T10:00:00+00:00"
         },
         {
@@ -275,25 +415,11 @@
             "published_utc": "2026-11-18T09:00:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Oracle Patches 950 Vulnerabilities With November 2026 CSPU",
-            "link": "https://www.securityweek.com/oracle-patches-640-vulnerabilities-with-november-2026-cspu/",
-            "summary": "",
-            "published_utc": "2026-11-18T08:47:18+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "How organizations can secure their AI-generated code",
             "link": "https://www.csoonline.com/article/3633403/how-organizations-can-secure-their-ai-code.html",
             "summary": "",
             "published_utc": "2026-11-18T08:25:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "British Scattered Spider hacker sentenced to 6 years in prison",
-            "link": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/",
-            "summary": "A leader of the Scattered Spider cybercrime collective has been sentenced to six years in prison in the United States for stealing millions in cryptoc...",
-            "published_utc": "2026-11-18T08:24:18+00:00"
         },
         {
             "source": "KrebsOnSecurity",
@@ -331,32 +457,11 @@
             "published_utc": "2026-11-17T23:05:48+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
-            "link": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
-            "summary": "A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely execute...",
-            "published_utc": "2026-11-17T23:04:21+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "Microsoft says its new AI coding model rivals Claude Opus 5.5 at 5% of the cost",
             "link": "https://www.zdnet.com/innovation/microsoft-ai-coding-model-rivals-claude-opus-5-5-ignite/",
             "summary": "Microsoft announced two new AI models at Ignite 2026 that promise impressive performance for much lower cost. They could reshape its relationship with...",
             "published_utc": "2026-11-17T22:42:44+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
-            "link": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
-            "summary": "Credentials and access secrets exposed in public Docker Hub images are being extracted and exploited by attackers within as little as eight seconds of...",
-            "published_utc": "2026-11-17T21:27:17+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
-            "link": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
-            "summary": "The Fugaku supercomputer operated by Japan's RIKEN Center for Computational Science has been taken offline following a security breach. [...]",
-            "published_utc": "2026-11-17T20:51:21+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -373,32 +478,11 @@
             "published_utc": "2026-11-17T19:40:57+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Apple reports outages affecting iCloud Mail, AppleCare and more",
-            "link": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
-            "summary": "Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account & Sign In, Apple School Manager, and S...",
-            "published_utc": "2026-11-17T19:24:07+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "Your Googlebook just got a Chrome update – 5 new features",
             "link": "https://www.zdnet.com/tech/googlebook-os-chrome-update-new-features/",
             "summary": "The Chrome update includes more useful vertical tabs, easier screen sharing, and some handy keyboard shortcuts.",
             "published_utc": "2026-11-17T18:21:55+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Researchers hijack Hugging Face account for popular Kokoro AI model",
-            "link": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
-            "summary": "A Lack of ownership verification on the Hugging Face platform allowed researchers to take control of Kokoro, a text-to-speech model used in projects f...",
-            "published_utc": "2026-11-17T18:21:24+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Tor releases emergency update amid ongoing DDoS attack",
-            "link": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
-            "summary": "The Tor Project has released a security update for its network relay software to increase defenses against an ongoing distributed denial-of-service at...",
-            "published_utc": "2026-11-17T18:04:15+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -541,13 +625,6 @@
             "published_utc": "2026-11-16T17:21:42+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "Lost or stolen Windows laptop? IT can lock it down without wiping it now",
-            "link": "https://www.zdnet.com/tech/microsoft-preview-remote-lock-intune-windows-devices/",
-            "summary": "The Intune-enabled feature will allow admins to remotely lock down any compromised Windows device.",
-            "published_utc": "2026-11-16T16:08:03+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Typosquatters Target New Brand Domains Within 24 Hours of Registration",
             "link": "https://www.infosecurity-magazine.com/news/typosquatters-target-new-brand/",
@@ -560,13 +637,6 @@
             "link": "https://www.infosecurity-magazine.com/news/maileva-docaposte-22-million-breach/",
             "summary": "Maileva breach exposed names and postal addresses of 22 million people",
             "published_utc": "2026-11-16T15:25:00+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Your enterprise AI access can be sold for pennies – beware ‘LLM Mixers’",
-            "link": "https://www.zdnet.com/innovation/google-threat-intelligence-report-llmjacking-ai/",
-            "summary": "Underground brokers are selling access to hijacked enterprise AI accounts, with companies footing the usage bill, Google reports.",
-            "published_utc": "2026-11-16T14:00:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -758,13 +828,6 @@
             "published_utc": "2026-11-12T16:00:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Palo Alto tracks a massive Chinese AI attack that sadly lives up to industry fears",
-            "link": "https://www.csoonline.com/article/4247565/palo-alto-tracks-a-massive-chinese-ai-attack-that-sadly-lives-up-to-industry-fears.html",
-            "summary": "",
-            "published_utc": "2026-11-12T15:15:00+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Hacked Asian Telcos Used to Intercept Taiwanese Calls and Texts",
             "link": "https://www.infosecurity-magazine.com/news/silentair-liminal-panda-telco/",
@@ -776,13 +839,6 @@
             "title": "Lego Takes BrickLink Marketplace Offline After Detecting Unusual Activity",
             "link": "https://www.infosecurity-magazine.com/news/lego-takes-bricklink-marketplace/",
             "summary": "Lego has taken its BrickLink Marketplace offline after detecting unusual activity as the company investigates the incident",
-            "published_utc": "2026-11-12T14:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "Hackers abuse SQL Server’s weak passwords to drop cryptominers and Gh0st RAT",
-            "link": "https://www.csoonline.com/article/4247845/hackers-abuse-sql-servers-weak-passwords-to-drop-cryptominers-and-gh0st-rat.html",
-            "summary": "",
             "published_utc": "2026-11-12T14:00:00+00:00"
         },
         {
@@ -1673,13 +1729,6 @@
             "link": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
             "summary": "Hackers around the world are all-in on using agentic AI to wage attacks—and manipulating tools like Anthropic’s Claude to help them carry out their cr...",
             "published_utc": "2026-10-21T14:00:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "A Design Flaw in Share Links Exposes Users’ Personal Conversations With Meta’s Muse",
-            "link": "https://www.wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse/",
-            "summary": "The company is suspending the feature after security researchers discovered how easy it was to access sensitive information shared with the AI assistant.",
-            "published_utc": "2026-10-21T12:35:00+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2781,48 +2830,6 @@
             "published_utc": "2026-09-14T14:15:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "Defense Cyber Spending Set to Surge Amid Rising Attacks on Military Systems",
-            "link": "https://www.infosecurity-magazine.com/news/defense-cyber-spending-attacks/",
-            "summary": "MarketsandMarkets has projected the cyber warfare market to double by 2031, amid growing demand for defensive and offensive cyber capabilities in the ...",
-            "published_utc": "2026-09-14T12:45:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Revolut Confirms Data Breach Through Fake Government Requests",
-            "link": "https://www.infosecurity-magazine.com/news/revolut-data-breach-fake-government/",
-            "summary": "An unauthorized party used a legitimate government email domain to fraudulently request Revolut customer data",
-            "published_utc": "2026-09-14T11:20:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Hackers Exploit Maximum Severity Flaw in GitLab",
-            "link": "https://www.infosecurity-magazine.com/news/hackers-exploit-maximum-severity/",
-            "summary": "CISA warns that threat actors are exploiting a vulnerability with a CVSS score of 10.0",
-            "published_utc": "2026-09-14T10:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "OpenAI Agent Swarm Hacks RubyGems Package Manager",
-            "link": "https://www.infosecurity-magazine.com/news/openai-agent-swarm-hacks-rubygems/",
-            "summary": "Researchers confirm that OpenAI agents uploaded hundreds of malicious packages to RubyGems",
-            "published_utc": "2026-09-14T08:50:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Hackers Favor US Eastern Business Hours in M365 Phishing Campaign",
-            "link": "https://www.infosecurity-magazine.com/news/hackers-us-business-hours-m365/",
-            "summary": "KnowBe4 researchers observed a new phishing campaign leveraging Microsoft 365’s Direct Send to send malicious emails",
-            "published_utc": "2026-09-11T13:30:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Most Organizations Skip Permissions Reviews Before Deploying AI Tools",
-            "link": "https://www.infosecurity-magazine.com/news/organizations-skip-permissions-ai/",
-            "summary": "A new Syskit study has shown that only 43% of organizations with AI agents deployed in Microsoft 365 environments completed a permission review before...",
-            "published_utc": "2026-09-11T09:30:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "GuardBreaker: Derailing AI-assisted malware analysis with a code comment",
             "link": "https://www.welivesecurity.com/en/business-security/guardbreaker-derailing-ai-assisted-malware-analysis-code-comment/",
@@ -3290,13 +3297,6 @@
             "link": "https://www.welivesecurity.com/en/kids-online/children-selfies-online/",
             "summary": "When it comes to our children’s digital lives, prohibition rarely works. It’s our responsibility to help them build a healthy relationship with tech.",
             "published_utc": "2026-02-17T10:00:00+00:00"
-        },
-        {
-            "source": "WeLiveSecurity",
-            "title": "Naming and shaming: How ransomware groups tighten the screws on victims",
-            "link": "https://www.welivesecurity.com/en/ransomware/naming-shaming-ransomware-groups-tighten-screws-victims/",
-            "summary": "When corporate data is exposed on a dedicated leak site, the consequences linger long after the attack fades from the news cycle",
-            "published_utc": "2026-02-12T10:00:00+00:00"
         },
         {
             "source": "Threatpost",
