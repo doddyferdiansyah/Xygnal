@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-11-20T17:35:51.398445+00:00",
+    "lastUpdatedUTC": "2026-11-20T23:44:32.682772+00:00",
     "articles": [
+        {
+            "source": "Schneier",
+            "title": "Friday Squid Blogging: The Largest Squid Ever Filmed",
+            "link": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-the-largest-squid-ever-filmed.html",
+            "summary": "",
+            "published_utc": "2026-11-20T22:04:12+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
+            "link": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
+            "summary": "Bell Canada has confirmed that an \"agentic\" threat actor breached its systems on November 17, 2026, and stole enterprise customer data, including info...",
+            "published_utc": "2026-11-20T18:51:43+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
+            "summary": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application....",
+            "published_utc": "2026-11-20T17:30:00+00:00"
+        },
         {
             "source": "ZDNet Security",
             "title": "Signal to restrict screenshots over AI agent concerns – again",
@@ -289,25 +310,11 @@
             "published_utc": "2026-11-19T13:28:20+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
-            "link": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/",
-            "summary": "The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites. [...]",
-            "published_utc": "2026-11-19T13:08:08+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "90% of employers reject resumes that look like AI – yet half use AI to interview",
             "link": "https://www.zdnet.com/innovation/ai-applications-skipped-interview/",
             "summary": "In today’s job market, do applicants really have a choice of whether to comply with AI hiring tools?",
             "published_utc": "2026-11-19T12:00:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft tests new Edge Lockdown Mode that disables GPU APIs",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/",
-            "summary": "Microsoft is developing a new Edge security feature to reduce the attack surface by disabling the WebGL, WebGL2, and WebGPU APIs. [...]",
-            "published_utc": "2026-11-19T11:46:00+00:00"
         },
         {
             "source": "CSO Online",
@@ -1001,13 +1008,6 @@
             "link": "https://www.infosecurity-magazine.com/news/forgerock-openidm-default-password/",
             "summary": "Default admin password on automaker login servers let researchers unlock and start test cars",
             "published_utc": "2026-11-10T12:15:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "New OpenSSH Vulnerability",
-            "link": "https://www.schneier.com/blog/archives/2026/11/new-openssh-vulnerability.html",
-            "summary": "",
-            "published_utc": "2026-11-10T12:02:38+00:00"
         },
         {
             "source": "InfosecurityMag",
