@@ -1,6 +1,34 @@
 {
-    "lastUpdatedUTC": "2026-11-20T00:21:29.021576+00:00",
+    "lastUpdatedUTC": "2026-11-20T08:08:36.812983+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "JPMorgan, Visa, Mastercard Cite Third-Party Incidents Amid Data Leak",
+            "link": "https://www.securityweek.com/jpmorgan-visa-mastercard-cite-third-party-incidents-amid-data-leak/",
+            "summary": "",
+            "published_utc": "2026-11-20T07:35:46+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "A single pull request could have handed attackers the keys to Microsoft’s software supply chain",
+            "link": "https://www.csoonline.com/article/4251117/a-single-pull-request-could-have-handed-attackers-the-keys-to-microsofts-software-supply-chain.html",
+            "summary": "",
+            "published_utc": "2026-11-20T03:10:04+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "European Commission HR hit by cyber attack",
+            "link": "https://www.csoonline.com/article/4251068/european-commission-hr-hit-by-cyber-attack.html",
+            "summary": "",
+            "published_utc": "2026-11-20T02:08:48+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "VMware patches vCenter zero-day exploited in attacks since September",
+            "link": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
+            "summary": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have ex...",
+            "published_utc": "2026-11-20T00:26:25+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
@@ -233,13 +261,6 @@
             "published_utc": "2026-11-19T09:20:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Java4Shell Exploitation Attempts Begin as Vendors Rush Out Advisories",
-            "link": "https://www.securityweek.com/java4shell-exploitation-attempts-begin-as-vendors-rush-out-advisories/",
-            "summary": "",
-            "published_utc": "2026-11-19T09:10:58+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Vulnerability management: The cybersecurity industry is still solving the wrong problem",
             "link": "https://www.csoonline.com/article/4250261/vulnerability-management-the-cybersecurity-industry-is-still-solving-the-wrong-problem.html",
@@ -345,13 +366,6 @@
             "published_utc": "2026-11-18T16:24:20+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
-            "link": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/",
-            "summary": "Attackers are using deepfakes, helpdesk impersonation, and fake IT support requests to deceive employees and gain unauthorized access to corporate sys...",
-            "published_utc": "2026-11-18T15:00:10+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Most SecOps Leaders Are Changing the L1 Role as Agent Use Grows",
             "link": "https://www.infosecurity-magazine.com/news/secops-changing-l1-role-as-agent/",
@@ -419,6 +433,13 @@
             "title": "Three AI Models Agree on Just One of 121 Potential Code Flaws",
             "link": "https://www.infosecurity-magazine.com/news/ai-models-vulnerability-findings/",
             "summary": "Echo tested Claude Mythos, GPT-5.6 Sol and GLM-5.3 on the same code and found little overlap",
+            "published_utc": "2026-11-18T10:00:00+00:00"
+        },
+        {
+            "source": "WeLiveSecurity",
+            "title": "Who was that trying to phone me just now? How one-ring phone scams work",
+            "link": "https://www.welivesecurity.com/en/scams/who-was-trying-phone-how-one-ring-phone-scams-work/",
+            "summary": "Sometimes it only takes one ring to get your attention – here’s how to keep “wangiri” scammers at bay",
             "published_utc": "2026-11-18T10:00:00+00:00"
         },
         {
@@ -730,13 +751,6 @@
             "published_utc": "2026-11-14T01:39:15+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "Thousands of GitHub repos hit with secret-stealing malware",
-            "link": "https://www.csoonline.com/article/4248672/thousands-of-github-repos-hit-with-secret-stealing-malware.html",
-            "summary": "",
-            "published_utc": "2026-11-13T23:53:42+00:00"
-        },
-        {
             "source": "Schneier",
             "title": "Friday Squid Blogging: Pacific Flying Squid Populations Dropping in Korean Waters",
             "link": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-pacific-flying-squid-populations-dropping-in-korean-waters.html",
@@ -749,13 +763,6 @@
             "link": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
             "summary": "The company says a bad update—not a cyberattack or AI—caused its servers around the world to crash.",
             "published_utc": "2026-11-13T19:08:57+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "How AI is changing the nature of cyberattacks",
-            "link": "https://www.csoonline.com/article/4248553/how-ai-is-changing-the-nature-of-cyberattacks.html",
-            "summary": "",
-            "published_utc": "2026-11-13T19:02:39+00:00"
         },
         {
             "source": "WIRED Security",
@@ -3290,13 +3297,6 @@
             "link": "https://www.welivesecurity.com/en/kids-online/children-selfies-online/",
             "summary": "When it comes to our children’s digital lives, prohibition rarely works. It’s our responsibility to help them build a healthy relationship with tech.",
             "published_utc": "2026-02-17T10:00:00+00:00"
-        },
-        {
-            "source": "WeLiveSecurity",
-            "title": "Naming and shaming: How ransomware groups tighten the screws on victims",
-            "link": "https://www.welivesecurity.com/en/ransomware/naming-shaming-ransomware-groups-tighten-screws-victims/",
-            "summary": "When corporate data is exposed on a dedicated leak site, the consequences linger long after the attack fades from the news cycle",
-            "published_utc": "2026-02-12T10:00:00+00:00"
         },
         {
             "source": "Threatpost",
