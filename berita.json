@@ -1,6 +1,146 @@
 {
-    "lastUpdatedUTC": "2026-11-20T08:08:36.812983+00:00",
+    "lastUpdatedUTC": "2026-11-20T17:35:51.398445+00:00",
     "articles": [
+        {
+            "source": "ZDNet Security",
+            "title": "Signal to restrict screenshots over AI agent concerns – again",
+            "link": "https://www.zdnet.com/innovation/signal-restricts-screenshots-over-ai-agent-concerns/",
+            "summary": "The messaging app similarly limited screenshots because of Microsoft Recall last year.",
+            "published_utc": "2026-11-20T17:03:37+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "JPMorgan Confirms Customer Data Breach Following Third-Party Compromise",
+            "link": "https://www.infosecurity-magazine.com/news/jpmorgan-data-breach-third-party/",
+            "summary": "Ransomware actor N0n has claimed attacks on JPMorgan, Visa and Mastercard, reportedly leaking customer data on its dark web site",
+            "published_utc": "2026-11-20T16:15:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign",
+            "link": "https://www.securityweek.com/whatsapp-fixes-flaw-uncovered-while-disrupting-scam-campaign/",
+            "summary": "",
+            "published_utc": "2026-11-20T16:01:02+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
+            "link": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
+            "summary": "J.P. Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers' personal information and m...",
+            "published_utc": "2026-11-20T15:58:06+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Still tracking company passwords in spreadsheets? You’re flying blind.",
+            "link": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/",
+            "summary": "Tracking company passwords in spreadsheets can leave IT administrators unaware of weak, reused, or compromised credentials stored and shared outside a...",
+            "published_utc": "2026-11-20T15:00:10+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "In Other News: Norwegian Energy Firm Cyberattacks, Supercomputer Hack, New Nightmare Eclipse Exploit",
+            "link": "https://www.securityweek.com/in-other-news-norwegian-energy-firm-cyberattacks-supercomputer-hack-new-nightmare-eclipse-exploit/",
+            "summary": "",
+            "published_utc": "2026-11-20T14:56:23+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Ransomware Recovery Takes 20 Days for the Typical Victim, Report Finds",
+            "link": "https://www.infosecurity-magazine.com/news/ransomware-recovery-20-days/",
+            "summary": "A new Rubrik report has shown that ransomware victims face 20-day median recovery time, with 28% of recovery cases taking longer than six weeks",
+            "published_utc": "2026-11-20T14:15:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "N-able says recent security breach led to major service outage",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/",
+            "summary": "N-able says attackers who breached one of its servers have caused a major outage affecting Mail Assure and SpamExperts Hosted Cloud services worldwide...",
+            "published_utc": "2026-11-20T13:18:36+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Industry Reactions to Major Outages and AI Patching Debate: Feedback Friday",
+            "link": "https://www.securityweek.com/industry-reactions-to-major-outages-and-ai-patching-questions-feedback-friday/",
+            "summary": "",
+            "published_utc": "2026-11-20T12:38:55+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Microsoft now automatically installs Windows 11 26H2 on unmanaged devices",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs/",
+            "summary": "Starting this week, Microsoft has begun automatically upgrading eligible devices that aren't managed by an IT department to Windows 11 26H2. [...]",
+            "published_utc": "2026-11-20T12:14:28+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Opening a 400-Year-Old Cryptex",
+            "link": "https://www.schneier.com/blog/archives/2026/11/opening-a-400-year-old-cryptex.html",
+            "summary": "",
+            "published_utc": "2026-11-20T12:04:46+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Mail Bombing Attacks Fuel IT Helpdesk Impersonation Scams",
+            "link": "https://www.infosecurity-magazine.com/news/mail-bombing-attacks-it-helpdesk/",
+            "summary": "Researchers have uncovered a large-scale campaign in which attackers flood inboxes with emails before impersonating IT helpdesk staff to gain access t...",
+            "published_utc": "2026-11-20T11:55:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "SBC Medical Group Data Breach Impacts Over 2 Million",
+            "link": "https://www.securityweek.com/sbc-medical-group-data-breach-impacts-over-2-million/",
+            "summary": "",
+            "published_utc": "2026-11-20T11:36:51+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "F5 releases emergency patches for critical BIG-IP RCE flaws",
+            "link": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/",
+            "summary": "US cybersecurity company F5 warned customers to patch five critical BIG-IP vulnerabilities that attackers can exploit to trigger denial-of-service (Do...",
+            "published_utc": "2026-11-20T10:57:43+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "European Commission Confirms AI-Assisted Cyberattack Disrupted Services",
+            "link": "https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/",
+            "summary": "",
+            "published_utc": "2026-11-20T10:51:42+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE",
+            "link": "https://www.securityweek.com/ruby-patches-ruby2shell-vulnerability-that-could-lead-to-rce/",
+            "summary": "",
+            "published_utc": "2026-11-20T10:34:10+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Windows 11 KB5132057 update released with 28 changes and fixes",
+            "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/",
+            "summary": "Microsoft released the KB5132057 November Windows 11 preview update, which comes with 28 changes, including improvements to Windows Search, Windows He...",
+            "published_utc": "2026-11-20T09:25:35+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "N-able Blames Service Disruption on Cyberattack",
+            "link": "https://www.securityweek.com/n-able-blames-service-disruption-on-cyberattack/",
+            "summary": "",
+            "published_utc": "2026-11-20T09:08:35+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Suspected North Korea-Aligned Group Hides C2 on Solana Blockchain",
+            "link": "https://www.infosecurity-magazine.com/news/overlord-rat-solana-blockchain-c2/",
+            "summary": "Cisco Talos tied a RAT that hides C2 on Solana and survives Windows resets to UAT-12643",
+            "published_utc": "2026-11-20T09:00:00+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Do AI’s mathematical advances put PKI under threat?",
+            "link": "https://www.csoonline.com/article/4248694/do-ais-mathematical-advances-put-pki-under-threat.html",
+            "summary": "",
+            "published_utc": "2026-11-20T08:25:00+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "JPMorgan, Visa, Mastercard Cite Third-Party Incidents Amid Data Leak",
@@ -142,13 +282,6 @@
             "published_utc": "2026-11-19T14:45:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Nvidia Responds to Gentlemen Ransomware Claim",
-            "link": "https://www.securityweek.com/nvidia-responds-to-gentlemen-ransomware-claim/",
-            "summary": "",
-            "published_utc": "2026-11-19T14:17:32+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "The Flipper One is more than a Zero 2.0 – it’s a $399 Linux computer with a $13M Kickstarter",
             "link": "https://www.zdnet.com/tech/flipper-one-cost-features-linux-computer-kickstarter/",
@@ -156,39 +289,11 @@
             "published_utc": "2026-11-19T13:28:20+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Hackers Exploit Cisco Expressway Vulnerability Soon After PoC Release",
-            "link": "https://www.securityweek.com/hackers-exploit-cisco-expressway-vulnerability-soon-after-poc-release/",
-            "summary": "",
-            "published_utc": "2026-11-19T13:12:20+00:00"
-        },
-        {
             "source": "BleepingComputer",
             "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
             "link": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/",
             "summary": "The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites. [...]",
             "published_utc": "2026-11-19T13:08:08+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "StepSecurity Secures $20 Million to Expand Supply Chain Protection",
-            "link": "https://www.securityweek.com/stepsecurity-secures-20-million-to-expand-supply-chain-protection/",
-            "summary": "",
-            "published_utc": "2026-11-19T12:23:34+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Critical Apache Roller, Axis Vulnerabilities Exploited in Attacks",
-            "link": "https://www.securityweek.com/critical-apache-roller-axis-vulnerabilities-exploited-in-attacks/",
-            "summary": "",
-            "published_utc": "2026-11-19T12:13:24+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "The Governance Gap in Open-Weight AI and What to Do About It",
-            "link": "https://www.securityweek.com/the-governance-gap-in-open-weight-ai-and-what-to-do-about-it/",
-            "summary": "",
-            "published_utc": "2026-11-19T12:00:00+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -219,39 +324,11 @@
             "published_utc": "2026-11-19T11:35:00+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "Splunk Patches Nearly 140 Flaws Across Three Core Products",
-            "link": "https://www.securityweek.com/splunk-patches-nearly-140-flaws-across-three-core-products/",
-            "summary": "",
-            "published_utc": "2026-11-19T10:41:05+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft confirms app installation, launch issues after hotpatch",
-            "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/",
-            "summary": "Microsoft has shared a workaround for installation and launch issues affecting Office and third-party applications after installing this month's Windo...",
-            "published_utc": "2026-11-19T10:35:05+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "A Fifth of UK Employees Share Passwords with AI",
             "link": "https://www.infosecurity-magazine.com/news/fifth-uk-employees-share-passwords/",
             "summary": "Dashlane research reveals UK workers are sharing passwords with AI tools and granting access to sensitive data, raising major enterprise security conc...",
             "published_utc": "2026-11-19T10:30:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "F5 Patches Critical NGINX2Root Flaws as PoC Exploits Go Public",
-            "link": "https://www.securityweek.com/f5-patches-critical-nginx2root-flaws-as-poc-exploits-go-public/",
-            "summary": "",
-            "published_utc": "2026-11-19T10:26:51+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "NVIDIA investigating Gentlemen ransomware breach claims",
-            "link": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/",
-            "summary": "NVIDIA is investigating claims of a security breach after the Gentlemen ransomware group has added the company to its dark web data leak site. [...]",
-            "published_utc": "2026-11-19T09:23:21+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -268,6 +345,13 @@
             "published_utc": "2026-11-19T09:00:00+00:00"
         },
         {
+            "source": "WeLiveSecurity",
+            "title": "My IoT devices are no longer supported – is my smart home safe?",
+            "link": "https://www.welivesecurity.com/en/internet-of-things/iot-devices-no-longer-supported-smart-home-safe/",
+            "summary": "End-of-life smart devices can be a security risk if left unmanaged – here’s what to do instead",
+            "published_utc": "2026-11-19T08:00:00+00:00"
+        },
+        {
             "source": "CSO Online",
             "title": "AI unearths ‘internet breaker’ flaws in Nginx web server",
             "link": "https://www.csoonline.com/article/4250460/ai-unearths-internet-breaker-flaws-in-nginx-web-server.html",
@@ -275,32 +359,11 @@
             "published_utc": "2026-11-18T23:36:40+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
-            "link": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
-            "summary": "Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than $40....",
-            "published_utc": "2026-11-18T23:08:33+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
-            "link": "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/",
-            "summary": "Coinbase says it blocked $4.7 million in cryptocurrency transfers to scammers promoting a fake giveaway using an AI-generated deepfake of Elon Musk du...",
-            "published_utc": "2026-11-18T20:49:32+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "A new critical Java hole illustrates the enterprise IT visibility problem",
             "link": "https://www.csoonline.com/article/4250390/a-new-critical-java-hole-illustrates-the-enterprise-it-visibility-problem.html",
             "summary": "",
             "published_utc": "2026-11-18T20:39:16+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
-            "link": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/",
-            "summary": "A reported cyberattack on Wellington IT has exposed sensitive information belonging to members of 50 credit unions, the majority of which are located ...",
-            "published_utc": "2026-11-18T19:39:33+00:00"
         },
         {
             "source": "WIRED Security",
@@ -329,13 +392,6 @@
             "link": "https://www.zdnet.com/innovation/gemini-spark-tasks-free-personal-agent/",
             "summary": "At least if Tasks disappoints, it won’t cost you – unlike OpenAI and Anthropic’s subscription-based agents.",
             "published_utc": "2026-11-18T17:11:39+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Microsoft’s Agent Framework PyPI package compromised to steal credentials",
-            "link": "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/",
-            "summary": "Hackers compromised Microsoft's official Agent Framework Python package on PyPI, publishing two malicious versions designed to steal cloud credentials...",
-            "published_utc": "2026-11-18T16:58:42+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -646,13 +702,6 @@
             "published_utc": "2026-11-16T18:58:52+00:00"
         },
         {
-            "source": "ZDNet Security",
-            "title": "iPhone Duo 2 prototypes suggest Face ID, Action Button, other potential 2027 features",
-            "link": "https://www.zdnet.com/tech/apple-iphone-duo-2-face-id-upgrades-2027/",
-            "summary": "With manufacturing deadlines looming, it’s unclear which of several feature upgrades may have to wait until the foldable’s third generation.",
-            "published_utc": "2026-11-16T18:43:17+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Typosquatters Target New Brand Domains Within 24 Hours of Registration",
             "link": "https://www.infosecurity-magazine.com/news/typosquatters-target-new-brand/",
@@ -742,13 +791,6 @@
             "link": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
             "summary": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.",
             "published_utc": "2026-11-14T13:00:00+00:00"
-        },
-        {
-            "source": "CSO Online",
-            "title": "The firewall becomes the foothold: Attackers turn Check Point gateways against customers",
-            "link": "https://www.csoonline.com/article/4248693/the-firewall-becomes-the-foothold-attackers-turn-check-point-gateways-against-customers.html",
-            "summary": "",
-            "published_utc": "2026-11-14T01:39:15+00:00"
         },
         {
             "source": "Schneier",
@@ -1029,13 +1071,6 @@
             "link": "https://www.infosecurity-magazine.com/news/email-sega-customers-vendor-breach/",
             "summary": "Gaming company Sega warned customers to be vigilant for suspicious emails after hackers compromised Japanese email delivery provider Arara",
             "published_utc": "2026-11-09T13:31:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "AI Security",
-            "link": "https://www.schneier.com/blog/archives/2026/11/ai-security.html",
-            "summary": "",
-            "published_utc": "2026-11-09T12:05:39+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -2802,34 +2837,6 @@
             "published_utc": "2026-09-15T13:45:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "AI the Top Priority for New Spend as Cyber Budgets Flatline",
-            "link": "https://www.infosecurity-magazine.com/news/ai-top-priority-new-spend-cyber/",
-            "summary": "IANS finds AI is dominating net-new budgets even as overall funding for the function is flat",
-            "published_utc": "2026-09-15T13:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Microsoft Releases Emergency Patch to Fix RDS Vulnerability",
-            "link": "https://www.infosecurity-magazine.com/news/microsoft-releases-emergency-patch/",
-            "summary": "Microsoft has been forced to issue an out-of-band fix for several issues stemming from this month’s Patch Tuesday",
-            "published_utc": "2026-09-15T08:40:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Malicious Twitch Extension Exposes 31,000 Users' OAuth Tokens",
-            "link": "https://www.infosecurity-magazine.com/news/malicious-twitch-extension-oauth/",
-            "summary": "Socket has discovered a Twitch browser extension forwarding users' OAuth tokens to a Russian bot service",
-            "published_utc": "2026-09-14T15:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "Human Attacker Hits Machine-Speed Exploitation of Marimo RCE",
-            "link": "https://www.infosecurity-magazine.com/news/human-attacker-machine-speed/",
-            "summary": "A human attacker exploited a Marimo RCE and reached an SSH bastion in eight seconds",
-            "published_utc": "2026-09-14T14:15:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "GuardBreaker: Derailing AI-assisted malware analysis with a code comment",
             "link": "https://www.welivesecurity.com/en/business-security/guardbreaker-derailing-ai-assisted-malware-analysis-code-comment/",
@@ -3290,13 +3297,6 @@
             "link": "https://www.welivesecurity.com/en/scams/poshmark-safe-buy-sell-scammed/",
             "summary": "Like any other marketplace, the social commerce platform has its share of red flags. It pays to know what to look for so you can shop or sell without ...",
             "published_utc": "2026-02-19T07:21:48+00:00"
-        },
-        {
-            "source": "WeLiveSecurity",
-            "title": "Is it OK to let your children post selfies online?",
-            "link": "https://www.welivesecurity.com/en/kids-online/children-selfies-online/",
-            "summary": "When it comes to our children’s digital lives, prohibition rarely works. It’s our responsibility to help them build a healthy relationship with tech.",
-            "published_utc": "2026-02-17T10:00:00+00:00"
         },
         {
             "source": "Threatpost",
