@@ -1,6 +1,27 @@
 {
-    "lastUpdatedUTC": "2026-11-21T05:57:27.722851+00:00",
+    "lastUpdatedUTC": "2026-11-21T14:28:22.875633+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "FBI reportedly hacked again, this time targeting nationwide police database",
+            "link": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
+            "summary": "FBI systems have reportedly been breached for the second time in two months, this time targeting the agency's National Crime Information Center (NCIC)...",
+            "published_utc": "2026-11-21T14:26:04+00:00"
+        },
+        {
+            "source": "WIRED Security",
+            "title": "The Outages Are Just Getting Started",
+            "link": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+            "summary": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
+            "published_utc": "2026-11-21T13:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day",
+            "link": "https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/",
+            "summary": "",
+            "published_utc": "2026-11-21T12:08:50+00:00"
+        },
         {
             "source": "CSO Online",
             "title": "PHP2Shell aftershock: 18 more PHP flaws put enterprise web admins on alert",
@@ -282,13 +303,6 @@
             "published_utc": "2026-11-19T16:28:23+00:00"
         },
         {
-            "source": "SecurityWeek",
-            "title": "PHP Patches Seven Critical RCE Vulnerabilities",
-            "link": "https://www.securityweek.com/php-patches-seven-critical-rce-vulnerabilities/",
-            "summary": "",
-            "published_utc": "2026-11-19T15:54:20+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "CyberPower PowerPanel Exploited to Run Malicious Code on Domain Controller",
             "link": "https://www.infosecurity-magazine.com/news/ups-software-abused-domain/",
@@ -308,13 +322,6 @@
             "link": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
             "summary": "Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis ...",
             "published_utc": "2026-11-19T15:00:10+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers",
-            "link": "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/",
-            "summary": "Two critical NGINX vulnerabilities dubbed \"nginx2root\" allow unauthenticated attackers to execute code remotely on vulnerable web servers, with resear...",
-            "published_utc": "2026-11-19T14:57:24+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -1763,13 +1770,6 @@
             "title": "Symantec Uncovers AI Agent Hijacking Models for Autonomous Cyber-Attacks",
             "link": "https://www.infosecurity-magazine.com/news/symantec-ai-agent-llmjacking/",
             "summary": "Researchers at Symantec have uncovered an AI agent designed to operate a full cyber-attack without human intervention",
-            "published_utc": "2026-10-21T14:00:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "AI Guardrails Aren’t Stopping Criminal Hackers",
-            "link": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
-            "summary": "Hackers around the world are all-in on using agentic AI to wage attacks—and manipulating tools like Anthropic’s Claude to help them carry out their cr...",
             "published_utc": "2026-10-21T14:00:00+00:00"
         },
         {
