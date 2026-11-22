@@ -1,6 +1,20 @@
 {
-    "lastUpdatedUTC": "2026-11-21T20:47:34.564961+00:00",
+    "lastUpdatedUTC": "2026-11-22T00:59:24.346923+00:00",
     "articles": [
+        {
+            "source": "SecurityWeek",
+            "title": "FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says",
+            "link": "https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/",
+            "summary": "",
+            "published_utc": "2026-11-22T00:53:02+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
+            "link": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
+            "summary": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized...",
+            "published_utc": "2026-11-21T22:59:58+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
@@ -266,20 +280,6 @@
             "link": "https://www.csoonline.com/article/4251012/critical-flaw-in-vmware-vcenter-allows-authentication-bypass-2.html",
             "summary": "",
             "published_utc": "2026-11-19T21:07:25+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT",
-            "link": "https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt/",
-            "summary": "",
-            "published_utc": "2026-11-19T19:21:06+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Transport for London breach exposes 265,000 Oyster card users' data",
-            "link": "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/",
-            "summary": "Transport for London (TfL) has announced that around 265,000 Oyster photocard customers may have had their account details exposed in a data breach. [...",
-            "published_utc": "2026-11-19T18:20:01+00:00"
         },
         {
             "source": "ZDNet Security",
