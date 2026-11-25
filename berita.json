@@ -1,6 +1,41 @@
 {
-    "lastUpdatedUTC": "2026-11-24T19:59:31.397375+00:00",
+    "lastUpdatedUTC": "2026-11-25T03:29:40.495307+00:00",
     "articles": [
+        {
+            "source": "WIRED Security",
+            "title": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
+            "link": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/",
+            "summary": "Nvidia’s place at the center of the US economy may have outweighed concerns about its CEO’s ties to a suspected Chinese intelligence asset, national s...",
+            "published_utc": "2026-11-24T23:39:04+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says",
+            "link": "https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/",
+            "summary": "",
+            "published_utc": "2026-11-24T22:41:58+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Rackspace shuts down Spot cloud platform after security breach",
+            "link": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
+            "summary": "Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secret...",
+            "published_utc": "2026-11-24T21:37:30+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "I gave Gemini access to my Wallet, and it immediately started saving me money",
+            "link": "https://www.zdnet.com/innovation/gemini-wallet-personal-intelligence/",
+            "summary": "Gemini gave me a little tough love and told me what I needed to hear about my finances.",
+            "published_utc": "2026-11-24T20:38:08+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "New Inception extortion gang launches large-scale vishing campaign",
+            "link": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
+            "summary": "A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multi...",
+            "published_utc": "2026-11-24T20:21:20+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Turnitin discloses cyberattack affecting customer-facing systems",
@@ -247,13 +282,6 @@
             "published_utc": "2026-11-23T17:22:27+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards",
-            "link": "https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/",
-            "summary": "A cyberattack disrupted operations at B2B top-up solutions provider GlobeTopper, causing an estimated $2.5 million in lost revenue, while the attacker...",
-            "published_utc": "2026-11-23T16:50:01+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "Bots Hide Behind AI Agent Names to Hunt for Secrets",
             "link": "https://www.infosecurity-magazine.com/news/secrethunting-trafficai-agent/",
@@ -273,20 +301,6 @@
             "link": "https://www.infosecurity-magazine.com/news/crowdstrike-to-acquire-zscaler/",
             "summary": "CrowdStrike's proposed $43.9bn acquisition of Zscaler would add network security capabilities to its portfolio and bring together two major cybersecur...",
             "published_utc": "2026-11-23T15:15:00+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack",
-            "link": "https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/",
-            "summary": "",
-            "published_utc": "2026-11-23T15:06:49+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "AI Agents Are Creating a Shared Responsibility Gap",
-            "link": "https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/",
-            "summary": "AI agents operate across multiple platforms, creating security gaps when no single vendor can see or control their actions. Token Security examines th...",
-            "published_utc": "2026-11-23T15:00:10+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -784,13 +798,6 @@
             "link": "https://www.zdnet.com/innovation/microsoft-ai-coding-model-rivals-claude-opus-5-5-ignite/",
             "summary": "Microsoft announced two new AI models at Ignite 2026 that promise impressive performance for much lower cost. They could reshape its relationship with...",
             "published_utc": "2026-11-17T22:42:44+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Goodbye, Gemini Gems: How to use Google’s new Skills – and share them",
-            "link": "https://www.zdnet.com/business/gemini-gems-google-skills-transition/",
-            "summary": "Google is retiring Gemini Gems. Here’s what to do to access the same tools as Skills.",
-            "published_utc": "2026-11-17T19:54:04+00:00"
         },
         {
             "source": "WIRED Security",
@@ -1764,13 +1771,6 @@
             "link": "https://www.infosecurity-magazine.com/news/php-publishes-mitigation-advice/",
             "summary": "PHP warns of critical RCE vulnerability CVE-2026-115560, but says limited exploit conditions mean most deployments are unlikely to be affected",
             "published_utc": "2026-10-26T09:15:00+00:00"
-        },
-        {
-            "source": "WIRED Security",
-            "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
-            "link": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
-            "summary": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
-            "published_utc": "2026-10-24T12:00:00+00:00"
         },
         {
             "source": "InfosecurityMag",
