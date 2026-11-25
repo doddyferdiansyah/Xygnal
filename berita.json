@@ -1,6 +1,97 @@
 {
-    "lastUpdatedUTC": "2026-11-25T13:58:05.213054+00:00",
+    "lastUpdatedUTC": "2026-11-25T23:00:46.443276+00:00",
     "articles": [
+        {
+            "source": "BleepingComputer",
+            "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
+            "summary": "Threat actors are chaining exploits for the PHP2Shell and Fragnesia vulnerabilities to target Palo Alto Networks devices with management interfaces ex...",
+            "published_utc": "2026-11-25T22:05:09+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "1Password customer data stolen after employee GitHub account breach",
+            "link": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
+            "summary": "1Password has disclosed a data breach after a an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's bac...",
+            "published_utc": "2026-11-25T21:33:33+00:00"
+        },
+        {
+            "source": "CSO Online",
+            "title": "Broadcom issues fixes for 23 new VMware flaws, three critical",
+            "link": "https://www.csoonline.com/article/4253329/broadcom-issues-fixes-for-23-new-vmware-flaws-three-critical.html",
+            "summary": "",
+            "published_utc": "2026-11-25T20:07:57+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
+            "link": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
+            "summary": "Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical infrast...",
+            "published_utc": "2026-11-25T19:39:31+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "You can turn Claude artifacts into Windows and Mac apps now – here’s how",
+            "link": "https://www.zdnet.com/innovation/claude-artifacts-desktop-apps-mac-windows/",
+            "summary": "Anthropic’s new ‘install as app’ feature makes it easy to turn your Claude artifacts into desktop apps on your computer – with some limitations.",
+            "published_utc": "2026-11-25T18:54:05+00:00"
+        },
+        {
+            "source": "ZDNet Security",
+            "title": "Gen Z is the least interested in AI at work – and it’s not even close",
+            "link": "https://www.zdnet.com/innovation/gen-z-employees-ai-survey/",
+            "summary": "Younger workers don’t find AI useful, according to a recent survey.",
+            "published_utc": "2026-11-25T18:07:00+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/",
+            "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning about a critical vulnerability in Danfoss AK-SM 8xxA Series controllers us...",
+            "published_utc": "2026-11-25T16:13:40+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "US Anti-Scam Surge Hits 800 Defendants and 29 Scam Compounds",
+            "link": "https://www.infosecurity-magazine.com/news/doj-anti-scam-surge-800-defendants/",
+            "summary": "DOJ's anti-scam surge has targeted over 800 defendants while the FBI has hit over 29 scam compounds",
+            "published_utc": "2026-11-25T16:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "Two Newly Disclosed GeoServer Vulnerabilities Under Attack",
+            "link": "https://www.securityweek.com/two-newly-disclosed-geoserver-vulnerabilities-under-attack/",
+            "summary": "",
+            "published_utc": "2026-11-25T15:27:36+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "More Pentests Without More Pentesters: Where AI Safely Helps",
+            "link": "https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/",
+            "summary": "Penetration testers spend a significant portion of their engagements on documentation, reporting, and other tasks outside of testing. PentestPad expla...",
+            "published_utc": "2026-11-25T15:00:10+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "InfraTrust warns of exploited supply chain flaws in network appliances",
+            "link": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/",
+            "summary": "Eclypsium's November InfraTrust report warns that most infrastructure security advisories addressing exploited vulnerabilities over the past month inv...",
+            "published_utc": "2026-11-25T15:00:00+00:00"
+        },
+        {
+            "source": "InfosecurityMag",
+            "title": "Palo Alto Fixes Fragnesia Kernel Bug Chained With PHP2Shell in Firewall Attacks",
+            "link": "https://www.infosecurity-magazine.com/news/palo-alto-fragnesia-php2shell-fix/",
+            "summary": "Palo Alto fixed Fragnesia after attackers chained it with PHP2Shell to root firewalls",
+            "published_utc": "2026-11-25T15:00:00+00:00"
+        },
+        {
+            "source": "SecurityWeek",
+            "title": "ShinyHunters Claims Comeback, New Inception Group Rejects Alleged Ties",
+            "link": "https://www.securityweek.com/shinyhunters-claims-comeback-new-inception-group-rejects-alleged-ties/",
+            "summary": "",
+            "published_utc": "2026-11-25T14:15:25+00:00"
+        },
         {
             "source": "SecurityWeek",
             "title": "US Treasury’s FinCEN Disconnects Systems Following Cyber Incident",
@@ -219,55 +310,6 @@
             "published_utc": "2026-11-24T16:30:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "European Commission confirms data theft in EU Academy breach",
-            "link": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
-            "summary": "The European Commission, the European Union's main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole ...",
-            "published_utc": "2026-11-24T16:22:44+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Hackers compromise Check Point Servers in 22 organizations",
-            "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/",
-            "summary": "Threat actors have exploited multiple vulnerabilities to compromise two dozen Check Point Security management servers in an ongoing campaign targeting...",
-            "published_utc": "2026-11-24T16:15:23+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Police disrupt 57 illegal streaming services with 7.3 million visits",
-            "link": "https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/",
-            "summary": "Law enforcement authorities from 11 countries have disrupted 57 illegal streaming services that operated hundreds of websites and drew over 7.3 millio...",
-            "published_utc": "2026-11-24T15:10:10+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "From Vulnerability Noise to Resilience: Rethinking Security in the AI Era",
-            "link": "https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/",
-            "summary": "AI-driven development is adding complexity to software supply chains, leaving security teams overwhelmed by vulnerabilities that may pose little actua...",
-            "published_utc": "2026-11-24T15:01:11+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "European Commission Uncovers Data Breach in Cyberattack Investigation",
-            "link": "https://www.securityweek.com/european-commission-uncovers-data-breach-in-cyberattack-investigation/",
-            "summary": "",
-            "published_utc": "2026-11-24T14:49:59+00:00"
-        },
-        {
-            "source": "SecurityWeek",
-            "title": "Check Point Security Management Servers Hacked in AI-Assisted Campaign",
-            "link": "https://www.securityweek.com/check-point-security-management-servers-hacked-in-ai-assisted-campaign/",
-            "summary": "",
-            "published_utc": "2026-11-24T14:21:56+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "McDonald's Japan data breach exposes customer location information",
-            "link": "https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/",
-            "summary": "McDonald's Japan, the fast-food giant's Japanese subsidiary, has disclosed a data breach after attackers accessed a database containing sensitive info...",
-            "published_utc": "2026-11-24T14:09:37+00:00"
-        },
-        {
             "source": "ZDNet Security",
             "title": "Disney+ and Hulu are 61% off for a year with this Black Friday deal – how to get it",
             "link": "https://www.zdnet.com/home-and-office/disney-plus-hulu-black-friday-deal-2026/",
@@ -280,13 +322,6 @@
             "link": "https://www.infosecurity-magazine.com/news/ai-agent-risks-face-action-fca/",
             "summary": "The FCA said financial organizations must provide effective oversight and governance controls for AI agents, amid rising deployment in the sector",
             "published_utc": "2026-11-24T13:45:00+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
-            "link": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/",
-            "summary": "OpenAI and Cisco launched an open-source Linux security tool named Shirudo that deploys temporary runtime protections to block vulnerability exploitat...",
-            "published_utc": "2026-11-24T13:34:23+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -821,13 +856,6 @@
             "published_utc": "2026-11-18T09:30:00+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "The resilience gap: Why cybersecurity investment alone is not enough",
-            "link": "https://www.csoonline.com/article/4249721/the-resilience-gap-why-cybersecurity-investment-alone-is-not-enough.html",
-            "summary": "",
-            "published_utc": "2026-11-18T09:00:00+00:00"
-        },
-        {
             "source": "KrebsOnSecurity",
             "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
             "link": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
@@ -840,20 +868,6 @@
             "link": "https://www.zdnet.com/innovation/microsoft-copilot-workspaces-ignite-2026/",
             "summary": "The company also released new ROI tracking tools for companies monitoring their AI spend.",
             "published_utc": "2026-11-17T23:14:05+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Microsoft wants to put a dollar value on AI’s work – but can you trust the math?",
-            "link": "https://www.zdnet.com/innovation/microsoft-agent-365-business-analytics-ignite/",
-            "summary": "With Agent 365 Business Analytics, Microsoft could reshape enterprise spending, but there’s a critical difference between estimated value and money sa...",
-            "published_utc": "2026-11-17T23:05:48+00:00"
-        },
-        {
-            "source": "ZDNet Security",
-            "title": "Microsoft says its new AI coding model rivals Claude Opus 5.5 at 5% of the cost",
-            "link": "https://www.zdnet.com/innovation/microsoft-ai-coding-model-rivals-claude-opus-5-5-ignite/",
-            "summary": "Microsoft announced two new AI models at Ignite 2026 that promise impressive performance for much lower cost. They could reshape its relationship with...",
-            "published_utc": "2026-11-17T22:42:44+00:00"
         },
         {
             "source": "WIRED Security",
@@ -2795,25 +2809,11 @@
             "published_utc": "2026-09-21T09:30:00+00:00"
         },
         {
-            "source": "InfosecurityMag",
-            "title": "Revolut Customers Targeted with New Wave of Phishing Attacks",
-            "link": "https://www.infosecurity-magazine.com/news/revolut-customers-targeted-wave/",
-            "summary": "Following a major data breach, Revolut customers are being sent convincing phishing messages",
-            "published_utc": "2026-09-21T09:00:00+00:00"
-        },
-        {
             "source": "WeLiveSecurity",
             "title": "The SMB cybersecurity squeeze: AI agents at work, old attacks in overdrive",
             "link": "https://www.welivesecurity.com/en/business-security/smb-cybersecurity-squeeze-ai-agents-work-old-attacks-overdrive/",
             "summary": "As AI opens new paths to company data while making familiar attacks faster and cheaper, SMBs need protection designed around the time and expertise av...",
             "published_utc": "2026-09-21T09:00:00+00:00"
-        },
-        {
-            "source": "InfosecurityMag",
-            "title": "New Settra Ransomware Variant Deployed in Attacks on Retail and Manufacturing",
-            "link": "https://www.infosecurity-magazine.com/news/settra-ransomware-retail/",
-            "summary": "Huntress researchers highlighted a new ransomware variant, named Settra, and the post-compromise techniques used in two recent attacks",
-            "published_utc": "2026-09-18T13:30:00+00:00"
         },
         {
             "source": "WeLiveSecurity",
