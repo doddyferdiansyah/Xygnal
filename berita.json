@@ -1,6 +1,62 @@
 {
-    "lastUpdatedUTC": "2026-11-27T11:50:31.776088+00:00",
+    "lastUpdatedUTC": "2026-11-27T20:46:29.170908+00:00",
     "articles": [
+        {
+            "source": "CSO Online",
+            "title": "Flaw in Linux NFS file sharing exposes servers to remote takeover",
+            "link": "https://www.csoonline.com/article/4254114/flaw-in-linux-nfs-file-sharing-exposes-servers-to-remote-takeover.html",
+            "summary": "",
+            "published_utc": "2026-11-27T20:43:35+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "pCloud confirms password manager hack after suspicious login alerts",
+            "link": "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/",
+            "summary": "The pCloud Pass password manager suffered a cyberattack, with users reporting that unknown devices had connected to their accounts even with two-facto...",
+            "published_utc": "2026-11-27T19:26:04+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "New Boston Scientific data breach exposes personal, medical info",
+            "link": "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/",
+            "summary": "Medical technology company Boston Scientific is sending data breach notices to individuals affected by a cyberattack on the firm. [...]",
+            "published_utc": "2026-11-27T18:57:42+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Unpatched Cacti zero-day with public PoC gives remote code execution",
+            "link": "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/",
+            "summary": "A zero-day vulnerability in the Cacti network monitoring platform has been publicly disclosed, along with a proof-of-concept exploit that lets unauthe...",
+            "published_utc": "2026-11-27T17:06:13+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "US Air Force cloud platform reportedly hacked in latest federal breach",
+            "link": "https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/",
+            "summary": "Hackers have reportedly breached the US Air Force's Cloud One computing platform, adding to a recent wave of cyberattacks affecting US government agen...",
+            "published_utc": "2026-11-27T15:09:40+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Your Firewall Isn't Enough: The Hidden Risk of Unmanaged VMs",
+            "link": "https://www.bleepingcomputer.com/news/security/your-firewall-isnt-enough-the-hidden-risk-of-unmanaged-vms/",
+            "summary": "Forgotten virtual machines, unpatched servers, and excessive access permissions can create security blind spots across IT infrastructure. ISPsystem ex...",
+            "published_utc": "2026-11-27T15:00:10+00:00"
+        },
+        {
+            "source": "BleepingComputer",
+            "title": "Malwarebytes Antivirus: Get 50% off during Black Friday 2026",
+            "link": "https://www.bleepingcomputer.com/news/security/malwarebytes-antivirus-get-50-percent-off-during-black-friday-2026/",
+            "summary": "Malwarebytes' 2026 Black Friday and Cyber Monday sale is now live, offering 50% off security subscriptions for individuals, families, and small busine...",
+            "published_utc": "2026-11-27T14:22:06+00:00"
+        },
+        {
+            "source": "Schneier",
+            "title": "Recent Outages Have Economic Causes",
+            "link": "https://www.schneier.com/blog/archives/2026/11/recent-outages-have-economic-causes.html",
+            "summary": "",
+            "published_utc": "2026-11-27T12:02:23+00:00"
+        },
         {
             "source": "BleepingComputer",
             "title": "Microsoft removes WSUS server role in Windows Server 2028",
@@ -170,13 +226,6 @@
             "published_utc": "2026-11-26T12:30:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "SYS010 malware abuses browser management to spy on Gmail, Outlook",
-            "link": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
-            "summary": "A new version of the SYS01 infostealer malware delivered through Meta ads is enrolling browsers into enterprise-style management to force the installa...",
-            "published_utc": "2026-11-26T11:50:17+00:00"
-        },
-        {
             "source": "SecurityWeek",
             "title": "Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks",
             "link": "https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/",
@@ -226,32 +275,11 @@
             "published_utc": "2026-11-26T08:32:10+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
-            "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
-            "summary": "Threat actors are chaining exploits for the PHP2Shell and Fragnesia vulnerabilities to target Palo Alto Networks devices with management interfaces ex...",
-            "published_utc": "2026-11-25T22:05:09+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "1Password customer data stolen after employee GitHub account breach",
-            "link": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
-            "summary": "1Password has disclosed a data breach after a an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's bac...",
-            "published_utc": "2026-11-25T21:33:33+00:00"
-        },
-        {
             "source": "CSO Online",
             "title": "Broadcom issues fixes for 23 new VMware flaws, three critical",
             "link": "https://www.csoonline.com/article/4253329/broadcom-issues-fixes-for-23-new-vmware-flaws-three-critical.html",
             "summary": "",
             "published_utc": "2026-11-25T20:07:57+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
-            "link": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
-            "summary": "Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical infrast...",
-            "published_utc": "2026-11-25T19:39:31+00:00"
         },
         {
             "source": "ZDNet Security",
@@ -268,13 +296,6 @@
             "published_utc": "2026-11-25T18:07:00+00:00"
         },
         {
-            "source": "BleepingComputer",
-            "title": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
-            "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/",
-            "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning about a critical vulnerability in Danfoss AK-SM 8xxA Series controllers us...",
-            "published_utc": "2026-11-25T16:13:40+00:00"
-        },
-        {
             "source": "InfosecurityMag",
             "title": "US Anti-Scam Surge Hits 800 Defendants and 29 Scam Compounds",
             "link": "https://www.infosecurity-magazine.com/news/doj-anti-scam-surge-800-defendants/",
@@ -287,13 +308,6 @@
             "link": "https://www.securityweek.com/two-newly-disclosed-geoserver-vulnerabilities-under-attack/",
             "summary": "",
             "published_utc": "2026-11-25T15:27:36+00:00"
-        },
-        {
-            "source": "BleepingComputer",
-            "title": "More Pentests Without More Pentesters: Where AI Safely Helps",
-            "link": "https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/",
-            "summary": "Penetration testers spend a significant portion of their engagements on documentation, reporting, and other tasks outside of testing. PentestPad expla...",
-            "published_utc": "2026-11-25T15:00:10+00:00"
         },
         {
             "source": "InfosecurityMag",
@@ -793,13 +807,6 @@
             "published_utc": "2026-11-18T23:36:40+00:00"
         },
         {
-            "source": "CSO Online",
-            "title": "A new critical Java hole illustrates the enterprise IT visibility problem",
-            "link": "https://www.csoonline.com/article/4250390/a-new-critical-java-hole-illustrates-the-enterprise-it-visibility-problem.html",
-            "summary": "",
-            "published_utc": "2026-11-18T20:39:16+00:00"
-        },
-        {
             "source": "WIRED Security",
             "title": "An AI Debt Collection Service Exposed 6.6 Million Accounts and 315,000 Call Recordings",
             "link": "https://www.wired.com/story/ai-debt-collection-service-exposed-66-million-accounts-and-315000-call-recordings/",
@@ -1064,13 +1071,6 @@
             "link": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
             "summary": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.",
             "published_utc": "2026-11-14T13:00:00+00:00"
-        },
-        {
-            "source": "Schneier",
-            "title": "Friday Squid Blogging: Pacific Flying Squid Populations Dropping in Korean Waters",
-            "link": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-pacific-flying-squid-populations-dropping-in-korean-waters.html",
-            "summary": "",
-            "published_utc": "2026-11-13T22:00:46+00:00"
         },
         {
             "source": "WIRED Security",
